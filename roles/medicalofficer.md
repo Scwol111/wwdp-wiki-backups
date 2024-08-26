@@ -2,7 +2,7 @@
 title: medicalofficer
 description: 
 published: true
-date: 2024-08-26T21:03:02.368Z
+date: 2024-08-26T21:10:16.250Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T21:00:49.269Z
@@ -12,7 +12,7 @@ dateCreated: 2024-08-26T21:00:49.269Z
 <div class="roles-passport med">
   <div class="title med "><a href="/roles">Медицинский Отдел</a></div>
   <div>
-    <div><div><img src="/role/chiefmedicalofficer.png"></div></div>
+    <div><div><img src="/roles/med/medicalofficer.png"></div></div>
   <div><div>
     <h1>Медицинский офицер</h1>
     <p><strong>Сложность:</strong> Сложная</p>
