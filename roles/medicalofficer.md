@@ -2,7 +2,7 @@
 title: medicalofficer
 description: 
 published: true
-date: 2024-08-26T21:00:49.269Z
+date: 2024-08-26T21:03:02.368Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T21:00:49.269Z
@@ -24,3 +24,9 @@ dateCreated: 2024-08-26T21:00:49.269Z
   </div>
 </div>
 </div>
+
+Медицинский офицер - сотрудник медицинского отдела, который должен обучать новичков своего отдела.
+
+**Минимальные требования:** Хорошо знать работу медицинского отдела. Обучать интернов. Помогать сотрудникам своего отдела.
+
+<h2 id="обучение" class="toc-header"><a href="#обучение" class="toc-anchor">¶</a> <center><span id="ШапкаХирурга" class="mw-headline"><span class="sprite"><a href="/ШапкаХирурга.png" class="image is-asset-link"><img alt="помощь.png" src="/шапкахирурга.png" align="center" decoding="async" width="" height="74" data-file-width="32" data-file-height="32"></a></span>Обучение</span></center></h2>
