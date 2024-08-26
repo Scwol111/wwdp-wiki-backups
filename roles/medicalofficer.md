@@ -1,8 +1,8 @@
 ---
-title: medicalofficer
+title: Медицинский офицер
 description: 
 published: true
-date: 2024-08-26T21:10:16.250Z
+date: 2024-08-26T21:11:34.857Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T21:00:49.269Z
