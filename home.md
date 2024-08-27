@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница вики
 published: true
-date: 2024-08-26T20:41:53.444Z
+date: 2024-08-27T17:44:07.550Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T08:23:18.734Z
