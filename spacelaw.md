@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T19:24:58.664Z
+date: 2024-08-28T19:26:22.158Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -74,14 +74,14 @@ dateCreated: 2024-08-25T11:19:25.641Z
         <th class="critical"><a href="#s604" style="color:#c5e7fa;">Вооруженный мятеж</a></th>
       </tr>
     <tr>
-      <th class="code">05</th>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"></th>
-      <th style="background-color:#a69b38; color:white;">Изготовление или владение самодельным оружием</th>
-      <th style="background-color:#b8863b; color:white;">Незаконное владение холодным или нелетальным оружием</th>
-      <th style="background-color:#b0653a; color:white;">Незаконное владение оружием</th>
-      <th style="background-color:#963535; color:white;">Незаконный оборот огнестрельным оружием</th>
-      <th class="critical"></th>
-    </tr>
+        <th class="code">05</th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s205"></a>Изготовление или владение самодельным оружием</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s305">Незаконное владение холодным или нелетальным оружием</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s405">Незаконное владение оружием</a></th>
+        <th style="background-color:#963535; color:white;"><a href="#s505">Незаконный оборот огнестрельным оружием</a></th>
+        <th class="critical"></th>
+      </tr>
     <tr>
       <th class="code">06</th>
       <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Мелкая кража</th>
