@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T19:06:52.302Z
+date: 2024-08-28T19:09:27.392Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -39,7 +39,7 @@ dateCreated: 2024-08-25T11:19:25.641Z
     </tr>
     <tr>
       <th class="code">01</th>
-      <th style="background-color:#698f43; color:white;">Побои</th>
+      <th style="background-color:#698f43; color:white;"><a href="#s101">Побои</a></th>
       <th style="background-color:#a69b38; color:white;">Легкие телесные повреждения</th>
       <th style="background-color:#b8863b; color:white;">Средние телесные повреждение</th>
       <th style="background-color:#b0653a; color:white;">Тяжкие телесные повреждения</th>
