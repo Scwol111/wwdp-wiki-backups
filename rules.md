@@ -2,7 +2,7 @@
 title: Правила
 description: 
 published: false
-date: 2024-08-28T17:32:26.942Z
+date: 2024-08-28T17:34:26.244Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:17:57.252Z
@@ -53,9 +53,7 @@ dateCreated: 2024-08-25T11:17:57.252Z
   <h1 id="правила-серверов" class="toc-header"><a href="#правила-серверов" class="toc-anchor">¶</a> Правила серверов</h1>
   <div class="tabset elevation-2">
   <ul role="tablist" class="tabset-tabs">
-    <li class="is-active" aria-selected="true" id="075e7c003a-0" role="tab" aria-controls="075e7c003a-0-tab" tabindex="0">Maiden</li>
-    <li class="" aria-selected="false" id="075e7c003a-1" role="tab" aria-controls="075e7c003a-1-tab" tabindex="0">Amour</li>
-    <li class="" aria-selected="false" id="075e7c003a-2" role="tab" aria-controls="075e7c003a-2-tab" tabindex="0">Engi</li>
+    <li class="is-active" aria-selected="true" id="075e7c003a-0" role="tab" aria-controls="075e7c003a-0-tab" tabindex="0">Medusa</li>
   </ul>
   <div class="tabset-content">
     <div class="tabset-panel is-active" id="075e7c003a-0-tab" role="tabpanel" aria-labelledby="075e7c003a-0" tabindex="0">
