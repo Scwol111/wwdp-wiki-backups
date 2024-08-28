@@ -2,7 +2,7 @@
 title: Роли
 description: 
 published: false
-date: 2024-08-28T18:47:23.374Z
+date: 2024-08-28T18:50:45.944Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:07.610Z
@@ -63,22 +63,22 @@ dateCreated: 2024-08-25T11:19:07.610Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/veteran" class="is-internal-link is-valid-page">Ветеран</a><a href="/roles/veteran" class="is-internal-link is-valid-page"><img src="/role/veteran.png"></a></div>
+  <div><a href="/roles/veteran" class="is-internal-link is-valid-page">Ветеран</a><a href="/roles/veteran" class="is-internal-link is-valid-page"><img src="/roles/veteran.png"></a></div>
   <div><div>Обучает кадетов тому, как не быть связанными клоуном. Напоминает, про то, что НУЖНО ДЕРЖАТЬ ДУБИНКУ В ПОЯСЕ ВО ВРЕМЯ ПОГОНИ. Пытается объяснить по рп, как стрелять из пистолета и где прочитать Космический Закон. В конце концов начинает спамить кадетам в LOOC, но остается неуслышанным.</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/warden" class="is-internal-link is-valid-page">Смотритель</a><a href="/roles/warden" class="is-internal-link is-valid-page"><img src="/role/warden.png"></a></div>
+  <div><a href="/roles/warden" class="is-internal-link is-valid-page">Смотритель</a><a href="/roles/warden" class="is-internal-link is-valid-page"><img src="/roles/warden.png"></a></div>
   <div><div>Марает отдел СБ больше всех. Часто покидает пост, потому что скучно, хотя он почти никогда не должен покидать это место. Следит, чтобы ты не ушёл раньше положенного. По итогу засыпает на стойке.</div></div>
   <div>Повышенная</div>
-  <div><a href="/roles/brigmedic" class="is-internal-link is-invalid-page">Бригмедик</a><a href="/roles/brigmedic" class="is-internal-link is-invalid-page"><img src="/brigmedic3.png"></a></div>
+  <div><a href="/roles/brigmedic" class="is-internal-link is-invalid-page">Бригмедик</a><a href="/roles/brigmedic" class="is-internal-link is-invalid-page"><img src="/roles/brigmedic3.png"></a></div>
   <div><div>Золотая середина между Врачем и Офицером, чьей главной задачей является оказание помощи заключенным и членам службы безопасности при необходимости.</div></div>
   <div>Средне</div>
-  <div><a href="/roles/officer" class="is-internal-link is-valid-page">Офицер</a><a href="/roles/officer" class="is-internal-link is-valid-page"><img src="/role/officer.png"></a></div>
+  <div><a href="/roles/officer" class="is-internal-link is-valid-page">Офицер</a><a href="/roles/officer" class="is-internal-link is-valid-page"><img src="/roles/officer.png"></a></div>
   <div><div>	Рядовой член Службы Безопасности, который обеспечивает арест плохих и хороших людей, является боевой единицей, часто не знает до конца законов и ваших прав.</div></div>
   <div>Средне</div>
-  <div><a href="/roles/detective" class="is-internal-link is-valid-page">Детектив</a><a href="/roles/detective" class="is-internal-link is-valid-page"><img src="/role/detective.png"></a></div>
+  <div><a href="/roles/detective" class="is-internal-link is-valid-page">Детектив</a><a href="/roles/detective" class="is-internal-link is-valid-page"><img src="/roles/detective.png"></a></div>
   <div><div>Половину смены ничего не делает ввиду отсутствия преступлений. Остальную половину смены ищет убийцу <a href="/roles/captain" class="is-internal-link is-valid-page">капитана</a>, чтобы узнать, что его загрызла крыса, которая уже стала биомассой.</div></div>
   <div>Средне</div>
-  <div><a href="/roles/cadet" class="is-internal-link is-valid-page">Кадет</a><a href="/roles/cadet" class="is-internal-link is-valid-page"><img src="/role/cadet.png"></a></div>
+  <div><a href="/roles/cadet" class="is-internal-link is-valid-page">Кадет</a><a href="/roles/cadet" class="is-internal-link is-valid-page"><img src="/roles/cadet.png"></a></div>
   <div><div>Не знал, что надо включать шоковую дубинку перед использованием и забил клоуна до потери сознания. Часто не знает законов и садит Вас в камеру навсегда. По итогу либо осознаёт как тут всё работает, либо его увольняют из отдела.</div></div>
   <div>Достаточно легко</div>
 </div>
@@ -90,22 +90,22 @@ dateCreated: 2024-08-25T11:19:07.610Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/medicalofficer" class="is-internal-link is-valid-page">Медицинский офицер</a><a href="/roles/medicalofficer" class="is-internal-link is-valid-page"><img src="/role/medicalofficer.png"></a></div>
+  <div><a href="/roles/medicalofficer" class="is-internal-link is-valid-page">Медицинский офицер</a><a href="/roles/medicalofficer" class="is-internal-link is-valid-page"><img src="/roles/medicalofficer.png"></a></div>
   <div><div>Может сварить таблетки с метамфетамином и космическими наркотиками в первые 5 минут смены, чем и займется. В это время будет пристально следить за химиками, чтобы те варили только базу, а если не будут, то уволит их самолично, хоть и не является главой. Получит дозу лексорина. И уже после этого отправится учить интернов.</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/chemist" class="is-internal-link is-valid-page">Химик</a><a href="/roles/chemist" class="is-internal-link is-valid-page"><img src="/role/chemist.png"></a></div>
+  <div><a href="/roles/chemist" class="is-internal-link is-valid-page">Химик</a><a href="/roles/chemist" class="is-internal-link is-valid-page"><img src="/roles/chemist.png"></a></div>
   <div><div>Готовит медикаменты для того, чтобы врачи могли эффективнее спасти Вашу жизнь! Иногда варит наркотические средства с целью «лечения», а также по какой-то неведомой причине возле отдела предметы начали становиться разумными.</div></div>
   <div>Средне</div>
-  <div><a href="/roles/doctor" class="is-internal-link is-valid-page">Доктор</a><a href="/roles/doctor" class="is-internal-link is-valid-page"><img src="/role/doctor.png"></a></div>
+  <div><a href="/roles/doctor" class="is-internal-link is-valid-page">Доктор</a><a href="/roles/doctor" class="is-internal-link is-valid-page"><img src="/roles/doctor.png"></a></div>
   <div><div>Основная единица убийц в белых халатах. Вероятно он неплохо знает, как вас вылечить.. ну и впрочем-то убить. Но всё же скорее всего он станет Вашим героем в трудный час.</div></div>
   <div>Средне</div>
-  <div><a href="/roles/psychologist" class="is-internal-link is-valid-page">Психолог</a><a href="/roles/psychologist" class="is-internal-link is-valid-page"><img src="/role/psyschologistmeow.png"></a></div>
+  <div><a href="/roles/psychologist" class="is-internal-link is-valid-page">Психолог</a><a href="/roles/psychologist" class="is-internal-link is-valid-page"><img src="/roles/psyschologistmeow.png"></a></div>
   <div><div>Наблюдатель за психическим здоровьем экипажа. Старается помочь экипажу не сойти с ума, но по иронии судьбы, зачастую сам нуждается в психиатре.</div></div>
   <div>Легко, но со сложностями</div>
-  <div><a href="/roles/paramedic" class="is-internal-link is-valid-page">Парамедик</a><a href="/roles/paramedic" class="is-internal-link is-valid-page"><img src="/role/paramedic.png"></a></div>
+  <div><a href="/roles/paramedic" class="is-internal-link is-valid-page">Парамедик</a><a href="/roles/paramedic" class="is-internal-link is-valid-page"><img src="/roles/paramedic.png"></a></div>
   <div><div>Спасает Вашу жизнь на какой бы точке станции или даже возле неё вы бы не находились! Конечно только если у вас включены датчики на координаты. По итогу возможно он сам умрёт по пути к Вам.</div></div>
   <div>Средне</div>
-  <div><a href="/roles/intern" class="is-internal-link is-valid-page">Интерн</a><a href="/roles/intern" class="is-internal-link is-valid-page"><img src="/role/intern.png"></a></div>
+  <div><a href="/roles/intern" class="is-internal-link is-valid-page">Интерн</a><a href="/roles/intern" class="is-internal-link is-valid-page"><img src="/roles/intern.png"></a></div>
   <div><div>Он учится спасать вашу жизнь, так что не будьте слишком злы, если он случайно выкачает вашу кровь вместо введения лекарства.</div></div>
   <div>Легко</div>
 </div>
@@ -116,13 +116,13 @@ dateCreated: 2024-08-25T11:19:07.610Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/leadresearcher" class="is-internal-link is-valid-page">Ведущий Исследователь</a><a href="/roles/leadresearcher" class="is-internal-link is-valid-page"><img src="/role/leadresearcher.png"></a></div>
+  <div><a href="/roles/leadresearcher" class="is-internal-link is-valid-page">Ведущий Исследователь</a><a href="/roles/leadresearcher" class="is-internal-link is-valid-page"><img src="/roles/leadresearcher.png"></a></div>
   <div><div>Знает лучше, какие технологии нужно исследовать, чем научный руководитель. Забудет про то, что очки еще нужно получать и будет строить БОЛЬШИХ И СИЛЬНЫХ МЕХОВ. Иногда будет обучать новичков, но чаще говорить, что он занят боргизированием квартирмейстера.</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/scientist" class="is-internal-link is-valid-page">Ученый</a><a href="/roles/scientist" class="is-internal-link is-valid-page"><img src="/role/scientist.png"></a></div>
+  <div><a href="/roles/scientist" class="is-internal-link is-valid-page">Ученый</a><a href="/roles/scientist" class="is-internal-link is-valid-page"><img src="/roles/scientist.png"></a></div>
   <div><div>Исследует для станции новые технологии, строит теории и создает новые игрушки. По итогу собирает целый арсенал гранат с разной химией, а затем ещё в добавок стреляет всех из водомёта кислотой.</div></div>
   <div>Средне</div>
-  <div><a href="/roles/researchassistant" class="is-internal-link is-valid-page">Научный ассистент</a><a href="/roles/researchassistant" class="is-internal-link is-valid-page"><img src="/role/researchassistant.png"></a></div>
+  <div><a href="/roles/researchassistant" class="is-internal-link is-valid-page">Научный ассистент</a><a href="/roles/researchassistant" class="is-internal-link is-valid-page"><img src="/roles/researchassistant.png"></a></div>
   <div><div>Учёный, но делает всё куда медленнее, поскольку только осваивается в принципах и боится что-то не так сделать.</div></div>
   <div>Достаточно легко</div>
 </div>
@@ -133,16 +133,16 @@ dateCreated: 2024-08-25T11:19:07.610Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/brigadier" class="is-internal-link is-valid-page">Бригадир</a><a href="/roles/brigadier" class="is-internal-link is-valid-page"><img src="/role/brigadier.png"></a></div>
+  <div><a href="/roles/brigadier" class="is-internal-link is-valid-page">Бригадир</a><a href="/roles/brigadier" class="is-internal-link is-valid-page"><img src="/roles/brigadier.png"></a></div>
   <div><div>Левой рукой строит с нуля зону содержания сингулярности. Правой - систему охлаждения суперматерии. Попутно пытается рп обьяснить техническим ассистентам, как открыть меню строительства.</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/atmospherictechnician" class="is-internal-link is-valid-page">Атмосферный техник</a><a href="/roles/atmospherictechnician" class="is-internal-link is-valid-page"><img src="/role/atmospherictechnician.png"></a></div>
+  <div><a href="/roles/atmospherictechnician" class="is-internal-link is-valid-page">Атмосферный техник</a><a href="/roles/atmospherictechnician" class="is-internal-link is-valid-page"><img src="/roles/atmospherictechnician.png"></a></div>
   <div><div>Обеспечивает экипаж оптимальными атмосферными условиями, оберегает их от всякой хрени в воздухе. Часто путает трубы и вентили в результате чего станция сгорает. Также повторяют «Во все тяжкие», но готовят фрезон. Иногда выполняет работу инженеров.</div></div>
   <div>Средне, но с трудностями</div>
-  <div><a href="/roles/engineer" class="is-internal-link is-valid-page">Инженер</a><a href="/roles/engineer" class="is-internal-link is-valid-page"><img src="/role/engineer.png"></a></div>
+  <div><a href="/roles/engineer" class="is-internal-link is-valid-page">Инженер</a><a href="/roles/engineer" class="is-internal-link is-valid-page"><img src="/roles/engineer.png"></a></div>
   <div><div>Обеспечивает станцию светом, целостностью, а также новыми шаттлами, комнатами и тому подобным. Также их можно обвинить во всех бедах станции. Удобно!</div></div>
   <div>Средне</div>
-  <div><a href="/roles/technicalassistant" class="is-internal-link is-valid-page">Технический ассистент</a><a href="/roles/technicalassistant" class="is-internal-link is-valid-page"><img src="/role/technicalassistant.png"></a></div>
+  <div><a href="/roles/technicalassistant" class="is-internal-link is-valid-page">Технический ассистент</a><a href="/roles/technicalassistant" class="is-internal-link is-valid-page"><img src="/roles/technicalassistant.png"></a></div>
   <div><div>Он сломал стену? Зато научился разбирать! Он заварил половину шлюзов? Зато научился сварке! Он взломал мостик? Зато научился взлому! Он устроил разгерметизацию на пол станции? Ладно, зовите СБ!</div></div>
   <div>Легко</div>
 </div>
@@ -156,10 +156,10 @@ dateCreated: 2024-08-25T11:19:07.610Z
 <!--  <div><a href="/roles/hunter">Охотник</a><a href="/roles/hunter"><img src="/role/hunter.png" /></a></div>
   <div><div>Учит ученых. Знает все типы обломков и их содержание наизусть. Если два раза подряд выпадет не нравящийся ему обломок - расплачется и улетит на экстремальную экспедицию, потому что он уже "на опыте и не раз их проходил в легкую". Забудет включить подачу кислорода в плазменной среде. Будет съеден драконом.</div></div>
   <div>Сложно</div> -->
-  <div><a href="/roles/utilizer" class="is-internal-link is-valid-page">Утилизатор</a><a href="/roles/utilizer" class="is-internal-link is-valid-page"><img src="/role/utilizer.png"></a></div>
+  <div><a href="/roles/utilizer" class="is-internal-link is-valid-page">Утилизатор</a><a href="/roles/utilizer" class="is-internal-link is-valid-page"><img src="/roles/utilizer.png"></a></div>
   <div><div>Обыскивает обломки, находя всякие вещи, а иногда достаточно уникальные, которые могут быть полезны. Часто обустраивает себе место со всем набранным и мирненько живёт. НЕ ТРОГАЙ, СЛЫШИШЬ? НЕ ТРОГАЙ ЕГО НЕПЕРЕРАБОТАННУЮ РУДУ!</div></div>
   <div>Средне</div>
-  <div><a href="/roles/loader" class="is-internal-link is-valid-page">Грузчик</a><a href="/roles/loader" class="is-internal-link is-valid-page"><img src="/role/loader.png"></a></div>
+  <div><a href="/roles/loader" class="is-internal-link is-valid-page">Грузчик</a><a href="/roles/loader" class="is-internal-link is-valid-page"><img src="/roles/loader.png"></a></div>
   <div><div>Зачем-то тащит грузы к отделам вручную хотя есть почта. Ну, а так - обычный работяга, который начнёт строить линкор, если его ничем не занять.</div></div>
   <div>Легко</div>
 </div>
@@ -170,7 +170,7 @@ dateCreated: 2024-08-25T11:19:07.610Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/lawyer" class="is-internal-link is-valid-page">Юрист</a><a href="/roles/lawyer" class="is-internal-link is-valid-page"><img src="/role/lawyer.png"></a></div>
+  <div><a href="/roles/lawyer" class="is-internal-link is-valid-page">Юрист</a><a href="/roles/lawyer" class="is-internal-link is-valid-page"><img src="/roles/lawyer.png"></a></div>
   <div><div>Защищает ваши права, если какой-нибудь кадет сделал что-то противоправное. Хороший юрист может ограничить СБ от неположенной власти. К сожалению, он не поможет вам избежать оплаты вашей ипотеки или избежать наказания в случае, если вы уничтожили пол станции.</div></div>
   <div>Средне</div>
 </div>
@@ -181,13 +181,13 @@ dateCreated: 2024-08-25T11:19:07.610Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/assistant" class="is-internal-link is-valid-page">Ассистент</a><a href="/roles/assistant" class="is-internal-link is-valid-page"><img src="/role/assistant.png"></a></div>
+  <div><a href="/roles/assistant" class="is-internal-link is-valid-page">Ассистент</a><a href="/roles/assistant" class="is-internal-link is-valid-page"><img src="/roles/assistant.png"></a></div>
   <div><div>Никогда не знаешь что от него ожидать... тут всё зависит от человека.</div></div>
   <div>Боль - Легко</div>
-  <div><a href="/roles/serviceworker" class="is-internal-link is-valid-page">Сервисный работник</a><a href="/roles/serviceworker" class="is-internal-link is-valid-page"><img src="/role/serviceworker.png"></a></div>
+  <div><a href="/roles/serviceworker" class="is-internal-link is-valid-page">Сервисный работник</a><a href="/roles/serviceworker" class="is-internal-link is-valid-page"><img src="/roles/serviceworker.png"></a></div>
   <div><div>Одновременно официант, бармен, повар, ботаник.. всего понемногу.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/botanist" class="is-internal-link is-valid-page">Ботаник</a><a href="/roles/botanist" class="is-internal-link is-valid-page"><img src="/role/botanist.png"></a></div>
+  <div><a href="/roles/botanist" class="is-internal-link is-valid-page">Ботаник</a><a href="/roles/botanist" class="is-internal-link is-valid-page"><img src="/roles/botanist.png"></a></div>
   <div><div>В основном растит разные продукты.. иногда необычные, экзотические, а иногда опасные. Иногда балуется с мутациями растений и старается дать поварам как можно больше сырых продуктов. Главная боевая единица в войне против кудзу.. ну иногда он сам выращивает растения, которым скармливает половину станции.</div></div>
   <div>Легко</div>
   <div><a href="/roles/chef" class="is-internal-link is-valid-page">Шеф-Повар</a><a href="/roles/chef" class="is-internal-link is-valid-page"><img src="/role/chef.png"></a></div>
