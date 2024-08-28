@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T19:33:06.027Z
+date: 2024-08-28T19:33:51.682Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -119,14 +119,14 @@ dateCreated: 2024-08-25T11:19:25.641Z
         <th class="critical"></th>
       </tr>
     <tr>
-      <th class="code">10</th>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Мошенничество</th>
-      <th style="background-color:#a69b38; color:white;"></th>
-      <th style="background-color:#b8863b; color:white;">Принятие взятки</th>
-      <th style="background-color:#b0653a; color:white;"></th>
-      <th style="background-color:#963535; color:white;"></th>
-      <th class="critical"><a href="#s610" style="color:#c5e7fa;">Растрата активов НТ</a></th>
-    </tr>
+        <th class="code">10</th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s110">Мошенничество</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s210"></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s310">Принятие взятки</a></th>
+        <th style="background-color:#b0653a; color:white;"></th>
+        <th style="background-color:#963535; color:white;"></th>
+        <th class="critical"><a href="#s610" style="color:#c5e7fa;">Растрата активов НТ</a></th>
+      </tr>
   </tbody>
 </table></div><div>
 
