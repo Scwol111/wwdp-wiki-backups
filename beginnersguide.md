@@ -2,13 +2,13 @@
 title: Руководство для новичков
 description: 
 published: false
-date: 2024-08-28T17:10:55.042Z
+date: 2024-08-28T17:11:18.967Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:17:18.937Z
 ---
 
-<div><p>Добро пожаловать на Космическую станцию 14! Вы и ваши товарищи по команде только что начали свою смену на борту <a href="https://wwdp-ss14.ru/maps" class="is-external-link">космической станции</a> <a href="/backstory#nanotrasen" class="is-internal-link is-valid-page">NanoTrasen</a>. У каждого из вас есть <a href="/roles" class="is-internal-link is-valid-page">своя работа</a>, и надеемся, вы будете получать удовольствие от этого процесса.</p>
+<div><p>Добро пожаловать на Космическую станцию 14! Вы и ваши товарищи по команде только что начали свою смену на борту <a href="https://wwdp-ss14.ru/maps">космической станции</a> <a href="/backstory#nanotrasen" class="is-internal-link is-valid-page">NanoTrasen</a>. У каждого из вас есть <a href="/roles" class="is-internal-link is-valid-page">своя работа</a>, и надеемся, вы будете получать удовольствие от этого процесса.</p>
   <p>Пожалуйста, убедитесь, что вы понимаете <a href="/rules" class="is-internal-link is-valid-page">Правила</a>, которые вы можете просмотреть в любое время, нажав Escape и выбрав пункт меню "Правила". Так же настоятельно рекомендуем вам ознакомиться с руководством по <a href="/guides/basics/interactions" class="is-internal-link is-invalid-page">взаимодействиям</a> в игре. Для облегчения коммуникаций внутри игры используется <a href="/guides/terminology" class="is-internal-link is-valid-page">сленговая лексика</a>.</p>
   <p>Если у вас есть вопросы:</p>
   <ol>
