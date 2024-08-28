@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T19:26:22.158Z
+date: 2024-08-28T19:27:59.624Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -76,7 +76,7 @@ dateCreated: 2024-08-25T11:19:25.641Z
     <tr>
         <th class="code">05</th>
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"></th>
-        <th style="background-color:#a69b38; color:white;"><a href="#s205"></a>Изготовление или владение самодельным оружием</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s205">Изготовление или владение самодельным оружием</a></th>
         <th style="background-color:#b8863b; color:white;"><a href="#s305">Незаконное владение холодным или нелетальным оружием</a></th>
         <th style="background-color:#b0653a; color:white;"><a href="#s405">Незаконное владение оружием</a></th>
         <th style="background-color:#963535; color:white;"><a href="#s505">Незаконный оборот огнестрельным оружием</a></th>
