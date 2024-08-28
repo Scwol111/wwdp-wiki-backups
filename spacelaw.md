@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T19:34:31.442Z
+date: 2024-08-28T19:37:02.853Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -39,82 +39,82 @@ dateCreated: 2024-08-25T11:19:25.641Z
     </tr>
     <tr>
         <th class="code">01</th>
-        <th style="background-color:#698f43; color:white;"><a href="#s101">Побои</a></th>
-        <th style="background-color:#a69b38; color:white;"><a href="#s201">Легкие телесные повреждения</a></th>
-        <th style="background-color:#b8863b; color:white;"><a href="#s301">Средние телесные повреждение</a></th>
-        <th style="background-color:#b0653a; color:white;"><a href="#s401">Тяжкие телесные повреждения</a></th>
-        <th style="background-color:#963535; color:white;"><a href="#s501">Убийство</th>
+        <th style="background-color:#698f43; color:white;"><a href="#s101" style="color:#c5e7fa;">Побои</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s201" style="color:#c5e7fa;">Легкие телесные повреждения</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s301" style="color:#c5e7fa;">Средние телесные повреждение</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s401" style="color:#c5e7fa;">Тяжкие телесные повреждения</a></th>
+        <th style="background-color:#963535; color:white;"><a href="#s501" style="color:#c5e7fa;">Убийство</th>
         <th class="critical"><a href="#s601" style="color:#c5e7fa;">Массовые убийства</a></th>
       </tr>
       <tr>
         <th class="code">02</th>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s102">Незаконное хранение или употребление наркотиков</a></th>
-        <th style="background-color:#a69b38; color:white;"><a href="#s202">Незаконное распространение наркотиков</a></th>
-        <th style="background-color:#b8863b; color:white;"><a href="#s302">Незаконное производство наркотиков</a></th>
-        <th style="background-color:#b0653a; color:white;"><a href="#s402">Хранение или использование контрабанды</a></th>
-        <th style="background-color:#963535; color:white;"><a href="#s502">Распространение контрабанды</a></th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s102" style="color:#c5e7fa;">Незаконное хранение или употребление наркотиков</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s202" style="color:#c5e7fa;">Незаконное распространение наркотиков</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s302" style="color:#c5e7fa;">Незаконное производство наркотиков</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s402" style="color:#c5e7fa;">Хранение или использование контрабанды</a></th>
+        <th style="background-color:#963535; color:white;"><a href="#s502" style="color:#c5e7fa;">Распространение контрабанды</a></th>
         <th class="critical"><a href="#s602" style="color:#c5e7fa;">Враг корпорации</a></th>
       </tr>
     <tr>
         <th class="code">03</th>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s103">Хулиганство</a></th>
-        <th style="background-color:#a69b38; color:white;"><a href="#s203">Эксгибиционизм</a></th>
-        <th style="background-color:#b8863b; color:white;"><a href="#s303">Домогательство</a></th>
-        <th style="background-color:#b0653a; color:white;"><a href="#s403">Похищение</a></th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s103" style="color:#c5e7fa;">Хулиганство</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s203" style="color:#c5e7fa;">Эксгибиционизм</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s303" style="color:#c5e7fa;">Домогательство</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s403" style="color:#c5e7fa;">Похищение</a></th>
         <th style="background-color:#963535; color:white;"></th>
         <th class="critical"><a href="#s603" style="color:#c5e7fa;">Изнасилование</a></th>
       </tr>
     <tr>
         <th class="code">04</th>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s104">Сопротивление</a></th>
-        <th style="background-color:#a69b38; color:white;"><a href="#s204">Нападение на должностное лицо</a></th>
-        <th style="background-color:#b8863b; color:white;"><a href="#s304">Забастовка</a></th>
-        <th style="background-color:#b0653a; color:white;"><a href="#s404">Подстрекательство к мятежу</a></th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s104" style="color:#c5e7fa;">Сопротивление</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s204" style="color:#c5e7fa;">Нападение на должностное лицо</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s304" style="color:#c5e7fa;">Забастовка</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s404" style="color:#c5e7fa;">Подстрекательство к мятежу</a></th>
         <th style="background-color:#963535; color:white;"></th>
         <th class="critical"><a href="#s604" style="color:#c5e7fa;">Вооруженный мятеж</a></th>
       </tr>
     <tr>
         <th class="code">05</th>
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"></th>
-        <th style="background-color:#a69b38; color:white;"><a href="#s205">Изготовление или владение самодельным оружием</a></th>
-        <th style="background-color:#b8863b; color:white;"><a href="#s305">Незаконное владение холодным или нелетальным оружием</a></th>
-        <th style="background-color:#b0653a; color:white;"><a href="#s405">Незаконное владение оружием</a></th>
-        <th style="background-color:#963535; color:white;"><a href="#s505">Незаконный оборот огнестрельным оружием</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s205" style="color:#c5e7fa;">Изготовление или владение самодельным оружием</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s305" style="color:#c5e7fa;">Незаконное владение холодным или нелетальным оружием</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s405" style="color:#c5e7fa;">Незаконное владение оружием</a></th>
+        <th style="background-color:#963535; color:white;"><a href="#s505" style="color:#c5e7fa;">Незаконный оборот огнестрельным оружием</a></th>
         <th class="critical"></th>
       </tr>
     <tr>
         <th class="code">06</th>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s106">Мелкая кража</a></th>
-        <th style="background-color:#a69b38; color:white;"><a href="#s206">Кража</a></th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s106" style="color:#c5e7fa;">Мелкая кража</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s206" style="color:#c5e7fa;">Кража</a></th>
         <th style="background-color:#b8863b; color:white;"></th>
-        <th style="background-color:#b0653a; color:white;"><a href="#s406">Кража в особо крупных масштабах или кража ценного имущества</a></th>
-        <th style="background-color:#963535; color:white;"><a href="#s506">Кража особо ценного имущества</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s406" style="color:#c5e7fa;">Кража в особо крупных масштабах или кража ценного имущества</a></th>
+        <th style="background-color:#963535; color:white;"><a href="#s506" style="color:#c5e7fa;">Кража особо ценного имущества</a></th>
         <th class="critical"></th>
       </tr>
     <tr>
         <th class="code">07</th>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s107">Проникновение в отдел</a></th>
-        <th style="background-color:#a69b38; color:white;"><a href="#s207">Проникновение со взломом</a></th>
-        <th style="background-color:#b8863b; color:white;"><a href="#s307">Проникновение в защищенные отсеки/комнаты глав</a></th>
-        <th style="background-color:#b0653a; color:white;"><a href="#s407">Проникновение в хранилище</a></th>
-        <th style="background-color:#963535; color:white;"><a href="#s507">Проникновение в оружейную</a></th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s107" style="color:#c5e7fa;">Проникновение в отдел</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s207" style="color:#c5e7fa;">Проникновение со взломом</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s307" style="color:#c5e7fa;">Проникновение в защищенные отсеки/комнаты глав</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s407" style="color:#c5e7fa;">Проникновение в хранилище</a></th>
+        <th style="background-color:#963535; color:white;"><a href="#s507" style="color:#c5e7fa;">Проникновение в оружейную</a></th>
         <th class="critical"></th>
       </tr>
     <tr>
         <th class="code">08</th>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s108">Вандализм</a></th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s108" style="color:#c5e7fa;">Вандализм</a></th>
         <th style="background-color:#a69b38; color:white;"></th>
-        <th style="background-color:#b8863b; color:white;"><a href="#s308">Повреждение или попытка взлома боргов</a></th>
-        <th style="background-color:#b0653a; color:white;"><a href="#s408">Саботаж</a></th>
-        <th style="background-color:#963535; color:white;"><a href="#s508">Теракт</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s308" style="color:#c5e7fa;">Повреждение или попытка взлома боргов</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s408" style="color:#c5e7fa;">Саботаж</a></th>
+        <th style="background-color:#963535; color:white;"><a href="#s508" style="color:#c5e7fa;">Теракт</a></th>
         <th class="critical"><a href="#s608" style="color:#c5e7fa;">Попытка уничтожения станции</a></th>
       </tr>
     <tr>
         <th class="code">09</th>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s109">Неисполнение приказа</a></th>
-        <th style="background-color:#a69b38; color:white;"><a href="#s209">Халатность</a></th>
-        <th style="background-color:#b8863b; color:white;"><a href="#s309">Превышение должностных полномочий</a></th>
-        <th style="background-color:#b0653a; color:white;"><a href="#s409">Грубая халатность</a></th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s109" style="color:#c5e7fa;">Неисполнение приказа</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s209" style="color:#c5e7fa;">Халатность</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s309" style="color:#c5e7fa;">Превышение должностных полномочий</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s409" style="color:#c5e7fa;">Грубая халатность</a></th>
         <th style="background-color:#963535; color:white;"></th>
         <th class="critical"></th>
       </tr>
