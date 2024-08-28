@@ -2,7 +2,7 @@
 title: Роли
 description: 
 published: false
-date: 2024-08-28T18:53:10.372Z
+date: 2024-08-28T18:54:16.043Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:07.610Z
@@ -273,13 +273,13 @@ dateCreated: 2024-08-25T11:19:07.610Z
   <div><a href="/roles/guardian" class="is-internal-link is-valid-page">Хранитель</a><a href="/roles/guardian" class="is-internal-link is-valid-page"><img src="/roles/guardian.png"></a></div>
   <div><div>Звучит полезно.. хотя обычно им почему-то не пользуются.</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/genestealer" class="goida is-internal-link is-valid-page"></a><a href="/roles/genestealer" class="is-internal-link is-valid-page"><img src="/roles/antagonists/changeling.gif"></a></div>
+  <div><a href="/roles/genestealer" class="goida is-internal-link is-valid-page"></a><a href="/roles/genestealer" class="is-internal-link is-valid-page"><img src="/roles/changeling.gif"></a></div>
   <div><div>Высокоинтеллектуальный инопланетный хищник, обладающий способностью менять свой облик, чтобы выглядеть в точности как человек.. Способен создавать из своих конечностей оружие и жала с ядом."</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/terminator" class="is-internal-link is-valid-page">Терминатор</a><a href="/roles/terminator" class="is-internal-link is-valid-page"><img src="/roles/antagonists/terminator.png"></a></div>
+  <div><a href="/roles/terminator" class="is-internal-link is-valid-page">Терминатор</a><a href="/roles/terminator" class="is-internal-link is-valid-page"><img src="/roles/terminator.png"></a></div>
   <div><div>Высокотехнологичный антагонист, который представляет собой серьезную угрозу для отдельного члена экипажа.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/wizard" class="is-internal-link is-valid-page">Маг</a><a href="/roles/wizard" class="is-internal-link is-valid-page"><img src="/role/antagonists/wizard/wizard_real.png"></a></div>
+  <div><a href="/roles/wizard" class="is-internal-link is-valid-page">Маг</a><a href="/roles/wizard" class="is-internal-link is-valid-page"><img src="/roles/wizard_real.png"></a></div>
   <div><div>FORTI GY AMA!! Заставьте всех ненавидеть вас за убийство всей станции. HONK FOR ME!!! Превратите весь экипаж в клоунов. ONI SOMA!!! Умрите от клоуна с жезлом нулификации.</div></div>
   <div>Очень сложно</div>
 </div>
