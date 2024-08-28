@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T19:30:26.660Z
+date: 2024-08-28T19:31:42.171Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -101,14 +101,14 @@ dateCreated: 2024-08-25T11:19:25.641Z
         <th class="critical"></th>
       </tr>
     <tr>
-      <th class="code">08</th>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Вандализм</th>
-      <th style="background-color:#a69b38; color:white;"></th>
-      <th style="background-color:#b8863b; color:white;">Повреждение или попытка взлома боргов</th>
-      <th style="background-color:#b0653a; color:white;">Саботаж</th>
-      <th style="background-color:#963535; color:white;">Теракт</th>
-      <th class="critical"><a href="#s608" style="color:#c5e7fa;">Попытка уничтожения станции</a></th>
-    </tr>
+        <th class="code">08</th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s108">Вандализм</a></th>
+        <th style="background-color:#a69b38; color:white;"></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s308">Повреждение или попытка взлома боргов</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s408">Саботаж</a></th>
+        <th style="background-color:#963535; color:white;"><a href="#s508">Теракт</a></th>
+        <th class="critical"><a href="#s608" style="color:#c5e7fa;">Попытка уничтожения станции</a></th>
+      </tr>
     <tr>
       <th class="code">09</th>
       <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Неисполнение приказа</th>
