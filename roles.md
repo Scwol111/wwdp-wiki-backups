@@ -2,7 +2,7 @@
 title: Роли
 description: 
 published: false
-date: 2024-08-28T18:54:16.043Z
+date: 2024-08-28T18:57:15.169Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:07.610Z
@@ -330,7 +330,7 @@ dateCreated: 2024-08-25T11:19:07.610Z
   <div><a href="/roles/ghost" class="is-internal-link is-valid-page">Призрак</a><a href="/roles/ghost" class="is-internal-link is-valid-page"><img src="/roles/ghost.png"></a></div>
   <div><div>Любое населённое душой существо, которое по причине смерти было переведено в этот "отдел" на "должность" призрака. Об этом "отделе" не знает скорее всего даже само NanoTrasen, хотя регулярно поставляет сюда "сотрудников" и реже забирает их отсюда. Призракам запрещено как либо контактировать с существами не этой "должности" <a href="/rules" class="is-internal-link is-valid-page">(см. "метагейминг")</a>. Исключение составляет способность заставлять свет мигать.</div></div>
   <div>Отсутствует</div>
-<div><a href="/roles/punpun" class="is-internal-link is-valid-page">Пун Пун</a><a href="/roles/punpun" class="is-internal-link is-valid-page"><img src="/roles/spiritualisticdepartment/pun_pun1.png"></a></div>
+<div><a href="/roles/punpun" class="is-internal-link is-valid-page">Пун Пун</a><a href="/roles/punpun" class="is-internal-link is-valid-page"><img src="/roles/pun_pun1.png"></a></div>
   <div><div>Выдающийся представитель обезьян с неограниченным доступом к алкоголю.</div></div>
   <div>Легко</div>
   <div><a href="/roles/mouse" class="is-internal-link is-valid-page">Мышь</a><a href="/roles/mouse" class="is-internal-link is-valid-page"><img src="/roles/ratge-asss1.gif"></a></div>
@@ -342,7 +342,7 @@ dateCreated: 2024-08-25T11:19:07.610Z
   <div><a href="/roles/remilia" class="is-internal-link is-valid-page">Ремилия</a><a href="/roles/remilia" class="is-internal-link is-valid-page"><img src="/roles/remilia.gif"></a></div>
   <div><div>Маленький, милый фамильяр <a href="/roles/priest" class="is-internal-link is-valid-page">священника</a>, который похож на летучую мышь. Кушает все фрукты станции и уничтожает в щепки всех <a href="/roles/nuclearoperative" class="is-internal-link is-valid-page">ядерных оперативников</a>, если того пожелает священник.</div></div>
   <div>Средне</div>
-  <div><a href="/roles/baby-slime" class="is-internal-link is-valid-page">Улыбкин</a><a href="/roles/baby-slime" class="is-internal-link is-valid-page"><img src="/roles/spiritualisticdepartment/baby-slime.gif"></a></div>
+  <div><a href="/roles/baby-slime" class="is-internal-link is-valid-page">Улыбкин</a><a href="/roles/baby-slime" class="is-internal-link is-valid-page"><img src="/roles/baby-slime.gif"></a></div>
   <div><div>Не перепутайте с обычным слаймом. Это питомец научного отдела, он не кусается.</div></div>
   <div>Легко</div>
 <div><a href="/roles/gnome" class="is-internal-link is-valid-page">Гном</a><a href="/roles/gnome" class="is-internal-link is-valid-page"><img src="/roles/gnome.png"></a></div>
