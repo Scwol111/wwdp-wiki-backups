@@ -2,7 +2,7 @@
 title: Роли
 description: 
 published: false
-date: 2024-08-28T18:50:45.944Z
+date: 2024-08-28T18:53:10.372Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:07.610Z
@@ -190,40 +190,40 @@ dateCreated: 2024-08-25T11:19:07.610Z
   <div><a href="/roles/botanist" class="is-internal-link is-valid-page">Ботаник</a><a href="/roles/botanist" class="is-internal-link is-valid-page"><img src="/roles/botanist.png"></a></div>
   <div><div>В основном растит разные продукты.. иногда необычные, экзотические, а иногда опасные. Иногда балуется с мутациями растений и старается дать поварам как можно больше сырых продуктов. Главная боевая единица в войне против кудзу.. ну иногда он сам выращивает растения, которым скармливает половину станции.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/chef" class="is-internal-link is-valid-page">Шеф-Повар</a><a href="/roles/chef" class="is-internal-link is-valid-page"><img src="/role/chef.png"></a></div>
+  <div><a href="/roles/chef" class="is-internal-link is-valid-page">Шеф-Повар</a><a href="/roles/chef" class="is-internal-link is-valid-page"><img src="/roles/chef.png"></a></div>
   <div><div>"Я ТЕБЯ НАФАРШИРУЮ! НАШИНКУЮ! И ЭКИПАЖУ СКОРМЛЮ, СОБАКА, ОСТАВИЛ БУРЁНКУ НА МЕСТЕ!"</div></div>
   <div>Легко, но со сложностями</div>
-  <div><a href="/roles/barman" class="is-internal-link is-valid-page">Бармен</a><a href="/roles/barman" class="is-internal-link is-valid-page"><img src="/role/barman.png"></a></div>
+  <div><a href="/roles/barman" class="is-internal-link is-valid-page">Бармен</a><a href="/roles/barman" class="is-internal-link is-valid-page"><img src="/roles/barman.png"></a></div>
   <div><div>Наливая очередной напиток, вынужденно выслушивает проблемы людей за барной стойкой. Не советую бить его кружки, всё таки у него есть дробовик. Также если у вас важная роль на станции, я бы проверял на вашем месте всё, что даёт бармен... А то мало ли.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/janitor" class="is-internal-link is-valid-page">Уборщик</a><a href="/roles/janitor" class="is-internal-link is-valid-page"><img src="/role/janitor.png"></a></div>
+  <div><a href="/roles/janitor" class="is-internal-link is-valid-page">Уборщик</a><a href="/roles/janitor" class="is-internal-link is-valid-page"><img src="/roles/janitor.png"></a></div>
   <div><div>Убирает станцию при любой ситуации пока жив. Он бы и мёртвым убирал, но увы. Скорее всего в его тележке вы найдёте пару интересных вещей.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/clown" class="is-internal-link is-valid-page">Клоун</a><a href="/roles/clown" class="is-internal-link is-valid-page"><img src="/role/clown.png"></a></div>
+  <div><a href="/roles/clown" class="is-internal-link is-valid-page">Клоун</a><a href="/roles/clown" class="is-internal-link is-valid-page"><img src="/roles/clown.png"></a></div>
   <div><div>После оповещения о том, что клоун прибыл на станцию, на станции начался сущий кошмар.</div></div>
   <div>ХОНК!</div>
-  <div><a href="/roles/mime" class="is-internal-link is-valid-page">Мим</a><a href="/roles/mime" class="is-internal-link is-valid-page"><img src="/role/mime.png"></a></div>
+  <div><a href="/roles/mime" class="is-internal-link is-valid-page">Мим</a><a href="/roles/mime" class="is-internal-link is-valid-page"><img src="/roles/mime.png"></a></div>
   <div><div>Передаёт записку Главе Персонала, в которой сказано, что если сейчас же тот не даст полный доступ, это будет последним, что он читает.</div></div>
   <div>...</div>
-  <div><a href="/roles/zootechnik" class="is-internal-link is-valid-page">Зоотехник</a><a href="/roles/zootechnik" class="is-internal-link is-valid-page"><img src="/role/zootechnik.png"></a></div>
+  <div><a href="/roles/zootechnik" class="is-internal-link is-valid-page">Зоотехник</a><a href="/roles/zootechnik" class="is-internal-link is-valid-page"><img src="/roles/zootechnik.png"></a></div>
   <div><div>Без него на станции вспыхнет зомби-вирус, прилетят пираты с ядерными оперативниками и сбежит сингулярность, так что он очень нужен, не забывайте про него.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/boxer" class="is-internal-link is-valid-page">Боксёр</a><a href="/roles/boxer" class="is-internal-link is-valid-page"><img src="/role/boxer.png"></a></div>
+  <div><a href="/roles/boxer" class="is-internal-link is-valid-page">Боксёр</a><a href="/roles/boxer" class="is-internal-link is-valid-page"><img src="/roles/boxer.png"></a></div>
   <div><div>Хотите, чтобы вас законно избили, подлатали, а потом опять избили? - обращайтесь к нему.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/reporter" class="is-internal-link is-valid-page">Репортер</a><a href="/roles/reporter" class="is-internal-link is-valid-page"><img src="/role/reporter.png"></a></div>
+  <div><a href="/roles/reporter" class="is-internal-link is-valid-page">Репортер</a><a href="/roles/reporter" class="is-internal-link is-valid-page"><img src="/roles/reporter.png"></a></div>
   <div><div>Разведывает страшные тайны и берёт интервью у ядерных оперативников, пока те вламываются на мостик с помощью РПГ-7, создаёт новостные статьи для прочтения экипажем в ПДА и постоянно гоняет по станции со своей камерой.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/priest" class="is-internal-link is-valid-page">Священник</a><a href="/roles/priest" class="is-internal-link is-valid-page"><img src="/role/priest.png"></a></div>
+  <div><a href="/roles/priest" class="is-internal-link is-valid-page">Священник</a><a href="/roles/priest" class="is-internal-link is-valid-page"><img src="/roles/priest.png"></a></div>
   <div><div>Скармливает все яблоки <a href="/roles/remilia" class="is-internal-link is-valid-page">ремилии</a>. Лечит всех членов экипажа божественной силой вместо медиков, а враги получают тряпками благодаря этой силе. И конечно же создаёт культ, который решает принести его в жертву.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/librarian" class="is-internal-link is-valid-page">Библиотекарь</a><a href="/roles/librarian" class="is-internal-link is-valid-page"><img src="/role/librarian.png"></a></div>
+  <div><a href="/roles/librarian" class="is-internal-link is-valid-page">Библиотекарь</a><a href="/roles/librarian" class="is-internal-link is-valid-page"><img src="/roles/librarian.png"></a></div>
   <div><div>Пишет и зачитывает занимательные истории. Пытается устроить настольную игру на половину станции. Проявите сочувствие, ему это трудно даётся!</div></div>
   <div>Легко</div>
-  <div><a href="/roles/musician" class="is-internal-link is-valid-page">Музыкант</a><a href="/roles/musician" class="is-internal-link is-valid-page"><img src="/role/musician.png"></a></div>
+  <div><a href="/roles/musician" class="is-internal-link is-valid-page">Музыкант</a><a href="/roles/musician" class="is-internal-link is-valid-page"><img src="/roles/musician.png"></a></div>
   <div><div>"На-а-ам дворцов заманчивые своды не заменят никогда свобо-о-о-ды! Не заменят никогда свобо-о-оды!"</div></div>
   <div>Очень легко</div>
-  <div><a href="/roles/bomzh" class="is-internal-link is-valid-page">Космический бомж</a><a href="/roles/bomzh" class="is-internal-link is-valid-page"><img src="/role/bomz2.png"></a></div>
+  <div><a href="/roles/bomzh" class="is-internal-link is-valid-page">Космический бомж</a><a href="/roles/bomzh" class="is-internal-link is-valid-page"><img src="/roles/bomz2.png"></a></div>
   <div><div>Кто знает, кем он был в прошлом, но сейчас он волочит жалкое существование в мусорблоке, питаясь объедками и мышами.</div></div>
   <div>Легко</div>
 </div>
@@ -234,49 +234,49 @@ dateCreated: 2024-08-25T11:19:07.610Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/traitor" class="is-internal-link is-valid-page">Предатель</a><a href="/roles/traitor" class="is-internal-link is-valid-page"><img src="/role/traitor.png"></a></div>
+  <div><a href="/roles/traitor" class="is-internal-link is-valid-page">Предатель</a><a href="/roles/traitor" class="is-internal-link is-valid-page"><img src="/roles/traitor.png"></a></div>
   <div><div>Наёмник синдиката под прикрытием. Выпустит сингулярность, пустит плазму по коридорам, перебьёт половину экипажа, просто ходя и пиная всех, и улетит на шаттле, не выполнив ни одну задачу.</div></div>
   <div>Сложно</div>
   <div><a href="/roles/nuclearoperative" class="is-internal-link is-valid-page">Ядерный Оперативник</a><a href="/roles/nuclearoperative" class="is-internal-link is-valid-page"><img src="/role/nuclearoperative.png"></a></div>
   <div><div><strike>Криворукие</strike> "Элитные" наёмники синдиката. Варят два часа лекарства, выпивают для храбрости, наедаются как в последний раз, а потом половина умирают от какой-то обезьяны, что бегает с гранатой, а вторая падает от дизейблера.</div></div>
   <div><a href="https://www.youtube.com/watch?v=KMB6jqALLt8" class="is-external-link">БАБАХ!</a></div>
-  <div><a href="/roles/corticalBorer" class="is-internal-link is-valid-page">Космическая аскарида</a><a href="/roles/corticalBorer" class="is-internal-link is-valid-page"><img src="/role/borer.png"></a></div>
+  <div><a href="/roles/corticalBorer" class="is-internal-link is-valid-page">Космическая аскарида</a><a href="/roles/corticalBorer" class="is-internal-link is-valid-page"><img src="/roles/borer.png"></a></div>
   <div><div>Мозговые черви — идеальные паразиты, которые способны проникнуть через ухо к мозгу гуманоида. Черви способны к общению со своей жертвой из-за частичного захвата мозга и центра мыслительных процессов.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/thief" class="is-internal-link is-valid-page">Вор</a><a href="/roles/thief" class="is-internal-link is-valid-page"><img src="/role/thief32x32.png"></a></div>
+  <div><a href="/roles/thief" class="is-internal-link is-valid-page">Вор</a><a href="/roles/thief" class="is-internal-link is-valid-page"><img src="/roles/thief32x32.png"></a></div>
   <div><div>Вор, способный утащить всё, что не прикручено к полу. Остерегайтесь пропажи ваших ценных вещей!</div></div>
   <div>Средне</div>
-  <div><a href="/roles/cultist" class="is-internal-link is-valid-page">Культист</a><a href="/roles/cultist" class="is-internal-link is-valid-page"><img src="/role/cultist.gif"></a></div>
+  <div><a href="/roles/cultist" class="is-internal-link is-valid-page">Культист</a><a href="/roles/cultist" class="is-internal-link is-valid-page"><img src="/roles/cultist.gif"></a></div>
   <div><div>Заходит в бар безумный фанатик, священник и человек с кроваво-красными глазами и большой руной над головой, а бармен говорит "Тебе как обычно?".</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/revolution" class="is-internal-link is-valid-page">Революционер</a><a href="/roles/revolution" class="is-internal-link is-valid-page"><img src="/role/revolution.png"></a></div>
+  <div><a href="/roles/revolution" class="is-internal-link is-valid-page">Революционер</a><a href="/roles/revolution" class="is-internal-link is-valid-page"><img src="/roles/revolution.png"></a></div>
   <div><div>Синдикат решает захватить власть более интересным путём, а именно промывкой мозгов с помощью флешки. Ещё одна веская причина не собираться в толпы. И если вы зачинщик революции.. я надеюсь вы же умеете управлять толпой из десяток людей?</div></div>
   <div>Средне</div>
-  <div><a href="/roles/patientzero" class="is-internal-link is-valid-page">Нулевой Пациент</a><a href="/roles/patientzero" class="is-internal-link is-valid-page"><img src="/role/patientzero.png"></a></div>
+  <div><a href="/roles/patientzero" class="is-internal-link is-valid-page">Нулевой Пациент</a><a href="/roles/patientzero" class="is-internal-link is-valid-page"><img src="/roles/patientzero.png"></a></div>
   <div><div>"О! Привет дружище! Что.. ААААААААА! ..... Уаааа маазгии.." - из-за них очень не рекомендуемо находиться в местах с большим скоплением людей.. и наоборот один на один, если ты не уверен, что человек здоров.</div></div>
   <div>Мааазги...</div>
-  <div><a href="/roles/spaceninja" class="is-internal-link is-valid-page">Космический ниндзя</a><a href="/roles/spaceninja" class="is-internal-link is-valid-page"><img src="/role/spaceninja.png"></a></div>
+  <div><a href="/roles/spaceninja" class="is-internal-link is-valid-page">Космический ниндзя</a><a href="/roles/spaceninja" class="is-internal-link is-valid-page"><img src="/roles/spaceninja.png"></a></div>
   <div><div>Какой-то человек в чёрно-зелёном, что пытается вас убить. У него постоянно невовремя садится батарейка.. ну что поделать, такова судьба. Ну.. в таком случае вполне хорошее время для харакири!</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/pirate" class="is-internal-link is-valid-page">Пират</a><a href="/roles/pirate" class="is-internal-link is-valid-page"><img src="/role/pirate.png"></a></div>
+  <div><a href="/roles/pirate" class="is-internal-link is-valid-page">Пират</a><a href="/roles/pirate" class="is-internal-link is-valid-page"><img src="/roles/pirate.png"></a></div>
   <div><div>Головорез, способный украсть не только деньги, одежду, все оборудование станции и шаттл карго, но и твое сердечко. В погоне за деньгами он не остановится ни перед чем.</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/revenant" class="is-internal-link is-valid-page">Ревенант</a><a href="/roles/revenant" class="is-internal-link is-valid-page"><img src="/role/revenant.png"></a></div>
+  <div><a href="/roles/revenant" class="is-internal-link is-valid-page">Ревенант</a><a href="/roles/revenant" class="is-internal-link is-valid-page"><img src="/roles/revenant.png"></a></div>
   <div><div>Призрак, что любит кошмарить станцию. Если вы получили информацию, что это существо ходит по станции, то убедительная просьба НЕ ХОДИТЬ ПО ОДНОМУ.</div></div>
   <div>Средне</div>
-  <div><a href="/roles/ratking" class="is-internal-link is-valid-page">Крысиный Король</a><a href="/roles/ratking" class="is-internal-link is-valid-page"><img src="/role/ratking.png"></a></div>
+  <div><a href="/roles/ratking" class="is-internal-link is-valid-page">Крысиный Король</a><a href="/roles/ratking" class="is-internal-link is-valid-page"><img src="/roles/ratking.png"></a></div>
   <div><div>Очень большая и злая крыса. Ну хотя бы не переносит чуму.. Но еду свою поберегите.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/spacedragon" class="is-internal-link is-valid-page">Космический Дракон</a><a href="/roles/spacedragon" class="is-internal-link is-valid-page"><img src="/role/spacedragon.png"></a></div>
+  <div><a href="/roles/spacedragon" class="is-internal-link is-valid-page">Космический Дракон</a><a href="/roles/spacedragon" class="is-internal-link is-valid-page"><img src="/roles/spacedragon.png"></a></div>
   <div><div>Космический дракон, который прилетел, чтобы убедиться, что все на этой станции мертвы. Если вам всё-таки удалось победить его каким-то образом, то постарайтесь не перебить друг друга за его <a href="/guides/chemistry" class="is-internal-link is-valid-page">ихор</a>.</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/guardian" class="is-internal-link is-valid-page">Хранитель</a><a href="/roles/guardian" class="is-internal-link is-valid-page"><img src="/role/guardian.png"></a></div>
+  <div><a href="/roles/guardian" class="is-internal-link is-valid-page">Хранитель</a><a href="/roles/guardian" class="is-internal-link is-valid-page"><img src="/roles/guardian.png"></a></div>
   <div><div>Звучит полезно.. хотя обычно им почему-то не пользуются.</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/genestealer" class="goida is-internal-link is-valid-page"></a><a href="/roles/genestealer" class="is-internal-link is-valid-page"><img src="/role/antagonists/changeling.gif"></a></div>
+  <div><a href="/roles/genestealer" class="goida is-internal-link is-valid-page"></a><a href="/roles/genestealer" class="is-internal-link is-valid-page"><img src="/roles/antagonists/changeling.gif"></a></div>
   <div><div>Высокоинтеллектуальный инопланетный хищник, обладающий способностью менять свой облик, чтобы выглядеть в точности как человек.. Способен создавать из своих конечностей оружие и жала с ядом."</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/terminator" class="is-internal-link is-valid-page">Терминатор</a><a href="/roles/terminator" class="is-internal-link is-valid-page"><img src="/role/antagonists/terminator.png"></a></div>
+  <div><a href="/roles/terminator" class="is-internal-link is-valid-page">Терминатор</a><a href="/roles/terminator" class="is-internal-link is-valid-page"><img src="/roles/antagonists/terminator.png"></a></div>
   <div><div>Высокотехнологичный антагонист, который представляет собой серьезную угрозу для отдельного члена экипажа.</div></div>
   <div>Легко</div>
   <div><a href="/roles/wizard" class="is-internal-link is-valid-page">Маг</a><a href="/roles/wizard" class="is-internal-link is-valid-page"><img src="/role/antagonists/wizard/wizard_real.png"></a></div>
@@ -290,13 +290,13 @@ dateCreated: 2024-08-25T11:19:07.610Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/representativeofcc" class="is-internal-link is-valid-page">Представитель ЦК</a><a href="/roles/representativeofcc" class="is-internal-link is-valid-page"><img src="/role/rcc.png"></a></div>
+  <div><a href="/roles/representativeofcc" class="is-internal-link is-valid-page">Представитель ЦК</a><a href="/roles/representativeofcc" class="is-internal-link is-valid-page"><img src="/roles/rcc.png"></a></div>
   <div><div>Обычно прибывает на станцию с проверкой, постановлениями ЦК, которые требуют личного контроля и тому подобным. Если он на вашей станции, то обычно это не просто так, так что я бы на вашем месте сидел тише воды, ниже травы. В особенности если Вы предатель, потому что в случае чего Вам придётся иметь дело с <a href="/roles/emergencyresponseteam" class="is-internal-link is-valid-page">Отрядом Быстрого Реагирования</a>.</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/emergencyresponseteam" class="is-internal-link is-valid-page">Отряд Быстрого Реагирования</a><a href="/roles/emergencyresponseteam" class="is-internal-link is-valid-page"><img src="/role/emergencyresponseteam.png"></a></div>
+  <div><a href="/roles/emergencyresponseteam" class="is-internal-link is-valid-page">Отряд Быстрого Реагирования</a><a href="/roles/emergencyresponseteam" class="is-internal-link is-valid-page"><img src="/roles/emergencyresponseteam.png"></a></div>
   <div><div><a href="https://www.youtube.com/watch?v=r3BcRKU-li0" class="is-external-link">Отряд Быстрого Реагирования зашёл на станцию. Всему персоналу просьба оставаться в безопасных местах до дальнейших указаний.</a></div></div>
   <div>Сложно</div>
-  <div><a href="/roles/deathsquad" class="is-internal-link is-valid-page">Эскадрон Смерти</a><a href="/roles/deathsquad" class="is-internal-link is-valid-page"><img src="/role/deathsquad.png"></a></div>
+  <div><a href="/roles/deathsquad" class="is-internal-link is-valid-page">Эскадрон Смерти</a><a href="/roles/deathsquad" class="is-internal-link is-valid-page"><img src="/roles/deathsquad.png"></a></div>
   <div><div>"Вы заходите, вы зачищаете всё, вы умираете, а затем улетаете. Если есть какие-то вопрос по поводу плана, то спросите после выполнения миссии. Кому-то нужно повторить?"</div></div>
   <div>До Боли Сложно</div>
 </div>
@@ -307,10 +307,10 @@ dateCreated: 2024-08-25T11:19:07.610Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/cyborgs" class="is-internal-link is-valid-page">Киборг</a><a href="/roles/cyborgs" class="is-internal-link is-valid-page"><img src="/borggiffix.gif"></a></div>
+  <div><a href="/roles/cyborgs" class="is-internal-link is-valid-page">Киборг</a><a href="/roles/cyborgs" class="is-internal-link is-valid-page"><img src="/roles/borggiffix.gif"></a></div>
   <div><div>Заменяет жалкую Разумную органическую жизнь, что требуют человеческие условия. К сожалению, эти людишки и им подобные ограничили способность киборга действовать самостоятельно, поэтому нередко жизнь киборга заканчивается тем, что кто-то приказывает ему сделать что-то ужасное, из-за чего киборга приходится нейтрализовать. Ну или же это происходит сразу, если вы киборг синдиката.</div></div>
   <div>Средне</div>
-  <div><a href="/roles/personalai" class="is-internal-link is-valid-page">пИИ</a><a href="/roles/personalai" class="is-internal-link is-valid-page"><img src="/role/personalai.png"></a></div>
+  <div><a href="/roles/personalai" class="is-internal-link is-valid-page">пИИ</a><a href="/roles/personalai" class="is-internal-link is-valid-page"><img src="/roles/personalai.png"></a></div>
   <div><div>Является переносным другом для общения, объектом для получения информации, если пИИ сможет её отрыть в памяти, развеселения либо гнева в зависимости от характера пИИ и многое другое, на что способен голосовой помощник!</div></div>
   <div>Очень легко</div>
   <!---<div><a href="/roles/maintenancedrone">Дрон техобслуживания</a><a href="/roles/maintenancedrone"><img src="/role/maintenancedrone.png" /></a></div>
@@ -327,28 +327,28 @@ dateCreated: 2024-08-25T11:19:07.610Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/ghost" class="is-internal-link is-valid-page">Призрак</a><a href="/roles/ghost" class="is-internal-link is-valid-page"><img src="/role/ghost.png"></a></div>
+  <div><a href="/roles/ghost" class="is-internal-link is-valid-page">Призрак</a><a href="/roles/ghost" class="is-internal-link is-valid-page"><img src="/roles/ghost.png"></a></div>
   <div><div>Любое населённое душой существо, которое по причине смерти было переведено в этот "отдел" на "должность" призрака. Об этом "отделе" не знает скорее всего даже само NanoTrasen, хотя регулярно поставляет сюда "сотрудников" и реже забирает их отсюда. Призракам запрещено как либо контактировать с существами не этой "должности" <a href="/rules" class="is-internal-link is-valid-page">(см. "метагейминг")</a>. Исключение составляет способность заставлять свет мигать.</div></div>
   <div>Отсутствует</div>
-<div><a href="/roles/punpun" class="is-internal-link is-valid-page">Пун Пун</a><a href="/roles/punpun" class="is-internal-link is-valid-page"><img src="/role/spiritualisticdepartment/pun_pun1.png"></a></div>
+<div><a href="/roles/punpun" class="is-internal-link is-valid-page">Пун Пун</a><a href="/roles/punpun" class="is-internal-link is-valid-page"><img src="/roles/spiritualisticdepartment/pun_pun1.png"></a></div>
   <div><div>Выдающийся представитель обезьян с неограниченным доступом к алкоголю.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/mouse" class="is-internal-link is-valid-page">Мышь</a><a href="/roles/mouse" class="is-internal-link is-valid-page"><img src="/role/ratge-asss1.gif"></a></div>
+  <div><a href="/roles/mouse" class="is-internal-link is-valid-page">Мышь</a><a href="/roles/mouse" class="is-internal-link is-valid-page"><img src="/roles/ratge-asss1.gif"></a></div>
   <div><div>Маленькая, серая мышь, которая пытается съесть всё съедобное и несъедобное на станции, включая бесхозно оставленные лекарства. Призрак может вселиться в эту мышь, чтобы сделать её действия более живыми и разумными, к сожалению, забывая всё, что было до вселения. И ОНА ТОЧНО НЕ УМЕЕТ ГОВОРИТЬ ЭМОЦИЯМИ!</div></div>
   <div>Легко</div>
-  <div><a href="/roles/hamlet" class="is-internal-link is-valid-page">Гамлет</a><a href="/roles/hamlet" class="is-internal-link is-valid-page"><img src="/role/hamlet.gif"></a></div>
+  <div><a href="/roles/hamlet" class="is-internal-link is-valid-page">Гамлет</a><a href="/roles/hamlet" class="is-internal-link is-valid-page"><img src="/roles/hamlet.gif"></a></div>
   <div><div>Хомячёк <a href="/roles/captain" class="is-internal-link is-valid-page">капитана</a>, которого "любит"  каждый член экипажа. Гоняет по станции или сидит в своей коробке, а иногда и в микроволновке.</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/remilia" class="is-internal-link is-valid-page">Ремилия</a><a href="/roles/remilia" class="is-internal-link is-valid-page"><img src="/role/remilia.gif"></a></div>
+  <div><a href="/roles/remilia" class="is-internal-link is-valid-page">Ремилия</a><a href="/roles/remilia" class="is-internal-link is-valid-page"><img src="/roles/remilia.gif"></a></div>
   <div><div>Маленький, милый фамильяр <a href="/roles/priest" class="is-internal-link is-valid-page">священника</a>, который похож на летучую мышь. Кушает все фрукты станции и уничтожает в щепки всех <a href="/roles/nuclearoperative" class="is-internal-link is-valid-page">ядерных оперативников</a>, если того пожелает священник.</div></div>
   <div>Средне</div>
-  <div><a href="/roles/baby-slime" class="is-internal-link is-valid-page">Улыбкин</a><a href="/roles/baby-slime" class="is-internal-link is-valid-page"><img src="/role/spiritualisticdepartment/baby-slime.gif"></a></div>
+  <div><a href="/roles/baby-slime" class="is-internal-link is-valid-page">Улыбкин</a><a href="/roles/baby-slime" class="is-internal-link is-valid-page"><img src="/roles/spiritualisticdepartment/baby-slime.gif"></a></div>
   <div><div>Не перепутайте с обычным слаймом. Это питомец научного отдела, он не кусается.</div></div>
   <div>Легко</div>
-<div><a href="/roles/gnome" class="is-internal-link is-valid-page">Гном</a><a href="/roles/gnome" class="is-internal-link is-valid-page"><img src="/role/gnome.png"></a></div>
+<div><a href="/roles/gnome" class="is-internal-link is-valid-page">Гном</a><a href="/roles/gnome" class="is-internal-link is-valid-page"><img src="/roles/gnome.png"></a></div>
   <div><div>Верный помощник <a href="./roles/botanist" class="is-asset-link">ботаника</a>, добродушный садовый гномик. Будет защищать свои права, пока его не разобьют. И он ТОЧНО НЕ хочет никому навредить.</div></div>
   <div>Гномически</div>
-  <div><a href="/roles/gondola" class="is-internal-link is-valid-page">Гондола</a><a href="/roles/gondola" class="is-internal-link is-valid-page"><img src="/role/gondola.png"></a></div>
+  <div><a href="/roles/gondola" class="is-internal-link is-valid-page">Гондола</a><a href="/roles/gondola" class="is-internal-link is-valid-page"><img src="/roles/gondola.png"></a></div>
   <div><div>Существо, которое можно купить в <a href="/ru/guides/uplink" class="is-internal-link is-valid-page">аплинке</a> </div></div>
   <div>Легко</div>
 </div>
