@@ -2,7 +2,7 @@
 title: Химик
 description: 
 published: true
-date: 2024-08-28T17:53:48.579Z
+date: 2024-08-28T17:56:16.324Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-27T06:53:36.702Z
@@ -205,34 +205,178 @@ dateCreated: 2024-08-27T06:53:36.702Z
 <h3 id="колбы" class="toc-header"><a class="toc-anchor" href="#колбы">¶</a> <center><span class="mw-headline" id="Таблетки"><span class="sprite"><a href="/bottle.png" class="image is-asset-link"><img alt="bottle.png" src="/roles/med/bottle.png" align="center" decoding="async" width="" height="74" data-file-width="32" data-file-height="32"></a></span>Колбы</span></center></h3>
 <p>С другой стороны, препараты в жидком виде позволяют более точно определить дозировку и не вызвать при этом передозировку лекарствами. Помимо этого они действуют гораздо быстрее таблеток, пусть и ввести можно гораздо меньший объём за раз.
 </p>
-<div class="table"></div></div></template><template slot="comments"><div><comments></comments></div></template></page></div>
-<script>
-  async function insertContentAfterTable(url) {
-    try {
-      const response = await fetch(url);
-
-      if (!response.ok) {
-        throw new Error(`Ошибка загрузки: ${response.statusText}`);
-      }
-
-      const content = await response.text();
-
-      const tableElement = document.querySelector('.table');
-
-      if (tableElement) {
-        const contentElement = document.createElement('div');
-        contentElement.innerHTML = content;
-        console.log(contentElement.querySelector(".title"));
-        tableElement.insertAdjacentElement('afterend', contentElement);
-      } else {
-        console.log('Элемент с классом table не найден.');
-      }
-    } catch (error) {
-      console.error('Произошла ошибка:', error);
-    }
-  }
-  window.onload = function() {
-    insertContentAfterTable('https://raw.githubusercontent.com/Valtosin/hz/main/role-table.txt');
-  }
-
-</script></body></html>
+<p></p>
+<div class="table"></div>
+<div><div class="roles-table">
+    <div class="title">
+      <img src="/main_page_icons/ss14_mini_logo.png" alt="Профессии экипажа">
+      <a href="/roles"><strong>Профессии экипажа</strong></a>
+    </div>
+    <div class="wrapper">
+      <div class="dep-wrapper" style="background:rgb(25, 100, 165, 0.2);">
+        <div class="dep-title" style="background:rgb(25, 100, 165, 0.7);">
+          <strong>Командование</strong>
+        </div>
+        <div class="roles" id="com">
+          <a href="/roles/captain">Капитан</a>
+          <a href="/roles/headofpersonnel">Глава персонала</a>
+          <a href="/roles/headofsecurity">Глава Службы Безопасности</a>
+          <a href="/roles/inspector">Инспектор</a>
+          <a href="/roles/chiefengineer">Старший Инженер</a>
+          <a href="/roles/researchdirector">Научный Руководитель</a>
+          <a href="/roles/chiefmedicalofficer">Старший Медицинский Офицер</a>
+          <a href="/roles/quartermaster">Квартирмейстер</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(20, 130, 45, 0.2);">
+        <div class="dep-title" style="background:rgb(20, 130, 45, 0.7);">
+          <strong>Центральное Командование</strong>
+        </div>
+        <div class="roles" id="cencom">
+          <a href="/roles/representativeofcc">Представитель ЦК</a>
+          <a href="/roles/emergencyresponseteam">Отряд Быстрого Реагирования</a>
+          <a href="/roles/deathsquad">Отряд Смерти</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(155, 0, 0, 0.2);">
+        <div class="dep-title" style="background:rgb(155, 0, 0, 0.7);">
+          <strong>Служба безопасности</strong>
+        </div>
+        <div class="roles" id="sec">
+          <a href="/roles/headofsecurity">Глава Службы Безопасности</a>
+          <a href="/roles/warden">Смотритель</a>
+          <a href="/roles/veteran">Ветеран</a>
+          <a href="/roles/officer">Офицер</a>
+          <a href="/roles/detective">Детектив</a>
+          <a href="/roles/cadet">Кадет</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(255, 140, 40, 0.2);">
+        <div class="dep-title" style="background:rgb(255, 140, 40, 0.7);">
+          <strong>Инженерный отдел</strong>
+        </div>
+        <div class="roles" id="eng">
+          <a href="/roles/chiefengineer">Старший Инженер</a>
+          <a href="/roles/brigadier">Бригадир</a>
+          <a href="/roles/engineer">Инженер</a>
+          <a href="/roles/atmospherictechnician">Атмосферный техник</a>
+          <a href="/roles/technicalassistant">Технический ассистент</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(205, 95, 190, 0.2);">
+        <div class="dep-title" style="background:rgb(205, 95, 190, 0.8);">
+          <strong>Отдел Исследований</strong>
+        </div>
+        <div class="roles" id="rnd">
+          <a href="/roles/researchdirector">Научный Руководитель</a>
+          <a href="/roles/leadresearcher">Ведущий исследователь</a>
+          <a href="/roles/scientist">Учёный</a>
+          <a href="/roles/researchassistant">Научный ассистент</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(90, 150, 190, 0.2);">
+        <div class="dep-title" style="background:rgb(90, 150, 190, 0.8);;">
+          <strong>Медицинский отдел</strong>
+        </div>
+        <div class="roles" id="med">
+          <a href="/roles/chiefmedicalofficer">Старший Медицинский Офицер</a>
+          <a href="/roles/medicalofficer">Медицинский офицер</a>
+          <a href="/roles/paramedic">Парамедик</a>
+          <a href="/roles/chemist">Химик</a>
+          <a href="/roles/doctor">Врач</a>
+          <a href="/roles/psychologist">Психолог</a>
+          <a href="/roles/intern">Интерн</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(180, 130, 65, 0.2);">
+        <div class="dep-title" style="background:rgb(180, 130, 65, 0.7);">
+          <strong>Отдел снабжения</strong>
+        </div>
+        <div class="roles" id="sup">
+          <a href="/roles/quartermaster">Квартирмейстер</a>
+         <!-- <a href="/roles/hunter">Охотник</a>-->
+          <a href="/roles/utilizer">Утилизатор</a>
+          <a href="/roles/loader">Грузчик</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(110, 10, 0, 0.2);">
+        <div class="dep-title" style="background:rgb(110, 10, 0, 0.7);">
+          <strong>Отдел юстиции</strong>
+        </div>
+        <div class="roles">
+          <a href="/roles/inspector">Инспектор</a>
+          <a href="/roles/lawyer">Юрист</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(95, 175, 5, 0.2);">
+        <div class="dep-title" style="background:rgb(95, 175, 5, 0.8);">
+          <strong>Сервисный отдел</strong>
+        </div>
+        <div class="roles" id="ser">
+          <a href="/roles/headofpersonnel">Глава персонала</a>
+          <a href="/roles/assistant">Ассистент</a>
+          <a href="/roles/serviceworker">Сервисный работник</a>
+          <a href="/roles/botanist">Ботаник</a>
+          <a href="/roles/chef">Шеф-повар</a>
+          <a href="/roles/barman">Бармен</a>
+          <a href="/roles/janitor">Уборщик</a>
+          <a href="/roles/clown">Клоун</a>
+          <a href="/roles/mime">Мим</a>
+          <a href="/roles/zootechnik">Зоотехник</a>
+          <a href="/roles/boxer">Боксёр</a>
+          <a href="/roles/reporter">Репортёр</a>
+          <a href="/roles/priest">Священник</a>
+          <a href="/roles/librarian">Библиотекарь</a>
+          <a href="/roles/musician">Музыкант</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(125, 130, 125, 0.2);">
+        <div class="dep-title" style="background:rgb(125, 130, 125, 0.8);">
+          <strong>Спиритический отдел</strong>
+        </div>
+        <div class="roles" id="ghost">
+          <a href="/roles/ghost">Призрак</a>
+          <a href="/roles/punpun">Пун Пун</a>
+          <a href="/roles/mouse">Мышь</a>
+          <a href="/roles/hamlet">Гамлет</a>
+          <a href="/roles/remilia">Ремилия</a>
+          <a href="/roles/gnome"> Гном</a>
+          <a href="/roles/gondola"> Гондола</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(112, 144, 138, 0.2);">
+        <div class="dep-title" style="background:rgb(112, 144, 138, 0.8);">
+          <strong>Синтетики</strong>
+        </div>
+        <div class="roles" id="syn">
+          <a href="/roles/cyborgs">Киборг</a>
+          <a href="/roles/personalai">пИИ</a>
+          <!--<a href="/roles/maintenancedrone">Дрон техобслуживания</a>-->
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(80, 20, 10, 0.2);">
+        <div class="dep-title" style="background:rgb(80, 20, 10, 0.7);">
+          <strong>Антагонисты</strong>
+        </div>
+        <div class="roles" id="ant">
+          <a href="/roles/traitor">Предатель</a>
+          <a href="/roles/nuclearoperative">Ядерный оперативник</a>
+          <a href="/roles/corticalBorer">Космическая аскарида</a>
+          <a href="/roles/thief">Вор</a>
+          <a href="/roles/cultist">Культист</a>
+          <a href="/roles/revolution">Революционер</a>
+          <a href="/roles/patientzero">Нулевой пациент</a>
+          <a href="/roles/spaceninja">Космический ниндзя</a>
+          <a href="/roles/pirate">Пират</a>
+          <a href="/roles/revenant">Ревенант</a>
+          <a href="/roles/ratking">Крысиный король</a>
+          <a href="/roles/spacedragon">Космический дракон</a>
+          <a href="/roles/guardian">Хранитель</a>
+          <a href="/roles/genestealer">Генокрад</a>
+          <a href="/roles/terminator">Терминатор</a>
+          <a href="/roles/wizard">Маг</a>
+        </div>
+      </div>
+    </div>
+</div>
+</div>
