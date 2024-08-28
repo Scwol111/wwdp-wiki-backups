@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T19:09:27.392Z
+date: 2024-08-28T19:13:50.181Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -38,14 +38,14 @@ dateCreated: 2024-08-25T11:19:25.641Z
       <th class="code1" style="width: 16%; color:white;">6XX - критические нарушения</th>
     </tr>
     <tr>
-      <th class="code">01</th>
-      <th style="background-color:#698f43; color:white;"><a href="#s101">Побои</a></th>
-      <th style="background-color:#a69b38; color:white;">Легкие телесные повреждения</th>
-      <th style="background-color:#b8863b; color:white;">Средние телесные повреждение</th>
-      <th style="background-color:#b0653a; color:white;">Тяжкие телесные повреждения</th>
-      <th style="background-color:#963535; color:white;">Убийство</th>
-      <th class="critical"><a href="#s601" style="color:#c5e7fa;">Массовые убийства</a></th>
-    </tr>
+        <th class="code">01</th>
+        <th style="background-color:#698f43; color:white;"><a href="#s101">Побои</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s102">Легкие телесные повреждения</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s103">Средние телесные повреждение</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s104">Тяжкие телесные повреждения</a></th>
+        <th style="background-color:#963535; color:white;"><a href="#s105">Убийство</th>
+        <th class="critical"><a href="#s601" style="color:#c5e7fa;">Массовые убийства</a></th>
+      </tr>
     <tr>
       <th class="code">02</th>
       <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Незаконное хранение или употребление наркотиков</th>
