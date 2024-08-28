@@ -2,7 +2,7 @@
 title: Интерн
 description: 
 published: true
-date: 2024-08-28T19:13:33.219Z
+date: 2024-08-28T19:15:29.103Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-28T19:13:33.219Z
@@ -11,7 +11,7 @@ dateCreated: 2024-08-28T19:13:33.219Z
 <div class="roles-passport med">
   <div class="title med"><a href="/roles/medicaldepartment" class="is-internal-link is-valid-page">Медицинский отдел</a></div>
   <div>
-    <div><div><img src="/role/intern.png"></div></div>
+    <div><div><img src="/roles/intern.png"></div></div>
   <div><div>
     <h1 id="интерн" class="toc-header"><a class="toc-anchor" href="#интерн">¶</a> Интерн</h1>
     <p><strong>Сложность:</strong> Лёгкая</p>
@@ -23,7 +23,7 @@ dateCreated: 2024-08-28T19:13:33.219Z
 </div>
 </div>
 <p>
-</p><div class="floatright"><a href="/roles/chiefmedicalofficer" class="image is-internal-link is-valid-page" title="128"><img alt="chiefmedicalofficer.png" src="/role/chiefmedicalofficer.png" decoding="async" width="192" height="192" data-file-width="114" data-file-height="192"></a></div><div> 
+</p><div class="floatright"><a href="/roles/chiefmedicalofficer" class="image is-internal-link is-valid-page" title="128"><img alt="chiefmedicalofficer.png" src="/roles/chiefmedicalofficer.png" decoding="async" width="192" height="192" data-file-width="114" data-file-height="192"></a></div><div> 
 
 </div><div style="display: flex; flex-flow: row wrap; border: 1px solid #111010; border-radius: 10px; background-color: #111010; padding: 30px; color: #BB9C31; font-size: 16pt; justify-content: center; align-items: center;">СМО говорит:
 <p>"Добро пожаловать. Добро пожаловать в Медбей. Сами вы его выбрали или его выбрали за вас, это лучший отдел из имеющихся. Я горжусь тем, что работаю тут. Итак, собираетесь ли вы остаться здесь, или же вас ждут неизвестные дали, добро пожаловать в Медицинский Отдел. Здесь умирают люди и это ваши проблемы."<br></p></div><br>
@@ -60,8 +60,8 @@ dateCreated: 2024-08-28T19:13:33.219Z
 <p></p>
 <h2 id="подготовка-к-работе" class="toc-header"><a class="toc-anchor" href="#подготовка-к-работе">¶</a> <center>Подготовка к работе</center></h2>
   <p>Перед тем, как приступить к своей работе вам необходимо разобраться с экипировкой, которая имеется у вас в распоряжении. Рассмотрим имеющуюся у вас по началу экипировку: медикаменты в медицинском поясе.<br>
-</p><p><img src="/intern_hud.png" alt="intern_hud.png"><br>
-<img src="/medical_belt_ui.png" alt="medical_belt_ui.png"><br>
+</p><p><img src="/roles/med/intern_hud.png" alt="intern_hud.png"><br>
+<img src="/roles/med/medical_belt_ui.png" alt="medical_belt_ui.png"><br>
 В вашем поясе имеется 40 единиц свободного места, куда вы можете складывать нужные вам медикаменты. Раундстартом в нем находятся <b>3</b> пачки пластырей, в каждой пачке по <b>10</b> штук, <b>3</b> пачки тюбиков мази и экстренный медипен. Этого набора должно хватить на некоторое время, пока <a href="/roles/chemist" title="Химик" class="is-internal-link is-valid-page">химики</a> синтезируют более эффективные лекарства. Подготовились - пора начинать работу!</p>
 <p></p>
 <h2 id="доктор-помогите" class="toc-header"><a class="toc-anchor" href="#доктор-помогите">¶</a> <center>Доктор! Помогите!</center></h2>
