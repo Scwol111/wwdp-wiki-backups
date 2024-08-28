@@ -2,7 +2,7 @@
 title: Медицинский офицер
 description: 
 published: true
-date: 2024-08-28T14:07:37.289Z
+date: 2024-08-28T17:41:54.838Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T21:00:49.269Z
@@ -61,7 +61,7 @@ dateCreated: 2024-08-26T21:00:49.269Z
 <div class="table"></div>
 <div><div class="roles-table">
     <div class="title">
-      <img src="/role/ss14 mini logo.png" alt="Профессии экипажа">
+      <img src="/main_page_icons/ss14_mini_logo.png" alt="Профессии экипажа">
       <a href="https://wiki.ss14.su/roles"><strong>Профессии экипажа</strong></a>
     </div>
     <div class="wrapper">
