@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T19:28:54.700Z
+date: 2024-08-28T19:30:26.660Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -92,14 +92,14 @@ dateCreated: 2024-08-25T11:19:25.641Z
         <th class="critical"></th>
       </tr>
     <tr>
-      <th class="code">07</th>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Проникновение в отдел</th>
-      <th style="background-color:#a69b38; color:white;">Проникновение со взломом</th>
-      <th style="background-color:#b8863b; color:white;">Проникновение в защищенные отсеки/комнаты глав</th>
-      <th style="background-color:#b0653a; color:white;">Проникновение в хранилище</th>
-      <th style="background-color:#963535; color:white;">Проникновение в оружейную</th>
-      <th class="critical"></th>
-    </tr>
+        <th class="code">07</th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s107">Проникновение в отдел</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s207">Проникновение со взломом</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s307">Проникновение в защищенные отсеки/комнаты глав</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s407">Проникновение в хранилище</a></th>
+        <th style="background-color:#963535; color:white;"><a href="#s507">Проникновение в оружейную</a></th>
+        <th class="critical"></th>
+      </tr>
     <tr>
       <th class="code">08</th>
       <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Вандализм</th>
