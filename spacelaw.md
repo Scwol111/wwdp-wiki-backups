@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T19:23:33.032Z
+date: 2024-08-28T19:24:58.664Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -65,14 +65,14 @@ dateCreated: 2024-08-25T11:19:25.641Z
         <th class="critical"><a href="#s603" style="color:#c5e7fa;">Изнасилование</a></th>
       </tr>
     <tr>
-      <th class="code">04</th>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Сопротивление</th>
-      <th style="background-color:#a69b38; color:white;">Нападение на должностное лицо</th>
-      <th style="background-color:#b8863b; color:white;">Забастовка</th>
-      <th style="background-color:#b0653a; color:white;">Подстрекательство к мятежу</th>
-      <th style="background-color:#963535; color:white;"></th>
-      <th class="critical"><a href="#s604" style="color:#c5e7fa;">Вооруженный мятеж</a></th>
-    </tr>
+        <th class="code">04</th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s104">Сопротивление</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s204">Нападение на должностное лицо</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s304">Забастовка</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s404">Подстрекательство к мятежу</a></th>
+        <th style="background-color:#963535; color:white;"></th>
+        <th class="critical"><a href="#s604" style="color:#c5e7fa;">Вооруженный мятеж</a></th>
+      </tr>
     <tr>
       <th class="code">05</th>
       <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"></th>
