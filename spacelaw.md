@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T19:13:50.181Z
+date: 2024-08-28T19:21:56.695Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -40,21 +40,21 @@ dateCreated: 2024-08-25T11:19:25.641Z
     <tr>
         <th class="code">01</th>
         <th style="background-color:#698f43; color:white;"><a href="#s101">Побои</a></th>
-        <th style="background-color:#a69b38; color:white;"><a href="#s102">Легкие телесные повреждения</a></th>
-        <th style="background-color:#b8863b; color:white;"><a href="#s103">Средние телесные повреждение</a></th>
-        <th style="background-color:#b0653a; color:white;"><a href="#s104">Тяжкие телесные повреждения</a></th>
-        <th style="background-color:#963535; color:white;"><a href="#s105">Убийство</th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s201">Легкие телесные повреждения</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s301">Средние телесные повреждение</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s401">Тяжкие телесные повреждения</a></th>
+        <th style="background-color:#963535; color:white;"><a href="#s501">Убийство</th>
         <th class="critical"><a href="#s601" style="color:#c5e7fa;">Массовые убийства</a></th>
       </tr>
-    <tr>
-      <th class="code">02</th>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Незаконное хранение или употребление наркотиков</th>
-      <th style="background-color:#a69b38; color:white;">Незаконное распространение наркотиков</th>
-      <th style="background-color:#b8863b; color:white;">Незаконное производство наркотиков</th>
-      <th style="background-color:#b0653a; color:white;">Хранение или использование контрабанды</th>
-      <th style="background-color:#963535; color:white;">Распространение контрабанды</th>
-      <th class="critical"><a href="#s602" style="color:#c5e7fa;">Враг корпорации</a></th>
-    </tr>
+      <tr>
+        <th class="code">02</th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s102">Незаконное хранение или употребление наркотиков</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s202">Незаконное распространение наркотиков</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s302">Незаконное производство наркотиков</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s402">Хранение или использование контрабанды</a></th>
+        <th style="background-color:#963535; color:white;"><a href="#s502">Распространение контрабанды</a></th>
+        <th class="critical"><a href="#s602" style="color:#c5e7fa;">Враг корпорации</a></th>
+      </tr>
     <tr>
       <th class="code">03</th>
       <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Хулиганство</th>
