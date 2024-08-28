@@ -2,7 +2,7 @@
 title: Химик
 description: 
 published: true
-date: 2024-08-28T17:56:16.324Z
+date: 2024-08-28T18:04:11.670Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-27T06:53:36.702Z
@@ -199,7 +199,7 @@ dateCreated: 2024-08-27T06:53:36.702Z
 <h2 id="таблетки-или-жидкость" class="toc-header"><a class="toc-anchor" href="#таблетки-или-жидкость">¶</a> <center> Таблетки или жидкость? </center></h2>
 <p>У вас может возникнуть вопрос: что лучше выбрать, если разница между ними почти отсутствует? Ну, на самом деле, разница между таблетками и жидкими лекарствами существенная:
 </p>
-<h3 id="таблетки" class="toc-header"><a class="toc-anchor" href="#таблетки">¶</a> <center><span class="mw-headline" id="Таблетки"><span class="sprite"><a href="/Pill.png" class="image is-asset-link"><img alt="Pill.png" src="/roles/med/pill1.png" align="center" decoding="async" width="" height="74" data-file-width="32" data-file-height="32"></a></span>Таблетки</span></center></h3>
+<h3 id="таблетки" class="toc-header"><a class="toc-anchor" href="#таблетки">¶</a> <center><span class="mw-headline" id="Таблетки"><span class="sprite"><a href="/Pill.png" class="image is-asset-link"><img alt="Pill.png" src="" align="center" decoding="async" width="" height="74" data-file-width="32" data-file-height="32"></a></span>Таблетки</span></center></h3>
 <p>Таблетка обладает ёмкостью в 50 унций, это не только отличный способ ввести большую дозу человеку, но и делать это в одно мгновенье. Нужно не больше секунды, чтобы ввести пациенту 50 единиц снотворного; чтобы сделать то же самое шприцом, потребуется больше времени.
 </p>
 <h3 id="колбы" class="toc-header"><a class="toc-anchor" href="#колбы">¶</a> <center><span class="mw-headline" id="Таблетки"><span class="sprite"><a href="/bottle.png" class="image is-asset-link"><img alt="bottle.png" src="/roles/med/bottle.png" align="center" decoding="async" width="" height="74" data-file-width="32" data-file-height="32"></a></span>Колбы</span></center></h3>
