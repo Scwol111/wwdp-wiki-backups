@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T11:16:50.702Z
+date: 2024-08-28T11:48:32.004Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -30,7 +30,7 @@ dateCreated: 2024-08-25T11:19:25.641Z
   <tbody>
     <tr>
       <th class="code1" style="width: 4%;">Код</th>
-      <th class="code1" style="width: 16%">1XX - малые нарушения</th>
+      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">1XX - малые нарушения</th>
       <th class="code1" style="width: 16%">2XX - легкие нарушения</th>
       <th class="code1" style="width: 16%">3XX - средние нарушения</th>
       <th class="code1" style="width: 16%">4XX - тяжкие нарушения</th>
@@ -39,7 +39,7 @@ dateCreated: 2024-08-25T11:19:25.641Z
     </tr>
     <tr>
       <th class="code">01</th>
-      <th class="minor" style="height: 75px; color:#aad6f0;"><a href="#s101" style="color:#c5e7fa;">Побои</a></th>
+      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Побои</th>
       <th class="mild"><a href="#s201" style="color:#c5e7fa;">Легкие телесные повреждения</a></th>
       <th class="moderate"><a href="#s301" style="color:#c5e7fa;">Средние телесные повреждение</a></th>
       <th class="such"><a href="#s401" style="color:#c5e7fa;">Тяжкие телесные повреждения</a></th>
@@ -48,7 +48,7 @@ dateCreated: 2024-08-25T11:19:25.641Z
     </tr>
     <tr>
       <th class="code">02</th>
-      <th class="minor"><a href="#s102" style="color:#c5e7fa;">Незаконное хранение или употребление наркотиков</a></th>
+      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Незаконное хранение или употребление наркотиков</th>
       <th class="mild"><a href="#s202" style="color:#c5e7fa;">Незаконное распространение наркотиков</a></th>
       <th class="moderate"><a href="#s302" style="color:#c5e7fa;">Незаконное производство наркотиков</a></th>
       <th class="such"><a href="#s402" style="color:#c5e7fa;">Хранение или использование контрабанды</a></th>
@@ -57,7 +57,7 @@ dateCreated: 2024-08-25T11:19:25.641Z
     </tr>
     <tr>
       <th class="code">03</th>
-      <th class="minor" style=" height: 75px;"><a href="#s103" style="color:#c5e7fa;">Хулиганство</a></th>
+      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Хулиганство</th>
       <th class="mild"><a href="#s203" style="color:#c5e7fa;">Эксгибиционизм</a></th>
       <th class="moderate"><a href="#s303" style="color:#c5e7fa;">Домогательство</a></th>
       <th class="such"><a href="#s403" style="color:#c5e7fa;">Похищение</a></th>
@@ -66,7 +66,7 @@ dateCreated: 2024-08-25T11:19:25.641Z
     </tr>
     <tr>
       <th class="code">04</th>
-      <th class="minor" style=" height: 75px;"><a href="#s104" style="color:#c5e7fa;">Сопротивление</a></th>
+      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Сопротивление</th>
       <th class="mild"><a href="#s204" style="color:#c5e7fa;">Нападение на должностное лицо</a></th>
       <th class="moderate"><a href="#s304" style="color:#c5e7fa;">Забастовка</a></th>
       <th class="such"><a href="#s404" style="color:#c5e7fa;">Подстрекательство к мятежу</a></th>
@@ -75,7 +75,7 @@ dateCreated: 2024-08-25T11:19:25.641Z
     </tr>
     <tr>
       <th class="code">05</th>
-      <th class="minor"></th>
+      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"></th>
       <th class="mild"><a href="#s205" style="color:#c5e7fa;">Изготовление или владение самодельным оружием</a></th>
       <th class="moderate"><a href="#s305" style="color:#c5e7fa;">Незаконное владение холодным или нелетальным оружием</a></th>
       <th class="such"><a href="#s405" style="color:#c5e7fa;">Незаконное владение оружием</a></th>
@@ -84,7 +84,7 @@ dateCreated: 2024-08-25T11:19:25.641Z
     </tr>
     <tr>
       <th class="code">06</th>
-      <th class="minor"><a href="#s106" style="color:#c5e7fa;">Мелкая кража</a></th>
+      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Мелкая кража</th>
       <th class="mild"><a href="#s206" style="color:#c5e7fa;">Кража</a></th>
       <th class="moderate"></th>
       <th class="such"><a href="#s406" style="color:#c5e7fa;">Кража в особо крупных масштабах или кража ценного имущества</a></th>
@@ -93,7 +93,7 @@ dateCreated: 2024-08-25T11:19:25.641Z
     </tr>
     <tr>
       <th class="code">07</th>
-      <th class="minor"><a href="#s107" style="color:#c5e7fa;">Проникновение в отдел</a></th>
+      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Проникновение в отдел</th>
       <th class="mild"><a href="#s207" style="color:#c5e7fa;">Проникновение со взломом</a></th>
       <th class="moderate"><a href="#s307" style="color:#c5e7fa;">Проникновение в защищенные отсеки/комнаты глав</a></th>
       <th class="such"><a href="#s407" style="color:#c5e7fa;">Проникновение в хранилище</a></th>
@@ -102,7 +102,7 @@ dateCreated: 2024-08-25T11:19:25.641Z
     </tr>
     <tr>
       <th class="code">08</th>
-      <th class="minor"><a href="#s108" style="color:#c5e7fa;">Вандализм</a></th>
+      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Вандализм</th>
       <th class="mild"></th>
       <th class="moderate"><a href="#s308" style="color:#c5e7fa;">Повреждение или попытка взлома боргов</a></th>
       <th class="such"><a href="#s408" style="color:#c5e7fa;">Саботаж</a></th>
@@ -111,7 +111,7 @@ dateCreated: 2024-08-25T11:19:25.641Z
     </tr>
     <tr>
       <th class="code">09</th>
-      <th class="minor"><a href="#s109" style="color:#c5e7fa;">Неисполнение приказа</a></th>
+      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Неисполнение приказа</th>
       <th class="mild"><a href="#s209" style="color:#c5e7fa;">Халатность</a></th>
       <th class="moderate"><a href="#s309" style="color:#c5e7fa;">Превышение должностных полномочий</a></th>
       <th class="such"><a href="#s409" style="color:#c5e7fa;">Грубая халатность</a></th>
@@ -120,7 +120,7 @@ dateCreated: 2024-08-25T11:19:25.641Z
     </tr>
     <tr>
       <th class="code">10</th>
-      <th class="minor" style="height: 75px;"><a href="#s110" style="color:#c5e7fa;">Мошенничество</a></th>
+      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Мошенничество</th>
       <th class="mild"></th>
       <th class="moderate"><a href="#s310" style="color:#c5e7fa;">Принятие взятки</a></th>
       <th class="such"></th>
