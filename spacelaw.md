@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T19:31:42.171Z
+date: 2024-08-28T19:33:06.027Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -110,14 +110,14 @@ dateCreated: 2024-08-25T11:19:25.641Z
         <th class="critical"><a href="#s608" style="color:#c5e7fa;">Попытка уничтожения станции</a></th>
       </tr>
     <tr>
-      <th class="code">09</th>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Неисполнение приказа</th>
-      <th style="background-color:#a69b38; color:white;">Халатность</th>
-      <th style="background-color:#b8863b; color:white;">Превышение должностных полномочий</th>
-      <th style="background-color:#b0653a; color:white;">Грубая халатность</th>
-      <th style="background-color:#963535; color:white;"></th>
-      <th class="critical"></th>
-    </tr>
+        <th class="code">09</th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s109">Неисполнение приказа</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s209">Халатность</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s309">Превышение должностных полномочий</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s409">Грубая халатность</a></th>
+        <th style="background-color:#963535; color:white;"></th>
+        <th class="critical"></th>
+      </tr>
     <tr>
       <th class="code">10</th>
       <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Мошенничество</th>
