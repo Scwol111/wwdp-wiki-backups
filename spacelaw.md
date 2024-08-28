@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T11:48:32.004Z
+date: 2024-08-28T11:53:26.992Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -30,8 +30,8 @@ dateCreated: 2024-08-25T11:19:25.641Z
   <tbody>
     <tr>
       <th class="code1" style="width: 4%;">Код</th>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">1XX - малые нарушения</th>
-      <th class="code1" style="width: 16%">2XX - легкие нарушения</th>
+      <th style="background-color:#698f43; color:white;">1XX - малые нарушения</th>
+      <th style="background-color:#a69b38; color:white;">2XX - легкие нарушения</th>
       <th class="code1" style="width: 16%">3XX - средние нарушения</th>
       <th class="code1" style="width: 16%">4XX - тяжкие нарушения</th>
       <th class="code1" style="width: 16%">5XX - особо тяжкие нарушения</th>
@@ -39,8 +39,8 @@ dateCreated: 2024-08-25T11:19:25.641Z
     </tr>
     <tr>
       <th class="code">01</th>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Побои</th>
-      <th class="mild"><a href="#s201" style="color:#c5e7fa;">Легкие телесные повреждения</a></th>
+      <th style="background-color:#698f43; color:white;">Побои</th>
+      <th >Легкие телесные повреждения</th>
       <th class="moderate"><a href="#s301" style="color:#c5e7fa;">Средние телесные повреждение</a></th>
       <th class="such"><a href="#s401" style="color:#c5e7fa;">Тяжкие телесные повреждения</a></th>
       <th class="grave"><a href="#s501" style="color:#c5e7fa;">Убийство</a></th>
