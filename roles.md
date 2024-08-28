@@ -2,7 +2,7 @@
 title: Роли
 description: 
 published: false
-date: 2024-08-28T18:35:16.544Z
+date: 2024-08-28T18:47:23.374Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:07.610Z
@@ -27,31 +27,31 @@ dateCreated: 2024-08-25T11:19:07.610Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/captain" class="is-internal-link is-valid-page">Капитан</a><a href="/roles/captain" class="is-internal-link is-valid-page"><img src="/role/captain.png"></a></div>
+  <div><a href="/roles/captain" class="is-internal-link is-valid-page">Капитан</a><a href="/roles/captain" class="is-internal-link is-valid-page"><img src="/roles/captain.png"></a></div>
   <div><div>Голова всей станции. Отдаёт какие-то там приказы, иногда они бывают дельными. Часто осознаёт, что у него украли ID. Нередко параноик и вооружён при любом коде.</div></div>
   <div>Сложно - Боль</div>
-  <div><a href="/roles/headofpersonnel" class="is-internal-link is-valid-page">Глава Персонала</a><a href="/roles/headofpersonnel" class="is-internal-link is-valid-page"><img src="/role/headofpersonnel.png"></a></div>
+  <div><a href="/roles/headofpersonnel" class="is-internal-link is-valid-page">Глава Персонала</a><a href="/roles/headofpersonnel" class="is-internal-link is-valid-page"><img src="/roles/headofpersonnel.png"></a></div>
   <div><div>Правая рука и заместитель капитана. Главная роль - управление <a href="/roles#сервисный-отдел" class="is-internal-link is-valid-page">отделом сервиса</a>, а также изменением доступа ID члена экипажа, при необходимости. Дополнительно следит за работой станции и отделов. Часто забивает на свою работу, и идёт ловить преступников, а иногда вообще... не выдерживает.</div></div>
   <div>Достаточно сложно</div>
-  <div><a href="/roles/headofsecurity" class="is-internal-link is-valid-page">Глава Службы Безопасности</a><a href="/roles/headofsecurity" class="is-internal-link is-valid-page"><img src="/role/headofsecurity.png"></a></div>
+  <div><a href="/roles/headofsecurity" class="is-internal-link is-valid-page">Глава Службы Безопасности</a><a href="/roles/headofsecurity" class="is-internal-link is-valid-page"><img src="/roles/headofsecurity.png"></a></div>
   <div><div><a href="/roles#служба-безопасности" class="is-internal-link is-valid-page">Глава порядка</a> на этой станции. Либо хороший, либо мёртвый. Другого не дано. Вы будите молиться, чтобы в случае чего пытал и допрашивал Вас не он. Уходит спать и никогда не просыпается. Плохо подавляет отдел снабжения от заполучения независимости.</div></div>
   <div>Достаточно сложно</div>
-  <div><a href="/roles/chiefengineer" class="is-internal-link is-valid-page">Старший Инженер</a><a href="/roles/chiefengineer" class="is-internal-link is-valid-page"><img src="/role/chiefengineer.png"></a></div>
+  <div><a href="/roles/chiefengineer" class="is-internal-link is-valid-page">Старший Инженер</a><a href="/roles/chiefengineer" class="is-internal-link is-valid-page"><img src="/roles/chiefengineer.png"></a></div>
   <div><div>Заведует <a href="/roles#инженерный-отдел" class="is-internal-link is-valid-page">отделом инженерии</a>. Строит шаттл, чтобы в случае чего свалить либо помешать получение независимости отделом снабжения, либо объявляет независимости инженерии. Имеет крутые инструменты, которыми не против завладеть почти любой. Кричит "ДА БУДЕТ СВЕТ!" и взрывает <a href="/guides/antimatterengine" class="is-internal-link is-valid-page">ДАМ</a>. Умирает из-за <a href="/roles/atmospherictechnician" class="is-internal-link is-valid-page">атмосферного инженера</a>, который открутил трубу с высоким давлением.</div></div>
 	<div>Сложно</div>
-  <div><a href="/roles/researchdirector" class="is-internal-link is-valid-page">Научный Руководитель</a><a href="/roles/researchdirector" class="is-internal-link is-valid-page"><img src="/role/researchdirector.png"></a></div>
+  <div><a href="/roles/researchdirector" class="is-internal-link is-valid-page">Научный Руководитель</a><a href="/roles/researchdirector" class="is-internal-link is-valid-page"><img src="/roles/researchdirector.png"></a></div>
 	<div><div>Руководит одним из самых важных, а также опасных отделов, а именно <a href="/roles#научный-отдел" class="is-internal-link is-valid-page">отделом науки</a>! Обеспечивает контроль того, чтобы у всех было всё новенькое и продвинутое. Вооружает отдел оружием, гранатами, минами, защищает гермозатворами и всем остальным, что под руку попадётся, а затем варит наркотики и умирает из-за того, что научный ассистент ради шутки заварил его в ящике холодильника.</div></div>
 	<div>Средне, но со сложностями</div>
-  <div><a href="/roles/chiefmedicalofficer" class="is-internal-link is-valid-page">Старший Медицинский Офицер</a><a href="/roles/chiefmedicalofficer" class="is-internal-link is-valid-page"><img src="/role/chiefmedicalofficer.png"></a></div>
+  <div><a href="/roles/chiefmedicalofficer" class="is-internal-link is-valid-page">Старший Медицинский Офицер</a><a href="/roles/chiefmedicalofficer" class="is-internal-link is-valid-page"><img src="/roles/chiefmedicalofficer.png"></a></div>
   <div><div>Руководит <a href="/roles#медицинский-отдел" class="is-internal-link is-valid-page">медицинским отделом</a>. Обеспечивает и контролирует обеспечение станции лекарствами и спасением вашей пятой точки. По итогу варит наркотики вместе с химиками и сам ложится на больничную койку ввиду передозировки.</div></div>
 	<div>Сложно</div>
-  <div><a href="/roles/quartermaster" class="is-internal-link is-valid-page">Квартирмейстер</a><a href="/roles/quartermaster" class="is-internal-link is-valid-page"><img src="/role/quartermaster.png"></a></div>
+  <div><a href="/roles/quartermaster" class="is-internal-link is-valid-page">Квартирмейстер</a><a href="/roles/quartermaster" class="is-internal-link is-valid-page"><img src="/roles/quartermaster.png"></a></div>
   <div><div>Руководитель <a href="/roles#отдел-снабжения" class="is-internal-link is-valid-page">отдела снабжения</a>. Контролирует обеспечение станции всем необходимым. По итогу снабжает свой отдел чем вздумается ему и угоняет шаттл отдела снабжения, объявляя независимость "Каргонии".</div></div>
 	<div>Средне, но со сложностями</div>
-  <div><a href="/roles/inspector" class="is-internal-link is-valid-page">Инспектор</a><a href="/roles/inspector" class="is-internal-link is-valid-page"><img src="/role/inspector.png"></a></div>
+  <div><a href="/roles/inspector" class="is-internal-link is-valid-page">Инспектор</a><a href="/roles/inspector" class="is-internal-link is-valid-page"><img src="/roles/inspector.png"></a></div>
   <div><div>Руководитель <a href="/roles#отдел-юстиции" class="is-internal-link is-valid-page">отдела юстиции</a>. Контролирует выполнение целей стации. В любой момент он может нагрянуть в ваш отдел с проверкой. Будьте готовы подписывать отчёты и объясняться, почему же вы сидите в баре за офицера, пока в соседнем коридоре убивают капитана.</div></div>
 	<div>Сложно</div>
-  <div><a href="/roles/maid" class="is-internal-link is-valid-page">Прислуга</a><a href="/roles/maid" class="is-internal-link is-valid-page"><img src="/role/maid/maid.png"></a></div>
+  <div><a href="/roles/maid" class="is-internal-link is-valid-page">Прислуга</a><a href="/roles/maid" class="is-internal-link is-valid-page"><img src="/roles/maid.png"></a></div>
   <div><div>Прислуга - существует только для того, чтобы выполнять функцию горничной.
 </div></div>
 	<div>Легко</div>
