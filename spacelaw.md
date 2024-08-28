@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T19:27:59.624Z
+date: 2024-08-28T19:28:54.700Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -83,14 +83,14 @@ dateCreated: 2024-08-25T11:19:25.641Z
         <th class="critical"></th>
       </tr>
     <tr>
-      <th class="code">06</th>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Мелкая кража</th>
-      <th style="background-color:#a69b38; color:white;">Кража</th>
-      <th style="background-color:#b8863b; color:white;"></th>
-      <th style="background-color:#b0653a; color:white;">Кража в особо крупных масштабах или кража ценного имущества</th>
-      <th style="background-color:#963535; color:white;">Кража особо ценного имущества</th>
-      <th class="critical"></th>
-    </tr>
+        <th class="code">06</th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s106">Мелкая кража</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s206">Кража</a></th>
+        <th style="background-color:#b8863b; color:white;"></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s406">Кража в особо крупных масштабах или кража ценного имущества</a></th>
+        <th style="background-color:#963535; color:white;"><a href="#s506">Кража особо ценного имущества</a></th>
+        <th class="critical"></th>
+      </tr>
     <tr>
       <th class="code">07</th>
       <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Проникновение в отдел</th>
