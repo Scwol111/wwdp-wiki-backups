@@ -2,17 +2,16 @@
 title: Химик
 description: 
 published: true
-date: 2024-08-27T06:53:36.702Z
+date: 2024-08-28T17:53:48.579Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-27T06:53:36.702Z
 ---
 
-
 <div class="roles-passport med">
   <div class="title med"><a href="/roles/medicaldepartment" class="is-internal-link is-valid-page">Медицинский отдел</a></div>
   <div>
-    <div><div><img src="/role/chemist.png"></div></div>
+    <div><div><img src="/roles/med/chemist.png"></div></div>
   <div><div>
     <h1 id="химик" class="toc-header"><a class="toc-anchor" href="#химик">¶</a> Химик</h1>
     <p><strong>Сложность:</strong> Средняя</p>
@@ -44,7 +43,7 @@ dateCreated: 2024-08-27T06:53:36.702Z
 <div class="element"><a href="#chem_Carbon" class="custom-link">30 железа</a></div>
 </div>
 <div class="vertical-container">
-<div class="element"><img src="/guides/beaker.png" alt="beaker.png"></div>
+<div class="element"><img src="/roles/med/beaker.png" alt="beaker.png"></div>
 <div class="element">Смешай</div>
 </div>  
 <div class="vertical-container">
@@ -67,7 +66,7 @@ dateCreated: 2024-08-27T06:53:36.702Z
 <div class="element"><a href="#chem_Inaprovaline" class="custom-link">60 углерод</a></div>
 </div>
 <div class="vertical-container">
-<div class="element"><img src="/guides/beaker.png" alt="beaker.png"></div>
+<div class="element"><img src="/roles/med/beaker.png" alt="beaker.png"></div>
 <div class="element">Смешай</div>
 </div>  
 <div class="vertical-container">
@@ -91,7 +90,7 @@ dateCreated: 2024-08-27T06:53:36.702Z
 <div class="element"><a href="#chem_Phosphorus" class="custom-link">30 фосфор</a></div>
 </div>
 <div class="vertical-container">
-<div class="element"><img src="/guides/beaker.png" alt="beaker.png"></div>
+<div class="element"><img src="/roles/med/beaker.png" alt="beaker.png"></div>
 <div class="element">Смешай</div>
 </div>  
 <div class="vertical-container">
@@ -114,7 +113,7 @@ dateCreated: 2024-08-27T06:53:36.702Z
 <div class="element"><a href="#chem_Nitrogen" class="custom-link">30 азот</a></div>
 </div>
 <div class="vertical-container">
-<div class="element"><img src="/guides/beaker.png" alt="beaker.png"></div>
+<div class="element"><img src="/roles/med/beaker.png" alt="beaker.png"></div>
 <div class="element">Смешай</div>
 </div>  
 <div class="vertical-container">
@@ -140,7 +139,7 @@ dateCreated: 2024-08-27T06:53:36.702Z
 <div class="element"><a href="#chem_Hydrogen" class="custom-link">+30 Водород</a></div>
 </div>
 <div class="vertical-container">
-<div class="element"><img src="/guides/beaker.png" alt="beaker.png"></div>
+<div class="element"><img src="/roles/med/beaker.png" alt="beaker.png"></div>
 <div class="element">Смешай</div>
 </div>  
 <div class="vertical-container">
@@ -166,7 +165,7 @@ dateCreated: 2024-08-27T06:53:36.702Z
 </div>
 <div class="thumb tright" style="margin-left:10px;">
     <div class="thumbinner" style="width:282px;">
-      <a href="/medical_chemistry.png" class="image is-asset-link"><img alt="" src="/medical_chemistry.png" decoding="async" width="480" height="280" class="thumbimage" srcset="medical_chemistry.png 1.5x, medical_chemistry.png 2x" data-file-width="576" data-file-height="576"></a>
+      <a href="/medical_chemistry.png" class="image is-asset-link"><img alt="" src="/roles/med/medical_chemistry.png" decoding="async" width="480" height="280" class="thumbimage" srcset="medical_chemistry.png 1.5x, medical_chemistry.png 2x" data-file-width="576" data-file-height="576"></a>
       <div class="thumbcaption">
         <div class="magnify"><a href="/medical_chemistry.png" class="internal is-asset-link" title="Увеличить"></a></div>Волшебное место, где благодаря магии происходят химические реакции.
       </div>
@@ -175,7 +174,7 @@ dateCreated: 2024-08-27T06:53:36.702Z
 </div>
 <h2 id="химия-101" class="toc-header"><a class="toc-anchor" href="#химия-101">¶</a> <center>Химия 101</center></h2>
 <div style="display: flex;align-items: center;font-size: 18px; margin:4px">
-<img alt="Industrial Dispenser.png" src="/industrial_dispenser.png" decoding="async" width="64" height="64" data-file-width="32" data-file-height="32">
+<img alt="Industrial Dispenser.png" src="/roles/med/industrial_dispenser.png" decoding="async" width="64" height="64" data-file-width="32" data-file-height="32">
 Химический раздатчик — машина, способная синтезировать базовые химические вещества:
 </div>
 <ul><li>Вставьте мензурку в машину. Если внутри раздатчика уже была мензурка, вы поменяете её местами с той, что уже была у вас в руках.</li>
@@ -183,7 +182,7 @@ dateCreated: 2024-08-27T06:53:36.702Z
 <li>Выберите химическое вещество, что собираетесь добавить в мензурку.</li></ul>
 <h2 id="химмастер-4000" class="toc-header"><a class="toc-anchor" href="#химмастер-4000">¶</a> <center>ХимМастер 4000</center></h2>
 <div style="display: flex;align-items: center;font-size: 18px; margin:4px">
-<img alt="ChemMaster4000.png" src="/chemmaster4000.png" decoding="async" width="64" height="64" data-file-width="32" data-file-height="32">
+<img alt="ChemMaster4000.png" src="/roles/med/chemmaster4000.png" decoding="async" width="64" height="64" data-file-width="32" data-file-height="32">
 ХимМастер 4000 — Упаковочно-фасовочная машина, разливающая вещества в колбы и таблетки:
 </div>
 <ul><li>Вставьте мензурку с готовым препаратом.</li>
@@ -194,16 +193,16 @@ dateCreated: 2024-08-27T06:53:36.702Z
 <li>Если вам нужно избавиться от химического элемента, в буфере вы можете выбрать сброс вместо переноса.</li></ul>
 <p>Не стесняйтесь заглянуть на страницу <a href="/guides/chemistry" title="Химия" class="is-internal-link is-valid-page">химии</a>, если вы забыли рецепт.
 </p>
-<h2 id="связка-раздатчика-с-химмастером" class="toc-header"><a class="toc-anchor" href="#связка-раздатчика-с-химмастером">¶</a> <center> <span class="mw-headline" id="Мультитул"><span class="sprite"><a href="/networkconfigurator.png" class="image is-asset-link"><img alt="/networkconfigurator.png" src="/engineer_stuff/networkconfigurator.png" align="center" decoding="async" width="" height="74" data-file-width="32" data-file-height="32"></a></span>Связка Раздатчика с ХимМастером</span></center></h2><div>
+<h2 id="связка-раздатчика-с-химмастером" class="toc-header"><a class="toc-anchor" href="#связка-раздатчика-с-химмастером">¶</a> <center> <span class="mw-headline" id="Мультитул"><span class="sprite"><a href="/networkconfigurator.png" class="image is-asset-link"><img alt="/networkconfigurator.png" src="/roles/med/networkconfigurator.png" align="center" decoding="async" width="" height="74" data-file-width="32" data-file-height="32"></a></span>Связка Раздатчика с ХимМастером</span></center></h2><div>
 
 </div><p>Используя мультитул или конфигуратор сетей химический раздатчик можно связать с ХимМастером (раздатчик и ХимМастер обязаны стоять в упор друг с другом), в результате чего реагенты, выбираемые в раздатчике, будут мгновенно переноситься в ХимМастер.</p>
 <h2 id="таблетки-или-жидкость" class="toc-header"><a class="toc-anchor" href="#таблетки-или-жидкость">¶</a> <center> Таблетки или жидкость? </center></h2>
 <p>У вас может возникнуть вопрос: что лучше выбрать, если разница между ними почти отсутствует? Ну, на самом деле, разница между таблетками и жидкими лекарствами существенная:
 </p>
-<h3 id="таблетки" class="toc-header"><a class="toc-anchor" href="#таблетки">¶</a> <center><span class="mw-headline" id="Таблетки"><span class="sprite"><a href="/Pill.png" class="image is-asset-link"><img alt="Pill.png" src="/pill1.png" align="center" decoding="async" width="" height="74" data-file-width="32" data-file-height="32"></a></span>Таблетки</span></center></h3>
+<h3 id="таблетки" class="toc-header"><a class="toc-anchor" href="#таблетки">¶</a> <center><span class="mw-headline" id="Таблетки"><span class="sprite"><a href="/Pill.png" class="image is-asset-link"><img alt="Pill.png" src="/roles/med/pill1.png" align="center" decoding="async" width="" height="74" data-file-width="32" data-file-height="32"></a></span>Таблетки</span></center></h3>
 <p>Таблетка обладает ёмкостью в 50 унций, это не только отличный способ ввести большую дозу человеку, но и делать это в одно мгновенье. Нужно не больше секунды, чтобы ввести пациенту 50 единиц снотворного; чтобы сделать то же самое шприцом, потребуется больше времени.
 </p>
-<h3 id="колбы" class="toc-header"><a class="toc-anchor" href="#колбы">¶</a> <center><span class="mw-headline" id="Таблетки"><span class="sprite"><a href="/bottle.png" class="image is-asset-link"><img alt="bottle.png" src="/bottle.png" align="center" decoding="async" width="" height="74" data-file-width="32" data-file-height="32"></a></span>Колбы</span></center></h3>
+<h3 id="колбы" class="toc-header"><a class="toc-anchor" href="#колбы">¶</a> <center><span class="mw-headline" id="Таблетки"><span class="sprite"><a href="/bottle.png" class="image is-asset-link"><img alt="bottle.png" src="/roles/med/bottle.png" align="center" decoding="async" width="" height="74" data-file-width="32" data-file-height="32"></a></span>Колбы</span></center></h3>
 <p>С другой стороны, препараты в жидком виде позволяют более точно определить дозировку и не вызвать при этом передозировку лекарствами. Помимо этого они действуют гораздо быстрее таблеток, пусть и ввести можно гораздо меньший объём за раз.
 </p>
 <div class="table"></div></div></template><template slot="comments"><div><comments></comments></div></template></page></div>
