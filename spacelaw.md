@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: false
-date: 2024-08-28T19:21:56.695Z
+date: 2024-08-28T19:23:33.032Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:25.641Z
@@ -56,14 +56,14 @@ dateCreated: 2024-08-25T11:19:25.641Z
         <th class="critical"><a href="#s602" style="color:#c5e7fa;">Враг корпорации</a></th>
       </tr>
     <tr>
-      <th class="code">03</th>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Хулиганство</th>
-      <th style="background-color:#a69b38; color:white;">Эксгибиционизм</th>
-      <th style="background-color:#b8863b; color:white;">Домогательство</th>
-      <th style="background-color:#b0653a; color:white;">Похищение</th>
-      <th style="background-color:#963535; color:white;"></th>
-      <th class="critical"><a href="#s603" style="color:#c5e7fa;">Изнасилование</a></th>
-    </tr>
+        <th class="code">03</th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><a href="#s103">Хулиганство</a></th>
+        <th style="background-color:#a69b38; color:white;"><a href="#s203">Эксгибиционизм</a></th>
+        <th style="background-color:#b8863b; color:white;"><a href="#s303">Домогательство</a></th>
+        <th style="background-color:#b0653a; color:white;"><a href="#s403">Похищение</a></th>
+        <th style="background-color:#963535; color:white;"></th>
+        <th class="critical"><a href="#s603" style="color:#c5e7fa;">Изнасилование</a></th>
+      </tr>
     <tr>
       <th class="code">04</th>
       <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">Сопротивление</th>
