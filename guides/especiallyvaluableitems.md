@@ -2,7 +2,7 @@
 title: Особо ценные предметы
 description: Список особых предметов и где их можно найти
 published: true
-date: 2024-08-29T07:01:56.808Z
+date: 2024-08-29T07:02:40.298Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T12:54:43.637Z
@@ -62,7 +62,7 @@ dateCreated: 2024-08-26T12:54:43.637Z
         <td>Особые скафандры, которые защищают взависимости от нужд главы.</td>
     </tr>
     <tr>
-        <td><img src="//guides/especiallyvaluableitems/hypospray2.png" alt="hypospray2.png" width="64" height="64"></td>
+        <td><img src="/guides/especiallyvaluableitems/hypospray2.png" alt="hypospray2.png" width="64" height="64"></td>
         <td>Гипоспрей</td>
         <td>Шкафчик <a href="/roles/chiefmedicalofficer" class="is-internal-link is-valid-page">главного врача</a></td>
         <td>Мгновенно впрыскивает абсолютно любой химикат в тело пациента.</td>
