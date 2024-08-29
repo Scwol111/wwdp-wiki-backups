@@ -2,7 +2,7 @@
 title: High-risk items
 description: Especially valuable items and it's location
 published: true
-date: 2024-08-29T07:03:41.364Z
+date: 2024-08-29T07:03:55.077Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T13:35:18.836Z
@@ -62,7 +62,7 @@ Please note that according to the <a href="/rules" class="is-internal-link is-va
         <td>Special spacesuits that protect depending on the chapter's needs.</td>
     </tr>
     <tr>
-        <td><img src="//guides/especiallyvaluableitems/hypospray2.png" alt="hypospray2.png" width="64" height="64"></td>
+        <td><img src="/guides/especiallyvaluableitems/hypospray2.png" alt="hypospray2.png" width="64" height="64"></td>
         <td>Hypospray</td>
         <td><a href="/roles/chiefmedicalofficer" class="is-internal-link is-valid-page">Chief Medical Officer's</a> locker</td>
         <td>Instantly injects absolutely any chemical into the patient's body.</td>
