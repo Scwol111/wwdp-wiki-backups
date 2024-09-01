@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: false
-date: 2024-08-25T23:59:39.306Z
+date: 2024-09-01T12:05:46.022Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:46.773Z
@@ -45,7 +45,7 @@ dateCreated: 2024-08-25T11:19:46.773Z
 </div><button type="button" class="collapsible">
 <h2 id="ядерные-оперативники" class="toc-header"><a class="toc-anchor" href="#ядерные-оперативники"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/role/nuclearoperative.png">
+    <img src="/roles/nuclearoperative.png">
     <span style="margin-left:10px;">Ядерные оперативники</span>
     </div>
 </h2>
