@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: false
-date: 2024-09-01T12:06:32.096Z
+date: 2024-09-01T12:07:37.631Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:46.773Z
@@ -78,7 +78,7 @@ dateCreated: 2024-08-25T11:19:46.773Z
 </div><button type="button" class="collapsible">
 <h2 id="нулевой-пациент" class="toc-header"><a class="toc-anchor" href="#нулевой-пациент"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/role/patientzero.png">
+    <img src="/roles/patientzero.png">
     <span style="margin-left:10px;">Нулевой пациент</span>
     </div>
 </h2>
@@ -95,7 +95,7 @@ dateCreated: 2024-08-25T11:19:46.773Z
 </div><button type="button" class="collapsible">
 <h2 id="культ" class="toc-header"><a class="toc-anchor" href="#культ"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/role/cultist.gif">
+    <img src="/roles/cultist.gif">
     <span style="margin-left:10px;">Культ</span>
     </div>
 </h2>
@@ -116,7 +116,7 @@ dateCreated: 2024-08-25T11:19:46.773Z
 </div><button type="button" class="collapsible">
 <h2 id="революция" class="toc-header"><a class="toc-anchor" href="#революция"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/role/revolution.png">
+    <img src="/roles/revolution.png">
     <span style="margin-left:10px;">Революция</span>
     </div>
 </h2>
@@ -137,7 +137,7 @@ dateCreated: 2024-08-25T11:19:46.773Z
 </div><button type="button" class="collapsible">
 <h2 id="маг" class="toc-header"><a class="toc-anchor" href="#маг"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/role/antagonists/wizard/wizard_real.png">
+    <img src="/roles/wizard_real.png">
     <span style="margin-left:10px;">Маг</span>
     </div>
 </h2>
