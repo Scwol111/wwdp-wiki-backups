@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: false
-date: 2024-09-01T12:07:37.631Z
+date: 2024-09-01T12:09:20.735Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:46.773Z
@@ -28,7 +28,7 @@ dateCreated: 2024-08-25T11:19:46.773Z
 </div><button type="button" class="collapsible">
 <h2 id="предатели" class="toc-header"><a class="toc-anchor" href="#предатели"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/role/traitor.png">
+    <img src="/roles/traitor.png">
     <span style="margin-left:10px;">Предатели</span>
     </div>
 </h2>
