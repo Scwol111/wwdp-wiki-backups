@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: false
-date: 2024-09-01T12:09:20.735Z
+date: 2024-09-01T12:10:32.062Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:46.773Z
@@ -16,7 +16,7 @@ dateCreated: 2024-08-25T11:19:46.773Z
 </div><button type="button" class="collapsible">
 <h2 id="секрет" class="toc-header"><a class="toc-anchor" href="#секрет"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/clown_mask.png">
+    <img src="/roles/clown_mask.png">
     <span style="margin-left:10px;">Секрет</span>
     </div>
 </h2>
