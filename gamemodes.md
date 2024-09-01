@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: false
-date: 2024-09-01T12:05:46.022Z
+date: 2024-09-01T12:06:09.978Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:46.773Z
@@ -62,7 +62,7 @@ dateCreated: 2024-08-25T11:19:46.773Z
 </div><button type="button" class="collapsible">
 <h2 id="генокрад" class="toc-header"><a href="#генокрад"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/role/antagonists/changeling.gif">
+    <img src="/roles/antagonists/changeling.gif">
     <span style="margin-left:10px;">Генокрад</span>
     </div>
 </h2>
