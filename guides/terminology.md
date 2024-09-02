@@ -2,7 +2,7 @@
 title: Терминология
 description: 
 published: false
-date: 2024-09-02T17:24:37.975Z
+date: 2024-09-02T17:29:19.712Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T01:57:42.399Z
