@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: false
-date: 2024-09-02T20:00:06.402Z
+date: 2024-09-02T20:04:13.889Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:18:21.284Z
