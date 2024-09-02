@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Бомж
 description: 
-published: true
-date: 2024-09-02T19:00:34.482Z
+published: false
+date: 2024-09-02T19:04:32.683Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-02T18:26:42.069Z
