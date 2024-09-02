@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-09-02T18:55:25.831Z
+date: 2024-09-02T18:56:17.647Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-02T18:26:42.069Z
@@ -13,7 +13,7 @@ dateCreated: 2024-09-02T18:26:42.069Z
 <div class="roles-passport serv">
   <div class="title serv "><a href="/roles">Сервисный Отдел</a></div>
   <div>
-    <div><div><img src="/roles/bomz2.png"></div></div>
+    <div><div><img src="/roles/bomz2.png" id="playAudio" style="cursor: pointer;"></div></div>
   <div><div>
     <h1>Космический бомж</h1>
     <p><strong>Сложность:</strong> Легкая</p>
