@@ -2,7 +2,7 @@
 title: Химик
 description: 
 published: true
-date: 2024-08-28T18:04:42.619Z
+date: 2024-09-02T18:43:35.591Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-27T06:53:36.702Z
