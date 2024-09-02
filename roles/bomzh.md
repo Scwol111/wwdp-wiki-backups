@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-09-02T18:26:42.069Z
+date: 2024-09-02T18:36:11.759Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-02T18:26:42.069Z
@@ -25,7 +25,7 @@ dateCreated: 2024-09-02T18:26:42.069Z
 </div>
 </div>
 
-<p><audio id="lobbyMusic" src="/role/bomzh/bomzh.mp3"></audio></p>
+<p><audio id="lobbyMusic" src="/role/serv/bomzh/Musicbomzh.mp3"></audio></p>
 <p>Космический бомж — это роль, которая представляет собой социальное дно станции. Любой бомж должен быть старше 60-ти лет. Кто знает, кем он был в прошлом, но сейчас он волочит жалкое существование в мусорблоке, питаясь объедками и мышами.</p>
 <h2> 
   <div class="box">
@@ -43,44 +43,44 @@ dateCreated: 2024-09-02T18:26:42.069Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/role/bomzh/bomzh.png"><br>
+        <td><img src="/role/serv/bomzh/bomzh.png"><br>
         Обноски</td>
         <td>Потрёпанная форма человека, который прошёл через многое. Поражает не столько дыры во всех местах, сколько её запах.</td>
       </tr>
       <tr>
-        <td><img src="/role/bomzh/pda-bomzh.png"><br>Убитый ПДА</td>
+        <td><img src="/role/serv/bomzh/pda-bomzh.png"><br>Убитый ПДА</td>
         <td>Потрёпанный ПДА, несмотря на внешний вид, чудом является функционирующим.</td>
       </tr>
       <tr>
-        <td><img src="/role/bomzh/debomzhidt.png"><br>ID карта бомжа</td>
+        <td><img src="/role/serv/bomzh/debomzhidt.png"><br>ID карта бомжа</td>
         <td>Старая ID карта с доступом в технические помещения.</td>
       </tr>
       <tr>
-        <td><img src="/role/bomzh/bomzhhat.png"><br>Грязная шапка</td>
+        <td><img src="/role/serv/bomzh/bomzhhat.png"><br>Грязная шапка</td>
         <td>Шапка ушедшего века. Она износилась и выглядит потрёпанной, но всё ещё помогает согреться. <br><span style="color:yellow">Тепловой</span> урон снижается на <span style="color:#ace7f2">5%</span></td>
       </tr>
       <tr>
-        <td><img src="/role/bomzh/bomzcap.png"><br>Помойная кепка</td>
+        <td><img src="/role/serv/bomzh/bomzcap.png"><br>Помойная кепка</td>
         <td>Не внушающая доверия кепка незваного гостя.</td>
       </tr>
       <tr>
-        <td><img src="/role/bomzh/melon.png"><br>Арбузный шлем</td>
+        <td><img src="/role/serv/bomzh/melon.png"><br>Арбузный шлем</td>
         <td>Небрежно разрезанная половинка арбуза, выпотрошенная изнутри для ношения в качестве шлема.<br><span style="color:yellow">Тупой</span> урон снижается на <span style="color:#ace7f2">5%</span></td>
       </tr>
       <tr>
-        <td><img src="/role/bomzh/bomzhcoat.png"><br>Потрёпанная куртка</td>
+        <td><img src="/role/serv/bomzh/bomzhcoat.png"><br>Потрёпанная куртка</td>
         <td>Куртка, прошедшая через многое, время не сохранило её и оставило свои шрамы. Внутри содержит курительную трубку.<br><span style="color:yellow">Тупой</span> урон снижается на <span style="color:#ace7f2">10%</span><br><span style="color:yellow">Рубящий</span> урон снижается на <span style="color:#ace7f2">10%</span><br><span style="color:yellow">Проникающий</span> урон снижается на <span style="color:#ace7f2">10%</span><br><span style="color:yellow">Тепловой</span> урон снижается на <span style="color:#ace7f2">25%</span></td>
       </tr>
       <tr>
-        <td><img src="/role/bomzh/trashbag.png"><br>Мешок для мусора</td>
+        <td><img src="//role/serv/bomzh/trashbag.png"><br>Мешок для мусора</td>
         <td>Просто мешок для мусора, можно использовать для хранения всякого.</td>
       </tr>
       <tr>
-        <td><img src="/role/bomzh/shiv.png"><br>Заточка</td>
+        <td><img src="/role/serv/bomzh/shiv.png"><br>Заточка</td>
         <td>Заострённый кусок стекла, обточенный по краю и обмотанный лентой.<br> Наносит <span style="color:red">8</span> единиц <span style="color:yellow">рубящего</span> урона</td>
       </tr>
       <tr>
-        <td><img src="/role/bomzh/lantern.png"><br>Светильник</td>
+        <td><img src="/role/serv/bomzh/lantern.png"><br>Светильник</td>
         <td>Обычный светильник, оснащённый батарейкой средней ёмкости.</td>
       </tr>
     </tbody>
@@ -95,13 +95,13 @@ dateCreated: 2024-09-02T18:26:42.069Z
   <div>
 В начале смены вы появляетесь либо в мусорблоке, либо в специально отведённом для ночлега месте. Придумайте историю о том, как вы докатились до такой жизни. Может быть, 20 лет назад у вас сгорел дом, и теперь вы ни с чем? А может, вы были капитаном этой станции, но вас незаконно подвинули? Или, возможно, вы вообще резидент под прикрытием, следящий за ситуацией на станции? Расскажите об этом всем за рюмкой водки! Покажите всем, что вы тот еще старый маразматик-шизофреник.
   </div>
-  <img src="/role/bomzh/baze.png">
+  <img src="/role/serv/bomzh/baze.png">
 </div>
 <h2> 
   <div class="box">
-    <img src="/role/bomzh/spikebloody.png" style="min-width: 64px">
+    <img src="/role/servbomzh/spikebloody.png" style="min-width: 64px">
     <span> Голодная угроза </span>
-    <img src="/role/bomzh/spikebloody.png" style="min-width: 64px">
+    <img src="/role/servbomzh/spikebloody.png" style="min-width: 64px">
   </div>
 </h2><div>
 Вряд ли кто-то будет доверять незнакомому бомжу, так что, вы максимум можете надаваить на жалость. Скорее всего, бомж-предатель будет тихо убивать людей в техах не для выполнения целей, а для собственного пропитания...
