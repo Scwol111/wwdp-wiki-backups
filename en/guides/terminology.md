@@ -2,7 +2,7 @@
 title: Terminology
 description: 
 published: false
-date: 2024-08-26T12:36:35.153Z
+date: 2024-09-02T17:29:36.409Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T02:35:00.353Z
