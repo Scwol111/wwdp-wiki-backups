@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-09-02T18:57:09.761Z
+date: 2024-09-02T18:57:53.795Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-02T18:26:42.069Z
@@ -25,7 +25,7 @@ dateCreated: 2024-09-02T18:26:42.069Z
 </div>
 </div>
 
-<p><audio id="lobbyMusic" src="/roles/serv/Musicbomzh.mp3"></audio></p>
+<p><audio id="lobbyMusic" src="/roles/serv/musicbomzh.mp3"></audio></p>
 <p>Космический бомж — это роль, которая представляет собой социальное дно станции. Любой бомж должен быть старше 60-ти лет. Кто знает, кем он был в прошлом, но сейчас он волочит жалкое существование в мусорблоке, питаясь объедками и мышами.</p>
 <h2> 
   <div class="box">
