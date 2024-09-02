@@ -2,7 +2,7 @@
 title: Beginner's Guide
 description: 
 published: true
-date: 2024-08-26T15:34:58.637Z
+date: 2024-09-02T17:36:04.394Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T01:21:29.427Z
