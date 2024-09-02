@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-09-02T18:38:13.148Z
+date: 2024-09-02T18:39:09.776Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-02T18:26:42.069Z
@@ -11,7 +11,7 @@ dateCreated: 2024-09-02T18:26:42.069Z
 
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport serv">
-  <div class="title serv "><a href="/roles">Медицинский Отдел</a></div>
+  <div class="title serv "><a href="/roles">Сервисный Отдел</a></div>
   <div>
     <div><div><img src="/roles/bomz2.png"></div></div>
   <div><div>
