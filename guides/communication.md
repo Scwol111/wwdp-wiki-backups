@@ -2,7 +2,7 @@
 title: Коммуникация
 description: 
 published: true
-date: 2024-09-03T15:17:36.471Z
+date: 2024-09-03T15:23:19.806Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-03T15:17:36.471Z
