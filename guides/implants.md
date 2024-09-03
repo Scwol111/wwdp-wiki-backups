@@ -2,26 +2,26 @@
 title: Импланты
 description: Твой папаша колится, твоя мамаша колится
 published: true
-date: 2024-09-03T08:19:12.684Z
+date: 2024-09-03T08:28:24.045Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-03T08:18:45.033Z
 ---
 
-# <center> ![nanotrasen.png](/role/securityservicedepartment/implants/implanter_nt.png){.png9} <span class="up2">Импланты</span> ![nanotrasen.png](/role/securityservicedepartment/implants/implanter.png){.png9} </center>
+# <center> ![implanter_nt.png](/guides/implants/implanter_nt.png){.png9} <span class="up2">Импланты</span> ![implanter.png](/guides/implants/implanter.png){.png9} </center>
 
 **Импланты** — это класс специализированной кибернетической технологии, которая помещается в тело для помощи носителю или для выполнения определенной функции.
 
-## <center> ![nanotrasen.png](/role/securityservicedepartment/nanotrasen1.png){.png1} <span class="up">Импланты NanoTrasen</span> ![nanotrasen.png](/role/securityservicedepartment/nanotrasen1.png){.png1} </center>
+## <center> ![nanotrasen1.png](/guides/implants/nanotrasen1.png){.png1} <span class="up">Импланты NanoTrasen</span> ![nanotrasen1.png](/guides/implants/nanotrasen1.png){.png1} </center>
 
 <div class="nt">
 
 | **Имплант** |  **Описание** |
 | :---: | --- |
-|<center>![имплантер.png](/role/securityservicedepartment/implants/implanter_nt.png){.implant}</center> <center> Имплант Майндшилда </center> | Имплант, который по умолчанию внедрен во всех офицеров СБ и Капитана. Не дает революционным идеям проникнуть в голову членов экипажа, а так же не даёт конвертировать в культиста! Может быть заказан в карго. Отображается в охранном худе ![secglasses.png](/role/securityservicedepartment/implants/secglasses.png) как светящаяся обводка вокруг значка вашей профессии ![/guides/mindshield.gif](/guides/mindshield.gif){.png16}. <p>Данные должности на станции, по официальному прибытию с ЦК (не после назначения через Главу персонала) получают установленный имплант майндшилда: <ul> <li> [Капитан](/roles/captain) <li> [Весь отдел Службы безопасности](/roles/securityservicedepartment)</li> </ul>|
-|<center>![имплантер.png](/role/securityservicedepartment/implants/implanter_nt.png){.implant}</center> <center> Имплант трекера </center> | Этот имплант используется для отслеживания члена экипажа через систему датчиков. Вы можете увидеть местоположение имплантированного через консоль мониторинга экипажа, которая обычно стоит в медицинском отделе.<p> Также сообщает в радиоканал Службы Безопасности координаты человека, если тот попал в критическое состояние. </p>|
-|<center>![имплантер.png](/role/securityservicedepartment/implants/implanter_nt.png){.implant}</center> <center> Имплант света </center> | Имплант который позволяет носителю выделять немного света через кожу, свет от него сравним с фонариком из КПК.|
-|<center>![имплантер.png](/role/securityservicedepartment/implants/implanter_nt.png){.implant}</center> <center> Имплант грустного тромбона </center> | Этот имплант проиграет звук грустного тромбона при падении в критическое состояние и после смерти носителя. По умолчанию установлен в [клоуна](/roles/clown).|
+|<center>![implanter_nt.png](/guides/implants/implanter_nt.png){.implant}</center> <center> Имплант Майндшилда </center> | Имплант, который по умолчанию внедрен во всех офицеров СБ и Капитана. Не дает революционным идеям проникнуть в голову членов экипажа, а так же не даёт конвертировать в культиста! Может быть заказан в карго. Отображается в охранном худе ![secglasses.png](/guides/implants/secglasses.png) как светящаяся обводка вокруг значка вашей профессии ![mindshield.gif](/guides/implants/mindshield.gif){.png16}. <p>Данные должности на станции, по официальному прибытию с ЦК (не после назначения через Главу персонала) получают установленный имплант майндшилда: <ul> <li> [Капитан](/roles/captain) <li> [Весь отдел Службы безопасности](/roles/securityservicedepartment)</li> </ul>|
+|<center>![имплантер.png](/guides/implants/implanter_nt.png){.implant}</center> <center> Имплант трекера </center> | Этот имплант используется для отслеживания члена экипажа через систему датчиков. Вы можете увидеть местоположение имплантированного через консоль мониторинга экипажа, которая обычно стоит в медицинском отделе.<p> Также сообщает в радиоканал Службы Безопасности координаты человека, если тот попал в критическое состояние. </p>|
+|<center>![имплантер.png](/guides/implants/implanter_nt.png){.implant}</center> <center> Имплант света </center> | Имплант который позволяет носителю выделять немного света через кожу, свет от него сравним с фонариком из КПК.|
+|<center>![имплантер.png](/guides/implants/implanter_nt.png){.implant}</center> <center> Имплант грустного тромбона </center> | Этот имплант проиграет звук грустного тромбона при падении в критическое состояние и после смерти носителя. По умолчанию установлен в [клоуна](/roles/clown).|
 
 </div>
 
