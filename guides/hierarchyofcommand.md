@@ -2,7 +2,7 @@
 title: Иерархия командования
 description: 
 published: true
-date: 2024-09-03T14:35:11.851Z
+date: 2024-09-03T14:36:52.229Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-03T14:32:44.423Z
@@ -92,7 +92,7 @@ dateCreated: 2024-09-03T14:32:44.423Z
     <div class="roleheadlabel">Подчиняется:</div>
     <div class="rolehead">Капитан</div>
     <div class="roledesclabel">Описание:</div>  
-    <div class="roledesc">Следит за работой отдела, несет ответственность за шаттл карго, а также должен одобрять или отклонять запросы.<br> <center><a href="/guides/hierarchyofcommand" class="is-internal-link is-valid-page">Иерархия Командования</a> • <a href="/guides/workincargo" class="is-internal-link is-invalid-page">Советы по Карго</a> • <a href="/guides/listofproducts" class="is-internal-link is-valid-page">Список товаров</a></center></div>  
+    <div class="roledesc">Следит за работой отдела, несет ответственность за шаттл карго, а также должен одобрять или отклонять запросы.<br> <center><a href="/guides/hierarchyofcommand" class="is-internal-link is-valid-page">Иерархия Командования</a> • <a href="/guides/listofproducts" class="is-internal-link is-valid-page">Список товаров</a></center></div>  
   </div> 
 
   <div class="role">
