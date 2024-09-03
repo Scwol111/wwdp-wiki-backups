@@ -1,8 +1,8 @@
 ---
 title: Взаимодействия
 description: 
-published: true
-date: 2024-09-03T15:02:08.985Z
+published: false
+date: 2024-09-03T16:16:47.405Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-03T14:45:46.710Z
