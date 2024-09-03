@@ -2,16 +2,16 @@
 title: Настроение
 description: 
 published: true
-date: 2024-09-03T16:08:45.654Z
+date: 2024-09-03T16:10:48.208Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-03T16:08:45.654Z
 ---
 
 <div><h1 class="center-align toc-header" id="настроение"><a class="toc-anchor" href="#настроение">¶</a> 
-  <img src="/guides/mood/clown/honk.png" class="icon">
+  <img src="/guides/mood/honk.png" class="icon">
   Настроение
-  <img src="/guides/mood/clown/honk.png" class="icon">
+  <img src="/guides/mood/honk.png" class="icon">
 </h1>
 <p>Под настроением понимают эмоциональный процесс, выражающий отношение человека к его жизненной ситуации в целом. На что же влияет настроение в СС14? На скорость персонажа и его порог входа в критическое состояние. Чем позитивнее настроение персонажа, тем больше скорость и порог вхождения в крит, и наоборот.</p>
 <p style="font-size: 25px">Ниже приведены уровни настроения.</p>
