@@ -2,7 +2,7 @@
 title: Контрабанда
 description: Определение, какой предмет является контрабандой, а какой нет.
 published: false
-date: 2024-09-03T09:10:00.285Z
+date: 2024-09-03T09:14:07.037Z
 tags: руководство, сб
 editor: markdown
 dateCreated: 2024-08-26T08:22:26.969Z
@@ -374,15 +374,15 @@ dateCreated: 2024-08-26T08:22:26.969Z
   	<div>Имплант скремблера ДНК</div>
   </div>
   <div>
-    <img src="/role/space-ninja/teleport.png" alt="teleport.png" />
+    <img src="/guides/smuggling/teleport.png" alt="teleport.png" />
   	<div>Имплант переброски</div>
   </div>
   <div>
-    <img src="/role/securityservicedepartment/implants/implanter.png" alt="implanter.png" />
+    <img src="/guides/smuggling/implanter.png" alt="implanter.png" />
   	<div>Имплант предсмертных криков</div>
   </div>
   <div>
-    <img src="/role/securityservicedepartment/implants/implanter.png" alt="implanter.png" />
+    <img src="/guides/smuggling/implanter.png" alt="implanter.png" />
     <div><a href="/guides/implants/mindslaves">Имплант подчинения</a></div>
   </div>
   <div>
@@ -474,7 +474,7 @@ dateCreated: 2024-08-26T08:22:26.969Z
   	<div>Энерговысасыватель</div>
   </div>
   <div>
-    <img src="/guides/antagonists/uplink/syndicate1.png" alt="syndicate.png" />
+    <img src="/guides/smuggling/syndicate1.png" alt="syndicate.png" />
   	<div>Оружейный модуль борга</div>
   </div>
   <div>
@@ -522,7 +522,7 @@ dateCreated: 2024-08-26T08:22:26.969Z
   	<div>Горячая картошка</div>
   </div>
   <div>
-    <img src="/negronomicon_new.png" alt="negronomicon.png" />
+    <img src="/guides/smuggling/negronomicon_new.png" alt="negronomicon.png" />
   	<div>Некрономикон</div>
   </div>
   <div>
