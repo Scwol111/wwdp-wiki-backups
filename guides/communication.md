@@ -2,7 +2,7 @@
 title: Коммуникация
 description: 
 published: true
-date: 2024-09-03T15:23:19.806Z
+date: 2024-09-03T15:48:21.902Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-03T15:17:36.471Z
@@ -82,7 +82,7 @@ dateCreated: 2024-09-03T15:17:36.471Z
           </tr>
           <tr class="zooming">
             <th style="background-color:#406b8e; color: white; border-top-left-radius: 0px;">:ц</th>
-            <th style="background-color:#406b8e; color: white;">:c</th>
+            <th style="background-color:#406b8e; color: white;">:y</th>
             <th style="background-color:#406b8e; color: white; border-top-right-radius: 0px;">Канал связи <a href="/roles/centralcommand" class="is-internal-link is-valid-page">Центрального Командования</a>.</th>
           </tr>
         </tbody>
