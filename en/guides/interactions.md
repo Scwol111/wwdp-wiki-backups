@@ -1,8 +1,8 @@
 ---
-title: interactions
+title: Interactions
 description: 
 published: true
-date: 2024-09-03T15:10:36.226Z
+date: 2024-09-03T15:11:10.152Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-03T15:10:36.226Z
