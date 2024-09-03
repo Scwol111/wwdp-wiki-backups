@@ -2,7 +2,7 @@
 title: Иерархия командования
 description: 
 published: true
-date: 2024-09-03T14:34:26.833Z
+date: 2024-09-03T14:35:11.851Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-03T14:32:44.423Z
@@ -23,7 +23,7 @@ dateCreated: 2024-09-03T14:32:44.423Z
   <li>Все сотрудники, которых назначают на должность исполняющего обязанностей, должны получить соответствующий доступ и карту со стандартным названием профессии. (Captain, Head of Security, Chief Engineer и т.д.). Данная процедура необходима из-за ограничений технологий на борту станции, таких как: телекоммуникации, манифест экипажа и консоли глав, используемые для проведения переводов внутри департамента.</li>
 </ul><div>
 
-</div><div style="overflow-x: auto; margin: 12px"><img src="/guides/hierarchyofcommand/hierarchy_ss15" style="min-width:900px"></div>
+</div><div style="overflow-x: auto; margin: 12px"><img src="/guides/hierarchyofcommand/hierarchy_ss15.png" style="min-width:900px"></div>
 <h2 id="руководство-станции" class="toc-header"><a class="toc-anchor" href="#руководство-станции">¶</a> Руководство станции</h2>
 <p>Также известно, как главы, руководители или командование. Это члены персонала, которые отвечают за управление станцией. Каждый руководитель имеет доступ на мостик и может вызвать или отозвать аварийный шаттл, используя консоль коммуникаций согласно протоколам эвакуации. Они так же находятся под прицелом во время <a href="/roles/revolution" class="is-internal-link is-valid-page">революции</a>.</p><div>
 
