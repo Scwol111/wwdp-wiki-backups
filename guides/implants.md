@@ -2,7 +2,7 @@
 title: Импланты
 description: Твой папаша колится, твоя мамаша колится
 published: true
-date: 2024-09-03T08:28:24.045Z
+date: 2024-09-03T08:35:24.222Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-03T08:18:45.033Z
@@ -25,7 +25,7 @@ dateCreated: 2024-09-03T08:18:45.033Z
 
 </div>
 
-## <center> ![syndie.png](/role/securityservicedepartment/syndie.png){.png1} <span class="up">Нелегальные импланты</span> ![syndie.png](/role/securityservicedepartment/syndie.png){.png1} </center>
+## <center> ![syndie.png](/guides/implants/syndie.png){.png1} <span class="up">Нелегальные импланты</span> ![syndie.png](/guides/implants/syndie.png){.png1} </center>
 
 <center> Это импланты, которые признаны нелегальными и являются устройствами <a href="/roles/traitor">Агентов Синдиката</a>.
 
@@ -33,16 +33,16 @@ dateCreated: 2024-09-03T08:18:45.033Z
 
 | **Имплант** | **Описание** |
 | :---: | --- |
-|<center>![freedomimplant.png](/role/securityservicedepartment/implants/freedomimplant.png){.implant}</center> <center> Имплант свободы </center> | Позволяет носителю снять с себя наручники и стяжки до 3 раз. Для использования нажмите на кнопку с панели действий в верхней части экрана.|
-|<center>![storagevariants.gif](/role/securityservicedepartment/implants/storagevariants.gif){.implant}</center> <center> Имплант хранилища </center> | Этот имплант добавляет вам скрытый блюспейс-карман под кожу, позволяя прятать внутри себя предметы до веса в 20 единиц. Для использования нажмите на кнопку с панели действий в верхней части экрана.|
-  |<center>![explosive_implant.png](/role/securityservicedepartment/implants/implanter.png){.implant}</center> <center> <a href="/guides/implants/mindslaves">Имплант подчинения</a> </center> | Позволяет подчинить себе живое существо. Ознакомиться с правилами использования можно <a href="/guides/implants/mindslaves">здесь</a>.|
-|<center>![storagevariants.gif](/role/securityservicedepartment/implants/uplink-implant.png){.implant}</center> <center> Имплант аплинка </center> | Скрытный вариант аплинка синдиката, спрятанный под кожей своего пользователя.|
-|<center>![storagevariants.gif](/role/securityservicedepartment/implants/emp.png){.implant}</center> <center> ЭМИ имплант </center> | При активации вызывает небольшой электромагнитный импульс, который истощает энергию ближайшей электроники. <p><ul><li>Имеет перезарядку в 40 секунд</ul>|
-|<center>![storagevariants.gif](/role/securityservicedepartment/implants/spear.png){.implant}</center> <center> Имплант светового копья </center> |По активации вызывает копьё из твердого света, которое пропадает через небольшой промежуток времени. <p><ul><li>Имеет перезарядку в 2 секунды</ul>|
-|<center>![storagevariants.gif](/guides/antagonists/uplink/smokegranade.png){.implant}</center> <center> Имплант дыма </center> |При активации выпускает облако дыма вокруг носителя. <p><ul><li>Имеет перезарядку в 40 секунд</ul>|
-|<center>![storagevariants.gif](/role/securityservicedepartment/implants/crumbler.png){.implant}</center> <center> Имплант скремблера ДНК </center> |При активации изменяет внешность и имя своего пользователя, также имеет функцию отмены изменений.|
-|<center>![explosive_implant.png](/role/securityservicedepartment/implants/implanter.png){.implant}</center> <center> Имплант предсмертных криков </center> | Активируется после попадания в критическое состояние, передавая координаты носителя в радиоканал синдиката <kbd>:T</kbd> <ul><li>Доступно только [Ядерным оперативникам](/roles/nuclearoperative)</ul>|
-|<center>![explosive_implant.png](/role/securityservicedepartment/implants/explosive_implant.png){.implant}</center> <center> Имплант Макробомбы </center> | Вызывает взрыв пользователя через небольшой промежуток времени, но только после падения в критическое состояние. <ul><li>Доступно только [Ядерным оперативникам](/roles/nuclearoperative)</ul>|
-|<center>![explosive_implant.png](/role/securityservicedepartment/implants/explosive_implant.png){.implant}</center> <center> Имплант Микробомбы </center> | Работает идентично макробомбе, только активируется вручную и имеет меньший радиус и силу взрыва. <ul><li>Доступно только [Ядерным оперативникам](/roles/nuclearoperative)</ul>|
-|<center>![teleport.png](/role/space-ninja/teleport.png){.implant}</center> <center> Имплант переброски </center> | Случайным образом телепортирует на большое растояние. <ul><li>Имеет два заряда, после чего становится бесполезным.</ul>|
+|<center>![freedomimplant.png](/guides/implants/freedomimplant.png){.implant}</center> <center> Имплант свободы </center> | Позволяет носителю снять с себя наручники и стяжки до 3 раз. Для использования нажмите на кнопку с панели действий в верхней части экрана.|
+|<center>![storagevariants.gif](/guides/implants/storagevariants.gif){.implant}</center> <center> Имплант хранилища </center> | Этот имплант добавляет вам скрытый блюспейс-карман под кожу, позволяя прятать внутри себя предметы до веса в 20 единиц. Для использования нажмите на кнопку с панели действий в верхней части экрана.|
+|<center>![implanter.png](/guides/implants/implanter.png){.implant}</center> <center> <a href="/guides/implants/mindslaves">Имплант подчинения</a> </center> | Позволяет подчинить себе живое существо. Ознакомиться с правилами использования можно <a href="/guides/implants/mindslaves">здесь</a>.|
+|<center>![uplink-implant.png](/guides/implants/uplink-implant.png){.implant}</center> <center> Имплант аплинка </center> | Скрытный вариант аплинка синдиката, спрятанный под кожей своего пользователя.|
+|<center>![emp.png](/guides/implants/emp.png){.implant}</center> <center> ЭМИ имплант </center> | При активации вызывает небольшой электромагнитный импульс, который истощает энергию ближайшей электроники. <p><ul><li>Имеет перезарядку в 40 секунд</ul>|
+|<center>![spear.png](/guides/implants/spear.png){.implant}</center> <center> Имплант светового копья </center> |По активации вызывает копьё из твердого света, которое пропадает через небольшой промежуток времени. <p><ul><li>Имеет перезарядку в 2 секунды</ul>|
+|<center>![smokegranade.png](/guides/implants/smokegranade.png){.implant}</center> <center> Имплант дыма </center> |При активации выпускает облако дыма вокруг носителя. <p><ul><li>Имеет перезарядку в 40 секунд</ul>|
+|<center>![crumbler.png](/guides/implants/crumbler.png){.implant}</center> <center> Имплант скремблера ДНК </center> |При активации изменяет внешность и имя своего пользователя, также имеет функцию отмены изменений.|
+|<center>![implanter.png](/guides/implants/implanter.png){.implant}</center> <center> Имплант предсмертных криков </center> | Активируется после попадания в критическое состояние, передавая координаты носителя в радиоканал синдиката <kbd>:T</kbd> <ul><li>Доступно только [Ядерным оперативникам](/roles/nuclearoperative)</ul>|
+|<center>![explosive_implant.png](/guides/implants/explosive_implant.png){.implant}</center> <center> Имплант Макробомбы </center> | Вызывает взрыв пользователя через небольшой промежуток времени, но только после падения в критическое состояние. <ul><li>Доступно только [Ядерным оперативникам](/roles/nuclearoperative)</ul>|
+|<center>![explosive_implant.png](/guides/implants/explosive_implant.png){.implant}</center> <center> Имплант Микробомбы </center> | Работает идентично макробомбе, только активируется вручную и имеет меньший радиус и силу взрыва. <ul><li>Доступно только [Ядерным оперативникам](/roles/nuclearoperative)</ul>|
+|<center>![teleport.png](/guides/implants/teleport.png){.implant}</center> <center> Имплант переброски </center> | Случайным образом телепортирует на большое растояние. <ul><li>Имеет два заряда, после чего становится бесполезным.</ul>|
 </div>
