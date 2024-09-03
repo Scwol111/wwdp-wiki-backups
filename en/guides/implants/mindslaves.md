@@ -2,7 +2,7 @@
 title: Mindhack Rules
 description: Mindhack Rules
 published: true
-date: 2024-09-03T14:07:52.550Z
+date: 2024-09-03T14:17:32.112Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-03T14:05:56.489Z
@@ -11,7 +11,7 @@ dateCreated: 2024-09-03T14:05:56.489Z
 <h1><a class="toc-anchor" href="#mindslave"></a> <img src="/master.png" alt="master.png" width="32" style="vertical-align: middle;"> Mindslave <img src="/master.png" alt="master.png" width="32" style="vertical-align: middle;"></h1>
 <div class="container">
    <div class="text">
-      <p>The Subjugation Implant (Mindslave) is an implant that, when introduced, suppresses the will of the creature and turns the victim into a slave. Available in the <a href="/guides/uplink" class="is-internal-link is-valid-page">uplink</a>. The number of slaves is limited only by your budget. It is impossible to enslave people with a Mindshield Implant. </p>
+      <p>The Subjugation Implant is an implant that, when introduced, suppresses the will of the creature and turns the victim into a slave. Available in the <a href="/guides/uplink" class="is-internal-link is-valid-page">uplink</a>. The number of slaves is limited only by your budget. It is impossible to enslave people with a Mindshield Implant. </p>
    </div>
    <div class="rolescontainer">
       <div class="role">
