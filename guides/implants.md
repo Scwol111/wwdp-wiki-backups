@@ -1,8 +1,8 @@
 ---
 title: Импланты
-description: 
+description: Твой папаша колится, твоя мамаша колится
 published: true
-date: 2024-09-03T08:18:45.037Z
+date: 2024-09-03T08:19:12.684Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-03T08:18:45.033Z
