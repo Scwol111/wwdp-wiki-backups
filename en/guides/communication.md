@@ -2,7 +2,7 @@
 title: Communication
 description: 
 published: true
-date: 2024-09-03T15:30:53.077Z
+date: 2024-09-03T15:45:38.030Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-03T15:30:14.052Z
@@ -28,7 +28,7 @@ dateCreated: 2024-09-03T15:30:14.052Z
          <br> 
          <p>Station personnel have access to additional communication channels beyond the general one, which can only be heard by those with the necessary access (i.e., encryption keys). Each department has its own encryption key, and each head has a box with their department's keys in their locker. To communicate on the desired channel, you need to type the required code before your message: </p>
          <ul>
-            <li><img src="/guides/hello_station_keys3.png" alt=":c Hello, Station!"></li>
+            <li><img src="/guides/hello_station_eng.jpg" alt=":c Hello, Station!"></li>
          </ul>
       </section>
       <div class="tableradio">
@@ -87,7 +87,7 @@ dateCreated: 2024-09-03T15:30:14.052Z
                   </tr>
                   <tr class="zooming">
                      <th style="background-color:#406b8e; color: white; border-top-left-radius: 0px;">:ц</th>
-                     <th style="background-color:#406b8e; color: white;">:c</th>
+                     <th style="background-color:#406b8e; color: white;">:y</th>
                      <th style="background-color:#406b8e; color: white; border-top-right-radius: 0px;">Central Command <a href="/roles/centralcommand" class="is-internal-link is-valid-page">Channel</a>.</th>
                   </tr>
                </tbody>
