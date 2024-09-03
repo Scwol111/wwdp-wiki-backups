@@ -1,8 +1,8 @@
 ---
 title: Коммуникация
-description: 
+description: Коммуникация, рация, гарнитура, название канала.
 published: true
-date: 2024-09-03T15:48:21.902Z
+date: 2024-09-03T16:27:58.114Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-03T15:17:36.471Z
