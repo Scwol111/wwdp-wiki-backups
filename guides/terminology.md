@@ -1,8 +1,8 @@
 ---
 title: Терминология
 description: 
-published: false
-date: 2024-09-02T17:29:19.712Z
+published: true
+date: 2024-09-03T16:31:28.544Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T01:57:42.399Z
