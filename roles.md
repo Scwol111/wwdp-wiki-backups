@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-09-04T18:36:57.917Z
+date: 2024-09-04T18:38:17.416Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T11:19:07.610Z
@@ -237,7 +237,7 @@ dateCreated: 2024-08-25T11:19:07.610Z
   <div><a href="/roles/traitor" class="is-internal-link is-valid-page">Предатель</a><a href="/roles/traitor" class="is-internal-link is-valid-page"><img src="/roles/traitor.png"></a></div>
   <div><div>Наёмник синдиката под прикрытием. Выпустит сингулярность, пустит плазму по коридорам, перебьёт половину экипажа, просто ходя и пиная всех, и улетит на шаттле, не выполнив ни одну задачу.</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/nuclearoperative" class="is-internal-link is-valid-page">Ядерный Оперативник</a><a href="/roles/nuclearoperative" class="is-internal-link is-valid-page"><img src="/role/nuclearoperative.png"></a></div>
+  <div><a href="/roles/nuclearoperative" class="is-internal-link is-valid-page">Ядерный Оперативник</a><a href="/roles/nuclearoperative" class="is-internal-link is-valid-page"><img src="/roles/nuclearoperative.png"></a></div>
   <div><div><strike>Криворукие</strike> "Элитные" наёмники синдиката. Варят два часа лекарства, выпивают для храбрости, наедаются как в последний раз, а потом половина умирают от какой-то обезьяны, что бегает с гранатой, а вторая падает от дизейблера.</div></div>
   <div><a href="https://www.youtube.com/watch?v=KMB6jqALLt8" class="is-external-link">БАБАХ!</a></div>
   <div><a href="/roles/corticalBorer" class="is-internal-link is-valid-page">Космическая аскарида</a><a href="/roles/corticalBorer" class="is-internal-link is-valid-page"><img src="/roles/borer.png"></a></div>
