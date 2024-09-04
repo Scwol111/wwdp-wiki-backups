@@ -2,7 +2,7 @@
 title: Технический ассистент
 description: 
 published: true
-date: 2024-09-04T07:55:58.560Z
+date: 2024-09-04T08:00:12.721Z
 tags: роли
 editor: markdown
 dateCreated: 2024-09-04T07:55:58.560Z
@@ -75,28 +75,28 @@ dateCreated: 2024-09-04T07:55:58.560Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/welding_mask.png" sizes="" width="80%"></figure>
+          <figure class="image"><img src="/roles/eng/welding_mask.png" sizes="" width="80%"></figure>
         </th>
         <th><strong>Сварочная маска</strong></th>
         <th>Стартовый предмет любого ассистента, превосходно защищающий глаза от сварки.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/radsuit.png" width="80%" class="image"><img src="/ru/role/technicalassistant_pics/капюшон_радиозащитного_костюма.png" width="80%" ></figure>
+          <figure class="image"><img src="/roles/eng/radsuit.png" width="80%" class="image"><img src="/roles/eng/капюшон_радиозащитного_костюма.png" width="80%" ></figure>
         </th>
         <th><strong>Противорадиационный костюм</strong></th>
         <th>Костюм, защищающий владельца от радиации. Необходим к ношению возле генератора сингулярности. Не пригоден для выхода в открытый космос!</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/engineering_hardsuit.png" width="75%"></figure>
+          <figure class="image"><img src="/roles/eng/engineering_hardsuit.png" width="75%"></figure>
         </th>
         <th><strong>Инженерный скафандр</strong></th>
         <th>Можно надеть, если найдется лишний, после чего погулять по открытому космосу пока никто не видит. Не забудьте надеть встроенный шлем!</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/magboots.png" width="70%"></figure>
+          <figure class="image"><img src="/roles/eng/magboots.png" width="70%"></figure>
         </th>
         <th><strong>Магнитные ботинки</strong></th>
         <th>
@@ -105,14 +105,14 @@ dateCreated: 2024-09-04T07:55:58.560Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/изольки.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/eng/изольки.png" width="60%"></figure>
         </th>
         <th><strong>Изолированные перчатки</strong></th>
         <th>Тот самый предмет который защитит вас от смертоносного электрического разряда при установке проводов или копании в механизмах.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/gas_mask.png" width="60%" class="image"><img src="/ru/role/technicalassistant_pics//64px-breath_mask.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/eng/gas_mask.png" width="60%" class="image"><img src="/roles/eng/64px-breath_mask.png" width="60%"></figure>
         </th>
         <th><strong>Противогаз</strong>
          <p>
@@ -121,70 +121,70 @@ dateCreated: 2024-09-04T07:55:58.560Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/64px-air_tank.png" width="60%"><img src="/ru/role/technicalassistant_pics/oxygen_tank_yellow.png" width="60%"> </figure>
+          <figure class="image"><img src="/roles/eng/64px-air_tank.png" width="60%"><img src="/roles/eng/oxygen_tank_yellow.png" width="60%"> </figure>
         </th>
         <th><strong>Кислородный баллон</strong></th>
         <th>Полезнейшая вещь, содержащая в себе воздух для вашего существования. При наличии скафандра возможно надеть на специальный слот. Также пригоден к зарядке реактивного ранца.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/toolbelt%28filled%29.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/eng/toolbelt%28filled%29.png" width="60%"></figure>
         </th>
         <th><strong>Пояс с инструментами	</strong></th>
         <th>Выдается каждому работнику инженерного отдела и вмещает себя необходимые для выживания работы предметы. Незаменимая вещь для любого работника.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/crowbar_new.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/eng/crowbar_new.png" width="60%"></figure>
         </th>
         <th><strong>Монтировка</strong></th>
         <th>В простонародье "фомка". Уникальный помощник для снятия плитки или вскрытия обесточенных дверей. В крайнем случае для "агрессивного" разбора чего-либо.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/wrench.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/eng/wrench.png" width="60%"></figure>
         </th>
         <th><strong>Гаечный ключ</strong></th>
         <th>Этот инструмент позволяет вам открепить любой объект, от рабочего шкафа, до кофейного автомата. Незаменим при создании баррикад во время красного кода.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/screwdriver.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/eng/screwdriver.png" width="60%"></figure>
         </th>
         <th><strong>Отвертка</strong></th>
         <th>Универсальный предмет для любого ремонтника, позволяющий разобрать, и собрать любой механизм.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/welder.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/eng/welder.png" width="60%"></figure>
         </th>
         <th><strong>Сварочный аппарат</strong></th>
         <th>Многие забывают о его существовании, однако этот инструмент может спасти жизнь вовремя заварив дверь, заделав пробитую решетку или убив космического клопа в служебных тоннелях.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/multitool.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/eng/multitool.png" width="60%"></figure>
         </th>
         <th><strong>Мультитул</strong></th>
         <th>Эта маленькая коробочка на деле может многое: Проверить напряжение? Взломать дверь? Собрать ДАМ? Этот незаменимый помощник поможет тебе во всех этих делах!</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/cutters.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/eng/cutters.png" width="60%"></figure>
         </th>
         <th><strong>Кусачки</strong></th>
         <th>Аккуратно перерезать проволоку, срезать контакты, обрезать провода, в общем, кусачки являются как благословением для рядового инженера, так и проклятием ведь они есть не только у технического отдела.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/t-ray.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/eng/t-ray.png" width="60%"></figure>
         </th>
         <th><strong>Т-лучевой сканер</strong></th>
         <th>Инструмент, позволяющий вам лицезреть изнанку станции, представляющую из себя трубы и проводки, ведущие из инженерного отдела ко всем отсекам станции, словно кровеносная система.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/geiger_base.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/eng/geiger_base.png" width="60%"></figure>
         </th>
         <th><strong>Счетчик Гейгера</strong></th>
         <th>Этот маленький аппарат позволяет определять уровень радиации, спасая вас от невидимого и коварного врага.</th>
