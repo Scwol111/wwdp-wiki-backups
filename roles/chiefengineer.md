@@ -1,8 +1,8 @@
 ---
 title: Старший Инженер
 description: 
-published: true
-date: 2024-09-04T08:20:06.407Z
+published: false
+date: 2024-09-04T08:21:12.495Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-04T08:14:46.230Z
