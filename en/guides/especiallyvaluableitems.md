@@ -2,7 +2,7 @@
 title: High-risk items
 description: Especially valuable items and it's location
 published: true
-date: 2024-09-04T15:18:51.098Z
+date: 2024-09-04T15:22:28.331Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T13:35:18.836Z
