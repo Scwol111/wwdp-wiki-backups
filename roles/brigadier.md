@@ -2,7 +2,7 @@
 title: Бригадир
 description: 
 published: false
-date: 2024-09-04T08:11:14.699Z
+date: 2024-09-04T08:11:44.603Z
 tags: роли
 editor: markdown
 dateCreated: 2024-09-04T08:11:14.699Z
@@ -31,7 +31,7 @@ dateCreated: 2024-09-04T08:11:14.699Z
 - Иметь знания, и понимание как обучать <a href="/roles/technicalassistant">технических ассистентов</a>.
 - Уметь помогать [сотрудникам своего отдела](/roles/engineeringdepartment).
 
-## <center>![red_crowbar.png](/engineer_stuff/red_crowbar.png){.png1}<span class="up2">Обучение</span><center>
+## <center>![red_crowbar.png](/roles/eng/red_crowbar.png){.png1}<span class="up2">Обучение</span><center>
 
 Вы должны обучать <a href="/roles/technicalassistant">технических ассистентов</a> работе. Не поленитесь спросить, кому из них требуется обучение. Также спросите у <a href="/roles/atmospherictechnician">атмосферных техников</a>, есть ли среди них новички.
 
