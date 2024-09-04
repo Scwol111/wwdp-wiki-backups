@@ -2,7 +2,7 @@
 title: Особо ценные предметы
 description: Список особых предметов и где их можно найти
 published: true
-date: 2024-09-04T15:04:37.260Z
+date: 2024-09-04T15:07:01.390Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T12:54:43.637Z
@@ -15,8 +15,8 @@ dateCreated: 2024-08-26T12:54:43.637Z
 Обратите внимание, что, согласно <a href="/rules" class="is-internal-link is-valid-page">правилам</a> сервера, запрещено помещение этих предметов в защищенные места "на всякий случай", чтобы их не украли.
 </p>
 <p>
-</p><center>
-<div class="table-wrapper">
+</p>
+<center>
   <table class="com">
     <thead>
       <tr>
@@ -24,7 +24,7 @@ dateCreated: 2024-08-26T12:54:43.637Z
     <th>Название</th>
     <th>Место нахождения</th>
     <th>Описание</th>
-  </tr>
+  </tr></thead>
     <tr>
         <td><img src="/guides/especiallyvaluableitems/nucleardisk.gif" alt="nucleardisk.gif" width="64" height="64"></td>
         <td>Диск ядерной авторизации</td>
@@ -96,6 +96,4 @@ dateCreated: 2024-08-26T12:54:43.637Z
         <td>Чрезвычайные приказы по безопасности</td>
         <td>Шкафчик <a href="/roles/headofsecurity" class="is-internal-link is-valid-page">главы службы безопасности</a></td>
         <td>В этих документах содержатся Чрезвычайные Приказы, которые <a href="/roles/headofsecurity" class="is-internal-link is-valid-page">ХОС</a> должен выполнить по приказу Центрального Командования.</td>
-    </tr>
-  </thead></table>
-</div></center></div>
+    </tr></table>
