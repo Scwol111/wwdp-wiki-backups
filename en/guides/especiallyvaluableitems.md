@@ -2,7 +2,7 @@
 title: High-risk items
 description: Especially valuable items and it's location
 published: true
-date: 2024-08-29T07:04:55.567Z
+date: 2024-09-04T15:18:51.098Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T13:35:18.836Z
@@ -17,7 +17,7 @@ Please note that according to the <a href="/rules" class="is-internal-link is-va
 <p>
 </p><center>
 <div class="table-wrapper">
-  <table class="table">
+  <table class="com">
     <thead>
       <tr>
     <th>Image</th>
