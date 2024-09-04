@@ -2,7 +2,7 @@
 title: Инженер
 description: 
 published: false
-date: 2024-09-04T08:02:43.394Z
+date: 2024-09-04T08:03:30.923Z
 tags: роли
 editor: markdown
 dateCreated: 2024-09-04T08:02:43.394Z
@@ -12,7 +12,7 @@ dateCreated: 2024-09-04T08:02:43.394Z
 <div class="roles-passport eng">
   <div class="title eng"><a href="/roles/engineeringdepartment">Инженерия</a></div>
   <div>
-    <div><div><img src="/role/engineer.png"></div></div>
+    <div><div><img src="/roles/engineer.png"></div></div>
   <div><div>
     <h1>Инженер</h1>
     <p><strong>Сложность:</strong> Средняя</p>
