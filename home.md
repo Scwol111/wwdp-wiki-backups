@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница вики
 published: true
-date: 2024-09-04T11:50:46.867Z
+date: 2024-09-04T11:58:27.820Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-25T08:23:18.734Z
@@ -126,7 +126,7 @@ dateCreated: 2024-08-25T08:23:18.734Z
                 <div class="servermenu">
                   <div>🏳️Medusa</div>
                   <div>
-                    <a href="ss14://188.64.33.86:1212/" class="is-external-link">ss14://188.64.33.86:1212</a>
+                    <a href="ss14://188.64.33.86:1212" class="is-external-link">ss14://188.64.33.86:1212</a>
                   </div>
                 </div>
               <div class="containerextra">
