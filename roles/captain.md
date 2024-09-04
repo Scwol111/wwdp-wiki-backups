@@ -2,7 +2,7 @@
 title: Капитан
 description: 
 published: true
-date: 2024-09-03T14:23:14.027Z
+date: 2024-09-04T14:53:34.415Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-03T14:23:14.027Z
@@ -17,7 +17,7 @@ dateCreated: 2024-09-03T14:23:14.027Z
     <p><strong>Сложность:</strong> Сложная</p>
     <strong>Обязанности:</strong> Глава объекта. Занимается руководством всей станции.<br>
     <b>Руководители</b>: <a href="/roles/centralcommand" class="is-internal-link is-valid-page">ЦентКом</a><br>
-    <b>Руководства</b>: <a href="/guides/hierarchyofcommand" title="Иерархия Командования" class="is-internal-link is-valid-page">Иерархия Командования</a> • <a href="/guides/especiallyvaluableitems" title="Особо ценные предметы" class="is-internal-link is-valid-page">Особо ценные предметы</a>
+    <b>Руководства</b>: <a href="/guides/hierarchyofcommand" title="Иерархия Командования" >Иерархия Командования</a> • <a href="/guides/especiallyvaluableitems" title="Особо ценные предметы" class="is-internal-link is-valid-page">Особо ценные предметы</a>
   </div></div>
   </div>
 </div>
