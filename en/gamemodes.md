@@ -2,7 +2,7 @@
 title: Game modes
 description: 
 published: false
-date: 2024-08-26T00:50:28.596Z
+date: 2024-09-04T14:37:10.772Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T00:21:32.798Z
@@ -16,7 +16,7 @@ dateCreated: 2024-08-26T00:21:32.798Z
 </div><button type="button" class="collapsible">
 <h2 id="секрет" class="toc-header"><a class="toc-anchor" href="#секрет"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/clown_mask.png">
+    <img src="/roles/clown_mask.png">
     <span style="margin-left:10px;">Secret</span>
     </div>
 </h2>
@@ -28,7 +28,7 @@ dateCreated: 2024-08-26T00:21:32.798Z
 </div><button type="button" class="collapsible">
 <h2 id="предатели" class="toc-header"><a class="toc-anchor" href="#предатели"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/role/traitor.png">
+    <img src="/roles/traitor.png">
     <span style="margin-left:10px;">Traitor</span>
     </div>
 </h2>
@@ -45,7 +45,7 @@ dateCreated: 2024-08-26T00:21:32.798Z
 </div><button type="button" class="collapsible">
 <h2 id="ядерные-оперативники" class="toc-header"><a class="toc-anchor" href="#ядерные-оперативники"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/role/nuclearoperative.png">
+    <img src="/roles/nuclearoperative.png">
     <span style="margin-left:10px;">Nuclear operative</span>
     </div>
 </h2>
@@ -62,7 +62,7 @@ dateCreated: 2024-08-26T00:21:32.798Z
 </div><button type="button" class="collapsible">
 <h2 id="генокрад" class="toc-header"><a href="#генокрад"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/role/antagonists/changeling.gif">
+    <img src="/roles/changeling.gif">
     <span style="margin-left:10px;">Changeling</span>
     </div>
 </h2>
@@ -78,7 +78,7 @@ dateCreated: 2024-08-26T00:21:32.798Z
 </div><button type="button" class="collapsible">
 <h2 id="нулевой-пациент" class="toc-header"><a class="toc-anchor" href="#нулевой-пациент"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/role/patientzero.png">
+    <img src="/roles/patientzero.png">
     <span style="margin-left:10px;">Patient zero</span>
     </div>
 </h2>
@@ -95,7 +95,7 @@ dateCreated: 2024-08-26T00:21:32.798Z
 </div><button type="button" class="collapsible">
 <h2 id="культ" class="toc-header"><a class="toc-anchor" href="#культ"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/role/cultist.gif">
+    <img src="/roles/cultist.gif">
     <span style="margin-left:10px;">Cult</span>
     </div>
 </h2>
@@ -116,7 +116,7 @@ dateCreated: 2024-08-26T00:21:32.798Z
 </div><button type="button" class="collapsible">
 <h2 id="революция" class="toc-header"><a class="toc-anchor" href="#революция"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/role/revolution.png">
+    <img src="/roles/revolution.png">
     <span style="margin-left:10px;">Revolution</span>
     </div>
 </h2>
@@ -137,7 +137,7 @@ dateCreated: 2024-08-26T00:21:32.798Z
 </div><button type="button" class="collapsible">
 <h2 id="маг" class="toc-header"><a class="toc-anchor" href="#маг"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/role/antagonists/wizard/wizard_real.png">
+    <img src="/roles/wizard_real.png">
     <span style="margin-left:10px;">Wizard</span>
     </div>
 </h2>
