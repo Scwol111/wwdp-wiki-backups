@@ -1,11 +1,11 @@
 ---
 title: Terminology
 description: 
-published: false
-date: 2024-09-02T17:29:36.409Z
+published: true
+date: 2024-09-11T17:23:42.045Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-26T02:35:00.353Z
+dateCreated: 2024-09-10T19:08:35.257Z
 ---
 
 <div><h1 id="термины-и-терминология" class="toc-header"><a class="toc-anchor" href="#термины-и-терминология">¶</a> Terms and terminology</h1>
