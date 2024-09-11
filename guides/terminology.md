@@ -2,10 +2,10 @@
 title: Терминология
 description: 
 published: true
-date: 2024-09-03T16:31:28.544Z
+date: 2024-09-11T04:30:50.896Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-26T01:57:42.399Z
+dateCreated: 2024-09-10T19:08:05.608Z
 ---
 
 <div><h1 id="термины-и-терминология" class="toc-header"><a class="toc-anchor" href="#термины-и-терминология">¶</a> Термины и терминология</h1>
