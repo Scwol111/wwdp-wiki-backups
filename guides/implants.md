@@ -2,10 +2,10 @@
 title: Импланты
 description: Твой папаша колится, твоя мамаша колится
 published: true
-date: 2024-09-03T08:35:24.222Z
+date: 2024-09-11T04:41:05.552Z
 tags: 
 editor: markdown
-dateCreated: 2024-09-03T08:18:45.033Z
+dateCreated: 2024-09-10T19:07:57.526Z
 ---
 
 # <center> ![implanter_nt.png](/guides/implants/implanter_nt.png){.png9} <span class="up2">Импланты</span> ![implanter.png](/guides/implants/implanter.png){.png9} </center>
