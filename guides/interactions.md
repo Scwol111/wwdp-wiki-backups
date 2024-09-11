@@ -2,7 +2,7 @@
 title: Взаимодействия
 description: Взаимодействия
 published: true
-date: 2024-09-11T04:21:57.914Z
+date: 2024-09-11T04:22:40.025Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:58.885Z
