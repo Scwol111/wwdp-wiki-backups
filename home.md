@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница
 published: true
-date: 2024-09-11T18:08:21.029Z
+date: 2024-09-11T18:10:05.920Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -126,7 +126,7 @@ dateCreated: 2024-09-10T19:12:06.984Z
                 <div class="servermenu">
                   <div>🏳️Medusa</div>
                   <div>
-                    <a class="is-external-link"><span id="copy" onclick="CopyFunction()">ss14://188.64.33.86:1212</span></a>
+                    <a class="is-external-link"><span id="copy">ss14://188.64.33.86:1212</span></a>
                   </div>
                 </div>
               <div class="containerextra">
