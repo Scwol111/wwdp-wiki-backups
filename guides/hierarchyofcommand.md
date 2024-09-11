@@ -2,10 +2,10 @@
 title: Иерархия командования
 description: 
 published: true
-date: 2024-09-03T14:36:52.229Z
+date: 2024-09-11T05:27:35.232Z
 tags: 
 editor: markdown
-dateCreated: 2024-09-03T14:32:44.423Z
+dateCreated: 2024-09-10T19:07:54.737Z
 ---
 
 <h2 id="цепочка-командования" class="toc-header"><a class="toc-anchor" href="#цепочка-командования">¶</a> Цепочка командования</h2>
