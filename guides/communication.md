@@ -2,10 +2,10 @@
 title: Коммуникация
 description: Коммуникация, рация, гарнитура, название канала.
 published: true
-date: 2024-09-03T16:27:58.114Z
+date: 2024-09-11T04:27:19.202Z
 tags: 
 editor: markdown
-dateCreated: 2024-09-03T15:17:36.471Z
+dateCreated: 2024-09-10T19:07:52.001Z
 ---
 
 <div><center><h1 style="width: 80%" id="рация-и-гарнитуры" class="toc-header"><a class="toc-anchor" href="#рация-и-гарнитуры">¶</a> Рация и Гарнитуры</h1></center>
