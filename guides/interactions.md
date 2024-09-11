@@ -2,10 +2,10 @@
 title: Взаимодействия
 description: Взаимодействия
 published: true
-date: 2024-09-03T16:30:39.599Z
+date: 2024-09-11T04:21:57.914Z
 tags: 
 editor: markdown
-dateCreated: 2024-09-03T14:45:46.710Z
+dateCreated: 2024-09-10T19:07:58.885Z
 ---
 
 <div>
