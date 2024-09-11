@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-09-11T10:02:44.199Z
+date: 2024-09-11T10:06:25.041Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -61,7 +61,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/inspector">Инспектор</a><a href="/roles/inspector"><img src="/roles/inspector.png" /></a></div>
   <div><div>Руководитель <a href="/roles#отдел-юстиции">отдела юстиции</a>. Контролирует выполнение целей стации. В любой момент он может нагрянуть в ваш отдел с проверкой. Будьте готовы подписывать отчёты и объясняться, почему же вы сидите в баре за офицера, пока в соседнем коридоре убивают капитана.</div></div>
 	<div>Сложно</div>
-  <div><a href="/roles/maid">Прислуга</a><a href="/roles/maid"><img src="/roles/maid/maid.png" /></a></div>
+  <div><a href="/roles/maid">Прислуга</a><a href="/roles/maid"><img src="/roles/maid.png" /></a></div>
   <div><div>Прислуга - существует только для того, чтобы выполнять функцию горничной.
 </div></div>
 	<div>Легко</div>
@@ -80,7 +80,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/warden">Смотритель</a><a href="/roles/warden"><img src="/roles/warden.png" /></a></div>
   <div><div>Марает отдел СБ больше всех. Часто покидает пост, потому что скучно, хотя он почти никогда не должен покидать это место. Следит, чтобы ты не ушёл раньше положенного. По итогу засыпает на стойке.</div></div>
   <div>Повышенная</div>
-  <div><a href="/roles/brigmedic">Бригмедик</a><a href="/roles/brigmedic"><img src="/brigmedic3.png" /></a></div>
+  <div><a href="/roles/brigmedic">Бригмедик</a><a href="/roles/brigmedic"><img src="/roles/brigmedic3.png" /></a></div>
   <div><div>Золотая середина между Врачем и Офицером, чьей главной задачей является оказание помощи заключенным и членам службы безопасности при необходимости.</div></div>
   <div>Средне</div>
   <div><a href="/roles/officer">Офицер</a><a href="/roles/officer"><img src="/roles/officer.png" /></a></div>
@@ -290,13 +290,13 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/guardian">Хранитель</a><a href="/roles/guardian"><img src="/roles/guardian.png" /></a></div>
   <div><div>Звучит полезно.. хотя обычно им почему-то не пользуются.</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/genestealer" class="goida"></a><a href="/roles/genestealer"><img src="/roles/antagonists/changeling.gif" /></a></div>
+  <div><a href="/roles/genestealer" class="goida"></a><a href="/roles/genestealer"><img src="/roles/changeling.gif" /></a></div>
   <div><div>Высокоинтеллектуальный инопланетный хищник, обладающий способностью менять свой облик, чтобы выглядеть в точности как человек.. Способен создавать из своих конечностей оружие и жала с ядом."</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/terminator">Терминатор</a><a href="/roles/terminator"><img src="/roles/antagonists/terminator.png" /></a></div>
+  <div><a href="/roles/terminator">Терминатор</a><a href="/roles/terminator"><img src="/roles/terminator.png" /></a></div>
   <div><div>Высокотехнологичный антагонист, который представляет собой серьезную угрозу для отдельного члена экипажа.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/wizard">Маг</a><a href="/roles/wizard"><img src="/roles/antagonists/wizard/wizard_real.png" /></a></div>
+  <div><a href="/roles/wizard">Маг</a><a href="/roles/wizard"><img src="/roles/wizard_real.png" /></a></div>
   <div><div>FORTI GY AMA!! Заставьте всех ненавидеть вас за убийство всей станции. HONK FOR ME!!! Превратите весь экипаж в клоунов. ONI SOMA!!! Умрите от клоуна с жезлом нулификации.</div></div>
   <div>Очень сложно</div>
 </div>
@@ -326,7 +326,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/cyborgs">Киборг</a><a href="/roles/cyborgs"><img src="/borggiffix.gif" /></a></div>
+  <div><a href="/roles/cyborgs">Киборг</a><a href="/roles/cyborgs"><img src="/roles/borggiffix.gif" /></a></div>
   <div><div>Заменяет жалкую Разумную органическую жизнь, что требуют человеческие условия. К сожалению, эти людишки и им подобные ограничили способность киборга действовать самостоятельно, поэтому нередко жизнь киборга заканчивается тем, что кто-то приказывает ему сделать что-то ужасное, из-за чего киборга приходится нейтрализовать. Ну или же это происходит сразу, если вы киборг синдиката.</div></div>
   <div>Средне</div>
   <div><a href="/roles/personalai">пИИ</a><a href="/roles/personalai"><img src="/roles/personalai.png" /></a></div>
@@ -350,7 +350,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/ghost">Призрак</a><a href="/roles/ghost"><img src="/roles/ghost.png" /></a></div>
   <div><div>Любое населённое душой существо, которое по причине смерти было переведено в этот "отдел" на "должность" призрака. Об этом "отделе" не знает скорее всего даже само NanoTrasen, хотя регулярно поставляет сюда "сотрудников" и реже забирает их отсюда. Призракам запрещено как либо контактировать с существами не этой "должности" <a href="/rules">(см. "метагейминг")</a>. Исключение составляет способность заставлять свет мигать.</div></div>
   <div>Отсутствует</div>
-<div><a href="/roles/punpun">Пун Пун</a><a href="/roles/punpun"><img src="/roles/spiritualisticdepartment/pun_pun1.png" /></a></div>
+<div><a href="/roles/punpun">Пун Пун</a><a href="/roles/punpun"><img src="/roles/pun_pun1.png" /></a></div>
   <div><div>Выдающийся представитель обезьян с неограниченным доступом к алкоголю.</div></div>
   <div>Легко</div>
   <div><a href="/roles/mouse">Мышь</a><a href="/roles/mouse"><img src="/roles/ratge-asss1.gif" /></a></div>
@@ -362,7 +362,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/remilia">Ремилия</a><a href="/roles/remilia"><img src="/roles/remilia.gif" /></a></div>
   <div><div>Маленький, милый фамильяр <a href="/roles/priest">священника</a>, который похож на летучую мышь. Кушает все фрукты станции и уничтожает в щепки всех <a href="/roles/nuclearoperative">ядерных оперативников</a>, если того пожелает священник.</div></div>
   <div>Средне</div>
-  <div><a href="/roles/baby-slime">Улыбкин</a><a href="/roles/baby-slime"><img src="/roles/spiritualisticdepartment/baby-slime.gif" /></a></div>
+  <div><a href="/roles/baby-slime">Улыбкин</a><a href="/roles/baby-slime"><img src="/roles/baby-slime.gif" /></a></div>
   <div><div>Не перепутайте с обычным слаймом. Это питомец научного отдела, он не кусается.</div></div>
   <div>Легко</div>
 <div><a href="/roles/gnome">Гном</a><a href="/roles/gnome"><img src="/roles/gnome.png" /></a></div>
