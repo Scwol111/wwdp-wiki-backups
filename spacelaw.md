@@ -2,7 +2,7 @@
 title: Космический Закон
 description: Правила нахождения персонала на станции. КЗ, Космический закон.
 published: true
-date: 2024-09-11T19:00:31.153Z
+date: 2024-09-11T19:02:16.252Z
 tags: сб
 editor: markdown
 dateCreated: 2024-09-10T19:07:45.005Z
