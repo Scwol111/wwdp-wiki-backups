@@ -2,7 +2,7 @@
 title: Броня
 description: 
 published: true
-date: 2024-09-11T19:27:22.601Z
+date: 2024-09-12T16:00:02.907Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-11T19:18:36.680Z
@@ -363,7 +363,7 @@ dateCreated: 2024-09-11T19:18:36.680Z
     <span>Скорость понижается на <b class="type">10%</b></span>
   </div>
   <div class="table-item">Тяжело бронированный костюм с красными вставками, способный защитить от высокого урона.</div>
-  <div class="table-item button other">
+  <div class="table-item button antag">
     <img src="/armor/acolytearmor.png">
     Доспехи аколита
   </div>
@@ -375,7 +375,7 @@ dateCreated: 2024-09-11T19:18:36.680Z
     <span>Скорость понижается на <b class="type">10%</b></span>
   </div>
   <div class="table-item">Прочная броня прислужника.</div>
-  <div class="table-item button other">
+  <div class="table-item button wiz">
     <img src="/armor/bluemagusarmor.png">
     Синие доспехи магуса
   </div>
@@ -389,7 +389,7 @@ dateCreated: 2024-09-11T19:18:36.680Z
     <span>Скорость понижается на <b class="type">10%</b></span>
   </div>
   <div class="table-item">Синий бронекостюм Бога Церкви Истины, обеспечивающий хорошую защиту.</div>
-  <div class="table-item button other">
+  <div class="table-item button wiz">
     <img src="/armor/redmagusarmor.png">
     Красные доспехи магуса
   </div>
