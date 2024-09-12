@@ -2,7 +2,7 @@
 title: Броня
 description: 
 published: true
-date: 2024-09-12T16:00:02.907Z
+date: 2024-09-12T16:01:16.545Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-11T19:18:36.680Z
@@ -190,7 +190,7 @@ dateCreated: 2024-09-11T19:18:36.680Z
     <span><b>Любое</b> зимнее пальто имеет такую защиту, кроме пальто генетика, вирусолога и СМО.</span>
 </div>
 <div class="table-item button serv">
-    <img src="/role/bomz/bomzhcoat.png">
+    <img src="/armor/bomzhcoat.png">
     Потрёпанная куртка
 </div>
 <div class="table-item">
