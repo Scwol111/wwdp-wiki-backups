@@ -2,7 +2,7 @@
 title: Химик
 description: 
 published: true
-date: 2024-09-13T15:55:16.225Z
+date: 2024-09-13T16:05:09.595Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:16.060Z
@@ -11,7 +11,7 @@ dateCreated: 2024-09-10T19:08:16.060Z
 <div class="roles-passport med">
   <div class="title med"><a href="/roles/medicaldepartment" class="is-internal-link is-valid-page">Медицинский отдел</a></div>
   <div>
-    <div><div><img src="/roles/med/chemist.png"></div></div>
+    <div><div><img src="/roles/chemist.png"></div></div>
   <div><div>
     <h1 id="химик" class="toc-header"><a class="toc-anchor" href="#химик">¶</a> Химик</h1>
     <p><strong>Сложность:</strong> Средняя</p>
