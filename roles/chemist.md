@@ -2,10 +2,10 @@
 title: Химик
 description: 
 published: true
-date: 2024-09-02T18:43:35.591Z
+date: 2024-09-13T15:52:53.228Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-27T06:53:36.702Z
+dateCreated: 2024-09-10T19:08:16.060Z
 ---
 
 <div class="roles-passport med">
