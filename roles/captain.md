@@ -2,10 +2,10 @@
 title: Капитан
 description: 
 published: true
-date: 2024-09-04T14:53:44.432Z
+date: 2024-09-13T15:31:27.112Z
 tags: 
 editor: markdown
-dateCreated: 2024-09-03T14:23:14.027Z
+dateCreated: 2024-09-10T19:08:14.719Z
 ---
 
 <div class="roles-passport comm">
