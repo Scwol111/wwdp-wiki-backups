@@ -2,7 +2,7 @@
 title: Доктор
 description: 
 published: true
-date: 2024-09-17T16:52:13.622Z
+date: 2024-09-17T17:38:23.253Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:21.119Z
