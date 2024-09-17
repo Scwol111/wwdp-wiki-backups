@@ -2,10 +2,10 @@
 title: Интерн
 description: 
 published: true
-date: 2024-08-28T19:15:29.103Z
+date: 2024-09-17T16:53:03.970Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-28T19:13:33.219Z
+dateCreated: 2024-09-10T19:08:24.032Z
 ---
 
 <div class="roles-passport med">
