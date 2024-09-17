@@ -2,7 +2,7 @@
 title: Интерн
 description: 
 published: true
-date: 2024-09-17T16:53:03.970Z
+date: 2024-09-17T17:42:11.795Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:24.032Z
