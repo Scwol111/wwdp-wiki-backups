@@ -2,10 +2,10 @@
 title: Парамедик
 description: 
 published: true
-date: 2024-08-28T18:17:03.447Z
+date: 2024-09-17T16:52:45.004Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-28T18:17:03.447Z
+dateCreated: 2024-09-10T19:08:26.886Z
 ---
 
 <div class="roles-passport med">
