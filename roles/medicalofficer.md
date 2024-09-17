@@ -2,10 +2,10 @@
 title: Медицинский офицер
 description: 
 published: true
-date: 2024-08-28T17:45:22.710Z
+date: 2024-09-17T16:51:45.636Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-26T21:00:49.269Z
+dateCreated: 2024-09-10T19:08:25.466Z
 ---
 
 <div style="display: flex; justify-content: center;">
