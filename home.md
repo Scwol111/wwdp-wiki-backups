@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница
 published: true
-date: 2024-09-18T18:11:23.643Z
+date: 2024-09-18T18:12:04.668Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -117,7 +117,7 @@ dateCreated: 2024-09-10T19:12:06.984Z
                 <p>
                   <strong>Multiverse</strong>
                 </p>
-                <p>Впервые на нашем сервере? Для того, чтобы начать своё погружение в удивительный мир космической станции, прочитайте как начать играть с нами на <a href="https://google.com" class="is-external-link" style="text-decoration: none;">сайте, которого пока нет.</a>
+                <p>Впервые на нашем сервере? Для того, чтобы начать своё погружение в удивительный мир космической станции, прочитайте как начать играть с нами на <a href="https://google.com" class="is-external-link" style="text-decoration: none;">сайте, которого пока нет</a>.
                 </p>
               </div>
               <div></div>
