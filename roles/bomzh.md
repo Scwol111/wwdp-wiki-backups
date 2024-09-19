@@ -2,7 +2,7 @@
 title: Бомж
 description: Космический бомж
 published: true
-date: 2024-09-19T19:59:27.749Z
+date: 2024-09-19T20:23:10.478Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:11.965Z
@@ -17,8 +17,8 @@ dateCreated: 2024-09-10T19:08:11.965Z
     <h1>Космический бомж</h1>
     <p><strong>Сложность:</strong> Легкая</p>
     <strong>Обязанности:</strong> Доживать свою жизнь, в не самых лучших условиях.<br>
-    <b>Руководители:</b> Алкоголизм и  <a href="/guides/psychologicaldiseases" class="is-internal-link is-valid-page">всевозможные заболевания</a><br>
-    <b>Руководства:</b> <a href="/guides/handmadeweapons" class="is-internal-link is-valid-page">Cамодельное оружие</a>
+    <b>Руководители:</b> Алкоголизм и  <a href="/guides/psychologicaldiseases">всевозможные заболевания</a><br>
+    <b>Руководства:</b> <a href="/guides/handmadeweapons">Cамодельное оружие</a>
   </div></div>
   </div>
 </div>
