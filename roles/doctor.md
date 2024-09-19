@@ -2,13 +2,13 @@
 title: Доктор
 description: 
 published: true
-date: 2024-09-17T17:38:23.253Z
+date: 2024-09-19T19:48:51.246Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:21.119Z
 ---
 
-<div class="roles-passport med">
+<div style="display: flex; justify-content: center;"><div class="roles-passport med">
   <div class="title med"><a href="/roles/medicaldepartment" class="is-internal-link is-valid-page">Медицинский отдел</a></div>
   <div>
     <div><div><img src="/roles/doctor.png"></div></div>
