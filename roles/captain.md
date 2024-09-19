@@ -2,7 +2,7 @@
 title: Капитан
 description: 
 published: true
-date: 2024-09-17T17:07:39.784Z
+date: 2024-09-19T19:28:45.908Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:14.719Z
@@ -37,13 +37,13 @@ dateCreated: 2024-09-10T19:08:14.719Z
    <center><img src="/roles/captain/idcap.png" class="png1"><span class="up">Бытие Капитана — основы</span></center>
 </h3>
 <br>
-<img src="/roles/captain/bridge.png">
+<img src="/roles/captain/bridge.png" style="display: block; margin: 0 auto;">
 <p>У капитана есть просторная каюта, в комплекте с которой идут: идентификационная и коммуникационная консоли, <a href="/guides/especiallyvaluableitems" class="is-internal-link is-valid-page">джетпак</a>, <a href="/guides/especiallyvaluableitems" class="is-internal-link is-valid-page">диск ядерной аутентификации</a>, лучший бронированный скафандр на станции и ваша гордость — <a href="/guides/especiallyvaluableitems" class="is-internal-link is-valid-page">наградной антикварный лазерный пистолет</a>.</p>
 <p>В начале смены возьмите диск ядерной аутентификации и положите его в рюкзак. Если вы это сделали, вы уже выполнили половину своей работы. Если вы чувствуете себя особенно уязвимым, отдайте свой пинпоинтер <a href="/roles/headofsecurity" class="is-internal-link is-valid-page">Главе Службы Безопасности</a>. После этого ходите по станции и командуйте людьми — вы ведь Капитан.</p>
 <p><a href="/guides/especiallyvaluableitems" class="is-internal-link is-valid-page"><strong>Взгляните на все уникальное снаряжение здесь.</strong></a></p>
 <details>
    <summary>
-      <center><img src="/roles/captain/documentes.png" class="png1"><br>Цель станции</center>
+      <center><img src="/roles/captain/documentes.png" class="png1" ><br>Цель станции</center>
    </summary>
    <p><strong>Доброе утро, главы.</strong><br>Если вы это читаете, значит запуск станции прошел успешно и вы уже прибыли на своё рабочее место в составе ранней группы. Если нет, то этот документ будет ждать вашего прибытия на транспортном шаттле.</p>
    <hr>
