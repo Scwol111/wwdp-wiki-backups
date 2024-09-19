@@ -1,11 +1,11 @@
 ---
 title: Технический ассистент
 description: 
-published: false
-date: 2024-09-04T08:27:44.994Z
+published: true
+date: 2024-09-19T20:02:32.659Z
 tags: роли
 editor: markdown
-dateCreated: 2024-09-04T07:55:58.560Z
+dateCreated: 2024-09-10T19:08:29.750Z
 ---
 
 <div style="display: flex; justify-content: center;">
@@ -18,7 +18,7 @@ dateCreated: 2024-09-04T07:55:58.560Z
     <p><strong>Сложность:</strong> Легкая</p>
     <strong>Обязанности:</strong> Постигать технические основы, помогать инженерной команде.<br>
     <b>Руководители</b>: <a href="/roles/chiefengineer">Старший Инженер</a>, <a href="/roles/engineer">Инженер</a><br>
-    <b>Руководства</b>: <a href="/ru/guides/engineering">Инженерия</a> • <a href="/">Сингулярный двигатель</a> • <a href="/">Трубы</a> • <a href="/">Руководство по взлому</a> • <a href="/">Шаттлостроение</a> • <a href="/">Двигатель антиматерии</a> • <a href="/">Создание</a> 
+    <b>Руководства</b>: <a href="/ru/guides/engineering">Инженерия</a> • <a href="/">Сингулярный двигатель</a> • <a href="/">Трубы</a> • <a href="/">Руководство по взлому</a> • <br><a href="/">Шаттлостроение</a> • <a href="/">Двигатель антиматерии</a> • <a href="/">Создание</a> 
   </div></div>
   </div>
 </div>
