@@ -1,11 +1,11 @@
 ---
 title: Атмосферный Техник
 description: 
-published: false
-date: 2024-09-04T08:27:15.994Z
+published: true
+date: 2024-09-19T20:00:25.052Z
 tags: роли
 editor: markdown
-dateCreated: 2024-09-04T08:06:53.220Z
+dateCreated: 2024-09-10T19:08:10.565Z
 ---
 
 <div style="display: flex; justify-content: center;">
