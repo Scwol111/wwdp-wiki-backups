@@ -1,11 +1,11 @@
 ---
 title: Инженер
 description: 
-published: false
-date: 2024-09-04T08:27:25.730Z
+published: true
+date: 2024-09-19T20:00:40.528Z
 tags: роли
 editor: markdown
-dateCreated: 2024-09-04T08:02:43.394Z
+dateCreated: 2024-09-10T19:08:22.623Z
 ---
 
 <div style="display: flex; justify-content: center;">
