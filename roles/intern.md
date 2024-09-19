@@ -2,13 +2,13 @@
 title: Интерн
 description: 
 published: true
-date: 2024-09-17T17:42:11.795Z
+date: 2024-09-19T19:49:58.132Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:24.032Z
 ---
 
-<div class="roles-passport med">
+<div style="display: flex; justify-content: center;"><div class="roles-passport med">
   <div class="title med"><a href="/roles/medicaldepartment" class="is-internal-link is-valid-page">Медицинский отдел</a></div>
   <div>
     <div><div><img src="/roles/intern.png"></div></div>
