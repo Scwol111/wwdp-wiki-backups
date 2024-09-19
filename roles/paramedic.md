@@ -2,20 +2,20 @@
 title: Парамедик
 description: 
 published: true
-date: 2024-09-17T17:38:36.731Z
+date: 2024-09-19T19:49:32.549Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:26.886Z
 ---
 
-<div class="roles-passport med">
+<div style="display: flex; justify-content: center;"><div class="roles-passport med">
   <div class="title med"><a href="/roles/medicaldepartment" class="is-internal-link is-valid-page">Медицинский отдел</a></div>
   <div>
     <div><div><img src="/roles/med/paramedic.png"></div></div>
   <div><div>
     <h1 id="парамедик" class="toc-header"><a class="toc-anchor" href="#парамедик">¶</a> Парамедик</h1>
     <p><strong>Сложность:</strong> Средняя</p>
-    <strong>Обязанности:</strong> Оперативная доставка раненых в медицинский отдел, а также оказание первой медицинской помощи.<br>
+    <strong>Обязанности:</strong> Оперативная доставка раненых в медицинский отдел, <br> а также оказание первой медицинской помощи.<br>
     <b>Руководители</b>: <a href="/roles/chiefmedicalofficer" title="Старший Медицинский Офицер" class="is-internal-link is-valid-page">Старший Медицинский Офицер</a><br>
     <b>Руководства</b>: <a href="/guides/medicine" title="Медицина" class="is-internal-link is-valid-page">Медицина</a> • <a href="/guides/chemistry" title="Химия" class="is-internal-link is-valid-page">Химия</a> • <a href="/guides/medicalequipment" title="Медицинский инвентарь" class="is-internal-link is-valid-page">Медицинский инвентарь</a>
   </div></div>
