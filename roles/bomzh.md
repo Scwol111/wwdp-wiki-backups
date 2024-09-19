@@ -2,12 +2,11 @@
 title: Бомж
 description: Космический бомж
 published: true
-date: 2024-09-04T14:58:04.759Z
+date: 2024-09-19T19:56:38.572Z
 tags: 
 editor: markdown
-dateCreated: 2024-09-02T18:26:42.069Z
+dateCreated: 2024-09-10T19:08:11.965Z
 ---
-
 
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport serv">
