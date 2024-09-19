@@ -2,13 +2,13 @@
 title: Старший Инженер
 description: 
 published: true
-date: 2024-09-17T17:25:59.615Z
+date: 2024-09-19T19:31:37.973Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:17.492Z
 ---
 
-<div><div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;">
   <div class="roles-passport comm">
     <div class="title comm"><a href="/roles/command" class="is-internal-link is-valid-page">Командование</a></div>
     <div>
