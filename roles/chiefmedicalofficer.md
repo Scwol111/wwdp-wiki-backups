@@ -2,13 +2,14 @@
 title: Старший Медицинский Офицер
 description: 
 published: true
-date: 2024-09-17T17:27:28.049Z
+date: 2024-09-19T19:48:19.159Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:19.723Z
 ---
 
- <div class="roles-passport comm">
+ <div style="display: flex; justify-content: center;">
+<div class="roles-passport comm">
     <div class="title comm"><a href="/roles/command" class="is-internal-link is-valid-page">Командование</a></div>
     <div>
       <div><div><img src="/roles/med/chiefmedicalofficer.png"></div></div>
