@@ -2,7 +2,7 @@
 title: Глава Службы Безопасности
 description: 
 published: true
-date: 2024-09-20T19:11:40.771Z
+date: 2024-09-20T19:14:43.761Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-20T19:10:23.267Z
@@ -48,8 +48,8 @@ dateCreated: 2024-09-20T19:10:23.267Z
 <p></p>
 <div style="width: 90%; height: 100%; border-radius: 20px; margin: auto; background: radial-gradient(red, 30%, #660011); position: relative;">
   <p>
-  </p><div style="position: absolute; bottom: 2%; right: 2%;"><img src="https://wiki.ss14.su/images/9/96/StunBaton.gif" class="png1"></div>	
-  <div style="position: absolute; bottom: 2%; left: 2%;"><img src="https://wiki.ss14.su/images/9/96/StunBaton.gif" class="png1"> </div> 
+  </p><div style="position: absolute; bottom: 2%; right: 2%;"><img src="/roles/other/baton.png" class="png1"></div>	
+  <div style="position: absolute; bottom: 2%; left: 2%;"><img src="/roles/other/baton.png" class="png1"> </div> 
   <div> 
     <font size="5">
       <center>
