@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-09-11T17:03:39.159Z
+date: 2024-09-20T18:29:35.131Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -241,6 +241,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div>Очень легко</div>
   <div><a href="/roles/bomzh">Космический бомж</a><a href="/roles/bomzh"><img src="/roles/bomz2.png" /></a></div>
   <div><div>Кто знает, кем он был в прошлом, но сейчас он волочит жалкое существование в мусорблоке, питаясь объедками и мышами.</div></div>
+  <div>Легко</div>
+  <div><a href="/roles/prisoner">Заключенный</a><a href="/roles/prisoner"><img src="/roles/prisoner.png" /></a></div>
+  <div><div>Делайте все возможное в пермабриге.</div></div>
   <div>Легко</div>
 </div>
 
