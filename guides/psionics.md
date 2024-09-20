@@ -2,7 +2,7 @@
 title: Псионики
 description: Руководство, которое поможет вам познать мощь сознания. Псионика, псионики.
 published: true
-date: 2024-09-20T18:17:05.832Z
+date: 2024-09-20T18:18:31.767Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:01.604Z
