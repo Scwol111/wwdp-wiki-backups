@@ -2,7 +2,7 @@
 title: Глава Службы Безопасности
 description: 
 published: true
-date: 2024-09-20T19:15:05.062Z
+date: 2024-09-20T19:15:10.035Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-20T19:10:23.267Z
