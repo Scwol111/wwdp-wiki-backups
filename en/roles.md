@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-09-21T14:20:25.066Z
+date: 2024-09-21T14:21:46.606Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -374,7 +374,7 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   <div><a href="/roles/remilia">Remilia</a><a href="/roles/remilia"><img src="/roles/remilia.gif" /></a></div>
   <div><div>A small, cute familiar of the <a href="/roles/priest">priest</a>, which looks like a bat. He eats all the fruit on the station and destroys all the <a href="/roles/nuclearoperative">nuclear operatives</a> into splinters, if the priest wishes so.</div></div>
   <div>Medium</div>
-  <div><a href="/roles/baby-slime">Ulybkin</a><a href="/roles/baby-slime"><img src="/roles/baby-slime.gif" /></a></div>
+  <div><a href="/roles/baby-slime">Smiley</a><a href="/roles/baby-slime"><img src="/roles/baby-slime.gif" /></a></div>
   <div><div>Do not confuse with ordinary slime. This is a pet of the science department, it doesn't bite.</div></div>
   <div>Easy</div>
 <div><a href="/roles/gnome">Gnome</a><a href="/roles/gnome"><img src="/roles/gnome.png" /></a></div>
