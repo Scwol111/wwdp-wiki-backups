@@ -2,7 +2,7 @@
 title: Captain
 description: 
 published: true
-date: 2024-09-21T13:58:50.200Z
+date: 2024-09-21T13:59:16.135Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:57:16.237Z
@@ -10,11 +10,11 @@ dateCreated: 2024-09-21T13:57:16.237Z
 
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport comm">
-  <div class="title comm" id="title"><a href="/roles/command" class="is-internal-link is-valid-page">Командование</a></div>
+  <div class="title comm" id="title"><a href="/roles/command" class="is-internal-link is-valid-page">Command</a></div>
   <div>
     <div><div><img src="/roles/captain.png" id="img"></div></div>
   <div><div>
-    <h1 id="капитан" class="toc-header"><a class="toc-anchor" href="#капитан">¶</a> Капитан</h1>
+    <h1 id="капитан" class="toc-header"><a class="toc-anchor" href="#капитан">¶</a> Captain</h1>
     <p><strong>Difficulty:</strong> Hard</p>
     <strong>Duties:</strong> Head of Facility. In charge of managing the entire station.<br>
     <b>Supervisors</b>: <a href="/roles/centralcommand" class="is-internal-link is-valid-page">CentComm</a><br>
