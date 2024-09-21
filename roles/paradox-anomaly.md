@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Парадоксальная аномалия
 description: 
 published: true
-date: 2024-09-21T13:34:25.772Z
+date: 2024-09-21T13:34:36.405Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:34:25.772Z
