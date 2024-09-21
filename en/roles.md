@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-09-21T14:11:10.470Z
+date: 2024-09-21T14:20:25.066Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -242,7 +242,7 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   <div><a href="/roles/musician">Musician</a><a href="/roles/musician"><img src="/roles/musician.png" /></a></div>
   <div><div>"The alluring vaults of palaces will never replace free-dom! Never replace free-dom!"</div></div>
   <div>Very easy</div>
-  <div><a href="/roles/bomzh">Space Bum</a><a href="/roles/bomzh"><img src="/roles/bomz2.png" /></a></div>
+  <div><a href="/roles/bomzh" class="is-internal-link is-valid-page">Space Bum</a><a href="/roles/bomzh"><img src="/roles/bomz2.png" /></a></div>
   <div><div>Who knows who he was in the past, but now he leads a miserable existence in the trash block, eating scraps and mice.</div></div>
   <div>Easy</div>
   <div><a href="/roles/prisoner">Prisoner</a><a href="/roles/prisoner" class="is-internal-link is-valid-page" ><img src="/roles/prisoner.png" /></a></div>
