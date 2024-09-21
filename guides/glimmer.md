@@ -2,7 +2,7 @@
 title: Мерцание
 description: 
 published: true
-date: 2024-09-21T18:00:36.755Z
+date: 2024-09-21T18:00:47.697Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T17:56:28.384Z
