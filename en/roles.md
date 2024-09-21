@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-09-21T13:49:57.274Z
+date: 2024-09-21T14:11:10.470Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -34,13 +34,13 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
 <div>Description</div>
 <div>Difficulty</div>
 </div>
-<div><a href="/roles/captain">Captain</a><a href="/roles/captain"><img src="/roles/captain.png" /></a></div>
+<div><a href="/roles/captain" class="is-internal-link is-valid-page">Captain</a><a href="/roles/captain"><img src="/roles/captain.png" /></a></div>
 <div><div>The head of the entire station. Gives out orders, some of them may be useful. Often realizes that their ID was stolen. They're often paranoid and armed at any code. </div></div>
 <div>Hard - Painful</div>
 <div><a href="/roles/headofpersonnel">Head of Personnel</a><a href="/roles/headofpersonnel"><img src="/roles/headofpersonnel.png" /></a></div>
 <div><div>The right hand and deputy of the captain. The main role is managing the <a href="/roles#сервисный-отдел">service department</a>, as well as changing the ID access of a crew member, if necessary. Additionally, they monitor the work of the station and departments. Often ignores their work and goes to catch criminals, and sometimes they just... don't hold up. </div></div>
 <div>Quite difficult</div>
-<div><a href="/roles/headofsecurity">Head of Security</a><a href="/roles/headofsecurity"><img src="/roles/headofsecurity.png" /></a></div>
+<div><a href="/roles/headofsecurity" class="is-internal-link is-valid-page">Head of Security</a><a href="/roles/headofsecurity"><img src="/roles/headofsecurity.png" /></a></div>
 <div><div>The <a href="/roles#служба-безопасности">head of order</a> on this station. Either good or dead. There is no other option. You will be praying that if something happens, it is not he who tortures and interrogates you. He goes to sleep and never wakes up. He poorly suppresses the supply department from gaining independence. </div></div>
 <div>Quite difficult</div>
 <div><a href="/roles/chiefengineer">Chief Engineer</a><a href="/roles/chiefengineer"><img src="/roles/chiefengineer.png" /></a></div>
