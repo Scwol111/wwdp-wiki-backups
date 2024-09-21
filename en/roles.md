@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-09-21T14:34:04.000Z
+date: 2024-09-21T14:50:44.232Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -240,7 +240,7 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   <div><div>Writes and reads interesting stories. Tries to set up a board game for half the station. Have some compassion, it's hard for him!</div></div>
   <div>Easy</div>
   <div><a href="/roles/musician">Musician</a><a href="/roles/musician"><img src="/roles/musician.png" /></a></div>
-  <div><div>"The alluring vaults of palaces will never replace free-dom! Never replace free-dom!"</div></div>
+  <div><div>Play MIDIs at deafening volumes. Lay down some smooth jams. Bum around in the bar and flex your knowledge on obscure bands. Pester Cargo for more instruments. Sell your soul for a gold-plated fiddle. Be sad that some humanoid bird has better MIDI playing capabilities.</div></div>
   <div>Very easy</div>
   <div><a href="/roles/bomzh" class="is-internal-link is-valid-page">Space Bum</a><a href="/roles/bomzh"><img src="/roles/bomz2.png" /></a></div>
   <div><div>Who knows who he was in the past, but now he leads a miserable existence in the trash block, eating scraps and mice.</div></div>
