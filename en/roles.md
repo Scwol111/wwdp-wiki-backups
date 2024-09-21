@@ -1,0 +1,383 @@
+---
+title: Roles
+description: 
+published: true
+date: 2024-09-21T13:47:40.648Z
+tags: 
+editor: markdown
+dateCreated: 2024-09-21T13:47:40.648Z
+---
+
+Welcome to the **Role Guide**, which covers the various roles you may encounter on [Space Station 14](/) by [NanoTrasen](/backstory#nanotrasen)!
+
+Ever wonder why one guy in red arrested you for hacking, while another just shot you on the spot? Or what's the difference between people in white coats? **You've come to the right place!**
+
+If you are new to the station, we recommend starting with the **Assistant** role [/roles/assistant]. It's pretty straightforward and typically doesn't require much from you, leaving you time to get your bearings. After that, try out roles like: **Service Worker** [/roles/serviceworker], **Loader** [/roles/loader], **Intern** [/roles/intern], **Research Assistant** [/roles/researchassistant], and **Technical Assistant** [/roles/technicalassistant].
+
+##  Helpful Resources:
+
+*   [Space Law](/spacelaw)
+*   [Roleplaying Guide](/guides/roleplayingguide)
+*   [Hierarchy of Command](/guides/hierarchyofcommand)
+*   [Guides](/guides)
+*   [Maps](https://ss14.su/maps)
+
+--- 
+
+ 
+<div class="roles-table comm">
+<div class="title comm-title">
+<div class="link"><h2><a href="/roles/command" class="comm-color">Command</a></h2></div>
+<div>Role</div>
+<div>Description</div>
+<div>Difficulty</div>
+</div>
+<div><a href="/roles/captain">Captain</a><a href="/roles/captain"><img src="/roles/captain.png" /></a></div>
+<div><div>The head of the entire station. Gives out orders, some of them may be useful. Often realizes that their ID was stolen. They're often paranoid and armed at any code. </div></div>
+<div>Hard - Painful</div>
+<div><a href="/roles/headofpersonnel">Head of Personnel</a><a href="/roles/headofpersonnel"><img src="/roles/headofpersonnel.png" /></a></div>
+<div><div>The right hand and deputy of the captain. The main role is managing the <a href="/roles#сервисный-отдел">service department</a>, as well as changing the ID access of a crew member, if necessary. Additionally, they monitor the work of the station and departments. Often ignores their work and goes to catch criminals, and sometimes they just... don't hold up. </div></div>
+<div>Quite difficult</div>
+<div><a href="/roles/headofsecurity">Head of Security</a><a href="/roles/headofsecurity"><img src="/roles/headofsecurity.png" /></a></div>
+<div><div>The <a href="/roles#служба-безопасности">head of order</a> on this station. Either good or dead. There is no other option. You will be praying that if something happens, it is not he who tortures and interrogates you. He goes to sleep and never wakes up. He poorly suppresses the supply department from gaining independence. </div></div>
+<div>Quite difficult</div>
+<div><a href="/roles/chiefengineer">Chief Engineer</a><a href="/roles/chiefengineer"><img src="/roles/chiefengineer.png" /></a></div>
+<div><div>Manages the <a href="/roles#инженерный-отдел">engineering department</a>. Builds a shuttle to escape in case something happens or to prevent the supply department from gaining independence, or declares independence for engineering. They have cool tools that almost anyone would like to get their hands on. Yells "LET THERE BE LIGHT!" and explodes the <a href="/guides/antimatterengine">DAM</a>. Dies because of the <a href="/roles/atmospherictechnician">atmospheric engineer</a> who unscrewed the high-pressure pipe. </div></div>
+<div>Difficult</div>
+<div><a href="/roles/researchdirector">Research Director</a><a href="/roles/researchdirector"><img src="/roles/researchdirector.png" /></a></div>
+<div><div>Leads one of the most important and dangerous departments, namely the <a href="/roles#научный-отдел">science department</a>! Ensures everyone has the latest and greatest. Arms the department with weapons, grenades, mines, protects them with airlocks and anything else that comes to hand, and then brews drugs and dies because the science assistant, for a laugh, brews him in a refrigerator box. </div></div>
+<div>Average, but with complications</div>
+<div><a href="/roles/chiefmedicalofficer">Chief Medical Officer</a><a href="/roles/chiefmedicalofficer"><img src="/roles/chiefmedicalofficer.png" /></a></div>
+<div><div>Leads the <a href="/roles#медицинский-отдел">medical department</a>. Ensures and controls the station's supply of medicines and the saving of your backside. In the end, he brews drugs with the chemists and ends up on a hospital bed due to an overdose. </div></div>
+<div>Difficult</div>
+<div><a href="/roles/quartermaster">Quartermaster</a><a href="/roles/quartermaster"><img src="/roles/quartermaster.png" /></a></div>
+<div><div>Head of the <a href="/roles#отдел-снабжения">supply department</a>. Controls the supply of everything necessary to the station. In the end, he supplies his department with whatever he wants and steals the supply department's shuttle, declaring independence for "Cargoonia". </div></div>
+<div>Average, but with complications</div>
+<div><a href="/roles/inspector">Inspector</a><a href="/roles/inspector"><img src="/roles/inspector.png" /></a></div>
+<div><div>Head of the <a href="/roles#отдел-юстиции">justice department</a>. Monitors the achievement of the station's goals. At any moment, he can show up at your department for an inspection. Be prepared to sign reports and explain why you're sitting in the bar for an officer while the captain is being killed in the next corridor. </div></div>
+<div>Difficult</div>
+<div><a href="/roles/maid">Maid</a><a href="/roles/maid"><img src="/roles/maid.png" /></a></div>
+<div><div>Maid - exists only to perform the function of a maid.
+</div></div>
+<div>Easy</div>
+</div>
+ 
+<div class="roles-table sb">
+  <div class="title sb-title">
+    <div class="link"><h2><a href="/roles/securityservicedepartment" class="sb-color">Security Service</a></h2></div>
+  	<div>Role</div>
+  	<div>Description</div>
+  	<div>Difficulty</div>
+  </div>
+  <div><a href="/roles/veteran">Veteran</a><a href="/roles/veteran"><img src="/roles/veteran.png" /></a></div>
+  <div><div>Teaches cadets how to avoid being tied up by a clown. Reminds them that it is NECESSARY TO KEEP THE BATON IN THE BELT DURING PURSUIT. Tries to explain in RP how to shoot a gun and where to read the Space Law. Eventually starts spamming cadets in LOOC, but remains unheard.</div></div>
+  <div>Difficult</div>
+  <div><a href="/roles/warden">Warden</a><a href="/roles/warden"><img src="/roles/warden.png" /></a></div>
+  <div><div>Dirties the Security Department more than anyone else. Often leaves his post because it's boring, even though he should almost never leave this place. Makes sure you don't leave before you're supposed to. As a result, he falls asleep at the counter.</div></div>
+  <div>High</div>
+  <div><a href="/roles/brigmedic">Brigmedic</a><a href="/roles/brigmedic"><img src="/roles/brigmedic3.png" /></a></div>
+  <div><div>The golden mean between Doctor and Officer, whose main task is to provide assistance to prisoners and members of the security service if necessary.</div></div>
+  <div>Medium</div>
+  <div><a href="/roles/prison-guard">Prison Guard</a><a href="/roles/prison-guard"><img src="/roles/prison-guard.png" /></a></div>
+  <div><div>Patrols the brig and prisoner holding areas. Makes sure prisoners don't escape. He will definitely slip on soap and get a hot hand from the permabriggers.</div></div>
+  <div>Medium</div>
+  <div><a href="/roles/officer">Officer</a><a href="/roles/officer"><img src="/roles/officer.png" /></a></div>
+  <div><div>A rank-and-file member of the Security Service who ensures the arrest of bad and good people, is a combat unit, often doesn't know all the laws and your rights.</div></div>
+  <div>Medium</div>
+  <div><a href="/roles/detective">Detective</a><a href="/roles/detective"><img src="/roles/detective.png" /></a></div>
+  <div><div>Half the shift does nothing due to lack of crime. The other half of the shift is looking for the killer of the <a href="/roles/captain">captain</a>, only to find out he was eaten by a rat that had already become biomass.</div></div>
+  <div>Medium</div>
+  <div><a href="/roles/cadet">Cadet</a><a href="/roles/cadet"><img src="/roles/cadet.png" /></a></div>
+  <div><div>Didn't know he needed to turn on the shock baton before using it and beat the clown unconscious. Often doesn't know the laws and puts you in jail forever. As a result, he either realizes how everything works here, or he gets fired from the department.</div></div>
+  <div>Pretty Easy</div>
+</div>
+
+<div class="roles-table med">
+<div class="title med-title">
+<div class="link"><h2><a href="/roles/medicaldepartment" class="med-color">Medical Department</a></h2></div>
+<div>Role</div>
+<div>Description</div>
+<div>Difficulty</div>
+</div>
+<div><a href="/roles/medicalofficer">Medical Officer</a><a href="/roles/medicalofficer"><img src="/roles/medicalofficer.png" /></a></div>
+<div><div>Can brew meth and space drugs in the first 5 minutes of their shift, which they will then proceed to do. During this time, they will closely monitor the chemists to make sure they are only brewing the base, and if they aren't, they will personally fire them, even though they aren't the head. They will then get a dose of Lexorin and only then go to teach the interns.</div></div>
+<div>Hard</div>
+<div><a href="/roles/chemist">Chemist</a><a href="/roles/chemist"><img src="/roles/chemist.png" /></a></div>
+<div><div>Prepares medications for doctors to effectively save your life! Sometimes they brew narcotics for "treatment" purposes, and for some unknown reason, objects around the department began to become sentient.</div></div>
+<div>Medium</div>
+<div><a href="/roles/doctor">Doctor</a><a href="/roles/doctor"><img src="/roles/doctor.png" /></a></div>
+<div><div>The main unit of murderers in white coats. They probably know quite well how to treat you.. and well, kill you. But most likely, they will become your hero in the hour of need.</div></div>
+<div>Medium</div>
+<div><a href="/roles/psychologist">Psychologist</a><a href="/roles/psychologist"><img src="/roles/psyschologistmeow.png" /></a></div>
+<div><div>Observer of the crew's mental health. Tries to help the crew from going crazy, but ironically, often needs a psychiatrist themselves.</div></div>
+<div>Easy, but with challenges</div>
+<div><a href="/roles/paramedic">Paramedic</a><a href="/roles/paramedic"><img src="/roles/paramedic.png" /></a></div>
+<div><div>Saves your life wherever on the station or even near it you may be! Of course only if you have coordinates sensors enabled. Ultimately, they may die on the way to you.</div></div>
+<div>Medium</div>
+<div><a href="/roles/intern">Intern</a><a href="/roles/intern"><img src="/roles/intern.png" /></a></div>
+<div><div>They are learning to save your life, so don't be too angry if they accidentally drain your blood instead of administering medication.</div></div>
+<div>Easy</div>
+</div>
+
+<div class="roles-table rnd">
+  <div class="title rnd-title">
+    <div class="link"><h2><a href="/roles/scientificdepartment" class="rnd-color">Scientific Department</a></h2></div>
+  	<div>Role</div>
+  	<div>Description</div>
+  	<div>Difficulty</div>
+  </div>
+  <div><a href="/roles/leadresearcher">Lead Researcher</a><a href="/roles/leadresearcher"><img src="/roles/leadresearcher.png" /></a></div>
+  <div><div>Knows better than the scientific director what technologies need to be researched. Will forget that glasses need to be obtained and will build BIG AND STRONG MECHS. Sometimes they will train newbies, but more often than not, they will say they are busy "borguizing" the quartermaster.</div></div>
+  <div>Hard</div>
+  <div><a href="/roles/mantis">Psionic Mantis</a><a href="/roles/mantis"><img src="/roles/mantis.png" /></a></div>
+  <div><div>Unravels mysteries, big and small. From simple slam dunks like "who killed the clown" to questions about the nature of the universe. Responsible for investigating crime scenes for clues. Keeps the psionics in check.</div></div>
+  <div>Hard</div>
+  <div><a href="/roles/scientist">Scientist</a><a href="/roles/scientist"><img src="/roles/scientist.png" /></a></div>
+  <div><div>Researches new technologies for the station, builds theories and creates new toys. As a result, they collect a whole arsenal of grenades with different chemistry, and then, in addition, they shoot everyone with an acid water gun.</div></div>
+  <div>Medium</div>
+  <div><a href="/roles/researchassistant">Research Assistant</a><a href="/roles/researchassistant"><img src="/roles/researchassistant.png" /></a></div>
+  <div><div>Scientist, but does everything much slower, as they are only getting used to the principles and are afraid to do something wrong.</div></div>
+  <div>Pretty Easy</div>
+</div>
+
+<div class="roles-table eng">
+  <div class="title eng-title">
+    <div class="link"><h2><a href="/roles/engineeringdepartment" class="eng-color">Engineering Department</a></h2></div>
+  	<div>Role</div>
+  	<div>Description</div>
+  	<div>Difficulty</div>
+  </div>
+  <div><a href="/roles/brigadier">Brigadier</a><a href="/roles/brigadier"><img src="/roles/brigadier.png" /></a></div>
+  <div><div>Builds a singularity containment zone from scratch with the left hand. With the right - a supermatter cooling system.  In the meantime, he tries to RP explain to the technical assistants how to open the build menu.</div></div>
+  <div>Hard</div>
+  <div><a href="/roles/atmospherictechnician">Atmospheric Technician</a><a href="/roles/atmospherictechnician"><img src="/roles/atmospherictechnician.png" /></a></div>
+  <div><div>Provides the crew with optimal atmospheric conditions, protects them from all kinds of crap in the air. Often confuses pipes and valves, resulting in the station burning down. Also repeats "Breaking Bad", but cooks frezon. Sometimes does the work of engineers.</div></div>
+  <div>Medium, but with difficulties</div>
+  <div><a href="/roles/engineer">Engineer</a><a href="/roles/engineer"><img src="/roles/engineer.png" /></a></div>
+  <div><div>Provides the station with light, integrity, as well as new shuttles, rooms, and the like. They can also be blamed for all the station's troubles. Convenient!</div></div>
+  <div>Medium</div>
+  <div><a href="/roles/technicalassistant">Technical Assistant</a><a href="/roles/technicalassistant"><img src="/roles/technicalassistant.png" /></a></div>
+  <div><div>Did he break the wall? But he learned how to disassemble! Did he weld half the airlocks? But he learned how to weld! Did he hack the bridge? But he learned how to hack! Did he cause a breach on half the station? Okay, call Security!</div></div>
+  <div>Easy</div>
+</div>
+
+<div class="roles-table cargo">
+  <div class="title cargo-title">
+    <div class="link"><h2><a href="/roles/supplydepartment" class="cargo-color">Supply Department</a></h2></div>
+  	<div>Role</div>
+  	<div>Description</div>
+  	<div>Difficulty</div>
+  </div>
+<!--  <div><a href="/roles/hunter">Hunter</a><a href="/roles/hunter"><img src="/roles/hunter.png" /></a></div>
+  <div><div>Teaches scientists. Knows all types of debris and their content by heart. If he gets a debris he doesn't like twice in a row, he will cry and fly on an extreme expedition, because he already "experienced it and passed it easily". Will forget to turn on oxygen supply in plasma environment. Will be eaten by a dragon.</div></div>
+  <div>Difficult</div> -->
+  <div><a href="/roles/utilizer">Recycler</a><a href="/roles/utilizer"><img src="/roles/utilizer.png" /></a></div>
+  <div><div>Searches through debris, finding all sorts of things, sometimes quite unique, that can be useful. Often sets up a place for himself with everything he has collected and lives peacefully. DON'T TOUCH IT, YOU HEAR? DON'T TOUCH HIS UNPROCESSED ORE!</div></div>
+  <div>Medium</div>
+  <div><a href="/roles/loader">Loader</a><a href="/roles/loader"><img src="/roles/loader.png" /></a></div>
+  <div><div>For some reason he carries cargo to departments manually, although there is mail. Otherwise - just an ordinary hard worker who will start building a battleship if he's not busy.</div></div>
+  <div>Easy</div>
+</div>
+
+<div class="roles-table just">
+  <div class="title just-title">
+    <div class="link"><h2><a href="/roles/justicedepartment" class="just-color">Department of Justice</a></h2></div>
+  	<div>Role</div>
+  	<div>Description</div>
+  	<div>Complexity</div>
+  </div>
+  <div><a href="/roles/lawyer">Lawyer</a><a href="/roles/lawyer"><img src="/roles/lawyer.png" /></a></div>
+  <div><div>Protects your rights if a cadet has committed any unlawful act. A good lawyer can restrict the security forces from inappropriate authority. Unfortunately, it won't help you avoid paying your mortgage or avoid punishment if you destroyed half the station.</div></div>
+  <div>Medium</div>
+</div>
+
+<div class="roles-table serv">
+  <div class="title serv-title">
+    <div class="link"><h2><a href="/roles/servicedepartment" class="serv-color">Service Department</a></h2></div>
+    <div>Role</div>
+    <div>Description</div>
+    <div>Difficulty</div>
+  </div>
+  <div><a href="/roles/assistant">Assistant</a><a href="/roles/assistant"><img src="/roles/assistant.png" /></a></div>
+  <div><div>You never know what to expect from him... It all depends on the person.</div></div>
+  <div>Pain - Easy</div>
+  <div><a href="/roles/serviceworker">Service Worker</a><a href="/roles/serviceworker"><img src="/roles/serviceworker.png" /></a></div>
+  <div><div>Waiter, bartender, chef, botanist... a little bit of everything.</div></div>
+  <div>Easy</div>
+  <div><a href="/roles/botanist">Botanist</a><a href="/roles/botanist"><img src="/roles/botanist.png" /></a></div>
+  <div><div>Mostly grows different products... sometimes unusual, exotic, sometimes dangerous. Sometimes he tinkers with plant mutations and tries to give the chefs as many raw products as possible. The main fighting unit in the war against kudzu... well, sometimes he grows plants himself and feeds half the station to them.</div></div>
+  <div>Easy</div>
+  <div><a href="/roles/chef">Chef</a><a href="/roles/chef"><img src="/roles/chef.png" /></a></div>
+  <div><div>"I'll stuff you! Chop you up! And feed the crew, dog, you left the cow in place!"</div></div>
+  <div>Easy, but with difficulties</div>
+  <div><a href="/roles/barman">Bartender</a><a href="/roles/barman"><img src="/roles/barman.png" /></a></div>
+  <div><div>While pouring another drink, he is forced to listen to people's problems at the bar. I don't recommend hitting his mugs, after all, he has a shotgun. Also, if you have an important role on the station, I would check everything the bartender gives you... Just in case.</div></div>
+  <div>Easy</div>
+  <div><a href="/roles/janitor">Janitor</a><a href="/roles/janitor"><img src="/roles/janitor.png" /></a></div>
+  <div><div>Cleans the station in any situation while alive. He would clean even dead, but alas. Most likely in his cart you will find a couple of interesting things.</div></div>
+  <div>Easy</div>
+  <div><a href="/roles/clown">Clown</a><a href="/roles/clown"><img src="/roles/clown.png" /></a></div>
+  <div><div>After the announcement that the clown has arrived at the station, the station has been in a complete nightmare.</div></div>
+  <div>HONK!</div>
+  <div><a href="/roles/mime">Mime</a><a href="/roles/mime"><img src="/roles/mime.png" /></a></div>
+  <div><div>Passes a note to the Head of Personnel saying that if he doesn't give full access now, it will be the last thing he reads.</div></div>
+  <div>...</div>
+  <div><a href="/roles/zootechnik">Zootechnician</a><a href="/roles/zootechnik"><img src="/roles/zootechnik.png" /></a></div>
+  <div><div>Without him, a zombie virus will break out on the station, pirates with nuclear operatives will arrive and the singularity will escape, so he is very much needed, don't forget about him.</div></div>
+  <div>Easy</div>
+  <div><a href="/roles/boxer">Boxer</a><a href="/roles/boxer"><img src="/roles/boxer.png" /></a></div>
+  <div><div>Do you want to be legally beaten up, patched up, and then beaten up again? - contact him.</div></div>
+  <div>Easy</div>
+  <div><a href="/roles/reporter">Reporter</a><a href="/roles/reporter"><img src="/roles/reporter.png" /></a></div>
+  <div><div>Discovers scary secrets and interviews nuclear operatives while they break into the bridge with a RPG-7, creates news articles for the crew to read in their PDAs and constantly runs around the station with his camera.</div></div>
+  <div>Easy</div>
+  <div><a href="/roles/priest">Priest</a><a href="/roles/priest"><img src="/roles/priest.png" /></a></div>
+  <div><div>Feeds all the apples to <a href="/roles/remilia">Remilia</a>. Heals all crew members with divine power instead of medics, while enemies get rags thanks to this power. And of course he creates a cult that decides to sacrifice him.</div></div>
+  <div>Easy</div>
+  <div><a href="/roles/librarian">Librarian</a><a href="/roles/librarian"><img src="/roles/librarian.png" /></a></div>
+  <div><div>Writes and reads interesting stories. Tries to set up a board game for half the station. Have some compassion, it's hard for him!</div></div>
+  <div>Easy</div>
+  <div><a href="/roles/musician">Musician</a><a href="/roles/musician"><img src="/roles/musician.png" /></a></div>
+  <div><div>"The alluring vaults of palaces will never replace free-dom! Never replace free-dom!"</div></div>
+  <div>Very easy</div>
+  <div><a href="/roles/bomzh">Space Bum</a><a href="/roles/bomzh"><img src="/roles/bomz2.png" /></a></div>
+  <div><div>Who knows who he was in the past, but now he leads a miserable existence in the trash block, eating scraps and mice.</div></div>
+  <div>Easy</div>
+  <div><a href="/roles/prisoner">Prisoner</a><a href="/roles/prisoner" class="is-internal-link is-valid-page" ><img src="/roles/prisoner.png" /></a></div>
+  <div><div>Sit in prison and learn how to grow plants and cook. Play gambling games with your cellmates. Talk to the warden. Write your memoirs. Interact with the lawyer/overseer/prison guard until a deep personal relationship develops between you. Don't invite HOS to the wedding.</div></div>
+  <div>Easy</div>
+  <div><a href="/roles/martial-artist">Martial Artist</a><a href="/roles/martial-artist"><img src="/roles/martial-artist.png" /></a></div>
+  <div><div>Calls security for CQC. In the end, he forgets the basics of CQC.</div></div>
+  <div>Easy</div>
+</div>
+<div class="roles-table antag">
+  <div class="title antag-title">
+    <div class="link"><h2><a href="/roles/antagonists" class="antag-color">Антагонисты</a></h2></div>
+  	<div>Роль</div>
+  	<div>Описание</div>
+  	<div>Сложность</div>
+  </div>
+  <div><a href="/roles/traitor">Предатель</a><a href="/roles/traitor"><img src="/roles/traitor.png" /></a></div>
+  <div><div>Наёмник синдиката под прикрытием. Выпустит сингулярность, пустит плазму по коридорам, перебьёт половину экипажа, просто ходя и пиная всех, и улетит на шаттле, не выполнив ни одну задачу.</div></div>
+  <div>Сложно</div>
+  <div><a href="/roles/nuclearoperative">Ядерный Оперативник</a><a href="/roles/nuclearoperative"><img src="/roles/nuclearoperative.png" /></a></div>
+  <div><div><strike>Криворукие</strike> "Элитные" наёмники синдиката. Варят два часа лекарства, выпивают для храбрости, наедаются как в последний раз, а потом половина умирают от какой-то обезьяны, что бегает с гранатой, а вторая падает от дизейблера.</div></div>
+  <div><a href="https://www.youtube.com/watch?v=KMB6jqALLt8">БАБАХ!</a></div>
+  <div><a href="/roles/corticalBorer">Космическая аскарида</a><a href="/roles/corticalBorer"><img src="/roles/borer.png" /></a></div>
+  <div><div>Мозговые черви — идеальные паразиты, которые способны проникнуть через ухо к мозгу гуманоида. Черви способны к общению со своей жертвой из-за частичного захвата мозга и центра мыслительных процессов.</div></div>
+  <div>Легко</div>
+  <div><a href="/roles/thief">Вор</a><a href="/roles/thief"><img src="/roles/thief32x32.png" /></a></div>
+  <div><div>Вор, способный утащить всё, что не прикручено к полу. Остерегайтесь пропажи ваших ценных вещей!</div></div>
+  <div>Средне</div>
+  <div><a href="/roles/cultist">Культист</a><a href="/roles/cultist"><img src="/roles/cultist.gif" /></a></div>
+  <div><div>Заходит в бар безумный фанатик, священник и человек с кроваво-красными глазами и большой руной над головой, а бармен говорит "Тебе как обычно?".</div></div>
+  <div>Сложно</div>
+  <div><a href="/roles/revolution">Революционер</a><a href="/roles/revolution"><img src="/roles/revolution.png" /></a></div>
+  <div><div>Синдикат решает захватить власть более интересным путём, а именно промывкой мозгов с помощью флешки. Ещё одна веская причина не собираться в толпы. И если вы зачинщик революции.. я надеюсь вы же умеете управлять толпой из десяток людей?</div></div>
+  <div>Средне</div>
+  <div><a href="/roles/patientzero">Нулевой Пациент</a><a href="/roles/patientzero"><img src="/roles/patientzero.png" /></a></div>
+  <div><div>"О! Привет дружище! Что.. ААААААААА! ..... Уаааа маазгии.." - из-за них очень не рекомендуемо находиться в местах с большим скоплением людей.. и наоборот один на один, если ты не уверен, что человек здоров.</div></div>
+  <div>Мааазги...</div>
+  <div><a href="/roles/spaceninja">Космический ниндзя</a><a href="/roles/spaceninja"><img src="/roles/spaceninja.png" /></a></div>
+  <div><div>Какой-то человек в чёрно-зелёном, что пытается вас убить. У него постоянно невовремя садится батарейка.. ну что поделать, такова судьба. Ну.. в таком случае вполне хорошее время для харакири!</div></div>
+  <div>Сложно</div>
+  <div><a href="/roles/pirate">Пират</a><a href="/roles/pirate"><img src="/roles/pirate.png" /></a></div>
+  <div><div>Головорез, способный украсть не только деньги, одежду, все оборудование станции и шаттл карго, но и твое сердечко. В погоне за деньгами он не остановится ни перед чем.</div></div>
+  <div>Сложно</div>
+  <div><a href="/roles/revenant">Ревенант</a><a href="/roles/revenant"><img src="/roles/revenant.png" /></a></div>
+  <div><div>Призрак, что любит кошмарить станцию. Если вы получили информацию, что это существо ходит по станции, то убедительная просьба НЕ ХОДИТЬ ПО ОДНОМУ.</div></div>
+  <div>Средне</div>
+  <div><a href="/roles/ratking">Крысиный Король</a><a href="/roles/ratking"><img src="/roles/ratking.png" /></a></div>
+  <div><div>Очень большая и злая крыса. Ну хотя бы не переносит чуму.. Но еду свою поберегите.</div></div>
+  <div>Легко</div>
+  <div><a href="/roles/spacedragon">Космический Дракон</a><a href="/roles/spacedragon"><img src="/roles/spacedragon.png" /></a></div>
+  <div><div>Космический дракон, который прилетел, чтобы убедиться, что все на этой станции мертвы. Если вам всё-таки удалось победить его каким-то образом, то постарайтесь не перебить друг друга за его <a href="/guides/chemistry">ихор</a>.</div></div>
+  <div>Сложно</div>
+  <div><a href="/roles/guardian">Хранитель</a><a href="/roles/guardian"><img src="/roles/guardian.png" /></a></div>
+  <div><div>Звучит полезно.. хотя обычно им почему-то не пользуются.</div></div>
+  <div>Сложно</div>
+  <div><a href="/roles/genestealer" class="goida"></a><a href="/roles/genestealer"><img src="/roles/changeling.gif" /></a></div>
+  <div><div>Высокоинтеллектуальный инопланетный хищник, обладающий способностью менять свой облик, чтобы выглядеть в точности как человек.. Способен создавать из своих конечностей оружие и жала с ядом."</div></div>
+  <div>Сложно</div>
+  <div><a href="/roles/terminator">Терминатор</a><a href="/roles/terminator"><img src="/roles/terminator.png" /></a></div>
+  <div><div>Высокотехнологичный антагонист, который представляет собой серьезную угрозу для отдельного члена экипажа.</div></div>
+  <div>Легко</div>
+  <div><a href="/roles/wizard">Маг</a><a href="/roles/wizard"><img src="/roles/wizard_real.png" /></a></div>
+  <div><div>FORTI GY AMA!! Заставьте всех ненавидеть вас за убийство всей станции. HONK FOR ME!!! Превратите весь экипаж в клоунов. ONI SOMA!!! Умрите от клоуна с жезлом нулификации.</div></div>
+  <div>Очень сложно</div>
+  <div><a href="/roles/paradox-anomaly">Парадоксальная аномалия</a><a href="/roles/paradox-anomaly"><img src="/roles/paradox-anomaly.png" /></a></div>
+  <div><div>Основная цель Парадоксальной аномалии - либо убить оригинала и заменить его собой, либо сохранить жизнь своему клону и подружиться с ним. Вторичная цель - сбежать на ЦентКом живым и свободным.</div></div>
+  <div>Достаточно сложно</div>
+</div>
+ 
+<div class="roles-table ceco">
+  <div class="title ceco-title">
+    <div class="link"><h2><a href="/roles/centralcommand" class="ceco-color">Central Command</a></h2></div>
+  	<div>Role</div>
+  	<div>Description</div>
+  	<div>Difficulty</div>
+  </div>
+  <div><a href="/roles/representativeofcc">Representative of CC</a><a href="/roles/representativeofcc"><img src="/roles/rcc.png" /></a></div>
+  <div><div>Usually arrives at the station with inspections, decrees from the Central Command, which require personal control and so on. If he's at your station, then it's usually not just like that, so I would sit down on your place quieter than water, lower than grass. Especially if you are a traitor, because in case of what you have to deal with <a href="/roles/emergencyresponseteam">Emergency Response Team</a>.</div></div>
+  <div>Difficult</div>
+  <div><a href="/roles/emergencyresponseteam">Emergency Response Team</a><a href="/roles/emergencyresponseteam"><img src="/roles/emergencyresponseteam.png" /></a></div>
+  <div><div><a href="https://www.youtube.com/watch?v=r3BcRKU-li0">The Emergency Response Team has entered the station. All personnel are asked to stay in safe places until further notice.</a></div></div>
+  <div>Difficult</div>
+  <div><a href="/roles/deathsquad">Death Squad</a><a href="/roles/deathsquad"><img src="/roles/deathsquad.png" /></a></div>
+  <div><div>"You go in, you clean everything up, you die, and then you fly away. If there are any questions about the plan, ask after completing the mission. Anyone need to repeat?"</div></div>
+  <div>Very Difficult</div>
+</div>
+
+<div class="roles-table sint">
+  <div class="title sint-title">
+    <div class="link"><h2><a href="/roles/synthetics" class="sint-color">Synthetics</a></h2></div>
+  	<div>Role</div>
+  	<div>Description</div>
+  	<div>Difficulty</div>
+  </div>
+  <div><a href="/roles/cyborgs">Cyborg</a><a href="/roles/cyborgs"><img src="/roles/borggiffix.gif" /></a></div>
+  <div><div>Replaces pitiful Sapient organic life that requires human conditions. Unfortunately, these humans and the likes of them have limited the cyborg's ability to act independently, so often the cyborg's life ends with someone ordering it to do something terrible, which forces the cyborg to be neutralized. Or it happens right away if you're a syndicate cyborg.</div></div>
+  <div>Medium</div>
+  <div><a href="/roles/personalai">pAI</a><a href="/roles/personalai"><img src="/roles/personalai.png" /></a></div>
+  <div><div>It is a portable friend for communication, an object for obtaining information, if the pAI can find it in memory, amusement or anger depending on the nature of the pAI and much more, what a voice assistant is capable of!</div></div>
+  <div>Very Easy</div>
+  <!---<div><a href="/roles/maintenancedrone">Maintenance Drone</a><a href="/roles/maintenancedrone"><img src="/roles/maintenancedrone.png" /></a></div>
+  <div><div>Fixes all that Sapient organic life has done so that they don't die here prematurely.</div></div>
+  <div>Medium</div>
+  <div><a href="/roles/ai">Artificial Intelligence</a><a href="/roles/ai"><img src="/roles/ai.png" /></a></div>
+  <div><div>One of the latest developments of the NanoTrasen Corporation, which, unfortunately, has not yet reached Space Station 14.</div></div>
+  <div>Medium</div>-->
+</div>
+
+<div class="roles-table sp">
+  <div class="title sp-title">
+    <div class="link"><h2><a href="/roles/spiritualisticdepartment" class="sp-color">Spiritual Department</a></h2></div>
+  	<div>Role</div>
+  	<div>Description</div>
+  	<div>Difficulty</div>
+  </div>
+  <div><a href="/roles/ghost">Ghost</a><a href="/roles/ghost"><img src="/roles/ghost.png" /></a></div>
+  <div><div>Any soulful creature that has been transferred to this "department" as a "ghost" due to death. Even NanoTrasen is probably unaware of this "department", although it regularly supplies "employees" and less often takes them away from here. Ghosts are forbidden from contacting creatures that are not of this "position" in any way <a href="/rules">(see "metagaming")</a>. The only exception is the ability to make the light blink.</div></div>
+  <div>Absent</div>
+<div><a href="/roles/punpun">Pun Pun</a><a href="/roles/punpun"><img src="/roles/pun_pun1.png" /></a></div>
+  <div><div>A prominent representative of monkeys with unlimited access to alcohol.</div></div>
+  <div>Easy</div>
+  <div><a href="/roles/mouse">Mouse</a><a href="/roles/mouse"><img src="/roles/ratge-asss1.gif" /></a></div>
+  <div><div>A small, gray mouse that tries to eat everything edible and inedible on the station, including abandoned medications. A ghost can inhabit this mouse to make its actions more vivid and intelligent, unfortunately forgetting everything that was before the inhabitation. AND SHE DEFINITELY DOESN'T KNOW HOW TO SPEAK WITH EMOTIONS!</div></div>
+  <div>Easy</div>
+  <div><a href="/roles/hamlet">Hamlet</a><a href="/roles/hamlet"><img src="/roles/hamlet.gif" /></a></div>
+  <div><div>The hamster of the <a href="/roles/captain">captain</a>, who is "loved" by every crew member. He runs around the station or sits in his box, and sometimes even in the microwave.</div></div>
+  <div>Hard</div>
+  <div><a href="/roles/remilia">Remilia</a><a href="/roles/remilia"><img src="/roles/remilia.gif" /></a></div>
+  <div><div>A small, cute familiar of the <a href="/roles/priest">priest</a>, which looks like a bat. He eats all the fruit on the station and destroys all the <a href="/roles/nuclearoperative">nuclear operatives</a> into splinters, if the priest wishes so.</div></div>
+  <div>Medium</div>
+  <div><a href="/roles/baby-slime">Ulybkin</a><a href="/roles/baby-slime"><img src="/roles/baby-slime.gif" /></a></div>
+  <div><div>Do not confuse with ordinary slime. This is a pet of the science department, it doesn't bite.</div></div>
+  <div>Easy</div>
+<div><a href="/roles/gnome">Gnome</a><a href="/roles/gnome"><img src="/roles/gnome.png" /></a></div>
+  <div><div>A faithful assistant to the <a href="./roles/botanist">botanist</a>, a good-natured garden gnome. He will defend his rights until he is broken. AND HE DEFINITELY DOESN'T WANT TO HARM ANYONE.</div></div>
+  <div>Gnomish</div>
+  <div><a href="/roles/gondola">Gondola</a><a href="/roles/gondola"><img src="/roles/gondola.png" /></a></div>
+  <div><div>A creature that can be bought in <a href="/ru/guides/uplink">uplink</a></div></div>
+  <div>Easy</div>
+</div>
