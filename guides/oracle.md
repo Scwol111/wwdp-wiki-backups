@@ -2,7 +2,7 @@
 title: Оракул
 description: 
 published: true
-date: 2024-09-21T17:36:30.738Z
+date: 2024-09-21T17:36:48.095Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T17:26:09.472Z
@@ -14,3 +14,5 @@ dateCreated: 2024-09-21T17:26:09.472Z
         <p>Это текст, который появится при нажатии на изображение.</p>
     </div>
 </div>
+
+<center><b>Оракул</b></center>
