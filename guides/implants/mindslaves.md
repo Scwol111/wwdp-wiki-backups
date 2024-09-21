@@ -2,10 +2,10 @@
 title: Имплант подчинения
 description: 
 published: true
-date: 2024-09-03T13:16:16.812Z
+date: 2024-09-21T18:57:50.291Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-26T13:50:36.203Z
+dateCreated: 2024-09-10T19:08:38.039Z
 ---
 
 <h1><a class="toc-anchor" href="#майндслейв">¶</a> <img src="/master.png" alt="master.png" width="32" style="vertical-align: middle;"> Майндслейв <img src="/master.png" alt="master.png" width="32" style="vertical-align: middle;">
