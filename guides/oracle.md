@@ -2,14 +2,14 @@
 title: Оракул
 description: 
 published: true
-date: 2024-09-21T17:30:02.234Z
+date: 2024-09-21T17:31:06.416Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T17:26:09.472Z
 ---
 
-<div style="display: flex; justify-content: flex-start;">
-  <div>
+<div style="display: flex;">
+  <div style="margin: 0 auto;">
     <img class="img1" src="/guides/the_oracle.png" alt="The Oracle">
     <center><b>Оракул</b></center> 
   </div>
