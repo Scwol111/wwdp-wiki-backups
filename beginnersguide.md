@@ -2,10 +2,10 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-09-03T16:19:35.645Z
+date: 2024-09-21T20:23:09.165Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-25T11:17:18.937Z
+dateCreated: 2024-09-10T19:07:33.269Z
 ---
 
 <div><p>Добро пожаловать на Космическую станцию 14! Вы и ваши товарищи по команде только что начали свою смену на борту <a href="https://wwdp-ss14.ru/maps">космической станции</a> <a href="/backstory#nanotrasen" class="is-internal-link is-valid-page">NanoTrasen</a>. У каждого из вас есть <a href="/roles" class="is-internal-link is-valid-page">своя работа</a>, и надеемся, вы будете получать удовольствие от этого процесса.</p>
