@@ -2,7 +2,7 @@
 title: Технический ассистент
 description: 
 published: true
-date: 2024-09-19T20:02:32.659Z
+date: 2024-09-21T13:14:55.034Z
 tags: роли
 editor: markdown
 dateCreated: 2024-09-10T19:08:29.750Z
@@ -63,7 +63,7 @@ dateCreated: 2024-09-10T19:08:29.750Z
 
 ## <center>Ваш инвентарь<center>
 
-<div style="overflow-x:auto">
+<center><div style="overflow-x:auto">
 <p>
 <figure class="table" style="text-align:center;">
   <table style="background-color:#0F4F27;">
@@ -192,7 +192,7 @@ dateCreated: 2024-09-10T19:08:29.750Z
     </tbody>
   </table>
 </figure>
-</div>
+</div></center>
 
 ## <center>Работа в команде</center>
 
