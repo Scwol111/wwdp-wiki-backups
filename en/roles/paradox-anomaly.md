@@ -2,7 +2,7 @@
 title: Paradox anomaly
 description: 
 published: true
-date: 2024-09-21T13:37:18.078Z
+date: 2024-09-21T13:40:32.385Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:37:18.078Z
@@ -17,7 +17,7 @@ dateCreated: 2024-09-21T13:37:18.078Z
         <h1 id="senior-medical-officer" class="toc-header"><a class="toc-anchor" href="#senior-medical-officer">¶</a>Paradox Anomaly</h1>
         <p><strong>Difficulty:</strong> Hard</p>
         <strong>Objectives:</strong> Replace your double or befriend them.<br>
-        <b>Heads:</b> Head of Personnel<br>
+        <b>Heads:</b> Head of your victim<br>
         <b>Guides:</b> You're reading it
         </div></div>
     </div>
@@ -38,7 +38,7 @@ The main objective for a Paradox Anomaly is either to assassinate the original, 
 
 **This is your universe now**.
 
-## <center>Советы</center>
+## <center>Tips</center>
 
 - Try to avoid being noticed by the original too early.
 - Copy your target's speech patterns to more effectively imitate them.
