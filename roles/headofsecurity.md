@@ -2,128 +2,128 @@
 title: Глава Службы Безопасности
 description: 
 published: true
-date: 2024-09-20T20:27:41.883Z
+date: 2024-09-21T14:07:25.655Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-20T19:10:23.267Z
 ---
 
 <div><div style="display: flex; justify-content: center;">
-  <div class="roles-passport comm">
-    <div class="title comm"><a href="/roles/command" class="is-internal-link is-valid-page">Командование</a></div>
-    <div>
-      <div><div><img src="/roles/headofsecurity.png" id="img"></div></div>
-      <div>
-        <div id="tb1" style="display:non">
-          <h1 id="глава-службы-безопасности" class="toc-header"><a class="toc-anchor" href="#глава-службы-безопасности">¶</a> Глава Службы Безопасности</h1>
-          <p><strong>Сложность:</strong> Сложная</p>
-          <strong>Обязанности:</strong> Хранить порядок на станции, хранить капитана живым, хранить себя живым.<br>
-          <b>Руководители</b>: <a href="/roles/captain" class="is-internal-link is-valid-page">Капитан</a><br>
-          <b>Руководства</b>: <a href="/guides/hierarchyofcommand" class="is-internal-link is-valid-page">Иерархия Командования</a> • <a href="/spacelaw" class="is-internal-link is-valid-page">Космический Закон</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности" class="is-internal-link is-valid-page">Десятичные коды</a>
-        </div>
-        <div id="tb2" style="display:none;">
-          <p>Глава Службы Безопасности <span style="color:red"> VS </span> Клоун</p><p>
-          </p><div class="stats">
-            <p>ХОС HP: <span id="player-hp">30</span></p>
-            <p>ХОС MP: <span id="player-mp">10</span></p>
-            <hr>
-            <p>Клоун HP: <span id="enemy-hp">45</span></p>
-            <p>Клоун MP: <span id="enemy-mp">20</span></p>
-          </div>
-          <div class="actions">
-            <button id="attack">Атака</button>
-            <button id="heal">Лечение</button>
-            <button id="recharge">Перезарядка</button>
-          </div>
-          <div id="message"></div>
-        </div> 
-      </div>
-      <div id="clownimg" style="display:none;"><div><img src="/roles/clown.png"></div></div>
-    </div>
-  </div>
+<div class="roles-passport comm">
+<div class="title comm"><a href="/roles/command" class="is-internal-link is-valid-page">Command</a></div>
+<div>
+<div><div><img src="/roles/headofsecurity.png" id="img"></div></div>
+<div>
+<div id="tb1" style="display:non">
+<h1 id="глава-службы-безопасности" class="toc-header"><a class="toc-anchor" href="#глава-службы-безопасности">¶</a> Head of Security</h1>
+<p><strong>Difficulty:</strong> Hard</p>
+<strong>Duties:</strong> Keep order on the station, keep the captain alive, keep yourself alive.<br>
+<b>Supervisors</b>: <a href="/roles/captain" class="is-internal-link is-valid-page">Captain</a><br>
+<b>Guides</b>: <a href="/guides/hierarchyofcommand" class="is-internal-link is-valid-page">Hierarchy of Command</a> • <a href="/spacelaw" class="is-internal-link is-valid-page">Space Law</a> • <a href="/roles/securityservicedepartment/tencodes" title="Security service inventory" class="is-internal-link is-valid-page">Ten-Codes</a>
 </div>
-<p>Быть главой всего СБ, которому поручено защищать всю станцию и ее экипаж - непросто. ОЧЕНЬ непросто. Но, может быть, вы сможете привести свою скромную команду к победе над врагами NanoTrasen.</p>
-<p>Минимальные требования: Старайтесь поддерживать жизнь своей команды, работая вместе, общаясь, сосредотачиваясь на более крупной рыбе, а не на маленьких серых пиявках. Сделайте все, чтобы не стать щиткуритоном.</p>
-<h2 id="миротворец" class="toc-header"><a class="toc-anchor" href="#миротворец">¶</a> <center><img src="/roles/other/helmetpp.png" class="png1"><span class="up">Миротворец</span></center></h2>
+<div id="tb2" style="display:none;">
+<p>Head of Security <span style="color:red"> VS </span> Clown</p><p>
+</p><div class="stats">
+<p>HOS HP: <span id="player-hp">30</span></p>
+<p>HOS MP: <span id="player-mp">10</span></p>
+<hr>
+<p>Clown HP: <span id="enemy-hp">45</span></p>
+<p>Clown MP: <span id="enemy-mp">20</span></p>
+</div>
+<div class="actions">
+<button id="attack">Attack</button>
+<button id="heal">Heal</button>
+<button id="recharge">Recharge</button>
+</div>
+<div id="message"></div>
+</div>
+</div>
+<div id="clownimg" style="display:none;"><div><img src="/roles/clown.png"></div></div>
+</div>
+</div>
+</div>
+<p>Being the Head of Security, tasked with protecting the entire station and its crew, is not easy. It's VERY hard. But maybe you can lead your humble team to victory against the enemies of NanoTrasen.</p>
+<p>Minimum requirements: Try to keep your team alive by working together, communicating, focusing on the bigger fish instead of the little grey leeches. Do your best not to become a shiticriton.</p>
+<h2 id="peacekeeper" class="toc-header"><a class="toc-anchor" href="#peacekeeper">¶</a> <center><img src="/roles/other/helmetpp.png" class="png1"><span class="up">Peacekeeper</span></center></h2>
 <p></p>
 <div style="width: 90%; height: 100%; border-radius: 20px; margin: auto; background: radial-gradient(red, 30%, #660011); position: relative;">
-  <p>
-  </p><div style="position: absolute; bottom: 2%; right: 2%;"><img src="/roles/other/baton.png" class="png1"></div>	
-  <div style="position: absolute; bottom: 2%; left: 2%;"><img src="/roles/other/baton.png" class="png1"> </div> 
-  <div> 
-    <font size="5">
-      <center>
-        <a href="/guides/officership" class="up is-internal-link is-valid-page">
-          <strong>Руководство по службе безопасности. Обязательно прочтите его, если вы хотите стать компетентным Главой СБ.</strong>
-        </a>
-      </center> 
-    </font>
-  </div>
+<p>
+</p><div style="position: absolute; bottom: 2%; right: 2%;"><img src="/roles/other/baton.png" class="png1"></div>
+<div style="position: absolute; bottom: 2%; left: 2%;"><img src="/roles/other/baton.png" class="png1"> </div>
+<div>
+<font size="5">
+<center>
+<a href="/guides/officership" class="up is-internal-link is-valid-page">
+<strong>Security Officer Guide. Be sure to read it if you want to be a competent Head of Security.</strong>
+</a>
+</center>
+</font>
 </div>
-<p>Как глава СБ, вы обязаны следить за бригом, мостиком и тем, чтобы ваши офицеры не испортили все окончательно. В ваши прямые обязанности не входит поимка и арест людей, если только это не срочное дело в одном из многочисленных мест, куда обычные сотрудники службы безопасности не могут попасть, поэтому обычно вы можете просто сидеть в своем кабинете и позволять секьюритронам и краснорубашечникам делать всё за вас. У вас больше доступа к станции, чем у любого другого сотрудника службы безопасности, но меньше, чем у других глав. Постарайтесь не зависеть от них.</p>
-<h2 id="ваш-офис" class="toc-header"><a class="toc-anchor" href="#ваш-офис">¶</a>  <center>Ваш офис</center> </h2>
+</div>
+<p>As Head of Security, you are responsible for overseeing the brig, the bridge, and making sure your officers don't screw everything up. You're not directly tasked with catching and arresting people unless it's a pressing matter in one of the numerous locations regular security can't access, so you can typically just sit in your office and let the Securitrons and red-shirts do the work. You have more access to the station than any other security officer, but less than other heads. Try not to become reliant on them.</p>
+<h2 id="ваш-офис" class="toc-header"><a class="toc-anchor" href="#ваш-офис">¶</a>  <center>Your Office</center> </h2>
 <center><div class="imageBox">
   <div>
-  	<p>Ваш офис находится в Бриге. В нем есть несколько видов оружия, спец. устройств, зарядное устройство и 2 терминала безопасности, а также ваш личный, чуть более бронированный, чем остальные, скафандр с уникальным внешним видом. В комплект также входят ваши обычные канцелярские принадлежности, ваш уникальный штамп, терминал для ключей и кнопка для закрытия ставен на окнах.</p>
-    <p>Содержимое кабинета включает в себя пояс офицера, комплект запасной одежды, <a href="/guides/securityinventory" alt="securityinventory" class="is-internal-link is-valid-page">дизейблер</a>, джетпак, модный плащ и пульт дистанционного управления дверьми. Рекомендуется взять большинство из этих вещей, так как они могут пригодиться, когда они действительно понадобятся. В кабинете также лежат некоторые вещи, например автоматическая винтовка WT-550, в зависимости от щедрости Центрального Командования.</p>
+  	<p>Your office is located in the Brig. It contains several types of weaponry, special devices, a charging station, and two security terminals, as well as your personal suit, which is slightly more armored than the others and boasts a unique appearance. The kit also includes your usual office supplies, your unique stamp, a key terminal, and a button for closing the shutters on the windows.</p>
+    <p>The contents of your cabinet include an officer's belt, a set of spare clothes, a <a href="/guides/securityinventory" alt="securityinventory" class="is-internal-link is-valid-page">disabler</a>, a jetpack, a fashionable cloak, and a door remote. It is recommended to take most of these items, as they might come in handy when you really need them. The cabinet also holds some items, such as the WT-550 automatic rifle, depending on the generosity of Central Command.</p>
   </div>
   <img src="/roles/other/hosroom.png">
 </div></center>
-<h2 id="ваши-подчиненные" class="toc-header"><a class="toc-anchor" href="#ваши-подчиненные">¶</a> <center><img src="/roles/other/hosfur.png" class="png1"><span class="up">Ваши подчиненные</span><img src="/roles/other/hosfur.png" class="png1"></center></h2>
-<p>Как руководитель службы безопасности, вы отвечаете за множество сотрудников своего отдела. Важно не потерять их из виду и убедиться, что они правильно выполняют свою работу. В вашем ведении находятся следующие люди:</p>
+<h2 id="ваши-подчиненные" class="toc-header"><a class="toc-anchor" href="#ваши-подчиненные">¶</a> <center><img src="/roles/other/hosfur.png" class="png1"><span class="up">Your subordinates</span><img src="/roles/other/hosfur.png" class="png1"></center></h2>
+<p>As the head of the security department, you are responsible for a large number of employees in your team. It's important to stay on top of things and ensure that they are performing their duties correctly. You oversee the following people:</p>
 <center>
-  <table class="sb">
-    <thead>
-      <tr>
-        <th>Подчиненный</th>
-        <th>Описание</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><img src="/roles/veteran.png"><br><a href="/roles/veteran" class="is-internal-link is-valid-page">Ветеран</a></td>
-        <td>Старичёк в деле охраны и защиты станции от надвигающихся угроз. Имеет большой опыт, поэтому его задача - помогать, обучать и наставлять других сотрудников Брига. В начале смены на бриффинге можете выбрать ему кадета для обучения либо дать ему возможнось самому это сделать. В любом случае, он должен кого-то обучать, для этого он сюда и прилетел.</td>
-      </tr>
-      <tr>
-        <td><img src="/roles/warden.png"><br><a href="/roles/warden" class="is-internal-link is-valid-page">Смотритель</a></td>
-        <td>Сторожевой пес Брига. Следите за тем, чтобы он держал под контролем все таймеры на камерах содержания заключенных, поддерживал работу Брига и не покидал его, пока там находятся заключенные. Он следующий в очереди на вашу должность, если вас сместят, и ваш самый старший лейтенант. Относитесь к нему как к своей правой руке, поскольку в большинстве ситуаций он сможет прекрасно управлять Бригом в одиночку.</td>
-      </tr>
-      <tr>
-        <td><img src="/roles/detective.png"><br><a href="/roles/detective" class="is-internal-link is-valid-page">Детектив</a></td>
-        <td>Просто позвольте ему заниматься своим делом. Он привык работать с достаточной степенью автономии от остального коллектива. Просто не забывайте время от времени интересоваться его делами и будьте готовы послать краснорубашечников, если он раскроет что-то серьезное.</td>
-      </tr>
-      <tr>
-        <td><img src="/roles/prison-guard.png"><br><a href="/roles/prison-guard" class="is-internal-link is-valid-page">Тюремный надзиратель</a></td>
-        <td>Правая рука смотрителя, следит за заключенными и бригом. Не забывайте время от времени проверять их работу.</td>
-      </tr>
-      <tr>
-        <td><img src="/roles/officer.png"><br><a href="/roles/officer" class="is-internal-link is-valid-page">Офицер Службы Безопасности</a></td>
-        <td>Это ваши пешки и ваша задача — грамотно управлять ими. По прибытию на станцию инструктируйте каждого офицера и выдавайте им задания. Требуйте от них дисциплины, орите на них, если потребуется. Эффективным средством бывает так же посадить особо непонимающих офицеров в камеру. В крайнем случае не брезгуйте увольнять их и просить у Главы Персонала новых. Иногда в вашей команде может появиться новый игрок, поэтому не стоит слишком усердствовать с ним.</td>
-      </tr>
-      <tr>
-        <td><img src="/roles/cadet.png"><br><a href="/roles/cadet" class="is-internal-link is-valid-page">Кадет</a></td>
-        <td>Кадеты - это продуценты в экологической пирамиде Брига. Ещё зелёные как травка. В начале смены на бриффинге назначьте по кадету на каждого офицера, чтобы они обучались и были под пресмотром, а то заманят в дормы бедненьких. Если остались лишние кадеты, то направьте их на обучение к <a href="/roles/warden" class="is-internal-link is-valid-page">Смотрителю</a> или отдайте на попечительство <a href="/roles/veteran" class="is-internal-link is-valid-page">Ветерану</a>, который уже пояснит им правила здешних мест и основы.</td>
-      </tr>
-    </tbody>
-  </table>
+<table class="sb">
+<thead>
+<tr>
+<th>Subordinate</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/roles/veteran.png"><br><a href="/roles/veteran" class="is-internal-link is-valid-page">Veteran</a></td>
+<td>An old hand in the business of guarding and protecting the station from impending threats. He has a lot of experience, so his job is to help, train and mentor other members of the Brigade. At the start of the shift during the briefing, you can choose a cadet for him to train or give him the opportunity to do it himself. Either way, he must be training someone, that's why he came here.</td>
+</tr>
+<tr>
+<td><img src="/roles/warden.png"><br><a href="/roles/warden" class="is-internal-link is-valid-page">Warden</a></td>
+<td>The Brigade's watchdog. Make sure he keeps all the timers on the prisoner containment cameras under control, maintains the Brigade's operation and does not leave it while prisoners are there. He is next in line for your position if you are replaced, and your senior lieutenant. Treat him like your right hand, as in most situations he will be able to manage the Brigade perfectly on his own.</td>
+</tr>
+<tr>
+<td><img src="/roles/detective.png"><br><a href="/roles/detective" class="is-internal-link is-valid-page">Detective</a></td>
+<td>Just let him do his thing. He's used to working with a fair amount of autonomy from the rest of the team. Just be sure to check in on him from time to time and be ready to send in some red shirts if he uncovers something serious.</td>
+</tr>
+<tr>
+<td><img src="/roles/prison-guard.png"><br><a href="/roles/prison-guard" class="is-internal-link is-valid-page">Prison Guard</a></td>
+<td>The warden's right hand, watches the prisoners and the brig. Don't forget to check their work from time to time.</td>
+</tr>
+<tr>
+<td><img src="/roles/officer.png"><br><a href="/roles/officer" class="is-internal-link is-valid-page">Security Officer</a></td>
+<td>These are your pawns and your job is to manage them effectively. Upon arrival at the station, brief each officer and assign them tasks. Demand discipline from them, yell at them if necessary. An effective tool can also be to put especially incomprehensible officers in a cell. In a pinch, don't be afraid to fire them and ask the Head of Personnel for new ones. Sometimes a new player may appear in your team, so don't be too hard on him.</td>
+</tr>
+<tr>
+<td><img src="/roles/cadet.png"><br><a href="/roles/cadet" class="is-internal-link is-valid-page">Cadet</a></td>
+<td>Cadets are the producers in the Brigade's ecological pyramid. Still green like grass. At the start of your shift, assign a cadet to each officer to be trained and supervised, otherwise they'll lure the poor guys into the dorms. If you have any spare cadets, send them to be trained by the <a href="/roles/warden" class="is-internal-link is-valid-page">Warden</a> or put them in the care of the <a href="/roles/veteran" class="is-internal-link is-valid-page">Veteran</a>, who will explain the rules of the place and the basics.</td>
+</tr>
+</tbody>
+</table>
 </center>
-<h2 id="назначение-офицеров-в-отделы" class="toc-header"><a class="toc-anchor" href="#назначение-офицеров-в-отделы">¶</a> <center><img src="/roles/other/records.png" class="png1"><span class="up">Назначение офицеров в отделы</span></center></h2>
-<p>Каждый офицер может быть пристроен вами к какому-либо отделу. Офицерам отдела предоставляется собственный небольшой офис, откуда бдительный страж сможет контролировать порядок в отделе. Ваша задача — убедиться, что каждый отдел укомплектован сотрудником службы безопасности. Если отдел становится очагом преступной деятельности, может быть, хорошей идеей будет перераспределить больше людей в этот отдел.</p>
-<h2 id="игровые-режимы" class="toc-header"><a class="toc-anchor" href="#игровые-режимы">¶</a> <center><img src="/roles/other/sword.gif" class="png1"><span class="up">Игровые режимы</span><img src="/roles/other/sword.gif" class="png1"></center></h2>
+<h2 id="назначение-офицеров-в-отделы" class="toc-header"><a class="toc-anchor" href="#назначение-офицеров-в-отделы">¶</a> <center><img src="/roles/other/records.png" class="png1"><span class="up">Assigning officers to departments</span></center></h2>
+<p>Each officer can be assigned by you to a particular department. Department officers are provided with their own small office, from which the vigilant guardian can monitor order in the department. Your task is to ensure that each department is staffed by a security officer. If a department becomes a hotbed of criminal activity, it may be a good idea to reassign more people to that department.</p>
+<h2 id="игровые-режимы" class="toc-header"><a class="toc-anchor" href="#игровые-режимы">¶</a> <center><img src="/roles/other/sword.gif" class="png1"><span class="up">Game modes</span><img src="/roles/other/sword.gif" class="png1"></center></h2>
 <p></p>
 <h3 id="et-tu-brute" class="toc-header"><a class="toc-anchor" href="#et-tu-brute">¶</a>  <center><a href="/roles/traitor" class="is-internal-link is-valid-page">Et tu, Brute?</a></center> </h3>
-<p>Самый стандартный и известный всеми режим. На станцию, под видом экипажа, проникает несколько агентов синдиката. Каждый из них получил от начальства особый "магазин" оружия - <a href="/guides/uplink" class="is-internal-link is-valid-page">аплинк</a> и специальные задания, которые необходимо выполнить. Агенты ничего не знают о друг-друге, но имеют специальные секретные слова, позволяющие узнать другого агента из массы экипажа без раскрытия своей роли всем окружающим.</p>
-<p>Как Главы Службы Безопасности, ваша задача - грамотно распределить силы Службы Безопасности, чтобы вычислить и нейтрализовать как можно больше агентов. Возможно, вам прийдется столкнуться с активным сопротивлением, если какой-то из агентов почувствует в себе силы действовать открыто. В таком случае все будет зависеть от боевых качеств всего состава СБ.</p>
-<h3 id="ядерная-зима" class="toc-header"><a class="toc-anchor" href="#ядерная-зима">¶</a>  <center><img src="/roles/other/nuke1.gif" class="png1"><span class="up"><a href="/roles/nuclearoperative" class="is-internal-link is-valid-page"> Ядерная зима</a></span></center> </h3>
-<p>Красные скафандры, мертвый <a href="/roles/captain" class="is-internal-link is-valid-page">Капитан</a>, взорванный медбей, о Боже! Ядерная чрезвычайная ситуация — это, пожалуй, одни из самых сложных раундов для начальника службы безопасности, требующие большого количества знаний и умения противостоять ударной группе террористов на борту станции. Суть такова: есть чертов диск и вам нужно его сохранить. У всех оперативников есть свои пинпоинтеры, поэтому помните, что прятать диск не стоит, так как они могут его легко отследить. На станции также имеются несколько таких - в Хранилище и каюте капитана.</p>
-<p>При объявлении войны со стороны Синдиката, вы будете вынуждены в срочном порядке вооружить весь состав станции (да, даже клоуна). Закажите в Карго ящики с оружием и боеприпасами к ним, пуленепробиваемыми жилетами с касками и начните устанавливать оборонительные сооружения по всей станции. Если вы не доверяете безопасность диска капитану или другим главам, возьмите эту ответственность на себя, стараясь держаться подальше от поля боя и надеяться на бравых пассажиров, стоящих на баррикадах.</p>
-<p>Вы все таки потеряли диск? Это еще не конец, так что не бойтесь надеть свой скафандр и преследовать этих ублюдков прямо до их собственного шаттла. Никогда не теряйте надежду.</p>
-<h2 id="полезные-советы" class="toc-header"><a class="toc-anchor" href="#полезные-советы">¶</a> <center><img src="/roles/other/light.png" class="png1"><span class="up">"Полезные" советы</span></center></h2>
+<p>The most standard and well-known mode. Several syndicate agents infiltrate the station, disguised as crew members. Each agent receives a special weapon "store" from their superiors - an <a href="/guides/uplink" class="is-internal-link is-valid-page">uplink</a> and specific tasks to complete. Agents are unaware of each other, but they have special secret words that allow them to identify other agents within the crew without revealing their role to everyone around them.</p>
+<p>As Head of Security, your task is to strategically distribute Security forces to identify and neutralize as many agents as possible. You may face active resistance if any of the agents feel confident enough to act openly. In such a case, everything will depend on the combat capabilities of the entire Security team.</p>
+<h3 id="ядерная-зима" class="toc-header"><a class="toc-anchor" href="#ядерная-зима">¶</a>  <center><img src="/roles/other/nuke1.gif" class="png1"><span class="up"><a href="/roles/nuclearoperative" class="is-internal-link is-valid-page"> Nuclear winter</a></span></center> </h3>
+<p>Red spacesuits, a dead <a href="/roles/captain" class="is-internal-link is-valid-page">Captain</a>, a blown-up medbay, oh my god! A nuclear emergency is probably one of the most challenging rounds for the Chief Security Officer, requiring a lot of knowledge and the ability to withstand a terrorist strike team aboard the station. The bottom line is: there's a damn disk and you need to protect it. All operatives have their own pinpointers, so remember that hiding the disk is a no-go as they can easily track it. There are also a few such on the station - in the Storage and Captain's cabin.</p>
+<p>When the Syndicate declares war, you'll have to urgently arm the entire station crew (yes, even the clown). Order weapon crates and ammunition from Cargo, bulletproof vests with helmets, and start setting up defensive structures all over the station. If you don't trust the Captain or other heads with the disk's safety, take that responsibility yourself, trying to stay away from the battlefield and hoping for brave passengers standing on the barricades.</p>
+<p>You still lost the disk? It's not the end, so don't be afraid to put on your spacesuit and chase these bastards right to their own shuttle. Never lose hope.</p>
+<h2 id="полезные-советы" class="toc-header"><a class="toc-anchor" href="#полезные-советы">¶</a> <center><img src="/roles/other/light.png" class="png1"><span class="up">“Helpful” tips</span></center></h2>
 <ul>
-<li>Если вы промаркируете все вооружение в арсенале и все снаряжение, которые вы раздаете, вы будете точно знать, кто и как облажался, когда дробовик окажется в руках у клоуна.</li>
-<li>Если вы заполните баллон с воздухом 20% O2 и 80% N2O, установите давление 101 кПа и наденете на кого-нибудь вместе с маской и включите подачу смеси, то можно устроить ему участь хуже смерти почти на вечность.</li>
-<li>Вы можете пополнить оружейную, заказав оружие в карго, чтобы в случае опасности большее количество людей могло дать отпор.</li>
-<li>Если взять дробовик, <s>наполнить его картечью,</s> и отпилить циркулярной пилой ствол — вы сможете положить его в рюкзак, что станет отличным противодействием пользователям энергетических мечей/щитов.</li>
-<li>Не забывайте отслеживать жизненные показатели ваших офицеров, вколов им имплант "Трекер". Вы же не хотите получить переодетого предателя в своей команде?</li>
+<li> If you mark all the weapons in the arsenal and all the gear you hand out, you'll know exactly who and how messed up when the shotgun ends up in the clown's hands. </li>
+<li> If you fill an air tank with 20% O2 and 80% N2O, set the pressure to 101 kPa, put it on someone with a mask, and turn on the mixture supply, you can give them a fate worse than death for almost eternity. </li>
+<li> You can replenish your armory by ordering weapons in cargo, so that in case of danger, more people can fight back. </li>
+<li> If you take a shotgun, <s>fill it with buckshot,</s> and cut off the barrel with a circular saw, you can put it in a backpack, which will be a great countermeasure against users of energy swords/shields. </li>
+<li> Don't forget to track your officers' vital signs by implanting them with the "Tracker" implant. You don't want to get a disguised traitor on your team, do you? </li>
 </ul>
 <div class="table"></div></div>
