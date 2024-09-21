@@ -2,7 +2,7 @@
 title: Псионики
 description: Руководство, которое поможет вам познать мощь сознания. Псионика, псионики.
 published: true
-date: 2024-09-21T11:04:26.252Z
+date: 2024-09-21T11:05:04.035Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:01.604Z
@@ -147,7 +147,7 @@ dateCreated: 2024-09-10T19:08:01.604Z
       </tr>
       <tr>
         <td style="background-color: #933bb7 !important;"><img src="/guides/psionics/bedsheetblack.png"><b><br>Рваная простыня</b></td>
-        <td>Рваное одеяло, похоже, прошло через ад и пришло обратно.</td>
+        <td>Рваное одеяло, похоже, оно прошло через ад и вернулось обратно.</td>
         <td><img src="/guides/psionics/psionicinvisibility.png" ><br>Псионическая невидимость</td>
       </tr>
       <tr>
