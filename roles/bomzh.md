@@ -2,7 +2,7 @@
 title: Бомж
 description: Космический бомж
 published: true
-date: 2024-09-19T20:23:10.478Z
+date: 2024-09-21T14:13:13.496Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:11.965Z
@@ -10,7 +10,7 @@ dateCreated: 2024-09-10T19:08:11.965Z
 
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport serv">
-  <div class="title serv "><a href="/roles">Сервисный Отдел</a></div>
+  <div class="title serv "><a href="/roles">Сервисный отдел</a></div>
   <div>
     <div><div><img src="/roles/bomz2.png" id="playAudio" style="cursor: pointer;"></div></div>
   <div><div>
