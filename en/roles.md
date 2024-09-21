@@ -2,27 +2,29 @@
 title: Roles
 description: 
 published: true
-date: 2024-09-21T13:47:40.648Z
+date: 2024-09-21T13:48:56.911Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
 ---
 
-Welcome to the **Role Guide**, which covers the various roles you may encounter on [Space Station 14](/) by [NanoTrasen](/backstory#nanotrasen)!
+**Welcome to the Role Handbook**, which you can find on [Space Station 14](/) by [NanoTrasen](/backstory#nanotrasen)!
 
-Ever wonder why one guy in red arrested you for hacking, while another just shot you on the spot? Or what's the difference between people in white coats? **You've come to the right place!**
+Don't understand why one person in red arrested you for trying to hack, while another just shot you on the spot?  Or what's the difference between people in white coats?  **This is the place for you!**
 
-If you are new to the station, we recommend starting with the **Assistant** role [/roles/assistant]. It's pretty straightforward and typically doesn't require much from you, leaving you time to get your bearings. After that, try out roles like: **Service Worker** [/roles/serviceworker], **Loader** [/roles/loader], **Intern** [/roles/intern], **Research Assistant** [/roles/researchassistant], and **Technical Assistant** [/roles/technicalassistant].
+If you're new to the station, it's definitely a good idea to start with the [Assistant](/roles/assistant) role. It's pretty simple, since you usually don't have to do much, so you have time to learn the ropes.  Next, you can try roles like: [Service Worker](/roles/serviceworker), [Loader](/roles/loader), [Intern](/roles/intern), [Research Assistant](/roles/researchassistant), [Technical Assistant](/roles/technicalassistant).
 
-##  Helpful Resources:
 
-*   [Space Law](/spacelaw)
-*   [Roleplaying Guide](/guides/roleplayingguide)
-*   [Hierarchy of Command](/guides/hierarchyofcommand)
-*   [Guides](/guides)
-*   [Maps](https://ss14.su/maps)
+## This is helpful!
 
---- 
+-   [Space Law](/spacelaw)
+-   [Roleplaying Guide](/guides/roleplayingguide)
+-   [Hierarchy of Command](/guides/hierarchyofcommand)
+-   [Guides](/guides)
+-   [Maps](https://ss14.su/maps)
+
+---
+
 
  
 <div class="roles-table comm">
