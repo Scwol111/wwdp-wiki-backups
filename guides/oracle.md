@@ -2,7 +2,7 @@
 title: Оракул
 description: 
 published: true
-date: 2024-09-21T17:40:12.490Z
+date: 2024-09-21T17:41:22.963Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T17:26:09.472Z
