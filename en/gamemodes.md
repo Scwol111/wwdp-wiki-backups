@@ -1,11 +1,11 @@
 ---
 title: Game modes
 description: 
-published: false
-date: 2024-09-04T14:39:22.398Z
+published: true
+date: 2024-09-21T20:12:21.122Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-26T00:21:32.798Z
+dateCreated: 2024-09-10T19:07:49.260Z
 ---
 
 <div><h1 id="игровые-режимы"><a href="#игровые-режимы"></a> Game modes</h1><div>
