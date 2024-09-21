@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-09-21T13:48:56.911Z
+date: 2024-09-21T13:49:57.274Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -252,64 +252,65 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   <div><div>Calls security for CQC. In the end, he forgets the basics of CQC.</div></div>
   <div>Easy</div>
 </div>
+
 <div class="roles-table antag">
-  <div class="title antag-title">
-    <div class="link"><h2><a href="/roles/antagonists" class="antag-color">Антагонисты</a></h2></div>
-  	<div>Роль</div>
-  	<div>Описание</div>
-  	<div>Сложность</div>
-  </div>
-  <div><a href="/roles/traitor">Предатель</a><a href="/roles/traitor"><img src="/roles/traitor.png" /></a></div>
-  <div><div>Наёмник синдиката под прикрытием. Выпустит сингулярность, пустит плазму по коридорам, перебьёт половину экипажа, просто ходя и пиная всех, и улетит на шаттле, не выполнив ни одну задачу.</div></div>
-  <div>Сложно</div>
-  <div><a href="/roles/nuclearoperative">Ядерный Оперативник</a><a href="/roles/nuclearoperative"><img src="/roles/nuclearoperative.png" /></a></div>
-  <div><div><strike>Криворукие</strike> "Элитные" наёмники синдиката. Варят два часа лекарства, выпивают для храбрости, наедаются как в последний раз, а потом половина умирают от какой-то обезьяны, что бегает с гранатой, а вторая падает от дизейблера.</div></div>
-  <div><a href="https://www.youtube.com/watch?v=KMB6jqALLt8">БАБАХ!</a></div>
-  <div><a href="/roles/corticalBorer">Космическая аскарида</a><a href="/roles/corticalBorer"><img src="/roles/borer.png" /></a></div>
-  <div><div>Мозговые черви — идеальные паразиты, которые способны проникнуть через ухо к мозгу гуманоида. Черви способны к общению со своей жертвой из-за частичного захвата мозга и центра мыслительных процессов.</div></div>
-  <div>Легко</div>
-  <div><a href="/roles/thief">Вор</a><a href="/roles/thief"><img src="/roles/thief32x32.png" /></a></div>
-  <div><div>Вор, способный утащить всё, что не прикручено к полу. Остерегайтесь пропажи ваших ценных вещей!</div></div>
-  <div>Средне</div>
-  <div><a href="/roles/cultist">Культист</a><a href="/roles/cultist"><img src="/roles/cultist.gif" /></a></div>
-  <div><div>Заходит в бар безумный фанатик, священник и человек с кроваво-красными глазами и большой руной над головой, а бармен говорит "Тебе как обычно?".</div></div>
-  <div>Сложно</div>
-  <div><a href="/roles/revolution">Революционер</a><a href="/roles/revolution"><img src="/roles/revolution.png" /></a></div>
-  <div><div>Синдикат решает захватить власть более интересным путём, а именно промывкой мозгов с помощью флешки. Ещё одна веская причина не собираться в толпы. И если вы зачинщик революции.. я надеюсь вы же умеете управлять толпой из десяток людей?</div></div>
-  <div>Средне</div>
-  <div><a href="/roles/patientzero">Нулевой Пациент</a><a href="/roles/patientzero"><img src="/roles/patientzero.png" /></a></div>
-  <div><div>"О! Привет дружище! Что.. ААААААААА! ..... Уаааа маазгии.." - из-за них очень не рекомендуемо находиться в местах с большим скоплением людей.. и наоборот один на один, если ты не уверен, что человек здоров.</div></div>
-  <div>Мааазги...</div>
-  <div><a href="/roles/spaceninja">Космический ниндзя</a><a href="/roles/spaceninja"><img src="/roles/spaceninja.png" /></a></div>
-  <div><div>Какой-то человек в чёрно-зелёном, что пытается вас убить. У него постоянно невовремя садится батарейка.. ну что поделать, такова судьба. Ну.. в таком случае вполне хорошее время для харакири!</div></div>
-  <div>Сложно</div>
-  <div><a href="/roles/pirate">Пират</a><a href="/roles/pirate"><img src="/roles/pirate.png" /></a></div>
-  <div><div>Головорез, способный украсть не только деньги, одежду, все оборудование станции и шаттл карго, но и твое сердечко. В погоне за деньгами он не остановится ни перед чем.</div></div>
-  <div>Сложно</div>
-  <div><a href="/roles/revenant">Ревенант</a><a href="/roles/revenant"><img src="/roles/revenant.png" /></a></div>
-  <div><div>Призрак, что любит кошмарить станцию. Если вы получили информацию, что это существо ходит по станции, то убедительная просьба НЕ ХОДИТЬ ПО ОДНОМУ.</div></div>
-  <div>Средне</div>
-  <div><a href="/roles/ratking">Крысиный Король</a><a href="/roles/ratking"><img src="/roles/ratking.png" /></a></div>
-  <div><div>Очень большая и злая крыса. Ну хотя бы не переносит чуму.. Но еду свою поберегите.</div></div>
-  <div>Легко</div>
-  <div><a href="/roles/spacedragon">Космический Дракон</a><a href="/roles/spacedragon"><img src="/roles/spacedragon.png" /></a></div>
-  <div><div>Космический дракон, который прилетел, чтобы убедиться, что все на этой станции мертвы. Если вам всё-таки удалось победить его каким-то образом, то постарайтесь не перебить друг друга за его <a href="/guides/chemistry">ихор</a>.</div></div>
-  <div>Сложно</div>
-  <div><a href="/roles/guardian">Хранитель</a><a href="/roles/guardian"><img src="/roles/guardian.png" /></a></div>
-  <div><div>Звучит полезно.. хотя обычно им почему-то не пользуются.</div></div>
-  <div>Сложно</div>
-  <div><a href="/roles/genestealer" class="goida"></a><a href="/roles/genestealer"><img src="/roles/changeling.gif" /></a></div>
-  <div><div>Высокоинтеллектуальный инопланетный хищник, обладающий способностью менять свой облик, чтобы выглядеть в точности как человек.. Способен создавать из своих конечностей оружие и жала с ядом."</div></div>
-  <div>Сложно</div>
-  <div><a href="/roles/terminator">Терминатор</a><a href="/roles/terminator"><img src="/roles/terminator.png" /></a></div>
-  <div><div>Высокотехнологичный антагонист, который представляет собой серьезную угрозу для отдельного члена экипажа.</div></div>
-  <div>Легко</div>
-  <div><a href="/roles/wizard">Маг</a><a href="/roles/wizard"><img src="/roles/wizard_real.png" /></a></div>
-  <div><div>FORTI GY AMA!! Заставьте всех ненавидеть вас за убийство всей станции. HONK FOR ME!!! Превратите весь экипаж в клоунов. ONI SOMA!!! Умрите от клоуна с жезлом нулификации.</div></div>
-  <div>Очень сложно</div>
-  <div><a href="/roles/paradox-anomaly">Парадоксальная аномалия</a><a href="/roles/paradox-anomaly"><img src="/roles/paradox-anomaly.png" /></a></div>
-  <div><div>Основная цель Парадоксальной аномалии - либо убить оригинала и заменить его собой, либо сохранить жизнь своему клону и подружиться с ним. Вторичная цель - сбежать на ЦентКом живым и свободным.</div></div>
-  <div>Достаточно сложно</div>
+<div class="title antag-title">
+<div class="link"><h2><a href="/roles/antagonists" class="antag-color">Antagonists</a></h2></div>
+<div>Role</div>
+<div>Description</div>
+<div>Difficulty</div>
+</div>
+<div><a href="/roles/traitor">Traitor</a><a href="/roles/traitor"><img src="/roles/traitor.png" /></a></div>
+<div><div>A syndicate mercenary undercover. They will release singularity, run plasma down the hallways, shoot half the crew simply by walking and kicking, and escape on the shuttle without completing any tasks.</div></div>
+<div>Hard</div>
+<div><a href="/roles/nuclearoperative">Nuclear Operative</a><a href="/roles/nuclearoperative"><img src="/roles/nuclearoperative.png" /></a></div>
+<div><div><strike>Clumsy</strike> "Elite" syndicate mercenaries. They brew medicine for two hours, drink for courage, eat like it's their last meal, and then half of them die from a monkey with a grenade, while the other half fall from the disabler.</div></div>
+<div><a href="https://www.youtube.com/watch?v=KMB6jqALLt8">BOOM!</a></div>
+<div><a href="/roles/corticalBorer">Space Parasite</a><a href="/roles/corticalBorer"><img src="/roles/borer.png" /></a></div>
+<div><div>Brain worms are the ideal parasites, able to penetrate the human ear and reach the brain. They are capable of communicating with their host due to partial brain seizure and central thinking processes.</div></div>
+<div>Easy</div>
+<div><a href="/roles/thief">Thief</a><a href="/roles/thief"><img src="/roles/thief32x32.png" /></a></div>
+<div><div>A thief capable of stealing everything not bolted to the floor. Beware of missing valuables!</div></div>
+<div>Medium</div>
+<div><a href="/roles/cultist">Cultist</a><a href="/roles/cultist"><img src="/roles/cultist.gif" /></a></div>
+<div><div>A crazy fanatic walks into a bar, a priest, and a man with blood-red eyes and a large rune on his head, and the bartender says "The usual for you?".</div></div>
+<div>Hard</div>
+<div><a href="/roles/revolution">Revolutionary</a><a href="/roles/revolution"><img src="/roles/revolution.png" /></a></div>
+<div><div>The syndicate decides to take over in a more interesting way, namely brainwashing using a flash drive. Another good reason not to gather in crowds. And if you're the leader of the revolution... I hope you know how to control a crowd of a dozen people?</div></div>
+<div>Medium</div>
+<div><a href="/roles/patientzero">Patient Zero</a><a href="/roles/patientzero"><img src="/roles/patientzero.png" /></a></div>
+<div><div>"Oh! Hey buddy! What.. AAAAAAAA! ..... Uaaaa maazgii.." - because of them it's highly discouraged to be in places with a large crowd.. and conversely one-on-one, if you're not sure the person is healthy.</div></div>
+<div>Maazgii...</div>
+<div><a href="/roles/spaceninja">Space Ninja</a><a href="/roles/spaceninja"><img src="/roles/spaceninja.png" /></a></div>
+<div><div>Some guy in black and green who's trying to kill you. His battery always dies at the wrong time... oh well, such is life. Well.. in that case, it's a good time for hara-kiri!</div></div>
+<div>Hard</div>
+<div><a href="/roles/pirate">Pirate</a><a href="/roles/pirate"><img src="/roles/pirate.png" /></a></div>
+<div><div>A cutthroat who can steal not only money, clothes, all the station's equipment and shuttle cargo, but also your heart. In pursuit of money, he will stop at nothing.</div></div>
+<div>Hard</div>
+<div><a href="/roles/revenant">Revenant</a><a href="/roles/revenant"><img src="/roles/revenant.png" /></a></div>
+<div><div>A ghost that likes to haunt the station. If you get information that this creature is walking the station, then a strong request NOT TO WALK ALONE.</div></div>
+<div>Medium</div>
+<div><a href="/roles/ratking">Rat King</a><a href="/roles/ratking"><img src="/roles/ratking.png" /></a></div>
+<div><div>A very big and evil rat. Well at least he doesn't carry plague.. But save your food.</div></div>
+<div>Easy</div>
+<div><a href="/roles/spacedragon">Space Dragon</a><a href="/roles/spacedragon"><img src="/roles/spacedragon.png" /></a></div>
+<div><div>A space dragon that came to make sure everyone on this station is dead. If you somehow managed to defeat it, try not to kill each other for his <a href="/guides/chemistry">ichor</a>.</div></div>
+<div>Hard</div>
+<div><a href="/roles/guardian">Guardian</a><a href="/roles/guardian"><img src="/roles/guardian.png" /></a></div>
+<div><div>Sounds useful.. although they usually don't use it.</div></div>
+<div>Hard</div>
+<div><a href="/roles/genestealer" class="goida"></a><a href="/roles/genestealer"><img src="/roles/changeling.gif" /></a></div>
+<div><div>A highly intelligent alien predator with the ability to change its appearance to look exactly like a human.. Able to create weapons and stingers with venom from its limbs."</div></div>
+<div>Hard</div>
+<div><a href="/roles/terminator">Terminator</a><a href="/roles/terminator"><img src="/roles/terminator.png" /></a></div>
+<div><div>A high-tech antagonist who poses a serious threat to an individual crew member.</div></div>
+<div>Easy</div>
+<div><a href="/roles/wizard">Wizard</a><a href="/roles/wizard"><img src="/roles/wizard_real.png" /></a></div>
+<div><div>FORTI GY AMA!! Make everyone hate you for killing the entire station. HONK FOR ME!!! Turn the whole crew into clowns. ONI SOMA!!! Die from a clown with a nullfication staff.</div></div>
+<div>Very Hard</div>
+<div><a href="/roles/paradox-anomaly">Paradox Anomaly</a><a href="/roles/paradox-anomaly"><img src="/roles/paradox-anomaly.png" /></a></div>
+<div><div>The main goal of the Paradox Anomaly is either to kill the original and replace it with itself, or to save the life of its clone and befriend it. The secondary goal is to escape to CentCom alive and free.</div></div>
+<div>Quite hard</div>
 </div>
  
 <div class="roles-table ceco">
