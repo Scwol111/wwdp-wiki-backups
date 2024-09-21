@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-09-21T14:29:28.559Z
+date: 2024-09-21T14:33:37.179Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -300,7 +300,7 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
 <div><div>Sounds useful.. although they usually don't use it.</div></div>
 <div>Hard</div>
 <div><a href="/roles/genestealer">Сhangeling</a><a href="/roles/genestealer"><img src="/roles/changeling.gif" /></a></div>
-<div><div>A highly intelligent alien predator with the ability to change its appearance to look exactly like a human.. Able to create weapons and stingers with venom from its limbs."</div></div>
+<div><div>A highly intelligent alien predator with the ability to change its appearance to look exactly like a human.. Able to create weapons and stingers with venom from its limbs.</div></div>
 <div>Hard</div>
 <div><a href="/roles/terminator">Terminator</a><a href="/roles/terminator"><img src="/roles/terminator.png" /></a></div>
 <div><div>A high-tech antagonist who poses a serious threat to an individual crew member.</div></div>
@@ -381,6 +381,6 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   <div><div>A faithful assistant to the <a href="./roles/botanist">botanist</a>, a good-natured garden gnome. He will defend his rights until he is broken. AND HE DEFINITELY DOESN'T WANT TO HARM ANYONE.</div></div>
   <div>Gnomish</div>
   <div><a href="/roles/gondola">Gondola</a><a href="/roles/gondola"><img src="/roles/gondola.png" /></a></div>
-  <div><div>A creature that can be bought in <a href="/ru/guides/uplink">uplink</a></div></div>
+  <div><div>A creature that can be bought in <a href="/ru/guides/uplink">uplink</a>.</div></div>
   <div>Easy</div>
 </div>
