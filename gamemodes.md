@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: true
-date: 2024-09-21T20:10:56.152Z
+date: 2024-09-21T20:12:05.759Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:34.643Z
