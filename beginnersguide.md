@@ -2,17 +2,17 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-09-21T20:23:36.015Z
+date: 2024-09-21T20:55:48.068Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:33.269Z
 ---
 
 <div><p>Добро пожаловать на Космическую станцию 14! Вы и ваши товарищи по команде только что начали свою смену на борту <a href="https://wwdp-ss14.ru/maps">космической станции</a> <a href="/backstory#nanotrasen" class="is-internal-link is-valid-page">NanoTrasen</a>. У каждого из вас есть <a href="/roles" class="is-internal-link is-valid-page">своя работа</a>, и надеемся, вы будете получать удовольствие от этого процесса.</p>
-  <p>Пожалуйста, убедитесь, что вы понимаете <a href="/rules" class="is-internal-link is-valid-page">Правила</a>, которые вы можете просмотреть в любое время, нажав Escape и выбрав пункт меню "Правила". Так же настоятельно рекомендуем вам ознакомиться с руководством по <a href="/guides/basics/interactions" class="is-internal-link is-invalid-page">взаимодействиям</a> в игре. Для облегчения коммуникаций внутри игры используется <a href="/guides/terminology" class="is-internal-link is-valid-page">сленговая лексика</a>.</p>
+  <p>Пожалуйста, убедитесь, что вы понимаете <a href="/rules" class="is-internal-link is-valid-page">Правила</a>, которые вы можете просмотреть в любое время, нажав Escape и выбрав пункт меню "Правила". Так же настоятельно рекомендуем вам ознакомиться с руководством по <a href="/guides/interactions" class="is-internal-link is-invalid-page">взаимодействиям</a> в игре. Для облегчения коммуникаций внутри игры используется <a href="/guides/terminology" class="is-internal-link is-valid-page">сленговая лексика</a>.</p>
   <p>Если у вас есть вопросы:</p>
   <ol>
-    <li>Изучите <a href="/guides/basics/interactions" class="is-internal-link is-invalid-page">взаимодействия</a>.</li>
+    <li>Изучите <a href="/guides/interactions" class="is-internal-link is-invalid-page">взаимодействия</a>.</li>
     <li>Ознакомьтесь со <a href="/roles" class="is-internal-link is-valid-page">статьями на вики</a>, если ваш вопрос заключается в незнании какой-либо роли.</li>
     <li>Проконсультируйтесь с помощью <a href="/guides/communication" class="is-internal-link is-valid-page">рации</a> со своими коллегами или спросите в <a href="https://discord.gg/WR4MNKuDVA" class="is-external-link">Discord</a>.</li>
     <li>Спросите у <a href="/administration" class="is-internal-link is-valid-page">администрации</a>, для этого нажмите F1 и задайте вопрос.</li>
