@@ -2,7 +2,7 @@
 title: Инженер
 description: 
 published: true
-date: 2024-09-19T20:00:40.528Z
+date: 2024-09-21T13:12:18.713Z
 tags: роли
 editor: markdown
 dateCreated: 2024-09-10T19:08:22.623Z
