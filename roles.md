@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-09-20T20:30:05.623Z
+date: 2024-09-21T13:21:40.033Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -248,7 +248,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/bomzh">Космический бомж</a><a href="/roles/bomzh"><img src="/roles/bomz2.png" /></a></div>
   <div><div>Кто знает, кем он был в прошлом, но сейчас он волочит жалкое существование в мусорблоке, питаясь объедками и мышами.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/prisoner">Заключенный</a><a href="/roles/prisoner"><img src="/roles/prisoner.png" /></a></div>
+  <div><a href="/roles/prisoner">Заключенный</a><a href="/roles/prisoner" class="is-internal-link is-valid-page" ><img src="/roles/prisoner.png" /></a></div>
   <div><div>Сидите в тюрьме и учитесь выращивать растения и готовить. Играйте в азартные игры со своими сокамерниками. Поговорите с начальником тюрьмы. Напишите мемуары. Общайтесь с адвокатом/надзирателем/тюремным надзирателем, пока между вами не проявятся глубокие личные отношения. Не приглашайте ХоСа на свадьбу.</div></div>
   <div>Легко</div>
   <div><a href="/roles/martial-artist">Мастер боевых искусств</a><a href="/roles/martial-artist"><img src="/roles/martial-artist.png" /></a></div>
