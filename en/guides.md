@@ -2,7 +2,7 @@
 title: Guides
 description: 
 published: true
-date: 2024-09-11T18:34:54.508Z
+date: 2024-09-21T19:02:36.044Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-11T18:34:54.507Z
@@ -92,7 +92,13 @@ dateCreated: 2024-09-11T18:34:54.507Z
       <p>A guide to the basics of space robotics.</p>
       <a href="/guides/researchanddevelopment"><img src="https://wiki.ss14.su/images/8/8b/RDComputer.png" alt="robotics.png" />Research and Development</a>
       <p>Everything you need to know about research and technology.</p>
-    </div>
+<a href="/guides/psionics"><img src="/guides/insulativeskullcap.png" alt="insulativeskullcap.png" />Psionics</a>
+  <p>A guide to psionic abilities.</p>
+  <a href="/guides/oracle" class="is-internal-link is-valid-page"><img src="/guides/the_oracle.png" alt="insulativeskullcap.png" />The Oracle</a>
+  <p>"I WILL MAKE SURE THAT THE NEXT VESSEL YOU INHABIT IN THIS MATERIAL HELL WILL BE ONE OF THE MONKEYS YOU ARE TRYING, IF YOU DO NOT BRING ME AT LEAST ONE EGGPLANT!"</p>
+  <a href="/guides/glimmer" class="is-internal-link is-valid-page"><img src="/guides/sophicgrammateus.png" alt="insulativeskullcap.png" />Glimmer</a>
+  <p>This is a guide to tracking and containing the Glimmer.</p>
+</div>
     <div class="content-table" id="car">
       <a href="/guides/cargoinventory"><img src="/guides/cargo-inventory.png" alt="cargo-inventory.png" />Inventory</a>
       <p>This guide lists all the items in the game available to the cargo department.</p>
