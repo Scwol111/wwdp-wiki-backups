@@ -2,7 +2,7 @@
 title: Культист
 description: 
 published: true
-date: 2024-09-21T15:03:39.816Z
+date: 2024-09-21T15:10:33.038Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T14:58:53.955Z
@@ -23,8 +23,8 @@ dateCreated: 2024-09-21T14:58:53.955Z
     </div>
   </div>
 </div>
-<audio id="audio" src="/role/antagonists/40sec.mp3"></audio>
-<audio id="audio" src="/role/antagonists/40sec.mp3"></audio>
+<audio id="audio" src="/roles/antagonists/40sec.mp3"></audio>
+<audio id="audio" src="/roles/antagonists/40sec.mp3"></audio>
 <div class="message" id="message" style="display:none;">
   <p style="font-size: 40px"> Нар'Си ЗДЕСЬ</p>
 </div>
@@ -57,7 +57,7 @@ dateCreated: 2024-09-21T14:58:53.955Z
 <p>Если вы обычно бродите по залам, постарайтесь найти своих собратьев-культистов лично. Если нет, то поговорите со своими братьями, используя ваш канал общения (преффикс "^") но делайте это наедине, чтобы люди не слышали ваш шепот. Многие рабочие имеют доступ к изолированным участкам станции, которые отлично подходят для этого, а также есть космос. Помните: <strong>Если вас поймают, вы подвергнете опасности весь культ.</strong></p>
 <h2 style="text-align: center" id="заклинания-крови" class="toc-header"><a class="toc-anchor" href="#заклинания-крови">¶</a>  Заклинания Крови </h2>
 <p><strong>Заклинания Крови</strong> - это заклинания магии крови, создаваемые на руне могущества количество создаваемых заклинаний не ограничено. Эти заклинания - ваши лучшие помощники в сражении с экипажем.<br>
-Получить заклинания можно с помощью руны могущества или нажать <kbd>ПКМ</kbd> на персонаже, выбрать вкладку "<img src="/ritual_knife.png" alt="ritual_knife.png">Культ", далее "Создать кровавое заклинание".</p>
+Получить заклинания можно с помощью руны могущества или нажать <kbd>ПКМ</kbd> на персонаже, выбрать вкладку "<img src="/roles/antagonists/ritual_knife.png" alt="ritual_knife.png">Культ", далее "Создать кровавое заклинание".</p>
 <p>Рекомендуется иметь при себе заклинание телепортации, а также кровавые обряды, чтобы избежать рискованных ситуаций.</p>
 <p>Одновременно вы можете иметь только два заклинания. У всех заклинаний есть ограничение в количестве использований, после чего они освободят слот.</p>
 <h3 style="text-align: center; color: white" id="как-использовать-заклинания-крови" class="toc-header"><a class="toc-anchor" href="#как-использовать-заклинания-крови">¶</a>  Как использовать Заклинания Крови </h3>
@@ -73,47 +73,47 @@ dateCreated: 2024-09-21T14:58:53.955Z
 </thead>
 <tbody>
 <tr>
-<td><center><img src="/cult_teleport.png" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/cult_teleport.png" style="width: 64px;"></center></td>
 <td>Телепорт</td>
 <td>Полезное заклинание, которое телепортирует любого члена экипажа в выбранное место, которым являются руны телепорта. При необходимости вы можете телепортировать других культистов или себя.</td>
 </tr>
 <tr>
-<td><center><img src="/transmute.png" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/transmute.png" style="width: 64px;"></center></td>
 <td>Искажённое Воздействие</td>
 <td>Это заклинание, которое используют для превращения стали в рунический металл.</td>
 </tr>
 <tr>
-<td><center><img src="/ritual_knife.png" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/ritual_knife.png" style="width: 64px;"></center></td>
 <td>Призыв Ритуального Кинжала</td>
 <td>Даёт возможность призвать ритуальный кинжал для рисования рун, в случае если ты потерял свой или забыл подобрать его с пола после своего перевоплощения. Активируй заклинание и нажми на себя.</td>
 </tr>
 <tr>
-<td><center><img src="/armor.png" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/armor.png" style="width: 64px;"></center></td>
 <td>Призыв Боевого Снаряжения</td>
 <td>Важное заклинание, которое позволяет вам вызвать полный набор боевого снаряжения, включая бронированную мантию, капюшон культиста, сапоги культиста, болу и жуткий полуторный меч, наносящий <span style="color:#fde910;"><strong>30 механического</strong></span> урона. Если у вас уже есть предметы в этих слотах, они упадут на пол. Жуткий полуторный меч помещается в руку. Активируйте заклинание и затем нажмите на себя.</td>
 </tr>
 <tr>
-<td><center><img src="/blood_rites.png" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/blood_rites.png" style="width: 64px;"></center></td>
 <td>Кровавые Обряды</td>
 <td>Заклинание, позволяющее исцелить себя, за счет крови, находящийся на полу рядом с вами.</td>
 </tr>
 <tr>
-<td><center><img src="/shackles.png" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/shackles.png" style="width: 64px;"></center></td>
 <td>Теневые Узы</td>
 <td>Заклинание, позволяющее за <strong>секунду</strong> сковать жертву, дополнительно накладывает эффект немоты на <strong>12 секунд</strong>.</td>
 </tr>
 <tr>
-<td><center><img src="/stun.png" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/stun.png" style="width: 64px;"></center></td>
 <td>Оглушение</td>
 <td>Мощное заклинание, вырубающее жертву на <strong>7 секунд</strong>.</td>
 </tr>
 <tr>
-<td><center><img src="/emp_cult.png" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/emp_cult.png" style="width: 64px;"></center></td>
 <td>Электромагнитный Импульс</td>
 <td>Позволяет выплеснуть темную энергию в виде ЭМИ всплеска.</td>
 </tr>
 <tr>
-<td><center><img src="/gone.png" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/gone.png" style="width: 64px;"></center></td>
 <td>Сокрытие Присутсвия</td>
 <td>Позволяет скрыть/показать руны в радиусе <strong>пяти тайлов</strong>.</td>
 </tr>
@@ -132,13 +132,13 @@ dateCreated: 2024-09-21T14:58:53.955Z
   </thead>
   <tbody>
     <tr>
-      <td><center><img src="/bloody_spear.png" style="width: 64px;"></center></td>
+      <td><center><img src="/roles/antagonists/bloody_spear.png" style="width: 64px;"></center></td>
       <td>Кровавое Копьё</td>
       <td>Кровавое копье, наносящее <span style="color:#fde910;"><strong>44 проникающего</strong></span> урона в ближнем бою и <span style="color: #fde910;"><strong>40 проникающего</strong></span> в дальнем. После броска имеется возможность призвать копье при промахе.</td>
       <td><strong><span style="color: #d10003;">150 крови</span></strong></td>
     </tr>
     <tr>
-      <td><center><img src="/hand_cult.png" style="width: 64px;"></center></td>
+      <td><center><img src="/roles/antagonists/hand_cult.png" style="width: 64px;"></center></td>
       <td>Залп Кровавых Снарядов</td>
       <td>Мощная кровавая длань, направленная на дальний бой. Имеет <span style="color: #fde910;"><strong>25 снарядов</strong></span>, каждый из которых наносит <span style="color: #fde910;"><strong>20 проникающего</strong></span> урона.</td>
       <td><strong><span style="color: #d10003;">300 крови</span></strong></td>
@@ -148,7 +148,7 @@ dateCreated: 2024-09-21T14:58:53.955Z
 <h3 style="text-align: center; color: white" id="как-получить-предмет-из-кровавого-обряда" class="toc-header"><a class="toc-anchor" href="#как-получить-предмет-из-кровавого-обряда">¶</a>  Как получить предмет из кровавого обряда </h3>
 <ol>
   <li>Нажать <kbd>ПКМ</kbd> на персонажа.</li>
-  <li>Выбрать вкладку "<img src="/ritual_knife.png" style="width: 24px;">Культ".</li>
+  <li>Выбрать вкладку "<img src="/roles/antagonists/ritual_knife.png" style="width: 24px;">Культ".</li>
   <li>В контекстном меню выбрать "Кровавые Обряды".</li>
 </ol>
 <h2 style="text-align: center" id="руны" class="toc-header"><a class="toc-anchor" href="#руны">¶</a>  Руны </h2>
@@ -165,14 +165,14 @@ dateCreated: 2024-09-21T14:58:53.955Z
 </thead>
 <tbody>
 <tr>
-<td><center><img src="/sacrifice_rune1.png" style="width:64px"></center></td>
+<td><center><img src="/roles/antagonists/sacrifice_rune1.png" style="width:64px"></center></td>
 <td>Руна Преподнесения</td>
 <td>Мгновенно превращает обычного члена экипажа в культиста, исцеляя его на 75% от их физического и ожогового урона, для чего требуется два культиста вокруг руны. Члена экипажа с имплантом защиты разума нельзя перевоплотить, можно только принести в жертву, для чего нужно 3 культиста, которые встанут вокруг руны (также можно использовать конструкции). - <strong>Поэтому рекомендуется быстро прикончить членов охраны, прежде чем их коммуникаторы или датчики на костюме смогут выдать вас!</strong> Если цель мертва, не подходит для перевоплощения или является требуемой целью для жертвоприношения, вместо этого она будет принесена в жертву, исчезнет, а на её месте появится осколок камня души, который можно использовать для питания конструкта.</td>
 <td><center> 1 чтобы принести в жертву мёртвые цели, 2 чтобы преобразовать, 3 чтобы принести в жертву цель культа или живые цели </center></td>
 <td>Mah'weyh pleggh at e'ntrath!</td>
 </tr>
 <tr>
-<td><center><img src="/empowerrune1.png" style="width:64px"></center></td>
+<td><center><img src="/roles/antagonists/empowerrune1.png" style="width:64px"></center></td>
 <td>Руна Могущества</td>
 <td>Позволяет культистам подготавливать заклинания магии крови.</td>
 <td><center> 1 </center></td>
@@ -186,42 +186,42 @@ dateCreated: 2024-09-21T14:58:53.955Z
 <td>Отсутствует</td>
 </tr>
 <tr>
-<td><center><img src="/teleport1.png" style="width:64px"></center></td>
+<td><center><img src="/roles/antagonists/teleport1.png" style="width:64px"></center></td>
 <td>Руна Телепортации</td>
 <td>Эта руна при использовании переносит всё, что находится на ней, к другой руне телепортации. Создание руны телепорта позволит вам установить для нее тег.</td>
 <td><center> 1 </center></td>
 <td>Sas'so c'arta forbici!</td>
 </tr>
 <tr>
-<td><center><img src="/raisedead_rune1.png" style="width:64px"></center></td>
+<td><center><img src="/roles/antagonists/raisedead_rune1.png" style="width:64px"></center></td>
 <td>Руна Воскрешения</td>
 <td>Каждый раз, когда кого-то приносят в жертву на Руне Преподнесения, этой руне добавляется один (глобальный) заряд. Размещение трупа культиста на руне и её активация вернет его к жизни, расходуя при этом три заряда. Первое возрождение бесплатное, поэтому используйте его экономно.</td>
 <td><center> 1 </center></td>
 <td>Pasnar val'keriam usinar. Savrae ines amutan. Yam'toth remium il'tarat!</td>
 </tr>
 <tr>
-<td><center><img src="/wall_rune1.png" style="width:64px"></center></td>
+<td><center><img src="/roles/antagonists/wall_rune1.png" style="width:64px"></center></td>
 <td>Руна Барьера</td>
 <td>При активации на 5 минут создаёт невидимую стену, блокирующую проход. Может быть повторно активирована, чтобы отменить заклинание. Наносит 2 единицы физического урона как для вызова, так и для деактивации. Имеет 100 здоровья и руна уничтожается при разрушении барьера.</td>
 <td><center> 1 </center></td>
 <td>Khari'd! Eske'te tannin!</td>
 </tr>
 <tr>
-<td><center><img src="/summon_rune1.png" style="width:64px"></center></td>
+<td><center><img src="/roles/antagonists/summon_rune1.png" style="width:64px"></center></td>
 <td>Руна Призыва</td>
 <td>Эта руна позволяет мгновенно призвать к руне любого живого культиста. Она может призвать культистов практически из любого места! Не работает со скованными культистами, которые пристегнуты или которых тянут.</td>
 <td><center> 2 </center></td>
 <td>N'ath reth sh'yro eth d'rekkathnor!</td>
 </tr>
 <tr>
-<td><center><img src="/boil_rune1.png" style="width:64px"></center></td>
+<td><center><img src="/roles/antagonists/boil_rune1.png" style="width:64px"></center></td>
 <td>Руна Кипящей Крови</td>
 <td>При активации отнимает у призывателей некоторое количество здоровья, чтобы отправить три разрушительных импульса любому не-культисту в пределах 7 клеток, в результате чего 25/50/75 урона распределяются поровну между физическим и ожоговым. Когда эффект закончится, руна ненадолго подожжет все, что находится вокруг нее.</td>
 <td><center> 3 </center></td>
 <td>Dedo ol'btoh!</td>
 </tr>
 <tr>
-<td><center><img src="/rune_large1.png" style="width:64px"></center></td>
+<td><center><img src="/roles/antagonists/rune_large1.png" style="width:64px"></center></td>
 <td>Ритуал Пространственного Разрыва</td>
 <td>Эта руна разрушает преграды между измерениями, вызывая Геометра. Для ритуала нужно свободное место 3x3. Чтобы начать рисовать, запрошенная цель уже должна быть принесена в жертву. Начало рисования этой руны создает вокруг заклинателя слабое силовое поле и вся станция узнаёт, где нарисована руна. Заклинатель должен быть защищен в течение 45 секунд до его завершения.  <br>  <br>После того, как она нарисована, на руне должны встать 10 культистов, которые нажатием по ней могут запустить процесс призыва Нар'Си.</td>
 <td><center> 10 </center></td>
@@ -242,37 +242,37 @@ dateCreated: 2024-09-21T14:58:53.955Z
 </thead>
 <tbody>
 <tr>
-<td><center><img src="/altarс.png" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/altarс.png" style="width: 64px;"></center></td>
 <td>Алтарь</td>
 <td>Кровавый алтарь, посвященный Нар'Си. Используя его, вы можете создать <strong>Жуткий Точильный Камень</strong> для заточки вашего оружия или <strong>Оболочку Конструкта</strong>. После создания одного предмета на алтаре ему требуется 4 минуты для перезарядки.</td>
 <td>3 единицы рунического металла</td>
 </tr>
 <tr>
-<td><center><img src="/forgeс.gif" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/forgeс.gif" style="width: 64px;"></center></td>
 <td>Кузница</td>
 <td>Кузница в которой изготавливается нечестивое оружие, используемое армиями Нар'Си. Используя его, вы можете создать <strong>Бронированную Мантию</strong>, которая создает вокруг пользователя мощный щит, блокирующий любые три атаки, <strong>Одеяние Флагелланта</strong>, которое делает вас быстрее, но за счет увеличения получаемого урона на 45%, <strong>Зеркальный Щит</strong>, который может блокировать 50% атак или служить мощным метательным оружием, которое оглушает при ударе и возвращается к вам после успешного попадания, и <strong>Жуткий Клинок.</strong> После создания одного предмета в кузнице требуется 4 минуты для перезарядки.</td>
 <td>3 единицы рунического металла</td>
 </tr>
 <tr>
-<td><center><img src="/pylonс.gif" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/pylonс.gif" style="width: 64px;"></center></td>
 <td>Пилон</td>
 <td>Парящий кристалл, который медленно лечит верных прислужников Нар'Си. Также медленно превращает окружающий пол в гравированный пол, который позволяет значительно ускорить начертание рун.</td>
 <td>4 единицы рунического металла</td>
 </tr>
 <tr>
-<td><center><img src="/archivesс.png" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/archivesс.png" style="width: 64px;"></center></td>
 <td>Архивы</td>
 <td>Стол, заваленный тайными рукописями и книгами на неизвестных языках. Глядя на текст, у вас проходят мурашки по коже. Используя его, вы можете создать <strong>Повязку Зилота</strong>, которая позволяет вам видеть в темноте, дает вам медицинский интерфейс и защищает от вспышек, <strong>Преобразователь Покрова</strong> (из набора Идущего по Покрову) - телепорт на 4 использования, который телепортирует вас (и все, что вы тащите) вперед на среднее расстояние (с некоторой случайностью), <strong>Факел Пустоты</strong> (также из набора Идущего по Покрову), который позволяет телепортировать небольшие предметы к другим культистам, или <strong>Сфера Проклятия</strong>, которое при использовании задерживает спасательный шаттл на 2 минуты. Вы можете использовать только определенное количество проклятий шаттла каждый раунд. После создания одного предмета в архиве ему нужно 4 минуты на перезарядку.</td>
 <td>3 единицы рунического металла</td>
 </tr>
 <tr>
-<td><center><img src="/runed_airlockс.png" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/runed_airlockс.png" style="width: 64px;"></center></td>
 <td>Руническая дверь</td>
 <td>Возводит Рунический Шлюз. Открывается только для культистов. Полезно для безопасности своей базы, но даст знак того, что на борту есть культ. Не-культисты, пытающиеся использовать эти шлюзы, оглушаются и отбрасываются назад.</td>
 <td>1 единица рунического металла</td>
 </tr>
 <tr>
-<td><center><img src="/cultgirder.png" style="width: 64px;"></center></td>
+<td><center><img src="/roles/antagonists/cultgirder.png" style="width: 64px;"></center></td>
 <td>Руническая балка</td>
 <td>Балка, которая может быть мгновенно разобрана вашим ритуальным кинжалом.</td>
 <td>1 единица рунического металла</td>
@@ -292,7 +292,7 @@ dateCreated: 2024-09-21T14:58:53.955Z
 <h2 style="text-align: center; color: white" id="осколки-камней-душ" class="toc-header"><a class="toc-anchor" href="#осколки-камней-душ">¶</a> Осколки камней душ</h2>
 <p>Осколки камней души (или просто камни душ) используются для хранения настоящих человеческих душ. Камень души может быть использован на мертвом или живом человеке в критическом состоянии (при условии, что душа все еще находится в теле), чтобы поглотить его душу в камень. После этого хозяин может вставит её в оболочку-конструкта и превратить в один из различных видов конструктов.</p>
 <hr>
-<center><img src="/artificer.png" style="width: 64px;"></center>
+<center><img src="/roles/antagonists/artificer.png" style="width: 64px;"></center>
 <center><p style="font-size: 20px; font-weight: bold"> Ремесленник </p></center>
 <ul>
 <li>HP: 50</li>
@@ -306,7 +306,7 @@ dateCreated: 2024-09-21T14:58:53.955Z
 <li><strong>Создать камень души</strong> - Это заклинание проникает в царство Нар-Си, вызывая один из легендарных фрагментов через время и пространство.</li>
 </ul>
 <hr>
-<center><img src="/wraith.png" style="width: 64px;"></center>
+<center><img src="/roles/antagonists/wraith.png" style="width: 64px;"></center>
 <center><p style="font-size: 20px; font-weight: bold"> Фантом </p></center>
 <ul>
 <li>HP: 65</li>
@@ -324,7 +324,7 @@ dateCreated: 2024-09-21T14:58:53.955Z
 <li><strong>Фазовый Сдвиг</strong> - Это заклинание позволяет проходить сквозь стены, подобно бесплотному полету волшебника.</li>
 </ul>
 <hr>
-<center><img src="/behemoth1.png" style="width: 64px;"></center>
+<center><img src="/roles/antagonists/behemoth1.png" style="width: 64px;"></center>
 <center><p style="font-size: 20px; font-weight: bold"> Джаггернаут </p></center>
 <ul>
 <li>HP: 150</li>
@@ -336,7 +336,7 @@ dateCreated: 2024-09-21T14:58:53.955Z
 <li><strong>Щит</strong> - Это заклинание создает временное силовое поле 3x1 для защиты себя и союзников от подавляющего огня.</li>
 </ul>
 <hr>
-<center><img src="/role/harvester_front.png" style="width: 64px;"></center>
+<center><img src="/roles/antagonists/harvester_front.png" style="width: 64px;"></center>
 <center><p style="font-size: 20px; font-weight: bold"> Жнец </p></center>
 <ul>
 <li>HP: 40</li>
@@ -357,7 +357,7 @@ dateCreated: 2024-09-21T14:58:53.955Z
   <p style="font-size: 40px"> Нар'Си </p>
 <img src="/narsie.gif" id="narsieGif" style="display: block;">
 <div class="overlay" id="overlay"></div>
-<img src="/narsie.gif" class="centered" id="narsieGifCentered">
+<img src="/roles/antagonists/narsie.gif" class="centered" id="narsieGifCentered">
 <p>Как только ритуал будет завершен, Нар'Си появится.</p>
 <p>Её разрушительная сила не имеет себе равных, она искажает сами стены, чтобы они соответствовали её образу.</p>
 <p>Мало что может бросить вызов абсолютной мощи Нар'Си.</p>
