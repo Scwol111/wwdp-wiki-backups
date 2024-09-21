@@ -2,7 +2,7 @@
 title: Paradox anomaly
 description: 
 published: true
-date: 2024-09-21T13:40:32.385Z
+date: 2024-09-21T20:27:52.281Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:37:18.078Z
@@ -48,4 +48,4 @@ The main objective for a Paradox Anomaly is either to assassinate the original, 
 - If your target is hard to reach and security is particularly bloodthirsty today, try framing them for a capital crime- then relax and sit back as security does all the hard work for you.
 - Keep track of any changes in your target's appearance. Your greatest strength is that you're indistinguishable from your target, but you lose that if their outfit is very clearly different from yours.
 - If the quiet approach fails, there's always explosives. Security can't identify giblets!
-- 
+
