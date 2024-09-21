@@ -2,7 +2,7 @@
 title: Псионики
 description: Руководство, которое поможет вам познать мощь сознания. Псионика, псионики.
 published: true
-date: 2024-09-21T11:10:31.475Z
+date: 2024-09-21T11:14:08.028Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:01.604Z
@@ -167,30 +167,25 @@ dateCreated: 2024-09-10T19:08:01.604Z
   <table class="rnd">
     <thead>
       <tr>
-        <th>Изображение</th>
-        <th>Название</th>
+        <th>Предмет</th>
         <th>Описание</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="background-color: #933bb7 !important;"><img src="/guides/psionics/tinfoil_hat.png"></td>
-        <td><b>Шапка из фольги</b></td>
+        <td style="background-color: #933bb7 !important;"><img src="/guides/psionics/tinfoil_hat.png"><b><br>Шапка из фольги</b></td>
         <td>Самая простая псионическая изоляция. Её можно создать в меню строительства с использованием одной стали и ваших мышц. Единственным её недостатком является то, что она имеет высокий шанс сгореть, если слишком сильные.</td>
       </tr>
       <tr>
-        <td style="background-color: #7d28a0 !important;"><img src="/guides/psionics/insulativeskullcap.png"></td>
-        <td><b>Изоляционный череп</b></td>
+        <td style="background-color: #7d28a0 !important;"><img src="/guides/psionics/insulativeskullcap.png"><b><br>Изоляционный череп</b></td>
         <td>Лучшая псионическая изоляция. Он не разрушается от сильных разрядов, но может поджечь вас. Этот в основном встречается у СБ.</td>
       </tr>
       <tr>
-        <td style="background-color: #933bb7 !important;"><img src="/guides/psionics/insulativeheadcage.png"></td>
-        <td><b>Изоляционный головной убор</b></td>
+        <td style="background-color: #933bb7 !important;"><img src="/guides/psionics/insulativeheadcage.png"><b><br>Изоляционный головной убор</b></td>
         <td>Его можно найти в шкафах СБ. Умеренная защита от псиоников.</td>
       </tr>
       <tr>
-        <td style="background-color: #7d28a0 !important;"><img src="/guides/psionics/pill.png"></td>
-        <td><b>Таблетка криптобиолина</b></td>
+        <td style="background-color: #7d28a0 !important;"><img src="/guides/psionics/pill.png"><b><br>Таблетка криптобиолина</b></td>
         <td>Обычно её нельзя найти на станции, но она есть у <a href="/roles/nuclearoperative">Ядерных Оперативников</a>. Она действует достаточно долго, и делает пользователя псионически изолированным. Горе тому оперативнику, который забывает съесть таблетку.</td>
       </tr>
     </tbody>
