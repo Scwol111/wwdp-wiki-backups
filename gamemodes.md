@@ -1,11 +1,11 @@
 ---
 title: Игровые режимы
 description: 
-published: false
-date: 2024-09-04T14:40:01.913Z
+published: true
+date: 2024-09-21T20:10:56.152Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-25T11:19:46.773Z
+dateCreated: 2024-09-10T19:07:34.643Z
 ---
 
 <div><h1 id="игровые-режимы"><a href="#игровые-режимы"></a> Игровые режимы</h1><div>
