@@ -2,7 +2,7 @@
 title: Beginner's Guide
 description: 
 published: true
-date: 2024-09-21T20:23:49.933Z
+date: 2024-09-21T20:56:09.801Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:47.923Z
@@ -10,10 +10,10 @@ dateCreated: 2024-09-10T19:07:47.923Z
 
 <div>
 <p>Welcome to Space Station 14! You and your teammates have just started your shift aboard the <a href="https://ss14.su/maps" class="is-external-link">space station</a> <a href="/backstory#nanotrasen" class="is-internal-link is-valid-page">NanoTrasen</a>. Each of you has <a href="/roles" class="is-internal-link is-valid-page">your own job</a>, and we hope you will enjoy the experience.</p>
-<p>Please make sure you understand the <a href="/rules" class="is-internal-link is-valid-page">Rules</a>, which you can review at any time by pressing Escape and selecting the "Rules" menu item. We also strongly recommend that you familiarize yourself with the <a href="/guides/basics/interactions" class="is-internal-link is-invalid-page">interaction guide</a> in the game. To facilitate communication in the game, a specific <a href="/guides/terminology" class="is-internal-link is-valid-page">slang vocabulary</a> is used.</p>
+<p>Please make sure you understand the <a href="/rules" class="is-internal-link is-valid-page">Rules</a>, which you can review at any time by pressing Escape and selecting the "Rules" menu item. We also strongly recommend that you familiarize yourself with the <a href="/guides/interactions" class="is-internal-link is-invalid-page">interaction guide</a> in the game. To facilitate communication in the game, a specific <a href="/guides/terminology" class="is-internal-link is-valid-page">slang vocabulary</a> is used.</p>
 <p>If you have any questions:</p>
 <ol>
-   <li>Study the <a href="/guides/basics/interactions" class="is-internal-link is-invalid-page">interactions</a>.</li>
+   <li>Study the <a href="/guides/interactions" class="is-internal-link is-invalid-page">interactions</a>.</li>
    <li>Refer to the <a href="/roles" class="is-internal-link is-valid-page">wiki articles</a> if your question is related to understanding a particular role.</li>
    <li>Consult with your colleagues using the <a href="/guides/communication" class="is-internal-link is-valid-page">radio</a> or ask in <a href="https://discord.gg/avwXNAsBgu" class="is-external-link">Discord</a>.</li>
    <li>Ask the <a href="/administration" class="is-internal-link is-valid-page">administration</a> by pressing F1 and submitting your question.</li>
