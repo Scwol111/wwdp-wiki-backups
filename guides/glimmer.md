@@ -2,7 +2,7 @@
 title: Мерцание
 description: 
 published: true
-date: 2024-09-21T17:56:28.384Z
+date: 2024-09-21T18:00:36.755Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T17:56:28.384Z
@@ -16,12 +16,12 @@ dateCreated: 2024-09-21T17:56:28.384Z
 
 ## <center>Уровни отслеживания</center>
 
-<div style="display: flex;">
-  <img src="/guides/sophicgrammateus.png" class="img1" alt="Sophic scribe" width="96" style="margin-right: 10px;">
+<div style="display: flex; align-items: center;">
+  <img class="img1"src="/guides/sophicgrammateus.png" alt="Sophic scribe" style="margin-right: 10px;">
   <div>
-    <p>Sophic scribe, также известная как София, отслеживает глиммер для команды. Все, что требуется команде, желающей узнать текущий уровень глиммер, - это взаимодействовать с ней.
-Текущие уровни мерцания также периодически отображаются по радио.</p>
-    <p>Current glimmer levels are also periodically broadcast over the radio.</p>
-    <p>This allows anyone to keep track of the current state of glimmer levels and not turn a blind eye to potential risks.</p>
+Sophic scribe, также известный как София, отслеживает мерцание для экипажа. Все, что требуется от экипажа, желающего узнать текущий уровень мерцания, - это взаимодействовать с ней.
+Текущий уровень мерцания также периодически отображается на радио.
+
+Это позволяет любому человеку следить за текущим состоянием уровня мерцания и не быть слепым к потенциальным рискам.
   </div>
 </div>
