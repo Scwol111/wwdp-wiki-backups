@@ -2,7 +2,7 @@
 title: Псионики
 description: Руководство, которое поможет вам познать мощь сознания. Псионика, псионики.
 published: true
-date: 2024-09-21T11:16:47.503Z
+date: 2024-09-21T15:14:52.398Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:01.604Z
@@ -151,7 +151,7 @@ dateCreated: 2024-09-10T19:08:01.604Z
         <td><img src="/guides/psionics/psionicinvisibility.png" ><br>Псионическая невидимость</td>
       </tr>
       <tr>
-        <td style="background-color: #933bb7 !important;"><img src="/guides/psionics/insulatedgloves.png"><b>Неизолирующие перчатки</b></td>
+        <td style="background-color: #933bb7 !important;"><img src="/guides/psionics/insulatedgloves.png"><b><br>Неизолирующие перчатки</b></td>
         <td>Хлипкие рабочие перчатки из синтетического каучука, выполненные в унылом желтом цвете. Они не имеют электрической изоляции и не защищают от ударов током.</td>
         <td><img src="/guides/psionics/noosphericzap.png"><br>Ноосферный Разряд</td>
       </tr>
