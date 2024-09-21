@@ -2,13 +2,13 @@
 title: Космический Закон
 description: Правила нахождения персонала на станции. КЗ, Космический закон.
 published: true
-date: 2024-09-11T19:02:16.252Z
+date: 2024-09-21T20:25:58.014Z
 tags: сб
 editor: markdown
 dateCreated: 2024-09-10T19:07:45.005Z
 ---
 
-<div><h1 id="космический-закон" class="toc-header"><a class="toc-anchor" href="#космический-закон">¶</a> Космический Закон</h1>
+<center><div><h1 id="космический-закон" class="toc-header"><a class="toc-anchor" href="#космический-закон">¶</a> Космический Закон</h1>
 <div class="table-container"><table style="background-color:transparent;border-bottom:5px;border-left:5px;border-right:5px;border-top:5px;">
     <tbody>
       <tr>
@@ -18,7 +18,7 @@ dateCreated: 2024-09-10T19:07:45.005Z
         <td><strong>Космический Закон — это внутриигровой закон, а не актуальные </strong><a href="/rules" class="is-internal-link is-valid-page"><strong>правила сервера</strong></a><strong>. Правила сервера всегда превыше Космического Закона.</strong></td>
       </tr>
     </tbody>
-</table></div><div>
+  </table></div><div></center>
 
 </div><p><b>Космический закон</b> - это свод правил и положений, действующий на объектах корпорации <a href="/backstory" class="is-internal-link is-valid-page">Nanotrasen</a>, и за соблюдением которого следят <a href="/roles/officer" class="is-internal-link is-valid-page">офицеры службы безопасности</a>. Космический закон применяется ко всем рангам и должностям на станции, от ассистентов до капитана. Все равны пред законом и в конечном итоге подчиняются ему.</p>
 <p>Помимо Космического закона, на объектах корпорации действует <a href="/guides/jurisprudence" class="is-internal-link is-valid-page">Основное Право Членов Корпорации</a>, что определяет основные права каждого члена корпорации NanoTrasen. ОПЧК является главенствующим законотворческим сборником, превосходя в этом собрание космических законов, так как они, в основе своей, представляют сборник административных и уголовных правонарушений.</p>
