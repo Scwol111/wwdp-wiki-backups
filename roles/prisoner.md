@@ -2,7 +2,7 @@
 title: Заключенный
 description: 
 published: true
-date: 2024-09-22T09:40:01.627Z
+date: 2024-09-22T18:21:42.673Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T11:26:32.768Z
@@ -65,3 +65,5 @@ dateCreated: 2024-09-21T11:26:32.768Z
 <li>На стенках малевать.</li>
 <li>Я не буду добавлять ещё вариантов, слишком занят подготовкой побега в карго.</li>
 </ul>
+
+<div class="table"></div>
