@@ -2,7 +2,7 @@
 title: Администрация
 description: Стафф, педали, команда проекта.
 published: true
-date: 2024-09-22T17:18:25.608Z
+date: 2024-09-22T17:19:03.174Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:30.491Z
@@ -62,7 +62,7 @@ dateCreated: 2024-09-10T19:07:30.491Z
 <li><font color="#ffba00"><strong>WWDP Maintainers</strong></font> — Кодер проекта, имеет больший доступ в репозиторий проекта, а также кнопки на игровом сервере.</li>
 <li><font color="#0079db"><strong>Pedal</strong></font> — Педаль сервера. Обозначает общую принадлежность к команде педалирования без уточнения сервера.</li>
 <li><font color="#0f93ff"><strong>Moderators</strong></font> — Модератор дискорд-сервера, следит за соблюдением его правил.</li>
-<li><strong>White Dream Headstaff</strong> — Член главной администрации или глава одного из отделов. Занимается набором людей в свой отдел.<br> Чаще всего имеет приписку Senior к своему отделу, например: <font color="#a715e6"><strong>Senior Wikiwriter</strong></font></li>
+<li><strong>White Dream Headstaff</strong> — Член главной администрации или глава одного из отделов. Занимается набором людей в свой отдел.<br> Чаще всего имеет приписку Senior к своему отделу, например: <font color="#a715e6"><strong>Senior Wikiwriter</strong></font>.</li>
 <li><strong><font color="#ce3c3e">WYRM Headstaff</font></strong> — Глава сервера WYRM, отвечает за набор педалей и стаффа на англоязычный сервер.</li>
 <li><font color="#8699ff"><strong>Harpy Supreme</strong></font> — Глава всего проекта WWDP.</li>
 </ul>
