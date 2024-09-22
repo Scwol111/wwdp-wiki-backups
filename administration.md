@@ -2,7 +2,7 @@
 title: Администрация
 description: Стафф, педали, команда проекта.
 published: true
-date: 2024-09-22T17:15:24.544Z
+date: 2024-09-22T17:16:47.728Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:30.491Z
@@ -52,21 +52,19 @@ dateCreated: 2024-09-10T19:07:30.491Z
 </ul>
 <h2 id="ранги-членов-команды-giedi-prime-14-в-discord" class="toc-header"><a class="toc-anchor" href="#ранги-членов-команды-giedi-prime-14-в-discord">¶</a> Роли членов команды WWDP в <a href="https://discord.gg/avwXNAsBgu" class="is-external-link">Discord</a></h2>
 <ul>
-<li><font color="#cdb1ff"><strong>Veteran</strong></font> - Бывший представитель педального состава, который ушел<br>
-на покой без косяков.</li>
-<li><strong>White Dream Staff</strong> - Часть стаффа, помогает проекту или развивает его, чаще всего на чистом энтузиазме.</li>
-<li><font color="#ba41ee"><strong>Wikiwriters</strong></font> - Тот, кто пишет статьи и гайды для других игроков.</li>
-<li><font color="cf7ccf"><strong>Lorewriters</strong></font> - Пишет лор, пытается объяснить что такое блюспейс.</li>
-<li><strong><font color="22d694">Spriters</font></strong> - Рисует спрайты, делая игру красивой, иногда получая за это деньги.</li>
-<li><font color="#3b8c5d"><strong>Mapper</strong></font> - Делает новые карты, переделывают старые, чтобы вам не наскучило играть на одной карте "BoxStation".</li>
-<li><font color="ffdba8"><strong>WWDP Contributor</strong></font> - Неофициальный кодер проекта, который предлагает свои ПРы в репозиторий проекта. Хочет получать копеечку с системы баунти.</li>
-<li><font color="#ffba00"><strong>WWDP Maintainers </strong></font> - Кодер проекта, имеет больше доступа в репозиторий проекта, а так же кнопки на игровом сервере.</li>
-<li><font color="#0079db"><strong>Pedal</strong></font> - Педаль сервера. Обозначает общую принадлежность к команде<br>
-педаляции без уточнения сервера.</li>
-<li><font color="#0f93ff"><strong>Moderators</strong></font> - Модератор дискорд сервера, следит за соблюдением его правил.</li>
-<li><strong>White Dream Headstaff</strong> - Член главной администрации или глава одного из отделов. <br>Занимается набором людей в свой отдел. Чаще всего имеет приписку Senior к своему отделу,<br> например: <font color="#a715e6"><strong>Senior Wikiwriter</strong></font></li>
-<li><strong><font color="#ce3c3e">WYRM Headstaff</font></strong> - Глава сервера WYRM, отвечает за набор педалей и стаффа на англоязычный сервер.</li>
-<li><font color="#8699ff"><strong>Harpy Supreme</strong></font> - Глава всего проекта WWDP.</li>
+<li><font color="#cdb1ff"><strong>Veteran</strong></font> — Бывший представитель педального состава, который ушёл на покой без косяков.</li>
+<li><strong>White Dream Staff</strong> — Часть стаффа, помогающая проекту или развивающая его, чаще всего на чистом энтузиазме.</li>
+<li><font color="#ba41ee"><strong>Wikiwriters</strong></font> — Те, кто пишет статьи и гайды для других игроков.</li>
+<li><font color="cf7ccf"><strong>Lorewriters</strong></font> — Пишут лор, пытаются объяснить, что такое блюспейс.</li>
+<li><strong><font color="22d694">Spriters</font></strong> — Рисуют спрайты, делая игру красивой, иногда получая за это деньги.</li>
+<li><font color="#3b8c5d"><strong>Mapper</strong></font> — Делает новые карты, переделывает старые, чтобы вам не наскучило играть на одной карте "BoxStation".</li>
+<li><font color="ffdba8"><strong>WWDP Contributor</strong></font> — Неофициальный кодер проекта, который предлагает свои ПРы в репозиторий проекта. Хочет получать копеечку с системы баунти.</li>
+<li><font color="#ffba00"><strong>WWDP Maintainers</strong></font> — Кодер проекта, имеет больший доступ в репозиторий проекта, а также кнопки на игровом сервере.</li>
+<li><font color="#0079db"><strong>Pedal</strong></font> — Педаль сервера. Обозначает общую принадлежность к команде педалирования без уточнения сервера.</li>
+<li><font color="#0f93ff"><strong>Moderators</strong></font> — Модератор дискорд-сервера, следит за соблюдением его правил.</li>
+<li><strong>White Dream Headstaff</strong> — Член главной администрации или глава одного из отделов. Занимается набором людей в свой отдел. Чаще всего имеет приписку Senior к своему отделу, например: <font color="#a715e6"><strong>Senior Wikiwriter</strong></font></li>
+<li><strong><font color="#ce3c3e">WYRM Headstaff</font></strong> — Глава сервера WYRM, отвечает за набор педалей и стаффа на англоязычный сервер.</li>
+<li><font color="#8699ff"><strong>Harpy Supreme</strong></font> — Глава всего проекта WWDP.</li>
 </ul>
 <h2 id="как-мне-связаться-с-администрацией-сервера" class="toc-header"><a class="toc-anchor" href="#как-мне-связаться-с-администрацией-сервера">¶</a> Как мне связаться с администрацией сервера?</h2>
 <p>Основной способ связи с кем-то из администраторского состава - это<br>
