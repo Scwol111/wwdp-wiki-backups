@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-09-21T14:23:51.488Z
+date: 2024-09-22T15:12:51.936Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -181,6 +181,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div>Средне</div>
   <div><a href="/roles/loader">Грузчик</a><a href="/roles/loader"><img src="/roles/loader.png" /></a></div>
   <div><div>Зачем-то тащит грузы к отделам вручную хотя есть почта. Ну, а так - обычный работяга, который начнёт строить линкор, если его ничем не занять.</div></div>
+  <div>Легко</div>
+  <div><a href="/roles/courier">Курьер</a><a href="/roles/courier"><img src="/roles/courier.png" /></a></div>
+  <div><div>Доставляет почту станции <s>в бар</s>. Постоянно напоминает людям, что у них есть почта.</div></div>
   <div>Легко</div>
 </div>
 
