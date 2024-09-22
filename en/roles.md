@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-09-21T14:50:44.232Z
+date: 2024-09-22T15:14:58.397Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -178,6 +178,9 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   <div>Medium</div>
   <div><a href="/roles/loader">Loader</a><a href="/roles/loader"><img src="/roles/loader.png" /></a></div>
   <div><div>For some reason he carries cargo to departments manually, although there is mail. Otherwise - just an ordinary hard worker who will start building a battleship if he's not busy.</div></div>
+  <div>Easy</div>
+  <div><a href="/roles/courier">Courier</a><a href="/roles/courier"><img src="/roles/courier.png" /></a></div>
+  <div><div>Delivers the station's mail <s>to the bar</s>. Constantly reminds people that they have mail.</div></div>
   <div>Easy</div>
 </div>
 
