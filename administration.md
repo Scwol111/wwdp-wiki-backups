@@ -1,11 +1,11 @@
 ---
 title: Администрация
-description: 
-published: false
-date: 2024-08-26T01:32:04.446Z
+description: Стафф, педали, команда проекта.
+published: true
+date: 2024-09-22T16:29:20.407Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-25T11:20:53.103Z
+dateCreated: 2024-09-10T19:07:30.491Z
 ---
 
 <div><div> Педали, администрация, админы - группа энтузиастов, следящих на порядком
@@ -45,30 +45,23 @@ dateCreated: 2024-08-25T11:20:53.103Z
 <li><strong>Eventmaster</strong> - представитель творческого ответвления. Занимается<br>
 проведением ивентов и обладает доступом к щитспавну.</li>
 <li><strong>Mapper</strong> - представитель мапперского ответвления. Имеет кнопки<br>
-только на техническом сервере Closed Party.</li>
-<li><strong>Викивод, Гайдодел</strong> - те, кто пишут статьи и гайды для других<br>
+только на техническом сервере Ghoul.</li>
+<li><strong>Wistrong> - те, кто пишут статьи и гайды для других<br>
 игроков. Имеют расширенный набор кнопок спавна на тестовом сервере.</li>
-<li><strong>Sosaki Robuster</strong> - чемпион турнира бывшего вайт-лист серера<br>
-Sosaki с наградными кнопками. Равносилен Адмиралу, но не имеет права<br>
-педалить и разбирать ситуации.</li>
 <li><strong>Architector, CoderBus</strong> - представитель кодеров, главный кодер или<br>
 сам хост. Обладает абсолютным набором кнопок и занимается<br>
 разработкой игры.</li>
 </ul>
-<h2 id="ранги-членов-команды-giedi-prime-14-в-discord" class="toc-header"><a class="toc-anchor" href="#ранги-членов-команды-giedi-prime-14-в-discord">¶</a> Ранги членов команды Giedi Prime 14 в <a href="https://discord.gg/gprime/" class="is-external-link">Discord</a></h2>
+<h2 id="ранги-членов-команды-giedi-prime-14-в-discord" class="toc-header"><a class="toc-anchor" href="#ранги-членов-команды-giedi-prime-14-в-discord">¶</a> Ранги членов команды WWDP в <a href="https://discord.gg/avwXNAsBgu" class="is-external-link">Discord</a></h2>
 <ul>
-<li><strong>Резидент</strong>, <strong>Робастер</strong>, <strong>Клоун на стероидах</strong>, <strong>Котик</strong>, <strong>Митиор</strong>, <strong>DJ</strong>, <strong>5000</strong> - Донатер. Подробнее <a href="https://boosty.to/gprime" class="is-external-link">здесь</a></li>
 <li><font color="#cdb1ff"><strong>Veteran</strong></font> - Бывший представитель педального состава, который ушел<br>
 на покой без косяков.</li>
-<li><font color="#e67e22"><strong>Sosaki Robuster</strong></font> - Чемпион турнира на Sosaki в единственном экземпляре.</li>
-<li><font color="#ba41ee"><strong>Викиводы</strong></font><strong>, <font color="#1abc9c">Гайдоделы</font>, <font color="#ec9568">рисоваторы</font>,<br>
-<font color="#ce3c3e">контентмейкеры</font></strong> - рядовые игроки, которые занимаются<br>
+<li><font color="#ba41ee"><strong>Wikiwriters</strong></font><strong>, <font color="#ec9568">Spriteman</font>,<br>
+<font color="#ce3c3e">Mediateam</font>, <font color="#5e5cff"><strong>Mapper</strong></font></strong> - рядовые игроки, которые занимаются<br>
 творческой деятельностью для сервера на собственном энтузиазме.</li>
-<li><font color="#5e5cff"><strong>SS14 Mapper</strong></font> - Маппер сервера, отвечают за создание и поддержку карт,<br>
-а так же слушает жалобы, когда в очередной раз удалили заброшенный бар.</li>
 <li><font color="#ffb243"><strong>SS14 Coderbus</strong></font> - Один из кодеров проекта, который хочет копеечку за труды.</li>
 <li><font color="#b3e6ab"><strong>Micropedal</strong></font> - Микропедаль сервера.             Обозначает общую принадлежность к команде педаляции без уточнения сервера.</li>
-<li><font color="#2c6845"><strong>SS14 Pedal</strong></font> - Педаль сервера. Обозначает общую принадлежность к команде<br>
+<li><font color="#2c6845"><strong>Pedal</strong></font> - Педаль сервера. Обозначает общую принадлежность к команде<br>
 педаляции без уточнения сервера.</li>
 <li><font color="#93b19a"><strong>Commander</strong></font> - Члены главной администрации, отвечают за набор, обучение и<br>
 снятие с педалей кнопок.</li>
