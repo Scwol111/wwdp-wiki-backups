@@ -2,7 +2,7 @@
 title: Заключенный
 description: 
 published: true
-date: 2024-09-21T12:15:28.783Z
+date: 2024-09-22T09:38:03.475Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T11:26:32.768Z
@@ -14,7 +14,7 @@ dateCreated: 2024-09-21T11:26:32.768Z
 
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport serv">
-    <div class="title serv"><a href="/roles/command" class="is-internal-link is-valid-page">Сервисный отдел</a></div>
+    <div class="title serv"><a href="/roles/servicedepartment" class="is-internal-link is-valid-page">Сервисный отдел</a></div>
     <div>
       <div><div><img src="/roles/prisoner.png"></div></div>
       <div><div>
