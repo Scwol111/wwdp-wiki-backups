@@ -2,7 +2,7 @@
 title: Заключенный
 description: 
 published: true
-date: 2024-09-22T18:21:42.673Z
+date: 2024-09-22T18:22:13.946Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T11:26:32.768Z
@@ -66,4 +66,4 @@ dateCreated: 2024-09-21T11:26:32.768Z
 <li>Я не буду добавлять ещё вариантов, слишком занят подготовкой побега в карго.</li>
 </ul>
 
-<div class="table"></div>
+<b><div class="table"></div></b>
