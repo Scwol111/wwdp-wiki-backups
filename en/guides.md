@@ -2,7 +2,7 @@
 title: Guides
 description: 
 published: true
-date: 2024-09-21T19:02:36.044Z
+date: 2024-09-22T14:19:50.545Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-11T18:34:54.507Z
@@ -38,8 +38,8 @@ dateCreated: 2024-09-11T18:34:54.507Z
       <p>This guide will help you understand the different types of armor and suits.</p>
 			<a href="/guides/handmadeweapons"><img src="/guides/arbalet111.png" alt="arbalet111.png" />Homemade Weapons</a>
       <p>This guide will help you understand homemade weapons.</p>
-      <a href="/guides/panel"><img src="/guides/donat_panel.png" alt="arbalet111.png" />Donate Panel</a>
-      <p>This guide will show you what goods can be purchased on the panel.</p>
+      <!--<a href="/guides/panel"><img src="/guides/donat_panel.png" alt="arbalet111.png" />Donate Panel</a>
+      <p>This guide will show you what goods can be purchased on the panel.</p>-->
       <!--<a href="/guides/local-hosting"><img src="/guides/basics/local-hosting/screen.png" alt="screen.png" />Running a local server</a>
       <p>This guide will help you launch a build of our server on your computer!</p>-->
     </div>
