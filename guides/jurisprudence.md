@@ -2,7 +2,7 @@
 title: Юриспруденция
 description: Руководство по юридическим моментам. ОПЧК. Основное право членов корпорации.
 published: true
-date: 2024-09-22T14:12:01.624Z
+date: 2024-09-22T14:14:58.510Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T14:12:01.624Z
@@ -14,7 +14,7 @@ dateCreated: 2024-09-22T14:12:01.624Z
 
 </div><h2 id="опчк-основное-право-членов-корпорации" class="toc-header"><a class="toc-anchor" href="#опчк-основное-право-членов-корпорации">¶</a> 
   <div class="titleBox">
-    <img src="/lawbook.png" style="height: 64px; margin-bottom: 8px;">
+    <img src="/guides/lawbook.png" style="height: 64px; margin-bottom: 8px;">
     <span style="margin-left:10px;">ОПЧК - Основное Право Членов Корпорации</span>
   </div>
 </h2><div>
