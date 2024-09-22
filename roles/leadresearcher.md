@@ -1,8 +1,8 @@
 ---
-title: Псионический Мантист
+title: Псионический Мантис
 description: 
 published: true
-date: 2024-09-22T09:25:43.554Z
+date: 2024-09-22T09:26:04.940Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T09:25:43.554Z
