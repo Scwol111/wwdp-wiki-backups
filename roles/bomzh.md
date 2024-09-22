@@ -2,7 +2,7 @@
 title: Бомж
 description: Космический бомж
 published: true
-date: 2024-09-21T14:13:13.496Z
+date: 2024-09-22T18:21:16.714Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:11.965Z
@@ -118,4 +118,4 @@ dateCreated: 2024-09-10T19:08:11.965Z
 <li>Соорудите себе место для ночлега и хранения всякого.</li>
 </ul>
 
-<div class="table"></div></div></template><template slot="comments"><div><comments></comments></div></template></page></div>
+<div class="table"></div>
