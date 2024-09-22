@@ -2,7 +2,7 @@
 title: Администрация
 description: Стафф, педали, команда проекта.
 published: true
-date: 2024-09-22T16:29:20.407Z
+date: 2024-09-22T17:15:24.544Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:30.491Z
@@ -15,8 +15,6 @@ dateCreated: 2024-09-10T19:07:30.491Z
 </div>
 <h2 id="педальные-ранги-в-игре" class="toc-header"><a class="toc-anchor" href="#педальные-ранги-в-игре"></a> Педальные ранги в игре</h2>
 <ul>
-<li><strong>Micropedal</strong> - Новичок в области администрирования, или просто<br>
-энтузиаст со свободным временем. Находится на попечении у администраторов с     более высокими возможностями, и почти не отличается от игрока.</li>
 <li><strong>Hound</strong> - начинающий администратор, ментор. Помогает советами по<br>
 игре, не имеет возможности забанить, но имеет тесную связь с<br>
 администрацией.</li>
@@ -46,28 +44,29 @@ dateCreated: 2024-09-10T19:07:30.491Z
 проведением ивентов и обладает доступом к щитспавну.</li>
 <li><strong>Mapper</strong> - представитель мапперского ответвления. Имеет кнопки<br>
 только на техническом сервере Ghoul.</li>
-<li><strong>Wistrong> - те, кто пишут статьи и гайды для других<br>
+<li><strong>Wikiwriters</strong> - те, кто пишут статьи и гайды для других<br>
 игроков. Имеют расширенный набор кнопок спавна на тестовом сервере.</li>
 <li><strong>Architector, CoderBus</strong> - представитель кодеров, главный кодер или<br>
 сам хост. Обладает абсолютным набором кнопок и занимается<br>
 разработкой игры.</li>
 </ul>
-<h2 id="ранги-членов-команды-giedi-prime-14-в-discord" class="toc-header"><a class="toc-anchor" href="#ранги-членов-команды-giedi-prime-14-в-discord">¶</a> Ранги членов команды WWDP в <a href="https://discord.gg/avwXNAsBgu" class="is-external-link">Discord</a></h2>
+<h2 id="ранги-членов-команды-giedi-prime-14-в-discord" class="toc-header"><a class="toc-anchor" href="#ранги-членов-команды-giedi-prime-14-в-discord">¶</a> Роли членов команды WWDP в <a href="https://discord.gg/avwXNAsBgu" class="is-external-link">Discord</a></h2>
 <ul>
 <li><font color="#cdb1ff"><strong>Veteran</strong></font> - Бывший представитель педального состава, который ушел<br>
 на покой без косяков.</li>
-<li><font color="#ba41ee"><strong>Wikiwriters</strong></font><strong>, <font color="#ec9568">Spriteman</font>,<br>
-<font color="#ce3c3e">Mediateam</font>, <font color="#5e5cff"><strong>Mapper</strong></font></strong> - рядовые игроки, которые занимаются<br>
-творческой деятельностью для сервера на собственном энтузиазме.</li>
-<li><font color="#ffb243"><strong>SS14 Coderbus</strong></font> - Один из кодеров проекта, который хочет копеечку за труды.</li>
-<li><font color="#b3e6ab"><strong>Micropedal</strong></font> - Микропедаль сервера.             Обозначает общую принадлежность к команде педаляции без уточнения сервера.</li>
-<li><font color="#2c6845"><strong>Pedal</strong></font> - Педаль сервера. Обозначает общую принадлежность к команде<br>
+<li><strong>White Dream Staff</strong> - Часть стаффа, помогает проекту или развивает его, чаще всего на чистом энтузиазме.</li>
+<li><font color="#ba41ee"><strong>Wikiwriters</strong></font> - Тот, кто пишет статьи и гайды для других игроков.</li>
+<li><font color="cf7ccf"><strong>Lorewriters</strong></font> - Пишет лор, пытается объяснить что такое блюспейс.</li>
+<li><strong><font color="22d694">Spriters</font></strong> - Рисует спрайты, делая игру красивой, иногда получая за это деньги.</li>
+<li><font color="#3b8c5d"><strong>Mapper</strong></font> - Делает новые карты, переделывают старые, чтобы вам не наскучило играть на одной карте "BoxStation".</li>
+<li><font color="ffdba8"><strong>WWDP Contributor</strong></font> - Неофициальный кодер проекта, который предлагает свои ПРы в репозиторий проекта. Хочет получать копеечку с системы баунти.</li>
+<li><font color="#ffba00"><strong>WWDP Maintainers </strong></font> - Кодер проекта, имеет больше доступа в репозиторий проекта, а так же кнопки на игровом сервере.</li>
+<li><font color="#0079db"><strong>Pedal</strong></font> - Педаль сервера. Обозначает общую принадлежность к команде<br>
 педаляции без уточнения сервера.</li>
-<li><font color="#93b19a"><strong>Commander</strong></font> - Члены главной администрации, отвечают за набор, обучение и<br>
-снятие с педалей кнопок.</li>
-<li><font color="#b9c310"><strong>SS14 Heads</strong></font> - Главы различных ответвлений, например мапперов, кодеров и прочего.</li>
-<li><font color="#8699ff"><strong>Глава SS14</strong></font> - Глава филиала <a href="https://ss14.su/" class="is-external-link">SS14</a>. Занимается разбором полуночного<br>
-спама в личные сообщения "РДМ ГРИД!!!!".</li>
+<li><font color="#0f93ff"><strong>Moderators</strong></font> - Модератор дискорд сервера, следит за соблюдением его правил.</li>
+<li><strong>White Dream Headstaff</strong> - Член главной администрации или глава одного из отделов. <br>Занимается набором людей в свой отдел. Чаще всего имеет приписку Senior к своему отделу,<br> например: <font color="#a715e6"><strong>Senior Wikiwriter</strong></font></li>
+<li><strong><font color="#ce3c3e">WYRM Headstaff</font></strong> - Глава сервера WYRM, отвечает за набор педалей и стаффа на англоязычный сервер.</li>
+<li><font color="#8699ff"><strong>Harpy Supreme</strong></font> - Глава всего проекта WWDP.</li>
 </ul>
 <h2 id="как-мне-связаться-с-администрацией-сервера" class="toc-header"><a class="toc-anchor" href="#как-мне-связаться-с-администрацией-сервера">¶</a> Как мне связаться с администрацией сервера?</h2>
 <p>Основной способ связи с кем-то из администраторского состава - это<br>
