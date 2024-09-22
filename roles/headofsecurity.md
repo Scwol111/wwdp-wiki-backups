@@ -2,7 +2,7 @@
 title: Глава Службы Безопасности
 description: 
 published: true
-date: 2024-09-21T14:09:56.138Z
+date: 2024-09-22T14:22:20.968Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-20T19:10:23.267Z
@@ -54,7 +54,7 @@ dateCreated: 2024-09-20T19:10:23.267Z
     <font size="5">
       <center>
         <a href="/guides/officership" class="up is-internal-link is-valid-page">
-          <strong>Руководство по службе безопасности. Обязательно прочтите его, если вы хотите стать компетентным Главой СБ.</strong>
+          <strong>Руководство по службе безопасности. Обязательно прочтите его, если вы <br>хотите стать компетентным Главой СБ.</strong>
         </a>
       </center> 
     </font>
