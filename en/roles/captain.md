@@ -2,7 +2,7 @@
 title: Captain
 description: 
 published: true
-date: 2024-09-22T19:22:18.109Z
+date: 2024-09-22T19:22:30.154Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:57:16.237Z
@@ -113,3 +113,5 @@ dateCreated: 2024-09-21T13:57:16.237Z
 <li>Never, EVER put the Disc in your locker. Anyone who might need it can easily get to it with explosives or even a basic tool box.</li>
 <li>Don't go crazy and run solo into a fight. You are not a one-man army and nobody on the station has your access level. If you charge into the medbay where a bunch of Syndicate Agents are hanging out and find that the rest of security has no access to get through the entrance doors and help you, this can quickly lead to a catastrophe.</li>
 </ul>
+
+<div class="table"></div>
