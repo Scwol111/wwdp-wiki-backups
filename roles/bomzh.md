@@ -2,7 +2,7 @@
 title: Бомж
 description: Космический бомж
 published: true
-date: 2024-09-23T14:14:19.372Z
+date: 2024-09-23T14:15:35.923Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:11.965Z
