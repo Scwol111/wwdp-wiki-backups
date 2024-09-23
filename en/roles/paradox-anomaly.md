@@ -2,7 +2,7 @@
 title: Paradox anomaly
 description: 
 published: true
-date: 2024-09-23T12:20:27.842Z
+date: 2024-09-23T12:21:03.723Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:37:18.078Z
