@@ -2,15 +2,11 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-09-23T12:46:48.298Z
+date: 2024-09-23T12:47:02.511Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-23T12:37:14.274Z
 ---
-
-<head>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" />
-</head>
 
 <div class="bg-img"></div>
     <div class="content">
