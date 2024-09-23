@@ -2,7 +2,7 @@
 title: Клоун
 description: 
 published: true
-date: 2024-09-23T13:55:01.893Z
+date: 2024-09-23T13:58:50.830Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-23T13:55:01.893Z
@@ -43,13 +43,13 @@ dateCreated: 2024-09-23T13:55:01.893Z
 Минимальные требования: Быть веселым для других членов экипажа. Это сложнее, чем кажется.</p>
 <p>
 <dev>
-<img src="/role/serv/theatre.png" width="200" height="auto">
-</dev></p><h2 id="лицензия-на-хонк" class="toc-header"><a class="toc-anchor" href="#лицензия-на-хонк">¶</a> <center><img src="/role/serv/honk.png" alt="" class="png1"><span class="up">Лицензия на ХОНК!</span><center></center></center></h2>
+<img src="/roles/serv/theatre.png" width="200" height="auto">
+</dev></p><h2 id="лицензия-на-хонк" class="toc-header"><a class="toc-anchor" href="#лицензия-на-хонк">¶</a> <center><img src="/roles/serv/honk.png" alt="" class="png1"><span class="up">Лицензия на ХОНК!</span><center></center></center></h2>
 <p>Нет, это не лицензия на то, чтобы быть дерьмом. Помните, что вы все еще обязаны соблюдать правило ноль, то есть не быть мудаком.</p>
 <p><strong>Если вы сомневаетесь, спросите себя: "Я безвозвратно порчу чей-то раунд (убиваете, выводите из строя и т.д.)?"</strong></p>
 <p><strong>Если да: не делайте этого. Вас, скорее всего, изобьют и забанят.</strong></p>
 <p><strong>Если нет: скорее всего, всё будет в порядке.</strong></p>
-<h2 id="шалости" class="toc-header"><a class="toc-anchor" href="#шалости">¶</a> <center><img src="/role/service/clown/honk.png" alt="" class="png1"><span class="up">ШаЛоСтИ</span><center></center></center></h2>
+<h2 id="шалости" class="toc-header"><a class="toc-anchor" href="#шалости">¶</a> <center><img src="/roles/serv/honk.png" alt="" class="png1"><span class="up">ШаЛоСтИ</span><center></center></center></h2>
 <p>Именно здесь плохие клоуны отделяются от настоящих! Шалости могут быть самыми разнообразными: от безобидных хонкнов по голове до разбрасывания случайных банановых кожурок (обычно люди ненавидят вас за это больше всего), или даже спама молитв к Хонкоматери о золотых клоунских туфлях</p>
 <p>Если у вас совсем нет идей и вы на грани того, что вам станет так скучно, что вы скоро станете просто мудаком, вот несколько вещей, которые может сделать хороший клоун, чтобы развлечь команду:</p>
 <ul>
@@ -86,17 +86,17 @@ dateCreated: 2024-09-23T13:55:01.893Z
 <li>Задирайте людей с помощью боксерских перчаток.</li>
 <li>Станьте клоуном техов и пугайте людей, проходящих мимо, завлекая их к себе воздушными шариками и агрессивно хонкая.</li>
 </ul>
-<h2 id="мощь" class="toc-header"><a class="toc-anchor" href="#мощь">¶</a> <center><img src="/role/service/clown/honk.png" alt="" class="png1"><span class="up">Мощь</span><center></center></center></h2>
+<h2 id="мощь" class="toc-header"><a class="toc-anchor" href="#мощь">¶</a> <center><img src="/roles/serv/honk.png" alt="" class="png1"><span class="up">Мощь</span><center></center></center></h2>
 <p>Вы и ваш напарник <a href="/roles/mime" class="is-internal-link is-valid-page">Мим</a> появляетесь в Театре и имеете доступ к костюмам внутри.</p>
 <p>Если раунд длится достаточно долго, <a href="/roles/scientist" class="is-internal-link is-valid-page">кто-то</a> может быть достаточно безумным любящим веселье, чтобы сварить вам ПРИКОЛ <strong>ХОНК!</strong></p>
-<h2 id="клаксон" class="toc-header"><a class="toc-anchor" href="#клаксон">¶</a> <center><img src="https://wiki.ss14.su/images/a/aa/Honk.png" alt="" class="png1"><span class="up">Клаксон</span><center></center></center></h2>
+<h2 id="клаксон" class="toc-header"><a class="toc-anchor" href="#клаксон">¶</a> <center><img src="/roles/serv/honk.png" alt="" class="png1"><span class="up">Клаксон</span><center></center></center></h2>
 <p>Клаксон это то, что позволяет выполнять вашу работу. Через него вы несете свой Хонк в этот Хонкнутый мир. Не позволяйте тем, кто не ценит ваш <strong>ХОНК</strong> смыть клаксон в унитаз.</p>
-<h2 id="снаряжение" class="toc-header"><a class="toc-anchor" href="#снаряжение">¶</a> <center><img src="/role/service/clown/honk.png" alt="" class="png1"><span class="up">Снаряжение</span><center></center></center></h2>
+<h2 id="снаряжение" class="toc-header"><a class="toc-anchor" href="#снаряжение">¶</a> <center><img src="/roles/serv/honk.png" alt="" class="png1"><span class="up">Снаряжение</span><center></center></center></h2>
 <p>Вы получаете костюм клоуна с соответствующими пищащими ботинками (произведено Waddle Dampeners[TM]), велосипедный клаксон, клоунскую печать (для одобрения обезьяньих ящиков), клоунскую маску (которая работает как противогаз), специальный бесконечный радужный клоунский карандаш, чтобы вы могли начать писать непотребные слова по всему отбытию или съесть его как гигантский гудящий ребенок, банку сока смеха, банан и ваш скользкий ПДА. Ваш ПДА может заразить чужие ПДА вирусом, который заставляет их произвольно сигналить и, возможно, делать другие вещи? Кто знает, ХОНК!</p>
 <p>В ящике своей подсобки вы получите дополнительные игрушки, такие как мегафон и пушка для пирога, чтобы быть еще более несносным.</p>
-<h2 id="сложность" class="toc-header"><a class="toc-anchor" href="#сложность">¶</a> <center><img src="/role/service/clown/honk.png" alt="" class="png1"><span class="up">Сложность</span><center></center></center></h2>
+<h2 id="сложность" class="toc-header"><a class="toc-anchor" href="#сложность">¶</a> <center><img src="/roles/serv/honk.png" alt="" class="png1"><span class="up">Сложность</span><center></center></center></h2>
 <p>Очень легкая, но некоторые люди могут захотеть убить вас просто за то, что вы клоун. ХОНК!</p>
-<h2 id="советики" class="toc-header"><a class="toc-anchor" href="#советики">¶</a> <center><img src="/role/service/clown/honk.png" alt="" class="png1"><img src="/role/service/clown/honk.png" alt="" class="png1"><img src="/role/service/clown/honk.png" alt="" class="png1"><span class="up">СОВЕТики</span><center></center></center></h2>
+<h2 id="советики" class="toc-header"><a class="toc-anchor" href="#советики">¶</a> <center><img src="/roles/serv/honk.png" alt="" class="png1"><img src="/roles/serv/honk.png" alt="" class="png1"><img src="/roles/serv/honk.png" alt="" class="png1"><span class="up">СОВЕТики</span><center></center></center></h2>
 <ul>
 <li>Маска клоуна может использоваться для подачи кислорода.</li>
 <li>Полностью съесть радужный мелок невозможно. Если вы клоун и умираете от голода, вы можете просто обгрызать свой карандаш до бесконечности.</li>
@@ -105,6 +105,6 @@ dateCreated: 2024-09-23T13:55:01.893Z
 <li>ПДА клоуна можно использовать вместо банановой кожуры; люди будут поскальзываться на ней точно так же. Только не забудьте вытащить свою карту, чтобы, когда какой-нибудь придурок возьмет его, вы не остались без доступа.</li>
 <li>Рассказать несколько шуток или придумать забавный трюк может означать разницу между получением полного доступа и линчеванием после неудачного розыгрыша.</li>
 </ul>
-<h2 id="космический-клоун-пеннивайз" class="toc-header"><a class="toc-anchor" href="#космический-клоун-пеннивайз">¶</a> <center><img src="/role/service/clown/honk.png" alt="" class="png1"><span class="up">Космический клоун, Пеннивайз</span><center></center></center></h2>
+<h2 id="космический-клоун-пеннивайз" class="toc-header"><a class="toc-anchor" href="#космический-клоун-пеннивайз">¶</a> <center><img src="/roles/serv/honk.png" alt="" class="png1"><span class="up">Космический клоун, Пеннивайз</span><center></center></center></h2>
 <p>Помните, как в детстве вас пугали клоуны? Так вот, это одна из главных причин почему. Как предатель, хотя вы можете быть просто чертовски смешным, <em><s>и надеяться что</s></em> люди не будут убивать вас (например, используйте камуфляжный проктор, прячась в виде банановой кожуры), вы должны научиться робасту или тому, как взломать и проникнуть в любой отсек. Просто веселитесь и расслабляйтесь, и хонкайте, пока предаете людей! Если ничего не получается, хватайте топор и сварочную маску и убивайте людей, поскользнувшихся на вашей банановой кожуре (фактор устрашения довольно высок).</p><div>
  </div><div class="table"></div>
