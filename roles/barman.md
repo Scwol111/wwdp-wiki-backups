@@ -2,7 +2,7 @@
 title: Бармен
 description: 
 published: true
-date: 2024-09-25T17:14:58.075Z
+date: 2024-09-25T17:15:16.609Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:14:58.075Z
