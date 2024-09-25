@@ -2,7 +2,7 @@
 title: Гном
 description: 
 published: true
-date: 2024-09-25T17:28:52.480Z
+date: 2024-09-25T17:29:06.102Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:28:52.480Z
@@ -23,7 +23,7 @@ dateCreated: 2024-09-25T17:28:52.480Z
   </div>
 </div>
 </div>
-<center><div class="counter-cum"><span id="counter-text">Гномов накликано: <span id="counter">0</span></span></div></center>
+<!--<center><div class="counter-cum"><span id="counter-text">Гномов накликано: <span id="counter">0</span></span></div></center>-->
 
 ## <div class="box"><img src="/role/ghost.png" class="himg"><center><span>Как стать гномом</span></center><img src="/role/ghost.png" class="himg"></div>
 Чтобы стать гномом, нужно умереть или зайти в <a href="/ru/roles/ghost" >наблюдатели</a>, а также подождать, пока вашего гнома не вырастит <a href="/ru/roles/botanist" >ботаник</a>. Дальше нужно нажать на кнопку внизу экрана, <b>Роли призраков</b>. Нажимаете её и выбираете доступного для игры гнома.
