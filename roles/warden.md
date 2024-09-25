@@ -2,7 +2,7 @@
 title: Смотритель
 description: 
 published: true
-date: 2024-09-25T19:09:23.914Z
+date: 2024-09-25T19:10:49.881Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:00:30.773Z
@@ -224,7 +224,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
   </div>
 </h2>
 
-![prison-wing.png](/role/security/prison-wing.png =15%x){.align-right}
+![prison-wing.png](/roles/sec/prison-wing.png =15%x){.align-right}
 
 Как только вы попадете сюда, вы уже не выйдете. Здесь нет никаких таймеров — это место для закоренелых преступников. Ожидайте, что пользоваться им придется редко, так как многие предатели получают по дыне еще до того, как это станет возможным. Только вы, [Глава Службы Безопасности](/roles/headofsecurity) или [Капитан](/roles/captain) должны приводить сюда людей, и только за [самые ужасные преступления](/spacelaw).
 
