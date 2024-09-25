@@ -2,7 +2,7 @@
 title: Смотритель
 description: 
 published: true
-date: 2024-09-25T18:00:30.773Z
+date: 2024-09-25T19:06:53.038Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:00:30.773Z
@@ -61,7 +61,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
 
 <h3>
   <div class="box">
-    <img src="/role/security/detectivefedora.png" alt="fedora.png" style="height: 64px"/>
+    <img src="/roles/sec/detectivefedora.png" alt="fedora.png" style="height: 64px"/>
     <span style="margin-left:10px;"><a href="/roles/detective">Детектив</a></span>
   </div>
 </h3>
@@ -70,7 +70,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
 
 <h3>
   <div class="box">
-    <img src="/role/security/helmet.png" alt="helmet.png" style="height: 64px"/>
+    <img src="/roles/sec/helmet.png" alt="helmet.png" style="height: 64px"/>
     <span style="margin-left:10px;"><a href="/roles/officer">Офицер СБ</a></span>
   </div>
 </h3>
@@ -91,7 +91,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
 
 <h3>
   <div class="box">
-    <img src="/role/cadet.png" alt="cadet.png" style="height: 64px"/>
+    <img src="/roles/cadet.png" alt="cadet.png" style="height: 64px"/>
     <span style="margin-left:10px;"><a href="/roles/cadet">Кадет</a></span>
   </div>
 </h3>
@@ -100,7 +100,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
 
 <h2>
   <div class="box">
-    <img src="/role/security/securitylocker.png" alt="securitylocker.png" style="height: 64px"/>
+    <img src="/roles/sec/securitylocker.png" alt="securitylocker.png" style="height: 64px"/>
     <span style="margin-left:10px;">Снаряжение</span>
   </div>
 </h2>
@@ -117,7 +117,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
 
 <h2>
   <div class="box">
-    <img src="/role/security/office_chair.png" alt="office_chair.png" style="height: 64px"/>
+    <img src="/roles/sec/office_chair.png" alt="office_chair.png" style="height: 64px"/>
     <span style="margin-left:10px;">Не сидите без дела</span>
   </div>
 </h2>
@@ -128,7 +128,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
 
 <h2>
   <div class="box">
-    <img src="/role/security/id_orange1.png" alt="id_orange1.png" style="height: 64px"/>
+    <img src="/roles/sec/id_orange1.png" alt="id_orange1.png" style="height: 64px"/>
     <span style="margin-left:10px;">Контроль уровня допуска</span>
   </div>
 </h2>
@@ -141,7 +141,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
 
 <h2>
   <div class="box">
-    <img src="/role/security/hudwarden.png" alt="id_orange1.png" style="height: 48px"/>
+    <img src="/roles/sec/hudwarden.png" alt="id_orange1.png" style="height: 48px"/>
     <span style="margin-left:10px;">Локдаун</span>
   </div>
 </h2>
@@ -151,7 +151,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
 Кроме того, вы можете использовать переносные барьеры, найденные в арсенале, чтобы быстро забаррикадировать территорию. По сути, это сверхпрочная версия деревянных баррикад. Вы можете заблокировать их, используя вашу ID-карту.
 <h2>
   <div class="box">
-    <img src="/role/security/criminal.gif" alt="handcuffs.png" style="height: 64px"/>
+    <img src="/roles/sec/criminal.gif" alt="handcuffs.png" style="height: 64px"/>
     <span style="margin-left:10px;">Консоль криминальных записей</span>
   </div>
 </h2>
@@ -168,7 +168,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
       <tr>
         <td>
           <div>
-            <img src="/guides/security/officership/free.png" alt="free.png" />
+            <img src="/roles/roles_icon/discharged.png" alt="free.png" />
             <div>Выписан</div>
           </div>
         </td>
@@ -177,7 +177,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
       <tr>
         <td>
           <div>
-            <img src="/guides/security/officership/coded.png" alt="coded.png" />
+            <img src="/roles/roles_icon/released.png" alt="coded.png" />
             <div>Освобожден</div>
           </div>
         </td>
@@ -186,7 +186,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
       <tr>
         <td>
           <div>
-            <img src="/guides/security/officership/suspect.png" alt="suspect.png" />
+            <img src="/roles/roles_icon/suspect.png" alt="suspect.png" />
             <div>Подозреваемый</div>
           </div>
         </td>
@@ -195,7 +195,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
       <tr>
         <td>
           <div>
-            <img src="/guides/security/officership/wanted.png" alt="wanted.png" />
+            <img src="/roles/roles_icon/wanted.png" alt="wanted.png" />
             <div>В розыске</div>
           </div>
         </td>
@@ -204,7 +204,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
       <tr>
         <td>
           <div>
-            <img src="/guides/security/officership/prisoner.png" alt="prisoner.png" />
+            <img src="/roles/roles_icon/prisoner.png" alt="prisoner.png" />
             <div>Заключенный</div>
           </div>
         </td>
@@ -219,7 +219,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
 
 <h2>
   <div class="box">
-    <img src="/role/security/handcuffs.png" alt="handcuffs.png" style="height: 64px"/>
+    <img src="/roles/sec/handcuffs.png" alt="handcuffs.png" style="height: 64px"/>
     <span style="margin-left:10px;">Тюремное крыло</span>
   </div>
 </h2>
@@ -232,7 +232,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
 
 <h2>
   <div class="box">
-    <img src="/role/security/light_bulb.png" alt="light_bulb.png" style="height: 64px"/>
+    <img src="/roles/sec/light_bulb.png" alt="light_bulb.png" style="height: 64px"/>
     <span style="margin-left:10px;">Полезные советы</span>
   </div>
 </h2>
