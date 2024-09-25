@@ -2,26 +2,28 @@
 title: Доктор
 description: 
 published: true
-date: 2024-09-22T18:18:31.791Z
+date: 2024-09-25T17:55:02.607Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:21.119Z
 ---
 
-<div style="display: flex; justify-content: center;"><div class="roles-passport med">
-  <div class="title med"><a href="/roles/medicaldepartment" class="is-internal-link is-valid-page">Медицинский отдел</a></div>
+<div style="display: flex; justify-content: center;">
+<div class="roles-passport med">
+  <div class="title med"><a href="/roles/medicaldepartment">Медицинский отдел</a></div>
   <div>
     <div><div><img src="/roles/doctor.png"></div></div>
   <div><div>
-    <h1 id="врач" class="toc-header"><a class="toc-anchor" href="#врач">¶</a> Врач</h1>
+    <h1>Врач</h1>
     <p><strong>Сложность:</strong> Средняя</p>
     <strong>Обязанности:</strong> Лечение больного персонала и раненых.<br>
-    <b>Руководители</b>: <a href="/roles/chiefmedicalofficer" title="Старший Медицинский Офицер" class="is-internal-link is-valid-page">Старший Медицинский Офицер</a><br>
-    <b>Руководства</b>: <a href="/guides/medicine" title="Медицина" class="is-internal-link is-valid-page">Медицина</a> • <a href="/guides/chemistry" title="Химия" class="is-internal-link is-valid-page">Химия</a> • <a href="/guides/medicalequipment" title="Медицинский инвентарь" class="is-internal-link is-valid-page">Медицинский инвентарь</a>
+    <b>Руководители</b>: <a href="/roles/chiefmedicalofficer" title="Старший Медицинский Офицер">Старший Медицинский Офицер</a><br>
+    <b>Руководства</b>: <a href="/guides/medicine" title="Медицина">Медицина</a> • <a href="/guides/chemistry" title="Химия">Химия</a> • <a href="/guides/medicalequipment" title="Медицинский инвентарь">Медицинский инвентарь</a>
   </div></div>
   </div>
 </div>
 </div>
+
 <p><tocplace></tocplace></p>
 <center> <i>Смотри не перестарайся, а то в голове че-нибудь лопнет, а ему не хочется тебя в санитарки списывать.</i> </center>
 <center> <b>Андрей Евгеньевич Быков, "Интерны"</b> </center>
