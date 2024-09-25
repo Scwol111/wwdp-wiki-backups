@@ -2,7 +2,7 @@
 title: Ассистент
 description: 
 published: true
-date: 2024-09-25T16:42:41.644Z
+date: 2024-09-25T16:47:44.458Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T16:42:41.644Z
@@ -16,7 +16,7 @@ dateCreated: 2024-09-25T16:42:41.644Z
     <div><div>
       <h1>Ассистент</h1>
       <p><strong>Сложность:</strong>  Очень легкая - До боли сложная</p>
-      <strong>Обязанности:</strong> Выбиваться в люди, помогать персоналу станции, просить <a href="/roles/headofpersonnel">Главе Персонала</a> дать вам доступ.<br>
+      <strong>Обязанности:</strong> Выбиваться в люди, помогать персоналу станции,<br> просить <a href="/roles/headofpersonnel">Главе Персонала</a> дать вам доступ.<br>
       <b>Руководители</b>: <a href="/ru/roles/headofpersonnel">Глава Персонала</a><br>
       <b>Руководства</b>: <a href="/ru/guides/interactions">Взаимодействия</a> • <a href="/guides/terminology">Терминология</a>
     </div></div>
