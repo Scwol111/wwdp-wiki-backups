@@ -2,7 +2,7 @@
 title: Технический ассистент
 description: 
 published: true
-date: 2024-09-25T17:43:00.735Z
+date: 2024-09-25T17:43:16.479Z
 tags: роли
 editor: markdown
 dateCreated: 2024-09-10T19:08:29.750Z
@@ -12,7 +12,7 @@ dateCreated: 2024-09-10T19:08:29.750Z
 <div class="roles-passport eng">
   <div class="title eng"><a href="/roles/engineeringdepartment">Инженерия</a></div>
   <div>
-    <div><div><img src="/role/technicalassistant.png"></div></div>
+    <div><div><img src="/roles/technicalassistant.png"></div></div>
   <div><div>
     <h1>Технический ассистент</h1>
     <p><strong>Сложность:</strong> Легкая</p>
