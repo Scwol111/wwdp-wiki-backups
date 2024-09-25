@@ -2,7 +2,7 @@
 title: Призрак
 description: 
 published: true
-date: 2024-09-25T17:23:31.951Z
+date: 2024-09-25T17:24:05.103Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:23:31.951Z
