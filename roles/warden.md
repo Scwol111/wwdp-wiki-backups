@@ -2,7 +2,7 @@
 title: Смотритель
 description: 
 published: true
-date: 2024-09-25T19:06:53.038Z
+date: 2024-09-25T19:09:23.914Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:00:30.773Z
@@ -30,7 +30,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
 
 <h2>
   <div class="box">
-    <img src="/security/каска.png" alt="каска.png" style="height: 64px"/>
+    <img src="/roles/sec/helmet2.png" style="height: 64px"/>
     <span style="margin-left:10px;">Сторожевой пес</span>
   </div>
 </h2>
@@ -44,7 +44,7 @@ dateCreated: 2024-09-25T18:00:30.773Z
 
 <h2>
   <div class="box">
-    <img src="/role/security/megaphone_red.png" alt="megaphone_red.png" style="height: 64px"/>
+    <img src="/roles/sec/megaphone_red.png" alt="megaphone_red.png" style="height: 64px"/>
     <span style="margin-left:10px;">Мистер диспетчер</span>
   </div>
 </h2>
