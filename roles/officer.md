@@ -2,7 +2,7 @@
 title: Офицер
 description: 
 published: true
-date: 2024-09-26T15:06:58.357Z
+date: 2024-09-26T15:09:05.768Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:59:37.975Z
@@ -64,7 +64,7 @@ dateCreated: 2024-09-25T17:59:37.975Z
 
 <h2>
   <div class="box">
-    <img src="/security/seclite.png" alt="фонарь" style="height: 64px"/>
+    <img src="/roles/sec/seclite.png" alt="фонарь" style="height: 64px"/>
     <span style="margin-left:10px;">Как делать свою работу правильно</span>
   </div>
 </h2>
@@ -97,7 +97,7 @@ dateCreated: 2024-09-25T17:59:37.975Z
 
 <h2>
   <div class="box">
-    <img src="/role/security/pen.png" alt="ручка" style="height: 64px"/>
+    <img src="/roles/sec/pen.png" alt="ручка" style="height: 64px"/>
     <span style="margin-left:0px;">Офис охраны</span>
   </div>
 </h2>
@@ -106,11 +106,11 @@ dateCreated: 2024-09-25T17:59:37.975Z
   <div>
 Первым делом после прибытия необходимо найти свободный шкафчик безопасности в комнате офицеров Брига. Если все уже занято, обратитесь <a href="/roles/warden" class="mw-redirect" title="варден">смотрителю</a> за дополнительным снаряжением.
   </div>
-<img src="/role/security/sechq.png" />
+<img src="/roles/sec/sechq.png" />
 </div>
 <h3>
   <div class="box">
-    <img src="/role/security/securitylocker.png" alt="securitylocker.png" style="height: 64px"/>
+    <img src="/roles/sec/securitylocker.png" alt="securitylocker.png" style="height: 64px"/>
     <span style="margin-left:10px;">Снаряжение</span>
   </div>
 </h3>
@@ -121,7 +121,7 @@ dateCreated: 2024-09-25T17:59:37.975Z
 
 <h3>
   <div class="box">
-    <img src="/role/security/recharger.gif" alt="recharger.gif" style="height: 64px"/>
+    <img src="/roles/sec/recharger.gif" alt="recharger.gif" style="height: 64px"/>
     <span style="margin-left:px;">Не забывай о подзарядке!</span>
   </div>
 </h3>
@@ -133,7 +133,7 @@ dateCreated: 2024-09-25T17:59:37.975Z
 
 <h2>
   <div class="box">
-    <img src="/role/security/donut_box.png" alt="нямням" style="height: 64px"/>
+    <img src="/roles/sec/donut_box.png" alt="нямням" style="height: 64px"/>
     <span style="margin-left:10px;">Пончики!</span>
   </div>
 </h2>
@@ -142,7 +142,7 @@ dateCreated: 2024-09-25T17:59:37.975Z
 
 <h2>
   <div class="box">
-    <img src="/role/security/antagtemp.png" alt="ужас" style="height: 64px"/>
+    <img src="/roles/sec/ss14dead_mini_logo.png" alt="ужас" style="height: 64px"/>
     <span style="margin-left:10px;">Когда все идет наперекосяк</span>
   </div>
 </h2>
@@ -187,7 +187,7 @@ dateCreated: 2024-09-25T17:59:37.975Z
 
 <h2 >
   <div class="box">
-    <img src="/role/security/stunbaton.gif" alt="больно" style="height: 64px"/>
+    <img src="/roles/sec/stunbaton.gif" alt="больно" style="height: 64px"/>
     <span style="margin-left:10px;">Как не проиграть в бою или руководство по аресту</span>
   </div>
 </h2>
@@ -202,7 +202,7 @@ dateCreated: 2024-09-25T17:59:37.975Z
 
 <h2>
   <div class="box">
-    <img src="/role/security/light_bulb.png" alt="Светлая мысль" style="height: 64px"/>
+    <img src="/roles/sec/light_bulb.png" alt="Светлая мысль" style="height: 64px"/>
     <span style="margin-left:0px;">Советы</span>
   </div>
 </h2>
