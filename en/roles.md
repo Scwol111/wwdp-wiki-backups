@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-09-22T15:14:58.397Z
+date: 2024-09-26T14:27:20.398Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -66,7 +66,7 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
  
 <div class="roles-table sb">
   <div class="title sb-title">
-    <div class="link"><h2><a href="/roles/securityservicedepartment" class="sb-color">Security Service</a></h2></div>
+    <div class="link"><h2><a href="/roles/securityservicedepartment" class="sb-color">Security Department</a></h2></div>
   	<div>Role</div>
   	<div>Description</div>
   	<div>Difficulty</div>
