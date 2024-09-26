@@ -2,7 +2,7 @@
 title: Персональный ИИ
 description: 
 published: true
-date: 2024-09-26T15:15:46.700Z
+date: 2024-09-26T15:18:05.832Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:22:31.442Z
@@ -10,12 +10,12 @@ dateCreated: 2024-09-25T17:22:31.442Z
 
 <div style="display: flex; justify-content: center;">
   <div class="roles-passport sint">
-    <div class="title sint"><a href="/roles/synthetics">Синтетики</a></div>
+    <div class="title sint"><a href="/roles/synthetics" class="is-internal-link is-valid-page">Синтетики</a></div>
     <div>
-      <div><div><img id="ai-image" src="/roles/personalai.png"></div></div>
+      <div><div><img id="ai-image" src="/roles/personalai.png" onclick="toggleImageAndText(this)"></div></div>
       <div>
         <div id="ai-info">
-          <h1>пИИ</h1>
+          <h1 id="пии" class="toc-header"><a class="toc-anchor" href="#пии">¶</a> пИИ</h1>
           <p><strong>Сложность:</strong> Очень легкая</p>
           <strong>Обязанности:</strong> Будь выносимым, чтобы тебя не выкинули в космос или помойку. Играй песни из JoJo.<br>
           <b>Руководители</b>: Твой хозяин<br>
