@@ -2,7 +2,7 @@
 title: Персональный ИИ
 description: 
 published: true
-date: 2024-09-26T15:14:39.010Z
+date: 2024-09-26T15:15:46.700Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:22:31.442Z
