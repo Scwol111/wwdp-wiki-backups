@@ -1,11 +1,11 @@
 ---
 title: Правила
 description: 
-published: false
-date: 2024-08-28T17:34:26.244Z
+published: true
+date: 2024-09-26T13:52:06.589Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-25T11:17:57.252Z
+dateCreated: 2024-09-10T19:07:43.345Z
 ---
 
   <h1 id="важно" class="toc-header"><a href="#важно" class="toc-anchor">¶</a> Важно!</h1>
