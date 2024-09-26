@@ -2,7 +2,7 @@
 title: Офицер
 description: 
 published: true
-date: 2024-09-26T15:04:44.867Z
+date: 2024-09-26T15:06:58.357Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:59:37.975Z
@@ -40,12 +40,12 @@ dateCreated: 2024-09-25T17:59:37.975Z
 <p></p>
 <div style="width: 90%; height: 100%; border-radius: 20px; margin: auto; background: radial-gradient(red, 30%, #660011); position: relative;">
 <p>
-	<div style="position: absolute; bottom: 2%; right: 2%;"><img src="/roles/sec/stunBaton.gif" class="png1" ></div>	
-  <div style="position: absolute; bottom: 2%; left: 2%;"><img src="/roles/sec/stundon.gif" class="png1"> </div> 
+	<div style="position: absolute; bottom: 2%; right: 2%;"><img src="/roles/sec/stunbaton.gif" class="png1" ></div>	
+  <div style="position: absolute; bottom: 2%; left: 2%;"><img src="/roles/sec/stunbaton.gif" class="png1"> </div> 
   <div> 
 <font size="5">
 <center>
-<a href="https://wiki.ss14.su/%D0%9E%D1%84%D0%B8%D1%86%D0%B5%D1%80%D1%81%D1%82%D0%B2%D0%BE" class="up"  style="text-decoration: none;">
+<a href="/roles/sec/thebrig.png" class="up"  style="text-decoration: none;">
 	<strong>Руководство по службе безопасности. Обязательно прочтите его, если вы хотите стать компетентным Главой СБ.</strong>
 </a>
 </center> 
@@ -59,7 +59,7 @@ dateCreated: 2024-09-25T17:59:37.975Z
 Вы - единственный страж между идеалами справедливости и [сумасшедших психопатов](/roles/clown) которых ваша компания выбрала для продвижения своих интересов в космосе. Однако то, что все остальные безумны, не означает, что вам позволено сходить с ума и избивать всех до потери сознания, пристегивая их к кроватям. У профессионалов есть стандарты.
 Важно помнить, что задачей офицера СБ является **защита ВСЕХ членов экипажа**, даже если они ломают бриг, избивают бармена от скуки, нападают на офицеров и устраивают другие незаконные вещи - вы обязаны сохранять им жизнь. Поэтому **никогда НЕ убивайте, НЕ избивайте своих заключенных**. Вы должны оставаться выше ассистента, который нападает на офицеров, не избивайте его в ответ, наказывайте, руководствуясь <a href="/spacelaw">законом</a>.
   </div>
-  <img alt="Brig" src="/security/thebrig.png">
+  <img alt="Brig" src="/roles/sec/thebrig.png">
 </div>
 
 <h2>
