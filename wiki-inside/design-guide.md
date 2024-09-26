@@ -2,7 +2,7 @@
 title: HTML, CSS, JS гайд
 description: 
 published: false
-date: 2024-09-26T19:31:59.310Z
+date: 2024-09-26T19:33:01.500Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:08:38.760Z
