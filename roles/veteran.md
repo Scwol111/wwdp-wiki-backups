@@ -2,7 +2,7 @@
 title: Ветеран
 description: 
 published: true
-date: 2024-09-25T18:01:21.901Z
+date: 2024-09-26T14:57:48.250Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:01:21.901Z
@@ -33,7 +33,7 @@ dateCreated: 2024-09-25T18:01:21.901Z
 
 <h2 align="center">
   <div class="box">
-    <img src="/security/helmet_(1).png" style="height: 84px"/>
+    <img src="/roles/sec/helmet2.png" style="height: 84px"/>
     <span style="margin-left:-10px;">Обучение</span>
   </div>
 </h2>
@@ -47,7 +47,7 @@ dateCreated: 2024-09-25T18:01:21.901Z
 
 <h2 align="center">
   <div class="box">
-    <img src="/role/security/stunbaton.gif" alt="палка" style="height: 64px"/>
+    <img src="/roles/sec/stunbaton.gif" alt="палка" style="height: 64px"/>
     <span style="margin-left:10px;">Ваш инвентарь</span>
   </div>
 </h2>
@@ -65,7 +65,7 @@ dateCreated: 2024-09-25T18:01:21.901Z
 
 <h2 align="center">
   <div class="box">
-    <img src="/role/security/помощь.png" alt="помощь" style="height: 64px"/>
+    <img src="/roles/sec/help.png" alt="помощь" style="height: 64px"/>
     <span style="margin-left:10px;">Помощь</span>
   </div>
 </h2>
@@ -77,7 +77,7 @@ dateCreated: 2024-09-25T18:01:21.901Z
 
 <h2 align="center">
   <div class="box">
-    <img src="/role/security/antagtemp.png" alt="antagtemp" style="height: 64px"/>
+    <img src="/roles/sec/ss14dead_mini_logo.png" alt="antagtemp" style="height: 64px"/>
     <span style="margin-left:10px;">В тяжелые времена</span>
   </div>
 </h2>
@@ -88,7 +88,7 @@ dateCreated: 2024-09-25T18:01:21.901Z
 
 <h3 align="center">
   <div class="box">
-    <img src="/role/security/light_bulb.png" alt="light_bulb" style="height: 64px"/>
+    <img src="/roles/sec/light_bulb.png" alt="light_bulb" style="height: 64px"/>
     <span style="margin-left:10px;">Полезные советы</span>
   </div>
 </h3>
