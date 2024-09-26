@@ -2,7 +2,7 @@
 title: Шаблон паспорта роли
 description: 
 published: true
-date: 2024-09-26T19:24:10.618Z
+date: 2024-09-26T19:26:51.219Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:21:17.004Z
@@ -13,7 +13,7 @@ dateCreated: 2024-09-26T19:21:17.004Z
     <div id="title" class="title comm">
       <a href="/roles/command" class="is-internal-link is-valid-page">Командование</a>
     </div>
-    <div><div><div><img src="/role/captain.png" id="img"></div></div>
+    <div><div><div><img src="/roles/captain.png"></div></div>
       <div><div><h1 id="капитан" class="toc-header">Капитан</h1>
         <p><strong>Сложность:</strong> Сложная</p>
         <strong>Обязанности:</strong> Глава объекта. Занимается руководством всей станции.<br>
