@@ -2,7 +2,7 @@
 title: HTML, CSS, JS гайд
 description: 
 published: false
-date: 2024-09-26T19:33:01.500Z
+date: 2024-09-26T19:33:26.654Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:08:38.760Z
@@ -2419,7 +2419,7 @@ css
   overflow: hidden;
   padding-right: 10px;
   padding-left: 10px;
-  transition: max-height .2s ease-out
+  transition: max-height .2s ease-out, padding .2s ease-in-out;
 }
 .collapsible:after {
   content: '\02795';
