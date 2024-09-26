@@ -2,7 +2,7 @@
 title: Head Of Security
 description: 
 published: true
-date: 2024-09-22T19:23:07.803Z
+date: 2024-09-26T14:28:06.796Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T14:08:42.897Z
