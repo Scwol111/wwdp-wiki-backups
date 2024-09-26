@@ -2,7 +2,7 @@
 title: Десятичные коды
 description: 
 published: true
-date: 2024-09-20T19:19:47.382Z
+date: 2024-09-26T14:24:59.288Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-20T19:19:47.382Z
@@ -12,7 +12,7 @@ dateCreated: 2024-09-20T19:19:47.382Z
 <p><strong>Десятичные коды</strong> (тэн-коды, ten-codes) - специальные сокращения, которые используют в некоторых странах для ускорения передачи информации. На нашем сервере используются сотрудниками <a href="/roles/securityservicedepartment" class="is-internal-link is-valid-page">службы безопасности</a> в сообщениях, передаваемых по радиосвязи.</p>
 <h1 id="десятичные-коды" class="toc-header"><a class="toc-anchor" href="#десятичные-коды">¶</a> Десятичные коды</h1>
 <br>
-<div class="table-container"><table>
+<center><div class="table-container"><table>
 <thead>
 <tr>
 <th style="text-align:center">Код</th>
