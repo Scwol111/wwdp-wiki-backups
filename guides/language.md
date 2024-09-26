@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: false
-date: 2024-09-26T19:53:49.332Z
+date: 2024-09-26T19:55:56.344Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
@@ -22,8 +22,8 @@ dateCreated: 2024-09-26T19:23:46.378Z
     </thead>
     <tbody>
       <tr>
-        <td>Пидорский</td>
-        <td>Используют всякие пидоры, фурри фембои. </td>
+        <td>Глупые</td>
+        <td>Используют всякие фурри фембои. </td>
         <td>
           <div style="display: flex; align-items: center;">
             <div style="margin-right: 10px;">
