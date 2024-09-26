@@ -2,7 +2,7 @@
 title: Офицер
 description: 
 published: true
-date: 2024-09-25T17:59:37.975Z
+date: 2024-09-26T15:04:44.867Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:59:37.975Z
@@ -32,7 +32,7 @@ dateCreated: 2024-09-25T17:59:37.975Z
 
 <h2>
   <div class="box">
-    <img src="/security/helmet.png" alt="каска.png" style="height: 64px"/>
+    <img src="/roles/sec/helmet.png" alt="каска.png" style="height: 64px"/>
     <span style="margin-left:0px;">Миротворец</span>
   </div>
 </h2>
@@ -40,8 +40,8 @@ dateCreated: 2024-09-25T17:59:37.975Z
 <p></p>
 <div style="width: 90%; height: 100%; border-radius: 20px; margin: auto; background: radial-gradient(red, 30%, #660011); position: relative;">
 <p>
-	<div style="position: absolute; bottom: 2%; right: 2%;"><img src="https://wiki.ss14.su/images/9/96/StunBaton.gif" class="png1" ></div>	
-  <div style="position: absolute; bottom: 2%; left: 2%;"><img src="https://wiki.ss14.su/images/9/96/StunBaton.gif" class="png1"> </div> 
+	<div style="position: absolute; bottom: 2%; right: 2%;"><img src="/roles/sec/stunBaton.gif" class="png1" ></div>	
+  <div style="position: absolute; bottom: 2%; left: 2%;"><img src="/roles/sec/stundon.gif" class="png1"> </div> 
   <div> 
 <font size="5">
 <center>
