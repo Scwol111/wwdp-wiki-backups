@@ -2,7 +2,7 @@
 title: Глава Персонала
 description: 
 published: true
-date: 2024-09-26T14:33:45.852Z
+date: 2024-09-26T14:34:51.453Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:10:22.053Z
