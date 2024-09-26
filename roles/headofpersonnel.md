@@ -2,7 +2,7 @@
 title: Глава Персонала
 description: 
 published: true
-date: 2024-09-25T18:10:22.053Z
+date: 2024-09-26T14:31:00.331Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:10:22.053Z
@@ -75,7 +75,7 @@ dateCreated: 2024-09-25T18:10:22.053Z
 
 <table style="background-color:transparent; border-width: 5px;">
   <tr>
-    <td class="tbl1"><img src="/role/64px-sign_securearea.png" class="ppng"></td>
+    <td class="tbl1"><img src="/roles/serv/sign_securearea.png" class="ppng"></td>
     <td>Вы - оплот бюрократии на станции! Лишь за вами стоит решение, будет ли ассистент брать разрешение на использование швабры у уборщика или сможет зайти в любую дверь просто попросив у вас доступы. Постарайтесь сохранить баланс бумажек и здравого смысла...</td>
   </tr>
 </table>
