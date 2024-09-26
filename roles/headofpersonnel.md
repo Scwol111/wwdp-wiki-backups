@@ -2,7 +2,7 @@
 title: Глава Персонала
 description: 
 published: true
-date: 2024-09-26T14:34:51.453Z
+date: 2024-09-26T14:47:53.312Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:10:22.053Z
@@ -27,45 +27,45 @@ dateCreated: 2024-09-25T18:10:22.053Z
               <div id="progress-bar"><center><span id="timer-text">10</span></center></div>
               <p id="ochko">0</p>
             </div>
-            <div>
-              <button><img src="/role/hop/captain.png" class="imgchk" id="captain"></button>
-              <button><img src="/role/hop/headofpersonnel.png" class="imgchk" id="headofpersonnel"></button>
-              <button><img src="/role/hop/headofsecurity.png" class="imgchk" id="headofsecurity"></button>
-              <button><img src="/role/hop/chiefengineer.png" class="imgchk" id="chiefengineer"></button>
-              <button><img src="/role/hop/researchdirector.png" class="imgchk" id="researchdirector"></button>
-              <button><img src="/role/hop/chiefmedicalofficer.png" class="imgchk" id="chiefmedicalofficer"></button>
-              <button><img src="/role/hop/quartermaster.png" class="imgchk" id="quartermaster"></button>
-              <button><img src="/role/hop/inspector.png" class="imgchk" id="inspector"></button>
-              <button><img src="/role/hop/warden.png" class="imgchk" id="warden"></button>
-              <button><img src="/role/hop/securityofficer.png" class="imgchk" id="officer"></button>
-              <button><img src="/role/hop/detective.png" class="imgchk" id="detective"></button>
-              <button><img src="/role/hop/securitycadet.png" class="imgchk" id="cadet"></button>
-              <button><img src="/role/hop/chemist.png" class="imgchk" id="chemist"></button>
-              <button><img src="/role/hop/medicaldoctor.png" class="imgchk" id="doctor"></button>
-              <button><img src="/role/hop/paramedic.png" class="imgchk" id="paramedic"></button>
-              <button><img src="/role/hop/medicalintern.png" class="imgchk" id="intern"></button>
-              <button><img src="/role/hop/scientist.png" class="imgchk" id="scientist"></button>
-              <button><img src="/role/hop/researchassistant.png" class="imgchk" id="researchassistant"></button>
-              <button><img src="/role/hop/atmospherictechnician.png" class="imgchk" id="atmospherictechnician"></button>
-              <button><img src="/role/hop/stationengineer.png" class="imgchk" id="engineer"></button>
-              <button><img src="/role/hop/technicalassistant.png" class="imgchk" id="technicalassistant"></button>
-              <button><img src="/role/hop/shaftminer.png" class="imgchk" id="utilizer"></button>
-              <button><img src="/role/hop/cargotechnician.png" class="imgchk" id="loader"></button>
-              <button><img src="/role/hop/lawyer.png" class="imgchk" id="lawyer"></button>
-              <button><img src="/role/hop/passenger.png" class="imgchk" id="assistant"></button>
-              <button><img src="/role/hop/botanist.png" class="imgchk" id="botanist"></button>
-              <button><img src="/role/hop/chef.png" class="imgchk" id="chef"></button>
-              <button><img src="/role/hop/bartender.png" class="imgchk" id="barman"></button>
-              <button><img src="/role/hop/janitor.png" class="imgchk" id="janitor"></button>
-              <button><img src="/role/hop/clown.png" class="imgchk" id="clown"></button>
-              <button><img src="/role/hop/mime.png" class="imgchk" id="mime"></button>
-              <button><img src="/role/hop/zookeeper.png" class="imgchk" id="zootechnik"></button>
-              <button><img src="/role/hop/boxer.png" class="imgchk" id="boxer"></button>
-              <button><img src="/role/hop/reporter.png" class="imgchk" id="reporter"></button>
-              <button><img src="/role/hop/chaplain.png" class="imgchk" id="priest"></button>
-              <button><img src="/role/hop/librarian.png" class="imgchk" id="librarian"></button>
-              <button><img src="/role/hop/musician.png" class="imgchk" id="musician"></button>
-            </div>
+<div>
+          <button><img src="/roles/command/hop/captain.png" class="imgchk" id="captain"></button>
+          <button><img src="/roles/command/hop/headofpersonnel.png" class="imgchk" id="headofpersonnel"></button>
+          <button><img src="/roles/command/hop/headofsecurity.png" class="imgchk" id="headofsecurity"></button>
+          <button><img src="/roles/command/hop/chiefengineer.png" class="imgchk" id="chiefengineer"></button>
+          <button><img src="/roles/command/hop/researchdirector.png" class="imgchk" id="researchdirector"></button>
+          <button><img src="/roles/command/hop/chiefmedicalofficer.png" class="imgchk" id="chiefmedicalofficer"></button>
+          <button><img src="/roles/command/hop/quartermaster.png" class="imgchk" id="quartermaster"></button>
+          <button><img src="/roles/command/hop/inspector.png" class="imgchk" id="inspector"></button>
+          <button><img src="/roles/command/hop/warden.png" class="imgchk" id="warden"></button>
+          <button><img src="/roles/command/hop/securityofficer.png" class="imgchk" id="officer"></button>
+          <button><img src="/roles/command/hop/detective.png" class="imgchk" id="detective"></button>
+          <button><img src="/roles/command/hop/securitycadet.png" class="imgchk" id="cadet"></button>
+          <button><img src="/roles/command/hop/chemist.png" class="imgchk" id="chemist"></button>
+          <button><img src="/roles/command/hop/medicaldoctor.png" class="imgchk" id="doctor"></button>
+          <button><img src="/roles/command/hop/paramedic.png" class="imgchk" id="paramedic"></button>
+          <button><img src="/roles/command/hop/medicalintern.png" class="imgchk" id="intern"></button>
+          <button><img src="/roles/command/hop/scientist.png" class="imgchk" id="scientist"></button>
+          <button><img src="/roles/command/hop/researchassistant.png" class="imgchk" id="researchassistant"></button>
+          <button><img src="/roles/command/hop/atmospherictechnician.png" class="imgchk" id="atmospherictechnician"></button>
+          <button><img src="/roles/command/hop/stationengineer.png" class="imgchk" id="engineer"></button>
+          <button><img src="/roles/command/hop/technicalassistant.png" class="imgchk" id="technicalassistant"></button>
+          <button><img src="/roles/command/hop/shaftminer.png" class="imgchk" id="utilizer"></button>
+          <button><img src="/roles/command/hop/cargotechnician.png" class="imgchk" id="loader"></button>
+          <button><img src="/roles/command/hop/lawyer.png" class="imgchk" id="lawyer"></button>
+          <button><img src="/roles/command/hop/passenger.png" class="imgchk" id="assistant"></button>
+          <button><img src="/roles/command/hop/botanist.png" class="imgchk" id="botanist"></button>
+          <button><img src="/roles/command/hop/chef.png" class="imgchk" id="chef"></button>
+          <button><img src="/roles/command/hop/bartender.png" class="imgchk" id="barman"></button>
+          <button><img src="/roles/command/hop/janitor.png" class="imgchk" id="janitor"></button>
+          <button><img src="/roles/command/hop/clown.png" class="imgchk" id="clown"></button>
+          <button><img src="/roles/command/hop/mime.png" class="imgchk" id="mime"></button>
+          <button><img src="/roles/command/hop/zookeeper.png" class="imgchk" id="zootechnik"></button>
+          <button><img src="/roles/command/hop/boxer.png" class="imgchk" id="boxer"></button>
+          <button><img src="/roles/command/hop/reporter.png" class="imgchk" id="reporter"></button>
+          <button><img src="/roles/command/hop/chaplain.png" class="imgchk" id="priest"></button>
+          <button><img src="/roles/command/hop/librarian.png" class="imgchk" id="librarian"></button>
+          <button><img src="/roles/command/hop/musician.png" class="imgchk" id="musician"></button>
+        </div>
           </div>
         </div> 
       </div>
