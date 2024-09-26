@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: false
-date: 2024-09-26T19:55:56.344Z
+date: 2024-09-26T19:57:45.847Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
@@ -27,16 +27,16 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>
           <div style="display: flex; align-items: center;">
             <div style="margin-right: 10px;">
-              <img src="/guides/language/vulpakin.png">
-              <br>Декспик
+              <a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
+              <br>Декспик</a>
             </div>
             <div style="margin-right: 10px;">
-              <img src="/guides/language/vulpakin.png">
-              <br>Мука
+              <a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
+              <br>Мука</a>
             </div>
             <div>
-              <img src="/guides/language/vulpakin.png">
-              <br>Перскивин
+              <a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
+                <br>Перскивин</a>
             </div>
           </div>
         </td>
