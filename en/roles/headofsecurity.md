@@ -2,7 +2,7 @@
 title: Head Of Security
 description: 
 published: true
-date: 2024-09-26T14:28:06.796Z
+date: 2024-09-26T14:28:44.270Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T14:08:42.897Z
@@ -54,7 +54,7 @@ dateCreated: 2024-09-21T14:08:42.897Z
 <font size="5">
 <center>
 <a href="/guides/officership" class="up is-internal-link is-valid-page">
-<strong>Security Officer Guide. Be sure to read it if you want to be a competent Head of Security.</strong>
+<strong>Security Officer Guide. Be sure to read it if you want to be a competent<br> Head of Security.</strong>
 </a>
 </center>
 </font>
