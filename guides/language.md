@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: false
-date: 2024-09-27T19:59:51.995Z
+date: 2024-09-27T20:01:05.697Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
@@ -168,7 +168,7 @@ dateCreated: 2024-09-26T19:23:46.378Z
 ## <center>Специальные устройства</center>
 
 <p>
- Вы можете освоить новый язык с помощью специального имплантера <img src="/guides/language/implanter0.png" style="vertical-align: middle;"> или общаться с окружающими через переводчик <img src="/guides/language/translator.png" style="vertical-align: middle;">.
+ Вы можете освоить новый язык с помощью специального имплантера <img src="/guides/language/implanter0.png" style="vertical-align: middle;"> или общаться с носителями специфичных языков через переводчик <img src="/guides/language/translator.png" style="vertical-align: middle;">.
 
 Уровень владения языком, достигнутый с помощью имплантера, может быть как базовым, так и продвинутым. Базовый уровень позволяет вам понимать язык, но не говорить на нем, в то время как продвинутый дает вам возможность не только понимать, но и свободно общаться на этом языке.
 </p>
