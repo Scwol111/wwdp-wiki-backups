@@ -2,7 +2,7 @@
 title: Шаблон паспорта роли
 description: 
 published: true
-date: 2024-09-27T19:26:31.167Z
+date: 2024-09-27T19:26:50.970Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:21:17.004Z
@@ -112,19 +112,7 @@ CSS
   text-align: center;
   border-radius: 16px 16px 0 0;
   flex: 0 2 0;
-  background-repeat: repeat-x;
-  background-size: 400% 100%
-}
-.roles-passport .title:hover {
-  animation: AnimationName 120s linear infinite
-}
-@keyframes AnimationName {
-  0% {
-    background-position: 100% 50%
-  }
-  100% {
-    background-position: -33% 50%
-  }
+  box-shadow: 0 0 16px 4px rgba(0,0,0,0.7) inset;
 }
 .roles-passport .title a {
   color: #fff!important;
