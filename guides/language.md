@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: false
-date: 2024-09-27T08:56:52.132Z
+date: 2024-09-27T09:14:54.883Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
@@ -118,9 +118,17 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>Сквик!</td>
         <td>
 <a href="/roles/hamlet"><img src="/roles/hamlet.gif">
-              <br>Гамлет</a><br><a href="/roles/mouse"><img src="/roles/ratge-asss1.gif">
+              <br>Хомяки</a><br><a href="/roles/mouse"><img src="/roles/ratge-asss1.gif">
               <br>Мыши</a><br><a href="/roles/remilia"><img src="/roles/remilia.gif">
               <br>Ремилия</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Примитивный </td>
+        <td>Бананы!</td>
+        <td>
+<img src="/guides/language/monkey.png">
+              <br>Обезьяны
         </td>
       </tr>
     </tbody>
