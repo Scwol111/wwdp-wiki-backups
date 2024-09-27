@@ -2,11 +2,13 @@
 title: Языки
 description: 
 published: false
-date: 2024-09-27T09:31:15.447Z
+date: 2024-09-27T19:22:09.782Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
 ---
+
+ц
 
 # <center>Языки разных видов</center>
 
@@ -139,6 +141,14 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>
 <img src="/guides/language/monkey.png">
               <br>Обезьяны
+        </td>
+      </tr>
+      <tr>
+        <td>Универсальный</td>
+        <td>Язык астральных существ и богов. Позволяет понимать любой язык.</td>
+        <td>
+<a href="/roles/ghost"><img src="/roles/ghost.png">
+  <br>Призраки</a>
         </td>
       </tr>
     </tbody>
