@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-09-25T18:57:33.771Z
+date: 2024-09-27T20:21:00.431Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -293,7 +293,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/pirate">Пират</a><a href="/roles/pirate"><img src="/roles/pirate.png" /></a></div>
   <div><div>Головорез, способный украсть не только деньги, одежду, все оборудование станции и шаттл карго, но и твое сердечко. В погоне за деньгами он не остановится ни перед чем.</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/revenant">Ревенант</a><a href="/roles/revenant"><img src="/roles/revenant.png" /></a></div>
+  <div><a href="/roles/revenant">Ревенант</a><a href="/roles/revenant"><img src="/roles/revenant.gif" /></a></div>
   <div><div>Призрак, что любит кошмарить станцию. Если вы получили информацию, что это существо ходит по станции, то убедительная просьба НЕ ХОДИТЬ ПО ОДНОМУ.</div></div>
   <div>Средне</div>
   <div><a href="/roles/ratking">Крысиный Король</a><a href="/roles/ratking"><img src="/roles/ratking.png" /></a></div>
