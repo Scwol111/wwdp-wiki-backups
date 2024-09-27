@@ -2,7 +2,7 @@
 title: Ревенант
 description: 
 published: true
-date: 2024-09-25T18:32:54.504Z
+date: 2024-09-27T20:20:34.269Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:32:54.504Z
@@ -12,7 +12,7 @@ dateCreated: 2024-09-25T18:32:54.504Z
 <div class="roles-passport antag">
   <div class="title antag"><a href="/roles/antagonists">Антагонист</a></div>
   <div>
-    <div><div><img src="/roles/revenant.png"></div></div>
+    <div><div><img src="/roles/revenant.gif"></div></div>
   <div><div>
     <h1>Ревенант</h1>
     <p><strong>Сложность:</strong> От лёгкой до средней</p>
