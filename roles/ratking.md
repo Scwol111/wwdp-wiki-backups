@@ -2,7 +2,7 @@
 title: Крысиный король
 description: 
 published: true
-date: 2024-09-25T18:33:30.786Z
+date: 2024-09-27T20:25:15.852Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:33:30.786Z
@@ -67,22 +67,22 @@ dateCreated: 2024-09-25T18:33:30.786Z
         <td>10 секунд</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/rat_king/attack.png"><br>Атакуй того, на кого укажу</td>
+        <td><img src="/attack.png"><br>Атакуй того, на кого укажу</td>
         <td>Крысы начинают атаковать тот объект, на который вы укажите.</td>
         <td></td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/rat_king/follow.png"><br>Ходи со мной</td>
+        <td><img src="/follow.png"><br>Ходи со мной</td>
         <td>Крысы начинают ходить за вами, игнорируя врагов.</td>
         <td></td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/rat_king/stay.png"><br>Стоять</td>
+        <td><img src="/stay.png"><br>Стоять</td>
         <td>Крысы станут на месте и будут ждать, пока вы не прикажете что-то другое.</td>
         <td></td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/rat_king/loose.png"><br>Освободить</td>
+        <td><img src="//loose.png"><br>Освободить</td>
         <td>Крысам возвращается ИИ. Они начинают искать еду и атаковать ближайших людей.</td>
         <td></td>
       </tr>
