@@ -2,13 +2,13 @@
 title: Языки
 description: 
 published: false
-date: 2024-09-27T08:55:12.710Z
+date: 2024-09-27T08:55:36.326Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
 ---
 
-# Языки
+# <center>Языки</center>
 
 <center style="overflow-x: auto">
   <table class="language">
