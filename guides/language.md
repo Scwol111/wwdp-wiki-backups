@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: false
-date: 2024-09-27T08:28:05.704Z
+date: 2024-09-27T08:55:02.462Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
@@ -25,19 +25,19 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>Общегалактический</td>
         <td>Стандартный галактический язык, часто используемый для межвидового общения и юридической работы.</td>
         <td>
-<a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
+<a href="Ссылка на расу"><img src="/guides/language/human.png">
               <br>Все расы, встречаемые на станции.</a>
         </td>
       <tr>
         <td>Общесолнечный</td>
         <td>Язык, общий для видов из Солнечной системы.</td>
         <td>
-<a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
+<a href="Ссылка на расу"><img src="/guides/language/human.png">
               <br>Люди</a><br>
-<a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
-              <br>Дворфы</a><br> <a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
+<a href="Ссылка на расу"><img src="/guides/language/dwarf.png">
+              <br>Дварфы</a><br> <a href="Ссылка на расу"><img src="/guides/language/hurpy.png">
               <br>Гарпии</a><br>
-<a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
+<a href="Ссылка на расу"><img src="/guides/language/feline.png">
               <br>Фелиниды</a>
         </td>
       </tr>
@@ -45,7 +45,7 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>Драконский</td>
         <td>Общий язык ящеров, состоящий из щипящих звуков и стрекотаний.</td>
         <td>
-<a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
+<a href="Ссылка на расу"><img src="/guides/language/lizard.png">
               <br>Унатхи</a>
         </td>
       </tr>
@@ -53,7 +53,7 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>Бинарный</td>
         <td>Бип-буп, 1010010110110101010. </td>
         <td>
-<a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
+<a href="Ссылка на расу"><img src="/guides/language/kpb.png">
               <br>КПБ</a>
         </td>
       </tr>
@@ -61,7 +61,7 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>Пузырчатый</td>
         <td>Язык слаймов. Поскольку он представляет собой смесь булькающих звуков и хлопков, людям очень трудно говорить на нем без использования механических приспособлений.</td>
         <td>
-<a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
+<a href="Ссылка на расу"><img src="/guides/language/slimeman.png">
               <br>Сламолюды</a>
         </td>
       </tr>
@@ -69,7 +69,7 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>Песнь корней</td>
         <td>Скрипучий субголосый язык, на котором инстиктивно говорят дионы. Из-за уникального состава средней фразы дионы, песни корней могут представлять собой комбинацию от одного до двенадцати отдельных голосов и нот.</td>
         <td>
-<a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
+<a href="Ссылка на расу"><img src="/guides/language/dione.png">
               <br>Дионы</a>
         </td>
       </tr>
@@ -77,7 +77,7 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>Жужжащий</td>
         <td>Язык жуков и мотыльков, граничит с полной неразборчивостью.</td>
         <td>
-<a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
+<a href="Ссылка на расу"><img src="/guides/language/moth.png">
               <br>Моль</a>
         </td>
       </tr>
@@ -85,7 +85,7 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>Мурчащий</td>
         <td>Язык таяран и фелинидов. По большей части, для общения на нем используется хвост.</td>
         <td>
-<a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
+<a href="Ссылка на расу"><img src="/guides/language/feline.png">
               <br>Фелиниды</a>
         </td>
       </tr>
