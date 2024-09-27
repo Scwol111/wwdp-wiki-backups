@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: false
-date: 2024-09-27T09:22:06.358Z
+date: 2024-09-27T09:30:21.116Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
@@ -54,6 +54,14 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>
 <a href="Ссылка на расу"><img src="/guides/language/kpb.png">
               <br>КПБ</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Гортанный</td>
+        <td>Гортанный язык, состоящий из рычания, лая, тявканья и интенсивного использования движений ушами и хвостом. Вульпакины легко говорят на этом языке.</td>
+        <td>
+<a href="Ссылка на расу"><img src="/guides/language/vulpakin.png">
+              <br>Вульпакины</a>
         </td>
       </tr>
       <tr>
