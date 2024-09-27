@@ -2,7 +2,7 @@
 title: Шаблон паспорта роли
 description: 
 published: true
-date: 2024-09-27T07:34:26.881Z
+date: 2024-09-27T07:53:13.220Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:21:17.004Z
@@ -22,3 +22,5 @@ dateCreated: 2024-09-26T19:21:17.004Z
       <br>
         <b>Руководства</b>: <a href="/guides/hierarchyofcommand" title="Иерархия Командования" class="is-internal-link is-valid-page">Иерархия Командования</a> • <a href="/guides/especiallyvaluableitems" title="Особо ценные предметы" class="is-internal-link is-valid-page">Особо ценные предметы</a>
         </div></div></div></div></div>
+        
+<div class="roles-passport"><div class="title comm">asdcqjwdcnblqiwubd</div></div>
