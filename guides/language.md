@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: false
-date: 2024-09-27T20:01:05.697Z
+date: 2024-09-27T20:05:55.615Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
@@ -142,7 +142,8 @@ dateCreated: 2024-09-26T19:23:46.378Z
 <a href="/roles/hamlet"><img src="/roles/hamlet.gif">
               <br>Хомяки</a><br><a href="/roles/mouse"><img src="/roles/ratge-asss1.gif">
               <br>Мыши</a><br><a href="/roles/remilia"><img src="/roles/remilia.gif">
-              <br>Ремилия</a>
+              <br>Ремилия</a><br><a href="/roles/ratking"><img style="width: 64px" src="/roles/ratking.png">
+              <br>Крысиный король</a>
         </td>
       </tr>
       <tr>
