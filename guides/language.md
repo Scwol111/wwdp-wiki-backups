@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: false
-date: 2024-09-27T19:22:09.782Z
+date: 2024-09-27T19:24:24.267Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
@@ -145,9 +145,9 @@ dateCreated: 2024-09-26T19:23:46.378Z
       </tr>
       <tr>
         <td>Универсальный</td>
-        <td>Язык астральных существ и богов. Позволяет понимать любой язык.</td>
+        <td>Язык астральных существ и богов. Его обладатели понимают любых существ.</td>
         <td>
-<a href="/roles/ghost"><img src="/roles/ghost.png">
+<a href="/roles/ghost"><img src="/guides/language/ghost2.png">
   <br>Призраки</a>
         </td>
       </tr>
