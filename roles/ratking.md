@@ -2,7 +2,7 @@
 title: Крысиный король
 description: 
 published: true
-date: 2024-09-27T20:25:15.852Z
+date: 2024-09-27T20:25:44.032Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:33:30.786Z
@@ -82,7 +82,7 @@ dateCreated: 2024-09-25T18:33:30.786Z
         <td></td>
       </tr>
       <tr>
-        <td><img src="//loose.png"><br>Освободить</td>
+        <td><img src="/loose.png"><br>Освободить</td>
         <td>Крысам возвращается ИИ. Они начинают искать еду и атаковать ближайших людей.</td>
         <td></td>
       </tr>
