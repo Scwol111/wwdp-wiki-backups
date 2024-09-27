@@ -2,14 +2,13 @@
 title: Языки
 description: 
 published: false
-date: 2024-09-27T08:55:02.462Z
+date: 2024-09-27T08:55:12.710Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
 ---
 
-# Кунилингус 
-ПРИМЕР
+# Языки
 
 <center style="overflow-x: auto">
   <table class="language">
