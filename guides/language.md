@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: false
-date: 2024-09-27T19:47:06.881Z
+date: 2024-09-27T19:54:54.004Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
@@ -164,3 +164,10 @@ dateCreated: 2024-09-26T19:23:46.378Z
     </tbody>
   </table>
 </center>
+
+## <center>Специальные устройства</center>
+
+<p>
+  Вы можете выучить новый язык, используя специальный 
+  имплантер <img src="/guides/language/implanter0.png" style="vertical-align: middle;">, или общаться с кем-то через переводчик <img src="/guides/language/translator.png" style="vertical-align: middle;">. 
+</p>
