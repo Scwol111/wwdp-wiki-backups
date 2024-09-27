@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: false
-date: 2024-09-27T09:14:54.883Z
+date: 2024-09-27T09:22:06.358Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
@@ -61,7 +61,8 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>Язык слаймов. Поскольку он представляет собой смесь булькающих звуков и хлопков, людям очень трудно говорить на нем без использования механических приспособлений.</td>
         <td>
 <a href="Ссылка на расу"><img src="/guides/language/slimeman.png">
-              <br>Сламолюды</a>
+              <br>Сламолюды</a><br><img src="/guides/language/slime.gif">
+              <br>Слаймы
         </td>
       </tr>
       <tr>
@@ -77,7 +78,8 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>Язык жуков и мотыльков, граничит с полной неразборчивостью.</td>
         <td>
 <a href="Ссылка на расу"><img src="/guides/language/moth.png">
-              <br>Моль</a>
+              <br>Моль</a><br><img src="/guides/language/mothroach.png">
+              <br>Тараканомоли
         </td>
       </tr>
       <tr>
