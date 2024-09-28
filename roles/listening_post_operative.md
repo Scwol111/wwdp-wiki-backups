@@ -1,8 +1,8 @@
 ---
 title: Радист Наблюдательного Поста
 description: Наблюдательный пост, прослушка, прослушивающий пост, радист.
-published: false
-date: 2024-09-28T20:43:23.641Z
+published: true
+date: 2024-09-28T20:44:28.116Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T20:18:42.508Z
