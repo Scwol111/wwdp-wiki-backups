@@ -2,7 +2,7 @@
 title: Научный Руководитель
 description: 
 published: true
-date: 2024-09-25T18:07:39.208Z
+date: 2024-09-28T01:44:06.057Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -19,7 +19,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
         <p><strong>Сложность:</strong> Средняя</p>
         <strong>Обязанности:</strong> Глава исследований и разработки. Следить за работой отдела, а также за выполнением их задач.<br>
         <b>Руководители</b>: <a href="/roles/captain" title="Капитан">Капитан</a><br>
-        <b>Руководства</b>: <a href="/guides/hierarchyofcommand">Иерархия Командования</a> • <a href="/guides/xenoarcheology">Ксеноархеология</a> • <a href="/guides/anomalousresearch">Аномалии</a> • <a href="/guides/borgcreating">Боргостроение</a> • <a href="/guides/robotics">Робототехника</a> • <a href="/guides/exosuits">Экзокостюмы</a>
+        <b>Руководства</b>: <a href="/guides/hierarchyofcommand">Иерархия Командования</a> • <a href="/guides/xenoarcheology">Ксеноархеология</a> • <a href="/guides/anomalousresearch">Аномалии</a> • <a href="/guides/borgcreating">Боргостроение</a> • <a href="/guides/robotics">Робототехника</a> • <a href="/guides/psionics">Псионика</a>
         </div>
         <div id="tb2" style="display:none;">
           <div class="post-icon">
