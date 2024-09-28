@@ -2,7 +2,7 @@
 title: Радист синдиката
 description: Наблюдательный пост
 published: false
-date: 2024-09-28T20:40:32.300Z
+date: 2024-09-28T20:41:51.839Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T20:18:42.508Z
@@ -14,7 +14,7 @@ dateCreated: 2024-09-28T20:18:42.508Z
   <div>
     <div><div><img src="/roles/listening_operative.png"></div></div>
   <div><div>
-    <h1>Радист синдиката</h1>
+    <h1>Радист Наблюдательного Поста</h1>
     <p><strong>Сложность:</strong> Сложная</p>
     <strong>Цели:</strong> Контролировать связь со станцией и информировать о её состоянии. <br>
 Оказывать помощь коллегам, которые могут находиться на станции.<br>
