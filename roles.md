@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-09-28T20:04:38.523Z
+date: 2024-09-28T20:05:37.245Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -317,7 +317,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/paradox-anomaly" class="is-internal-link is-valid-page">Парадоксальная аномалия</a><a href="/roles/paradox-anomaly"><img src="/roles/paradox-anomaly.png" /></a></div>
   <div><div>Основная цель Парадоксальной аномалии - либо убить оригинала и заменить его собой, либо сохранить жизнь своему клону и подружиться с ним. Вторичная цель - сбежать на ЦентКом живым и свободным.</div></div>
   <div>Достаточно сложно</div>
-  <div><a href="/roles/listening_post_operative" class="is-internal-link is-valid-page">Оперативник прослушки</a><a href="/roles/listening_post_operative"><img src="/roles/listening_operative" /></a></div>
+  <div><a href="/roles/listening_post_operative" class="is-internal-link is-valid-page">Оперативник прослушки</a><a href="/roles/listening_post_operative"><img src="/roles/listening_operative.png" /></a></div>
   <div><div>Основная цель Парадоксальной аномалии - либо убить оригинала и заменить его собой, либо сохранить жизнь своему клону и подружиться с ним. Вторичная цель - сбежать на ЦентКом живым и свободным.</div></div>
   <div>Достаточно сложно</div>
 </div>
