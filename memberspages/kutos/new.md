@@ -2,7 +2,7 @@
 title: БЛЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯ
 description: 
 published: true
-date: 2024-09-28T18:47:24.376Z
+date: 2024-09-28T18:48:31.050Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T18:32:42.857Z
@@ -10,9 +10,7 @@ dateCreated: 2024-09-28T18:32:42.857Z
 
 <center>
 <div class="warning-banner">
-  <img src="/guides/engineering.png" style="float: left; margin-right: 10px; vertical-align: middle;">
-  <img src="/guides/engineering.png" style="float: right; margin-left: 10px; vertical-align: middle;">
-  <h2>К сожалению, эта статья уже не актуальна.</h2>
+  <h2> <img src="/guides/engineering.png" style="float: left; margin-right: 10px; vertical-align: middle;">К сожалению, эта статья уже не актуальна.  <img src="/guides/engineering.png" style="float: right; margin-left: 10px; vertical-align: middle;"></h2>
   <p>В этой статье есть часть устаревшей информации. Мы уже работаем над её обновлением.</p>
 </div>
 </center>
