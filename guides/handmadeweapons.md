@@ -2,11 +2,19 @@
 title: Самодельное оружие
 description: 
 published: true
-date: 2024-09-19T20:22:05.272Z
+date: 2024-09-28T18:35:26.010Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-19T20:20:38.412Z
 ---
+
+<center><div class="warning-banner">
+  <img src="/guides/engineering.png" style="float: left; margin-right: 10px; width: 50px; height: 50px;">
+  <img src="/guides/engineering.png" style="float: right; margin-left: 10px; width: 50px; height: 50px;">
+  <h2>К сожалению, эта статья уже не актуальна.</h2>
+  <p>В этой статье есть часть устаревшей информации. Мы уже работаем над её обновлением.</p>
+</div>
+</center>
 
 <h1>Введение</h1>
 <p>Боец, раз ты обращаешься к нам, по всей видимости тебя застали в расплох, патронов нет, или чувство мести настолько сильное, что нету даже секунды на размышление? Мы готовы помочь вам.</p>
