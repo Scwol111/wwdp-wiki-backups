@@ -2,7 +2,7 @@
 title: Инвентарь службы безопасности
 description: 
 published: true
-date: 2024-09-28T09:05:30.342Z
+date: 2024-09-28T09:22:48.081Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T03:39:12.481Z
@@ -52,6 +52,14 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <div class="table-item">
     <p>Используются для удержания преступников и прочих засранцев.</p>
+  </div>
+  <!--  -->
+  <div class="table-item button">
+    <img src="/guides/psionics/insulativeheadcage.png" alt="handcuff.png">
+		Изоляционный головной убор
+  </div>
+  <div class="table-item">
+    <p>Используются для удержания преступников с псионическими способностями. Потребует время чтобы снять.</p>
   </div>
   <!--  -->
   <div class="table-item button">
@@ -547,6 +555,21 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <div class="table-item">
     <p>Стандартное защитное снаряжение. Защищает голову от ударов.</p>
+  </div>
+  <!--  -->
+  <div class="table-item button">
+    <img src="/guides/psionics/insulativeskullcap.png" alt="ghost.png">
+		Изоляционный череп
+  </div>
+  <div class="table-item">
+    <p>Обеспечивает след. защиту:</p>
+    <p>- <span class="damageType">Тупой</span> урон снижается на <span class="percent">15%</span></p>
+    <p>- <span class="damageType">Рубящий</span> урон снижается на <span class="percent">15%</span></p>
+    <p>- <span class="damageType">Проникающий</span> урон снижается на <span class="percent">5%</span></p>
+    <p>- <span class="damageType">Радиационный</span> урон снижается на <span class="percent">5%</span></p>
+  </div>
+  <div class="table-item">
+    <p>Наилучшая защита от псионических атак. Кроме того, обеспечивает защиту от более материальных повреждений.</p>
   </div>
   <!--  -->
   <div class="table-item button">
