@@ -2,7 +2,7 @@
 title: Ученый
 description: 
 published: true
-date: 2024-09-28T16:16:11.270Z
+date: 2024-09-28T16:17:15.915Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:48:17.876Z
