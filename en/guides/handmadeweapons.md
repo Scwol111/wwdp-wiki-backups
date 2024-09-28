@@ -2,11 +2,17 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-09-19T20:23:56.075Z
+date: 2024-09-28T21:12:54.037Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-19T20:23:56.075Z
 ---
+
+<center><div class="warning-banner">
+  <h2>Unfortunately, this article is outdated.</h2>
+  <p>This article contains some outdated information. We will update it soon.</p>
+</div>
+</center>
 
 <h1>Introduction</h1>
 <p>Fighter, if you're reaching out to us, you're likely caught off guard, out of ammo, or driven by such a thirst for revenge that you don't have a second to think. We're here to help.</p>
