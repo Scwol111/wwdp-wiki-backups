@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: true
-date: 2024-09-27T20:07:16.928Z
+date: 2024-09-28T03:19:07.126Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
