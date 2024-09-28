@@ -2,7 +2,7 @@
 title: Газы
 description: 
 published: true
-date: 2024-09-28T09:56:41.202Z
+date: 2024-09-28T09:58:15.480Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T09:40:05.422Z
@@ -171,12 +171,12 @@ dateCreated: 2024-09-28T09:40:05.422Z
 </thead>
 <tbody>
 <tr>
-<td><img src="/pipes/pumps/pumpmanualvalve.png" alt=""></td>
+<td><img src="/pipes/pumpmanualvalve.png" alt=""></td>
 <td>Ручной клапан</td>
 <td>Можно открывать и закрывать рукой.</td>
 </tr>
 <tr>
-<td><img src="/pipes/pumps/pumpsignalvalve.png" alt=""></td>
+<td><img src="/pipes/pumpsignalvalve.png" alt=""></td>
 <td>Сигнальный клапан</td>
 <td>Можно включать и выключать путём присоединения его конфигуратором сетей к любому раздатчику сигналов. (К примеру кнопка, или передатчик сигналов).</td>
 </tr>
