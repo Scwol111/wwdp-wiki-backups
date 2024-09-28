@@ -2,7 +2,7 @@
 title: Аплинк
 description: 
 published: true
-date: 2024-09-28T17:12:45.578Z
+date: 2024-09-28T17:14:35.555Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -1396,7 +1396,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
 
 <center>
   <div class="table-wrapper">
-    <p>Доступно только <a href="/roles/nuclearoperative" class="is-internal-link is-valid-page">ядерным оперативникам</a></p><table class="ant">
+<table class="ant">
       <thead>
       <tr>
         <th>Предмет</th>
@@ -1469,9 +1469,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
 <p>Снаряжение борга: Лом, ЕМАГ, пинпоинтер, L6C ROW, энерго меч.</p>
 <p>При получении критического урона, издает громкий звук.</p>
 <p>Падает после получение 100 урона, можно поднять сваркой.</p></td>
-
     </tr>
-  
 </thead></table>
 
 
