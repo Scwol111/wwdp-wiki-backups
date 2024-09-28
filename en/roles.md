@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-09-26T14:27:20.398Z
+date: 2024-09-28T21:06:04.946Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -290,7 +290,7 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
 <div><a href="/roles/pirate">Pirate</a><a href="/roles/pirate"><img src="/roles/pirate.png" /></a></div>
 <div><div>A cutthroat who can steal not only money, clothes, all the station's equipment and shuttle cargo, but also your heart. In pursuit of money, he will stop at nothing.</div></div>
 <div>Hard</div>
-<div><a href="/roles/revenant">Revenant</a><a href="/roles/revenant"><img src="/roles/revenant.png" /></a></div>
+<div><a href="/roles/revenant">Revenant</a><a href="/roles/revenant"><img src="/roles/revenant.gif" /></a></div>
 <div><div>A ghost that likes to haunt the station. If you get information that this creature is walking the station, then a strong request NOT TO WALK ALONE.</div></div>
 <div>Medium</div>
 <div><a href="/roles/ratking">Rat King</a><a href="/roles/ratking"><img src="/roles/ratking.png" /></a></div>
@@ -314,6 +314,9 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
 <div><a href="/roles/paradox-anomaly">Paradox Anomaly</a><a href="/roles/paradox-anomaly"><img src="/roles/paradox-anomaly.png" /></a></div>
 <div><div>The main goal of the Paradox Anomaly is either to kill the original and replace it with itself, or to save the life of its clone and befriend it. The secondary goal is to escape to CentCom alive and free.</div></div>
 <div>Quite hard</div>
+<div><a href="/roles/listening_post_operative">Listening Post Operative</a><a href="/roles/listening_post_operative"><img src="/roles/paradox-anomaly.png" /></a></div>
+<div><div>Engaged in listening to and monitoring the activities of the NanoTreasen station on its outpost.</div></div>
+<div>Easy</div>
 </div>
  
 <div class="roles-table ceco">
