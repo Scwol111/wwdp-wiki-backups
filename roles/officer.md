@@ -2,7 +2,7 @@
 title: Офицер
 description: 
 published: true
-date: 2024-09-26T15:09:05.768Z
+date: 2024-09-28T21:26:03.088Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:59:37.975Z
@@ -46,7 +46,7 @@ dateCreated: 2024-09-25T17:59:37.975Z
 <font size="5">
 <center>
 <a href="/roles/sec/thebrig.png" class="up"  style="text-decoration: none;">
-	<strong>Руководство по службе безопасности. Обязательно прочтите его, если вы хотите стать компетентным Главой СБ.</strong>
+	<strong>Руководство по службе безопасности. Обязательно прочтите его, если вы хотите стать компетентным офицером СБ.</strong>
 </a>
 </center> 
 </font>
