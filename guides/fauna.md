@@ -2,7 +2,7 @@
 title: Фауна
 description: 
 published: true
-date: 2024-09-28T03:01:24.028Z
+date: 2024-09-28T03:03:27.373Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T02:37:43.786Z
@@ -93,7 +93,7 @@ dateCreated: 2024-09-28T02:37:43.786Z
         <td>
           <img src="/roles/ratge-asss1.gif">
         </td>
-        <td><a href="/guides/roles/mouse" class="is-internal-link is-valid-page">Мышь</a></td>
+        <td><a href="/roles/mouse" class="is-internal-link is-valid-page">Мышь</a></td>
         <td>Страх ботаников и заклятый враг поваров. Может пролезть почти под любой дверью. Ест всю еду, что увидит, даже таблетки.</td>
         <td>Карго, Случайный спавн</td>
       </tr>
