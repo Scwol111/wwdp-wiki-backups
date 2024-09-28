@@ -2,7 +2,7 @@
 title: Фауна
 description: 
 published: true
-date: 2024-09-28T02:43:26.201Z
+date: 2024-09-28T02:59:39.777Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T02:37:43.786Z
@@ -290,6 +290,14 @@ dateCreated: 2024-09-28T02:37:43.786Z
         <td>МакГрифф</td>
         <td>Пёс вардена брига. Постоянно хрипит и спит.</td>
         <td>Офис Вардена</td>
+      </tr>
+      <tr>
+        <td>
+          <img src="/guides/fauna/secdog.gif">
+        </td>
+        <td>Лайка</td>
+        <td>Собака, принадлежащая Главе Службы Безопасности. Это уличная порода, всегда готовая к драке. Она чувствует нарушение закона.</td>
+        <td>Офис Главы Службы Безопасности</td>
       </tr>
       <tr>
         <td>
@@ -637,6 +645,14 @@ dateCreated: 2024-09-28T02:37:43.786Z
         </td>
         <td>Синди Кошка</td>
         <td>Милое на первый взгляд создание. Взрывается после смерти.</td>
+        <td><a href="/guides/uplink" class="is-internal-link is-valid-page">Аплинк</a></td>
+      </tr>
+      <tr>
+        <td>
+          <img src="/guides/fauna/nukiemouse.png">
+        </td>
+        <td>Мышь ядерный оперативник</td>
+        <td>Погодите, что?... <br>Обычная мышь в скафандре оперативника, предназначенном для грызунов. Она знает кодовые слова, используемые синдикатом. </td>
         <td><a href="/guides/uplink" class="is-internal-link is-valid-page">Аплинк</a></td>
       </tr>
     </tbody>
