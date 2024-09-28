@@ -2,7 +2,7 @@
 title: Радист синдиката
 description: Наблюдательный пост
 published: false
-date: 2024-09-28T20:36:16.227Z
+date: 2024-09-28T20:37:56.548Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T20:18:42.508Z
