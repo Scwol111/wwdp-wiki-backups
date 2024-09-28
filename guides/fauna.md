@@ -2,7 +2,7 @@
 title: Фауна
 description: 
 published: true
-date: 2024-09-28T03:03:27.373Z
+date: 2024-09-28T03:09:31.031Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T02:37:43.786Z
@@ -155,6 +155,14 @@ dateCreated: 2024-09-28T02:37:43.786Z
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td>
+          <img src="/guides/fauna/mothroach.png">
+        </td>
+        <td>Тараканомоль</td>
+        <td>Очаровательный побочный продукт многочисленных генетических эксперементов над моле-людьми. Питается различной тканью и тем, что из нее состоит.</td>
+        <td>Карго, Случайный спавн</td>
+      </tr>
       <tr>
         <td>
           <img src="/guides/fauna/dead_bee_.png">
