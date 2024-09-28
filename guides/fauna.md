@@ -2,7 +2,7 @@
 title: Фауна
 description: 
 published: true
-date: 2024-09-28T03:00:23.847Z
+date: 2024-09-28T03:01:24.028Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T02:37:43.786Z
@@ -194,15 +194,7 @@ dateCreated: 2024-09-28T02:37:43.786Z
         <td>Краб</td>
         <td>Любит танцевать на пляже с друзьями. Может быть хорошим экспонатом в зоопарке.</td>
         <td>Карго</td>
-      </tr>
-      <tr>
-        <td>
-          <img src="/guides/role/gnome.png">
-        </td>
-        <td><a href="/roles/gnome" class="is-internal-link is-valid-page">Гном</a></td>
-        <td>Этот бородатый гном явно что-то замышляет.</td>
-        <td>Гидропоника</td>
-			</tr><tr>
+      </tr><tr>
     </tr></tbody>
   </table>
   </div>
@@ -221,7 +213,7 @@ dateCreated: 2024-09-28T02:37:43.786Z
     <tbody>
       <tr>
         <td>
-          <img src="/guides/fauna/hamlet.png">
+          <img src="/roles/hamlet.gif">
         </td>
         <td><a href="/roles/hamlet" class="is-internal-link is-valid-page">Гамлет</a></td>
         <td>Находится в своей хомячьей клетке на мостике. Желательно его выпускать, а то он её сгрызёт ещё. Почему-то с ним любят делать ЕРП...</td>
