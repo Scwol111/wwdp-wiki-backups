@@ -1,8 +1,8 @@
 ---
-title: Радист синдиката
-description: Наблюдательный пост
+title: Радист Наблюдательного Поста
+description: Наблюдательный пост, прослушка, прослушивающий пост.
 published: false
-date: 2024-09-28T20:42:52.819Z
+date: 2024-09-28T20:43:15.987Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T20:18:42.508Z
