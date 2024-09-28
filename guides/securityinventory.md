@@ -2,7 +2,7 @@
 title: Инвентарь службы безопасности
 description: 
 published: true
-date: 2024-09-28T03:40:54.135Z
+date: 2024-09-28T03:51:20.515Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T03:39:12.481Z
@@ -15,7 +15,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   <div class="table-title">Описание</div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/seclite.png" alt="seclite.png">
+    <img src="/guides/security/seclite.png" alt="seclite.png">
 		Фонарь СБ
   </div>
   <div class="table-item">
@@ -31,7 +31,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/flash.gif" alt="flash.gif">
+    <img src="/guides/security/flash.gif" alt="flash.gif">
 		Вспышка
   </div>
   <div class="table-item">
@@ -39,7 +39,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/holoprojector-security.gif" alt="holoprojector-security.gif">
+    <img src="/guides/security/holoprojector-security.gif" alt="holoprojector-security.gif">
 		Голобарьерный проектор
   </div>
   <div class="table-item">
@@ -47,7 +47,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/handcuff.png" alt="handcuff.png">
+    <img src="/guides/security/handcuff.png" alt="handcuff.png">
 		Наручники
   </div>
   <div class="table-item">
@@ -55,7 +55,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/zipties.png" alt="zipties.png">
+    <img src="/guides/security/zipties.png" alt="zipties.png">
 		Кабельные стяжки
   </div>
   <div class="table-item">
@@ -63,7 +63,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/bola.png" alt="bola.png">
+    <img src="/guides/security//bola.png" alt="bola.png">
 		Бола
   </div>
   <div class="table-item">
@@ -87,7 +87,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/bodycamera.gif" alt="bodycamera.gif" href="/guides/securityinventory/bodycamera">
+    <img src="/guides/security/bodycamera.gif" alt="bodycamera.gif" href="/guides/securityinventory/bodycamera">
 		<a href="/guides/securityinventory/bodycamera" class="is-internal-link is-valid-page">Бодикамера</a>
   </div>
   <div class="table-item">
@@ -95,7 +95,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/dictaphone.gif" alt="dictaphone.gif">
+    <img src="/guides/security/dictaphone.gif" alt="dictaphone.gif">
     <a href="/guides/securityinventory/dictaphone" class="is-internal-link is-valid-page">Диктофон</a>
   </div>
   <div class="table-item">
@@ -103,7 +103,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/forensic-scanner.gif">
+    <img src="/guides/security/forensic-scanner.gif">
     Криминалистический сканер
   </div>
   <div class="table-item">
@@ -111,7 +111,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/logprobe.png">
+    <img src="/guides/security/logprobe.png">
     LogProbe картридж
   </div>
   <div class="table-item">
@@ -119,7 +119,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/ziplock.png">
+    <img src="/guides/security/ziplock.png">
     Зип пакет
   </div>
   <div class="table-item">
@@ -127,7 +127,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/evidence-marker.gif">
+    <img src="/guides/security/evidence-marker.gif">
     Метка улик
   </div>
   <div class="table-item">
@@ -135,7 +135,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/grenade-flash-bang.png" alt="grenade-flash-bang.png">
+    <img src="/guides/security/grenade-flash-bang.png" alt="grenade-flash-bang.png">
 		Светошумовая граната
   </div>
   <div class="table-item">
@@ -143,7 +143,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/cluster-bang-full.png" alt="cluster-bang-full.png">
+    <img src="/guides/security/cluster-bang-full.png" alt="cluster-bang-full.png">
 		Кластерная светошумовая граната
   </div>
   <div class="table-item">
@@ -151,7 +151,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/grenade-stinger.png" alt="grenade-stinger.png">
+    <img src="/guides/security/grenade-stinger.png" alt="grenade-stinger.png">
 		Граната "Жало"
   </div>
   <div class="table-item">
@@ -159,7 +159,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/smoke-greande.png" alt="smoke-greande.png">
+    <img src="/guides/security/smoke-greande.png" alt="smoke-greande.png">
 		Дымовая шашка
   </div>
   <div class="table-item">
@@ -167,7 +167,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/tear-gas-grenade.png" alt="tear-gas-grenade.png">
+    <img src="/guides/security/tear-gas-grenade.png" alt="tear-gas-grenade.png">
 		Слезоточивая граната
   </div>
   <div class="table-item">
@@ -187,11 +187,11 @@ dateCreated: 2024-09-28T03:39:12.481Z
   <div class="table-title">Описание</div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/gun/cv-47.png" alt="cv-47.png">
+    <img src="/guides/security/cv-47.png" alt="cv-47.png">
     CV-47
   </div>
   <div class="table-item">
-    <img src="/weapon/magazine/magazine-light-rifle.png" alt="magazine-light-rifle.png">
+    <img src="/guides/security/magazine-light-rifle.png" alt="magazine-light-rifle.png">
 		.30 винтовочный
   </div>
   <div class="table-item">
@@ -199,11 +199,11 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/security/lecter.png" alt="lecter.png">
+    <img src="/guides/security/lecter.png" alt="lecter.png">
     Лектер
   </div>
   <div class="table-item">
-    <img src="/security/magazinerifle.png" alt="magazinerifle.png">
+    <img src="/guides/security/magazinerifle.png" alt="magazinerifle.png">
 		.20 винтовочный
   </div>
   <div class="table-item">
@@ -211,11 +211,11 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/security/drozd.png" alt="drozd.png">
+    <img src="/guides/security/drozd.png" alt="drozd.png">
 		Дрозд
   </div>
   <div class="table-item">
-    <img src="/security/magazinepistolsubmachinegun.png" alt="magazinepistolsubmachinegun.png">
+    <img src="/guides/security/magazinepistolsubmachinegun.png" alt="magazinepistolsubmachinegun.png">
     .35 пистолетный
   </div>
   <div class="table-item">
@@ -223,11 +223,11 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/security/wt550.png" alt="wt550.png">
+    <img src="/guides/security/wt550.png" alt="wt550.png">
 		WT550
   </div>
   <div class="table-item">
-    <img src="/security/wt550magazine.png" alt="wt550magazine.png">
+    <img src="/guides/security/wt550magazine.png" alt="wt550magazine.png">
     .35 пистолетный
   </div>
   <div class="table-item">
@@ -235,11 +235,11 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-     <img src="/security/objects-weapons-guns-shotguns-pump.png" alt="objects-weapons-guns-shotguns-pump.png">
+     <img src="/guides/security/objects-weapons-guns-shotguns-pump.png" alt="objects-weapons-guns-shotguns-pump.png">
 		Каммерер
   </div>
   <div class="table-item">
-    <img src="/security/shellshotgun.png" alt="shellshotgun.png">
+    <img src="/guides/security/shellshotgun.png" alt="shellshotgun.png">
     .50 дробь
   </div>
   <div class="table-item">
@@ -247,11 +247,11 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-     <img src="/weapon/gun/enforcer.png" alt="enforcer.png">
+     <img src="/guides/security/enforcer.png" alt="enforcer.png">
 		Силовик
   </div>
   <div class="table-item">
-    <img src="/security/shellshotgun.png" alt="shellshotgun.png">
+    <img src="/guides/security/shellshotgun.png" alt="shellshotgun.png">
     .50 дробь
   </div>
   <div class="table-item">
@@ -259,11 +259,11 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/security/mk58.png" alt="mk58.png">
+    <img src="/guides/security/mk58.png" alt="mk58.png">
 		MK58
   </div>
   <div class="table-item">
-    <img src="/security/magazinepistol.png" alt="magazinepistol.png">
+    <img src="/guides/security/magazinepistol.png" alt="magazinepistol.png">
     .35 пистолетный
   </div>
   <div class="table-item">
@@ -271,11 +271,11 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
    <div class="table-item button">
-    <img src="/weapon/gun/inspector.png">
+    <img src="/guides/security/inspector.png">
 		Инспектор
   </div>
   <div class="table-item">
-    <img src="/weapon/magazine/magnum-speedloader.png">
+    <img src="/guides/security/magnum-speedloader.png">
     .40 магнум
   </div>
   <div class="table-item">
@@ -293,7 +293,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   <div class="table-title">Описание</div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/battery/laser-carabine.gif" alt="laser-carabine.gif">
+    <img src="/guides/security/laser-carabine.gif" alt="laser-carabine.gif">
     Лазерный карабин
   </div>
   <div class="table-item">
@@ -305,7 +305,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/battery/egun.gif" alt="egun.gif">
+    <img src="/guides/security/egun.gif" alt="egun.gif">
     Энергетическая винтовка
   </div>
   <div class="table-item">
@@ -320,7 +320,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/battery/disabler.gif" alt="disabler.gif">
+    <img src="/guides/security/disabler.gif" alt="disabler.gif">
     Дизейблер
   </div>
   <div class="table-item">
@@ -332,7 +332,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/battery/temp-gun.gif" alt="temp-gun.gif">
+    <img src="/guides/security/temp-gun.gif" alt="temp-gun.gif">
     Температурная пушка
   </div>
   <div class="table-item">
@@ -347,7 +347,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/battery/laser-carabine.gif" alt="laser-carabine.gif">
+    <img src="/guides/security/laser-carabine.gif" alt="laser-carabine.gif">
     Тренировочный лазерный карабин
   </div>
   <div class="table-item">
@@ -359,7 +359,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/battery/practice-disabler.gif" alt="practice-disabler.gif">
+    <img src="/guides/security/practice-disabler.gif" alt="practice-disabler.gif">
     Тренировочный дизейблер
   </div>
   <div class="table-item">
@@ -383,7 +383,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   <div class="table-title">Описание</div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/melee/combat-knife.png" alt="combat-knife.png">
+    <img src="/guides/security/combat-knife.png" alt="combat-knife.png">
 		Боевой нож
   </div>
   <div class="table-item">
@@ -398,7 +398,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/melee/truncheon.png">
+    <img src="/guides/security/truncheon.png">
 		Дубинка
   </div>
   <div class="table-item">
@@ -410,7 +410,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/melee/stunbaton.png" alt="stunbaton.png">
+    <img src="/guides/security/stunbaton.png" alt="stunbaton.png">
 		Дубинка-шокер
   </div>
   <div class="table-item">
@@ -425,7 +425,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/melee/experimental-stunbaton.png" alt="experimental-stunbaton.png">
+    <img src="/guides/security/experimental-stunbaton.png" alt="experimental-stunbaton.png">
 		Эксперементальная дубинка-шокер
   </div>
   <div class="table-item">
@@ -461,7 +461,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   <div class="table-title">Описание</div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/belt-security-fill.png" alt="belt-security-fill.png">
+    <img src="/guides/security/belt-security-fill.png" alt="belt-security-fill.png">
     Пояс охраны
   </div>
   <div class="table-item">
@@ -469,7 +469,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/belt-security-webbing.png" alt="belt-security-webbing.png">
+    <img src="/guides/security/belt-security-webbing.png" alt="belt-security-webbing.png">
     РПС охраны
   </div>
   <div class="table-item">
@@ -477,7 +477,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/security/джетпак_охраны.png" alt="джетпак_охраны.png">
+    <img src="/guides/security/джетпак_охраны.png" alt="джетпак_охраны.png">
     Джетпак охраны
   </div>
   <div class="table-item">
@@ -485,7 +485,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/hands-gloves-color-black.png" alt="hands-gloves-color-black.png">
+    <img src="/guides/security/hands-gloves-color-black.png" alt="hands-gloves-color-black.png">
     Черные перчатки
   </div>
   <div class="table-item">
@@ -493,7 +493,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/forensic.png">
+    <img src="/guides/security/forensic.png">
     Судебно-медицинские перчатки
   </div>
   <div class="table-item">
@@ -501,7 +501,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/eyes-glasses-security.png" alt="eyes-glasses-security.png">
+    <img src="/guides/security/eyes-glasses-security.png" alt="eyes-glasses-security.png">
 		Солнцезащитные очки охраны
   </div>
   <div class="table-item">
@@ -509,7 +509,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/eyes-hud-security.png" alt="eyes-hud-security.png">
+    <img src="/guides/security/eyes-hud-security.png" alt="eyes-hud-security.png">
 		Охранный визор
   </div>
   <div class="table-item">
@@ -517,7 +517,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/eyepatch-hud-security.png" alt="eyepatch-hud-security.png">
+    <img src="/guides/security/eyepatch-hud-security.png" alt="eyepatch-hud-security.png">
 		Глазная повязка охраны
   </div>
   <div class="table-item">
@@ -609,7 +609,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/security/items/clothing-outer-winter-sec.png" alt="clothing-outer-winter-sec.png">
+    <img src="/guides/security/clothing-outer-winter-sec.png" alt="clothing-outer-winter-sec.png">
 		Зимнее пальто СБ
   </div>
   <div class="table-item">
@@ -776,7 +776,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/security/objects-weapons-melee-shields.rsi-riot.png" alt="objects-weapons-melee-shields.rsi-riot.png">
+    <img src="/guides/security/objects-weapons-melee-shields.rsi-riot.png" alt="objects-weapons-melee-shields.rsi-riot.png">
     Противоударный щит
   </div>
   <div class="table-item">
@@ -791,7 +791,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/security/objects-weapons-melee-shields.rsi-riot_laser.png" alt="objects-weapons-melee-shields.rsi-riot_laser.png">
+    <img src="/guides/security/objects-weapons-melee-shields.rsi-riot_laser.png" alt="objects-weapons-melee-shields.rsi-riot_laser.png">
     Противолазерный щит
   </div>
   <div class="table-item">
@@ -803,7 +803,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/security/objects-weapons-melee-shields.rsi-riot_bullet.png" alt="objects-weapons-melee-shields.rsi-riot_bullet.png">
+    <img src="/guides/security/objects-weapons-melee-shields.rsi-riot_bullet.png" alt="objects-weapons-melee-shields.rsi-riot_bullet.png">
     Противопульный щит
   </div>
   <div class="table-item">
@@ -825,7 +825,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   <div class="table-title">Описание</div>
   <!--  -->
   <div class="table-item button">
-    <img src="/machines/vending/donut.gif" alt="donut.gif">
+    <img src="/guides/security/donut.gif" alt="donut.gif">
 		Пончики Монкинс
   </div>
   <div class="table-item">
@@ -833,7 +833,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/machines/vending/sec.gif" alt="sec.gif">
+    <img src="/guides/security/sec.gif" alt="sec.gif">
 		СБТех
   </div>
   <div class="table-item">
@@ -849,7 +849,7 @@ dateCreated: 2024-09-28T03:39:12.481Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/machines/techfabs/sec.png" alt="sec.png">
+    <img src="/guides/security/sec.png" alt="sec.png">
 		Охранный ТехФаб
   </div>
   <div class="table-item">
