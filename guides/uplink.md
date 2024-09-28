@@ -2,7 +2,7 @@
 title: Аплинк
 description: 
 published: true
-date: 2024-09-28T16:46:38.976Z
+date: 2024-09-28T17:12:45.578Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -1175,7 +1175,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/emag.png">
+        <img src="/guides/uplink/emag.gif">
         <p>Криптографический секвенсор (емаг)</p>
       </td>
       <td>6 ТК</td>
@@ -1263,7 +1263,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/oldradio.png">
+        <img src="/guides/uplink/oldradio.gif">
         <p>Имплант аплинка</p>
       </td>
       <td>2 ТК</td>
