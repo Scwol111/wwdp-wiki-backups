@@ -2,11 +2,14 @@
 title: Пират
 description: 
 published: true
-date: 2024-09-25T18:32:18.436Z
+date: 2024-09-28T17:43:01.171Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:32:18.436Z
 ---
+
+> В настоящее время режим «Каперы» исключён из ротации и может быть запущен только администраторами.
+{.is-warning}
 
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport antag">
