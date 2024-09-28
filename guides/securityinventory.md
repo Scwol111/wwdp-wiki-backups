@@ -2,7 +2,7 @@
 title: Инвентарь службы безопасности
 description: 
 published: true
-date: 2024-09-28T03:51:20.515Z
+date: 2024-09-28T09:05:30.342Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T03:39:12.481Z
