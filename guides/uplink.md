@@ -2,7 +2,7 @@
 title: Аплинк
 description: 
 published: true
-date: 2024-09-28T17:14:35.555Z
+date: 2024-09-28T17:20:19.126Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -25,7 +25,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
       </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/weapons/mosin.png">
+        <img src="/guides/uplink/mosin.png">
         <p>Винтовка Мосина</p>
       </td>
       <td>1 ТК</td>
@@ -38,7 +38,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/weapons/pen.png">
+        <img src="/guides/uplink/pen.png">
         <p>Энергетический кинжал</p>
       </td>
       <td>2 ТК</td>
@@ -55,7 +55,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-                <img src="/guides/uplink/weapons/eshield-on.png">
+                <img src="/guides/uplink/eshield-on.png">
         <p>Энергетический щит</p>
       </td>
       <td>3 ТК</td>
@@ -71,7 +71,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/weapons/viper.png">
+        <img src="/guides/uplink/viper.png">
         <p>Гадюка</p>
       </td>
       <td>3 ТК</td>
@@ -85,7 +85,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/weapons/cobra.png">
+        <img src="/guides/uplink/cobra.png">
         <p>Кобра</p>
       </td>
       <td>4 ТК</td>
@@ -124,7 +124,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/weapons/throwing_knives.png">
+        <img src="/guides/uplink/throwing_knives.png">
         <p>Набор метательный ножей</p>
       </td>
       <td>6 ТК</td>
@@ -151,7 +151,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/weapons/python.png">
+        <img src="/guides/uplink/python.png">
         <p>Питон</p>
       </td>
       <td>8 ТК</td>
@@ -165,7 +165,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/security/smuggling/blood_dogger.gif" alt="blood_dogger.gif">
+        <img src="/guides/uplink/blood_dogger.gif" alt="blood_dogger.gif">
         <p>Кинжал жажды</p>
       </td>
       <td>8 ТК</td>
@@ -198,7 +198,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/betrayalknife.png">
+        <img src="/guides/uplink/betrayalknife.png">
         <p>Предательский нож</p>
       </td>
       <td>10 ТК</td>
@@ -216,7 +216,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/energycrossbowmini.png">
+        <img src="/guides/uplink/energycrossbowmini.png">
         <p>Маленький энергетический арбалет</p>
       </td>
       <td>10 ТК</td>
@@ -228,7 +228,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/weapons/c20r.png">
+        <img src="/guides/uplink/c20r.png">
         <p>Набор "C-20r"</p>
       </td>
       <td>15 ТК</td>
@@ -242,7 +242,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/weapons/akms.png">
+        <img src="/guides/uplink/akms.png">
         <p>AK-74</p>
       </td>
       <td>16 ТК</td>
@@ -255,7 +255,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/weapons/buldog.png">
+        <img src="/guides/uplink/buldog.png">
         <p>Набор "Бульдога"</p>
       </td>
       <td>17 ТК</td>
@@ -270,7 +270,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/weapons/hristov.png">
+        <img src="/guides/uplink/hristov.png">
         <p>Снайперский набор</p>
       </td>
       <td>20 ТК</td>
@@ -286,7 +286,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/weapons/china.png">
+        <img src="/guides/uplink/china.png">
         <p>Набор "China-Lake"</p>
       </td>
       <td>25 ТК</td>
@@ -302,7 +302,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/weapons/l6s.png">
+        <img src="/guides/uplink/l6s.png">
         <p>Набор "L6 Saw"</p>
       </td>
       <td>25 ТК</td>
@@ -333,7 +333,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
       </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/pistol_magazine.png">
+        <img src="/guides/antagonists/pistol_magazine.png">
         <p>Коробка с пистолетными магазинами .35 авто</p>
       </td>
       <td>1 ТК</td>
@@ -341,7 +341,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/ammunition/ak74.png">
+        <img src="/guides/uplink/ak74.png">
         <p>Магазин для штурмовой винтовки (.30 винтовочные)</p>
       </td>
       <td>1 ТК</td>
@@ -357,7 +357,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/pistol_magazinerifle.png">
+        <img src="/guides/uplink/pistol_magazinerifle.png">
         <p>Коробка с магазинами .25 безгильзовые</p>
       </td>
       <td>1 ТК</td>
@@ -365,7 +365,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/magnum.png">
+        <img src="/guides/uplink/magnum.png">
         <p>Спидлоадер .40 магнум</p>
       </td>
       <td>1 ТК</td>
@@ -373,7 +373,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/pellets.png">
+        <img src="/guides/uplink/pellets.png">
         <p>Барабан для дробовика (50.дробь)</p>
       </td>
       <td>1 ТК</td>
@@ -389,7 +389,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/ammunition/l6s.png">
+        <img src="/guides/uplink/l6s.png">
         <p>Коробка патроном L6 SAW (.30 винтовочные)</p>
       </td>
       <td>3 ТК</td>
@@ -397,7 +397,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/ammunition/christov.png">
+        <img src="/guides/uplink/christov.png">
         <p>Коробка (.60 антиматериальные)</p>
       </td>
       <td>6 ТК</td>
@@ -430,7 +430,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/smokegranade.png">
+        <img src="/guides/uplink/smokegranade.png">
         <p>Дымовая граната</p>
       </td>
       <td>1 ТК</td>
@@ -480,7 +480,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-         <img src="/guides/antagonists/uplink/shrapnel.png">
+         <img src="/guides/uplink/shrapnel.png">
         <p>Шрапнельная граната</p>
       </td>
       <td>2 ТК</td>
@@ -500,7 +500,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-          <img src="/guides/antagonists/uplink/grenade_pyro.png">
+          <img src="/guides/uplink/grenade_pyro.png">
         <p>Поджигающая граната</p>
       </td>
       <td>2 ТК</td>
@@ -553,7 +553,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/clustergrenade.png">
+        <img src="/guides/uplink/clustergrenade.png">
         <p>Кластерная граната</p>
       </td>
       <td>8 ТК</td>
@@ -563,7 +563,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/bomb/syndicate_bomb.png">
+        <img src="/guides/uplink/syndicate_bomb.png">
         <p>Бомба синдиката</p>
       </td>
       <td>11 ТК</td>
@@ -624,7 +624,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/syndibackpack.png">
+        <img src="/guides/uplink/syndibackpack.png">
         <p>Рюкзак синдиката</p>
       </td>
       <td>2 ТК</td>
@@ -633,7 +633,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/syndvisor.png">
+        <img src="/guides/uplink/syndvisor.png">
         <p>Визор синдиката</p>
       </td>
       <td>2 ТК</td>
@@ -650,7 +650,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/wearable/red_eva.png">
+        <img src="/guides/uplink/red_eva.png">
         <p>ЕVА Синдиката</p>
       </td>
       <td>2 ТК</td>
@@ -683,7 +683,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/insulated.png">
+        <img src="/guides/uplink/insulated.png">
         <p>Токопроводящие перчатки</p>
       </td>
       <td>2 ТК</td>
@@ -693,7 +693,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/swat.png">
+        <img src="/guides/uplink/swat.png">
         <p>Шлем спецназа</p>
       </td>
       <td>2 ТК</td>
@@ -710,7 +710,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/nightvisionnew.png">
+        <img src="/guides/uplink/nightvisionnew.png">
         <p>ПНВ [Хамелеон]</p>
       </td>
       <td>3 ТК</td>
@@ -721,7 +721,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/thermal.png">
+        <img src="/guides/uplink/thermal.png">
         <p>Оптический термальный сканер [Хамелеон]</p>
       </td>
       <td>3 ТК</td>
@@ -747,7 +747,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/wearable/glov_thief.png">
+        <img src="/guides/uplink/glov_thief.png">
         <p>Воровские перчатки</p>
       </td>
       <td>4 ТК</td>
@@ -758,7 +758,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/wearable/magboots.png">
+        <img src="/guides/uplink/magboots.png">
         <p>Кроваво-красные магнитные сапоги</p>
       </td>
       <td>4 ТК</td>
@@ -792,7 +792,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/clothingouterhardsuitsyndieelite.png">
+        <img src="/guides/uplink/clothingouterhardsuitsyndieelite.png">
         <p>Элитный скафандр Синдиката</p>
       </td>
       <td>12 ТК</td>
@@ -843,7 +843,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/dart.png">
+        <img src="/guides/uplink/dart.png">
         <p>Гиподротик</p>
       </td>
       <td>1 ТК</td>
@@ -853,7 +853,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/chemistry/boy_medipen.png">
+        <img src="/guides/uplink/boy_medipen.png">
         <p>Боевой медипен</p>
       </td>
       <td>4 ТК</td>
@@ -903,7 +903,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/chemistry/stimpen.png">
+        <img src="/guides/uplink/stimpen.png">
         <p>Стимпак</p>
       </td>
       <td>8 ТК</td>
@@ -982,7 +982,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/rd_label.png">
+        <img src="/guides/uplink/rd_label.png">
         <p>Ключ бинарного перевода</p>
       </td>
       <td>1 ТК</td>
@@ -1025,7 +1025,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/door_remotebase_white.png">
+        <img src="/guides/uplink/door_remotebase_white.png">
         <p>Временной маяк</p>
       </td>
       <td>2 ТК</td>
@@ -1043,7 +1043,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/bomb/syndicate_bomb.png">
+        <img src="/guides/uplink/syndicate_bomb.png">
         <p>Муляж бомбы синдиката</p>
       </td>
       <td>4 ТК</td>
@@ -1061,7 +1061,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/folded.png">
+        <img src="/guides/uplink/folded.png">
         <p>Набор приманок</p>
       </td>
       <td>6 ТК</td>
@@ -1069,7 +1069,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/chameleon_projector.png">
+        <img src="/guides/uplink/chameleon_projector.png">
         <p>Маскировочный проектор</p>
       </td>
       <td>7 ТК</td>
@@ -1128,7 +1128,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/gondola.png">
+        <img src="/guides/uplink/gondola.png">
         <p>Ящик с Гондолой</p>
       </td>
       <td>2 ТК</td>
@@ -1167,7 +1167,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/syndicate1.png">
+        <img src="/guides/uplink/syndicate1.png">
         <p>Оружейный модуль борга</p>
       </td>
       <td>5 ТК</td>
@@ -1186,7 +1186,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/syndi_teleporter.gif">
+        <img src="/guides/uplink/syndi_teleporter.gif">
         <p>Эксперементальный телепортер синдиката</p>
       </td>
       <td>8 ТК</td>
@@ -1202,7 +1202,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/beacon.png">
+        <img src="/guides/uplink/beacon.png">
         <p>Маяк сингулярности</p>
       </td>
       <td>12 ТК</td>
@@ -1210,7 +1210,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/syndicrate1.png">
+        <img src="/guides/uplink/syndicrate1.png">
         <p>Ящик припасов синдиката</p>
       </td>
       <td>20 ТК</td>
@@ -1220,7 +1220,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/syndicrate1.png">
+        <img src="/guides/uplink/syndicrate1.png">
         <p>Ящик супер припасов синдиката</p>
       </td>
       <td>40 ТК</td>
@@ -1245,7 +1245,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
       </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/implanter.png">
+        <img src="/guides/uplink/implanter.png">
         <p>Имплантер</p>
       </td>
       <td>1 ТК</td>
@@ -1271,7 +1271,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/implanter.png">
+        <img src="/guides/uplink/implanter.png">
         <p>Имплант нейростабилизации</p>
       </td>
       <td>2 ТК</td>
@@ -1292,7 +1292,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-       <img src="/guides/antagonists/uplink/smokegranade.png">
+       <img src="/guides/uplink/smokegranade.png">
         <p>Имплантер дыма</p>
       </td>
       <td>2 ТК</td>
@@ -1311,7 +1311,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/gib_boom.png">
+        <img src="/guides/uplink/gib_boom.png">
         <p>Имплант расплавления</p>
       </td>
       <td>4 ТК</td>
@@ -1342,11 +1342,11 @@ dateCreated: 2024-09-28T16:46:38.976Z
     <tr>
       <td>
         <img src="/guides/antagonists/uplink/implanter.png">
-        <p><a href="/guides/implants/mindslaves" class="is-internal-link is-valid-page">Имплант подчинения</a></p>
+        <p><a href="/guides/mindslaves" class="is-internal-link is-valid-page">Имплант подчинения</a></p>
       </td>
       <td>6 ТК</td>
       <td>
-        <p>Создает шприц в руке игрока. При вводе в другого человека, он становится вашим рабом. Подробнее <a href="/guides/implants/mindslaves" class="is-internal-link is-valid-page">Имплант подчинения.</a></p>
+        <p>Создает шприц в руке игрока. При вводе в другого человека, он становится вашим рабом. Подробнее <a href="/guides/mindslaves" class="is-internal-link is-valid-page">Имплант подчинения.</a></p>
         <p>Вводится за 3 секунды.</p>
       </td>
     </tr>
@@ -1432,7 +1432,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/syndicat.png">
+        <img src="/guides/uplink/syndicat.png">
       <p>СиндиКот</p>
       </td>
       <td>8 ТК</td>
@@ -1453,7 +1453,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/oldradio.png">
+        <img src="/guides/uplink/oldradio.gif">
         <p>Радио подкрепления</p>
       </td>
       <td>16 ТК</td>
@@ -1461,7 +1461,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/role/synthetics/64px-syndiborg.png">
+        <img src="/guides/uplink/64px-syndiborg.png">
         <p>Телепорт штурмовой борг Синдиката</p>
       </td>
       <td>55 ТК</td>
@@ -1540,7 +1540,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
       </td>
     </tr><tr>
       <td>
-        <img src="/guides/antagonists/uplink/cane.png">
+        <img src="/guides/uplink/cane.png">
         <p>Трость-лезвие</p>
       </td>
       <td>5 ТК</td>
@@ -1578,7 +1578,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/negronomicon_new.png">
+        <img src="/guides/uplink/negronomicon_new.png">
         <p>Некрономикон</p>
       </td>
       <td>6 ТК</td>
@@ -1589,7 +1589,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/produce.png">
+        <img src="/guides/uplink/produce.png">
         <p>Кластерный банан</p>
       </td>
       <td>6 ТК</td>
@@ -1663,7 +1663,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/nukesnaks.png">
+        <img src="/guides/uplink/nukesnaks.png">
         <p>Коробка закусок Синдиката</p>
       </td>
       <td>1 ТК</td>
@@ -1674,7 +1674,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/scissors_hair.png">
+        <img src="/guides/uplink/scissors_hair.png">
         <p>Ножницы</p>
       </td>
       <td>1 ТК</td>
@@ -1716,7 +1716,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/trinkets/stamp-syndicate.png">
+        <img src="/guides/uplink/stamp-syndicate.png">
         <p>Печать синдиката</p>
       </td>
       <td>2 ТК</td>
@@ -1724,7 +1724,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/trinkets/clown.png">
+        <img src="/guides/uplink/clown.png">
         <p>Вещмешок с костюмом клоуна</p>
       </td>
       <td>2 ТК</td>
