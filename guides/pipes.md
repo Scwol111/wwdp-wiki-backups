@@ -2,7 +2,7 @@
 title: Газы
 description: 
 published: true
-date: 2024-09-28T14:55:50.223Z
+date: 2024-09-28T14:56:53.330Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T09:40:05.422Z
@@ -348,7 +348,7 @@ dateCreated: 2024-09-28T09:40:05.422Z
 <tr>
 <td><center><img src="/pipes/greenys.png" class="canister"></center></td>
 <td>Аммония</td>
-<td>Появляется в результате гниения чего-либо, а также с помощью способности <a href="/roles/ratking" class="is-internal-link is-valid-page">крысинного короля</a></td>
+<td>Появляется в результате гниения чего-либо, а также с помощью способности <a href="/roles/ratking" class="is-internal-link is-valid-page">крысинного короля</a>.</td>
 <td>Отравляет всех существ, кроме крыс, которых он лечит.</td>
 <td>0,15</td>
 <td>Тёмно-фиолетовый пар</td>
