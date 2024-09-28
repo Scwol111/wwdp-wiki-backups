@@ -2,7 +2,7 @@
 title: Броня
 description: 
 published: true
-date: 2024-09-28T16:01:28.371Z
+date: 2024-09-28T16:07:19.428Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-11T19:18:36.680Z
@@ -1240,6 +1240,17 @@ dateCreated: 2024-09-11T19:18:36.680Z
     <span> - <b class="type">Тепловой</b> урон снижается на <b class="percent">10%</b></span>
   </div>
   <div class="table-item">Обычный шлем сотрудника Службы Безопасности.</div>
+  <div class="table-item button sec">
+    <img src="/guides/psionics/insulativeskullcap.png">
+    Изоляционный череп
+  </div>
+  <div class="table-item">
+    <span> - <b class="type">Тупой</b> урон снижается на <b class="percent">15%</b></span>
+    <span> - <b class="type">Рубящий</b> урон снижается на <b class="percent">15%</b></span>
+    <span> - <b class="type">Проникающий</b> урон снижается на <b class="percent">5%</b></span>
+    <span> - <b class="type">Радиационный</b> урон снижается на <b class="percent">5%</b></span>
+  </div>
+  <div class="table-item">Наилучшая защита от псионических атак. Как бонус, обеспечивает защиту от более материальных повреждений.</div>
   <div class="table-item button sec">
     <img src="/armor/lightweightimpacthelmet.png">
     Лёгкий противоударный шлем
