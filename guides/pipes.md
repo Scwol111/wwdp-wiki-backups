@@ -2,7 +2,7 @@
 title: Газы
 description: 
 published: true
-date: 2024-09-28T14:53:34.638Z
+date: 2024-09-28T14:55:50.223Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T09:40:05.422Z
