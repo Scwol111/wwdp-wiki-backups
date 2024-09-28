@@ -2,7 +2,7 @@
 title: БЛЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯ
 description: 
 published: true
-date: 2024-09-28T18:34:07.150Z
+date: 2024-09-28T18:34:24.539Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T18:32:42.857Z
@@ -12,6 +12,6 @@ dateCreated: 2024-09-28T18:32:42.857Z
   <img src="/guides/engineering.png" style="float: left; margin-right: 10px; width: 50px; height: 50px;">
   <img src="/guides/engineering.png" style="float: right; margin-left: 10px; width: 50px; height: 50px;">
   <h2>К сожалению, эта статья уже не актуальна.</h2>
-  <p>Данная статья содержит часть неактуальной информации. Мы уже работаем над этим.</p>
+  <p>В этой статье есть часть устаревшей информации. Мы уже работаем над её обновлением.</p>
 </div>
 </center>
