@@ -2,7 +2,7 @@
 title: Ведущий исследователь
 description: 
 published: true
-date: 2024-09-28T16:13:48.259Z
+date: 2024-09-28T16:14:34.391Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:49:52.981Z
