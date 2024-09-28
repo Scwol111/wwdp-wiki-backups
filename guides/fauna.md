@@ -2,7 +2,7 @@
 title: Фауна
 description: 
 published: true
-date: 2024-09-28T02:59:39.777Z
+date: 2024-09-28T03:00:23.847Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T02:37:43.786Z
@@ -501,7 +501,7 @@ dateCreated: 2024-09-28T02:37:43.786Z
       </tr>
       <tr>
         <td class="xeno">
-          <img src="/guides/fauna/space_dragon.png">
+          <img class="xen" src="/guides/fauna/space_dragon.png">
         </td>
         <td><a href="/roles/spacedragon" class="is-internal-link is-valid-page">Космический дракон</a></td>
         <td>Видимо вы сильно разозлили богов, что они даровали вам его. Пожирает стены, трупы и создаёт порталы карпов. Видите его - бегите.</td>
