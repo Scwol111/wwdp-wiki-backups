@@ -1,8 +1,8 @@
 ---
 title: Аплинк
 description: 
-published: true
-date: 2024-09-28T17:20:19.126Z
+published: false
+date: 2024-09-28T17:22:32.748Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
