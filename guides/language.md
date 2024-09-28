@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: true
-date: 2024-09-28T03:26:21.595Z
+date: 2024-09-28T16:15:23.034Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
@@ -115,7 +115,7 @@ dateCreated: 2024-09-26T19:23:46.378Z
       </tr>
       <tr>
         <td>Ксеноморф</td>
-        <td>Хисссс!</td>
+        <td>Язык, наполненный шипением и неприятными звуками, кажется столь же нелогичным, как и то, что пауки и ксеноморфы могут общаться на одном языке. <p>Хисссс!</td>
         <td>
 <img style="min-width: 128px;" src="/guides/language/xeno.png">
               <br>Ксеноморфы <br><img src="/guides/language/tarantula32x32.png">
