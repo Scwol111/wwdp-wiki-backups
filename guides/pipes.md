@@ -2,7 +2,7 @@
 title: Газы
 description: 
 published: true
-date: 2024-09-28T09:40:05.422Z
+date: 2024-09-28T09:56:41.202Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T09:40:05.422Z
@@ -24,19 +24,19 @@ dateCreated: 2024-09-28T09:40:05.422Z
       	</td>
       	<td>
           <a href="#anchor_pressure_pump">
-     	    <img src="/pipes/pumps/pumppressure.png">
+     	    <img src="/pipes/pumppressure.png">
           </a>
           <div class="text-under-image"> Стандартный насос </div>
       	</td>
       	<td>
           <a href="#anchor_volume_pump">
-     	    <img src="/pipes/pumps/pumpvolume.png">
+     	    <img src="/pipes/pumpvolume.png">
           </a>
           <div class="text-under-image"> Объёмный насос </div>
       	</td>
       	<td>
           <a href="#anchor_valve">
-     	    <img src="/pipes/pumps/pumpmanualvalve.png">
+     	    <img src="/pipes/pumpmanualvalve.png">
           </a>
           <div class="text-under-image"> Клапан </div>
       	</td>
@@ -149,13 +149,13 @@ dateCreated: 2024-09-28T09:40:05.422Z
 <h2 id="насосы" class="toc-header"><a class="toc-anchor" href="#насосы">¶</a> Насосы</h2>
 <p>Перекачивает газ на другую сторону в зависимости от заданного давления. Блокирует прохождение газа, если отключён. В игре есть два вида:</p>
 <h3 id="стандартный-насос" class="toc-header"><a class="toc-anchor" href="#стандартный-насос">¶</a> Стандартный насос</h3>
-<img src="/pipes/pumps/pumppressure.png" class="deviceFour" id="anchor_pressure_pump">
-<p><img src="/pipes/pumps/pumppressureui.png" alt=""></p>
+<img src="/pipes/pumppressure.png" class="deviceFour" id="anchor_pressure_pump">
+<p><img src="/pipes/pumppressureui.png" alt=""></p>
 <p>Стандартный газовый насос. Перекачивает газ за счет внутреннего и внешнего давления. Имеет максимальную пропускную способность <strong>4,5 МПа</strong>. В основном используется в качестве клапана, позволяющего/запрещающего перетекание газа из одной трубы в другую. Очень хорошо работает в трубах высокого давления, но теряет эффективность при более низком давлении. Обычные газовые насосы более эффективны в системах с более низким давлением, но теряют эффективность по мере увеличения объема газа.</p>
 <p>При более низком давлении газовый насос, как правило, является лучшим вариантом для перемещения газа.</p>
 <h3 id="объемный-насос" class="toc-header"><a class="toc-anchor" href="#объемный-насос">¶</a> Объемный насос</h3>
-<img src="/pipes/pumps/pumpvolume.png" class="deviceFour" id="anchor_volume_pump">
-<p><img src="/pipes/pumps/pumpvolumeui.png" alt=""></p>
+<img src="/pipes/pumpvolume.png" class="deviceFour" id="anchor_volume_pump">
+<p><img src="/pipes/pumpvolumeui.png" alt=""></p>
 <p>Перекачивает газ в зависимости от количества внутренних и внешних молей. Имеет максимальную пропускную способность <strong>200 л/с</strong>. Действует точно так же, как газовый насос, но работает от количества молей, а не от давления. может перекачивать примерно в два раза больше газа по сравнению с обычным газовым насосом, если условия подходящие.</p>
 <p>Для труб с чрезвычайно высоким давлением объемный насос, как правило, является лучшим вариантом для перемещения газа.</p>
 <p>В некоторых случаях объемные насосы также лучше, если вы используете большое количество газа.</p>
@@ -245,21 +245,21 @@ dateCreated: 2024-09-28T09:40:05.422Z
 При подведении к нему газа будет превращать его в жидкость и наполнять свой резервуар. Затем, жидкость можно собрать с помощью мензурки.
 </div><h1 id="датчик-воздушной-тревоги" class="toc-header"><a class="toc-anchor" href="#датчик-воздушной-тревоги">¶</a> Датчик воздушной тревоги</h1>
 <p>Используется для настройки устройств, таких как скрубберы и вентиляции, а также проверки состояния атмосферы рядом с ним.</p>
-<p><img src="/pipes/airalarm/airalarmtopui.png" alt="airalarmtopui.png"></p>
+<p><img src="/pipes/airalarmtopui.png" alt="airalarmtopui.png"></p>
 <ul>
 <li>Зелёная секция - состояние атмосферы у воздушной сигнализации. Если написано "Normal" - атмосфера благоприятна для живых существ.</li>
 <li>Желтая секция - адрес самой воздушной сигнализации и количество устройств, подключенных к ней. Кнопка "Ресинхр" используется для обновления количества устройств.</li>
 <li>Красная секция - настройки разных типов устройств.</li>
 </ul>
 <h3 id="настройка-вентиляций" class="toc-header"><a class="toc-anchor" href="#настройка-вентиляций">¶</a> Настройка вентиляций</h3>
-<p><img src="/pipes/airalarm/airalarmventui.png" alt="airalarmventui.png"></p>
+<p><img src="/pipes/airalarmventui.png" alt="airalarmventui.png"></p>
 <ul>
 <li>Красная секция - название устройства и статус его работы. Название также можно увидеть, осмотрев устройство, чтобы точно удостовериться, что вы работаете с нужным вам оборудованием. Если снять галочку, то можно выключить устройство.</li>
 <li>Синяя секция - направление работы вентиляции. Releasing выпускает газ, Siphoning засасывает.</li>
 <li>Зелёная секция ограничивает работу вентиляции по давлению. При пересечении границ работа устройства будет остановлена. NoBound - Ни одна граница не будет воздействовать на работу вентиляции. External Bound - работа остановится только при пересечении внешней границы, Internal Bound - только по внутренней границе. Both - по обеим границам.</li>
 </ul>
 <h3 id="настройка-скрубберов" class="toc-header"><a class="toc-anchor" href="#настройка-скрубберов">¶</a> Настройка скрубберов</h3>
-<p><img src="/pipes/airalarm/airalarmscrubui.png" alt="airalarmscrubui.png"></p>
+<p><img src="/pipes/airalarmscrubui.png" alt="airalarmscrubui.png"></p>
 <ul>
 <li>Красная секция - название устройства и статус его работы. Название также можно увидеть, осмотрев устройство, чтобы точно удостовериться, что вы работаете с нужным вам оборудованием. Если снять галочку, то можно выключить устройство.</li>
 <li>Синяя секция - режим работы вентиляции. Scrubbing - обычный режим работы, полностью зависит от остальных настроек. Siphoning будет засасывать все газы, вне зависимостри от фильтра, в радиусе три на три тайла.</li>
@@ -268,13 +268,13 @@ dateCreated: 2024-09-28T09:40:05.422Z
 <li>Белая секция - газовые фильтры. Скруббер будет засасывать лишь газы, выделенные чёрным цветом.</li>
 </ul>
 <h3 id="режимы" class="toc-header"><a class="toc-anchor" href="#режимы">¶</a> Режимы</h3>
-<p><img src="/pipes/airalarm/airalarmdownui.png" alt="airalarmdownui.png"><br>
+<p><img src="/pipes/airalarmdownui.png" alt="airalarmdownui.png"><br>
 Режимы - предустановки работы устройств. При включенном авто режиме, воздушная сигнализация будет автоматически ставить режим в зависимости от атмосферы.</p>
 <h3 id="сенсры" class="toc-header"><a class="toc-anchor" href="#сенсры">¶</a> Сенсры</h3>
 <p>Сенсор показывает данные об атмосфере, в которой он находится. Сенсор есть как отдельное устройство, так и в вентиляциях и скрубберах.</p>
 <h1 id="термоэлектрический-генератор" class="toc-header"><a class="toc-anchor" href="#термоэлектрический-генератор">¶</a> Термоэлектрический генератор</h1>
 <center>
-<img src="/pipes/teg/tegfull.png" class="teg">
+<img src="/pipes/tegfull.png" class="teg">
 </center>
 <p>Термоэлектрический генератор, или ТЭГ генерирует электричество из высокой температуры газов. Для его работы требуется сам генератор  и два циркулятора по его бокам. Генератор выводит энергию через высоковольтный провод, который следует поставить под ним. Для начала его работы требуется подать газы с разными температурами в левый и правый циркуляторы. При осмотре циркулятора, используя меню на <kbd>ПКМ</kbd>, или <kbd>Shift+ЛКМ</kbd> по нему, будут видны синие стрелки, указывающие, в каком направлении следует подавать по нему газ. Обратите внимание, что чем больше разница в температурах подаваемых вами газов, тем больше энергии будет вырабатывать ТЭГ.</p>
 <h1 id="базовые-газы" class="toc-header"><a class="toc-anchor" href="#базовые-газы">¶</a> Базовые газы</h1>
@@ -292,7 +292,7 @@ dateCreated: 2024-09-28T09:40:05.422Z
 </thead>
 <tbody>
 <tr>
-<td><center><img src="/pipes/gascanisters/blue.png" class="canister"></center></td>
+<td><center><img src="/pipes/blue.png" class="canister"></center></td>
 <td>Кислород (O2)</td>
 <td>Является одним из побочных продуктов <a href="/guides/supermatter" class="is-internal-link is-valid-page">суперматерии</a>, при поглощении ею газа. На станции присутствует его газодобытчик.</td>
 <td>Необходим для дыхания всех живых существ, кроме слаймолюдов.</td>
@@ -301,7 +301,7 @@ dateCreated: 2024-09-28T09:40:05.422Z
 <td>При его наличии в атмосфере возможно возгарание некоторых газов при достижении их температуры горения. Является частью микса для дыхания на станции (20% Кислорода на 80% Азота).</td>
 </tr>
 <tr>
-<td><center><img src="/pipes/gascanisters/red.png" class="canister"></center></td>
+<td><center><img src="/pipes/red.png" class="canister"></center></td>
 <td>Азот (N2)</td>
 <td>На станции присутствует его газодобытчик.</td>
 <td>Необходим для дыхания слаймолюдов.</td>
@@ -310,7 +310,7 @@ dateCreated: 2024-09-28T09:40:05.422Z
 <td>Так как не способствует возгоранию, находится в лёгком доступе на станции и имеет относительно высокую теплоёмкость, является одним из самых безопасных газов, используемых в охлаждении <a href="/guides/supermatter" class="is-internal-link is-valid-page">суперматерии</a>. Является частью микса для дыхания на станции (20% Кислорода на 80% Азота).</td>
 </tr>
 <tr>
-<td><center><img src="/pipes/gascanisters/black.png" class="canister"></center></td>
+<td><center><img src="/pipes/black.png" class="canister"></center></td>
 <td>Углекислый газ (CO2, Диоксид углерода)</td>
 <td>Является побочным продуктом реакции горения, на станции присутствует его газодобытчик.</td>
 <td>Крайне ядовит для вдыхания живыми существами, кроме дион, для которых он может послужить заменой кислорода.</td>
@@ -319,7 +319,7 @@ dateCreated: 2024-09-28T09:40:05.422Z
 <td>Отсутствует</td>
 </tr>
 <tr>
-<td><center><img src="/pipes/gascanisters/orange.png" class="canister"></center></td>
+<td><center><img src="/pipes/orange.png" class="canister"></center></td>
 <td>Плазма</td>
 <td>Является одним из побочных продуктов <a href="/guides/supermatter" class="is-internal-link is-valid-page">суперматерии</a>.</td>
 <td>Крайне ядовит для вдыхания живыми существами.</td>
@@ -328,7 +328,7 @@ dateCreated: 2024-09-28T09:40:05.422Z
 <td>Единственное вещество, которое можно добыть на станции во всех трёх агреганых состояниях. В среде с кислородом, при достижении определенных температур, может воспламеняться.</td>
 </tr>
 <tr>
-<td><center><img src="/pipes/gascanisters/redws.png" class="canister"></center></td>
+<td><center><img src="/pipes/redws.png" class="canister"></center></td>
 <td>Оксид азота (N2O)</td>
 <td>Является побочным продуктом некоторых реакций.</td>
 <td>Усыпляет вдыхающих его существ.</td>
@@ -337,7 +337,7 @@ dateCreated: 2024-09-28T09:40:05.422Z
 <td>Отсутствует</td>
 </tr>
 <tr>
-<td><center><img src="/pipes/gascanisters/water_vapor.png" class="canister"></center></td>
+<td><center><img src="/pipes/water_vapor.png" class="canister"></center></td>
 <td>Водяной пар</td>
 <td>Является побочным продуктом некоторых реакций. На станции присутствует его газодобытчик.</td>
 <td>Не имеет</td>
@@ -346,7 +346,7 @@ dateCreated: 2024-09-28T09:40:05.422Z
 <td>Отсутствует</td>
 </tr>
 <tr>
-<td><center><img src="/pipes/gascanisters/greenys.png" class="canister"></center></td>
+<td><center><img src="/pipes/greenys.png" class="canister"></center></td>
 <td>Аммония</td>
 <td>Появляется в результате гниения чего-либо, а также с помощью способности <a href="/roles/ratking" class="is-internal-link is-valid-page">крысинного короля</a></td>
 <td>Отравляет всех существ, кроме крыс, которых он лечит.</td>
@@ -355,7 +355,7 @@ dateCreated: 2024-09-28T09:40:05.422Z
 <td>Отсутствует</td>
 </tr>
 <tr>
-<td><center><img src="/pipes/gascanisters/antinoblium.png" class="canister"></center></td>
+<td><center><img src="/pipes/antinoblium.png" class="canister"></center></td>
 <td>Анти-ноблиум</td>
 <td>Рецепта для синтеза нет.</td>
 <td>Не имеет.</td>
@@ -364,7 +364,7 @@ dateCreated: 2024-09-28T09:40:05.422Z
 <td>Отсутствует</td>
 </tr>
 <tr>
-<td><center><img src="/pipes/gascanisters/geliy.png" class="canister"></center></td>
+<td><center><img src="/pipes/geliy.png" class="canister"></center></td>
 <td>Гелий</td>
 <td>Рецепта для синтеза нет.</td>
 <td>Не имеет</td>
@@ -373,7 +373,7 @@ dateCreated: 2024-09-28T09:40:05.422Z
 <td>Отсутствует</td>
 </tr>
 <tr>
-<td><center><img src="/pipes/gascanisters/galon.png" class="canister"></center></td>
+<td><center><img src="/pipes/galon.png" class="canister"></center></td>
 <td>Галон</td>
 <td>Рецепта для синтеза нет.</td>
 <td>Не имеет</td>
