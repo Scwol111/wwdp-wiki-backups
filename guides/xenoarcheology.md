@@ -2,7 +2,7 @@
 title: Ксеноархеология
 description: 
 published: true
-date: 2024-09-28T01:59:10.596Z
+date: 2024-09-28T02:00:44.665Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T01:54:05.135Z
@@ -69,20 +69,20 @@ dateCreated: 2024-09-28T01:54:05.135Z
   <h2 id="сканер-узлов" class="toc-header"><a class="toc-anchor" href="#сканер-узлов">¶</a> Сканер узлов</h2> 
 <p>
   <div class="info-item-container">
-    <img src="/guides/science/xenoarcheology/skaner_uslov.gif" alt="skaner_uslov" width="64" height="64">  
+    <img src="/guides/xenoarcheology/skaner_uslov.gif" alt="skaner_uslov" width="64" height="64">  
     <p>Сканер узлов может рассказать вам на каком узле находить артефакт если на него нажать самим сканером (для чего это чуть выше). Сканер можно взять в шкафчике учёного или создать на протлате если вы изучили нужную технологию.
     </p>
   </div>
   <h2 id="исказитель-обхода" class="toc-header"><a class="toc-anchor" href="#исказитель-обхода">¶</a> Исказитель обхода</h2> <p>
 
   <div class="info-item-container">
-    <img src="/guides/science/xenoarcheology/iskasitel.png" alt="iskasitel" width="64" height="64">
+    <img src="/guides/xenoarcheology/iskasitel.png" alt="iskasitel" width="64" height="64">
     <p>Если вам не повезет, то артефакт может зациклиться между двумя реакциями и будет скакать между ними, или вам, наоборот, нужно остановиться на полезной реакции, тогда в этом случае пригодится исказитель обходов. Этот аппарат поможет вам поменять вероятность перехода артефакта по узлам в зависимости от выбранного режима: К поверхности - увеличит шанс того, что артефакт пойдет вверх по реакциям. В глубину - увеличит шанс того, что артефакт пойдет вниз по по реакциям. Можно получиться изучив нужную технологию, а после собрать, или он уже будет находить в комнате для изучения артефактов.</p> 
   </div>
 <h2 id="крушитель-артефактов" class="toc-header"><a class="toc-anchor" href="#крушитель-артефактов">¶</a> Крушитель артефактов</h2> <p>
 
   <div class="info-item-container"> 
-    <img src="/guides/science/xenoarcheology/crusher.png" alt="iskasitel" width="64" height="128" style="width: 64px; margin-inline: 48px">
+    <img src="/guides/xenoarcheology/crusher.png" alt="iskasitel" width="64" height="128" style="width: 64px; margin-inline: 48px">
     <p>Крушитель позволяет преобразовать артефакт в осколки артефакта и активировать узел, на котором он находился в процессе преобразования. Однако мы не рекомендуем использовать эту функцию, если артефакт расположен на опасном узле.</p> 
   </div>   
 </center>
