@@ -2,7 +2,7 @@
 title: Псионический Мантис
 description: 
 published: true
-date: 2024-09-22T18:25:30.161Z
+date: 2024-09-29T16:54:18.396Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T09:28:16.539Z
@@ -45,6 +45,10 @@ dateCreated: 2024-09-22T09:28:16.539Z
       <tr>
         <td><img src="/guides/psionics/antipsychicknife.png"><b><br>Антипсихический нож</b></td>
         <td>Исключительно силен против псионических существ.</td>
+      </tr>
+      <tr>
+        <td><img src="/guides/psionics/psi-breaker.png"><b><br>Psi-Breaker</b></td>
+        <td>Маленький и яркий пистолет с мраморной рукояткой. Он не даёт тактического преимущества и использует специальные патроны.38 калибра.</td>
       </tr>
       <tr>
         <td><img src="/guides/psionics/insulativeskullcap.png"><b><br>Изоляционный череп</b></td>
