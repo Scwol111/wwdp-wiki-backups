@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-09-26T14:23:45.703Z
+date: 2024-09-29T09:02:50.355Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -178,12 +178,12 @@ criminalisticrecord.png" width="64" height="64"></td>
     </tr>
     <tr>
         <td><figure><img src="/roles/roles_icon/warden.png"><figcaption>Смотритель</figcaption></figure></td>
-      	<td colspan="2" rowspan="2"><figure><img src="/roles/roles_icon/veteran.png"><figcaption>Ветеран</figcaption></figure></td>
+      	<td colspan="2" rowspan="1"><figure><img src="/roles/roles_icon/veteran.png"><figcaption>Ветеран</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/officer.png"><figcaption>Офицер</figcaption></figure></td>
     </tr>
   	<tr>
         <td><figure><img src="/roles/roles_icon/cadet.png"><figcaption>Кадет</figcaption></figure></td>
-				<td><figure><img src="/roles/roles_icon/detective.png"><figcaption>Детектив</figcaption></figure></td>
+				<td colspan="2"><figure><img src="/roles/roles_icon/detective.png"><figcaption>Детектив</figcaption></figure></td><td ><figure><img src="/roles/roles_icon/prisonguard.png"><figcaption>Тюремный Надзиратель</figcaption></figure></td>
     </tr>
     <tr style="background-color: rgba(0, 148, 171, 0.2);">
         <th colspan="4" style="background: rgba(0, 148, 171, 0.2)"><big>Медицинский отдел</big></th>
