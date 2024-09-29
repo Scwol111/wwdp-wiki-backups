@@ -2,7 +2,7 @@
 title: Утилизатор
 description: 
 published: true
-date: 2024-09-25T17:40:18.295Z
+date: 2024-09-29T17:01:57.593Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:40:07.306Z
@@ -28,7 +28,7 @@ dateCreated: 2024-09-25T17:40:07.306Z
 
 Будучи утилизатором, ваша работа заключается в том, чтобы исследовать различные обломки в космосе и добывать любую добычу, которую вы можете найти внутри них. Используйте Магнит для обломков, чтобы притянуть обломки на не большое количество времени.
 
-## <center>![](/role/cargo/utilizer/salvage-magnet.png){.png1}<span class="up"> Магнит обломков </span>![](/role/cargo/utilizer/salvage-magnet.png){.png1}<center>
+## <center>![](/roles/cargo/salvage-magnet.png){.png1}<span class="up"> Магнит обломков </span>![](/roles/cargo/salvage-magnet.png){.png1}<center>
 
 Этот инструмент используется для притягивания обломков, которые вы можете собрать для получения дополнительной добычи. Магнит притягивает обломки к общей области, с которой он сталкивается, но это не сильно помогает сузить область. Если магнит направлен не в ту сторону или установлен слишком глубоко внутри станции, то он не будет работать.
 <p>
@@ -51,7 +51,7 @@ dateCreated: 2024-09-25T17:40:07.306Z
 <p>
 <p>
    
-## <center>![](/role/cargo/utilizer/wrench-crowbar.png){.png1}<span class="up"> Твое снаряжение </span>![](/role/cargo/utilizer/wrench-crowbar.png){.png1}<center>
+## <center>![](/roles/cargo/wrench-crowbar.png){.png1}<span class="up"> Твое снаряжение </span>![](/roles/cargo/wrench-crowbar.png){.png1}<center>
 
 Самыми важными предметами в вашей работе являются скафандр утилизатора, противогаз и кислородный баллон — без них вы не выживете в космосе (хотя вы можете попробовать, если вы ~~идиот~~ смельчак).
 
@@ -60,7 +60,7 @@ dateCreated: 2024-09-25T17:40:07.306Z
 - Реактивный ранец - большие реактивные ранцы можно носить только в слоте рюкзака. В обмен на место для хранения рюкзака реактивные ранцы предлагают отличную мобильность, позволяя Утилизатору легко перетаскивать предметы из открытого космоса обратно на станцию. Однако из-за нехватки места для хранения гораздо важнее решить, что вы возьмете с собой на дежурство.
 - Огнетушитель и хлам - если вы не используете реактивный ранец, вы, вероятно, комбинируете несколько способов транспортировки. В обмен на сохранение вашего рюкзака вы ограничены менее эффективными видами полета открытом космосе. Так, огнетушители используют жидкость, чтобы подтолкнуть вас в направлении, противоположном тому, в котором он был использован. Также вы можете бросить любой предмет из инвентаря, (даже один листок бумаги) чтобы стимулировать ваш полет.
 
-## <center>![](/role/cargo/utilizer/clipboard-paper.png){.png1}<span class="up">Список снаряжения</span>![](/role/cargo/utilizer/clipboard-paper.png){.png1}<center>
+## <center>![](/roles/cargo/clipboard-paper.png){.png1}<span class="up">Список снаряжения</span>![](/role/cargo/utilizer/clipboard-paper.png){.png1}<center>
 
 <div style="overflow-x:auto; margin-top: 3em;">
 <figure class="table" style="text-align:center;">
@@ -73,28 +73,28 @@ dateCreated: 2024-09-25T17:40:07.306Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/salvage.png" sizes="" width="75%"></figure>
+          <figure class="image"><img src="/roles/cargo/salvage.png" sizes="" width="75%"></figure>
         </th>
         <th><strong>Скафандр утилизатора</strong></th>
         <th>Скафандр утилизатора здорового человека - имеет нормальную броню, в отличие от лёгкого скафандра. Встроенный фонарь светит на 10 тайлов, как фонарик СБ. Штатно обычно не выдаётся, но его можно найти на обломках или в укромных местах станции.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/spatio.png" width="75%" class="image"> </figure>
+          <figure class="image"><img src="/roles/cargo/spatio.png" width="75%" class="image"> </figure>
         </th>
         <th><strong>Лёгкий скафандр утилизатора</strong></th>
         <th>То самое, что позволит утилизатору выйти в космос и не взорваться от недостатка давления. Защищает от всех видов урона чуть лучше, чем ничего - немного меньше процента от полученного урона. Встроенный фонарик светит на пару-тройку тайлов.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/gasexplorer.png" width="75%"></figure>
+          <figure class="image"><img src="/roles/cargo/gasexplorer.png" width="75%"></figure>
         </th>
         <th><strong>Противогаз исследователя</strong></th>
         <th>Брутально выглядящий противогаз, однако не более чем дыхательная маска. Ничтожно защищает от всех видов урона, кроме радиации - чуть меньше процента от общего урона.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/oxygen-tank-yellow.png" width="60%" class="image"><img src="/role/cargo/utilizer/oxygen-tank-red.png" width="60%"></figure>
+          <figure class="image"><img src="/role/cargo/utilizer/oxygen-tank-yellow.png" width="60%" class="image"><img src="/roles/cargo/oxygen-tank-red.png" width="60%"></figure>
         </th>
         <th><strong>Кислородный баллон 
 
@@ -106,63 +106,63 @@ dateCreated: 2024-09-25T17:40:07.306Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/kinetic-accelerator.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
         <th><strong>Протокинетический ускоритель</strong></th>
         <th>То единственное оружие, которое позволит утилизатору бить карпов на расстоянии. Перезаряжается 2-3 секунды и стреляет бесконечными кинетическими болтами, нанося 20 механического урона, также его можно использовать для перемещения по просторам космоса.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/survival-knife.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/survival-knife.png" width="60%"></figure>
         </th>
         <th><strong>Нож для выживания</strong>
         <th>Малюсенький ножик для битвы с опасностями космоса врукопашную. Нелеп тем фактом, что ранит слабее, чем простой кухонный нож, нанося всего 15 урона колото-резаной раной.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/magboots.png" width="60%"> </figure>
+          <figure class="image"><img src="/roles/cargo/magboots.png" width="60%"> </figure>
         </th>
         <th><strong>Магнитные ботинки</strong></th>
         <th>Позволят вам не потерять твёрдый пол под ногами даже в отсутствие гравитации. Можно и без них, но они очень облегчают жизнь утилизатора.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/pickaxe.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/pickaxe.png" width="60%"></figure>
         </th>
         <th><strong>Кирка</strong></th>
         <th>Шахтёрская кирка. Несмотря на сотни поколений старателей, она всё та же. Позволяет раздолбить астероидную породу, добыв с некоторым шансом какую-либо руду.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/mining-bag.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/mining-bag.png" width="60%"></figure>
         </th>
         <th><strong>Сумка для руды</strong></th>
         <th>Действительно специальная сумка для переноски руды. Вмещает достаточно много.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/gps.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/gps.png" width="60%"></figure>
         </th>
         <th><strong>Глобальная система позиционирования (ГСП)</strong></th>
         <th>Аналог GPS/Глонасс в космосе. Показывает текущее местоположение в виде пары координат. Рекомендуется брать с собой в каждый поход, так как утилизаторы часто теряются.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/fire-extinguisher.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/fire-extinguisher.png" width="60%"></figure>
         </th>
         <th><strong>	Огнетушитель</strong></th>
         <th>Временно (но иногда обстоятельства вынуждают постоянно) используется утилизаторами в качестве средства передвижения по космосу, пока не доставят джеты. Выпуск пены толкает человека в противоположную сторону.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/shovel.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/shovel.png" width="60%"></figure>
         </th>
         <th><strong>Лопата</strong></th>
         <th>Просто лопата...</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/toolbelt.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/toolbelt.png" width="60%"></figure>
         </th>
         <th><strong>Пояс с инструментами</strong></th>
         <th>Обычно полностью укомплектован отверткой, сварочным аппаратом, гаечным ключом, ломом, многофункциональным инструментом и кусачками. Используйте эти инструменты, если хотите достать закрепленные предметы или преодолеть препятствия, такие как закрытые двери.
@@ -170,7 +170,7 @@ dateCreated: 2024-09-25T17:40:07.306Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/utildrill.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/utildrill.png" width="60%"></figure>
         </th>
         <th><strong>Бур</strong></th>
         <th>Ускоряет работу по добыче руды. Можно найти на обломках, или же попросить ученых сделать.
