@@ -2,14 +2,14 @@
 title: Гидропоника
 description: 
 published: false
-date: 2024-09-29T17:36:01.524Z
+date: 2024-09-29T17:37:04.613Z
 tags: 
 editor: code
 dateCreated: 2024-09-29T10:04:45.112Z
 -->
 
 <head><title>Гидропоника | Space Station 14 Вики</title><meta name="description" content="Руководство по растениям, выращиванию растений и плодам. Гидропоника.">
-
+<body>
 <p>Гидропоника - это способ выращивания растений без почвы. Основной источник продуктов на станции. Этим и занимается <a href="/roles/botanist" class="is-internal-link is-valid-page">Ботаник</a>.</p>
 <h2 id="обзор-оборудования-гидропоники" class="toc-header"><a class="toc-anchor" href="#обзор-оборудования-гидропоники">¶</a>  Обзор оборудования гидропоники</h2>
 <p>Перед тем, как начать сажать растения, давайте посмотрим, каким оборудованием нам придётся пользоваться.</p>
@@ -997,78 +997,5 @@ dateCreated: 2024-09-29T10:04:45.112Z
 <p>Растения, обработанные нестабильным мутагеном и/или Left-for-zed, будут подвергаться случайным генетическим мутациям. Чем больше вещества было использовано, тем больше мутаций может возникнуть у растения, но тем выше вероятность что одна из мутаций окажется смертельной для растения и все остальные из них пойдут насмарку. Для таких случаев полезно иметь рядом с собой ведро фалангимина, ведь небольшое его количество вернет растение в жизнеспособное состояние (но не воскресит уже умершее растение, так что стоит торопиться, увидев ценные мутации). 1 видимая мутация приходится примерно на 1.5 единиц нестабильного мутагена, а при смешивании с Left-for-zed 1 к 1 наблюдается эффект усиления мутационного эффекта, доводя его до 1 видимой мутации на 1 мутаген (есть конечно и невидимые мутации, но их сложно отследить, пока ты случайно не подскользнешься на пшенице или атмотехники не начнут ошалело бегать рядом с криками “откуда плазма?!”).При помощи мутаций можно вырастить монструозного размера кричащие и светящиеся скользкие помидоры с космической смазкой в составе, которые можно собрать лишь топором, но если подождать, они опадут с кустов сами.</p>
 <h3 id="перекрёстное-опыление" class="toc-header"><a class="toc-anchor" href="#перекрёстное-опыление">¶</a>  Перекрёстное опыление</h3>
 <p>Растения также могут подвергаться перекрестному опылению друг с другом с помощью стерильных палочек. Чтобы использовать палочку, нужно сначала собрать пыльцу с растения-донора, после чего аналогично посыпать растение-рецепиента, при этом палочка примет на себя пыльцу рецепиента и станет неудобной для дальнейшего использования. Каждое свойство растения будет иметь шанс передаться около 50%, для химического состава плодов шанс на передачу имеет каждое отдельное вещество, а иногда может передаться и полный состав (замещая старый, так что возможная ситуация когда растение имеющее 2 вещества после опыления остается с одним). Также, с шансом около 50% растение может стать бессемянным, что усложнит работу с ним, так что по возможности опыляйте растения лишь по 1 разу, и проверяйте на перенесение нужных свойств, для увеличения шансов на получение лучших растений. При помощи перекрестного опыления вы можете создать деревья какао, плоды которого при измельчении превращаются в фрикадельки (ну, тут мутации тоже понадобятся, если честно. Мясная пшеница ради протеинов), или в тесто (а вот тут все чисто). Удачи вам в начинаниях!</p>
-</div></template><template slot="comments"><div><comments></comments></div></template></page></div>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">></script>
-<script>
-  document.addEventListener('click', function (e) {
-    try {
-      function findElementRecursive(element, tag) {
-        return element.nodeName === tag ? element : 
-         findElementRecursive(element.parentNode, tag)
-      }
-      var descending_th_class = ' dir-d '
-      var ascending_th_class = ' dir-u '
-      var ascending_table_sort_class = 'asc'
-      var regex_dir = / dir-(u|d) /
-      var regex_table = /\bsortable\b/
-      var alt_sort = e.shiftKey || e.altKey
-      var element = findElementRecursive(e.target, 'TH')
-      var tr = findElementRecursive(element, 'TR')
-      var table = findElementRecursive(tr, 'TABLE')
-      function reClassify(element, dir) {
-        element.className = element.className.replace(regex_dir, '') + dir
-      }
-      function getValue(element) {
-        return (
-          (alt_sort && element.getAttribute('data-sort-alt')) || 
-        element.getAttribute('data-sort') || element.innerText
-        )
-      }
-      if (regex_table.test(table.className)) {
-        var column_index
-        var nodes = tr.cells
-        var sortcol = [4, 5, 6, 7, 8]
-        for (var i = 0; i < nodes.length; i++) {
-          if (nodes[i] === element && containsObject(i, sortcol)) {
-            column_index = element.getAttribute('data-sort-col') || i
-          } else {
-            //reClassify(nodes[i], '')
-          }
-        }
-        var dir = descending_th_class
-        if (
-          element.className.indexOf(descending_th_class) !== -1 ||
-          (table.className.indexOf(ascending_table_sort_class) !== -1 &&
-            element.className.indexOf(ascending_th_class) == -1)
-        ) {
-          dir = ascending_th_class
-        }
-        reClassify(element, dir)
-        var org_tbody = table.tBodies[0]
-        var rows = [].slice.call(org_tbody.rows, 0)
-        var reverse = dir === ascending_th_class
-        rows.sort(function (a, b) {
-          var x = getValue((reverse ? a : b).cells[column_index])
-          var y = getValue((reverse ? b : a).cells[column_index])
-          return isNaN(x - y) ? x.localeCompare(y) : x - y
-        })
-        var clone_tbody = org_tbody.cloneNode()
-        while (rows.length) {
-          clone_tbody.appendChild(rows.splice(0, 1)[0])
-        }
-        table.replaceChild(clone_tbody, org_tbody)
-      }
-    } catch (error) {
-    }
-    function containsObject(obj, list) {
-    var i;
-    for (i = 0; i < list.length; i++) {
-        if (list[i] === obj) {
-            return true;
-        }
-    }
 
-    return false;
-}
-  });
-</script></body>
+</body>
