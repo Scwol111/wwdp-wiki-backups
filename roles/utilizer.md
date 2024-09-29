@@ -2,7 +2,7 @@
 title: Утилизатор
 description: 
 published: true
-date: 2024-09-29T17:03:48.832Z
+date: 2024-09-29T17:05:03.155Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:40:07.306Z
@@ -60,7 +60,7 @@ dateCreated: 2024-09-25T17:40:07.306Z
 - Реактивный ранец - большие реактивные ранцы можно носить только в слоте рюкзака. В обмен на место для хранения рюкзака реактивные ранцы предлагают отличную мобильность, позволяя Утилизатору легко перетаскивать предметы из открытого космоса обратно на станцию. Однако из-за нехватки места для хранения гораздо важнее решить, что вы возьмете с собой на дежурство.
 - Огнетушитель и хлам - если вы не используете реактивный ранец, вы, вероятно, комбинируете несколько способов транспортировки. В обмен на сохранение вашего рюкзака вы ограничены менее эффективными видами полета открытом космосе. Так, огнетушители используют жидкость, чтобы подтолкнуть вас в направлении, противоположном тому, в котором он был использован. Также вы можете бросить любой предмет из инвентаря, (даже один листок бумаги) чтобы стимулировать ваш полет.
 
-## <center>![](/roles/cargo/clipboard-paper.png){.png1}<span class="up">Список снаряжения</span>![](/role/cargo/utilizer/clipboard-paper.png){.png1}<center>
+## <center>![](/roles/cargo/clipboard-paper.png){.png1}<span class="up">Список снаряжения</span>![](/roles/cargo/clipboard-paper.png){.png1}<center>
 
 <div style="overflow-x:auto; margin-top: 3em;">
 <figure class="table" style="text-align:center;">
@@ -94,7 +94,7 @@ dateCreated: 2024-09-25T17:40:07.306Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/cargo/utilizer/oxygen-tank-yellow.png" width="60%" class="image"><img src="/roles/cargo/oxygen-tank-red.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/oxygen-tank-yellow.png" width="60%" class="image"><img src="/roles/cargo/oxygen-tank-red.png" width="60%"></figure>
         </th>
         <th><strong>Кислородный баллон 
 
