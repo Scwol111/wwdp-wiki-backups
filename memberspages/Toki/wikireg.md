@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-10-02T19:53:56.220Z
+date: 2024-10-02T19:54:10.746Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-02T19:47:49.195Z
@@ -31,7 +31,7 @@ dateCreated: 2024-10-02T19:47:49.195Z
       <input id="banans" name="banans" class="colortext" required>
     </div>
     <div class="form-control">
-      <button id="submit" type="submit">Отправить</button>
+      <button id="submitt" type="submit">Отправить</button>
     </div>
   </form>
 </div>
