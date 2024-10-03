@@ -2,7 +2,7 @@
 title: Вор
 description: 
 published: true
-date: 2024-10-03T10:15:13.682Z
+date: 2024-10-03T10:18:52.355Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:25:33.388Z
@@ -96,34 +96,34 @@ dateCreated: 2024-09-25T18:25:33.388Z
         <td><img src="/guides/security/smuggling/chameleon_jumpsuit.gif"><br>Набор хамелеона</td>
         <td><div><ul>
           <li><img src="/guides/uplink/idregular.png"><span>ID карта агента</span></li>
-          <li><img src="/role/thief/backpack.png"><span>Рюкзак</span></li>
+          <li><img src="/roles/thief/backpack.png"><span>Рюкзак</span></li>
           	<ul>
-              <li><img src="/role/thief/beret.png"><span>Берет</span></li>
-          		<li><img src="/role/thief/headset.png"><span>Гарнитура пассажира</span></li>
-          		<li><img src="/role/thief/sunglasses.png"><span>Солнцезащитные очки</span></li>
+              <li><img src="/roles/thief/beret.png"><span>Берет</span></li>
+          		<li><img src="/roles/thief/headset.png"><span>Гарнитура пассажира</span></li>
+          		<li><img src="/roles/thief/sunglasses.png"><span>Солнцезащитные очки</span></li>
               <li><img src="/guides/uplink/gasmask.png"><span>Противогаз</span></li>
-          		<li><img src="/role/thief/scarf.png"><span>Полосатый красный шарф</span></li> 
-          		<li><img src="/role/thief/jacket.png"><span>Жилет</span></li> 
-          		<li><img src="/role/thief/jumpsuit.png"><span>Чёрный комбинезон</span></li> 
-          		<li><img src="/role/thief/gloves.png"><span>Чёрные перчатки</span></li>
-              <li><img src="/role/thief/boots.png"><span>Чёрные туфли</span></li>
+          		<li><img src="/roles/thief/scarf.png"><span>Полосатый красный шарф</span></li> 
+          		<li><img src="/roles/thief/jacket.png"><span>Жилет</span></li> 
+          		<li><img src="/roles/thief/jumpsuit.png"><span>Чёрный комбинезон</span></li> 
+          		<li><img src="/roles/thief/gloves.png"><span>Чёрные перчатки</span></li>
+              <li><img src="/roles/thief/boots.png"><span>Чёрные туфли</span></li>
           	</ul>
           </ul></div></td>
       </tr>
       <tr id="canSteal">
-        <td><img src="/role/thief/doorjack.png"><br>Высокотехнологичный набор</td>
+        <td><img src="/roles/thief/doorjack.png"><br>Высокотехнологичный набор</td>
         <td><div><ul>
-          <li><img src="/role/thief/doorjack.png"><span>Взломщик замков</span></li>
+          <li><img src="/roles/thief/doorjack.png"><span>Взломщик замков</span></li>
           <li><img src="/guides/antagonists/uplink/door_remotebase_white.png"><span>Временной маяк</span></li>
           <li><img src="/guides/uplink/jammer.png"><span>Глушитель радио</span></li>
           <li><img src="/guides/antagonists/uplink/chameleon_projector.png"><span>Хамелеон проектор</span></li>
           </ul></div></td>
       <tr id="canSteal">
-        <td><img src="/role/thief/hatsyndi.png"><br>Набор рабовладельца</td>
+        <td><img src="/roles/thief/hatsyndi.png"><br>Набор рабовладельца</td>
         <td><div><ul>
-          <li><img src="/role/securityservicedepartment/implants/implanter.png"><span><a href="/guides/implants/mindslaves">Имплант подчинения</a> <i>(x3)</i></span></li>
-          <li><img src="/role/thief/hatsyndi.png"><span>Шляпа мастера по оружию</span></li>
-          <li><img src="/role/thief/coatsyndie.png"><span>Пальто синдиката</span></li>
+          <li><img src="/roles/sec/implants/implanter.png"><span><a href="/guides/implants/mindslaves">Имплант подчинения</a> <i>(x3)</i></span></li>
+          <li><img src="/roles/thief/hatsyndi.png"><span>Шляпа мастера по оружию</span></li>
+          <li><img src="/roles/thief/coatsyndie.png"><span>Пальто синдиката</span></li>
           </ul></div></td>
       </tr>
       <tr id="canSteal">
@@ -133,13 +133,13 @@ dateCreated: 2024-09-25T18:25:33.388Z
           <li><img src="https://js.ss14.su/guides/uplink/itempen.png"><span>Гипоручка</span></li>
           <li><img src="/cylinderofnitricoxide.png"><span>Баллон оксида азота</span></li>
           <li><img src="https://js.ss14.su/guides/uplink/pyjamasyndicate.gif"><span>Пижама синдиката</span></li>
-          <li><img src="/role/thief/sheetsyndie.png"><span>Одеяло синдиката</span></li>
+          <li><img src="/roles/thief/sheetsyndie.png"><span>Одеяло синдиката</span></li>
           </ul></div></td>
       </tr>
       <tr id="canSteal">
-        <td><img src="/role/antagonists/signalman.png"><br>Набор связиста</td>
+        <td><img src="/roles/antagonists/signalman.png"><br>Набор связиста</td>
         <td><div><ul>
-          <li><img src="/role/thief/crypt.png"><span>Ключ шифрования</span></li>
+          <li><img src="/roles/thief/crypt.png"><span>Ключ шифрования</span></li>
           <li><img src="/guides/uplink/overpricedpen.png"><span>Ручка cybersun</span></li>
           <li><img src="/guides/crewmonitor.gif"><span>Портативный монитор экипажа</span></li>
           <li><img src="https://js.ss14.su/guides/uplink/gasmask.png"><span>Голосовая маска</span></li>
