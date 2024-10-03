@@ -2,7 +2,7 @@
 title: Космический Ниндзя
 description: 
 published: true
-date: 2024-09-25T18:31:41.390Z
+date: 2024-10-03T10:36:29.022Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:31:41.390Z
@@ -41,7 +41,7 @@ dateCreated: 2024-09-25T18:31:41.390Z
 </div>
 <div id="block">
   
-## ![ninja-suit.png](/role/space-ninja/ninja-suit.png){.png1} <span class="up">Ваш костюм</span> ![ninja-suit.png](/role/space-ninja/ninja-suit.png){.png1}
+## ![ninja-suit.png](/roles/space-ninja/ninja-suit.png){.png1} <span class="up">Ваш костюм</span> ![ninja-suit.png](/roles/space-ninja/ninja-suit.png){.png1}
 
 Возможно, это ваше самое важное владение, которое позволяет использовать все возможности. Не потеряйте его!
 
@@ -60,7 +60,7 @@ dateCreated: 2024-09-25T18:31:41.390Z
 </div>
 <div id="block">
 
-## ![ninja-gloves.png](/role/space-ninja/ninja-gloves.png){.png1} <span class="up">Ниндзя перчатки</span> ![ninja-gloves.png](/role/space-ninja/ninja-gloves.png){.png1}
+## ![ninja-gloves.png](/roles/space-ninja/ninja-gloves.png){.png1} <span class="up">Ниндзя перчатки</span> ![ninja-gloves.png](/roles/space-ninja/ninja-gloves.png){.png1}
 
 Эти плохие парни - твой хлеб с маслом.
 
@@ -78,19 +78,19 @@ dateCreated: 2024-09-25T18:31:41.390Z
 </div>
 <div id="block">
   
-## ![ninja-katana.png](/role/space-ninja/ninja-katana.png){.png1} <span class="up">Энергетическая катана</span> ![ninja-katana.png](/role/space-ninja/ninja-katana.png){.png1}
+## ![ninja-katana.png](/roles/space-ninja/ninja-katana.png){.png1} <span class="up">Энергетическая катана</span> ![ninja-katana.png](/roles/space-ninja/ninja-katana.png){.png1}
 
 Современная версия древнего меча уибу. Наносит большой урон и может быть отозван по желанию, затрачивая энергию костюма пропорционально телепортируемому расстоянию. Когда вы держите его в руках, вы можете телепортироваться в любое место, **которое сможете увидеть**, то есть через большинство дверей и окон, но не сквозь сплошные стены. У него ограниченное количество зарядов, которые восстанавливаются медленно, поэтому держите один или два запасных на случай, если вам понадобится быстро выбраться из щекотливой ситуации.
 </div>
 <div id="block">
 
-## ![ninja-bomb.png](/role/space-ninja/ninja-bomb.png){.png1}<span class="up">Паучья атака</span> ![ninja-bomb.png](/role/space-ninja/ninja-bomb.png){.png1}
+## ![ninja-bomb.png](/roles/space-ninja/ninja-bomb.png){.png1}<span class="up">Паучья атака</span> ![ninja-bomb.png](/roles/space-ninja/ninja-bomb.png){.png1}
 
 Модифицированное взрывчатое вещество С-4, которое производит мощный взрыв, но **может быть приведено в действие только в районе цели**. Для вас выбирается случайная область на карте, которую вы должны взорвать, что является вашей целью. Вы не можете активировать его вручную, поэтому просто повесьте его на стену или что-нибудь в этом роде. Вы можете изменить таймер, если вам нужно больше времени для побега или вам нравится звуковой сигнал. После посадки не отклеивается.
 </div>
 <div id="block">
   
-## ![ninja-boots.png](/role/space-ninja/ninja-boots.png){.png1}<span class="up">Обувь ниндзя</span> 
+## ![ninja-boots.png](/roles/space-ninja/ninja-boots.png){.png1}<span class="up">Обувь ниндзя</span> 
 
 И последнее, но не менее важное - твои наноботинки. Они делают вас *по-настоящему* быстрым, и вы не можете поскользнуться. Для функционирования не требуется энергия.
 </div>  
@@ -109,27 +109,27 @@ dateCreated: 2024-09-25T18:31:41.390Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/role/space-ninja/emag.png"><br>Взлом дверей на станции</td>
+        <td><img src="/roles/space-ninja/emag.png"><br>Взлом дверей на станции</td>
         <td>Легкая</td>
         <td>Используйте свои перчатки, чтобы взламывать двери. Вы можете либо быть хитрым и изуродовать местные общежития и ремонтные мастерские, либо сойти с ума и вскрыть мостик и оружейную, к горю экипажа и радости предателей.</td>
       </tr>
       <tr>
-        <td><img src="/role/space-ninja/server.png"><br>Кража технологий</td>
+        <td><img src="/roles/space-ninja/server.png"><br>Кража технологий</td>
         <td>Средняя</td>
         <td>Скачайте технологии с сервера РнД. У вас будет конкретное число технологий для кражи, так что изучите больше технологий за Учёных, если они снова отлынивали от своей работы.</td>
       </tr>
       <tr>
-        <td><img src="/role/space-ninja/red_phone.png"><br>Звонок с угрозой</td>
+        <td><img src="/roles/space-ninja/red_phone.png"><br>Звонок с угрозой</td>
         <td>Легкая</td>
         <td>Взломайте коммуникационную консоль, чтобы вызвать случайную угрозу.</td>
       </tr>
       <tr>
-        <td><img src="/role/space-ninja/ninja-bomb.png"><br>Подрыв</td>
+        <td><img src="/roles/space-ninja/ninja-bomb.png"><br>Подрыв</td>
         <td>Средняя</td>
         <td>Подорвать взрыное устройство клана паука, в отделах, указанных в задании.</td>
       </tr>
       <tr>
-        <td><img src="/role/space-ninja/ninja-mask.png"><br>Выжить</td>
+        <td><img src="/roles/space-ninja/ninja-mask.png"><br>Выжить</td>
         <td>Сложная</td>
         <td>Это сложнее, чем кажется.</td>
       </tr>
