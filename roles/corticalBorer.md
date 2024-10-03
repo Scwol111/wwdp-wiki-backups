@@ -2,7 +2,7 @@
 title: Космическая аскарида
 description: 
 published: true
-date: 2024-09-25T18:17:23.000Z
+date: 2024-10-03T10:01:10.366Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:17:23.000Z
@@ -36,24 +36,24 @@ dateCreated: 2024-09-25T18:17:23.000Z
 
 |<div style="width: 100px"> Способность </div> | Название | Описание
 | --- | --- | --- | --- |
-| <center><img src="/role/antagonists/action_infest.png" style="width:64px"></center> | Вселение | Поселяется в мозгу жертвы. Для применения жертва должна стоять неподвижно, для этого можете использовать *Паралич*.
-| <center><img src="/role/antagonists/action_stun.png" style="width:64px"></center> | Паралич | Парализует ничего не подозревающею жертву. Для применения нужно нажать <kbd>ЛКМ</kbd> по жертве, предварительно включив способность.
+| <center><img src="/roles/antagonists/action_infest.png" style="width:64px"></center> | Вселение | Поселяется в мозгу жертвы. Для применения жертва должна стоять неподвижно, для этого можете использовать *Паралич*.
+| <center><img src="/roles/antagonists/action_stun.png" style="width:64px"></center> | Паралич | Парализует ничего не подозревающею жертву. Для применения нужно нажать <kbd>ЛКМ</kbd> по жертве, предварительно включив способность.
 
 <hr>
 
 После того как вы найдете себе носителя и залезете к нему, помните, что ваша главная цель - выжить, а не убить кого-то. Именно поэтому перед тем как дать вашему носителю какие-то химикаты, подумайте, не пойдет ли ему это во вред. Также теперь у вас будут вырабатываться химикаты, которые нужны для ваших дальнейших действий:
-![borer-bar.png](/role/antagonists/borer-bar.png){.png1}
+![borer-bar.png](/roles/antagonists/borer-bar.png){.png1}
 </p>
 
 <h2 style="text-align: center"> Основные способности </h2>
 
 |<div style="width: 100px"> Способность </div> | Название | Описание | Стоимость применения 
 | --- | --- | --- | --- | --- |
-| <center><img src="/role/antagonists/action_out.png" style="width:64px"></center> | Покинуть носителя | Вызывает у носителя рвоту, из-за чего вы выходите из него и перестаёте вырабатывать химикаты. | <center>0 химикатов</center> 
-| <center><img src="/role/antagonists/action_brainspeech.png" style="width:64px"></center> | Связь с носителем | Позволяет установить связь с носителем. | <center>0 химикатов</center> 
-| <center><img src="/role/antagonists/action_inject.png" style="width:64px"></center> | Впрыск реагентов | Позволяет впрыснуть в носителя некоторые <a href="#химикаты"> химикаты</a>. | <center>30-75 химикатов</center> 
-| <center><img src="/role/antagonists/action_scanreagents.png" style="width:64px"></center> | Анализ крови | Анализирует кровь носителя на наличие химикатов. | <center>0 химикатов</center>
-| <center><img src="/role/antagonists/action_braintake.png" style="width:64px"></center> | Захватить контроль | Позволяет захватить контроль над носителем. При захвате носитель может начать сопротивляться.  | <center>250 химикатов</center> 
+| <center><img src="/roles/antagonists/action_out.png" style="width:64px"></center> | Покинуть носителя | Вызывает у носителя рвоту, из-за чего вы выходите из него и перестаёте вырабатывать химикаты. | <center>0 химикатов</center> 
+| <center><img src="/roles/antagonists/action_brainspeech.png" style="width:64px"></center> | Связь с носителем | Позволяет установить связь с носителем. | <center>0 химикатов</center> 
+| <center><img src="/roles/antagonists/action_inject.png" style="width:64px"></center> | Впрыск реагентов | Позволяет впрыснуть в носителя некоторые <a href="#химикаты"> химикаты</a>. | <center>30-75 химикатов</center> 
+| <center><img src="/roles/antagonists/action_scanreagents.png" style="width:64px"></center> | Анализ крови | Анализирует кровь носителя на наличие химикатов. | <center>0 химикатов</center>
+| <center><img src="/roles/antagonists/action_braintake.png" style="width:64px"></center> | Захватить контроль | Позволяет захватить контроль над носителем. При захвате носитель может начать сопротивляться.  | <center>250 химикатов</center> 
 
 Помните что после того, как вы возьмете контроль над вашим носителем, он может начать сопротивляться, из-за чего у вас будет 30 секунд, чтобы успеть оставить потомство (использует 100 химикатов), поэтому запаситесь химикатами, перед тем как захватить контроль.
 
