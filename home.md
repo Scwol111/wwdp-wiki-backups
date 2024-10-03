@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница
 published: true
-date: 2024-10-03T11:40:22.410Z
+date: 2024-10-03T12:25:09.322Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -116,29 +116,28 @@ dateCreated: 2024-09-10T19:12:06.984Z
                 <p>
                   <strong>Multiverse</strong>
                 </p>
-                <p>Впервые на нашем сервере? Для того, чтобы начать своё погружение в удивительный мир космической станции, прочитайте как начать играть с нами на <a href="https://google.com" class="is-external-link" style="text-decoration: none;">сайте, которого пока нет</a>.
-                </p>
+                <p>Впервые на нашем сервере? Для того, чтобы начать своё погружение в удивительный мир космической станции, прочитайте как начать играть с нами на <a href="" class="is-external-link" style="text-decoration: none!important;">сайте, которого пока нет</a>.</p>
               </div>
               <div></div>
               <hr>
               <div class="containerextra">
                 <div class="servermenu">
-                  <div>🏳️Medusa</div>
+                  <div>🏳️Medusa RU</div>
                   <div>
                     <a class="is-external-link"><span id="copy">ss14://188.64.33.86:1212</span></a>
                   </div>
                 </div>
               <div class="containerextra">
                 <div class="servermenu">
-                  <div>🏳️Wyrm</div>
+                  <div>🏳️Wyrm EN</div>
                   <div>
-                    <a href="https://google.com" class="is-external-link">Сервера нету</a>
+                    <a href="" class="is-external-link">Сервера нету</a>
                   </div>
                 </div>
                 <div class="servermenu">
                   <div>💎Boosty</div>
                   <div>
-                    <a href="https://google.com" class="is-external-link">Бусти нету</a>
+                    <a href="" class="is-external-link">Бусти нету</a>
                   </div>
                 </div>
               </div>
