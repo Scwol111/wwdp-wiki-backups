@@ -2,7 +2,7 @@
 title: Ядерный Оперативник
 description: 
 published: true
-date: 2024-09-25T18:15:26.706Z
+date: 2024-10-03T09:55:24.493Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:15:26.706Z
@@ -58,12 +58,12 @@ dateCreated: 2024-09-25T18:15:26.706Z
 
 
 Также вам был предоставлен прекрасный шаттл с большим количеством полезных вещей! Компания Cybersun позаботилась о вас!
-![nukieshuttle.png](/role/nuclearoperative/nukieshuttle.png){.shittle}
+![nukieshuttle.png](/roles/nuclearoperative/nukieshuttle.png){.shittle}
 
 
 ## Ядерный оперативник
 
-![](/role/nuclearoperative/nukie_normal.png){.shittle .urist}
+![](/roles/nuclearoperative/nukie_normal.png){.shittle .urist}
 
 <b>Снаряжение</b>:
 - Армейские ботинки (имеется боевой нож внутри)
@@ -77,11 +77,11 @@ dateCreated: 2024-09-25T18:15:26.706Z
 - Аплинк (для закупки дополнительного снаряжения)
 - Кроваво-красный скафандр
 
-![](/role/nuclearoperative/nukie_normal_gear.png){.shittle}
+![](/roles/nuclearoperative/nukie_normal_gear.png){.shittle}
 
 ## Командир оперативников
 
-![](/role/nuclearoperative/nukie_commander.png){.shittle .urist}
+![](/roles/nuclearoperative/nukie_commander.png){.shittle .urist}
 
 <b>Снаряжение</b>:
 - Декларатор войны
@@ -96,11 +96,11 @@ dateCreated: 2024-09-25T18:15:26.706Z
 - Аплинк (для закупки дополнительного снаряжения)
 - Скафандр командира синдиката
 
-![](/role/nuclearoperative/nukie_commander_gear.png){.shittle}
+![](/roles/nuclearoperative/nukie_commander_gear.png){.shittle}
 
 ## Медик оперативников
 
-![](/role/nuclearoperative/nukie_medic.png){.shittle .urist}
+![](/roles/nuclearoperative/nukie_medic.png){.shittle .urist}
 
 <b>Снаряжение</b>:
 - Кроваво красные магнитные сапоги
@@ -113,7 +113,7 @@ dateCreated: 2024-09-25T18:15:26.706Z
 - Армейская РПС медика (Имеет вместимость 60. Внутри горлакс гипоспрей, 2 колбочки [эпинефрина](/guides/chemistry), 2 колбочки [эфедрина](/guides/chemistry#Медикаменты), 1 колбочка [омнизина](/guides/chemistry) и боевая аптечка)
 - Скафандр медика синдиката
 
-![](/role/nuclearoperative/nukie_medic_gear.png){.shittle}
+![](/roles/nuclearoperative/nukie_medic_gear.png){.shittle}
 
 ## Краткое введение в работу
 
@@ -139,7 +139,7 @@ dateCreated: 2024-09-25T18:15:26.706Z
 
 <img src="/pinpointer.png" alt="pinponter" class="itempng">Самый важный элемент снаряжения - это пинпоинтер. Это удобное устройство указывает на главную цель - диск ядерной аутентификации. По мере приближения к диску стрелка на пинпоинтере будет меняться от красной к синей и зеленой. Как только владелец пинпоинтера окажется в пределах одного тайла от диска, пинпоинтер начнет мигать черной точкой.
 
-<img src="/role/nuclearoperative/emag.png" alt="pinponter" class="itempng">Оперативникам понадобятся средства для проникновения на станцию. По умолчанию не будет доступа к внешним и ведомственным шлюзам станции. Обязательно возьмите с собой оборудование, которое позволит вам получить доступ к этим зонам. Основная форма защиты - скорость и скрытность. Если оперативники застрянут за воздушным шлюзом, они могут погибнуть, если экипаж обнаружит их и набросится на вашу команду.
+<img src="/roles/nuclearoperative/emag.png" alt="pinponter" class="itempng">Оперативникам понадобятся средства для проникновения на станцию. По умолчанию не будет доступа к внешним и ведомственным шлюзам станции. Обязательно возьмите с собой оборудование, которое позволит вам получить доступ к этим зонам. Основная форма защиты - скорость и скрытность. Если оперативники застрянут за воздушным шлюзом, они могут погибнуть, если экипаж обнаружит их и набросится на вашу команду.
 
 <img src="/guides/war.gif" alt="pinponter" class="itempng"> Захотели дать им жару? Используйте декларатор войны. Находится в начале смены у командира в руках. Отправляет объявление о ваших намереньях всей станции. Вы можете написать любое сообщение, работает одноразово. После отправки начисляет каждому оперативнику дополнительные 40 тк. Вылететь на станцию можно будет только по истечению 15 минут, а так же <a href="https://boosty.to/whitedream/">донатеры</a> не смогут выдать себе антагониста.
 
