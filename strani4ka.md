@@ -2,7 +2,7 @@
 title: Main Page Example
 description: для смертных
 published: false
-date: 2024-10-03T11:24:30.118Z
+date: 2024-10-03T11:24:54.779Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T09:18:25.938Z
@@ -116,7 +116,7 @@ dateCreated: 2024-10-03T09:18:25.938Z
                 <p>
                   <strong>Multiverse</strong>
                 </p>
-                <p>Впервые на нашем сервере? Для того, чтобы начать своё погружение в удивительный мир космической станции, прочитайте как начать играть с нами на <a href="https://google.com" class="is-external-link" style="text-decoration: none;">сайте, которого пока нет.</a>
+                <p>Впервые на нашем сервере? Для того, чтобы начать своё погружение в удивительный мир космической станции, прочитайте как начать играть с нами на <a href="" class="is-external-link" style="text-decoration: none;">сайте, которого пока нет.</a>
                 </p>
               </div>
               <div></div>
