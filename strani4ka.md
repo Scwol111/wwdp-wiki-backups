@@ -2,7 +2,7 @@
 title: Main Page Example
 description: для смертных
 published: false
-date: 2024-10-03T10:38:40.315Z
+date: 2024-10-03T10:41:40.571Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T09:18:25.938Z
@@ -90,18 +90,18 @@ dateCreated: 2024-10-03T09:18:25.938Z
                         <img src="/main_page_icons/community_elements_logos/discord-2-xxl.png" class="element-image" style="background-color: #5863F3">White Dream
                       </div>
                         </a>
-                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">
+                        <a class="fredoka-font" href="https://vk.com/ss13ru" class="community-link is-external-link">
  											<div class="community-element">
                         <img src="/main_page_icons/community_elements_logos/vk-icon.png" class="element-image" style="background-color: #0077FF">SS14 RU 
                       </div>
                         </a>
                         <div class="new-string"></div>
-                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">
+                        <a class="fredoka-font" href="https://forum.wwdp-ss14.ru/" class="community-link is-external-link">
                       <div class="community-element">
                         <img src="/main_page_icons/community_elements_logos/forum-link3.gif" class="element-image">Forum
                       </div>
                         </a>
-                      <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link"><div class="community-element">
+                      <a class="fredoka-font" href="https://spacestationmultiverse.com/" class="community-link is-external-link"><div class="community-element">
                         <img src="/main_page_icons/community_elements_logos/hub-link2.gif" class="element-image">Hub
                       </div>
                         </a>
