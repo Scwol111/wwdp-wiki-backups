@@ -2,7 +2,7 @@
 title: Вор
 description: 
 published: true
-date: 2024-10-03T10:02:21.147Z
+date: 2024-10-03T10:07:02.208Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:25:33.388Z
@@ -73,10 +73,10 @@ dateCreated: 2024-09-25T18:25:33.388Z
     </thead>
     <tbody>
       <tr id="canSteal">
-        <td><img src="/roles/securityservicedepartment/implants/implanter.png"><br>Набор химика</td>
+        <td><img src="/roles/sec/implants/implanter.png"><br>Набор химика</td>
         <td><div><ul>
-          <li><img src="/roles/securityservicedepartment/implants/implanter.png"><span>Имплант Хранилища</span></li>
-          <li><img src="/roles/securityservicedepartment/implants/implanter.png"><span>Имплант миксер ДНК</span></li>
+          <li><img src="/roles/sec/implants/implanter.png"><span>Имплант Хранилища</span></li>
+          <li><img src="/roles/sec/implants/implanter.png"><span>Имплант миксер ДНК</span></li>
           <li><img src="/roles/thief/omega.png"><span>Омега мыло</span></li>
           <li><img src="/guides/syringe.png"><span>Пустой шприц</span></li>
           <li><img src="/guides/uplink/bottle.png"><span>Бутылочка эфедрина</span></li>
