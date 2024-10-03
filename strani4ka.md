@@ -2,7 +2,7 @@
 title: Main Page Example
 description: для смертных
 published: false
-date: 2024-10-03T11:24:22.443Z
+date: 2024-10-03T11:24:30.118Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T09:18:25.938Z
@@ -123,14 +123,14 @@ dateCreated: 2024-10-03T09:18:25.938Z
               <hr>
               <div class="containerextra">
                 <div class="servermenu">
-                  <div>🏳️Medusa</div>
+                  <div>🏳️Medusa RU</div>
                   <div>
                     <a class="is-external-link"><span id="copy">ss14://188.64.33.86:1212</span></a>
                   </div>
                 </div>
               <div class="containerextra">
                 <div class="servermenu">
-                  <div>🏳️Wyrm</div>
+                  <div>🏳️Wyrm EN</div>
                   <div>
                     <a href="" class="is-external-link">Сервера нету</a>
                   </div>
