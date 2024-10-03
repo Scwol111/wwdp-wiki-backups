@@ -2,7 +2,7 @@
 title: Предатель
 description: 
 published: true
-date: 2024-09-25T18:14:46.166Z
+date: 2024-10-03T09:52:58.207Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:14:46.166Z
@@ -42,37 +42,37 @@ dateCreated: 2024-09-25T18:14:46.166Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/role/traitor/black_gloves.png"><br>Кража особо ценного предмета</td>
+        <td><img src="/roles/traitor/black_gloves.png"><br>Кража особо ценного предмета</td>
         <td>От средней до сложной</td>
         <td>Нужно украть один из <a href="/guides/especiallyvaluableitems">особо ценных предметов</a>.</td>
       </tr>
       <tr>
-        <td><img src="/role/traitor/sword.gif"><br>Убийство</td>
+        <td><img src="/roles/traitor/sword.gif"><br>Убийство</td>
         <td>От средней до сложной</td>
         <td>Нужно будет убить одного из члена экипажа и добиться того, чтобы до конца раунда он был мёртв.</td>
       </tr>
       <tr>
-        <td><img src="/role/traitor/eshield-on.png"><br>Защита</td>
+        <td><img src="/roles/traitor/eshield-on.png"><br>Защита</td>
         <td>От лёгкой до средней</td>
         <td>От вас требуется не дать погибнуть вашей цели.</td>
       </tr>
       <tr>
-        <td><img src="/role/traitor/syndisuit.png"><br>Помощь</td>
+        <td><img src="/roles/traitor/syndisuit.png"><br>Помощь</td>
         <td>От лёгкой до средней</td>
         <td>Помогите выполнить минимум половину заданий своей цели.</td>
       </tr>
       <tr>
-        <td><img src="/role/traitor/adrenalimp.png"><br>Сбежать</td>
+        <td><img src="/roles/traitor/adrenalimp.png"><br>Сбежать</td>
         <td>Средняя</td>
         <td>Вы должны улететь со станции на шаттле, будучи живым и не скованным в наручники.</td>
       </tr>
       <tr>
-        <td><img src="/role/traitor/bombimplant.png"><br>Уйдите красиво</td>
+        <td><img src="/roles/traitor/bombimplant.png"><br>Уйдите красиво</td>
         <td>Лёгкая</td>
         <td>Подойдёт любая смерть, проявите весь свой креатив или просто нарезайте всех подряд, пока вас не убьют.</td>
       </tr>
       <tr>
-        <td><img src="/role/traitor/emag.png"><br>Угон эвакуационного шаттла</td>
+        <td><img src="/roles/traitor/emag.png"><br>Угон эвакуационного шаттла</td>
         <td>Сложная</td>
         <td>Нужно улететь на эвакуационном шаттле одному. Для выполнения этой цели используйте <a href="/guides/emag">Емаг</a> на консоли аварийного шаттла, чтобы начать десятисекундный отсчёт до отлета шаттла на ЦК.</td>
       </tr>
