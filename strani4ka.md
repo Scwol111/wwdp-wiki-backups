@@ -2,7 +2,7 @@
 title: Main Page Example
 description: для смертных
 published: false
-date: 2024-10-03T10:37:52.212Z
+date: 2024-10-03T10:38:04.877Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T09:18:25.938Z
@@ -87,7 +87,7 @@ dateCreated: 2024-10-03T09:18:25.938Z
                       <div class="community-div-flex">
                         <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">
                       <div class="community-element">
-                        <img src="/main_page_icons/community_elements_logos/discord-2-xxl.png" class="element-image">White Dream
+                        <img src="/main_page_icons/community_elements_logos/discord-2-xxl.png" class="element-image" style="background-color: #5863F3">White Dream
                       </div>
                         </a>
                         <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">
