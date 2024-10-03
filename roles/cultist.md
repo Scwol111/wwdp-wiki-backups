@@ -2,7 +2,7 @@
 title: Культист
 description: 
 published: true
-date: 2024-10-03T10:30:28.657Z
+date: 2024-10-03T10:30:59.012Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T14:58:53.955Z
@@ -253,7 +253,7 @@ dateCreated: 2024-09-21T14:58:53.955Z
     font-size: 20px;">
   <p style="font-size: 40px"> Нар'Си </p>
 
-<img src="/narsie.gif" id="narsieGif" style="display: block;">
+<img src="/roles/cult/narsie.gif" id="narsieGif" style="display: block;">
 
 <div class="overlay" id="overlay"></div>
 <img src="/narsie.gif" class="centered" id="narsieGifCentered">
