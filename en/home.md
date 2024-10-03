@@ -2,7 +2,7 @@
 title: Main
 description: 
 published: true
-date: 2024-09-11T17:47:56.191Z
+date: 2024-10-03T11:38:00.465Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:50.659Z
@@ -84,28 +84,27 @@ dateCreated: 2024-09-10T19:07:50.659Z
                       <strong>Community</strong>
                     </p>
                     <center>
-                      <div>
-                        <a href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">
-                          <span class="icon">
-                            <img src="/main_page_icons/discord_link.png" width="200" height="30">
-                          </span>
-                        </a>
-                        <a href="https://google.com" class="community-link is-external-link">
-                          <span class="icon">
-                            <img src="https://wiki.ss14.su/vk_link.png" width="200" height="30">
-                          </span>
-                        </a>
+                      <div class="community-div-flex">
+                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">
+                      <div class="community-element">
+                        <div class="element-image" style="height: 40px; width: 40px; background-color: #5863F3"></div>
+                        <img src="/main_page_icons/community_elements_logos/discord-2-xxl.png" class="element-image" style="left: 2px; top: 2px; height: 36px; width: 36px;">WWDP Discord
                       </div>
-                      <div>
-                        <a rel="nofollow" href="https://forum.wwdp-ss14.ru/" class="community-link is-external-link">
-                          <span class="icon">
-                            <img src="https://wiki.ss14.su/forum-link3.gif" alt="forum-link3.gif" width="200" height="30">
-                          </span>
                         </a>
-                        <a href="https://spacestationmultiverse.com/" class="community-link is-external-link">
-                          <span class="icon">
-                            <img src="https://wiki.ss14.su/hub-link2.gif" width="200" height="30">
-                          </span>
+                        <a class="fredoka-font" href="https://github.com/WWhiteDreamProject/wwdpublic" class="community-link is-external-link">
+ 											<div class="community-element">
+                        <img src="/main_page_icons/community_elements_logos/git.png" class="element-image" style="background-color: #ffff">GitHub
+                      </div>
+                        </a>
+                        <div class="new-string"></div>
+                        <a class="fredoka-font" href="https://forum.wwdp-ss14.ru/" class="community-link is-external-link">
+                      <div class="community-element">
+                        <img src="/main_page_icons/community_elements_logos/forum-link3.gif" class="element-image">Forum
+                      </div>
+                        </a>
+                      <a class="fredoka-font" href="https://spacestationmultiverse.com/" class="community-link is-external-link"><div class="community-element">
+                        <img src="/main_page_icons/community_elements_logos/hub-link2.gif" class="element-image">Hub
+                          </div>
                         </a>
                       </div>
                     </center>
