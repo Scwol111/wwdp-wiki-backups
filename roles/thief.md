@@ -2,7 +2,7 @@
 title: Вор
 description: 
 published: true
-date: 2024-10-03T10:09:53.954Z
+date: 2024-10-03T10:11:59.607Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:25:33.388Z
@@ -84,12 +84,12 @@ dateCreated: 2024-09-25T18:25:33.388Z
           </ul></div></td>
       </tr>
       <tr id="canSteal">
-        <td><img src="/role/other/jaws_pry.png"><br>Набор медвежатника</td>
+        <td><img src="/roles/other/jaws_pry.png"><br>Набор медвежатника</td>
           <td><div><ul>
-          <li><img src="/role/other/jaws_pry.png"><span>Челюсти жизни</span></li>
+          <li><img src="/roles/other/jaws_pry.png"><span>Челюсти жизни</span></li>
           <li><img src="/guides/uplink/c4.gif"><span>Взрывчатка С-4 <i>(x4)</i></span></li>
           <li><img src="/guides/supply/listofproducts/engineering/insulated_gloves.png"><span>Изолированные перчатки <i>(x2)</i></span></li>
-          <li><img src="/role/thief/glasses.png"><span>Инженерные очки</span></li>
+          <li><img src="/roles/thief/glasses.png"><span>Инженерные очки</span></li>
           </ul></div></td>
       </tr>
       <tr id="canSteal">
