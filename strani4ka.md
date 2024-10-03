@@ -2,7 +2,7 @@
 title: Main Page Example
 description: для смертных
 published: false
-date: 2024-10-03T09:29:29.521Z
+date: 2024-10-03T09:37:44.454Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T09:18:25.938Z
@@ -84,9 +84,29 @@ dateCreated: 2024-10-03T09:18:25.938Z
                       <strong>Сообщество</strong>
                     </p>
                     <center>
-                      <div id='flex-container'>
-  <div>1</div><div>2</div><div>3</div><div>4</div>
-</div>
+                      <div>
+                        <div class="community-element">
+                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">White Dream
+                        </a>
+                        </div>
+                        <a href="https://google.com" class="community-link is-external-link">
+                          <span class="icon">
+                            <img src="https://wiki.ss14.su/vk_link.png" width="200" height="30" class="try-cock">
+                          </span>
+                        </a>
+                      </div>
+                      <div>
+                        <a rel="nofollow" href="https://forum.wwdp-ss14.ru/" class="community-link is-external-link">
+                          <span class="icon">
+                            <img src="https://wiki.ss14.su/forum-link3.gif" alt="forum-link3.gif" width="200" height="30" class="try-cock">
+                          </span>
+                        </a>
+                        <a href="https://spacestationmultiverse.com/" class="community-link is-external-link">
+                          <span class="icon">
+                            <img src="https://wiki.ss14.su/hub-link2.gif" width="200" height="30"  class="try-cock">
+                          </span>
+                        </a>
+                      </div>
                     </center>
                   </div>
                 </div>
