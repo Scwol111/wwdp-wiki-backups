@@ -1,8 +1,8 @@
 ---
-title: svo
-description: 
+title: Main Page Example
+description: для смертных
 published: false
-date: 2024-10-03T09:19:48.493Z
+date: 2024-10-03T09:20:36.919Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T09:18:25.938Z
