@@ -2,7 +2,7 @@
 title: Main Page Example
 description: для смертных
 published: false
-date: 2024-10-03T09:42:37.957Z
+date: 2024-10-03T09:46:16.891Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T09:18:25.938Z
@@ -88,12 +88,11 @@ dateCreated: 2024-10-03T09:18:25.938Z
                         <div class="community-element">
                         <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">White Dream
                         </a>
-                        </div>
-                        <a href="https://google.com" class="community-link is-external-link">
-                          <span class="icon">
-                            <img src="https://wiki.ss14.su/vk_link.png" width="200" height="30" class="try-cock">
-                          </span>
+                      </div>
+ 											<div class="community-element">
+                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">SS14 RU Community
                         </a>
+                      </div>
                       </div>
                       <div>
                         <a rel="nofollow" href="https://forum.wwdp-ss14.ru/" class="community-link is-external-link">
