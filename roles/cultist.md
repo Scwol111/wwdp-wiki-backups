@@ -2,7 +2,7 @@
 title: Культист
 description: 
 published: true
-date: 2024-10-03T10:29:41.339Z
+date: 2024-10-03T10:30:28.657Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T14:58:53.955Z
@@ -186,7 +186,7 @@ dateCreated: 2024-09-21T14:58:53.955Z
 
 
 ---
-<center><img src="/artificer.png" style="width: 64px;"></center>
+<center><img src="/roles/cult/artificer.png" style="width: 64px;"></center>
 <center><p style="font-size: 20px; font-weight: bold"> Ремесленник </p></center>
 
 -   HP: 50
