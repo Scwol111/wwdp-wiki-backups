@@ -2,7 +2,7 @@
 title: Вор
 description: 
 published: true
-date: 2024-10-03T10:07:33.155Z
+date: 2024-10-03T10:09:53.954Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:25:33.388Z
@@ -78,7 +78,7 @@ dateCreated: 2024-09-25T18:25:33.388Z
           <li><img src="/roles/sec/implanter.png"><span>Имплант Хранилища</span></li>
           <li><img src="/roles/sec/implanter.png"><span>Имплант миксер ДНК</span></li>
           <li><img src="/roles/thief/omega.png"><span>Омега мыло</span></li>
-          <li><img src="/guides/syringe.png"><span>Пустой шприц</span></li>
+          <li><img src="/roles/thief/syringe.png"><span>Пустой шприц</span></li>
           <li><img src="/guides/uplink/bottle.png"><span>Бутылочка эфедрина</span></li>
           <li><img src="/guides/supply/listofproducts/emergency/vodka.png"><span>Бутылка водки</span></li>
           </ul></div></td>
