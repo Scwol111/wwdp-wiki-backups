@@ -2,7 +2,7 @@
 title: Космический Ниндзя
 description: 
 published: true
-date: 2024-10-03T10:36:55.079Z
+date: 2024-10-03T10:37:47.830Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:31:41.390Z
