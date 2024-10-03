@@ -2,7 +2,7 @@
 title: Main Page Example
 description: для смертных
 published: false
-date: 2024-10-03T09:58:58.458Z
+date: 2024-10-03T10:05:10.914Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T09:18:25.938Z
@@ -84,8 +84,8 @@ dateCreated: 2024-10-03T09:18:25.938Z
                       <strong>Сообщество</strong>
                     </p>
                     <center>
-                      <div>
-                        <div class="community-element">
+                      <div class="community-div-flex">
+                      <div class="community-element">
                         <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">White Dream
                         </a>
                       </div>
@@ -93,18 +93,14 @@ dateCreated: 2024-10-03T09:18:25.938Z
                         <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">SS14 RU Community
                         </a>
                       </div>
+                      <div class="community-element">
+                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">Forum
+                        </a>
                       </div>
-                      <div>
-                        <a rel="nofollow" href="https://forum.wwdp-ss14.ru/" class="community-link is-external-link">
-                          <span class="icon">
-                            <img src="https://wiki.ss14.su/forum-link3.gif" alt="forum-link3.gif" width="200" height="30" class="try-cock">
-                          </span>
+                      <div class="community-element">
+                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">Hub
                         </a>
-                        <a href="https://spacestationmultiverse.com/" class="community-link is-external-link">
-                          <span class="icon">
-                            <img src="https://wiki.ss14.su/hub-link2.gif" width="200" height="30"  class="try-cock">
-                          </span>
-                        </a>
+                      </div>
                       </div>
                     </center>
                   </div>
