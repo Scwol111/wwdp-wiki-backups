@@ -2,7 +2,7 @@
 title: Main Page Example
 description: для смертных
 published: false
-date: 2024-10-03T10:09:34.836Z
+date: 2024-10-03T10:10:04.127Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T09:18:25.938Z
