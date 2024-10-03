@@ -2,7 +2,7 @@
 title: Вор
 description: 
 published: true
-date: 2024-10-03T10:11:59.607Z
+date: 2024-10-03T10:12:25.541Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:25:33.388Z
