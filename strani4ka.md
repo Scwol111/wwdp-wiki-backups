@@ -2,7 +2,7 @@
 title: Main Page Example
 description: для смертных
 published: false
-date: 2024-10-03T10:26:03.330Z
+date: 2024-10-03T10:35:53.328Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T09:18:25.938Z
@@ -85,23 +85,26 @@ dateCreated: 2024-10-03T09:18:25.938Z
                     </p>
                     <center>
                       <div class="community-div-flex">
+                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">
                       <div class="community-element">
-                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link"><img src="/main_page_icons/community_elements_logos/discord-2-xxl.png" class="element-image">White Dream
-                        </a>
+                        <img src="/main_page_icons/community_elements_logos/discord-2-xxl.png" class="element-image">White Dream
                       </div>
- 											<div class="community-element" style="">
-                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link"><img src="/main_page_icons/community_elements_logos/vk-icon.png" class="element-image">SS14 RU 
                         </a>
+                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">
+ 											<div class="community-element">
+                        <img src="/main_page_icons/community_elements_logos/vk-icon.png" class="element-image">SS14 RU 
                       </div>
+                        </a>
                         <div class="new-string"></div>
+                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">
                       <div class="community-element">
-                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link"><img src="/main_page_icons/community_elements_logos/forum-link3.gif" class="element-image">Forum
-                        </a>
+                        <img src="/main_page_icons/community_elements_logos/forum-link3.gif" class="element-image">Forum
                       </div>
-                      <div class="community-element">
-                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link"><img src="/main_page_icons/community_elements_logos/hub-link2.gif" class="element-image">Hub
                         </a>
+                      <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link"><div class="community-element">
+                        <img src="/main_page_icons/community_elements_logos/hub-link2.gif" class="element-image">Hub
                       </div>
+                        </a>
                       </div>
                     </center>
                   </div>
