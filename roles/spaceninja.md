@@ -2,7 +2,7 @@
 title: Космический Ниндзя
 description: 
 published: true
-date: 2024-10-03T10:36:29.022Z
+date: 2024-10-03T10:36:55.079Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:31:41.390Z
@@ -150,31 +150,31 @@ dateCreated: 2024-09-25T18:31:41.390Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/role/space-ninja/gib.png" class="ability-icon"></td>
+        <td><img src="/roles/space-ninja/gib.png" class="ability-icon"></td>
         <td>Имплант посмертного растворителя. После активации оставляет от вас лишь лужу крови.</td>
       </tr>
       <tr>
-        <td><img src="/role/space-ninja/empgranade.png" class="ability-icon"></td>
+        <td><img src="/roles/space-ninja/empgranade.png" class="ability-icon"></td>
         <td>Создается электромагнитный импульс, который разряжает все ЛКП поблизости и энергетическое оружие противников. Расходует заряд костюма при активации.</td>
       </tr>
       <tr>
-        <td><img src="/role/space-ninja/gloves_activate.png" class="ability-icon"></td>
+        <td><img src="/roles/space-ninja/gloves_activate.png" class="ability-icon"></td>
         <td>Активирует перчатки ниндзя. Это позволит вам пополнять заряд своего костюма при использовании ЛКП, взламывать шлюзы активировав их.</td>
       </tr>
       <tr>
-        <td><img src="/role/space-ninja/teleport.png" class="ability-icon"></td>
+        <td><img src="/roles/space-ninja/teleport.png" class="ability-icon"></td>
         <td>Может телепортировать вас в видимую часть экрана. Расходует заряд катаны и заряд костюма.</td>
       </tr>
       <tr>
-        <td><img src="/role/space-ninja/ninja-katana.png" class="ability-icon"></td>
+        <td><img src="/roles/space-ninja/ninja-katana.png" class="ability-icon"></td>
         <td>Позволяет взять в руки свою катану, где бы она не находилась. Расходует энергию костюма, в зависимости от расстояния владельца до катаны.</td>
       </tr>
       <tr>
-        <td><img src="/role/space-ninja/shuriken.png" class="ability-icon"></td>
+        <td><img src="/roles/space-ninja/shuriken.png" class="ability-icon"></td>
         <td>Позволяет создать в свободной руке владельца (если руки заняты, то создает под ним) сюрикен, который можно метнуть во врага.</td>
       </tr>
       <tr>
-        <td><img src="/role/space-ninja/ninja-suit.png" class="ability-icon"></td>
+        <td><img src="/roles/space-ninja/ninja-suit.png" class="ability-icon"></td>
         <td>Позволяет становиться невидимым. Расходует заряд костюма.</td>
       </tr>
     </tbody>
