@@ -2,7 +2,7 @@
 title: Вор
 description: 
 published: true
-date: 2024-09-25T18:25:33.388Z
+date: 2024-10-03T10:02:21.147Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:25:33.388Z
@@ -41,17 +41,17 @@ dateCreated: 2024-09-25T18:25:33.388Z
     </thead>
     <tbody>
       <tr id="canSteal">
-        <td><img src="/role/traitor/black_gloves.png"><br>Кража предмета</td>
+        <td><img src="/roles/traitor/black_gloves.png"><br>Кража предмета</td>
         <td>От лёгкой до сложной</td>
         <td>Цели кражи могут быть абсолютно разными - станбатоны, трусики, шлемы и так далее.</td>
       </tr>
       <tr id="canSteal">
-        <td><img src="/role/spiritualisticdepartment/pun_pun1.png"><br>Кража питомца</td>
+        <td><img src="/roles/spiritualisticdepartment/pun_pun1.png"><br>Кража питомца</td>
         <td>От лёгкой до сложной</td>
         <td>Нужно эвакуироватся вместе с одним из любимцев станции, задание не засчитывается, если животное мертво.</td>
       </tr>
       <tr id="canSteal">
-        <td><img src="/role/traitor/adrenalimp.png"><br>Сбежать</td>
+        <td><img src="/roles/traitor/adrenalimp.png"><br>Сбежать</td>
         <td>Средняя</td>
         <td>Вы должны улететь со станции на шаттле, будучи живым и не скованным в наручники.</td>
       </tr>
@@ -73,11 +73,11 @@ dateCreated: 2024-09-25T18:25:33.388Z
     </thead>
     <tbody>
       <tr id="canSteal">
-        <td><img src="/role/securityservicedepartment/implants/implanter.png"><br>Набор химика</td>
+        <td><img src="/roles/securityservicedepartment/implants/implanter.png"><br>Набор химика</td>
         <td><div><ul>
-          <li><img src="/role/securityservicedepartment/implants/implanter.png"><span>Имплант Хранилища</span></li>
-          <li><img src="/role/securityservicedepartment/implants/implanter.png"><span>Имплант миксер ДНК</span></li>
-          <li><img src="/role/thief/omega.png"><span>Омега мыло</span></li>
+          <li><img src="/roles/securityservicedepartment/implants/implanter.png"><span>Имплант Хранилища</span></li>
+          <li><img src="/roles/securityservicedepartment/implants/implanter.png"><span>Имплант миксер ДНК</span></li>
+          <li><img src="/roles/thief/omega.png"><span>Омега мыло</span></li>
           <li><img src="/guides/syringe.png"><span>Пустой шприц</span></li>
           <li><img src="/guides/uplink/bottle.png"><span>Бутылочка эфедрина</span></li>
           <li><img src="/guides/supply/listofproducts/emergency/vodka.png"><span>Бутылка водки</span></li>
