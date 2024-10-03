@@ -2,7 +2,7 @@
 title: Main Page Example
 description: для смертных
 published: false
-date: 2024-10-03T10:18:25.977Z
+date: 2024-10-03T10:26:03.330Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T09:18:25.938Z
@@ -90,16 +90,16 @@ dateCreated: 2024-10-03T09:18:25.938Z
                         </a>
                       </div>
  											<div class="community-element" style="">
-                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">SS14 RU Community
+                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link"><img src="/main_page_icons/community_elements_logos/vk-icon.png" class="element-image">SS14 RU 
                         </a>
                       </div>
                         <div class="new-string"></div>
                       <div class="community-element">
-                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">Forum
+                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link"><img src="/main_page_icons/community_elements_logos/forum-link3.gif" class="element-image">Forum
                         </a>
                       </div>
                       <div class="community-element">
-                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link">Hub
+                        <a class="fredoka-font" href="https://discord.gg/WR4MNKuDVA" class="community-link is-external-link"><img src="/main_page_icons/community_elements_logos/hub-link2.gif" class="element-image">Hub
                         </a>
                       </div>
                       </div>
