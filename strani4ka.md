@@ -2,7 +2,7 @@
 title: Main Page Example
 description: для смертных
 published: false
-date: 2024-10-03T11:17:31.954Z
+date: 2024-10-03T11:21:00.533Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T09:18:25.938Z
@@ -93,7 +93,7 @@ dateCreated: 2024-10-03T09:18:25.938Z
                         </a>
                         <a class="fredoka-font" href="https://github.com/WWhiteDreamProject/wwdpublic" class="community-link is-external-link">
  											<div class="community-element">
-                        <img src="/main_page_icons/community_elements_logos/githubico.png" class="element-image" style="background-color: #ffff">GitHub
+                        <img src="/main_page_icons/community_elements_logos/git.png" class="element-image" style="background-color: #ffff">GitHub
                       </div>
                         </a>
                         <div class="new-string"></div>
