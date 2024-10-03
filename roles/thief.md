@@ -2,7 +2,7 @@
 title: Вор
 description: 
 published: true
-date: 2024-10-03T10:18:52.355Z
+date: 2024-10-03T10:24:14.281Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:25:33.388Z
@@ -114,14 +114,14 @@ dateCreated: 2024-09-25T18:25:33.388Z
         <td><img src="/roles/thief/doorjack.png"><br>Высокотехнологичный набор</td>
         <td><div><ul>
           <li><img src="/roles/thief/doorjack.png"><span>Взломщик замков</span></li>
-          <li><img src="/guides/antagonists/uplink/door_remotebase_white.png"><span>Временной маяк</span></li>
+          <li><img src="/guides/uplink/door_remotebase_white.png"><span>Временной маяк</span></li>
           <li><img src="/guides/uplink/jammer.png"><span>Глушитель радио</span></li>
-          <li><img src="/guides/antagonists/uplink/chameleon_projector.png"><span>Хамелеон проектор</span></li>
+          <li><img src="/guides/uplink/chameleon_projector.png"><span>Хамелеон проектор</span></li>
           </ul></div></td>
       <tr id="canSteal">
         <td><img src="/roles/thief/hatsyndi.png"><br>Набор рабовладельца</td>
         <td><div><ul>
-          <li><img src="/roles/sec/implants/implanter.png"><span><a href="/guides/implants/mindslaves">Имплант подчинения</a> <i>(x3)</i></span></li>
+          <li><img src="/roles/sec/implanter.png"><span><a href="/guides/implants/mindslaves">Имплант подчинения</a> <i>(x3)</i></span></li>
           <li><img src="/roles/thief/hatsyndi.png"><span>Шляпа мастера по оружию</span></li>
           <li><img src="/roles/thief/coatsyndie.png"><span>Пальто синдиката</span></li>
           </ul></div></td>
@@ -151,8 +151,8 @@ dateCreated: 2024-09-25T18:25:33.388Z
         <td><div><ul>
           <li><img src="/roles/antagonists/fulton_beacon.png"><span>Маяк фултона</span></li>
           <li><img src="/roles/antagonists/extraction_pack.png"><span>Фултон <i>(x10)</i></span></li>
-          <li><img src="/guides/sec/items/tear-gas-grenade.png"><span>Слезоточивая граната <i>(x3)</i></span></li>
-          <li><img src="/role/antagonists/cloakvoid.png"><span>Плащ пустоты</span></li>
+          <li><img src="/roles/sec/tear-gas-grenade.png"><span>Слезоточивая граната <i>(x3)</i></span></li>
+          <li><img src="/roles/antagonists/cloakvoid.png"><span>Плащ пустоты</span></li>
           <li><img src="/guides/supply/listofproducts/engineering/crate.png"><span>Невидимый ящик</span></li>
           </ul></div></td>
       </tr>
