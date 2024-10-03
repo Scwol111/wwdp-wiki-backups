@@ -2,7 +2,7 @@
 title: Main Page Example
 description: для смертных
 published: false
-date: 2024-10-03T11:23:23.006Z
+date: 2024-10-03T11:24:22.443Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T09:18:25.938Z
@@ -132,13 +132,13 @@ dateCreated: 2024-10-03T09:18:25.938Z
                 <div class="servermenu">
                   <div>🏳️Wyrm</div>
                   <div>
-                    <a href="https://google.com" class="is-external-link">Сервера нету</a>
+                    <a href="" class="is-external-link">Сервера нету</a>
                   </div>
                 </div>
                 <div class="servermenu">
                   <div>💎Boosty</div>
                   <div>
-                    <a href="https://google.com" class="is-external-link">Бусти нету</a>
+                    <a href="" class="is-external-link">Бусти нету</a>
                   </div>
                 </div>
               </div>
