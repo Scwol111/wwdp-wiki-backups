@@ -2,7 +2,7 @@
 title: Революция
 description: 
 published: true
-date: 2024-10-01T16:19:36.863Z
+date: 2024-10-03T10:32:29.731Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:29:19.607Z
