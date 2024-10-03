@@ -2,7 +2,7 @@
 title: Main Page Example
 description: для смертных
 published: false
-date: 2024-10-03T11:15:49.151Z
+date: 2024-10-03T11:17:31.954Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-03T09:18:25.938Z
@@ -91,7 +91,7 @@ dateCreated: 2024-10-03T09:18:25.938Z
                         <img src="/main_page_icons/community_elements_logos/discord-2-xxl.png" class="element-image" style="left: 2px; top: 2px; height: 36px; width: 36px;">WWDP Discord
                       </div>
                         </a>
-                        <a class="fredoka-font" href="https://vk.com/ss13ru" class="community-link is-external-link">
+                        <a class="fredoka-font" href="https://github.com/WWhiteDreamProject/wwdpublic" class="community-link is-external-link">
  											<div class="community-element">
                         <img src="/main_page_icons/community_elements_logos/githubico.png" class="element-image" style="background-color: #ffff">GitHub
                       </div>
