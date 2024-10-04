@@ -2,7 +2,7 @@
 title: Cyborgs
 description: 
 published: true
-date: 2024-09-25T17:21:44.105Z
+date: 2024-10-04T14:37:51.353Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:21:44.105Z
@@ -30,7 +30,7 @@ dateCreated: 2024-09-25T17:21:44.105Z
 
 <h2>
   <div class="box">
-    <img src="/role/synthetics/posibrain.png" class="pngh2">Эксплуатация<img src="/role/synthetics/posibrain.png" class="pngh2">
+    <img src="/roles/synthetics/posibrain.png" class="pngh2">Эксплуатация<img src="/roles/synthetics/posibrain.png" class="pngh2">
   </div>
 </h2>
 
@@ -40,7 +40,7 @@ dateCreated: 2024-09-25T17:21:44.105Z
 
 <h2>
   <div class="box">
-    <img src="/role/synthetics/borggif1.gif" class="pngh2">Синтетики<img src="/role/synthetics/borggif1.gif" class="pngh2">
+    <img src="/roles/synthetics/borggif1.gif" class="pngh2">Синтетики<img src="/role/synthetics/borggif1.gif" class="pngh2">
   </div>
 </h2>
 
@@ -50,54 +50,54 @@ dateCreated: 2024-09-25T17:21:44.105Z
   <div>Стандартный борг</div>
 </button>
 <div class="content">
-  Обычный, самый обычный борг. <br><img src="/role/synthetics/robot.png">
+  Обычный, самый обычный борг. <br><img src="/roles/synthetics/robot.png">
 </div>
 
 <button type="button" class="collapsible">
   <div>Медицинский борг</div>
 </button>
 <div class="content">
-  Борг МедБлока, который может заменить парамедика в различных ситуациях. Имеет собственную версию гипоспрея и медицинский визор, благодаря чему видит здоровье существ. <br><img src="/role/synthetics/medical.png">
+  Борг МедБлока, который может заменить парамедика в различных ситуациях. Имеет собственную версию гипоспрея и медицинский визор, благодаря чему видит здоровье существ. <br><img src="/roles/synthetics/medical.png">
 </div>
 
 <button type="button" class="collapsible">
   <div>Инженерный борг</div>
 </button>
 <div class="content">
-  Борг ИнжБлока, который может выполнить почти всю работу обычного инженера, исключая постройки различного оборудования.<br><img src="/role/synthetics/engineer.png">
+  Борг ИнжБлока, который может выполнить почти всю работу обычного инженера, исключая постройки различного оборудования.<br><img src="/roles/synthetics/engineer.png">
 </div>
 
 <button type="button" class="collapsible">
   <div>Сервисный борг</div>
 </button>
 <div class="content">
-  Борг Сервиса, который может выполнять работу бармена, уборщика и повара одновременно. <br><img src="/role/synthetics/service.png">
+  Борг Сервиса, который может выполнять работу бармена, уборщика и повара одновременно. <br><img src="/roles/synthetics/service.png">
 </div>
 
 <button type="button" class="collapsible">
   <div>Борг-уборщик</div>
 </button>
 <div class="content">
-  Лучший друг уборщика, помогает ему во всем. <br><img src="/role/synthetics/janitor.png">
+  Лучший друг уборщика, помогает ему во всем. <br><img src="/roles/synthetics/janitor.png">
 </div>
 
 <button type="button" class="collapsible">
   <div>Борг отдела снабжения</div>
 </button>
 <div class="content">
-  Является боргом Карго, работает с утилизаторами на обломках и экспедициях. В основном используется для добычи руд. <br><img src="/role/synthetics/miner.png">
+  Является боргом Карго, работает с утилизаторами на обломках и экспедициях. В основном используется для добычи руд. <br><img src="/roles/synthetics/miner.png">
 </div>
 <button type="button" class="collapsible">
   <div>Борг синдиката</div>
 </button>
 <div class="content">
-  Борг, которого могут купить ядерные оперативники. Обладает солидным вооружением. <br><img src="/role/synthetics/synd_sec.png">
+  Борг, которого могут купить ядерные оперативники. Обладает солидным вооружением. <br><img src="/roles/synthetics/synd_sec.png">
 </div>
 
 
 <h2>
   <div class="box">
-    <img src="/role/lawyer_cyka/lawyer.png" class="pngh2">Законы<img src="/role/lawyer_cyka/lawyer.png" class="pngh2">
+    <img src="/roles/lawyer_cyka/lawyer.png" class="pngh2">Законы<img src="/roles/lawyer_cyka/lawyer.png" class="pngh2">
   </div>
 </h2>
 <blockquote class="is-warning">
@@ -138,18 +138,18 @@ dateCreated: 2024-09-25T17:21:44.105Z
 
 Добавлен незначительный закон, не влияющий на работоспособность станции и экипажа, утилизация Борга в данном случае не имеет смысла.
 Пример -
-<img src="/role/synthetics/zakons1.png">
+<img src="/roles/synthetics/zakons1.png">
 #### Масштабные
 
 Новый закон вредит состоянию станции и/или экипажа, или же стандартные законы были изменены. Утилизация юнита в таком случае весьма желательна.
 Пример - 
-<img src="/role/synthetics/mashtabzakoncyborgs.png">
+<img src="/roles/synthetics/mashtabzakoncyborgs.png">
 
 
 
 <h2>
   <div class="box">
-    <img src="/role/traitor/emag.png" class="pngh2">Взлом боргов<img src="/role/traitor/emag.png" class="pngh2">
+    <img src="/roles/traitor/emag.png" class="pngh2">Взлом боргов<img src="/role/traitor/emag.png" class="pngh2">
   </div>
 </h2>
   <p>Чтобы взломать борга, необходимо:</p>
