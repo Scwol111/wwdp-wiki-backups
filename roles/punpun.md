@@ -2,7 +2,7 @@
 title: Пун Пун
 description: 
 published: true
-date: 2024-09-25T17:24:58.350Z
+date: 2024-10-04T14:30:47.084Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:24:58.350Z
@@ -24,14 +24,14 @@ dateCreated: 2024-09-25T17:24:58.350Z
 </div>
 </div>
 
-<h2><img src="/role/other/ghost-icon.png" class="icon"><span class="up">Как стать Пун Пуном</span><img src="/role/other/ghost-icon.png"class="icon"></h2>
+<h2><img src="/roles/other/ghost-icon.png" class="icon"><span class="up">Как стать Пун Пуном</span><img src="/roles/other/ghost-icon.png"class="icon"></h2>
 
 
 
 
 Чтобы стать Пун Пуном, нужно умереть, ввести в консоль команду "suicide" или зайти за призрака в главном меню. Когда вы стали призраком, нажмите кнопку <a href="/roles/spiritualisticdepartment">Роли призраков</a> и выберите Пун Пуна. 
 
-<h2><img src="/role/other/beer.png" class="icon"><span class="up">Геймплей за Пун Пуна</span><img src="/role/other/pivo.png"class="icon"></h2>
+<h2><img src="/roles/other/beer.png" class="icon"><span class="up">Геймплей за Пун Пуна</span><img src="/roles/other/pivo.png"class="icon"></h2>
 
 Зачастую Пун Пун появляется за стойкой бармена, наливает напитки клиентам и помогает бармену с его работой, но никто не запрещает вам пойти служить в СБ или сражаться против Ядерных Оперативников...
 
@@ -44,7 +44,7 @@ dateCreated: 2024-09-25T17:24:58.350Z
 Пун Пун не может использовать человеческие фразы, поэтому все слова Пун Пуна превращаются в обезьяньи вопли.
 
 
-<h2><img src="/role/other/monkey-icon64px.png" class="icon"><span class="up2">Другие виды обезьян</span> <img src="/role/other/monkey-icon64px.png" class="icon"></h2>
+<h2><img src="/roles/other/monkey-icon64px.png" class="icon"><span class="up2">Другие виды обезьян</span> <img src="/roles/other/monkey-icon64px.png" class="icon"></h2>
 
 
 В игре помимо Пун Пуна есть ещё и две другие обезьяны.
