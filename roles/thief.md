@@ -2,7 +2,7 @@
 title: Вор
 description: 
 published: true
-date: 2024-10-04T14:48:21.292Z
+date: 2024-10-04T14:49:23.120Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:25:33.388Z
@@ -93,7 +93,7 @@ dateCreated: 2024-09-25T18:25:33.388Z
           </ul></div></td>
       </tr>
       <tr id="canSteal">
-        <td><img src="/roles/thief/smuggling/chameleon_jumpsuit.gif"><br>Набор хамелеона</td>
+        <td><img src="/roles/thief/chameleon_jumpsuit.gif"><br>Набор хамелеона</td>
         <td><div><ul>
           <li><img src="/guides/uplink/idregular.png"><span>ID карта агента</span></li>
           <li><img src="/roles/thief/backpack.png"><span>Рюкзак</span></li>
