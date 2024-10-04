@@ -2,7 +2,7 @@
 title: Технический ассистент
 description: 
 published: true
-date: 2024-10-04T14:26:08.608Z
+date: 2024-10-04T14:27:43.279Z
 tags: роли
 editor: markdown
 dateCreated: 2024-09-10T19:08:29.750Z
@@ -24,11 +24,11 @@ dateCreated: 2024-09-10T19:08:29.750Z
 </div>
 </div>
 
-## <center>![](https://wiki.ss14.su/images/thumb/f/fe/Wrench_and_crowbar.png/64px-Wrench_and_crowbar.png){.png1}<span class="up">Введение</span>![](https://wiki.ss14.su/images/thumb/f/fe/Wrench_and_crowbar.png/64px-Wrench_and_crowbar.png){.png1}</center>
+## <center><span class="up">Введение</span>
 
 **Технический ассистент** — это неспециализированный сотрудник [инженерного отдела](/roles/engineeringdepartment), который, предположительно, не получил высшего технического образования, но, тем не менее, ему было поручено помогать инженерному персоналу в их работе. Будучи в подчинении не только у <a href="/roles/chiefengineer">Старшего инженера</a>, но и у обычного <a href="/roles/engineer">инженера станции</a>, целью Ассистента является стажировка и впитывание всевозможных знаний инженерной отрасли, чтобы в будущем получить повышение.
 
-## <center>![](https://wiki.ss14.su/images/thumb/6/69/Sign_securearea.png/64px-Sign_securearea.png){.png1}<span class="up">Техника безопасности</span>![](https://wiki.ss14.su/images/thumb/6/69/Sign_securearea.png/64px-Sign_securearea.png){.png1}</center>
+## <center><span class="up">Техника безопасности
 
 Базис для любого [инженера](/roles/engineer), в частности Ассистента. Поскольку [инженерный отдел](/roles/engineeringdepartment) богат на изобилие видов ~~смерти~~ тяжелых травм как для себя, так и для своих коллег, любой сотрудник [инженерного отдела](/roles/engineeringdepartment) должен знать технику безопасности, дабы не допустить непредвиденных, чрезвычайных ситуаций.
 
@@ -82,7 +82,7 @@ dateCreated: 2024-09-10T19:08:29.750Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/roles/technicalassistant_pics/radsuit.png" width="80%" class="image"><img src="/ru/role/technicalassistant_pics/капюшон_радиозащитного_костюма.png" width="80%" ></figure>
+          <figure class="image"><img src="/roles/technicalassistant_pics/radsuit.png" width="80%" class="image"><img src="/roles/technicalassistant_pics/капюшон_радиозащитного_костюма.png" width="80%" ></figure>
         </th>
         <th><strong>Противорадиационный костюм</strong></th>
         <th>Костюм, защищающий владельца от радиации. Необходим к ношению возле генератора сингулярности. Не пригоден для выхода в открытый космос!</th>
@@ -112,7 +112,7 @@ dateCreated: 2024-09-10T19:08:29.750Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/ru/role/technicalassistant_pics/gas_mask.png" width="60%" class="image"><img src="/ru/role/technicalassistant_pics//64px-breath_mask.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/technicalassistant_pics/gas_mask.png" width="60%" class="image"><img src="/roles/technicalassistant_pics//64px-breath_mask.png" width="60%"></figure>
         </th>
         <th><strong>Противогаз</strong>
          <p>
