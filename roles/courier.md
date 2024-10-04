@@ -2,7 +2,7 @@
 title: Курьер
 description: 
 published: true
-date: 2024-10-04T15:20:36.047Z
+date: 2024-10-04T15:20:51.876Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:36:37.178Z
@@ -30,7 +30,7 @@ dateCreated: 2024-09-25T17:36:37.178Z
 
 Вы как грузчик, но курьер.
 
-# <img class="h1z" src="/roles/cargo/courier/.gif">Посылку в тудан, посылку в судан<img class="h1z" src="/roles/cargo/courier/delm1.gif">
+# <img class="h1z" src="/roles/cargo/courier/mail.gif">Посылку в тудан, посылку в судан<img class="h1z" src="/roles/cargo/courier/mail.gif">
 
 Ваша первая задача в качестве курьера - найти почтовый ящик в почтовом отделении. Почтовое отделение обычно находится рядом с отделом логистики или внутри него. Каждая посылка может быть разной, или куча одинаковых, всё зависит от хотелок экипажа станции. 
 
