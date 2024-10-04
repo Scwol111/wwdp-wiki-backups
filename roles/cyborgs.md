@@ -2,7 +2,7 @@
 title: Cyborgs
 description: 
 published: true
-date: 2024-10-04T14:37:51.353Z
+date: 2024-10-04T14:41:34.375Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:21:44.105Z
@@ -40,7 +40,7 @@ dateCreated: 2024-09-25T17:21:44.105Z
 
 <h2>
   <div class="box">
-    <img src="/roles/synthetics/borggif1.gif" class="pngh2">Синтетики<img src="/role/synthetics/borggif1.gif" class="pngh2">
+    <img src="/roles/synthetics/borggif1.gif" class="pngh2">Синтетики<img src="/roles/synthetics/borggif1.gif" class="pngh2">
   </div>
 </h2>
 
@@ -97,7 +97,7 @@ dateCreated: 2024-09-25T17:21:44.105Z
 
 <h2>
   <div class="box">
-    <img src="/roles/lawyer_cyka/lawyer.png" class="pngh2">Законы<img src="/roles/lawyer_cyka/lawyer.png" class="pngh2">
+    <img src="/roles/synthetics/lawyer.png" class="pngh2">Законы<img src="/roles/synthetics/lawyer.png" class="pngh2">
   </div>
 </h2>
 <blockquote class="is-warning">
@@ -120,11 +120,11 @@ dateCreated: 2024-09-25T17:21:44.105Z
 <p>Приоритет законов влияет на многое, примером может служить картинка ниже:
 </blockquote>
 
-<img src="/изображение_2024-09-16_162205412.png" style="margin-left: auto; margin-right: auto; display: block">
+<img src="/roles/synthetics/изображение_2024-09-16_162205412.png" style="margin-left: auto; margin-right: auto; display: block">
 
 <h2>
   <div class="box">
-    <img src="/psychology.png" class="pngh2">ER#0R<img src="/psychology.png" class="pngh2">
+    <img src="/roles/synthetics/psychology.png" class="pngh2">ER#0R<img src="/roles/synthetics/psychology.png" class="pngh2">
   </div>
 </h2>
 
@@ -149,7 +149,7 @@ dateCreated: 2024-09-25T17:21:44.105Z
 
 <h2>
   <div class="box">
-    <img src="/roles/traitor/emag.png" class="pngh2">Взлом боргов<img src="/role/traitor/emag.png" class="pngh2">
+    <img src="/roles/traitor/emag.png" class="pngh2">Взлом боргов<img src="/roles/traitor/emag.png" class="pngh2">
   </div>
 </h2>
   <p>Чтобы взломать борга, необходимо:</p>
@@ -165,7 +165,7 @@ dateCreated: 2024-09-25T17:21:44.105Z
 
 <h2>
   <div class="box">
-    <img src="/generic.png" class="pngh2">Модули<img src="/generic.png" class="pngh2">
+    <img src="/roles/synthetics/generic.png" class="pngh2">Модули<img src="/roles/synthetics/generic.png" class="pngh2">
   </div>
 </h2>
 
@@ -185,37 +185,37 @@ dateCreated: 2024-09-25T17:21:44.105Z
         <th> Инструментарий </th>
       </tr>
       <tr>
-        <td> <img src="/generic.png"> </td>
+        <td> <img src="/roles/synthetics/generic.png"> </td>
         <td> tool </td>
         <td> Лом; Гаечный ключ; Отвёртка; Кусачки; Мультитул; Сварочный аппарат. </td>
       </tr>
       <tr>
-        <td> <img src="/generic.png"> </td>
+        <td> <img src="/roles/synthetics/generic.png"> </td>
         <td> radiation detection </td>
         <td> Счётчик Гейгера. </td>
       </tr>
       <tr>
-        <td> <img src="/generic.png"> </td>
+        <td> <img src="/roles/synthetics/generic.png"> </td>
         <td> GPS </td>
         <td> ГСП; Портативная карта. </td>
       </tr>
       <tr>
-        <td> <img src="/generic.png"> </td>
+        <td> <img src="/roles/synthetics/generic.png"> </td>
         <td> fire extinguisher </td>
         <td> Огнетушитель. </td>
       </tr>
       <tr>
-        <td> <img src="/engineering.png"> </td>
+        <td> <img src="/roles/synthetics/engineering.png"> </td>
         <td> cable </td>
         <td> Слот для НВ провода; Слот для СВ провода; Слот для ВВ провода; Кусачки; Т-лучевой сканер. </td>
       </tr>
       <tr>
-        <td> <img src="/science.png"> </td>
+        <td> <img src="/roles/synthetics/science.png"> </td>
         <td> artifact </td>
         <td> Сканер узлов. </td>
       </tr>
       <tr>
-        <td> <img src="/science.png"> </td>
+        <td> <img src="/roles/synthetics/science.png"> </td>
         <td> anomaly </td>
         <td> Сканер аномалий; Локатор аномалий; Передатчик сигналов; Мультитул. </td>
       </tr>
@@ -236,22 +236,22 @@ dateCreated: 2024-09-25T17:21:44.105Z
         <th> Инструментарий </th>
       </tr>
       <tr>
-        <td> <img src="/engineering.png"> </td>
+        <td> <img src="/roles/synthetics/engineering.png"> </td>
         <td> advanced tool </td>
         <td> Омнитул; Экспериментальная сварка; Сетевой конфигуратор; Передатчик сигналов; Газоанализатор; Счётчик Гейгера. </td>
       </tr>
       <tr>
-        <td> <img src="/engineering.png"> </td>
+        <td> <img src="/roles/synthetics/engineering.png"> </td>
         <td> construction </td>
         <td> Слот для стали; Слот для стекла; Слот для стержней; Слот для плитки. </td>
       </tr>
       <tr>
-        <td> <img src="/engineering.png"> </td>
+        <td> <img src="/roles/synthetics/engineering.png"> </td>
         <td> RCD </td>
         <td> РЦД. </td>
       </tr>
       <tr>
-        <td> <img src="/generic.png"> </td>
+        <td> <img src="/roles/synthetics/generic.png"> </td>
         <td> fire extinguisher </td>
         <td> Огнетушитель. </td>
       </tr>
@@ -271,17 +271,17 @@ dateCreated: 2024-09-25T17:21:44.105Z
         <th> Инструментарий </th>
       </tr>
       <tr>
-        <td> <img src="/janitor.png"> </td>
+        <td> <img src="/roles/synthetics/janitor.png"> </td>
         <td> cleaning </td>
         <td> Швабра; Ведро; Мешок для мусора. </td>
       </tr>
       <tr>
-        <td> <img src="/janitor.png"> </td>
+        <td> <img src="/roles/synthetics/janitor.png"> </td>
         <td> advanced cleaning </td>
         <td> Продвинутая швабра; Проектор голографических сигналов; Космический очиститель; Пипетка. </td>
       </tr>
       <tr>
-        <td> <img src="/janitor.png"></td>
+        <td> <img src="/roles/synthetics/janitor.png"></td>
         <td> light replacer </td>
         <td> Лампозаменитель; Лом; Отвёртка. </td>
       </tr>
@@ -301,17 +301,17 @@ dateCreated: 2024-09-25T17:21:44.105Z
         <th> Инструментарий </th>
       </tr>
       <tr>
-        <td> <img src="/cargo.png"> </td>
+        <td> <img src="/roles/synthetics/cargo.png"> </td>
         <td> appraisal </td>
         <td> Оценочный инструмент. </td>
       </tr>
       <tr>
-        <td> <img src="/cargo.png"> </td>
+        <td> <img src="/roles/synthetics/cargo.png"> </td>
         <td> mining </td>
         <td> Шахтёрский бур; Лопата; Сумка для руды; Лом; Портативная рация. </td>
       </tr>
       <tr>
-        <td> <img src="/cargo.png"> </td>
+        <td> <img src="/roles/synthetics/cargo.png"> </td>
         <td> grappling </td>
         <td> Крюк-кошка; Кинжал-дробилка; ГСП. </td>
       </tr>
@@ -331,27 +331,27 @@ dateCreated: 2024-09-25T17:21:44.105Z
         <th> Инструментарий </th>
       </tr>
       <tr>
-        <td> <img src="/service.png"> </td>
+        <td> <img src="/roles/synthetics/service.png"> </td>
         <td> gardening </td>
         <td> Маленькая тяпка; Лопатка; Кусачки для растений; Ведро. </td>
       </tr>
       <tr>
-        <td> <img src="/service.png"> </td>
+        <td> <img src="/roles/synthetics/service.png"> </td>
         <td> harvesting </td>
         <td> Коса; Топорик; Сумка для растений. </td>
       </tr>
       <tr>
-        <td> <img src="/service.png"> </td>
+        <td> <img src="/roles/synthetics/service.png"> </td>
         <td> musique </td>
         <td> Синтезатор; Электрогитара; Саксофон. </td>
       </tr>
       <tr>
-        <td> <img src="/service.png"> </td>
+        <td> <img src="/roles/synthetics/service.png"> </td>
         <td> clowning </td>
         <td> Велосипедный клаксон; Диктофон клоуна; Позолоченный велосипедный клаксон. </td>
       </tr>
       <tr>
-        <td> <img src="/service.png"> </td>
+        <td> <img src="/roles/synthetics/service.png"> </td>
         <td> service </td>
         <td> Ручка; Сумка для книг; Этикировщик; Зажигалка; Шейкер; Пипетка.          </tr> 
     </table>
@@ -370,17 +370,17 @@ dateCreated: 2024-09-25T17:21:44.105Z
         <th> Инструментарий </th>
       </tr>
       <tr>
-        <td> <img src="/medical.png"> </td>
+        <td> <img src="/roles/synthetics/medical.png"> </td>
         <td> treatment </td>
         <td> Слот для наборов от ушиба; Слот для мази; Слот для пакета с кровью; Слот для бинта: Шприц; Пипетка. </td>
       </tr>
       <tr>
-        <td> <img src="/medical.png"> </td>
+        <td> <img src="/roles/synthetics/medical.png"> </td>
         <td> advanced treatment </td>
         <td> Анализатор здоровья; Мензурка; Мензурка; Пипетка; Гипоспрей борга. </td>
       </tr>
       <tr>
-        <td> <img src="/medical.png"> </td>
+        <td> <img src="/roles/synthetics/medical.png"> </td>
         <td> defibrillator </td>
         <td> Дефибриллятор. </td>
       </tr>
@@ -400,17 +400,17 @@ dateCreated: 2024-09-25T17:21:44.105Z
         <th> Инструментарий </th>
       </tr>
       <tr>
-        <td> <img src="/syndicate.png"> </td>
+        <td> <img src="/roles/synthetics/syndicate.png"> </td>
         <td> operative </td>
         <td> Лом; ЕМАГ; Пинпойнтер. </td>
       </tr>
       <tr>
-        <td> <img src="/syndicate.png"> </td>
+        <td> <img src="/roles/synthetics/syndicate.png"> </td>
         <td> L6C ROW </td>
         <td> L6C ROW с синтезом патронов; Пинпойнтер. </td>
       </tr>
       <tr>
-        <td> <img src="/syndicate.png"> </td>
+        <td> <img src="/roles/synthetics/syndicate.png"> </td>
         <td> energy sword  </td>
         <td> ЕСворд; Пинпойнтер. </td>
       </tr>
@@ -430,12 +430,12 @@ dateCreated: 2024-09-25T17:21:44.105Z
         <th> Инструментарий </th>
       </tr>
       <tr>
-        <td> <img src="/syndicate.png"> </td>
+        <td> <img src="/roles/synthetics/syndicate.png"> </td>
         <td> weapon cyborg module (5 TK) </td>
         <td> Продвинутый лазерный пистолет; Мачете. </td>
       </tr>
       <tr>
-        <td> <img src="/syndicate.png"> </td>
+        <td> <img src="/roles/synthetics/syndicate.png"> </td>
         <td> Модуль самоуничтожения (4 TK) </td>
         <td> Задержка перед взрывом 5 секунд, а так же громкий звук. </td>
       </tr>
@@ -447,7 +447,7 @@ dateCreated: 2024-09-25T17:21:44.105Z
 
 <h2>
   <div class="box">
-    <img src="/soveti1.png" class="pngh2">Советы<img src="/soveti1.png" class="pngh2">
+    <img src="/roles/synthetics/soveti1.png" class="pngh2">Советы<img src="/roles/synthetics/soveti1.png" class="pngh2">
   </div>
 </h2>
 
