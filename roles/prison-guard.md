@@ -1,8 +1,8 @@
 ---
-title: Надзиратель
+title: Тюремный надзиратель
 description: 
 published: true
-date: 2024-10-04T20:14:09.614Z
+date: 2024-10-04T20:15:54.111Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T18:41:04.510Z
@@ -14,7 +14,7 @@ dateCreated: 2024-10-04T18:41:04.510Z
   <div>
     <div><div><img src="/roles/prison-guard.png"></div></div>
   <div><div>
-    <h1>Надзиратель</h1>
+    <h1>Тюремный надзиратель</h1>
     <p><strong>Сложность:</strong> Средняя</p>
     <strong>Обязанности:</strong> Нянчиться с заключенными. Защищать коридоры Брига.<br>
     <b>Руководители</b>: <a href="/roles/headofsecurity">Глава Службы Безопасности</a><br>
