@@ -2,7 +2,7 @@
 title: Терминатор
 description: 
 published: true
-date: 2024-09-28T21:34:44.202Z
+date: 2024-10-04T14:10:15.905Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:37:34.296Z
@@ -44,7 +44,7 @@ dateCreated: 2024-09-25T18:37:34.296Z
       </tr>
       <tr>
         <td style="text-align: center;">
-          <figure class="image"><img style="width: 128px" src="/role/antagonists/terminator_degize.png"></figure>
+          <figure class="image"><img style="width: 128px" src="/roles/antagonists/terminator_degize.png"></figure>
           <p>Маскировка</p>
         </td>
         <td style="text-align: center;">Изначальное состояние терминатора при появлении.</td>
@@ -60,7 +60,7 @@ dateCreated: 2024-09-25T18:37:34.296Z
       </tr>
       <tr>
         <td style="text-align: center;">
-          <figure class="image"><img style="width: 128px" src="/role/antagonists/terminator.png"></figure>
+          <figure class="image"><img style="width: 128px" src="/roles/antagonists/terminator.png"></figure>
           <p>Эндоскелет</p>
         </td>
         <td style="text-align: center;">После спадения маскировки, обнажается истинная форма.</td>
