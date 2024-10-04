@@ -2,7 +2,7 @@
 title: Утилизатор
 description: 
 published: true
-date: 2024-10-04T15:16:46.891Z
+date: 2024-10-04T15:17:18.243Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:40:07.306Z
@@ -181,7 +181,7 @@ dateCreated: 2024-09-25T17:40:07.306Z
 </figure>
 </div>
 
-## <center>![](/roles/some_service_shet/Light_Bulb.png){.png1}<span class="up">Советы и приемы</span>![](/roles/some_service_shet/light_bulb.png){.png1}<center>
+## <center>![](/roles/some_service_shet/light_bulb.png){.png1}<span class="up">Советы и приемы</span>![](/roles/some_service_shet/light_bulb.png){.png1}<center>
 
 - Вы можете найти запасной аварийный кислородный баллон внутри своего набора для выживания. Вы также можете носить его в кармане, оставляя руки свободными.
 Слаймолюду, выбранному в качестве расы, требуется азот, чтобы дышать в космосе.
