@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2024-09-25T18:36:25.247Z
+date: 2024-10-04T14:09:02.482Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -59,22 +59,22 @@ dateCreated: 2024-09-25T18:36:25.247Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/role/antagonists/changeling/reviving_stasis.png"><br>Возрождающий Стазис</td>
+        <td><img src="/roles/antagonists/changeling/reviving_stasis.png"><br>Возрождающий Стазис</td>
         <td>Генокрад может подделать свою смерть и войти в стазис. Нажатие по этой иконке, когда вы живы, убивает вас и вы впадаете в регенеративный стазис на 60 секунд по окончанию которого вы встаете абсолютно здоровым, если вы используете эту способность когда вы мертвы, происходит то же самое. Однако вы не сможете возродиться, если целостность вашего тела была повреждена.</td>
         <td>15 химикатов <br> <br>  0 Очков эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/transform.png"><br>Трансформация</td>
+        <td><img src="/roles/antagonists/changeling/transform.png"><br>Трансформация</td>
         <td>Генокрад может трансформироваться в любой из образцов ДНК, который у него хранится, позволяя ему стать кем угодно. Трансформация также проимитирует одежду и ID карту цели, если у вас нет ничего в этих слотах. Эти поддельные предметы не будут обладать функционалом оригинала и могут быть удалены нажатием по ним или используя функцию <b>Сбросить Маскировку Кожи</b> в меню трансформации.</td>
         <td>5 химикатов <br> <br> 0 Очков эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/ling_absorb.png"><br>Поглощение ДНК</td>
+        <td><img src="/roles/antagonists/changeling/ling_absorb.png"><br>Поглощение ДНК</td>
         <td>Генокрад может поглотить цель для получения ДНК. Человека после этого нельзя будет клонировать. Помогает генокраду достичь своей цели на поглощение образцов ДНК. В случае поглощения  другого генокрада даст вам 5 дополнительных очков эволюции.</td>
         <td>0 химикатов <br> <br> 0 Очков эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/shop.png"><br>Эволюции</td>
+        <td><img src="/roles/antagonists/changeling/shop.png"><br>Эволюции</td>
         <td>Открывает ваш уникальный магазин, где вы можете покупать себе эволюции, изначально вам доступно 10 очков эволюции.</td>
         <td>0 химикатов <br> <br> 0 Очков эволюции</td>
       </tr>
@@ -97,32 +97,32 @@ dateCreated: 2024-09-25T18:36:25.247Z
     </thead>
     <tbody>
       <tr>
-         <td><img src="/role/antagonists/changeling/sting_extract.png"><br>Извлечение ДНК</td>
+         <td><img src="/roles/antagonists/changeling/sting_extract.png"><br>Извлечение ДНК</td>
         <td>Бесшумно и безопасно извлекает ДНК из цели.</td>
         <td>25 химикатов <br> <br> 0 Очков эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/sting_hallucination.png"><br>Жало Галлюцинации</td>
+        <td><img src="/roles/antagonists/changeling/sting_hallucination.png"><br>Жало Галлюцинации</td>
         <td>Генокрад вкалывает большую дозу галлюциногенных препаратов в жертву. Эффект длится 30 секунд.</td>
         <td>5 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/sting_blind.png"><br>Жало Слепоты</td>
+        <td><img src="/roles/antagonists/changeling/sting_blind.png"><br>Жало Слепоты</td>
         <td>Генокрад скрытно жалит цель, полностью ослепляя ее на 25 секунд.</td>
         <td>25 химикатов <br> <br> 1 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/sting_mute.png"><br>Жало Безмолвия</td>
+        <td><img src="/roles/antagonists/changeling/sting_mute.png"><br>Жало Безмолвия</td>
         <td>Генокрад скрытно жалит цель, делая ее полностью немой на 30 секунд. Не выдает жертве предупреждения о том, что она была ужалена до тех пор, пока она не попытается заговорить и поймет, что не способна этого сделать.</td>
         <td>20 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/sting_transform.png"><br>Жало Трансформации</td>
+        <td><img src="/roles/antagonists/changeling/sting_transform.png"><br>Жало Трансформации</td>
         <td>Генокрад инжектирует ретровирус, который трансформирует жертву в другого человека на 15 минут. При извлечении жала генокрад может выбрать, какое ДНК из своего хранилища использовать.</td>
         <td>50 химикатов <br> <br> 3 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/sting_cryo.png"><br>Жало заморозки</td>
+        <td><img src="/roles/antagonists/changeling/sting_cryo.png"><br>Жало заморозки</td>
         <td>Генокрад вкалывает жертве смесь химикатов, которая начинает превращать ее кровь в лед. Жертва будет ходить медленнее и получать урон пока не согреется. Способность охлаждает человека на 200°C. </td>
         <td>15 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
@@ -147,7 +147,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/role/antagonists/changeling/changeling_armor.png"><br>Хитиновая Броня</td>
+        <td><img src="/roles/antagonists/changeling/changeling_armor.png"><br>Хитиновая Броня</td>
         <td>Генокрад покрывает себя хитиновой броней замедляющей его на <span style="color: yellow;">10%</span>. Её поддержание замедляет регенерацию химикатов на 25%.    
     <div class="table-item">
       Защита хитиновой брони:
@@ -167,12 +167,12 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>20 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/ling_organic_suit_hud.png"><br>Пустотная адаптация</td>
+        <td><img src="/roles/antagonists/changeling/ling_organic_suit_hud.png"><br>Пустотная адаптация</td>
         <td>Наделяет пассивной способностью, позволяющей сопротивляться холоду, низкому давлению и потребности в кислороде. При использовании замедляет генерацию химикатов на 25%.</td>
         <td>0 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/changeling_shield.png"><br>Органический Щит</td>
+        <td><img src="/roles/antagonists/changeling/changeling_shield.png"><br>Органический Щит</td>
         <td>Превращает одну из рук генокрада в большой щит из плоти. Он блокирует <span class="percent">50%</span> входящего урона и: 
     <p><span>- Отнимает <b class="percent">80%</b> <b style="color: yellow;">Тупой</b> урона</span></p>
     <p><span>- Отнимает <b class="percent">80%</b> <b style="color: yellow;">Проникающий</b> урона</span></p>   
@@ -180,7 +180,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>20 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/arm_blade.png"><br>Рука-клинок</td>
+        <td><img src="/roles/antagonists/changeling/arm_blade.png"><br>Рука-клинок</td>
         <td>Превращает одну из рук генокрада в клинок, сделанный из костей и плоти. Считается оружием ближнего боя. Наносит следующие повреждения(ближний бой): 
     <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">рубящего</b> урона</span></p>
     <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">проникающего</b> урона</span></p>
@@ -189,17 +189,17 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>20 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/tentacle_arm.png"><br>Рука-щупальце</td>
+        <td><img src="/roles/antagonists/changeling/tentacle_arm.png"><br>Рука-щупальце</td>
         <td>Превращает одну из рук генокрада в щупальце. Это щупальце может быть выстрелено в сторону цели, обладая двумя эффектами - падение/притягивание.  Щупальце имеет задержку перед следующим выстрелом после использования. Считается дальнобойным оружием. Для надежного притягивания щупальцем к вам ваша цель должна стоять неподвижно.</td>
         <td>10 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/lesser_form.png"><br>Примитивная форма</td>
+        <td><img src="/roles/antagonists/changeling/lesser_form.png"><br>Примитивная форма</td>
         <td>Генокрад мгновенно превращается в обезьяну роняя все снаряжение на пол, в том числе и надетые на него наручники. В форме обезьяны можно использовать жала и входить в стазис. Затем генокрад может вернуться в человеческую форму, используя "Превращения". В форме обезьяны у вас заметно снижается запас здоровья.</td>
         <td>5 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/hive_head.png"><br>Голова улья</td>
+        <td><img src="/roles/antagonists/changeling/hive_head.png"><br>Голова улья</td>
         <td>Надевает на вас Голову Улья. Когда голова даёт вам возможность призвать 4 агрессивных пчёл, которые игнорируют других генокрадов и пропадут через 25 секунд после призыва. Урона пчелы за укус: <b style="color: green;">1</b> ядов и <b style="color: red;">0.5</b> уколов. Также даёт следующую защиту:
     <p><span> - <b style="color: yellow;">Тупой</b> урон снижается на <b class="percent">10%</b></span></p>
     <p><span> - <b style="color: yellow;">Рубящий</b> урон снижается на <b class="percent">10%</b></span></p>
@@ -228,27 +228,27 @@ dateCreated: 2024-09-25T18:36:25.247Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/role/antagonists/changeling/fleshmend.png"><br>Восстановление тканей</td>
+        <td><img src="/roles/antagonists/changeling/fleshmend.png"><br>Восстановление тканей</td>
         <td>Генокрад впрыскивает в себя 10 единиц <a href="https://js.ss14.su/ru/guides/chemistry#id=Ichor">Ихора</a>, что в сумме лечит 100 удушья, 50 механического, 50 ожогового и 20 токсинов, также восстанавливает уровень крови в теле. Повторное использование во время действия эффекта перезапустит таймер регенерации, однако вы будете лечиться с той же скоростью.</td>
         <td>20 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/adrenaline_sacs.png"><br>Мешки с адреналином</td>
+        <td><img src="/roles/antagonists/changeling/adrenaline_sacs.png"><br>Мешки с адреналином</td>
         <td>Впрыскивает в себя 5 единиц стимулятора, что немного подлечит и ускорит Генокрада на небольшой срок. Дает защиту от оглушения.</td>
         <td>30 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/ling_biodegrade_hud.png"><br>Биоразложение</td>
+        <td><img src="/roles/antagonists/changeling/ling_biodegrade_hud.png"><br>Биоразложение</td>
         <td>Растворяет наручники и другие объекты, ограничивающие движение.</td>
         <td>30 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/ling_krik.png"><br>Диссонирующий Вопль</td>
+        <td><img src="/roles/antagonists/changeling/ling_krik.png"><br>Диссонирующий Вопль</td>
         <td>Генокрад испускает ЭМИ, который нарушает работу всего электронного оборудования вокруг. Радиус способности 5 тайлов.</td>
         <td>20 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/ling_augmented_eyesight_hud.png"><br>Аугментация Зрения</td>
+        <td><img src="/roles/antagonists/changeling/ling_augmented_eyesight_hud.png"><br>Аугментация Зрения</td>
         <td>Генокрад развивает дополнительные функции своих глаз, получая переключаемое ночное и термальное зрение. Генокрад уязвим к вспышкам и слепоте от сварки, пока способность активна. Когда способность неактивна, защищает вас от вспышек и сварки.</td>
         <td>0 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
@@ -271,37 +271,37 @@ dateCreated: 2024-09-25T18:36:25.247Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/role/traitor/black_gloves.png"><br>Кража особо ценного предмета</td>
+        <td><img src="/roles/traitor/black_gloves.png"><br>Кража особо ценного предмета</td>
         <td>От средней до сложной</td>
         <td>Нужно украсть один из <a href="/guides/especiallyvaluableitems">особо ценных предметов</a>.</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/reviving_stasis.png"><br>Убийство</td>
+        <td><img src="/roles/antagonists/changeling/reviving_stasis.png"><br>Убийство</td>
         <td>От средней до сложной</td>
         <td>Нужно будет убить одного из членов экипажа и добиться того, чтобы до конца раунда он был мёртв.</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/ling_absorb.png"><br>Поглотить ДНК</td>
+        <td><img src="/roles/antagonists/changeling/ling_absorb.png"><br>Поглотить ДНК</td>
         <td>Средняя</td>
         <td>Нужно, используя способность "Поглощение ДНК", поглотить N-ное количество людей.</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/dohuadnk.png"><br>Поглотить как можно больше ДНК</td>
+        <td><img src="/roles/antagonists/changeling/dohuadnk.png"><br>Поглотить как можно больше ДНК</td>
         <td>От средней до сложной</td>
         <td>Нужно, используя способность "Поглощение ДНК", поглотить больше людей, чем остальные члены роя.</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/tentacle_arm.png"><br>Поглотить другого генокрада</td>
+        <td><img src="/roles/antagonists/changeling/tentacle_arm.png"><br>Поглотить другого генокрада</td>
         <td>Сложная</td>
         <td>Найти и поглотить другого генокрада.</td>
       </tr>
       <tr>
-        <td><img src="/role/traitor/adrenalimp.png"><br>Сбежать</td>
+        <td><img src="/roles/traitor/adrenalimp.png"><br>Сбежать</td>
         <td>Средняя</td>
         <td>Вы должны улететь со станции на шаттле, будучи живым и не скованным в наручники.</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/changeling/transform.png"><br>Сбежать с чужой личностью</td>
+        <td><img src="/roles/antagonists/changeling/transform.png"><br>Сбежать с чужой личностью</td>
         <td>Средняя</td>
         <td>Необходимо улететь со станции на шаттле, используя личность своей цели.</td>
       </tr>
