@@ -2,7 +2,7 @@
 title: Детектив
 description: 
 published: true
-date: 2024-09-25T17:58:44.292Z
+date: 2024-10-04T15:12:57.026Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:58:44.292Z
@@ -39,19 +39,19 @@ dateCreated: 2024-09-25T17:58:44.292Z
 
 <table>
   <tr>
-    <td><img src="/role/security/scaner.png" width="64" height="64"></td>
+    <td><img src="/roles/sec/scaner.png" width="64" height="64"></td>
     <td style="text-align: center;">Ваш сканер отпечатков пальцев.</td>
   </tr>
 </table>
 Для снятия отпечатков с вещи наведитесь на предмет и нажмите на него <kbd>ЛКМ</kbd>, после чего вы получите "криминалистические заключения".
 
-![заключения.png](/role/security/conclusionofcriminology.png)
+![заключения.png](/roles/sec/conclusionofcriminology.png)
 
 "А вот они и отпечатки!" - подумаете вы. Да, это они, но вам требуется ещё найти их обладателя. Вы должны обратиться к [Главе Персонала](/roles/headofpersonnel) за получением списка экипажа и их отпечатков, но сейчас такой возможности нет, поэтому вам придётся искать нужные отпечатки вручную. Также, чтобы снять отпечатки вам понадобиться она!
 
 <table>
 <tr>
-<td><img src="/role/security/criminalisticrecord.png" width="64" height="64"></td>
+<td><img src="/roles/sec/criminalisticrecord.png" width="64" height="64"></td>
 <td style="text-align: center;">Криминалистическая пластинка, на которой остаются отпечатки человека.</td>
 </tr>
 </table>
@@ -68,20 +68,20 @@ dateCreated: 2024-09-25T17:58:44.292Z
 <div style="overflow-x: auto" class="fiber">
 <table id="fiber">
 <tbody><tr>
-<th><img src="/role/security/detective/forensicgloves.png"><center>Криминалистические перчатки</center></th>
-<th><img src="/role/security/detective/captaingloves.png"><center>Капитанские перчатки</center></th>
-<th><img src="/role/security/detective/powergloves.png"><center>Силовые перчатки</center></th>
-<th><img src="/role/security/detective/spaceninjagloves.png"><center>Перчатки космического ниндзя</center></th>
-<th><img src="/role/security/detective/blackgloves.png"><center>Чёрные перчатки (воровские)</center></th>
-<th><img src="/role/security/detective/yellowboxinggloves.png"><center>Жёлтые боксёрские перчатки (любые)</center></th>
-<th><img src="/role/security/detective/nerdleathergloves.png"> <center>Кожаные перчатки ботаника</center></th>
-<th><img src="/role/security/detective/blackgloves.png"><center>Боевые перчатки</center></th>
-<th><img src="/role/security/detective/roboticgloves.png"><center>Роборукие перчатки</center></th>
-<th><img src="/role/security/detective/insulatedgloves.png"> <center>Дешёвые/Изолированные перчатки</center></th>
-<th><img src="/role/security/detective/greengloves.png"><center>Зелёные перчатки (любой цвет)</center></th>
-<th><img src="/role/security/detective/latexgloves.png"><center>Латексные перчатки</center></th>
-<th><img src="/role/security/detective/nitrilegloves.png"><center>Нитриловые перчатки</center></th>
-<th><img src="/role/security/detective/fingerlessgloves.png"><center>Беспалые перчатки (любые)</center>
+<th><img src="/roles/sec/detective/forensicgloves.png"><center>Криминалистические перчатки</center></th>
+<th><img src="/roles/sec/detective/captaingloves.png"><center>Капитанские перчатки</center></th>
+<th><img src="/roles/sec/detective/powergloves.png"><center>Силовые перчатки</center></th>
+<th><img src="/roles/sec/detective/spaceninjagloves.png"><center>Перчатки космического ниндзя</center></th>
+<th><img src="/roles/sec/detective/blackgloves.png"><center>Чёрные перчатки (воровские)</center></th>
+<th><img src="/roles/sec/detective/yellowboxinggloves.png"><center>Жёлтые боксёрские перчатки (любые)</center></th>
+<th><img src="/roles/sec/detective/nerdleathergloves.png"> <center>Кожаные перчатки ботаника</center></th>
+<th><img src="/roles/sec/detective/blackgloves.png"><center>Боевые перчатки</center></th>
+<th><img src="/roles/sec/detective/roboticgloves.png"><center>Роборукие перчатки</center></th>
+<th><img src="/roles/sec/detective/insulatedgloves.png"> <center>Дешёвые/Изолированные перчатки</center></th>
+<th><img src="/roles/sec/detective/greengloves.png"><center>Зелёные перчатки (любой цвет)</center></th>
+<th><img src="/roles/sec/detective/latexgloves.png"><center>Латексные перчатки</center></th>
+<th><img src="/roles/sec/detective/nitrilegloves.png"><center>Нитриловые перчатки</center></th>
+<th><img src="/roles/sec/detective/fingerlessgloves.png"><center>Беспалые перчатки (любые)</center>
 </th></tr>
 <tr>
 <td><i>Не оставляет волокон</i></td>
