@@ -2,7 +2,7 @@
 title: Надзиратель
 description: 
 published: true
-date: 2024-10-04T20:09:08.161Z
+date: 2024-10-04T20:09:25.579Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T18:41:04.510Z
@@ -80,14 +80,14 @@ dateCreated: 2024-10-04T18:41:04.510Z
 
 Если не уделять должного внимания, Пермабриг иногда может превратиться в смертельную ловушку. Регулярно проверяйте его и убедитесь, что щиткурити, космические карпы, другие предатели или метеориты не создают угрозы для заключённых.
 
-<p>
+<center>
 <h2>
   <div class="box">
     <img src="/roles/sec/light_bulb.png" alt="light_bulb.png" style="height: 64px"/>
     <span style="margin-left:10px;">Полезные советы</span>
   </div>
 </h2>
-
+</center>
 
 
 <div class="table"></div>
