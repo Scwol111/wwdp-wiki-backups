@@ -2,7 +2,7 @@
 title: Бармен
 description: 
 published: true
-date: 2024-10-04T15:06:11.346Z
+date: 2024-10-04T15:08:16.006Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:14:58.075Z
@@ -61,7 +61,7 @@ dateCreated: 2024-09-25T17:14:58.075Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/service/barman/barmen-dispenser.png" sizes="" width="75%"></figure>
+          <figure class="image"><img src="/role/serv/barman/barmen-dispenser.png" sizes="" width="75%"></figure>
         </th>
         <th><strong>Раздатчик бармена</strong></th>
         <th>Основной рабочий шкаф. Вмещает в себя партию стаканов, стопок, шейкеров, а также великое множество бутилированных напитков.</th>
