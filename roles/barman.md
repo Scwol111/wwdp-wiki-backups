@@ -2,7 +2,7 @@
 title: Бармен
 description: 
 published: true
-date: 2024-10-04T15:09:13.035Z
+date: 2024-10-04T15:10:03.377Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:14:58.075Z
@@ -45,7 +45,7 @@ dateCreated: 2024-09-25T17:14:58.075Z
 
 Не забывайте о том, что также существуют вандалы, целью которых обычно является битье вашей посуды. В таком случае вы спокойно можете разбить им зубы, или вызвать сб, чтобы не пачкать руки самому.
 
-## <center>![](/roles/serv/barman/.png){.png1}<span class="up11">Приготовление коктейлей</span><center>
+## <center>![](/roles/serv/barman/glass.png){.png1}<span class="up11">Приготовление коктейлей</span><center>
 Ваша основная работа это смешивание вкусных жидкостей для получения еще более вкусных жидкостей. Для этого вам поможет следующий инвентарь:
 
 <details><summary>Инвентарь бармена</summary>
@@ -61,7 +61,7 @@ dateCreated: 2024-09-25T17:14:58.075Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/role/serv/barman/barmen-dispenser.png" sizes="" width="75%"></figure>
+          <figure class="image"><img src="/roles/serv/barman/barmen-dispenser.png" sizes="" width="75%"></figure>
         </th>
         <th><strong>Раздатчик бармена</strong></th>
         <th>Основной рабочий шкаф. Вмещает в себя партию стаканов, стопок, шейкеров, а также великое множество бутилированных напитков.</th>
@@ -417,7 +417,7 @@ dateCreated: 2024-09-25T17:14:58.075Z
 </div>
 </details>
 
-## <center>![](/ru/role/bartender_shit/banana.png){.png1}<span class="up1">Приготовление коктейлей</span><center>
+## <center>![](/roles/serv/barman/banana.png){.png1}<span class="up1">Приготовление коктейлей</span><center>
 
 - [Ботаник](/roles/botanist) может обеспечить вас сырыми ингредиентами, такими как томаты. Вы получаете неограниченный запас некоторых соков в вашем ассортименте.
 
@@ -425,7 +425,7 @@ dateCreated: 2024-09-25T17:14:58.075Z
 
 - [Шеф-Повар](/roles/chef) может снабдить вас молоком, если у него есть корова.
 
-## <center>![](/ru/role/bartender_shit/exclamation.png){.png1} <span class="up1">О чём следует помнить</span><center>
+## <center>![](/roles/serv/barman/exclamation.png){.png1} <span class="up1">О чём следует помнить</span><center>
 
 - Для приготовления более сложных напитков вам могут потребоваться принадлежности из других отделов. Не бойтесь попросить своих коллег доставить вам все, что вам может понадобиться для ваших особенных напитков!
 
