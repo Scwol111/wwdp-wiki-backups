@@ -2,7 +2,7 @@
 title: Детектив
 description: 
 published: true
-date: 2024-10-04T15:12:57.026Z
+date: 2024-10-04T15:13:42.555Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:58:44.292Z
