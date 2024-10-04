@@ -2,7 +2,7 @@
 title: Священник
 description: 
 published: true
-date: 2024-09-25T17:10:18.092Z
+date: 2024-10-04T14:55:53.167Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:10:18.092Z
@@ -64,7 +64,7 @@ dateCreated: 2024-09-25T17:10:18.092Z
 
 <h2>
   <div class="box">
-  <img src="/role/remilia.gif" class="png1">Личный Фамильяр<img src="/role/remilia.gif"  class="png1">
+  <img src="/roles/remilia.gif" class="png1">Личный Фамильяр<img src="/roles/remilia.gif"  class="png1">
   </div>
 </h2>
 
@@ -72,7 +72,7 @@ dateCreated: 2024-09-25T17:10:18.092Z
 
 <h2>
   <div class="box">
-  <img src="/pylonс.gif" class="png2">Борьба с темными силами<img src="/pylonс.gif"  class="png2">
+  <img src="/roles/serv/priest/pylonс.gif" class="png2">Борьба с темными силами<img src="/roles/serv/priest/pylonс.gif"  class="png2">
   </div>
 </h2>
 
@@ -83,7 +83,7 @@ dateCreated: 2024-09-25T17:10:18.092Z
 
 <table>
   <tbody>
-    <td class="blat"><img src="/null_rod.png" class="png1"></td>
+    <td class="blat"><img src="/roles/serv/priest/null_rod.png" class="png1"></td>
     <td class="desc">Жезл Нулификации. Использовав его на <kbd>Z</kbd>, вы можете превратить его в любое священное оружие на ваш выбор! Данное оружие обладает крайне важной особенностью - с его помощью можно открывать шлюзы культа! Также, в качестве приятного бонуса, это оружие наносит двойной урон <a href="/roles/revenant" class="is-internal-link is-valid-page">Ревенанту</a>.</td>
   </tbody>
 </table>
@@ -102,93 +102,93 @@ dateCreated: 2024-09-25T17:10:18.092Z
   <tbody class="blat">
     <tr>
       <td>Божья Длань</td>
-      <td><img  src="/hand.png" class="png1" ></td>
+      <td><img  src="/roles/serv/priest/hand.png" class="png1" ></td>
       <td>Наносит <span style="color:red"> 24 </span>теплового урона за 
         удар. Намертво закрепляется на вашей руке.</td>
     </tr>
     <tr>
       <td>Священный Клеймор</td>
-      <td><img  src="/claymore.png" class="png1" ></td>
+      <td><img  src="/roles/serv/priest/claymore.png" class="png1" ></td>
       <td>Наносит <span style="color:red"> 33 </span> рубящего урона за 
           удар. </td>
     </tr>
     <tr>
       <td>Цепной Меч</td>
-      <td><img  src="/chainsword.gif" class="png1" ></td>
+      <td><img  src="/roles/serv/priest/chainsword.gif" class="png1" ></td>
       <td>Наносит<span style="color:red"> 33 </span> рубящего урона за 
           удар. </td>
     </tr>
     <tr>
       <td>Световой Меч</td>
-      <td><img  src="/sword.gif" class="png1" ></td>
+      <td><img  src="/roles/serv/priest/sword.gif" class="png1" ></td>
       <td>Наносит<span style="color:red"> 33 </span> рубящего урона за 
           удар. Благодаря <del>аккумулятору</del> святости, светится голубым 
           светом.</td>
     </tr>
     <tr>
       <td>Лезвие Ханзо</td>
-      <td><img  src="/katana.png" class="png1" ></td>
+      <td><img  src="/roles/serv/priest/katana.png" class="png1" ></td>
       <td>Наносит<span style="color:red"> 24 </span> рубящего урона за 
           удар, однако скорость атаки у него выше, чем у вариантов оружия 
         с 33 урона.</td>
     </tr>
     <tr>
       <td>Внепространственный Клинок</td>
-      <td><img  src="/multiverse.gif" class="png1" ></td>
+      <td><img  src="/roles/serv/priest/multiverse.gif" class="png1" ></td>
       <td>Обладает хаотичной натурой. Из-за этого хаотичен и урон, и 
         подсветка. Он наносит от<span style="color:red"> 1 </span> до <span style="color:red"> 50 </span>
           рубящего урона за удар.</td>
     </tr>
     <tr>
       <td>Коса Жнеца</td>
-      <td><img  src="/vorpalscythe.png" class="png1" ></td>
+      <td><img  src="/roles/serv/priest/vorpalscythe.png" class="png1" ></td>
       <td>Наносит<span style="color:red"> 24 </span> рубящего урона за 
           удар. Неплохо пробивает броню.</td>
     </tr>
     <tr>
       <td>Одержимый Клинок</td>
-      <td><img  src="/talking_sword.gif" class="png1" ></td>
+      <td><img  src="/roles/serv/priest/talking_sword.gif" class="png1" ></td>
       <td>Наносит<span style="color:red"> 24 </span> рубящего урона за 
           удар. В него может вселиться призрак, после чего он станет 
         оружием компаньоном. Хорошо это или нет, решать уже вам.</td>
     </tr>
     <tr>
       <td>Рука-Бензопила</td>
-      <td><img  src="/chainsaw.gif" class="png1" ></td>
+      <td><img  src="/roles/serv/priest/chainsaw.gif" class="png1" ></td>
       <td>Наносит<span style="color:red"> 6 </span> рубящего урона за 
           удар, однако сама скорость атаки высокая. Так же как и Длань, 
           она закрепляется на вашей руке без возможности снятия.</td>
     </tr>
     <tr>
       <td>Священная Плеть</td>
-      <td><img  src="/chain.png" class="png1" ></td>
+      <td><img  src="/roles/serv/priest/chain.png" class="png1" ></td>
       <td>Наносит<span style="color:red"> 15 </span> тупого урона за 
           удар. Обладает большой дальностью атаки.</td>
     </tr>
     <tr>
       <td>Посох Монаха</td>
-      <td><img  src="/bostaff.png" class="png1" ></td>
+      <td><img  src="/roles/serv/priest/bostaff.png" class="png1" ></td>
       <td>Двуручное. Наносит<span style="color:red"> 10 </span>тупого урона в одной руке, и <span style="color:red"> 18 </span> в двух за
           удар. Обладает большой областью атаки при взмахе на 
           <kbd>ПКМ</kbd>, к тому же пока вы его держите в двух руках способен блокрировать удары в вашу сторону, за исключением шоковой дубинки.</td>
     </tr>
     <tr>
       <td>Нечистивые вилы</td>
-      <td><img  src="/pitchfork.png" class="png1" ></td>
+      <td><img  src="/roles/serv/priest/pitchfork.png" class="png1" ></td>
       <td>Единственное святое оружие, подходящее для дальнего боя. Двуручное.
           Наносит<span style="color:red"> 15 </span> тупого урона в одной руке, и <span style="color:red">24</span> тупого урона в двух за 
           удар и <span style="color:red"> 25 </span> за бросок.</td>
     </tr>
     <tr>
       <td>Реликтовый Боевой Молот</td>
-      <td><img  src="/hammeron.png" class="png1" ></td>
+      <td><img  src="/roles/serv/priest/hammeron.png" class="png1" ></td>
       <td>Наносит<span style="color:red"> 24 </span>тупого и <span 
         style="color:red"> 80 </span>структурного урона за раз. Думаю, 
           основное предзначение очевидно.</td>
     </tr>
     <tr>
       <td>Гиперинструмент</td>
-      <td><img src="/hypertool.png" class="png1" ></td>
+      <td><img src="/roles/serv/priest/hypertool.png" class="png1" ></td>
       <td>Чересчур мощное оружие, даже для вас. Поэтому, вы можете только вырубать ваши цели за <strong>3 удара</strong>, не нанося им никакого урона.</td>   
     </tr>
   </tbody>
@@ -199,7 +199,7 @@ dateCreated: 2024-09-25T17:10:18.092Z
 <p></p>
 <table>
   <tbody>
-    <td class="blat"><img  src="/radio_beacon.png" class="png1"></td>
+    <td class="blat"><img  src="/roles/serv/priest/radio_beacon.png" class="png1"></td>
     <td class="desc">Радиомаяк Вооружения. Использовав его на <kbd>Z</kbd>, вы получите возможность взять любой набор священной брони на ваш выбор. Он, так же как и жезл, одноразовый, а после выбора сразу надевает на вас нужную броню.</td>
   </tbody>
 </table>
@@ -232,18 +232,18 @@ dateCreated: 2024-09-25T17:10:18.092Z
       <td>Броня</td>
     </tr>
     <tr>
-      <td><img src="/knight_templar_helmet.png" class="png1"></td>
-      <td><img src="/knight_templar.png" class="png1"></td>
-      <td><img src="/clockwork_helmet.png" class="png1"></td>
-      <td><img  src="/clockwork_cuirass.png" class="png1"></td>
-      <td><img  src="/cage.png" class="png1"></td>
-      <td><img  src="/studentuni.png" class="png1"></td>
-      <td><img  src="/knight_ancient_helmet.png" class="png1"></td>
-      <td><img  src="/knight_ancient.png" class="png1"></td>
-      <td><img  src="/witchhunterhat.png" class="png1"></td>
-      <td><img  src="/witchhunter.png" class="png1"></td>
-      <td><img  src="/gjvgfshjfaj.png" class="png1"> </td>
-      <td><img src="/crusader.png" class="png1"></td>
+      <td><img src="/roles/serv/priest/knight_templar_helmet.png" class="png1"></td>
+      <td><img src="/roles/serv/priest/knight_templar.png" class="png1"></td>
+      <td><img src="/roles/serv/priest/clockwork_helmet.png" class="png1"></td>
+      <td><img  src="/roles/serv/priest/clockwork_cuirass.png" class="png1"></td>
+      <td><img  src="/roles/serv/priest/cage.png" class="png1"></td>
+      <td><img  src="/roles/serv/priest/studentuni.png" class="png1"></td>
+      <td><img  src="/roles/serv/priest/knight_ancient_helmet.png" class="png1"></td>
+      <td><img  src="/roles/serv/priest/knight_ancient.png" class="png1"></td>
+      <td><img  src="/roles/serv/priest/witchhunterhat.png" class="png1"></td>
+      <td><img  src="/roles/serv/priest/witchhunter.png" class="png1"></td>
+      <td><img  src="/roles/serv/priest/gjvgfshjfaj.png" class="png1"> </td>
+      <td><img src="/roles/serv/priest/crusader.png" class="png1"></td>
     </tr>
   </tbody>
 </table>
@@ -254,7 +254,7 @@ dateCreated: 2024-09-25T17:10:18.092Z
 
 <h2>
   <div class="box">
-  <img src="/negronomicon_new.png" class="png1">Священник отступник<img src="/negronomicon_new.png" class="png1">
+  <img src="/roles/serv/priest/negronomicon_new.png" class="png1">Священник отступник<img src="/negronomicon_new.png" class="png1">
   </div>
 </h2>
 
@@ -264,7 +264,7 @@ dateCreated: 2024-09-25T17:10:18.092Z
 
 <h2>
   <div class="box">
-  <img src="/цербер.png" class="png1">Советы по работе<img src="/цербер.png"  class="png1">
+  <img src="/roles/serv/priest/цербер.png" class="png1">Советы по работе<img src="/roles/serv/priest/цербер.png"  class="png1">
   </div>
 </h2>
 
