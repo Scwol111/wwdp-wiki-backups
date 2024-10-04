@@ -2,7 +2,7 @@
 title: Вор
 description: 
 published: true
-date: 2024-10-04T14:48:00.809Z
+date: 2024-10-04T14:48:21.292Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:25:33.388Z
@@ -137,7 +137,7 @@ dateCreated: 2024-09-25T18:25:33.388Z
           </ul></div></td>
       </tr>
       <tr id="canSteal">
-        <td><img src="/roles/antagonists/signalman.png"><br>Набор связиста</td>
+        <td><img src="/roles/thief/signalman.png"><br>Набор связиста</td>
         <td><div><ul>
           <li><img src="/roles/thief/crypt.png"><span>Ключ шифрования</span></li>
           <li><img src="/guides/uplink/overpricedpen.png"><span>Ручка cybersun</span></li>
