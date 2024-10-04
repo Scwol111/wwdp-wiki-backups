@@ -2,7 +2,7 @@
 title: Смотритель
 description: 
 published: true
-date: 2024-10-04T19:44:36.039Z
+date: 2024-10-04T19:45:22.925Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T18:41:04.510Z
@@ -15,7 +15,7 @@ dateCreated: 2024-10-04T18:41:04.510Z
     <div><div><img src="/roles/prison-guard.png"></div></div>
   <div><div>
     <h1>Смотритель</h1>
-    <p><strong>Сложность:</strong> Сложная</p>
+    <p><strong>Сложность:</strong> Средняя</p>
     <strong>Обязанности:</strong> Нянчиться с заключенными. Защищать коридоры Брига.<br>
     <b>Руководители</b>: <a href="/roles/headofsecurity">Глава Службы Безопасности</a><br>
     <b>Руководства</b>: <a href="/guides/officership" title="Офицерство">Офицерство</a> • <a href="/spacelaw" title="Космический закон">Космический закон</a> • <a href="/guides/smuggling" title="Контрабанда">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности">Инвентарь службы безопасности</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности">Десятичные коды</a>
