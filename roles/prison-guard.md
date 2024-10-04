@@ -1,8 +1,8 @@
 ---
-title: Смотритель
+title: Надзиратель
 description: 
 published: true
-date: 2024-10-04T20:00:33.621Z
+date: 2024-10-04T20:00:39.815Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T18:41:04.510Z
