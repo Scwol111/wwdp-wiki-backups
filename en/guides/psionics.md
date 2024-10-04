@@ -2,7 +2,7 @@
 title: Psionics
 description: Psionics
 published: true
-date: 2024-10-04T19:54:27.269Z
+date: 2024-10-04T19:55:01.715Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T19:54:27.269Z
@@ -223,10 +223,10 @@ Since the power you gain from a psi-roll is random, you might end up with an abi
 <center><p><big><b>Mindbreaker Toxin</b></big><br><img src="/guides/psionics/pill.png" style="width:64px; image-rendering: pixelated" /><br>
 Metabolizing 20 or more units of Mindbreaker Toxin will remove psionics from a person. It is mostly used in code white situations to prevent people from generating any more glimmer. It can also be used when carrying out a criminal sentence.
 </p><p><br />
-<big><b>Soulbreaker Rounds</b></big><br><img src="/guides/psionics/shell_50practice.png" style="width:64px; image-rendering: pixelated" ><br>
+<big><b>Soulbreaker Shells</b></big><br><img src="/guides/psionics/shell_50practice.png" style="width:64px; image-rendering: pixelated" ><br>
 Soulbreaker rounds sever the connection to the Shroud from sentient beings they hit. They require research and need to be printed from the Security Tech Fabricator.
 </p><p><br />
-<big><b>Golemification</b></big><br><img src="/guides/psionics/golem.png" style="width:64px; image-rendering: pixelated" /><br>
+<big><b>Golemnization</b></big><br><img src="/guides/psionics/golem.png" style="width:64px; image-rendering: pixelated" /><br>
 While the act of being sacrificed itself doesn't "technically" strip you of your connection to the Shroud, being put into a golem forces you to weaken your connection to the Shroud and cease to affect the noosphere. You do, however, retain the ability to speak on the telepathic channel while being a golem.
 </p><p><br />
 <big><b>Death</b></big><br /><img src="/guides/psionics/macrobombimplanter.png" style="width:64px; image-rendering: pixelated" /><br>
