@@ -2,7 +2,7 @@
 title: Утилизатор
 description: 
 published: true
-date: 2024-09-29T17:05:03.155Z
+date: 2024-10-04T15:16:00.285Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:40:07.306Z
@@ -36,7 +36,7 @@ dateCreated: 2024-09-25T17:40:07.306Z
 ### Поиск обломков
 
 <figure class="img">
-   <p><img src="/role/cargo/utilizer/salvage-wreck.png" style="position: relative; z-index: 1;"></p>
+   <p><img src="/roles/cargo/salvage-wreck.png" style="position: relative; z-index: 1;"></p>
 </figure>
 
 
