@@ -2,7 +2,7 @@
 title: Курьер
 description: 
 published: true
-date: 2024-10-04T15:20:51.876Z
+date: 2024-10-04T15:21:26.348Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:36:37.178Z
@@ -40,7 +40,7 @@ dateCreated: 2024-09-25T17:36:37.178Z
 
 Ассистентов невозможно найти, либо потому, что они усердно работают по всей станции, либо из-за собственной некомпетентности. Вам решать, хотите ли вы разыскать их или оставить их почту в офисе или баре. 
 
-# <img class="h1z" src="/roles/cargo/courier/mailboxcourier.png">Советы<img class="h1z" src="/roles/cargo/courier/mailboxcourier.png">
+# <img class="h1z" src="/roles/cargo/courier/mailing_unit.png">Советы<img class="h1z" src="/roles/cargo/courier/mailing_unit.png">
 
 - Нашли в посылке что-то запрещенное? Отнесите посылку к службе безопасности.
 - Не нашли в посылке что-то запрещенное? Отнесите посылку к заказчику.
