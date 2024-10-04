@@ -2,7 +2,7 @@
 title: Призрак
 description: 
 published: true
-date: 2024-09-25T17:24:05.103Z
+date: 2024-10-04T14:29:34.265Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:23:31.951Z
@@ -39,9 +39,9 @@ dateCreated: 2024-09-25T17:23:31.951Z
   
 | Кнопка | Описание |
 |--------|----------|
-|<center>![scream1.png](/role/some_service_shet/scream.png){.png1}</center> | Заставляет свет мигать, чем можно пугать своих коллег. |
-|<center>![light.svg.192dpi.png](/guides/light.svg.192dpi.png){.png1}</center> | Позволяет убрать все тени, тем самым позволяет видеть в темноте. |
-|<center>![vv.svg.192dpi.png](/guides/vv.svg.192dpi.png){.png1}</center> | Позволяет видеть так, как живые люди. То есть не сквозь стены. |
+|<center>![scream1.png](/roles/some_service_shet/scream.png){.png1}</center> | Заставляет свет мигать, чем можно пугать своих коллег. |
+|<center>![light.svg.192dpi.png](/roles/some_service_shet/light.svg.192dpi.png){.png1}</center> | Позволяет убрать все тени, тем самым позволяет видеть в темноте. |
+|<center>![vv.svg.192dpi.png](/roles/some_service_shet/vv.svg.192dpi.png){.png1}</center> | Позволяет видеть так, как живые люди. То есть не сквозь стены. |
 </div>
 
 Внизу экрана можно заметить кнопку <b>Роли призраков</b>. Нажав на неё, вы сможете стать доступной ролью, к примеру: <a href="/roles/mouse">мышь</a>.
