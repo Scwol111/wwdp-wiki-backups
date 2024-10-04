@@ -2,7 +2,7 @@
 title: Psionics
 description: Psionics
 published: true
-date: 2024-10-04T19:55:01.715Z
+date: 2024-10-04T19:56:04.873Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T19:54:27.269Z
@@ -34,7 +34,7 @@ The degree of instability of the noosphere is determined by the **glimmer** or *
   <div class="psionic-content">
     <b>Psionic</b> abilities are mental powers that interact with the <b>noosphere</b>. Humans possess a certain potential within the overarching noosphere and the Shroud, allowing some to find ways to manipulate and interact with it. Upon psionic awakening (unlocking psionic abilities), a burst of <b>glimmer</b> is generated. Noospheric fluctuations (psionic abilities) generate 8Ψ to 12Ψ each time they are used. 
   </div>
-  <img src="/guides/psionics/psionicwarning.png" class="psionic-image" alt="Psionic warning" style="display: block; margin: 0 auto;">
+  <img src="/guides/psionics/psionicpopup-en.png" class="psionic-image" alt="Psionic warning" style="display: block; margin: 0 auto;">
 </div>
     <p>When you are lucky enough to experience a psionic awakening and tap into the Shroud, a pop-up will appear giving you the option to embrace the psionic power or not. You will not know what you have received until you accept it. Be warned and read the text before you accept, you are technically giving consent to become a target of certain forces. Psionic awakening will also increase <b>glimmer</b> by 1-5 Ψ.</p>
     <p>After unlocking a psionic ability, it will be automatically placed in your action bar. All you need to do to use it is to click on it or press the corresponding hotkey.</p>
