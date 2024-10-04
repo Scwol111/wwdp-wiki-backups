@@ -2,12 +2,18 @@
 title: Культист
 description: 
 published: true
-date: 2024-10-03T10:30:59.012Z
+date: 2024-10-04T19:41:50.708Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T14:58:53.955Z
 ---
 
+<center>
+<div class="warning-banner">
+  <h2> К сожалению, эта статья уже не актуальна.  </h2>
+  <p>В этой статье представлена устаревшая информация. В ближайшее время мы её обновим.</p><p>
+</div>
+</center>
 
 <div style="display: flex; justify-content: center;">
   <div class="roles-passport antag" onclick="showGif()">
