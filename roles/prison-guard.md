@@ -2,7 +2,7 @@
 title: Надзиратель
 description: 
 published: true
-date: 2024-10-04T20:04:50.866Z
+date: 2024-10-04T20:08:56.191Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T18:41:04.510Z
@@ -84,7 +84,7 @@ dateCreated: 2024-10-04T18:41:04.510Z
 <h2>
   <div class="box">
     <img src="/roles/sec/light_bulb.png" alt="light_bulb.png" style="height: 64px"/>
-    <span style="margin-left:10px;">Полезные советы</span>
+    <span style="margin-left:0px;">Полезные советы</span>
   </div>
 </h2>
 
