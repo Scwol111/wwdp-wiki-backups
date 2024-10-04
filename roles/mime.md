@@ -2,7 +2,7 @@
 title: Мим
 description: 
 published: true
-date: 2024-10-04T14:58:16.165Z
+date: 2024-10-04T14:58:54.948Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:03:39.116Z
