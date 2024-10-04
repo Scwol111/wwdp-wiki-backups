@@ -2,7 +2,7 @@
 title: Маг
 description: 
 published: true
-date: 2024-09-25T18:38:47.177Z
+date: 2024-10-04T14:12:52.614Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:38:47.177Z
@@ -41,7 +41,7 @@ dateCreated: 2024-09-25T18:38:47.177Z
 <!--Я ЗАЕБАЛСЯ, ЭТУ ХУЙНЮ НИКАК НЕ "Центрировать мага по вертикали, диалоговое окно по горизонтали", ЧТОБЫ ОНА ПОТОМ ЕЩЕ И РАБОТАЛА, побудет тут-->
 <h3>
   <div class="box">
-    <img src="/role/antagonists/wizard/wizard_fake.png" style="height: 64px; vertical-align: middle;"> Мануал для начинающих магов <img src="/role/antagonists/wizard/wizard_fake.png" style="height: 64px; vertical-align: middle;">
+    <img src="/roles/antagonists/wizard/wizard_fake.png" style="height: 64px; vertical-align: middle;"> Мануал для начинающих магов <img src="/roles/antagonists/wizard/wizard_fake.png" style="height: 64px; vertical-align: middle;">
   </div>
 </h3>
 Если вам посчастливится стать волшебником, вы появитесь в Логове Волшебников, совершенно недоступном корабле, где вы сможете безопасно спланировать нападение на станцию. Помимо различных безделушек, разбросанных по нему, вы начинаете с книги заклинаний в вашем рюкзаке. Используя книгу, вы можете потратить до 10 очков на любую комбинацию заклинаний по вашему выбору. Вы также начинаете с Свитком телепортации; Если вы не изучите Заклинание Телепорта, этот свиток поможет вам попасть на станцию. Как только вы покинете корабль, пути назад уже не будет, так что убедитесь, что вы готовы!
@@ -67,15 +67,15 @@ dateCreated: 2024-09-25T18:38:47.177Z
 
 <h3>
   <div class="box">
-    <img src="/role/antagonists/wizard/portal-artifact.gif" class="portal-img"> 
+    <img src="/roles/antagonists/wizard/portal-artifact.gif" class="portal-img"> 
     <span>Телепортация на станцию</span>
-    <img src="/role/antagonists/wizard/portal-artifact.gif" class="portal-img">
+    <img src="/roles/antagonists/wizard/portal-artifact.gif" class="portal-img">
   </div>
 </h3>
 Разумеется, вы можете проникнуть на станцию с помощью шаттла, на котором вы появились, но это как-то не подходит магу. Чтобы телепортироваться на станцию, нужно найти свиток телепортации, который находится в кабине пилота. Он может переместить вас в любое место на станции.
 <h2>
   <div class="box">
-    <img src="/role/antagonists/wizard/scroll1.png" style="height: 64px; vertical-align: middle;"> Заклинания <img src="/role/antagonists/wizard/scroll1.png" style="height: 64px; vertical-align: middle;">
+    <img src="/roles/antagonists/wizard/scroll1.png" style="height: 64px; vertical-align: middle;"> Заклинания <img src="/roles/antagonists/wizard/scroll1.png" style="height: 64px; vertical-align: middle;">
   </div>
 </h2>
 
@@ -97,84 +97,84 @@ dateCreated: 2024-09-25T18:38:47.177Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/role/antagonists/wizard/mime_curse.png"><br><strong>Касание мима</td>
+        <td><img src="/roles/antagonists/wizard/mime_curse.png"><br><strong>Касание мима</td>
         <td>Нет</td>
         <td>Превращает в <a href="/roles/mime">мима</a> любого члена экипажа, без возможности нарушить обет молчания.</td>
         <td>1 Очки исследований</td>
         <td>SILENCE!</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/cluwne.png"><br><strong>Проклятье <span style="color:red; font-weight:bold;">К</span><span style="color:orange; font-weight:bold;">л</span><span style="color:yellow; font-weight:bold;">У</span><span style="color:green; font-weight:bold;">в</span><span style="color:blue; font-weight:bold;">Н</span><span style="color:purple; font-weight:bold;">а</span></td>
+        <td><img src="/roles/antagonists/wizard/cluwne.png"><br><strong>Проклятье <span style="color:red; font-weight:bold;">К</span><span style="color:orange; font-weight:bold;">л</span><span style="color:yellow; font-weight:bold;">У</span><span style="color:green; font-weight:bold;">в</span><span style="color:blue; font-weight:bold;">Н</span><span style="color:purple; font-weight:bold;">а</span></td>
         <td>Нет</td>
         <td>Ужаснейшее проклятие, превращает цель в толстого и уродливого тупицу - <span style="color:#2ecc71; font-weight:bold;">клувень</span>.</td>
         <td>2 Очки исследований</td>
         <td>CLUWNE FOR ME!</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/clown.png"><br><strong>Банановое касание</td>
+        <td><img src="/roles/antagonists/wizard/clown.png"><br><strong>Банановое касание</td>
         <td>Нет</td>
         <td>Превращает цель в <a href="/roles/clown">клоуна</a>.</td>
         <td>1 Очки исследований</td>
         <td>HONK FOR ME!</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/blind.png"><br><strong>Ослепление</td>
+        <td><img src="/roles/antagonists/wizard/blind.png"><br><strong>Ослепление</td>
         <td>Да</td>
         <td>Ослепляет всех в радиусе 8 тайлов. Не работает на других магов.</td>
         <td>1 Очки исследований</td>
         <td>STI KALY</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/knock.png"><br><strong>Cтук</td>
+        <td><img src="/roles/antagonists/wizard/knock.png"><br><strong>Cтук</td>
         <td>Нет</td>
         <td>Открывает все двери, шлюзы и шкафчики в радиусе 5-ти тайлов.</td>
         <td>1 Очки исследований</td>
         <td>AULIE OXIN FIERA</td>
       </tr>
       <tr>
-        <td><img src="/role/space-ninja/teleport.png"><br><strong>Прыжок</td>
+        <td><img src="/roles/space-ninja/teleport.png"><br><strong>Прыжок</td>
         <td>Нет</td>
         <td>Переносит на 12-21 тайлов вперед.</td>
         <td>1 Очки исследований</td>
         <td>SYCAR TYN!</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/summons.png"><br><strong>Мгновенный призыв</td>
+        <td><img src="/roles/antagonists/wizard/summons.png"><br><strong>Мгновенный призыв</td>
         <td>Нет</td>
         <td>Позволяет привязать к вашей руке предмет. После этого вы можете использовать заклинание, чтобы призвать этот предмет к себе, когда захотите. Жизненно важно, когда вы планируете использовать магическое оружие, иначе его могут украсть. </td>
         <td>1 Очки исследований</td>
         <td>GAR YOK!</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/push.png"><br><strong>Сила</td>
+        <td><img src="/roles/antagonists/wizard/push.png"><br><strong>Сила</td>
         <td>Нет</td>
         <td>При нажатии <kbd>ЛКМ</kbd> притягивает все объекты и сущности в указанную точку.</td>
         <td>2 Очки исследований</td>
         <td>EL DRITCH!</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/teleport.png"><br><strong>Телепортация</td>
+        <td><img src="/roles/antagonists/wizard/teleport.png"><br><strong>Телепортация</td>
         <td>Да</td>
         <td>Позволяет телепортироваться в любое место на станции! Переносит вас в выбранное место.</td>
         <td>-</td>
         <td>SYCAR FIDE!</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/jaunt.png"><br><strong>Потустороннее путешествие</td>
+        <td><img src="/roles/antagonists/wizard/jaunt.png"><br><strong>Потустороннее путешествие</td>
         <td>Да</td>
         <td>Создаёт вашу астральную форму, временно делая вас невидимым и способным проходить сквозь стены. Если вы оглушены или не можете двигаться по другой причине, вас оглушит после использования заклинания.</td>
         <td>2 Очки исследований</td>
         <td>SCYAR NILA!</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/mindswap.png"><br><strong>Подмена сознания
+        <td><img src="/roles/antagonists/wizard/mindswap.png"><br><strong>Подмена сознания
         <td>Нет</td>
         <td>Позволяет заклинателю переключаться между телами с целью. Вы должны быть рядом с целью, в которую хотите перейти, после чего вы оба будете нокаутированы на несколько секунд. Не работает на культистов, генокрадов и революционеров.</td>
         <td>2 Очки исследований</td>
         <td>GIN'YU CAPAN!</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/rod_form.png"><br><strong>Форма стержня
+        <td><img src="/roles/antagonists/wizard/rod_form.png"><br><strong>Форма стержня
         <td>Да</td>
         <td>Превращает заклинателя в неостановимый стержень, который разрушает все на своем пути. Можно менять направление движения до окончания заклинанияю.</td>
         <td>4 Очки исследований</td>
@@ -199,42 +199,42 @@ dateCreated: 2024-09-25T18:38:47.177Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/role/antagonists/wizard/fireball.png"><br><strong>Огненный шар</td>
+        <td><img src="/roles/antagonists/wizard/fireball.png"><br><strong>Огненный шар</td>
         <td>Нет</td>
         <td>При нажатии <kbd>ЛКМ</kbd>, Создает огненный шар, наносящий огромный урон при взрыве.</td>
         <td>2 Очки исследований</td>
         <td>ONI' SOMA!</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/card.png"><br><strong>Карты</td>
+        <td><img src="/roles/antagonists/wizard/card.png"><br><strong>Карты</td>
         <td>Нет</td>
         <td>Настоящий козырь в рукаве! Вернее, целая колода таких. При нажатии <kbd>ЛКМ</kbd> создаёт и выпускает 10 смертельных карт в одном направлении, каждая из которых наносит 8 рубящего и 10 проникающего урона.</td>
         <td>2 Очки исследований</td>
         <td>SHIZO NERO!</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/gib.png"><br>Кара</td>
+        <td><img src="/roles/antagonists/wizard/gib.png"><br>Кара</td>
         <td>Да</td>
         <td>Заряжает вашу руку мерзкой энергией, которую можно использовать для взрыва жертв. Заклинание требует, чтобы вы коснулись своей цели, поэтому вы не сможете использовать его в наручниках или будучи оглушённым. Кроме того, всё снаряжение, кроме обуви, перчаток, шлема, маски, гарнитуры, очков и всего, что они держали в руках, будет безвозвратно уничтожено.</td>
         <td>2 Очки исследований</td>
         <td>EI NATH!</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/thunder.png"><br><strong>Электрическая дуга</td>
+        <td><img src="/roles/antagonists/wizard/thunder.png"><br><strong>Электрическая дуга</td>
         <td>Да</td>
         <td>При нажатии <kbd>ЛКМ</kbd> выпускает из ваших рук мощную молнию, способную сразить любого члена экипажа! Наносит 30 единиц ожогов.</td>
         <td>2 Очки исследований</td>
         <td>KUH, ABAH'RAH</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/arcane_barrage.png"><br><strong>Магический залп</td>
+        <td><img src="/roles/antagonists/wizard/arcane_barrage.png"><br><strong>Магический залп</td>
         <td>Да</td>
         <td>При нажатии <kbd>ПКМ</kbd> выпускает магический снаряд, который проходит через стекла и наносит 13 термического урона. Магический залп имеет в запасе 30 снарядов. Для использования нужно две свободных руки.</td>
         <td>2 Очки исследований</td>
         <td>-</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/mutate.png"><br><strong>Мутация</td>
+        <td><img src="/roles/antagonists/wizard/mutate.png"><br><strong>Мутация</td>
         <td>Да</td>
         <td>Превращает заклинателя в огромного Халка на 30 секунд. В это время он может стрелять лазерами из глаз. <br><p> Ближний бой <div style="display: flex; flex-direction: column; align-items: center;">
           <div style="text-align: left;"> 
@@ -265,21 +265,21 @@ dateCreated: 2024-09-25T18:38:47.177Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/role/antagonists/wizard/wall.png"><br><strong>Силовой барьер</strong></td>
+        <td><img src="/roles/antagonists/wizard/wall.png"><br><strong>Силовой барьер</strong></td>
         <td>Да</td>
         <td>Создает перед заклинателем 3 барьера при нажатии <kbd>ЛКМ</kbd>.</td>
         <td>1 Очки исследований</td>
         <td>TARCOL MINTI ZHERT!</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/emp_new.png"><br><strong>ЭМИ</td>
+        <td><img src="/roles/antagonists/wizard/emp_new.png"><br><strong>ЭМИ</td>
         <td>Да</td>
         <td>Создает в радиусе 10 клеток от мага легкий ЭМИ взрыв, и сильный в радиусе 6 клеток. ЭМИ взрыв отключает электронику, камеры, тяжело повреждает роботов, энергетическое оружие и прочее.</td>
         <td>1 Очки исследований</td>
         <td>OCYAR TRINA!</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/time.png"><br><strong>Остановка времени</td>
+        <td><img src="/roles/antagonists/wizard/time.png"><br><strong>Остановка времени</td>
         <td>Да</td>
         <td>Останавливает время в области 4x5 вокруг вас. Затронутые существа не смогут двигаться, а проходящие снаряды будут остановлены, пока не закончится время заклинания. Заклинатель, конечно, не подвержен влиянию этого заклинания.</td>
         <td>2 Очки исследований</td>
@@ -293,7 +293,7 @@ dateCreated: 2024-09-25T18:38:47.177Z
 
 <h3>
   <div class="box">
-    <img src="/role/antagonists/wizard/wizardhad.png" style="height: 64px; vertical-align: middle;"> Альтернативный метод каста <img src="/role/antagonists/wizard/wizardhad.png" style="height: 64px; vertical-align: middle;">
+    <img src="/roles/antagonists/wizard/wizardhad.png" style="height: 64px; vertical-align: middle;"> Альтернативный метод каста <img src="/roles/antagonists/wizard/wizardhad.png" style="height: 64px; vertical-align: middle;">
   </div>
 </h3>
 
@@ -301,7 +301,7 @@ dateCreated: 2024-09-25T18:38:47.177Z
   <div>
     Также каждый уважающий себя волшебник должен знать об альтернативных методах каста. При <strong>зажатии</strong> <kbd>ПКМ</kbd> можно прочитать альтернативную и даже более мощную версию заклинания. Всего существует 4 уровня силы альтернативного заклинания при нажатии <kbd>ПКМ</kbd>. При нажатии <kbd>Alt</kbd> + <kbd>ЛКМ</kbd> вы можете использовать заклинание прицельно. Ниже представлены заклинания, которые имеют несколько вариантов прочтения.
   </div>
-  <img src="/role/antagonists/wizard/lvl.png"/>
+  <img src="/roles/antagonists/wizard/lvl.png"/>
 </div>
 
 <center style="overflow-x: auto">
@@ -313,7 +313,7 @@ dateCreated: 2024-09-25T18:38:47.177Z
         <th>При нажатии <kbd>Alt</kbd> + <kbd>ЛКМ</kbd></th>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/wall.png"><br><strong>Силовой барьер</strong></td>
+        <td><img src="/roles/antagonists/wizard/wall.png"><br><strong>Силовой барьер</strong></td>
         <td>Барьеры появляются не перед магом, а вокруг него, создавая один большой. С каждым уровнем будет увеличиваться размер барьера:<br>
  1 уровень - барьер 1x1<br>
  2 уровень - барьер 3x3<br> 
@@ -322,22 +322,22 @@ dateCreated: 2024-09-25T18:38:47.177Z
         <td>Позволяет поставить барьер 3x3 в любой точке.</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/fireball.png"><br><strong>Огненный шар</td>
+        <td><img src="/roles/antagonists/wizard/fireball.png"><br><strong>Огненный шар</td>
         <td>Поджигает все сущности вокруг, с каждым уровнем повышается радиус поражения: <br> 1 уровень - 3x3 тайлов<br> 2 уровень - 4x4 тайлов<br> 3 уровень - 7x7 тайлов<br> 4 уровень - 8x8 тайлов</td>
         <td>Поджигает одну цель на любом расстоянии, и если цель жива и не находится в критическом состоянии, убивает её за 16 секунд, если её не потушить.</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/thunder.png"><br><strong>Электрическая дуга</td>
+        <td><img src="/roles/antagonists/wizard/thunder.png"><br><strong>Электрическая дуга</td>
         <td>Выпускает две молнии на расстояние 3-ех тайлов, с каждым уровнем повышается дальность и колличество выпускаемых молнии на 1.</td>
         <td>Выпускает шаровую молнию, которая взрывается аналогично огненному шару, но не разрушает окна и стены.</td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/card.png"><br><strong>Карты</td>
+        <td><img src="/roles/antagonists/wizard/card.png"><br><strong>Карты</td>
         <td>Выпускает карты вокруг, на первом уровне 20, с каждым уровнем колличество выпускаемых карт повышается на 10.</td>
         <td>Превращает любой предмет в карту, перенося его в руки заклинателя. <em>В карту можно превратить только предметы.</em></td>
       </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/push.png"><br><strong>Сила</td>
+        <td><img src="/roles/antagonists/wizard/push.png"><br><strong>Сила</td>
         <td>Вместо притяжения в выбранную точку, отталкивает все объекты от заклинателя. С каждым уровнем повышается мощность отталкивания.</td>
         <td>Прицельно притягивает предмет или сущность. Нокаутирует цель на 4 секунды.</td>
       </tr>
@@ -349,7 +349,7 @@ dateCreated: 2024-09-25T18:38:47.177Z
 
 <h2>
   <div class="box">
-    <img src="/role/antagonists/wizard/helmetwizard.png" style="height: 64px; vertical-align: middle;">Магические предметы<img src="/role/antagonists/wizard/helmetwizard.png" style="height: 64px; vertical-align: middle;">
+    <img src="/roles/antagonists/wizard/helmetwizard.png" style="height: 64px; vertical-align: middle;">Магические предметы<img src="/roles/antagonists/wizard/helmetwizard.png" style="height: 64px; vertical-align: middle;">
   </div>
 </h2>
 
@@ -364,7 +364,7 @@ dateCreated: 2024-09-25T18:38:47.177Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/role/antagonists/wizard/mjornir.gif"><br><strong>Мьёльнир</strong></td>
+        <td><img src="/roles/antagonists/wizard/mjornir.gif"><br><strong>Мьёльнир</strong></td>
         <td>Могучий молот Тора. Удар по противникам отбросит их назад, оглушая и сбивая их с ног. Можно бросить для достижения того же эффекта.<br><p> Ближний бой <div style="display: flex; flex-direction: column; align-items: center;">
           <div style="text-align: left;"> 
 <div><b class="type">Тупой</b> урон <b class="percent">25</b></div>
@@ -379,7 +379,7 @@ dateCreated: 2024-09-25T18:38:47.177Z
         <td>Из книги заклинаний за 2 очка исследований</td>
       </tr>
 <tr>
-  <td><img src="/spellblade.gif"><br><strong>Клинок заклинаний</strong></td>
+  <td><img src="/roles/antagonists/wizard/spellblade.gif"><br><strong>Клинок заклинаний</strong></td>
   <td>Клинок, наполненный магией, можно усилить, выбрав одно из зачарований при нажатии <kbd>ПКМ</kbd>:<p>
     <div style="display: flex; flex-direction: column; align-items: center;"><div style="text-align: left;">
     <div><b class="type">Огонь</b> поджигает цель при атаке. Защищает от высокой температуры и огня при удерживании клинка.</div>
@@ -391,13 +391,13 @@ dateCreated: 2024-09-25T18:38:47.177Z
   <td>Из книги заклинаний за 2 очка исследований</td>
 </tr>
       <tr>
-        <td><img src="/hfrequency.gif"><br><strong>Высокочастотный клинок</td>
+        <td><img src="/roles/antagonists/wizard/hfrequency.gif"><br><strong>Высокочастотный клинок</td>
         <td>Невероятно быстрый клинок, наносит 10 рубящего. Способен отражать лазеры и пули с шансом 40%</td>
         <td>Из книги заклинаний за 2 очка исследований</td>
       </tr>
 <tr>
   <td>
-    <img src="/role/antagonists/wizard/wizardspacesuit.png"><br><strong>Скафандр волшебника</strong>
+    <img src="/roles/antagonists/wizard/wizardspacesuit.png"><br><strong>Скафандр волшебника</strong>
   </td>
   <td>
     <div style="display: flex; flex-direction: column; align-items: center;">
@@ -417,13 +417,13 @@ dateCreated: 2024-09-25T18:38:47.177Z
   <td>Из книги заклинаний за 5 очка исследований</td>
 </tr>
       <tr>
-        <td><img src="/role/antagonists/wizard/scroll1.png"><br><strong>Свиток телепортации</td>
+        <td><img src="/roles/antagonists/wizard/scroll1.png"><br><strong>Свиток телепортации</td>
         <td>Свиток, хранящий в себе тайные знания, сжигается после прочтения и наделяет вас способностью читать заклинание "Телепортация".</td>
         <td>Кабина пилота в Логове Волшебников</td>
       </tr>
 <tr>
   <td>
-    <img src="/role/antagonists/wizard/helm.png"><br><strong>Шлем мага</strong>
+    <img src="/roles/antagonists/wizard/helm.png"><br><strong>Шлем мага</strong>
   </td>
   <td>
     <div style="display: flex; flex-direction: column; align-items: center;">
@@ -439,7 +439,7 @@ dateCreated: 2024-09-25T18:38:47.177Z
 </tr>
 <tr>
   <td>
-    <img src="/role/antagonists/wizard/magusblue.png"><br><strong>Синие доспехи магуса</strong>
+    <img src="/roles/antagonists/wizard/magusblue.png"><br><strong>Синие доспехи магуса</strong>
   </td>
   <td>
     <div style="display: flex; flex-direction: column; align-items: center;">
@@ -456,7 +456,7 @@ dateCreated: 2024-09-25T18:38:47.177Z
 </tr>
 <tr>
   <td>
-    <img src="/role/antagonists/wizard/magusred.png"><br><strong>Красные доспехи магуса</strong>
+    <img src="/roles/antagonists/wizard/magusred.png"><br><strong>Красные доспехи магуса</strong>
   </td>
   <td>
     <div style="display: flex; flex-direction: column; align-items: center;">
@@ -479,7 +479,7 @@ dateCreated: 2024-09-25T18:38:47.177Z
 
 <h2>
   <div class="box">
-    <img src="/bible_new.png" style="height: 64px; vertical-align: middle;"> Анти-магия <img src="/bible_new.png" style="height: 64px; vertical-align: middle;">
+    <img src="/roles/antagonists/wizard/bible_new.png" style="height: 64px; vertical-align: middle;"> Анти-магия <img src="/bible_new.png" style="height: 64px; vertical-align: middle;">
   </div>
 </h2>
 
@@ -492,7 +492,7 @@ dateCreated: 2024-09-25T18:38:47.177Z
 
 <h2>
   <div class="box">
-    <img src="/role/antagonists/wizard/mini_wizard.png" style="height: 64px; vertical-align: middle;">Билды сообщества<img src="/role/antagonists/wizard/mini_wizard.png" style="height: 64px; vertical-align: middle;">
+    <img src="/roles/antagonists/wizard/mini_wizard.png" style="height: 64px; vertical-align: middle;">Билды сообщества<img src="/role/antagonists/wizard/mini_wizard.png" style="height: 64px; vertical-align: middle;">
   </div>
 </h2>
 
