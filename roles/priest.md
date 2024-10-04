@@ -2,7 +2,7 @@
 title: Священник
 description: 
 published: true
-date: 2024-10-04T14:55:53.167Z
+date: 2024-10-04T14:56:28.047Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:10:18.092Z
@@ -43,7 +43,7 @@ dateCreated: 2024-09-25T17:10:18.092Z
 Библия немного лечит, но врач или химик будет лучше в этом деле. Вы, конечно, можете им помочь спасти человека, ведь библия лечит достаточно, чтобы дать лишние несколько секунд на оказание первой помощи, а также вы можете применить её на стакане с водой, сделав из него святую воду, которая излечивает <b style="color: green;">0,4</b> Ушибы, Яды, Тремические, Электрические и Обморожения за 1 ед., когда общий урон не больше 50.
 <h2>
   <div class="box">
-  <img src="/satana.png" class="png2">Алтарь<img src="/satana.png"  class="png2">
+  <img src="/roles/serv/priest/satana.png" class="png2">Алтарь<img src="/roles/serv/priest/satana.png"  class="png2">
   </div>
 </h2>
 
@@ -54,7 +54,7 @@ dateCreated: 2024-09-25T17:10:18.092Z
 <a href="/administration" class="is-internal-link is-valid-page">Боги</a> - существа непостоянные. Никто не знает, что они собираются делать дальше в своих великих замыслах.
 <h2>
    <div class="box">
-  <img src="/crema_closed_v2.png"> <span class="up2"> Крематорий </span> <img src="/crema_closed_v2.png">
+  <img src="/roles/serv/priest/crema_closed_v2.png"> <span class="up2"> Крематорий </span> <img src="/roles/serv/priest/crema_closed_v2.png">
   </div>
 </h2>
 
