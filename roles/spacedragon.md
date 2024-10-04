@@ -2,7 +2,7 @@
 title: Космический дракон
 description: 
 published: true
-date: 2024-10-04T14:17:43.541Z
+date: 2024-10-04T14:17:55.866Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:34:07.898Z
@@ -63,7 +63,7 @@ dateCreated: 2024-09-25T18:34:07.898Z
 **Здоровье:** 450 до критического состояния
 **Скорость:** быстрее человека (5 против 4)
 
-## <img src="/fauna/dragon_carp.png" class="png1"> Карпы <img src="/fauna/dragon_carp.png" class="png1">
+## <img src="/roles/antagonists/spacedragon/dragon_carp.png" class="png1"> Карпы <img src="/roles/antagonists/spacedragon/dragon_carp.png" class="png1">
 
 **Космический карп** - большая рыба, которую не хотелось бы поймать на крючок.
 
