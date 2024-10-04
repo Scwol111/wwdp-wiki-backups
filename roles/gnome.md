@@ -2,7 +2,7 @@
 title: Гном
 description: 
 published: true
-date: 2024-09-25T17:29:06.102Z
+date: 2024-10-04T14:32:54.771Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:28:52.480Z
@@ -25,10 +25,10 @@ dateCreated: 2024-09-25T17:28:52.480Z
 </div>
 <!--<center><div class="counter-cum"><span id="counter-text">Гномов накликано: <span id="counter">0</span></span></div></center>-->
 
-## <div class="box"><img src="/role/ghost.png" class="himg"><center><span>Как стать гномом</span></center><img src="/role/ghost.png" class="himg"></div>
+## <div class="box"><img src="/roles/ghost.png" class="himg"><center><span>Как стать гномом</span></center><img src="/roles/ghost.png" class="himg"></div>
 Чтобы стать гномом, нужно умереть или зайти в <a href="/ru/roles/ghost" >наблюдатели</a>, а также подождать, пока вашего гнома не вырастит <a href="/ru/roles/botanist" >ботаник</a>. Дальше нужно нажать на кнопку внизу экрана, <b>Роли призраков</b>. Нажимаете её и выбираете доступного для игры гнома.
 
-## <div class="box"><img src="/role/other/gnome-hat.png" class="himg"><center><span>Кто такие гномы</span></center><img src="/role/other/gnome-hat.png" class="himg"></div>
+## <div class="box"><img src="/roles/other/gnome-hat.png" class="himg"><center><span>Кто такие гномы</span></center><img src="/roles/other/gnome-hat.png" class="himg"></div>
 
   Гномы - это разумные, маленькие фарфоровые статуэтки. Первое их появление было задолго до покорения космоса, они были героями рассказов, поэм и детских сказок.
   
@@ -39,7 +39,7 @@ dateCreated: 2024-09-25T17:28:52.480Z
   За небольшую, справедливую плату, гномы честно помогают нуждающимся, а всех бесчестных, лживых, корыстных и жадных ставят на свои места.
   Ну или им разбивают голову. Благо, её можно склеить.
 
-## <div class="box"><span>Геймплей</span><img src="/role/other/chemist-with-gnome.png" style="margin-bottom: 4px; height: 64px;"/></div>
+## <div class="box"><span>Геймплей</span><img src="/roles/other/chemist-with-gnome.png" style="margin-bottom: 4px; height: 64px;"/></div>
   Жизнь каждого уважающего себя гнома начинается с гномьей шляпки в <a href="/guides/hydroponics">гидропонном лотке</a>.
 
   Будучи гномом, вы вольны делать то, что захотите, конечно, если это не противоречит крикам ботаника.
