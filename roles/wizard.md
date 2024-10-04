@@ -2,7 +2,7 @@
 title: Маг
 description: 
 published: true
-date: 2024-10-04T14:12:52.614Z
+date: 2024-10-04T14:15:06.077Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:38:47.177Z
@@ -26,7 +26,7 @@ dateCreated: 2024-09-25T18:38:47.177Z
 <div class="dialog-window">  
 <td width="50">
     <div>
-        <a class="image" title="128" id="dark-wizard-trigger" onclick="changeWizardText()"><img alt="chiefmedicalofficer.png" src="/role/antagonists/wizard/dark_wizard.png" style="min-width: 150px" width="150" height="150"></a>
+        <a class="image" title="128" id="dark-wizard-trigger" onclick="changeWizardText()"><img alt="chiefmedicalofficer.png" src="/roles/antagonists/wizard/dark_wizard.png" style="min-width: 150px" width="150" height="150"></a>
     </div>
 <div id="message-container" style="display: flex; flex-flow: column nowrap; border: 1px solid #111010; border-radius: 10px; background-color: #111010; padding: 40px; color: #BB9C31; font-size: 16pt; justify-content: center; align-items: center; max-width: 600px;">
     <div style="text-align: center;">
@@ -488,11 +488,11 @@ dateCreated: 2024-09-25T18:38:47.177Z
 
 <p></p>
 
-Несмотря на невероятную мощь волшебников, существуют способы противостоять им. Мы предполагаем, что священники обладают иной формой магии, которая пока что плохо изучена нами, и поэтому веруны могут немного противостоять нам. Например, **нуллорд** священника способен полностью блокировать магию, а также, с куда меньшей эффективностью, магию рассеивают крестики<img src="/role/antagonists/wizard/silver.png" style=" vertical-align: middle;" >. 
+Несмотря на невероятную мощь волшебников, существуют способы противостоять им. Мы предполагаем, что священники обладают иной формой магии, которая пока что плохо изучена нами, и поэтому веруны могут немного противостоять нам. Например, **нуллорд** священника способен полностью блокировать магию, а также, с куда меньшей эффективностью, магию рассеивают крестики<img src="/roles/antagonists/wizard/silver.png" style=" vertical-align: middle;" >. 
 
 <h2>
   <div class="box">
-    <img src="/roles/antagonists/wizard/mini_wizard.png" style="height: 64px; vertical-align: middle;">Билды сообщества<img src="/role/antagonists/wizard/mini_wizard.png" style="height: 64px; vertical-align: middle;">
+    <img src="/roles/antagonists/wizard/mini_wizard.png" style="height: 64px; vertical-align: middle;">Билды сообщества<img src="/roles/antagonists/wizard/mini_wizard.png" style="height: 64px; vertical-align: middle;">
   </div>
 </h2>
 
