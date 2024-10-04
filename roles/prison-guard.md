@@ -1,8 +1,8 @@
 ---
-title: Надзиратель
+title: prison-guard
 description: 
 published: true
-date: 2024-10-04T18:42:03.522Z
+date: 2024-10-04T18:42:49.102Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T18:41:04.510Z
@@ -12,7 +12,7 @@ dateCreated: 2024-10-04T18:41:04.510Z
 <div class="roles-passport sb">
   <div class="title sb"><a href="/roles/securityservicedepartment">Служба Безопасности</a></div>
   <div>
-    <div><div><img src="/roles/warden.png"></div></div>
+    <div><div><img src="/roles/prison-guard.png"></div></div>
   <div><div>
     <h1>Смотритель</h1>
     <p><strong>Сложность:</strong> Сложная</p>
