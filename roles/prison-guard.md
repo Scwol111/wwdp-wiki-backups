@@ -2,7 +2,7 @@
 title: Смотритель
 description: 
 published: true
-date: 2024-10-04T19:59:28.979Z
+date: 2024-10-04T20:00:33.621Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T18:41:04.510Z
@@ -14,7 +14,7 @@ dateCreated: 2024-10-04T18:41:04.510Z
   <div>
     <div><div><img src="/roles/prison-guard.png"></div></div>
   <div><div>
-    <h1>Смотритель</h1>
+    <h1>Надзиратель</h1>
     <p><strong>Сложность:</strong> Средняя</p>
     <strong>Обязанности:</strong> Нянчиться с заключенными. Защищать коридоры Брига.<br>
     <b>Руководители</b>: <a href="/roles/headofsecurity">Глава Службы Безопасности</a><br>
