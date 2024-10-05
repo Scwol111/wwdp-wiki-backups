@@ -2,7 +2,7 @@
 title: Тюремный надзиратель
 description: 
 published: true
-date: 2024-10-05T18:33:30.366Z
+date: 2024-10-05T18:39:07.387Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T18:41:04.510Z
@@ -18,7 +18,7 @@ dateCreated: 2024-10-04T18:41:04.510Z
     <p><strong>Сложность:</strong> Средняя</p>
     <strong>Обязанности:</strong> Нянчиться с заключенными. Защищать коридоры Брига.<br>
     <b>Руководители</b>: <a href="/roles/headofsecurity">Глава Службы Безопасности</a><br>
-    <b>Руководства</b>: <a href="/guides/jurisprudence">Юриспруденция</a>  <a href="/guides/officership" title="Офицерство">Офицерство</a> • <a href="/spacelaw" title="Космический закон">Космический закон</a> • <a href="/guides/smuggling" title="Контрабанда">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности">Инвентарь службы безопасности</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности">Десятичные коды</a>
+    <b>Руководства</b>: <a href="/guides/jurisprudence">Юриспруденция</a> •  <a href="/guides/officership" title="Офицерство">Офицерство</a> • <a href="/spacelaw" title="Космический закон">Космический закон</a> • <a href="/guides/smuggling" title="Контрабанда">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности">Инвентарь службы безопасности</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности">Десятичные коды</a>
   </div></div>
   </div>
 </div>
