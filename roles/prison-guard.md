@@ -2,7 +2,7 @@
 title: Тюремный надзиратель
 description: 
 published: true
-date: 2024-10-05T18:39:07.387Z
+date: 2024-10-05T18:41:00.088Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T18:41:04.510Z
@@ -12,7 +12,7 @@ dateCreated: 2024-10-04T18:41:04.510Z
 <div class="roles-passport sb">
   <div class="title sb"><a href="/roles/securityservicedepartment">Служба Безопасности</a></div>
   <div>
-    <div><div><img src="/roles/prison-guard.png"></div></div>
+    <div><div><img src="/roles/prison-guard.png" id="img"></div></div>
   <div><div>
     <h1>Тюремный надзиратель</h1>
     <p><strong>Сложность:</strong> Средняя</p>
