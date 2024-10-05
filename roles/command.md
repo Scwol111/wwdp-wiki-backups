@@ -1,14 +1,22 @@
 ---
-title: Отдел Службы Безопасности
+title: Командование
 description: 
 published: true
-date: 2024-10-05T19:14:41.529Z
+date: 2024-10-05T19:17:33.004Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-05T19:09:25.240Z
 ---
 
-<h1 id="служба-безопасности" class="toc-header"><a class="toc-anchor" href="#служба-безопасности">¶</a> Служба безопасности</h1>
+<h1 id="служба-безопасности" class="toc-header"><a class="toc-anchor" href="#служба-безопасности">¶</a> Командование станции</h1>
+<div class="role">
+<div class="rolename"><a href="/roles/warden" class="custom-link is-internal-link is-valid-page">Капитан</a></div>
+<div class="roleimg"><img src="/roles/captain.png"></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">ЦентКом<p></p></div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Глава объекта. Занимается руководством всей станции, главные его помощники это главы отделов.<br> <center><a href="/guides/hierarchyofcommand" title="Офицерство" class="is-internal-link is-valid-page">Иерархия Командования</a> • <a href="/guides/especiallyvaluebleitems" title="Космический закон" class="is-internal-link is-valid-page">Особо ценные предметы</a>
+</center></div>  
 <div class="rolescontainer">
 <div class="role">
 <div class="rolename"><a href="/roles/headofsecurity" class="custom-link is-internal-link is-valid-page">Глава Службы Безопасности</a></div>
@@ -20,7 +28,7 @@ dateCreated: 2024-10-05T19:09:25.240Z
 </div>
 <div class="role">
 <div class="rolename"><a href="/roles/warden" class="custom-link is-internal-link is-valid-page">Капитан</a></div>
-<div class="roleimg"><img src="/roles/warden.png"></div>
+<div class="roleimg"><img src="/roles/captain.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">ЦентКом<p></p></div>
 <div class="roledesclabel">Описание:</div>  
