@@ -2,7 +2,7 @@
 title: Тюремный надзиратель
 description: 
 published: true
-date: 2024-10-05T18:32:23.210Z
+date: 2024-10-05T18:33:18.633Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T18:41:04.510Z
@@ -94,3 +94,19 @@ dateCreated: 2024-10-04T18:41:04.510Z
 
 
 <div class="table"></div>
+  
+  
+  
+<center style="overflow-x: auto">
+  <table class="ant">
+    <thead>
+      <tr id="canSteal">
+        <th>Название</th>
+        <th>Содержимое</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr id="canSteal">
+        <td><img src="/roles/sec/implanter.png"><br>Набор химика</td>
+        <td><div><ul>
+          <li><img src="/roles/sec/implanter.png"><span>Имплант Хранилища</span></li>
