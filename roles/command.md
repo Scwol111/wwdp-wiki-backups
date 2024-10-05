@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-10-05T19:09:25.240Z
+date: 2024-10-05T19:14:41.529Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-05T19:09:25.240Z
@@ -19,12 +19,13 @@ dateCreated: 2024-10-05T19:09:25.240Z
 <div class="roledesc">Вы руководите службой безопасности, неся ответственность за порядок на станции.<br> <center><a href="/guides/hierarchyofcommand" class="is-internal-link is-valid-page">Иерархия Командования</a> • <a href="/spacelaw" class="is-internal-link is-valid-page">Космический Закон</a> • <a href="/guides/officership" class="is-internal-link is-valid-page">Офицерство</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности" class="is-internal-link is-valid-page">Десятичные коды</a></center></div>  
 </div>
 <div class="role">
-<div class="rolename"><a href="/roles/warden" class="custom-link is-internal-link is-valid-page">Смотритель</a></div>
+<div class="rolename"><a href="/roles/warden" class="custom-link is-internal-link is-valid-page">Капитан</a></div>
 <div class="roleimg"><img src="/roles/warden.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава Службы Безопасности<p></p></div>
+<div class="rolehead">ЦентКом<p></p></div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Вы охраняете бриг и заключенных. Следите за ними.<br> <center><a href="/guides/officership" title="Офицерство" class="is-internal-link is-valid-page">Офицерство</a> • <a href="/spacelaw" title="Космический закон" class="is-internal-link is-valid-page">Космический закон</a> • <a href="/guides/smuggling" title="Контрабанда" class="is-internal-link is-valid-page">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности" class="is-internal-link is-valid-page">Инвентарь службы безопасности</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности" class="is-internal-link is-valid-page">Десятичные коды</a></center></div>  
+<div class="roledesc">Глава объекта. Занимается руководством всей станции, главные его помощники это главы отделов.<br> <center><a href="/guides/hierarchyofcommand" title="Офицерство" class="is-internal-link is-valid-page">Иерархия Командования</a> • <a href="/guides/especiallyvaluebleitems" title="Космический закон" class="is-internal-link is-valid-page">Особо ценные предметы</a>
+</center></div>  
 </div>    
 <div class="role">
 <div class="rolename"><a href="/roles/veteran" class="custom-link is-internal-link is-valid-page">Ветеран</a></div>
