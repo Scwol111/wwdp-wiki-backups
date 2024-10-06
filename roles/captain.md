@@ -2,17 +2,17 @@
 title: Капитан
 description: 
 published: true
-date: 2024-10-06T17:17:35.052Z
+date: 2024-10-06T17:23:51.291Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:14.719Z
 ---
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;" class="zoomable">
 <div class="roles-passport comm">
   <div class="title comm" id="title"><a href="/roles/command" class="is-internal-link is-valid-page">Командование</a></div>
   <div>
-    <div><div><img src="/roles/captain.png" id="img" class="zoomable"></div></div>
+    <div><div><img src="/roles/captain.png" id="img"></div></div>
   <div><div>
     <h1 id="капитан" class="toc-header"><a class="toc-anchor" href="#капитан">¶</a> Капитан</h1>
     <p><strong>Сложность:</strong> Сложная</p>
