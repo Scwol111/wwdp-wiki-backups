@@ -2,7 +2,7 @@
 title: Настроение
 description: 
 published: true
-date: 2024-10-06T17:11:46.283Z
+date: 2024-10-06T17:12:37.254Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:00.247Z
