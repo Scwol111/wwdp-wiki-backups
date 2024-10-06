@@ -2,7 +2,7 @@
 title: Настроение
 description: 
 published: true
-date: 2024-10-06T17:11:34.962Z
+date: 2024-10-06T17:11:46.283Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:00.247Z
@@ -25,7 +25,7 @@ dateCreated: 2024-09-10T19:08:00.247Z
   </thead>
   <tbody>
     <tr>
-      <td><img src="/guides/mood/ultra_sigma_mood.png"><br><span style="color: #2eeb9a;">Великолепно</span></td>
+      <td><img src="/guides/mood/ultra_sigma_mood.png" class="zoomable"><br><span style="color: #2eeb9a;">Великолепно</span></td>
       <td> </td>
       <td>Скорость и порог вхождения в критическое состояние увеличены. </td>
     </tr>
