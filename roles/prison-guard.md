@@ -2,7 +2,7 @@
 title: Тюремный надзиратель
 description: 
 published: true
-date: 2024-10-05T18:48:59.473Z
+date: 2024-10-06T17:18:05.849Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T18:41:04.510Z
@@ -59,7 +59,7 @@ dateCreated: 2024-10-04T18:41:04.510Z
   </div>
 </h2>
 
-![prison-wing.png](/roles/sec/prison-wing.png =15%x){.align-right}
+![prison-wing.png](/roles/sec/prison-wing.png =25%x){.align-right}
 
 Как только вы окажетесь здесь, пути назад уже не будет. Таймеров здесь нет — это место для самых опасных преступников. Ожидайте, что пользоваться им придется нечасто, так как многие предатели получают своё наказание ещё до того, как до этого дойдет дело.
 
