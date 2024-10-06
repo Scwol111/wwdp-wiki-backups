@@ -2,13 +2,13 @@
 title: Капитан
 description: 
 published: true
-date: 2024-10-06T17:23:51.291Z
+date: 2024-10-06T17:24:12.382Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:14.719Z
 ---
 
-<div style="display: flex; justify-content: center;" class="zoomable">
+<div style="display: flex; justify-content: center;">
 <div class="roles-passport comm">
   <div class="title comm" id="title"><a href="/roles/command" class="is-internal-link is-valid-page">Командование</a></div>
   <div>
