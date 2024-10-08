@@ -2,7 +2,7 @@
 title: Prison-guard
 description: 
 published: true
-date: 2024-10-08T10:39:00.870Z
+date: 2024-10-08T10:39:46.500Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-08T10:37:53.750Z
@@ -48,6 +48,6 @@ prisoners are required to obey you.
 <h2>
   <div class="box">
     <img src="/roles/sec/office_chair.png" alt="office_chair.png" style="height: 64px"/>
-    <span style="margin-left:10px;">Не сидите без дела</span>
+    <span style="margin-left:10px;">Don't sit idle</span>
   </div>
 </h2>
