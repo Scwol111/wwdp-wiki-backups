@@ -2,7 +2,7 @@
 title: Prison-guard
 description: 
 published: true
-date: 2024-10-08T10:40:28.084Z
+date: 2024-10-08T10:42:19.803Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-08T10:37:53.750Z
@@ -55,3 +55,47 @@ prisoners are required to obey you.
 The Prison Guard is not just a role for passive observation. Even if everything seems calm, there are always tasks that require your attention. Regularly patrol the Permabrig, check the condition of cells and doors, and monitor the behavior of the prisoners. Make sure no one is attempting to escape and that prisoners do not possess any contraband.
 
 If you don't have any prisoners to watch over, you should be guarding the Brig's corridors.
+
+<h2>
+  <div class="box">
+    <img src="/roles/sec/handcuffs.png" alt="handcuffs.png" style="height: 64px"/>
+    <span style="margin-left:10px;">Prison wing</span>
+  </div>
+</h2>
+
+<img src="/roles/sec/prison-wing.png" style="width:20%;" class="align-right" />
+
+Once you end up here, there's no turning back. There are no timers — this is a place for the most dangerous criminals. Expect to use it rarely, as many traitors meet their punishment before it comes to this.
+
+If left unattended, the Permabrig can sometimes turn into a deadly trap. Regularly inspect it and ensure that shield generators, space carp, other traitors, or meteorites don’t pose a threat to the prisoners.
+
+
+<center>
+<h2>
+  <div class="box">
+    <img src="/roles/sec/light_bulb.png" alt="light_bulb.png" style="height: 64px"/>
+    <span style="margin-left:10px;">Helpful tips</span>
+  </div>
+</h2>
+</center>
+<br>
+
+<li>Regular patrols. 
+Constantly patrol the Permabrig to ensure that no one is attempting to escape or breach the facility. This will help you prevent escapes and unauthorized entries.<br><br>
+
+<li>Monitoring cameras.
+Use surveillance cameras to track the prisoners. This way, you can quickly respond to potential threats or issues without leaving your post.<br><br>
+
+<li>Security checks.
+Periodically check the integrity of doors, windows, and other security measures. Monitor the condition of airlocks, alarms, and other protective equipment.<br><br>
+
+<li>Inventory of prisoners.
+Ensure that prisoners are stripped of all potentially dangerous items. Even in the Permabrig, they may attempt to use contraband to escape.<br><br>
+
+<li>Interaction with security officers.
+You cannot act alone. Stay in contact with security officers, especially in emergencies. If a prisoner attempts to escape or disrupt order, you can request backup.<br><br>
+
+<li>Use non-lethal means.
+Your priority is to incapacitate, not to kill. Use non-lethal weapons to subdue prisoners. Killing is only permitted as a last resort when no other options are available.<br><br>
+
+<div class="table"></div>
