@@ -2,7 +2,7 @@
 title: Prison-guard
 description: 
 published: true
-date: 2024-10-08T10:42:19.803Z
+date: 2024-10-08T10:42:38.316Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-08T10:37:53.750Z
@@ -68,6 +68,10 @@ If you don't have any prisoners to watch over, you should be guarding the Brig's
 Once you end up here, there's no turning back. There are no timers — this is a place for the most dangerous criminals. Expect to use it rarely, as many traitors meet their punishment before it comes to this.
 
 If left unattended, the Permabrig can sometimes turn into a deadly trap. Regularly inspect it and ensure that shield generators, space carp, other traitors, or meteorites don’t pose a threat to the prisoners.
+
+
+
+
 
 
 <center>
