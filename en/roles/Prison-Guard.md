@@ -2,7 +2,7 @@
 title: Prison Guard
 description: 
 published: true
-date: 2024-10-08T10:46:05.313Z
+date: 2024-10-08T10:46:15.550Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-08T10:37:53.750Z
@@ -102,3 +102,4 @@ You cannot act alone. Stay in contact with security officers, especially in emer
 <li>Use non-lethal means.
 Your priority is to incapacitate, not to kill. Use non-lethal weapons to subdue prisoners. Killing is only permitted as a last resort when no other options are available.<br><br>
 
+<div class="table"></div>
