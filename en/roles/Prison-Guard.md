@@ -2,7 +2,7 @@
 title: Prison-guard
 description: 
 published: true
-date: 2024-10-08T10:42:38.316Z
+date: 2024-10-08T10:42:49.121Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-08T10:37:53.750Z
@@ -63,7 +63,7 @@ If you don't have any prisoners to watch over, you should be guarding the Brig's
   </div>
 </h2>
 
-<img src="/roles/sec/prison-wing.png" style="width:20%;" class="align-right" />
+<img src="/roles/sec/prison-wing.png" style="width:15%;" class="align-right" />
 
 Once you end up here, there's no turning back. There are no timers — this is a place for the most dangerous criminals. Expect to use it rarely, as many traitors meet their punishment before it comes to this.
 
