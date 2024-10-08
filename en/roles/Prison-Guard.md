@@ -2,7 +2,7 @@
 title: Prison-guard
 description: 
 published: true
-date: 2024-10-08T10:39:46.500Z
+date: 2024-10-08T10:40:28.084Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-08T10:37:53.750Z
@@ -51,3 +51,7 @@ prisoners are required to obey you.
     <span style="margin-left:10px;">Don't sit idle</span>
   </div>
 </h2>
+
+The Prison Guard is not just a role for passive observation. Even if everything seems calm, there are always tasks that require your attention. Regularly patrol the Permabrig, check the condition of cells and doors, and monitor the behavior of the prisoners. Make sure no one is attempting to escape and that prisoners do not possess any contraband.
+
+If you don't have any prisoners to watch over, you should be guarding the Brig's corridors.
