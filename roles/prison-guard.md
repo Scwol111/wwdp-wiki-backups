@@ -2,7 +2,7 @@
 title: Тюремный надзиратель
 description: 
 published: true
-date: 2024-10-08T10:19:57.456Z
+date: 2024-10-08T10:20:18.996Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T18:41:04.510Z
@@ -59,7 +59,7 @@ dateCreated: 2024-10-04T18:41:04.510Z
   </div>
 </h2>
 
-<img src="/roles/sec/prison-wing.png" style="width:50%;" class="align-right" />
+<img src="/roles/sec/prison-wing.png" style="width:35%;" class="align-right" />
 
 
 
