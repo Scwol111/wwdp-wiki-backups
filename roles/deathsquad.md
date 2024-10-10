@@ -2,11 +2,15 @@
 title: Эскадрон Смерти
 description: 
 published: true
-date: 2024-09-25T17:20:08.688Z
+date: 2024-10-10T19:55:42.656Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:20:08.688Z
 ---
+
+> Эскадрон смерти можно увидеть только на редких ивентах, основной идеей которых является массовая нарезка.
+{.is-warning}
+
 
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport ceco">
