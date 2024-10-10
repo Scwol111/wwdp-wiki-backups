@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-10-10T19:05:34.307Z
+date: 2024-10-10T19:28:22.242Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -381,6 +381,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div>Средне</div>
   <div><a href="/roles/baby-slime">Улыбкин</a><a href="/roles/baby-slime"><img src="/roles/baby-slime.gif" /></a></div>
   <div><div>Не перепутайте с обычным слаймом. Это питомец научного отдела, он не кусается.</div></div>
+  <div>Легко</div>
+  <div><a href="/roles/laika">Лайка</a><a href="/roles/laika"><img src="/roles/secdog.gif" /></a></div>
+  <div><div>Собака, принадлежащая Главе Службы Безопасности. Это уличная порода, всегда готовая к драке. Она чувствует нарушение закона.</div></div>
   <div>Легко</div>
 <!--  <div><a href="/roles/gnome">Гном</a><a href="/roles/gnome"><img src="/roles/gnome.png" /></a></div>
   <div><div>Верный помощник <a href="./roles/botanist">ботаника</a>, добродушный садовый гномик. Будет защищать свои права, пока его не разобьют. И он ТОЧНО НЕ хочет никому навредить.</div></div>
