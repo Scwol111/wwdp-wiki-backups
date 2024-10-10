@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-10-10T17:06:09.926Z
+date: 2024-10-10T19:05:34.307Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -331,9 +331,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/emergencyresponseteam">Отряд Быстрого Реагирования</a><a href="/roles/emergencyresponseteam"><img src="/roles/emergencyresponseteam.png" /></a></div>
   <div><div><a href="https://www.youtube.com/watch?v=r3BcRKU-li0">Отряд Быстрого Реагирования зашёл на станцию. Всему персоналу просьба оставаться в безопасных местах до дальнейших указаний.</a></div></div>
   <div>Сложно</div>
-  <div><a href="/roles/deathsquad">Эскадрон Смерти</a><a href="/roles/deathsquad"><img src="/roles/deathsquad.png" /></a></div>
+  <!--<div><a href="/roles/deathsquad">Эскадрон Смерти</a><a href="/roles/deathsquad"><img src="/roles/deathsquad.png" /></a></div>
   <div><div>"Вы заходите, вы зачищаете всё, вы умираете, а затем улетаете. Если есть какие-то вопрос по поводу плана, то спросите после выполнения миссии. Кому-то нужно повторить?"</div></div>
-  <div>До Боли Сложно</div>
+  <div>До Боли Сложно</div>-->
 </div>
 
 <div class="roles-table sint">
@@ -384,8 +384,8 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div>Легко</div>
 <!--  <div><a href="/roles/gnome">Гном</a><a href="/roles/gnome"><img src="/roles/gnome.png" /></a></div>
   <div><div>Верный помощник <a href="./roles/botanist">ботаника</a>, добродушный садовый гномик. Будет защищать свои права, пока его не разобьют. И он ТОЧНО НЕ хочет никому навредить.</div></div>
-  <div>Гномически</div> -->
+  <div>Гномически</div>
   <div><a href="/roles/gondola">Гондола</a><a href="/roles/gondola"><img src="/roles/gondola.png" /></a></div>
   <div><div>Существо, которое можно купить в <a href="/ru/guides/uplink">аплинке</a> </div></div>
-  <div>Легко</div>
+  <div>Легко</div> -->
 </div>
