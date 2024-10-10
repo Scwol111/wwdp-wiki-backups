@@ -2,7 +2,7 @@
 title: Псионический Мантис
 description: 
 published: true
-date: 2024-09-29T16:56:05.633Z
+date: 2024-10-10T19:05:52.047Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T09:28:16.539Z
@@ -14,7 +14,7 @@ dateCreated: 2024-09-22T09:28:16.539Z
   <div>
     <div><div><img src="/roles/mantis.png"></div></div>
   <div><div>
-    <h1>Псионический Мантис</h1>
+    <h1>Мантис</h1>
     <p><strong>Сложность:</strong> Сложная</p>
     <strong>Обязанности:</strong> Разгадывать тайны. Выслеживать псиоников. Разрушать разум псиоников при белом коде. <br>
     <b>Руководители</b>: <a href="/roles/researchdirector">Научный Руководитель</a><br>
