@@ -2,11 +2,18 @@
 title: Инспектор
 description: 
 published: true
-date: 2024-09-25T18:04:43.998Z
+date: 2024-10-10T19:32:23.665Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:04:43.998Z
 ---
+
+<center>
+<div class="warning-banner">
+  <h2> Архив </h2>
+  <p>Эта статья посвящена игровым механикам, которые уже не используются в текущей версии билда. Она отправляется в архив, чтобы сохранить воспоминания о них.</p><p>
+</div>
+</center>
 
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport comm">
