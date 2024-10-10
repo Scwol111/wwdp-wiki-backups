@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-10-06T18:08:12.519Z
+date: 2024-10-10T17:06:09.926Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -54,9 +54,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/quartermaster">Квартирмейстер</a><a href="/roles/quartermaster"><img src="/roles/quartermaster.png" /></a></div>
   <div><div>Руководитель <a href="/roles#отдел-снабжения">отдела снабжения</a>. Контролирует обеспечение станции всем необходимым. По итогу снабжает свой отдел чем вздумается ему и угоняет шаттл отдела снабжения, объявляя независимость "Каргонии".</div></div>
 	<div>Средне, но со сложностями</div>
-  <div><a href="/roles/inspector">Инспектор</a><a href="/roles/inspector"><img src="/roles/inspector.png" /></a></div>
+<!--  <div><a href="/roles/inspector">Инспектор</a><a href="/roles/inspector"><img src="/roles/inspector.png" /></a></div>
   <div><div>Руководитель <a href="/roles#отдел-юстиции">отдела юстиции</a>. Контролирует выполнение целей стации. В любой момент он может нагрянуть в ваш отдел с проверкой. Будьте готовы подписывать отчёты и объясняться, почему же вы сидите в баре за офицера, пока в соседнем коридоре убивают капитана.</div></div>
-	<div>Сложно</div>
+	<div>Сложно</div> -->
   <div><a href="/roles/maid">Прислуга</a><a href="/roles/maid"><img src="/roles/maid.png" /></a></div>
   <div><div>Прислуга - существует только для того, чтобы выполнять функцию горничной.
 </div></div>
@@ -70,9 +70,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/veteran">Ветеран</a><a href="/roles/veteran"><img src="/roles/veteran.png" /></a></div>
+<!--  <div><a href="/roles/veteran">Ветеран</a><a href="/roles/veteran"><img src="/roles/veteran.png" /></a></div>
   <div><div>Обучает кадетов тому, как не быть связанными клоуном. Напоминает, про то, что НУЖНО ДЕРЖАТЬ ДУБИНКУ В ПОЯСЕ ВО ВРЕМЯ ПОГОНИ. Пытается объяснить по рп, как стрелять из пистолета и где прочитать Космический Закон. В конце концов начинает спамить кадетам в LOOC, но остается неуслышанным.</div></div>
-  <div>Сложно</div>
+  <div>Сложно</div> -->
   <div><a href="/roles/warden">Смотритель</a><a href="/roles/warden"><img src="/roles/warden.png" /></a></div>
   <div><div>Марает отдел СБ больше всех. Часто покидает пост, потому что скучно, хотя он почти никогда не должен покидать это место. Следит, чтобы ты не ушёл раньше положенного. По итогу засыпает на стойке.</div></div>
   <div>Повышенная</div>
@@ -100,9 +100,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/medicalofficer">Медицинский офицер</a><a href="/roles/medicalofficer"><img src="/roles/medicalofficer.png" /></a></div>
+<!--  <div><a href="/roles/medicalofficer">Медицинский офицер</a><a href="/roles/medicalofficer"><img src="/roles/medicalofficer.png" /></a></div>
   <div><div>Может сварить таблетки с метамфетамином и космическими наркотиками в первые 5 минут смены, чем и займется. В это время будет пристально следить за химиками, чтобы те варили только базу, а если не будут, то уволит их самолично, хоть и не является главой. Получит дозу лексорина. И уже после этого отправится учить интернов.</div></div>
-  <div>Сложно</div>
+  <div>Сложно</div> -->
   <div><a href="/roles/chemist">Химик</a><a href="/roles/chemist"><img src="/roles/chemist.png" /></a></div>
   <div><div>Готовит медикаменты для того, чтобы врачи могли эффективнее спасти Вашу жизнь! Иногда варит наркотические средства с целью «лечения», а также по какой-то неведомой причине возле отдела предметы начали становиться разумными.</div></div>
   <div>Средне</div>
@@ -127,10 +127,10 @@ dateCreated: 2024-09-10T19:07:41.779Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/leadresearcher">Ведущий Исследователь</a><a href="/roles/leadresearcher"><img src="/roles/leadresearcher.png" /></a></div>
+<!--  <div><a href="/roles/leadresearcher">Ведущий Исследователь</a><a href="/roles/leadresearcher"><img src="/roles/leadresearcher.png" /></a></div>
   <div><div>Знает лучше, какие технологии нужно исследовать, чем научный руководитель. Забудет про то, что очки еще нужно получать и будет строить БОЛЬШИХ И СИЛЬНЫХ МЕХОВ. Иногда будет обучать новичков, но чаще говорить, что он занят боргизированием квартирмейстера.</div></div>
-  <div>Сложно</div>
-  <div><a href="/roles/mantis">Псионический Мантис</a><a href="/roles/mantis"><img src="/roles/mantis.png" /></a></div>
+  <div>Сложно</div> -->
+  <div><a href="/roles/mantis">Мантис</a><a href="/roles/mantis"><img src="/roles/mantis.png" /></a></div>
   <div><div>Разгадывает тайны, большие и маленькие. От простых слэм-данков, таких как "кто убил клоуна", до вопросов природы вселенной. Отвечает за расследование мест преступлений в поисках улик. Держит псиоников в узде.</div></div>
   <div>Сложно</div>
   <div><a href="/roles/scientist">Ученый</a><a href="/roles/scientist"><img src="/roles/scientist.png" /></a></div>
@@ -148,9 +148,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/brigadier">Бригадир</a><a href="/roles/brigadier"><img src="/roles/brigadier.png" /></a></div>
+<!--  <div><a href="/roles/brigadier">Бригадир</a><a href="/roles/brigadier"><img src="/roles/brigadier.png" /></a></div>
   <div><div>Левой рукой строит с нуля зону содержания сингулярности. Правой - систему охлаждения суперматерии. Попутно пытается рп обьяснить техническим ассистентам, как открыть меню строительства.</div></div>
-  <div>Сложно</div>
+  <div>Сложно</div> -->
   <div><a href="/roles/atmospherictechnician">Атмосферный техник</a><a href="/roles/atmospherictechnician"><img src="/roles/atmospherictechnician.png" /></a></div>
   <div><div>Обеспечивает экипаж оптимальными атмосферными условиями, оберегает их от всякой хрени в воздухе. Часто путает трубы и вентили в результате чего станция сгорает. Также повторяют «Во все тяжкие», но готовят фрезон. Иногда выполняет работу инженеров.</div></div>
   <div>Средне, но с трудностями</div>
@@ -382,9 +382,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/baby-slime">Улыбкин</a><a href="/roles/baby-slime"><img src="/roles/baby-slime.gif" /></a></div>
   <div><div>Не перепутайте с обычным слаймом. Это питомец научного отдела, он не кусается.</div></div>
   <div>Легко</div>
-<div><a href="/roles/gnome">Гном</a><a href="/roles/gnome"><img src="/roles/gnome.png" /></a></div>
+<!--  <div><a href="/roles/gnome">Гном</a><a href="/roles/gnome"><img src="/roles/gnome.png" /></a></div>
   <div><div>Верный помощник <a href="./roles/botanist">ботаника</a>, добродушный садовый гномик. Будет защищать свои права, пока его не разобьют. И он ТОЧНО НЕ хочет никому навредить.</div></div>
-  <div>Гномически</div>
+  <div>Гномически</div> -->
   <div><a href="/roles/gondola">Гондола</a><a href="/roles/gondola"><img src="/roles/gondola.png" /></a></div>
   <div><div>Существо, которое можно купить в <a href="/ru/guides/uplink">аплинке</a> </div></div>
   <div>Легко</div>
