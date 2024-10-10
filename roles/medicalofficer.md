@@ -2,11 +2,18 @@
 title: Медицинский офицер
 description: 
 published: true
-date: 2024-09-22T18:17:28.330Z
+date: 2024-10-10T19:36:46.633Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:25.466Z
 ---
+
+<center>
+<div class="warning-banner">
+  <h2> Архив </h2>
+  <p>Эта статья посвящена игровым механикам, которые уже не используются в текущей версии билда. Она отправляется в архив, чтобы сохранить воспоминания о них.</p><p>
+</div>
+</center>
 
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport med">
