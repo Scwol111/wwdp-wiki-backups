@@ -2,11 +2,18 @@
 title: Ведущий исследователь
 description: 
 published: true
-date: 2024-09-28T16:14:34.391Z
+date: 2024-10-10T19:34:36.006Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:49:52.981Z
 ---
+
+<center>
+<div class="warning-banner">
+  <h2> Архив </h2>
+  <p>Эта статья посвящена игровым механикам, которые уже не используются в текущей версии билда. Она отправляется в архив, чтобы сохранить воспоминания о них.</p><p>
+</div>
+</center>
 
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport rnd">
