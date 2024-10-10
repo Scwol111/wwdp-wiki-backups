@@ -2,11 +2,18 @@
 title: Ветеран
 description: 
 published: true
-date: 2024-09-26T14:57:48.250Z
+date: 2024-10-10T19:33:31.407Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:01:21.901Z
 ---
+
+<center>
+<div class="warning-banner">
+  <h2> Архив </h2>
+  <p>Эта статья посвящена игровым механикам, которые уже не используются в текущей версии билда. Она отправляется в архив, чтобы сохранить воспоминания о них.</p><p>
+</div>
+</center>
 
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport sb">
