@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-10-11T15:56:01.691Z
+date: 2024-10-11T16:20:46.001Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -62,7 +62,7 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
 <div><div>Maid - exists only to perform the function of a maid.
 </div></div>
 <div>Easy</div>
-  <div><a href="/roles/chief_justice">Главный судья</a><a href="/roles/chief_justice"><img src="/roles/chief_justice.png" /></a></div>
+  <div><a href="/roles/chief_justice">Сhief Justice</a><a href="/roles/chief_justice"><img src="/roles/chief_justice.png" /></a></div>
   <div><div>Head of the <a href="/roles#отдел-юстиции">Justice Department</a>. Guarantor of order and fairness in court. A strict leader and an impartial judge rolled into one. Got tangled up with the law? Pray that the Chief Justice is on your side. But remember, even he is not immune to corruption.</div></div>
 	<div>Hard</div>
 </div>
