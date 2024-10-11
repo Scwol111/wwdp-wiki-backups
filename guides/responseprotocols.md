@@ -2,7 +2,7 @@
 title: Протоколы Реагирования
 description: 
 published: true
-date: 2024-09-29T18:18:58.077Z
+date: 2024-10-11T20:09:40.980Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:18:58.077Z
@@ -188,7 +188,7 @@ notice2.ogg" type="audio/mpeg">
 <source src="/guides/responseprotocols/delta.ogg" type="audio/mpeg">
 </audio>
   
-<div class="quote">Неминуемого уничтожение</div>
+<div class="quote">Неминуемое уничтожение</div>
   
 Особый уровень тревоги. Активация механизмов самоуничтожения станции. Назначается <a href="/roles/centralcommand"><b>Центральным Командованием</b></a>.<br>
   
@@ -242,6 +242,8 @@ notice2.ogg" type="audio/mpeg">
 </button>
 <div class="content" style="box-shadow: 0px 0px 4px 0px #800080 inset;">
   
+<div class="quote">ERROR 14</div>
+
 <audio controls>
 <source src="/guides/responseprotocols/epsilon.ogg" type="audio/mpeg">
 </audio>
