@@ -2,7 +2,7 @@
 title: Officer
 description: 
 published: true
-date: 2024-10-11T16:47:28.168Z
+date: 2024-10-11T16:51:50.909Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-11T16:47:28.168Z
@@ -15,25 +15,25 @@ dateCreated: 2024-10-11T16:47:28.168Z
     <div><div><img src="/roles/officer.png"></div></div>
   <div><div>
     <h1>Офицер Службы Безопасности</h1>
-    <p><strong>Сложность:</strong> Средняя</p>
-    <strong>Обязанности:</strong> Следить за порядком.<br>
-    <b>Руководители</b>: <a href="/roles/headofsecurity">Глава Службы Безопасности</a><br>
-    <b>Руководства</b>: <a href="/guides/officership" title="Офицерство">Офицерство</a> • <a href="/spacelaw" title="Космический закон">Космический закон</a> • <a href="/guides/smuggling" title="Контрабанда">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности">Инвентарь службы безопасности</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности">Десятичные коды</a>
+    <p><strong>Difficulty:</strong> Medium</p>
+    <strong>Duties:</strong> To keep order.<br>
+    <b>Supervisors</b>: <a href="/roles/headofsecurity">Head Of Security</a><br>
+   Guides: <a href="/guides/officership" title="Officership">Officership</a> • <a href="/spacelaw" title="Space Law">Space Law</a> • <a href="/guides/smuggling" title="Smuggling">Smuggling</a> • <a href="/guides/securityinventory" title="Security Inventory">Security Inventory</a> • <a href="/roles/securityservicedepartment/tencodes" title="Ten Codes">Ten Codes</a>
   </div></div>
   </div>
 </div>
 </div>
 
-Добро пожаловать в службу безопасности. Скорее всего, вас назначили на эту работу, потому что это была единственная доступная должность, кроме ассистента. И поскольку вы не хотели бы стать бесполезным серым или сомневались в перспективах карьерного роста, вы выбрали Малочисленных, Красных и Презираемых!
+Welcome to Security, chump. Odds are you got assigned here because it was the only job available besides Assistant. And since you didn't want to be a useless greytide or had doubts about the career progression, you chose the Few, the Red, the Despised!
 
-**ВАЖНО: НЕ играйте за сотрудников СБ, если вы новичок в Space Station 14! Вы станете обузой, и над вами просто будут издеваться.**
+**IMPORTANT: Do NOT play Security if you are new to Space Station 14! You WILL be a liability and people WILL make fun of you.**
 
-**Минимальные требования:** Не будьте щиткурити.
+**Minimum Requirements:** Don't be a shitcurity. 
 
 <h2>
   <div class="box">
-    <img src="/roles/sec/helmet.png" alt="каска.png" style="height: 64px"/>
-    <span style="margin-left:0px;">Миротворец</span>
+    <img src="/roles/sec/helmet.png" alt="helmet.png" style="height: 64px"/>
+    <span style="margin-left:0px;">Peacekeeper</span>
   </div>
 </h2>
 
@@ -46,7 +46,7 @@ dateCreated: 2024-10-11T16:47:28.168Z
 <font size="5">
 <center>
 <a href="/roles/sec/thebrig.png" class="up"  style="text-decoration: none;">
-	<strong>Руководство по службе безопасности. Обязательно прочтите его, если вы хотите стать компетентным офицером СБ.</strong>
+	<strong>Security guide. Read it, it's mandatory if you want to be a competent Security Officer.</strong>
 </a>
 </center> 
 </font>
@@ -56,162 +56,161 @@ dateCreated: 2024-10-11T16:47:28.168Z
 
 <div class="imageBox">
   <div>
-Вы - единственный страж между идеалами справедливости и  <a href="/roles/clown" >сумасшедших психопатов</a> которых ваша компания выбрала для продвижения своих интересов в космосе. Однако то, что все остальные безумны, не означает, что вам позволено сходить с ума и избивать всех до потери сознания, пристегивая их к кроватям. У профессионалов есть стандарты.
-Важно помнить, что задачей офицера СБ является **защита ВСЕХ членов экипажа**, даже если они ломают бриг, избивают бармена от скуки, нападают на офицеров и устраивают другие незаконные вещи - вы обязаны сохранять им жизнь. Поэтому **никогда НЕ убивайте, НЕ избивайте своих заключенных**. Вы должны оставаться выше ассистента, который нападает на офицеров, не избивайте его в ответ, наказывайте, руководствуясь <a href="/spacelaw">законом</a>.
+You are the one thing standing between the ideals of justice and the <a href="/roles/clown" >batshit insane clowns</a> your company has chosen to further its interests in space. However, just because everyone else is nuts doesn't give you free reign to go mental, beating everyone unconscious and strapping them to the beds. Professionals have standards.
+It's important to remember that the job of a Security Officer is to **protect ALL crew**, even if they're breaking into the brig, beating the bartender out of boredom, attacking officers and doing other unlawful things - you are obliged to save their lives. Therefore, **never kill, never beat your prisoners.** You should be above an assistant who attacks officers, do not beat him in response, punish him guided by the <a href="/spacelaw">law</a>.
   </div>
   <img alt="Brig" src="/roles/sec/thebrig.png">
 </div>
 
 <h2>
   <div class="box">
-    <img src="/roles/sec/seclite.png" alt="фонарь" style="height: 64px"/>
-    <span style="margin-left:10px;">Как делать свою работу правильно</span>
+    <img src="/roles/sec/seclite.png" alt="flashlight" style="height: 64px"/>
+    <span style="margin-left:10px;">How to do your job properly</span>
   </div>
 </h2>
 
-<p><center>Кратко</center></p>
+<p><center>In short</center></p>
 
-1. Изучайте свое окружение.
-1. Экипируйтесь соответствующим образом.
-1. Узнайте порядок ваших действий при возникновении чрезвычайных ситуаций.
-1. Отправляйтесь на патрулирование и держите глаза и уши открытыми.
-1. Передавайте любые улики <a href="/roles/detective" title="детектив">детективу</a> для проведения криминалистической экспертизы.
-1. Задерживайте [любых преступников](/roles/antagonists), которых вы можете встретить на пути!
-1. Не становитесь щиткурити. Серьезно. Все будут ненавидеть вас и ваших коллег.
-1. ~~Сокрушайте своих врагов. Наблюдайте, как они бегут при одном вашем виде.~~
+1. Learn your surroundings.
+1. Gear up appropriately.
+1. Know your course of action in case of emergencies.
+1. Go on patrol and keep your eyes and ears open.
+1. Forward any evidence to the <a href="/roles/detective" title="Detective">Detective</a> for forensic analysis.
+1. Detain [any criminals](/roles/antagonists) you may come across!
+1. Don't be a shitcurity. Seriously. Everyone will hate you and your colleagues.
+1. ~~Crush your enemies. See them driven before you.~~
 
 <h2>
   <div class="box">
-    <span style="margin-left:10px;">Знай свое место</span>
+    <span style="margin-left:10px;">Know your Place</span>
   </div>
 </h2>
 
-Эта страница создана для того, чтобы превратить вас из озлобленного, обиженного красного ублюдка в полезного и продуктивного члена экипажа станции. Несколько моментов, на которые следует сразу обратить внимание:
--   На станции нет демократии. Вы подчиняетесь <a href="/roles/warden" class="mw-redirect" title="варден">смотрителю</a>, который получает приказы от <a href="/roles/headofsecurity" class="mw-redirect" title="ГСБ">Главы Службы Безопасности</a>, который подчиняется <a href="/roles/captain" class="mw-redirect" title="капитан">капитану</a>, который полностью подконтролен <a href="/roles/centralcommand" class="mw-redirect" title="ЦК">Центральному командованию</a>. Изучите <a href="/guides/hierarchyofcommand" class="mw-redirect" title="Иерархия командования">цепочку командования</a>.
-- Точно так же <a href="/roles/command" title="Командование">главы отделов</a> управляют своими отделами. Ожидается, что вы будете помогать главам в аресте нарушителей на их подведомственных территориях.
-- Фактически вы являетесь полицией. У NanoTrasen есть собственный <a href="/spacelaw" title="Космический закон">свод правил</a>, которым вы должны подчиняться. Подчиняйтесь иерархии и наблюдайте за всеми с абсолютной подозрительностью.
-- Ваша основная задача — обеспечить безопасность экипажа. В этой войне вы неизбежно проиграете, но у офицера нет цели — есть лишь путь.
-- Если дела идут совсем плохо, сделайте все возможное, чтобы сохранить мир на станции и вы станете лучшим офицером.
-- **[Космический закон](/spacelaw) — это набор ориентиров, то есть вы не обязаны ему беспрекословно следовать**. Вы будете считаться лучшим офицером, когда поймете, какие преступления вызывают хаос и следуют наказываться (например, саботаж на рабочем месте), а какие — нет.
-
+This page exists to turn you from a salty, entitled red bastard into a useful and productive member of the station crew. A few points to drill into your thick skull right off the bat: 
+-   The station is not a democracy. You answer to the <a href="/roles/warden" class="mw-redirect" title="Warden">Warden</a>, who answers to the <a href="/roles/headofsecurity" class="mw-redirect" title="Head of Security">Head of Security</a>, who answers to the <a href="/roles/captain" class="mw-redirect" title="Captain">Captain</a>, who answers directly to <a href="/roles/centralcommand" class="mw-redirect" title="Central Command">Central Command</a>. Learn the <a href="/guides/hierarchyofcommand" class="mw-redirect" title="Chain of Command">Chain of Command</a>. 
+- Similarly, <a href="/roles/command" title="Command">Department Heads</a> run their departments. You are expected to assist heads in arresting trespassers on their turf.
+- You are effectively space mall cops. NanoTrasen has its own <a href="/spacelaw" title="Space Law">set of regulations</a> which you are expected to uphold. Obey the chain of command and eye everyone with absolute suspicion.
+- Your primary job is to keep the crew safe. In this war, you will inevitably lose, but an officer has no purpose - only a path.
+- If everything goes to shit, just try your best to keep the station in one piece and you'll be the best officer.
+- **[Space Law](/spacelaw) is a set of guidelines, meaning you are not required to follow it to the letter**. You'll be considered the best officer when you understand what crimes cause chaos and deserve punishment (e.g. sabotaging the workplace) and which ones don't.
 
 <h2>
   <div class="box">
-    <img src="/roles/sec/pen.png" alt="ручка" style="height: 64px"/>
-    <span style="margin-left:0px;">Офис охраны</span>
+    <img src="/roles/sec/pen.png" alt="pen" style="height: 64px"/>
+    <span style="margin-left:0px;">The Security Office</span>
   </div>
 </h2>
 
 <div class="imageBox">
   <div>
-Первым делом после прибытия необходимо найти свободный шкафчик безопасности в комнате офицеров Брига. Если все уже занято, обратитесь <a href="/roles/warden" class="mw-redirect" title="варден">смотрителю</a> за дополнительным снаряжением.
+First things first, when you arrive, find an available security locker in the Security Office within the Brig. If they're all taken, ask the <a href="/roles/warden" class="mw-redirect" title="Warden">Warden</a> for additional gear.
   </div>
 <img src="/roles/sec/sechq.png" />
 </div>
 <h3>
   <div class="box">
     <img src="/roles/sec/securitylocker.png" alt="securitylocker.png" style="height: 64px"/>
-    <span style="margin-left:10px;">Снаряжение</span>
+    <span style="margin-left:10px;">Gear</span>
   </div>
 </h3>
 
-[Посмотрите, какие предметы вы собираетесь использовать и как их использовать.](/guides/securityinventory)
+[See what items you're going to be using and how to use them.](/guides/securityinventory)
 
-[Здесь вы узнаете, как экипироваться, чтобы быть готовыми ко всему.](/guides/officership)
+[Learn how to properly gear yourself to be ready for anything.](/guides/officership)
 
 <h3>
   <div class="box">
     <img src="/roles/sec/recharger.gif" alt="recharger.gif" style="height: 64px"/>
-    <span style="margin-left:px;">Не забывай о подзарядке!</span>
+    <span style="margin-left:px;">Don't forget to recharge!</span>
   </div>
 </h3>
 
-После ареста всегда перезаряжайте свои ["**инструменты**"](/guides/securityinventory). Если у вас перегорела вспышка, возьмите новую в автомате охраны, а старую выкиньте в мусор. Затем возьмите дубинку или дизейблер, вставьте их в зарядник и подождите, пока индикатор сменит зеленый цвет на желтый. 
+Always recharge your ["**toys**"](/guides/securityinventory) after making an arrest. If you run out of flashes, grab a new one from the security vending machine and throw the old one in the trash. Then, take either your stun baton or your disabler, put it in the charger and wait for the light to turn from green to yellow. 
 
-Наличие заряженной электрошоковой дубинки иногда является разницей между жизнью и смертью.
+Having a charged stun baton sometimes makes the difference between life and death.
 
 
 <h2>
   <div class="box">
-    <img src="/roles/sec/donut_box.png" alt="нямням" style="height: 64px"/>
-    <span style="margin-left:10px;">Пончики!</span>
+    <img src="/roles/sec/donut_box.png" alt="nomnom" style="height: 64px"/>
+    <span style="margin-left:10px;">Donuts!</span>
   </div>
 </h2>
 
-Любой хороший сотрудник службы безопасности всегда имеет при себе несколько круглый братюнь. Это восхитительные маленькие лакомства, которые можно получить несколькими способами. Вы можете найти запасы в коробках с пончиками по всей станции, а также использовать свои навыки [взлома](/guides/hackingguide), чтобы извлечь их из торговых автоматах. Если пончиков очень не хватает, вы всегда можете попросить повара сделать вам больше.
+Any good Security Officer always keeps some round boys on them. These are delightful little treats you can get in several ways. You may find a stash in donut boxes across the station, as well as use your [hacking](/guides/hackingguide) skills to extract them from vending machines. If donuts are in very short supply, you can always ask the chef to make you some more.
 
 <h2>
   <div class="box">
-    <img src="/roles/sec/ss14dead_mini_logo.png" alt="ужас" style="height: 64px"/>
-    <span style="margin-left:10px;">Когда все идет наперекосяк</span>
+    <img src="/roles/sec/ss14dead_mini_logo.png" alt="ohno" style="height: 64px"/>
+    <span style="margin-left:10px;">When Everything Goes Wrong</span>
   </div>
 </h2>
 
-Вы наиболее незаменимы, когда наступает хаос. Когда Джо Шмо решает взять закон в свои руки, это обычно происходит с убийственными и произвольными намерениями. Этого нельзя допустить. Если вы выполняете свою работу, этого не должно произойти. Хотя чаще всего вы имеете дело с обычными [предателями](/roles/traitor), иногда у вас на руках может оказаться более серьезное дело. Остерегайтесь таких случаев.
+You're most needed when chaos reigns supreme. When Joe Schmoe decides to take the law into his own hands, it's usually with lethal and indiscriminate intent. This cannot stand. If you're doing your job, this shouldn't even happen. Though more often than not you'll be dealing with the common [traitor](/roles/traitor), sometimes you might have something more severe on your hands. Be wary of such occasions. 
 
 <h3 style="margin:5px;">
   <div class="box">
     <span style="margin-left:10px;">
-      <a href="/roles/traitor">Гнусные предатели в наших вентиляциях</a>
+      <a href="/roles/traitor">Dastardly Traitors in our Vents</a>
     </span>
   </div>
 </h3>
 
-[Предатель](/roles/traitor) - классический антагонист, со стандартным сценарием. На станцию проникли несколько агентов Синдиката под видом экипажа станции с целью саботажа работы станции. Ваша задача, как офицера СБ, остановить их, не дав совершить злого умысла.
-Так как по началу раунда ничего неизвестно, а опознать предателя будет невозможно, пока тот не начнет действовать - вашей главной задачей станет налаживание патрулей, опрос экипажа о происшествиях. Контрразведка - ваш ключ к нахождению предателей.
+The [traitor](/roles/traitor) is the classic antagonist, with a basic objective. A few Syndicate agents have infiltrated the station disguised as crew members, with the intent of sabotaging the station's operations. It is your job as Security to stop them from fulfilling their nefarious purposes.
+Since nothing is known at the beginning of the round, and it will be impossible to identify a traitor until he starts to act, your main task will be to establish patrols and interview the crew about the incidents. Counter-intelligence is your key to finding the traitors.
 
-Также крайне полезно будет ознакомиться с [ассортиментов вооружения Синдиката](/guides/uplink), чтобы понимать, [за что разрешается арестовывать](/guides/smuggling).
+It will also be extremely helpful to familiarize yourself with the [Syndicate arsenal](/guides/uplink) so that you understand [what you are allowed to arrest for](/guides/smuggling).
 
 <h3 style="margin:5px;">
   <div class="box">
     <span style="margin-left:10px;">
-      <a href="/roles/nuclearoperative">Ядерная угроза: Захватчики, возможно, с далекого космоса</a>
+      <a href="/roles/nuclearoperative">Nuclear Threat: Invaders from Beyond, Maybe</a>
     </span>
   </div>
 </h3>
 
-Бывают дни, когда силы Синдиката вторгаются непосредственно на станцию с намерением использовать ядерное устройство для ее полного уничтожения. Любой, кто не является членом экипажа, должен быть жестоко и в достаточной степени нашпигован свинцом и лазером. Сражайтесь плечом к плечу с клоуном и ассистентом. Охраняйте медицинский отдел, он является наиболее важным. Убедитесь, что капитан или тот, кто несет диск, постоянно находится под охраной. Если ситуация полностью выйдет из-под контроля, сделайте все необходимое, чтобы вызвать шаттл и доставить на него диск. Никому не доверяйте, если не видите его лица. Небезосновательно попросите их снять маски и оглушите их, чтобы снять самим, если они откажутся.
+Some days Syndicate forces invade the station directly, with the intent of using a nuclear device to completely obliterate it. Anyone who is not a member of the crew must be brutally and sufficiently riddled with lead and laser fire. Fight shoulder-to-shoulder with the clown and the assistant. Protect Medical, it is the most important area. Make sure that the Captain, or whoever is carrying the disk, is constantly under guard. If the situation completely gets out of control, do everything possible to call a shuttle and deliver the disk to it. Don't trust anyone if you can't see their face.  Unreasonably ask them to remove any masks, and stun them to remove it yourself if they refuse. 
 
 <h3 style="margin:5px;">
   <div class="box">
     <span style="margin-left:10px;">
-      <a href="/roles/patientzero">Ходячие Мертвецы: Сезон 14</a>
+      <a href="/roles/patientzero">The Walking Dead: Season 14</a>
     </span>
   </div>
 </h3>
 
-По станции ходят зеленые человечки и кусают всех подряд! Какой кошмар, это же Зомби!
-Вам требуется в срочном порядке получить оружие дальнего боя, так как сражаться вблизи все равно, что согласиться примкнуть к Зеленой орде. Направляйтесь в бриг, получите оружие и двигайтесь в сторону медицинского отдела. Двигайтесь аккуратно, за каждым углом может находиться зараженный. Помните, что человек, чье лицо не видно, может подписываться как НЕ зомби, но являться им.
+There are green people walking around the station biting everyone! What a nightmare, it's Zombies!
+You need to urgently get a ranged weapon, as fighting in close quarters is like agreeing to join the Green Horde. Head to the brig, get your weapon, and move towards Medical. Move carefully, an infected person can be around every corner. Remember that a person whose face is not visible may sign as NOT a zombie, but be one.
 
-По всем канонам жанра Медицинский отдел является самой главной мишенью все зомби-орды, так как именно там скапливаются все раненные и полумертвые люди. Займитесь его обороной, в такое время терять людей очень опасно
+According to all the canons of the genre, Medical is the main target of every zombie horde, since it is there that all the wounded and half-dead people flock to. Take care of its defense, it is very dangerous to lose people at such a time.
 
 <h2 >
   <div class="box">
-    <img src="/roles/sec/stunbaton.gif" alt="больно" style="height: 64px"/>
-    <span style="margin-left:10px;">Как не проиграть в бою или руководство по аресту</span>
+    <img src="/roles/sec/stunbaton.gif" alt="owie" style="height: 64px"/>
+    <span style="margin-left:10px;">How Not to Lose a Fight, or, Guide to Arresting</span>
   </div>
 </h2>
 
-1.  Не доставайте ваше оружие, если не готовы использовать его в ту же секунду. В игре полно способов выбить оружие из рук, даже простое мыло, кинутое вам под ноги, может все испортить. <br>
-2.  Не носите вещ-мешки. Они замедляют вас и сразу выдают неопытного офицера. Используйте рюкзаки или сумки.<br>
-3. Всегда носите ваши солнцезащитные очки. Иначе любой внимательный ассистент оглушит вас с помощью напечатанной в робототехнике флешкой, а ваши светошумовые гранаты будут приносить больше вреда, чем пользы.<br>
-4. Старайтесь держаться на расстоянии от преступника. Большинство офицеров недостаточно робастны, чтобы перекликать кого-то в ближнем бою. Поэтому усмиритель - ваш способ устранить угрозу.<br>
-5. Не идите в одиночку на захват цели, если она ходит с группой. Даже опытные офицеры могут не справиться, лучше позовите своих коллег на помощь. Если же вам таки пришлось - используйте светошумовые гранаты. Это ваш ключ к спасению.<br>
-6. Против большинства сильных антагонистов вроде оперативников синдиката и прочих будут не эффективны некоторые виды вооружения вроде светошумовых гранат, флешей и некоторых видов летального оружия. А ваша электрошоковая дубинка оглушает абсолютно всех гуманоидов с двух ударов. Подловите момент и оглушите противника, а затем расстреляйте/закуйте в наручники.<br>
-7. [Космо-фауна](/guides/fauna) - это не люди. Не используйте против них нелетальные виды вооружения, они их даже не почувствуют (исключения - электрошоковые дубинки, они замедляют большинство тварей, подойдет для отступления)<br>
+1.  Don't draw your weapon unless you're ready to use it that very second. There are many ways to disarm you in the game; even simple soap thrown at your feet can ruin everything. <br>
+2.  Don't carry duffel bags. They slow you down and immediately mark you as an inexperienced officer. Use backpacks or pouches instead.<br>
+3. Always wear your sunglasses. Otherwise, any attentive Assistant will flash you blind with a flash printed in robotics, and your flashbangs will do more harm than good.<br>
+4. Try to keep your distance from the criminal. Most officers are not robust enough to win a melee fight. That's why the disabler is your way to eliminate the threat.<br>
+5. Don't go alone to apprehend a target if they are with a group. Even experienced officers may not be able to cope; it's better to call your colleagues for help. If you do have to go alone - use flashbangs. This is your key to salvation.<br>
+6. Against most strong antagonists like Syndicate Operatives and others, certain types of weapons will be ineffective, such as flashbangs, flashes, and some types of lethal weapons. But your stun baton stuns absolutely all humanoids in two hits. Seize the moment and stun the enemy, and then shoot/handcuff them.<br>
+7. [Space fauna](/guides/fauna) are not people. Do not use non-lethal weapons against them, they will not even feel them (except for stun batons, which slow down most creatures and are suitable for retreat).<br>
 
 <h2>
   <div class="box">
-    <img src="/roles/sec/light_bulb.png" alt="Светлая мысль" style="height: 64px"/>
-    <span style="margin-left:0px;">Советы</span>
+    <img src="/roles/sec/light_bulb.png" alt="brightidea" style="height: 64px"/>
+    <span style="margin-left:0px;">Tips</span>
   </div>
 </h2>
 
-* Анти-бунт броня дает отличную защиту от атак ближнего боя за счет ухудшенной защиты от пуль и лазеров, а также не позволяет вам упасть при толчке в стену. Абляционная броня — то же самое, но для лазеров. Пуленепробиваемая броня, что логично, защищает от огнестрела.
-* Вы можете перемещать зарядные устройства, откручивая их с помощью гаечного ключа. 
-* Вы будете удивлены, но арест можно производить без задержания. Попробуйте просто попросить проследовать за вами до брига и удивитесь, что многие будут сотрудничать с вами.
-* Броня может спасти вам жизнь, даже базовая офицерская броня.
-* Изучение гильзы позволяет вам приблизительно определить, кто и из чего стрелял. .38 - Детектив. .357 - Предатель. .45 - Ядерный оперативник.
-* При обыске не забывайте, что в ботинках можно проносить контрабанду. Так же излюбленным местом хранения бывают мусорные мешки и библия капеллана.
+* Riot gear provides excellent protection from melee attacks at the cost of reduced bullet and laser protection, and also prevents you from falling when pushed into a wall.  Ablative armor is the same, but for lasers. Bulletproof armor, logically, protects against gunfire.
+* You can move rechargers by unscrewing them with a screwdriver. 
+* You'd be surprised, but you can make an arrest without detaining someone. Try simply asking them to follow you to the brig and you'll be surprised how many people will cooperate with you.
+* Armor can save your life, even basic officer armor.
+* Examining a bullet casing allows you to roughly determine who fired it and from what. .38 - Detective. .357 - Traitor. .45 - Nuclear Operative.
+* When searching, do not forget that contraband can be carried in shoes. Also, favorite storage places are garbage bags and the chaplain's bible.
 
 <div class="table"></div>
