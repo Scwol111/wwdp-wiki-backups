@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-10-11T16:58:42.093Z
+date: 2024-10-11T17:01:00.416Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -377,10 +377,7 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   <div><a href="/roles/baby-slime">Smiley</a><a href="/roles/baby-slime"><img src="/roles/baby-slime.gif" /></a></div>
   <div><div>Do not confuse with ordinary slime. This is a pet of the science department, it doesn't bite.</div></div>
   <div>Easy</div>
-<div><a href="/roles/gnome">Gnome</a><a href="/roles/gnome"><img src="/roles/gnome.png" /></a></div>
-  <div><div>A faithful assistant to the <a href="./roles/botanist">botanist</a>, a good-natured garden gnome. He will defend his rights until he is broken. AND HE DEFINITELY DOESN'T WANT TO HARM ANYONE.</div></div>
-  <div>Gnomish</div>
-  <div><a href="/roles/gondola">Gondola</a><a href="/roles/gondola"><img src="/roles/gondola.png" /></a></div>
-  <div><div>A creature that can be bought in <a href="/ru/guides/uplink">uplink</a>.</div></div>
+  <div><a href="/roles/laika">Laika</a><a href="/roles/laika"><img src="/roles/secdog.gif" /></a></div>
+  <div><div>A dog belonging to the Head of Security. It's a street breed, always ready for a fight. It senses a breach of the law.</div></div>
   <div>Easy</div>
 </div>
