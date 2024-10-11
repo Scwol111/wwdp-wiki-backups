@@ -2,7 +2,7 @@
 title: Главный судья
 description: 
 published: false
-date: 2024-10-11T21:17:04.708Z
+date: 2024-10-11T21:29:15.571Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-11T20:31:34.985Z
@@ -15,7 +15,7 @@ dateCreated: 2024-10-11T20:31:34.985Z
     <div><div><img src="/roles/chief_justice.png"></div></div>
   <div><div>
     <h1>Главный судья</h1>
-    <p><strong>Сложность:</strong> Средняя</p>
+    <p><strong>Сложность:</strong> Сложная</p>
     <strong>Обязанности:</strong> Вынесение приговоров и контроль отдела юстиции.<br>
     <b>Руководители</b>: <a href="/roles/captain" title="Капитан">Капитан</a><br>
     <b>Руководства</b>: <a href="/guides/hierarchyofcommand" title="Иерархия Командования">Иерархия Командования</a> • <a href="/standardoperatingprocedures">Стандартные Процедуры</a> • <a href="/spacelaw">Космический Закон</a> • <a href="/guides/bureaucracy">Бумажная работа</a>
@@ -69,5 +69,33 @@ dateCreated: 2024-10-11T20:31:34.985Z
 
 <i>Учитывая специфику SS14 (раунды ограничены по времени), судебный процесс должен быть максимально кратким, но не в ущерб справедливости.</i>
 </div>
+
+## Ваши подчиненные 
+
+<center>
+  <table class="sb">
+    <thead>
+      <tr>
+        <th>Подчиненный</th>
+        <th>Описание</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><img src="/roles/prosecutor.png"><br><a href="/roles/prosecutor">Прокурор</a></td>
+        <td>
+Следующая ступень после адвоката, собирает доказательства правонарушений, и всегда выступает на стороне обвинения в суде. Чаще всего запрашивает проведения судебных заседаний.</td>
+      </tr>
+      <tr>
+        <td><img src="/roles/lawyer.png"><br><a href="/roles/lawyer">Адвокат</a></td>
+        <td>Защищает права экипажа на станции и представляет своих клиентов в суде. </td>
+      </tr>
+      <tr>
+        <td><img src="/roles/clerk.png"><br><a href="/roles/clerk">Клерк</a></td>
+        <td>Ведёт протокол, приносит <s>кофе</s> и бумагу по первому требованию.</td>
+      </tr>
+    </tbody>
+  </table>
+</center>
 
 <div class="table"></div>
