@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-09-29T09:29:39.964Z
+date: 2024-10-11T16:27:10.549Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -26,14 +26,14 @@ dateCreated: 2024-09-22T08:37:21.006Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Вы охраняете бриг и заключенных. Следите за ними.<br> <center><a href="/guides/officership" title="Офицерство" class="is-internal-link is-valid-page">Офицерство</a> • <a href="/spacelaw" title="Космический закон" class="is-internal-link is-valid-page">Космический закон</a> • <a href="/guides/smuggling" title="Контрабанда" class="is-internal-link is-valid-page">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности" class="is-internal-link is-valid-page">Инвентарь службы безопасности</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности" class="is-internal-link is-valid-page">Десятичные коды</a></center></div>  
 </div>    
-<div class="role">
+<!--<div class="role">
 <div class="rolename"><a href="/roles/veteran" class="custom-link is-internal-link is-valid-page">Ветеран</a></div>
 <div class="roleimg"><img src="/roles/veteran.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава Службы Безопасности/Смотритель</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Обучайте и помогайте новичкам отдела СБ.<br> <center><a href="/spacelaw" title="Космический Закон" class="is-internal-link is-valid-page">Космический Закон</a> • <a href="/guides/smuggling" title="Контрабанда" class="is-internal-link is-valid-page">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности" class="is-internal-link is-valid-page">Инвентарь службы безопасности</a> • <a href="/guides/officership" title="Знать наизусть" class="is-internal-link is-valid-page">Знать наизусть</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности" class="is-internal-link is-valid-page">Десятичные коды</a></center></div>  
-</div>
+</div>-->
 <div class="role">
 <div class="rolename"><a href="/roles/prison-guard" class="custom-link is-internal-link is-valid-page">Тюремный надзиратель</a></div>
 <div class="roleimg"><img src="/roles/prison-guard.png"></div>
