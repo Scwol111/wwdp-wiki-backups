@@ -2,7 +2,7 @@
 title: Космический Закон
 description: Правила нахождения персонала на станции. КЗ, Космический закон.
 published: true
-date: 2024-09-21T20:25:58.014Z
+date: 2024-10-11T20:24:02.075Z
 tags: сб
 editor: markdown
 dateCreated: 2024-09-10T19:07:45.005Z
@@ -12,7 +12,7 @@ dateCreated: 2024-09-10T19:07:45.005Z
 <div class="table-container"><table style="background-color:transparent;border-bottom:5px;border-left:5px;border-right:5px;border-top:5px;">
     <tbody>
       <tr>
-        <td>
+        <td> 
           <img src="https://wiki.ss14.su/guides/security/spacelaw/sign.png" sizes="100vw" width="64">
         </td>
         <td><strong>Космический Закон — это внутриигровой закон, а не актуальные </strong><a href="/rules" class="is-internal-link is-valid-page"><strong>правила сервера</strong></a><strong>. Правила сервера всегда превыше Космического Закона.</strong></td>
