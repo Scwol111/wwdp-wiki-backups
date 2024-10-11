@@ -2,7 +2,7 @@
 title: Psionic Mantis
 description: 
 published: true
-date: 2024-09-22T09:36:41.900Z
+date: 2024-10-11T16:24:59.726Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T09:36:41.900Z
@@ -70,3 +70,4 @@ The Psionic Mantis is the psionic investigator of Epistemics. While they report 
 - Psychics aren’t inherently evil. There are many who never use their powers or can be called upon to help in times of need. Don’t underestimate a trusted friend’s ability to gather information with Telegnosis.
 - Unless on Code White, psionics are protected just like any other sophont. Only mindbreaker people with express permission of Captain, the Head of Security, or Mystagouge.
 
+<div class="table"></div>
