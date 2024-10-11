@@ -2,13 +2,13 @@
 title: Roles
 description: 
 published: true
-date: 2024-10-11T16:58:39.589Z
+date: 2024-10-11T16:58:42.093Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
 ---
 
-**Welcome to the Role Handbook**, which you can find on [Space Station 14](/) by [NanoTrasen](/backstory#nanotrasen)! 
+**Welcome to the Role Handbook**, which you can find on [Space Station 14](/) by [NanoTrasen](/backstory#nanotrasen)!
 
 Don't understand why one person in red arrested you for trying to hack, while another just shot you on the spot?  Or what's the difference between people in white coats?  **This is the place for you!**
 
