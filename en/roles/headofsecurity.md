@@ -2,7 +2,7 @@
 title: Head Of Security
 description: 
 published: true
-date: 2024-10-11T16:14:07.440Z
+date: 2024-10-11T16:26:12.871Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T14:08:42.897Z
@@ -80,10 +80,6 @@ dateCreated: 2024-09-21T14:08:42.897Z
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><img src="/roles/veteran.png"><br><a href="/roles/veteran" class="is-internal-link is-valid-page">Veteran</a></td>
-<td>An old hand in the business of guarding and protecting the station from impending threats. He has a lot of experience, so his job is to help, train and mentor other members of the Brigade. At the start of the shift during the briefing, you can choose a cadet for him to train or give him the opportunity to do it himself. Either way, he must be training someone, that's why he came here.</td>
-</tr>
 <tr>
 <td><img src="/roles/warden.png"><br><a href="/roles/warden" class="is-internal-link is-valid-page">Warden</a></td>
 <td>The Brigade's watchdog. Make sure he keeps all the timers on the prisoner containment cameras under control, maintains the Brigade's operation and does not leave it while prisoners are there. He is next in line for your position if you are replaced, and your senior lieutenant. Treat him like your right hand, as in most situations he will be able to manage the Brigade perfectly on his own.</td>
