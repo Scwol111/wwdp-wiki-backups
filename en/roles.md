@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-10-11T16:20:46.001Z
+date: 2024-10-11T16:22:31.260Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -55,16 +55,13 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
 <div><a href="/roles/quartermaster">Quartermaster</a><a href="/roles/quartermaster"><img src="/roles/quartermaster.png" /></a></div>
 <div><div>Head of the <a href="/roles#отдел-снабжения">supply department</a>. Controls the supply of everything necessary to the station. In the end, he supplies his department with whatever he wants and steals the supply department's shuttle, declaring independence for "Cargoonia". </div></div>
 <div>Average, but with complications</div>
-<div><a href="/roles/inspector">Inspector</a><a href="/roles/inspector"><img src="/roles/inspector.png" /></a></div>
-<div><div>Head of the <a href="/roles#отдел-юстиции">justice department</a>. Monitors the achievement of the station's goals. At any moment, he can show up at your department for an inspection. Be prepared to sign reports and explain why you're sitting in the bar for an officer while the captain is being killed in the next corridor. </div></div>
-<div>Difficult</div>
+  <div><a href="/roles/chief_justice">Сhief Justice</a><a href="/roles/chief_justice"><img src="/roles/chief_justice.png" /></a></div>
+  <div><div>Head of the <a href="/roles#отдел-юстиции">Justice Department</a>. Guarantor of order and fairness in court. A strict leader and an impartial judge rolled into one. Got tangled up with the law? Pray that the Chief Justice is on your side. But remember, even he is not immune to corruption.</div></div>
+	<div>Hard</div>
 <div><a href="/roles/maid">Maid</a><a href="/roles/maid"><img src="/roles/maid.png" /></a></div>
 <div><div>Maid - exists only to perform the function of a maid.
 </div></div>
 <div>Easy</div>
-  <div><a href="/roles/chief_justice">Сhief Justice</a><a href="/roles/chief_justice"><img src="/roles/chief_justice.png" /></a></div>
-  <div><div>Head of the <a href="/roles#отдел-юстиции">Justice Department</a>. Guarantor of order and fairness in court. A strict leader and an impartial judge rolled into one. Got tangled up with the law? Pray that the Chief Justice is on your side. But remember, even he is not immune to corruption.</div></div>
-	<div>Hard</div>
 </div>
  
 <div class="roles-table sb">
