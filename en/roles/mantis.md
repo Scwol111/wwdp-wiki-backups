@@ -2,7 +2,7 @@
 title: Psionic Mantis
 description: 
 published: true
-date: 2024-10-11T16:24:59.726Z
+date: 2024-10-11T16:25:32.369Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T09:36:41.900Z
