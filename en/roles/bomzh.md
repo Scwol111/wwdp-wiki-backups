@@ -2,7 +2,7 @@
 title: Space Bum
 description: 
 published: true
-date: 2024-09-21T14:19:24.701Z
+date: 2024-10-11T15:57:07.138Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T14:13:18.112Z
@@ -119,3 +119,5 @@ It's unlikely that anyone would trust a stranger who is homeless, so the most yo
 <li>A meat hook can be built from just 5 sheets of steel, it will come in handy for butchering monkeys <s>or crew</s>.</li>
 <li>Build yourself a place to sleep and store everything.</li>
 </ul>
+
+<div class="table"></div>
