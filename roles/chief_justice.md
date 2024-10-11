@@ -2,7 +2,7 @@
 title: Главный судья
 description: 
 published: false
-date: 2024-10-11T21:16:34.885Z
+date: 2024-10-11T21:16:48.813Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-11T20:31:34.985Z
@@ -46,6 +46,7 @@ dateCreated: 2024-10-11T20:31:34.985Z
   <img src="/roles/justice/courtroom.png"/>
 </div>
 <p>
+
 <button type="button" class="collapsible">
   <h2>Основные принципы проведения судебного заседания</h2>
 </button>
