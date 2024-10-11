@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-10-11T15:55:24.437Z
+date: 2024-10-11T15:56:01.691Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -125,7 +125,6 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   	<div>Description</div>
   	<div>Difficulty</div>
   </div>
-  <div>Hard</div>
   <div><a href="/roles/mantis">Psionic Mantis</a><a href="/roles/mantis"><img src="/roles/mantis.png" /></a></div>
   <div><div>Unravels mysteries, big and small. From simple slam dunks like "who killed the clown" to questions about the nature of the universe. Responsible for investigating crime scenes for clues. Keeps the psionics in check.</div></div>
   <div>Hard</div>
