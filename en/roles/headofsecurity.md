@@ -2,7 +2,7 @@
 title: Head Of Security
 description: 
 published: true
-date: 2024-09-26T14:28:44.270Z
+date: 2024-10-11T16:14:07.440Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T14:08:42.897Z
@@ -72,7 +72,7 @@ dateCreated: 2024-09-21T14:08:42.897Z
 <h2 id="ваши-подчиненные" class="toc-header"><a class="toc-anchor" href="#ваши-подчиненные">¶</a> <center><img src="/roles/other/hosfur.png" class="png1"><span class="up">Your subordinates</span><img src="/roles/other/hosfur.png" class="png1"></center></h2>
 <p>As the head of the security department, you are responsible for a large number of employees in your team. It's important to stay on top of things and ensure that they are performing their duties correctly. You oversee the following people:</p>
 <center>
-<table class="sb">
+<table class="sb"> 
 <thead>
 <tr>
 <th>Subordinate</th>
