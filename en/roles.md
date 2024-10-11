@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-09-28T21:10:44.132Z
+date: 2024-10-11T15:55:13.217Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -45,13 +45,13 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
 <div>Quite difficult</div>
 <div><a href="/roles/chiefengineer">Chief Engineer</a><a href="/roles/chiefengineer"><img src="/roles/chiefengineer.png" /></a></div>
 <div><div>Manages the <a href="/roles#инженерный-отдел">engineering department</a>. Builds a shuttle to escape in case something happens or to prevent the supply department from gaining independence, or declares independence for engineering. They have cool tools that almost anyone would like to get their hands on. Yells "LET THERE BE LIGHT!" and explodes the <a href="/guides/antimatterengine">DAM</a>. Dies because of the <a href="/roles/atmospherictechnician">atmospheric engineer</a> who unscrewed the high-pressure pipe. </div></div>
-<div>Difficult</div>
+<div>Hard</div>
 <div><a href="/roles/researchdirector">Research Director</a><a href="/roles/researchdirector"><img src="/roles/researchdirector.png" /></a></div>
 <div><div>Leads one of the most important and dangerous departments, namely the <a href="/roles#научный-отдел">science department</a>! Ensures everyone has the latest and greatest. Arms the department with weapons, grenades, mines, protects them with airlocks and anything else that comes to hand, and then brews drugs and dies because the science assistant, for a laugh, brews him in a refrigerator box. </div></div>
 <div>Average, but with complications</div>
 <div><a href="/roles/chiefmedicalofficer">Chief Medical Officer</a><a href="/roles/chiefmedicalofficer"><img src="/roles/chiefmedicalofficer.png" /></a></div>
 <div><div>Leads the <a href="/roles#медицинский-отдел">medical department</a>. Ensures and controls the station's supply of medicines and the saving of your backside. In the end, he brews drugs with the chemists and ends up on a hospital bed due to an overdose. </div></div>
-<div>Difficult</div>
+<div>Hard</div>
 <div><a href="/roles/quartermaster">Quartermaster</a><a href="/roles/quartermaster"><img src="/roles/quartermaster.png" /></a></div>
 <div><div>Head of the <a href="/roles#отдел-снабжения">supply department</a>. Controls the supply of everything necessary to the station. In the end, he supplies his department with whatever he wants and steals the supply department's shuttle, declaring independence for "Cargoonia". </div></div>
 <div>Average, but with complications</div>
@@ -62,6 +62,9 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
 <div><div>Maid - exists only to perform the function of a maid.
 </div></div>
 <div>Easy</div>
+  <div><a href="/roles/chief_justice">Главный судья</a><a href="/roles/chief_justice"><img src="/roles/chief_justice.png" /></a></div>
+  <div><div>Head of the <a href="/roles#отдел-юстиции">Justice Department</a>. Guarantor of order and fairness in court. A strict leader and an impartial judge rolled into one. Got tangled up with the law? Pray that the Chief Justice is on your side. But remember, even he is not immune to corruption.</div></div>
+	<div>Hard</div>
 </div>
  
 <div class="roles-table sb">
@@ -71,9 +74,6 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   	<div>Description</div>
   	<div>Difficulty</div>
   </div>
-  <div><a href="/roles/veteran">Veteran</a><a href="/roles/veteran"><img src="/roles/veteran.png" /></a></div>
-  <div><div>Teaches cadets how to avoid being tied up by a clown. Reminds them that it is NECESSARY TO KEEP THE BATON IN THE BELT DURING PURSUIT. Tries to explain in RP how to shoot a gun and where to read the Space Law. Eventually starts spamming cadets in LOOC, but remains unheard.</div></div>
-  <div>Difficult</div>
   <div><a href="/roles/warden">Warden</a><a href="/roles/warden"><img src="/roles/warden.png" /></a></div>
   <div><div>Dirties the Security Department more than anyone else. Often leaves his post because it's boring, even though he should almost never leave this place. Makes sure you don't leave before you're supposed to. As a result, he falls asleep at the counter.</div></div>
   <div>High</div>
@@ -101,9 +101,6 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
 <div>Description</div>
 <div>Difficulty</div>
 </div>
-<div><a href="/roles/medicalofficer">Medical Officer</a><a href="/roles/medicalofficer"><img src="/roles/medicalofficer.png" /></a></div>
-<div><div>Can brew meth and space drugs in the first 5 minutes of their shift, which they will then proceed to do. During this time, they will closely monitor the chemists to make sure they are only brewing the base, and if they aren't, they will personally fire them, even though they aren't the head. They will then get a dose of Lexorin and only then go to teach the interns.</div></div>
-<div>Hard</div>
 <div><a href="/roles/chemist">Chemist</a><a href="/roles/chemist"><img src="/roles/chemist.png" /></a></div>
 <div><div>Prepares medications for doctors to effectively save your life! Sometimes they brew narcotics for "treatment" purposes, and for some unknown reason, objects around the department began to become sentient.</div></div>
 <div>Medium</div>
@@ -128,8 +125,6 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   	<div>Description</div>
   	<div>Difficulty</div>
   </div>
-  <div><a href="/roles/leadresearcher">Lead Researcher</a><a href="/roles/leadresearcher"><img src="/roles/leadresearcher.png" /></a></div>
-  <div><div>Knows better than the scientific director what technologies need to be researched. Will forget that glasses need to be obtained and will build BIG AND STRONG MECHS. Sometimes they will train newbies, but more often than not, they will say they are busy "borguizing" the quartermaster.</div></div>
   <div>Hard</div>
   <div><a href="/roles/mantis">Psionic Mantis</a><a href="/roles/mantis"><img src="/roles/mantis.png" /></a></div>
   <div><div>Unravels mysteries, big and small. From simple slam dunks like "who killed the clown" to questions about the nature of the universe. Responsible for investigating crime scenes for clues. Keeps the psionics in check.</div></div>
@@ -149,9 +144,6 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   	<div>Description</div>
   	<div>Difficulty</div>
   </div>
-  <div><a href="/roles/brigadier">Brigadier</a><a href="/roles/brigadier"><img src="/roles/brigadier.png" /></a></div>
-  <div><div>Builds a singularity containment zone from scratch with the left hand. With the right - a supermatter cooling system.  In the meantime, he tries to RP explain to the technical assistants how to open the build menu.</div></div>
-  <div>Hard</div>
   <div><a href="/roles/atmospherictechnician">Atmospheric Technician</a><a href="/roles/atmospherictechnician"><img src="/roles/atmospherictechnician.png" /></a></div>
   <div><div>Provides the crew with optimal atmospheric conditions, protects them from all kinds of crap in the air. Often confuses pipes and valves, resulting in the station burning down. Also repeats "Breaking Bad", but cooks frezon. Sometimes does the work of engineers.</div></div>
   <div>Medium, but with difficulties</div>
@@ -191,9 +183,15 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   	<div>Description</div>
   	<div>Complexity</div>
   </div>
+  <div><a href="/roles/prosecutor">Прокурор</a><a href="/roles/prosecutor"><img src="/roles/prosecutor.png" /></a></div>
+  <div><div>The walking embodiment of the law on the station. He decides who is to be judged, what charges to bring, and can even deliver the verdict himself. Paperwork, arguments, and a stern gaze - this is his daily routine. Need a culprit found? The Prosecutor will find him.</div></div>
+  <div>Средне</div>
   <div><a href="/roles/lawyer">Lawyer</a><a href="/roles/lawyer"><img src="/roles/lawyer.png" /></a></div>
   <div><div>Protects your rights if a cadet has committed any unlawful act. A good lawyer can restrict the security forces from inappropriate authority. Unfortunately, it won't help you avoid paying your mortgage or avoid punishment if you destroyed half the station.</div></div>
   <div>Medium</div>
+  <div><a href="/roles/clerk">Clerk</a><a href="/roles/clerk"><img src="/roles/clerk.png" /></a></div>
+  <div><div>This is a man you'll find behind a stack of papers taller than himself. Laws, rules, regulations - he knows them all by heart, and woe betide anyone who tries to find a loophole in them.</div></div>
+  <div>Easy</div>
 </div>
 
 <div class="roles-table serv">
