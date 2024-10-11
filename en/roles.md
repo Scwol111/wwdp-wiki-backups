@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-10-11T15:55:13.217Z
+date: 2024-10-11T15:55:24.437Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -183,7 +183,7 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   	<div>Description</div>
   	<div>Complexity</div>
   </div>
-  <div><a href="/roles/prosecutor">Прокурор</a><a href="/roles/prosecutor"><img src="/roles/prosecutor.png" /></a></div>
+  <div><a href="/roles/prosecutor">Prosecutor</a><a href="/roles/prosecutor"><img src="/roles/prosecutor.png" /></a></div>
   <div><div>The walking embodiment of the law on the station. He decides who is to be judged, what charges to bring, and can even deliver the verdict himself. Paperwork, arguments, and a stern gaze - this is his daily routine. Need a culprit found? The Prosecutor will find him.</div></div>
   <div>Средне</div>
   <div><a href="/roles/lawyer">Lawyer</a><a href="/roles/lawyer"><img src="/roles/lawyer.png" /></a></div>
