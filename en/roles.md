@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-10-11T16:44:16.891Z
+date: 2024-10-11T16:45:24.146Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -77,7 +77,7 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   <div><a href="/roles/brigmedic">Brigmedic</a><a href="/roles/brigmedic"><img src="/roles/brigmedic3.png" /></a></div>
   <div><div>The golden mean between Doctor and Officer, whose main task is to provide assistance to prisoners and members of the security service if necessary.</div></div>
   <div>Medium</div>
-  <div><a href="/roles/prison-guard">Prison Guard</a><a href="/roles/prison-guard"><img src="/roles/prison-guard.png" /></a></div>
+  <div><a href="/roles/prison-guard" style="color: #90caf9!important;">Prison Guard</a><a href="/roles/prison-guard"><img src="/roles/prison-guard.png" /></a></div>
   <div><div>Patrols the brig and prisoner holding areas. Makes sure prisoners don't escape. He will definitely slip on soap and get a hot hand from the permabriggers.</div></div>
   <div>Medium</div>
   <div><a href="/roles/officer">Officer</a><a href="/roles/officer"><img src="/roles/officer.png" /></a></div>
