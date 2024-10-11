@@ -2,7 +2,7 @@
 title: Протоколы Реагирования
 description: 
 published: true
-date: 2024-10-11T20:09:40.980Z
+date: 2024-10-11T20:10:52.386Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:18:58.077Z
@@ -214,6 +214,8 @@ notice2.ogg" type="audio/mpeg">
 </button>
 <div class="content" style="box-shadow: 0px 0px 4px 0px #FF7777 inset;">
   
+<div class="quote">Критическая угроза</div>
+
 <audio controls>
 <source src="/guides/responseprotocols/siren.ogg" type="audio/mpeg">
 </audio>
