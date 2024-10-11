@@ -2,7 +2,7 @@
 title: Экономика
 description: 
 published: true
-date: 2024-09-29T18:18:28.721Z
+date: 2024-10-11T20:18:34.815Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:18:28.721Z
@@ -25,7 +25,7 @@ dateCreated: 2024-09-29T18:18:28.721Z
         </tr>
         <tr>
           <th style="background-color: #171717;">
-            <figure class="image"><img src="/guides/basics/economy/assistant1.png"style="height: 64px;"></figure>
+            <figure class="image"><img src="/roles/assistant.png"style="height: 64px;"></figure>
             <p>Ассистент</p>
           </th>
           <th style="background-color: #212121;">100 кредитов</th>
@@ -33,7 +33,7 @@ dateCreated: 2024-09-29T18:18:28.721Z
         </tr>
         <tr>
           <th style="background-color: #171717;">
-            <figure class="image"><img src="/guides/basics/economy/clown.png"style="height: 64px;"></figure>
+            <figure class="image"><img src="/roles/clown.png"style="height: 64px;"></figure>
             <p>Сотрудник сервисного отдела</p>
           </th>
           <th style="background-color: #212121;">150 кредитов</th>
@@ -41,7 +41,7 @@ dateCreated: 2024-09-29T18:18:28.721Z
         </tr>
         <tr>
           <th style="background-color: #171717;">
-            <figure class="image"><img src="/guides/basics/economy/security_cadet.png"style="height: 64px;"></figure>
+            <figure class="image"><img src="/roles/cadet.png"style="height: 64px;"></figure>
             <p>Мл. Сотрудник отдела</p>
           </th>
           <th style="background-color: #212121;">200 кредитов</th>
@@ -49,7 +49,7 @@ dateCreated: 2024-09-29T18:18:28.721Z
         </tr>
         <tr>
           <th style="background-color: #171717;">
-            <figure class="image"><img src="/guides/basics/economy/security_officer.png"style="height: 64px;"></figure>
+            <figure class="image"><img src="/roles/officer.png"style="height: 64px;"></figure>
             <p>Обычный сотрудник отдела</p>
           </th>
           <th style="background-color: #212121;">300 кредитов</th>
@@ -57,7 +57,7 @@ dateCreated: 2024-09-29T18:18:28.721Z
         </tr>
         <tr>
           <th style="background-color: #171717;">
-            <figure class="image"><img src="/guides/basics/economy/head_of_security1.png"style="height: 64px;"></figure>
+            <figure class="image"><img src="/roles/headofsecurity.png"style="height: 64px;"></figure>
             <p>Глава отдела</p>
           </th>
           <th style="background-color: #212121;">600 кредитов</th>
