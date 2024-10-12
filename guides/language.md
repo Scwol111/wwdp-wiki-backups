@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: true
-date: 2024-10-12T18:49:18.015Z
+date: 2024-10-12T18:49:36.473Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
@@ -47,7 +47,7 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>Общегалактический</td>
         <td>Стандартный галактический язык, часто используемый для межвидового общения и юридической работы.</td>
         <td>
-<a href="/lore#Расы"><img src="/guides/language/races.gif">
+<a href="/lore##Расы"><img src="/guides/language/races.gif">
               <br>Все расы, встречаемые на станции.</a>
         </td>
       <tr>
