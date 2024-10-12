@@ -2,7 +2,7 @@
 title: Протоколы Реагирования
 description: 
 published: true
-date: 2024-10-12T10:38:18.534Z
+date: 2024-10-12T10:39:20.595Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:18:58.077Z
@@ -49,11 +49,11 @@ notice2.ogg" type="audio/mpeg">
 </button>
 <div class="content" style="box-shadow: 0px 0px 4px 0px #6666ff inset;">
   
+<div class="quote">Неизвестная угроза</div>
+
 <audio controls>
 <source src="/guides/responseprotocols/bluealert.ogg" type="audio/mpeg">
 </audio>
-  
-<div class="quote">Неизвестная угроза</div>
   
 Повышенный уровень тревоги. Есть подозрения, что станции грозит опасность. Назначается <a href="/roles/centralcommand">Центральным Командованием</a>, <a href="/roles/captain">капитаном</a> или <a href="/roles/command">главами</a> путем голосования.<br>
   
