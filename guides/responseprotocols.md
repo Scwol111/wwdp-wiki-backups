@@ -2,7 +2,7 @@
 title: Протоколы Реагирования
 description: 
 published: true
-date: 2024-10-12T10:39:20.595Z
+date: 2024-10-12T10:41:06.517Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:18:58.077Z
@@ -16,6 +16,8 @@ dateCreated: 2024-09-29T18:18:58.077Z
   <h2 style="color:green!important;">Зеленый код</h2>
 </button>
 <div class="content" style="box-shadow: 0px 0px 4px 0px green inset;">
+
+<div class="quote">Угроз нет</div>
 
 <audio controls>
 <source src="/guides/responseprotocols/	
@@ -83,13 +85,13 @@ notice2.ogg" type="audio/mpeg">
   <h2 style="color:red!important;">Красный код</h2>
 </button>
 <div class="content" style="box-shadow: 0px 0px 4px 0px red inset;">
-
-<audio controls>
-<source src="/guides/responseprotocols/redalert.ogg" type="audio/mpeg">
-</audio>
   
 <div class="quote">Известная угроза</div>
   
+<audio controls>
+<source src="/guides/responseprotocols/redalert.ogg" type="audio/mpeg">
+</audio>
+
 Максимальный уровень тревоги. Подтверждена угроза станции или ей нанесен значительный урон. Назначается <a href="/roles/centralcommand">Центральным Командованием</a>, <a href="/roles/captain">капитаном</a> или <a href="/roles/command">главами</a> путем голосования.<br>
   
 <p><em><q>Внимание! Уровень угрозы станции теперь красный! На станции присутствует известная угроза. Служба безопасности имеет право применить летальную силу по необходимости. Члены экипажа должны укрыться в безопасном месте, и следовать указаниям, отдаваемые действующей властью.</q></em></p>
@@ -121,12 +123,12 @@ notice2.ogg" type="audio/mpeg">
 </button>
 <div class="content" style="box-shadow: 0px 0px 4px 0px #808000 inset;">
   
+<div class="quote">Структурная или атмосферная угроза</div>
+  
 <audio controls>
 <source src="/guides/responseprotocols/bluealert.ogg" type="audio/mpeg">
 </audio>
-  
-<div class="quote">Структурная или атмосферная угроза</div>
-  
+
 Обычный уровень тревоги. Существует атмосферная или структурная угроза станции. Все отделы работают в штатном режиме.<br>
   
 <p><em><q>Внимание! Уровень угрозы станции теперь желтый! На станции присутствует структурная или атмосферная угроза. Инженерно-техническому персоналу рекомендуется немедленно реагировать и предпринимать меры по обеспечению безопасности. Членам экипажа рекомендуется удалиться от угрозы и при необходимости оставаться на своих рабочих местах.</q></em></p>
@@ -156,12 +158,12 @@ notice2.ogg" type="audio/mpeg">
 </button>
 <div class="content" style="box-shadow: 0px 0px 4px 0px #FF77FF inset;">
   
+<div class="quote">Угроза вируса</div>
+  
 <audio controls>
 <source src="/guides/responseprotocols/bluealert.ogg" type="audio/mpeg">
 </audio>
-  
-<div class="quote">Угроза вируса</div>
-  
+
 Обычный уровень тревоги. На станции присутствует вирусная угроза. Все отделы работают в штатном режиме.<br>
   
 <p><em><q>Внимание! Уровень угрозы станции теперь фиолетовый! На станции присутствует угроза вируса. Медицинскому персоналу рекомендуется изолировать членов экипажа с любыми симптомами. Членам экипажа рекомендуется дистанцироваться друг от друга и соблюдать меры безопасности по предотвращению дальнейшего распространению вируса.</q></em></p>
@@ -208,12 +210,12 @@ notice2.ogg" type="audio/mpeg">
   <h2 style="color:#960000!important;">Код "Дельта"</h2>
 </button>
 <div class="content" style="box-shadow: 0px 0px 4px 0px #960000 inset;">
-  
+
+<div class="quote">Неминуемое уничтожение</div>
+
 <audio controls>
 <source src="/guides/responseprotocols/delta.ogg" type="audio/mpeg">
 </audio>
-  
-<div class="quote">Неминуемое уничтожение</div>
   
 Особый уровень тревоги. Активация механизмов самоуничтожения станции. Назначается <a href="/roles/centralcommand"><b>Центральным Командованием</b></a>.<br>
   
