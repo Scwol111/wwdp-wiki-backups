@@ -2,11 +2,18 @@
 title: Научный Руководитель
 description: 
 published: true
-date: 2024-09-28T01:44:06.057Z
+date: 2024-10-12T10:54:16.845Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
 ---
+
+<center>
+<div class="warning-banner">
+  <h2> Эта статья заглушка</h2>
+  <p>Эта статья была перенесена из другой вики и содержит устаревшую информацию. В ближайшее время мы обновим эту статью.</p><p>
+</div>
+</center>
 
 <div style="display: flex; justify-content: center;">
   <div class="roles-passport comm">
