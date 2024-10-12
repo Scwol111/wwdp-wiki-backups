@@ -2,7 +2,7 @@
 title: Стандартные процедуры
 description: 
 published: true
-date: 2024-10-12T09:44:15.165Z
+date: 2024-10-12T09:45:30.349Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-12T09:44:15.165Z
@@ -14,7 +14,7 @@ dateCreated: 2024-10-12T09:44:15.165Z
   <td><b>СОПы — это внутриигровые процедуры, нарушение которых не наказываются <a href="/administration" class="is-internal-link is-valid-page">администрацией</a>. СОПы постоянно дорабатываются на основе отзывов от игроков.</b></td>
 </tr>
 </tbody></table></div>
-<center><img src="https://js.ss14.su/october_labor_lottery_papers__please_remade_graphic.png" width="94" align="center">        <b>Standard Operating Procedures</b> <i>(далее - СОПы)</i> – список основных должностных обязанностей членов экипажа космических станций NanoTrasen.</center>
+<center><img src="/guides/bureaucracy/bureaucracy/SOP.png" width="94" align="center">        <b>Standard Operating Procedures</b> <i>(далее - СОПы)</i> – список основных должностных обязанностей членов экипажа космических станций NanoTrasen.</center>
 <button type="button" class="collapsible">
   <div><img src="/guides/bureaucracy/bureaucracy/command.png" width="64" align="center"> Командование</div>
 </button>
