@@ -2,7 +2,7 @@
 title: Протоколы Реагирования
 description: 
 published: true
-date: 2024-10-12T10:28:02.046Z
+date: 2024-10-12T10:28:43.618Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:18:58.077Z
@@ -182,7 +182,7 @@ notice2.ogg" type="audio/mpeg">
 <button type="button" class="collapsible">
   <h2>Белый код</h2>
 </button>
-<div class="content" style="box-shadow: 0px 0px 4px 0px #FF77FF inset;">
+<div class="content" style="box-shadow: 0px 0px 4px 0px;">
   
 <audio controls>
 <source src="/guides/responseprotocols/code_white.ogg" type="audio/mpeg">
