@@ -2,7 +2,7 @@
 title: Response Protocols
 description: 
 published: true
-date: 2024-10-13T12:04:16.863Z
+date: 2024-10-13T12:05:09.269Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-13T12:04:16.863Z
@@ -21,7 +21,7 @@ dateCreated: 2024-10-13T12:04:16.863Z
 <audio controls>
 <source src="/guides/responseprotocols/
 notice2.ogg" type="audio/mpeg">
-</audio>
+</audio><p>
 Normal alert level. There is no immediate or apparent threat to the station. All departments are operating normally.<br>
 
 <p><em><q>Attention! The station threat level is now green! It is safe to return to your work stations.</q></em></p>
