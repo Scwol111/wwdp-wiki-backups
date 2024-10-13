@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-10-11T17:01:00.416Z
+date: 2024-10-13T08:54:12.754Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -125,6 +125,9 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   <div><a href="/roles/mantis">Psionic Mantis</a><a href="/roles/mantis"><img src="/roles/mantis.png" /></a></div>
   <div><div>Unravels mysteries, big and small. From simple slam dunks like "who killed the clown" to questions about the nature of the universe. Responsible for investigating crime scenes for clues. Keeps the psionics in check.</div></div>
   <div>Hard</div>
+<div><a href="/roles/roboticist">Roboticist</a><a href="/roles/roboticist"><img src="/roles/roboticist.png" /></a></div>
+<div><div>Seizes power with their army of cyborgs, <a href="https://www.youtube.com/watch?v=C4cfo0f88Ug"> while reminding them who's in charge. </a></div></div>
+<div>Medium</div>
   <div><a href="/roles/scientist">Scientist</a><a href="/roles/scientist"><img src="/roles/scientist.png" /></a></div>
   <div><div>Researches new technologies for the station, builds theories and creates new toys. As a result, they collect a whole arsenal of grenades with different chemistry, and then, in addition, they shoot everyone with an acid water gun.</div></div>
   <div>Medium</div>
