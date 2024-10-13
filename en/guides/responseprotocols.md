@@ -2,7 +2,7 @@
 title: Response Protocols
 description: 
 published: true
-date: 2024-10-13T12:05:09.269Z
+date: 2024-10-13T12:05:51.902Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-13T12:04:16.863Z
@@ -47,7 +47,7 @@ Normal alert level. There is no immediate or apparent threat to the station. All
 <div class="quote">Minor Threat</div>
 <audio controls>
 <source src="/guides/responseprotocols/bluealert.ogg" type="audio/mpeg">
-</audio>
+</audio><p>
 Elevated alert level. There is suspicion that the station is in danger. Declared by <a href="/roles/centralcommand">Central Command</a>, the <a href="/roles/captain">Captain</a>, or <a href="/roles/command">Heads of Staff</a> by vote.<br>
 
 <p><em><q>Attention! The station threat level is now blue! There is a minor threat present on station. Security is permitted to perform random searches. Crew members are advised to comply with orders given by the acting authorities.</q></em></p>
@@ -75,7 +75,7 @@ Elevated alert level. There is suspicion that the station is in danger. Declared
 <div class="quote">Major Threat</div>
 <audio controls>
 <source src="/guides/responseprotocols/redalert.ogg" type="audio/mpeg">
-</audio>
+</audio><p>
 Maximum alert level. A confirmed threat to the station or significant damage has been inflicted. Declared by <a href="/roles/centralcommand">Central Command</a>, the <a href="/roles/captain">Captain</a>, or <a href="/roles/command">Heads of Staff</a> by vote.<br>
 
 <p><em><q>Attention! The station threat level is now red! There is a major threat present on station. Security is authorized to use lethal force as necessary. Crew members are to seek shelter immediately, and comply with orders given by the acting authorities.</q></em></p>
@@ -105,7 +105,7 @@ Maximum alert level. A confirmed threat to the station or significant damage has
 <div class="quote">Structural or Atmospheric Threat</div>
 <audio controls>
 <source src="/guides/responseprotocols/bluealert.ogg" type="audio/mpeg">
-</audio>
+</audio><p>
 Normal alert level. An atmospheric or structural threat to the station exists. All departments are operating normally.<br>
 
 <p><em><q>Attention! The station threat level is now yellow! There is a structural or atmospheric threat to the station. Engineering staff are advised to respond and take safety precautions immediately. Crew members are advised to steer clear of the threat and remain at their workstations if applicable. </q></em></p>
@@ -133,7 +133,7 @@ Normal alert level. An atmospheric or structural threat to the station exists. A
 <div class="quote">Viral Threat</div>
 <audio controls>
 <source src="/guides/responseprotocols/bluealert.ogg" type="audio/mpeg">
-</audio>
+</audio><p>
 <p>Normal alert level. A viral threat is present on the station. All departments are operating normally.<br></p>
 <p><em><q>Attention! The station threat level is now purple! There is a viral threat present on station. Medical staff are advised to quarantine crew members showing any symptoms. Crew members are advised to distance themselves from others and follow safety procedures to prevent further spread.</q></em></p>
 <p><b>Medical Department:</b></p>
@@ -154,7 +154,7 @@ Normal alert level. An atmospheric or structural threat to the station exists. A
 <div class="quote">Dangerous Radiance Levels</div>
 <audio controls>
 <source src="/guides/responseprotocols/code_white.ogg" type="audio/mpeg">
-</audio>
+</audio><p>
 Specific alert level. Radiance levels are incredibly high. Declared by <a href="/roles/centralcommand">Central Command</a>, the <a href="/roles/captain">Captain</a>, or <a href="/roles/command">Heads of Staff</a> by vote.<br>
 
 <p><em><q>Attention! The station threat level is now white! There are dangerously high radiance levels on station. There are multiple active psionic threats, or another significant epistemic emergency. Power down all radiance-emitting devices. Seek psionic shielding. Report psionics for mind disruption.</q></em></p>
@@ -178,7 +178,7 @@ Specific alert level. Radiance levels are incredibly high. Declared by <a href="
 <div class="quote">Imminent Destruction</div>
 <audio controls>
 <source src="/guides/responseprotocols/delta.ogg" type="audio/mpeg">
-</audio>
+</audio><p>
 Special alert level. Activation of the station's self-destruct mechanisms. Declared by <a href="/roles/centralcommand"><b>Central Command</b></a>.<br>
 
 <p><em><q>Attention! The station threat level is now Delta! The station is under threat of imminent destruction. Crew members are advised to listen to department heads for further information.</q></em></p>
@@ -202,7 +202,7 @@ Special alert level. Activation of the station's self-destruct mechanisms. Decla
 <div class="quote">Critical Threat</div>
 <audio controls>
 <source src="/guides/responseprotocols/siren.ogg" type="audio/mpeg">
-</audio>
+</audio><p>
 Special alert level. The station is unable to cope with the threat, the <a href="/roles/emergencyresponseteam">ERT</a> is called in. Declared by <a href="/roles/centralcommand"><b>Central Command</b></a>.<br>
 
 <p><em><q>Central Command has declared a Gamma threat level on the station. Security personnel are to be armed at all times, civilian personnel are to report to their department heads immediately for evacuation instructions.</q></em></p>
@@ -226,7 +226,7 @@ Special alert level. The station is unable to cope with the threat, the <a href=
 <div class="quote">ERROR 14</div>
 <audio controls>
 <source src="/guides/responseprotocols/epsilon.ogg" type="audio/mpeg">
-</audio>
+</audio><p>
 <b>ERROR</b>: Insufficient permissions<br>
 
 <ul>
