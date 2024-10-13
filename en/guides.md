@@ -2,7 +2,7 @@
 title: Guides
 description: 
 published: true
-date: 2024-10-11T17:03:12.361Z
+date: 2024-10-13T11:59:32.385Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-11T18:34:54.507Z
@@ -130,6 +130,8 @@ dateCreated: 2024-09-11T18:34:54.507Z
       <p>A guide to the bureaucracy of the entire station.</p>
       <a href="/guides/stationtasks"><img src="/guides/stationtasks.png" alt="stationtasks.png" />Shift Goals</a>
       <p>A guide to coming up with a good goal for your station.</p>
+<a href="/standardoperatingprocedures"><img src="/guides/sop32.png" alt="sop.png" />Standard Operating Procedures</a>
+  <p> A list of the basic job duties of space station crew members.</p>
     </div>
     <div class="content-table" id="ant">
       <a href="/guides/uplink"><img src="/guides/uplink.png" alt="uplink.png" />Uplink</a>
