@@ -2,7 +2,7 @@
 title: Исследование и Разработка
 description: 
 published: true
-date: 2024-09-29T18:19:43.980Z
+date: 2024-10-13T13:34:41.880Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:43.980Z
@@ -16,8 +16,8 @@ dateCreated: 2024-09-29T18:19:43.980Z
 <h2>Заработок очков</h2>
 
 <p>Исследовательские очки можно получить несколькими способами.</p>
-<p>Наиболее прибыльным заработком очков является <a href="https://js.ss14.su/ru/guides/xenoarcheology">Ксеноархеология</a>, которая представляет собой процесс анализа и активации различных случайно сгенерированных артефактов, которые можно найти с помощью событий, экспедиций, обломков и заказа их в <a href="https://js.ss14.su/ru/guides/listofproducts">Отделе Снабжения</a>. Большинство артефактов имеют много граней(то есть совокупностей Стимулятор-Реакция), поэтому обязательно отсканируйте и активируйте как можно больше из них, прежде чем продавать его в <a href="https://js.ss14.su/ru/guides/listofproducts">Отделе Снабжения</a>.</p>
-<p>Другим очень ценным источником исследовательских очков является <a href="https://js.ss14.su/ru/guides/anomalousresearch">Сдерживание аномалий</a>. Большинство станций оснащены генератором аномалий, излучателями аномальных частиц (М.А.К.А.К.) и сосудами для аномалий, которые используются для появления аномалий, взаимодействия с ними и получения очков от аномалий соответственно. Аномалии могут принимать различные формы, начиная от бушующих шаров раскаленной материи розового цвета и заканчивая электрически разряжающимися пылинками света и радиоактивными гравитационными колодцами, поэтому обязательно надевайте какое-нибудь защитное снаряжение во время их изучения.</p>
+<p>Наиболее прибыльным заработком очков является <a href="/guides/xenoarcheology">Ксеноархеология</a>, которая представляет собой процесс анализа и активации различных случайно сгенерированных артефактов, которые можно найти с помощью событий, экспедиций, обломков и заказа их в <a href="/guides/listofproducts">Отделе Снабжения</a>. Большинство артефактов имеют много граней(то есть совокупностей Стимулятор-Реакция), поэтому обязательно отсканируйте и активируйте как можно больше из них, прежде чем продавать его в <a href="/guides/listofproducts">Отделе Снабжения</a>.</p>
+<p>Другим очень ценным источником исследовательских очков является <a href="/guides/anomalousresearch">Сдерживание аномалий</a>. Большинство станций оснащены генератором аномалий, излучателями аномальных частиц (М.А.К.А.К.) и сосудами для аномалий, которые используются для появления аномалий, взаимодействия с ними и получения очков от аномалий соответственно. Аномалии могут принимать различные формы, начиная от бушующих шаров раскаленной материи розового цвета и заканчивая электрически разряжающимися пылинками света и радиоактивными гравитационными колодцами, поэтому обязательно надевайте какое-нибудь защитное снаряжение во время их изучения.</p>
 <p>Очки также можно получить с помощью исследовательских дисков, которые можно найти в отделе технического обслуживания или достать из космоса.</p>
 
 
@@ -26,7 +26,7 @@ dateCreated: 2024-09-29T18:19:43.980Z
 <p>В исследовательской консоли новые технологии могут быть разблокированы с помощью очков. Чтобы изучить технологию, нажмите на нее, если она находится в столбце "Доступные для исследования технологии". Для открытия более сложных технологий, вам требуется изучить предыдущие технологии связанные с нею. Технологии в разделе "Открытые технологии" уже были исследованы. Каждая ветка имеет свои технологии третьего уровня. На одном сервере можно изучить только одну технологию третьего уровня, то есть, если изучить технологию третьего уровня в ветке РнД, то изучить другие технологии третьего уровня на этом сервере будет нельзя.</p>
 
 <div class=imgBox>
-  <img src="/guides/rnd/rndconsole.png"/>
+  <img src="/guides/science/researchanddevelopment/rndconsole.png"/>
 </div>
 
 <h2>Альтернативное исследование</h2>
@@ -41,7 +41,7 @@ dateCreated: 2024-09-29T18:19:43.980Z
   <div class="table-title">Объект</div>
   <div class="table-title">Описание</div>
   <div class="table-item button">
-    <img src="/guides/rnd/plata_printer.png" class="timage">
+    <img src="/guides/science/researchanddevelopment/plata_printer.png" class="timage">
     Принтер схем
   </div>
   <div class="table-item">
@@ -50,7 +50,7 @@ dateCreated: 2024-09-29T18:19:43.980Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/rnd/autolathe.png" class="timage">
+    <img src="/guides/science/researchanddevelopment/autolathe.png" class="timage">
     Автолат
   </div>
   <div class="table-item">
@@ -59,7 +59,7 @@ dateCreated: 2024-09-29T18:19:43.980Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/rnd/protolathe.png" class="timage">
+    <img src="/guides/science/researchanddevelopment/protolathe.png" class="timage">
     Протолат
   </div>
   <div class="table-item">
@@ -68,7 +68,7 @@ dateCreated: 2024-09-29T18:19:43.980Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/rnd/exofab.png" class="timage">
+    <img src="/guides/science/researchanddevelopment/exofab.png" class="timage">
     Фабрикатор экзоскелетов
   </div>
   <div class="table-item">
@@ -83,7 +83,7 @@ dateCreated: 2024-09-29T18:19:43.980Z
   <div class="table-title">Описание</div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/rnd/anomaly_generator.png" class="q123">
+    <img src="/guides/science/researchanddevelopment/anomaly_generator.png" class="q123">
     Генератор аномалий
   </div>
   <div class="table-item">
@@ -91,7 +91,7 @@ dateCreated: 2024-09-29T18:19:43.980Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/science/rnd/analiser-persik.png">
+    <img src="/guides/science/researchanddevelopment/analiser-persik.png">
     Анализатор артефактов
   </div>
   <div class="table-item">
@@ -99,7 +99,7 @@ dateCreated: 2024-09-29T18:19:43.980Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/guides/science/rnd/anomalybaank_persi.png" style="width: 64px">
+    <img src="/guides/science/researchanddevelopment/anomalybaank_persi.png" style="width: 64px">
     Сосуд аномалии
   </div>
   <div class="table-item">
