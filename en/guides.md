@@ -2,7 +2,7 @@
 title: Guides
 description: 
 published: true
-date: 2024-10-13T12:26:38.623Z
+date: 2024-10-13T15:39:45.592Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-11T18:34:54.507Z
@@ -138,6 +138,8 @@ dateCreated: 2024-09-11T18:34:54.507Z
       <p>A guide that compiles up-to-date information on all items in the uplink.</p>
       <a href="/guides/emag"><img src="/guides/emag.png" alt="emag.png" />EMAG</a>
       <p>A guide that describes all the capabilities of the EMAG.</p>
+<a href="/guides/especiallyvaluableitems"><img src="/guides/goldtoolbox.gif" alt="goldtoolbox.gif" id="toolbox-image">Especially Valuable Items</a>
+  <p>A list of exceptionally valuable items on the station that Syndicate agents often hunt for.</p>
     </div>
   </div>
 </div>
