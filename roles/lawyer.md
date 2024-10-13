@@ -2,7 +2,7 @@
 title: Юрист
 description: 
 published: true
-date: 2024-09-29T17:14:14.362Z
+date: 2024-10-13T09:10:49.189Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:32:46.799Z
@@ -17,7 +17,7 @@ dateCreated: 2024-09-25T17:32:46.799Z
     <h1>Юрист</h1>
     <p><strong>Сложность:</strong> Средняя</p>
     <strong>Обязанности:</strong> Защита прав простых пассажиров от всевозможного произвола службы безопасности.<br>
-    <b>Руководители</b>: <a href="/roles/inspector">Инспектор</a><br>
+    <b>Руководители</b>: <a href="/roles/chief_justice">Главный судья</a><br>
     <b>Руководства</b>: <a href="/guides/jurisprudence">Юриспруденция</a> • <a href="/guides/bureaucracy">Бумажная работа</a> • <a href="/spacelaw">Космический Закон</a>
   </div></div>
   </div>
