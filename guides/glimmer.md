@@ -2,7 +2,7 @@
 title: Мерцание
 description: 
 published: true
-date: 2024-09-27T19:17:28.799Z
+date: 2024-10-13T18:57:54.548Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T17:56:28.384Z
@@ -62,7 +62,7 @@ dateCreated: 2024-09-21T17:56:28.384Z
 - 5 единиц воды
 - 5 единиц эктоплазмы
 
-Затем вы помещаете в Микроволновую печь или на конфорку, пока температура не достигнет 400 градусов. Когда он, наконец, вступит в реакцию, образуется 1 нормальный кристалл и мерцание немного уменьшится.
+Затем вы помещаете в Микроволновую печь или на конфорку, пока температура не достигнет 400 градусов. Когда он, наконец, вступит в реакцию, образуется 1 кристалл нормальности и мерцание немного уменьшится.
 
   <center><div class="info-item-container">
     <img src="/guides/psionics/glimmer_prober_minimal.png" alt="anomaly-locator.png">
@@ -89,7 +89,7 @@ dateCreated: 2024-09-21T17:56:28.384Z
 <ul>
 <li> <img src="/guides/psionics/plasteelstack.png" style="vertical-align: middle;"> 5 пласталь</li>
 <li> <img src="/guides/psionics/lvcables.png" style="vertical-align: middle;"> 5 lv кабель</li>
-<li> <img src="/guides/psionics/bluespacecrystalstack.png" style="vertical-align: middle;">5 кристаллов синего пространства</li>
+<li> <img src="/guides/psionics/bluespacecrystalstack.png" style="vertical-align: middle;">5 блюспейс кристаллов</li>
 </ul>
 
 ## <center>Устранение аварийных ситуаций с мерцанием</center>
