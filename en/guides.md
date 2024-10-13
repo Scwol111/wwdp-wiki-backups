@@ -2,13 +2,13 @@
 title: Guides
 description: 
 published: true
-date: 2024-10-13T12:06:49.057Z
+date: 2024-10-13T12:11:45.176Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-11T18:34:54.507Z
 ---
 
-<div class="maincontainer">
+<div class="maincontainer"> 
   <div class="buttoncontainer">
     <button id="buttonbas"><img src="/guides/no_id.png">Basics</button>
     <button id="buttonsec"><img src="/guides/warden's_icon.png">Security</button> 
