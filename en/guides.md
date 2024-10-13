@@ -2,7 +2,7 @@
 title: Guides
 description: 
 published: true
-date: 2024-10-13T12:11:45.176Z
+date: 2024-10-13T12:26:38.623Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-11T18:34:54.507Z
@@ -94,7 +94,7 @@ dateCreated: 2024-09-11T18:34:54.507Z
       <p>The most dangerous and effective source of research points.</p>
       <a href="/guides/robotics"><img src="/guides/robotics.png" alt="robotics.png" />Robotics</a>
       <p>A guide to the basics of space robotics.</p>
-      <a href="/guides/researchanddevelopment"><img src="https://wiki.ss14.su/images/8/8b/RDComputer.png" alt="robotics.png" />Research and Development</a>
+      <a href="/guides/researchanddevelopment"><img src="/guides/research_console.png" />Research and Development</a>
       <p>Everything you need to know about research and technology.</p>
 <a href="/guides/psionics"><img src="/guides/insulativeskullcap.png" alt="insulativeskullcap.png" />Psionics</a>
   <p>A guide to psionic abilities.</p>
