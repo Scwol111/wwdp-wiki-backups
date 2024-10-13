@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-10-11T12:53:53.864Z
+date: 2024-10-13T08:51:55.723Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -136,6 +136,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/mantis">Мантис</a><a href="/roles/mantis"><img src="/roles/mantis.png" /></a></div>
   <div><div>Разгадывает тайны, большие и маленькие. От простых слэм-данков, таких как "кто убил клоуна", до вопросов природы вселенной. Отвечает за расследование мест преступлений в поисках улик. Держит псиоников в узде.</div></div>
   <div>Сложно</div>
+  <div><a href="/roles/roboticist">Робототехник</a><a href="/roles/roboticist"><img src="/roles/roboticist.png" /></a></div>
+  <div><div>Захватывает власть своей армией киборгов, <a href="https://www.youtube.com/watch?v=C4cfo0f88Ug"> не забывая показывать им, кто в доме хозяин. </a></div></div>
+  <div>Средне</div>
   <div><a href="/roles/scientist">Ученый</a><a href="/roles/scientist"><img src="/roles/scientist.png" /></a></div>
   <div><div>Исследует для станции новые технологии, строит теории и создает новые игрушки. По итогу собирает целый арсенал гранат с разной химией, а затем ещё в добавок стреляет всех из водомёта кислотой.</div></div>
   <div>Средне</div>
