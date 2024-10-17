@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-10-13T08:51:55.723Z
+date: 2024-10-17T17:01:22.322Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -282,7 +282,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/nuclearoperative">Ядерный Оперативник</a><a href="/roles/nuclearoperative"><img src="/roles/nuclearoperative.png" /></a></div>
   <div><div><strike>Криворукие</strike> "Элитные" наёмники синдиката. Варят два часа лекарства, выпивают для храбрости, наедаются как в последний раз, а потом половина умирают от какой-то обезьяны, что бегает с гранатой, а вторая падает от дизейблера.</div></div>
   <div><a href="https://www.youtube.com/watch?v=KMB6jqALLt8">БАБАХ!</a></div>
-  <div><a href="/roles/corticalBorer">Космическая аскарида</a><a href="/roles/corticalBorer"><img src="/roles/borer.png" /></a></div>
+  <div><a href="/roles/corticalBorer">Мозговой червь</a><a href="/roles/corticalBorer"><img src="/roles/borer.png" /></a></div>
   <div><div>Мозговые черви — идеальные паразиты, которые способны проникнуть через ухо к мозгу гуманоида. Черви способны к общению со своей жертвой из-за частичного захвата мозга и центра мыслительных процессов.</div></div>
   <div>Легко</div>
   <div><a href="/roles/thief">Вор</a><a href="/roles/thief"><img src="/roles/thief32x32.png" /></a></div>
