@@ -2,7 +2,7 @@
 title: Nuclear Operative
 description: 
 published: true
-date: 2024-10-17T16:55:25.424Z
+date: 2024-10-17T16:55:53.628Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-17T16:55:25.424Z
@@ -213,5 +213,4 @@ You have the disk, now to get to the fun part. Insert the disk into the device a
 <tr><td>Security and Heads of Staff are aware that Syndicate Operatives are not always comprised of highly skilled assassins, but they are not to be underestimated. They have heavy armor, high-caliber automatic weapons, and excellent medical supplies. In special training sessions, you were told that a containment strategy with planned retreats to fortified positions is recommended.</td></tr>
 </table>
 
-
-
+<div class="table"></div>
