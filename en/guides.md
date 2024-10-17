@@ -2,7 +2,7 @@
 title: Guides
 description: 
 published: true
-date: 2024-10-13T15:39:45.592Z
+date: 2024-10-17T17:09:27.035Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-11T18:34:54.507Z
@@ -32,8 +32,6 @@ dateCreated: 2024-09-11T18:34:54.507Z
       <p>Guide to your finances.</p>
       <a href="/guides/terminology"><img src="/guides/terminology.png" alt="terminology.png" />Terminology</a>
       <p>This guide contains a list of terms used by the community of this game.</p>
-      <a href="/guides/gulag"><img src="/guides/gulag.png" alt="gulag.png" />Gulag</a>
-      <p>A guide to atoning for sins.</p>
       <a href="/guides/armor"><img src="/guides/armor.png" alt="armor.png" />Armor</a>
       <p>This guide will help you understand the different types of armor and suits.</p>
 			<a href="/guides/handmadeweapons"><img src="/guides/arbalet111.png" alt="arbalet111.png" />Homemade Weapons</a>
