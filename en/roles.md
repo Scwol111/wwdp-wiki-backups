@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-10-17T16:56:13.208Z
+date: 2024-10-17T17:01:15.528Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -266,7 +266,7 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
 <div><a href="/roles/nuclearoperative">Nuclear Operative</a><a href="/roles/nuclearoperative"><img src="/roles/nuclearoperative.png" /></a></div>
 <div><div><strike>Clumsy</strike> "Elite" syndicate mercenaries. They brew medicine for two hours, drink for courage, eat like it's their last meal, and then half of them die from a monkey with a grenade, while the other half fall from the disabler.</div></div>
 <div><a href="https://www.youtube.com/watch?v=KMB6jqALLt8">BOOM!</a></div>
-<div><a href="/roles/corticalBorer">Space Parasite</a><a href="/roles/corticalBorer"><img src="/roles/borer.png" /></a></div>
+<div><a href="/roles/corticalBorer">Сortical Borer</a><a href="/roles/corticalBorer"><img src="/roles/borer.png" /></a></div>
 <div><div>Brain worms are the ideal parasites, able to penetrate the human ear and reach the brain. They are capable of communicating with their host due to partial brain seizure and central thinking processes.</div></div>
 <div>Easy</div>
 <div><a href="/roles/thief">Thief</a><a href="/roles/thief"><img src="/roles/thief32x32.png" /></a></div>
