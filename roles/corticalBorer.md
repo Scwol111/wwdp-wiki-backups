@@ -2,7 +2,7 @@
 title: Космическая аскарида
 description: 
 published: true
-date: 2024-10-03T10:01:38.437Z
+date: 2024-10-17T17:01:46.564Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:17:23.000Z
@@ -14,7 +14,7 @@ dateCreated: 2024-09-25T18:17:23.000Z
   <div>
     <div><div><img src="/roles/borer.png" class="shadow"></div></div>
   <div><div>
-    <h1>Космическая аскарида</h1>
+    <h1>Мозговой червь</h1>
     <p><strong>Сложность:</strong> Лёгкая - Сложная</p>
     <strong>Цели:</strong> Размножение.<br>
     <b>Руководители</b>: Отсутствуют<br>
