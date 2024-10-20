@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-10-20T13:14:48.224Z
+date: 2024-10-20T13:16:30.102Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -22,7 +22,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
 -   [Руководство по отыгрышу](/guides/roleplayingguide)
 -   [Иерархия Командования](/guides/hierarchyofcommand)
 -   [Руководства](/guides)
--   [Карты](https://ss14.su/maps)
+-   [Карты](https://wwdp.ee/maps)
 
 ---
  
