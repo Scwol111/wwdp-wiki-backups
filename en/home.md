@@ -2,7 +2,7 @@
 title: Main
 description: 
 published: true
-date: 2024-10-03T11:38:00.465Z
+date: 2024-10-20T11:59:40.200Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:50.659Z
@@ -124,22 +124,14 @@ dateCreated: 2024-09-10T19:07:50.659Z
               <hr>
               <div class="containerextra">
                 <div class="servermenu">
-                  <div>🏳️Medusa</div>
+                  <div>🏳️Medusa RU</div>
                   <div>
-                    <a href="https://google.com" class="is-external-link">Server that doesn't exist yet</a>
-                  </div>
-                </div>
-              <div class="containerextra">
-                <div class="servermenu">
-                  <div>🏳️Wyrm</div>
-                  <div>
-                    <a href="https://google.com" class="is-external-link">Server that doesn't exist yet</a>
+                    <a class="is-external-link"><span id="copy">ss14://188.64.33.86:1212</span></a>
                   </div>
                 </div>
                 <div class="servermenu">
-                  <div>💎Boosty</div>
+                  <div>🏳️Wyrm EN</div>
                   <div>
-                    <a href="https://google.com" class="is-external-link">Boosty page that doesn't exist yet</a>
+                    <a class="is-external-link"><span id="copy">ss14://213.145.86.186:1212</span></a>
                   </div>
                 </div>
-              </div>
