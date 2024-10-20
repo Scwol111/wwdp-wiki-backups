@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница
 published: true
-date: 2024-10-20T11:58:03.123Z
+date: 2024-10-20T11:58:16.548Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -132,12 +132,6 @@ dateCreated: 2024-09-10T19:12:06.984Z
                   <div>🏳️Wyrm EN</div>
                   <div>
                     <a class="is-external-link"><span id="copy">ss14://213.145.86.186:1212</span></a>
-                  </div>
-                </div>
-                <div class="servermenu">
-                  <div>💎Boosty</div>
-                  <div>
-                    <a href="" class="is-external-link">Бусти нету</a>
                   </div>
                 </div>
               </div>
