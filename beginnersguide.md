@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-10-20T13:09:12.574Z
+date: 2024-10-20T13:09:38.652Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:33.269Z
@@ -62,7 +62,7 @@ SS14 это [ролевая игра](/guides/roleplayingguide) по своей 
 
 Подведем итоги, когда вы в игре:
 
-<div class="tbll">
+<div class="tbll" align="center">
 <table style="border: none">
   <tr>
   	<th style="border: none"><font color="#00e600" size="5">Правильно</font>
