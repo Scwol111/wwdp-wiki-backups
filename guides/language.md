@@ -2,18 +2,12 @@
 title: Языки
 description: 
 published: true
-date: 2024-10-12T18:52:34.276Z
+date: 2024-10-21T15:05:41.793Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
 ---
 
-<center>
-<div class="warning-banner">
-  <h2> Эта статья актуальна, но не полностью.  </h2>
-  <p>Вся информация в этой статье актуальна, но, возможно, некоторые детали были упущены.</p><p>
-</div>
-</center>
 
 
 # <center>Языки</center>
