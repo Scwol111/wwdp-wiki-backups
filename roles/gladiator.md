@@ -2,7 +2,7 @@
 title: Гладиатор
 description: Знает много приемов, но не всеми пользуется, зато может обучить других им. Любит сигареты DromedaryCo, потому что они до сих пор спонсируют космическую Олимпиаду (он реально думает, что ему платят за это).
 published: true
-date: 2024-10-22T21:02:47.397Z
+date: 2024-10-22T21:03:35.388Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-22T21:02:18.345Z
@@ -13,11 +13,11 @@ dateCreated: 2024-10-22T21:02:18.345Z
 <div class="roles-passport serv">
   <div class="title serv"><a href="/roles/servicedepartment">Сервисный отдел</a></div>
   <div>
-    <div><div><img src="/roles/martial-artist.png" id="img"></div></div>
+    <div><div><img src="/roles/.png" id="img"></div></div>
   <div><div>
-    <h1>Мастер боевых искусств</h1>
+    <h1>Гладиатор</h1>
     <p><strong>Сложность:</strong> Легкая</p>
-    <strong>Обязанности:</strong> Делать из тряпок машин для избиения младенцев.<br>
+    <strong>Обязанности:</strong> Развлекать экипаж, сражаясь за свою жизнь и, возможно, свободу.<br>
     <b>Руководители</b>: <a href="/roles/headofpersonnel">Глава Персонала</a><br>
     <b>Руководства</b>: Вы его читаете
   </div></div>
