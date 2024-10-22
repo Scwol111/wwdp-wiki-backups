@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-10-17T17:08:34.282Z
+date: 2024-10-22T12:51:44.224Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -21,7 +21,7 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
 -   [Roleplaying Guide](/guides/roleplayingguide)
 -   [Hierarchy of Command](/guides/hierarchyofcommand)
 -   [Guides](/guides)
--   [Maps](https://ss14.su/maps)
+-   [Maps](https://wwdp.ee/maps)
 
 ---
 
