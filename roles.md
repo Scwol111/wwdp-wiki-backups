@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-10-20T13:16:30.102Z
+date: 2024-10-22T20:59:15.293Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -267,7 +267,11 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/martial-artist">Мастер боевых искусств</a><a href="/roles/martial-artist"><img src="/roles/martial-artist.png" /></a></div>
   <div><div>Вызывает охрану на CQC. В итоге забывает основы CQC.</div></div>
   <div>Легко</div>
+    <div><a href="/roles/prisoner">Гладиатор</a><a href="/roles/" class="is-internal-link is-valid-page" ><img src="/roles/.png" /></a></div>
+ <div><div>Это боец, участвующий в организованных боях на арене для развлечения экипажа станции. Гладиаторы обладают высокими боевыми навыками, используя различные виды оружия и тактики, чтобы победить соперников. Их цель — сражаться, выжить и добиться славы, при этом соблюдая правила арены и развлекая зрителей.</div></div>
+  <div>Легко</div>
 </div>
+
 
 <div class="roles-table antag">
   <div class="title antag-title">
