@@ -2,7 +2,7 @@
 title: Научный Руководитель
 description: 
 published: true
-date: 2024-10-12T10:54:16.845Z
+date: 2024-10-23T14:16:45.794Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -22,7 +22,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
       <div><div><img src="/roles/researchdirector.png" id="img"></div></div>
       <div>
         <div id="tb1" style="display:non">
-          <h1>Научный Руководитель</h1>
+          <h1>Мистагог</h1>
         <p><strong>Сложность:</strong> Средняя</p>
         <strong>Обязанности:</strong> Глава исследований и разработки. Следить за работой отдела, а также за выполнением их задач.<br>
         <b>Руководители</b>: <a href="/roles/captain" title="Капитан">Капитан</a><br>
