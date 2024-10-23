@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-10-22T20:59:56.985Z
+date: 2024-10-23T14:17:12.592Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -45,7 +45,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/chiefengineer">Старший Инженер</a><a href="/roles/chiefengineer"><img src="/roles/chiefengineer.png" /></a></div>
   <div><div>Заведует <a href="/roles#инженерный-отдел">отделом инженерии</a>. Строит шаттл, чтобы в случае чего свалить либо помешать получение независимости отделом снабжения, либо объявляет независимости инженерии. Имеет крутые инструменты, которыми не против завладеть почти любой. Кричит "ДА БУДЕТ СВЕТ!" и взрывает <a href="/guides/antimatterengine">ДАМ</a>. Умирает из-за <a href="/roles/atmospherictechnician">атмосферного инженера</a>, который открутил трубу с высоким давлением.</div></div>
 	<div>Сложно</div>
-  <div><a href="/roles/researchdirector">Научный Руководитель</a><a href="/roles/researchdirector"><img src="/roles/researchdirector.png" /></a></div>
+  <div><a href="/roles/researchdirector">Мистагог</a><a href="/roles/researchdirector"><img src="/roles/researchdirector.png" /></a></div>
 	<div><div>Руководит одним из самых важных, а также опасных отделов, а именно <a href="/roles#научный-отдел">отделом науки</a>! Обеспечивает контроль того, чтобы у всех было всё новенькое и продвинутое. Вооружает отдел оружием, гранатами, минами, защищает гермозатворами и всем остальным, что под руку попадётся, а затем варит наркотики и умирает из-за того, что научный ассистент ради шутки заварил его в ящике холодильника.</div></div>
 	<div>Средне, но со сложностями</div>
   <div><a href="/roles/chiefmedicalofficer">Старший Медицинский Офицер</a><a href="/roles/chiefmedicalofficer"><img src="/roles/chiefmedicalofficer.png" /></a></div>
