@@ -2,7 +2,7 @@
 title: Администрация
 description: Стафф, педали, команда проекта.
 published: true
-date: 2024-09-22T17:40:27.728Z
+date: 2024-10-23T15:50:52.046Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:30.491Z
@@ -46,7 +46,7 @@ dateCreated: 2024-09-10T19:07:30.491Z
 только на техническом сервере Ghoul.</li>
 <li><strong>Wikiwriters</strong> - те, кто пишут статьи и гайды для других<br>
 игроков. Имеют расширенный набор кнопок спавна на тестовом сервере.</li>
-<li><strong>Architector, CoderBus</strong> - представитель кодеров, главный кодер или<br>
+<li><strong>Architector, CodeBus</strong> - представитель кодеров, главный кодер или<br>
 сам хост. Обладает абсолютным набором кнопок и занимается<br>
 разработкой игры.</li>
 </ul>
@@ -58,8 +58,8 @@ dateCreated: 2024-09-10T19:07:30.491Z
 <li><font color="cf7ccf"><strong>Lorewriters</strong></font> — Пишут лор, пытаются объяснить, что такое блюспейс.</li>
 <li><strong><font color="22d694">Spriters</font></strong> — Рисуют спрайты, делая игру красивой, иногда получая за это деньги.</li>
 <li><font color="#3b8c5d"><strong>Mapper</strong></font> — Делает новые карты, переделывает старые, чтобы вам не наскучило играть на одной карте "BoxStation".</li>
-<li><font color="ffdba8"><strong>WWDP Contributor</strong></font> — Неофициальный кодер проекта, который предлагает свои ПРы в репозиторий проекта. <br>Хочет получать копеечку с системы баунти.</li>
-<li><font color="#ffba00"><strong>WWDP Maintainers</strong></font> — Кодер проекта, имеет больший доступ в репозиторий проекта, а также кнопки на игровом сервере.</li>
+<!--<li><font color="ffdba8"><strong>WWDP Contributor</strong></font> — Неофициальный кодер проекта, который предлагает свои ПРы в репозиторий проекта. <br>Хочет получать копеечку с системы баунти.</li> -->
+<li><font color="#ffba00"><strong>WWDP Coderbus</strong></font> — Кодер проекта, наполняет игру механиками, имеет кнопки на игровом сервере.</li>
 <li><font color="#0079db"><strong>Pedal</strong></font> — Педаль/администратор русскоязычного сервера Medusa.</li>
 <li><font color="#0f93ff"><strong>Moderators</strong></font> — Модератор дискорд-сервера, следит за соблюдением его правил.</li>
 <li><strong>White Dream Headstaff</strong> — Член главной администрации или глава одного из отделов. Занимается набором людей в свой отдел.<br> Чаще всего имеет приписку Senior к своему отделу, например: <font color="#a715e6"><strong>Senior Wikiwriter</strong></font>.</li>
