@@ -2,7 +2,7 @@
 title: Антагонисты
 description: 
 published: true
-date: 2024-10-20T13:01:40.598Z
+date: 2024-10-26T08:09:57.695Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:40.598Z
@@ -18,7 +18,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/traitor" class="custom-link">Предатель</a></div>
-<div class="roleimg"><img src="/roles/antagonists/traitor.png"></div>
+<div class="roleimg"><img src="/roles/traitor.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Руководство Синдиката</div>
 <div class="roledesclabel">Описание:</div>  
@@ -27,7 +27,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/cultist" class="custom-link">Культист</a></div>
-<div class="roleimg"><img src="/roles/antagonists/cultist.gif"></div>
+<div class="roleimg"><img src="/roles/cultist.gif"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Нар'Си</div>
 <div class="roledesclabel">Описание:</div>  
@@ -45,7 +45,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/corticalBorer" class="custom-link">Космическая аскарида</a></div>
-<div class="roleimg"><img src="/roles/antagonists/borer.png"></div>
+<div class="roleimg"><img src="/roles/borer.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Инстинкт размножения</div>
 <div class="roledesclabel">Описание:</div>  
@@ -54,7 +54,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/revolution" class="custom-link">Революционер</a></div>
-<div class="roleimg"><img src="/roles/antagonists/revolutionman.png"></div>
+<div class="roleimg"><img src="/roles/revolution.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава революции</div>
 <div class="roledesclabel">Описание:</div>  
@@ -63,7 +63,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/patientzero" class="custom-link">Нулевой пациент</a></div>
-<div class="roleimg"><img src="/roles/antagonists/zombie-turnfullhd.png"></div>
+<div class="roleimg"><img src="/roles/patientzero.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Сам себе глава</div>
 <div class="roledesclabel">Описание:</div>  
@@ -72,7 +72,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/spaceninja" class="custom-link">Космический ниндзя</a></div>
-<div class="roleimg"><img src="/roles/antagonists/spaceninja.png"></div>
+<div class="roleimg"><img src="/roles/spaceninja.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Паучий Клан</div>
 <div class="roledesclabel">Описание:</div>  
