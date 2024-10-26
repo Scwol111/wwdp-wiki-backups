@@ -2,7 +2,7 @@
 title: Центральное Командование
 description: 
 published: true
-date: 2024-10-20T13:01:41.200Z
+date: 2024-10-26T08:08:22.019Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:41.200Z
@@ -21,7 +21,7 @@ dateCreated: 2024-10-20T13:01:41.200Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/emergencyresponseteam" class="custom-link">ЕРТ</a></div>
-<div class="roleimg"><img src="/roles/centralcommand/obr-leader.png"></div>
+<div class="roleimg"><img src="/roles/emergencyresponseteam.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Руководство ЦК</div>
 <div class="roledesclabel">Описание:</div>  
@@ -30,7 +30,7 @@ dateCreated: 2024-10-20T13:01:41.200Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/deathsquad" class="custom-link">Эскадрон смерти</a></div>
-<div class="roleimg"><img src="/roles/centralcommand/deadsquad.png"></div>
+<div class="roleimg"><img src="/roles/deathsquad.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Руководство ЦК</div>
 <div class="roledesclabel">Описание:</div>  
