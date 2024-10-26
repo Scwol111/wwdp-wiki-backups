@@ -2,7 +2,7 @@
 title: Синтетики
 description: 
 published: true
-date: 2024-10-26T07:57:04.673Z
+date: 2024-10-26T08:04:31.447Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:41.787Z
@@ -48,7 +48,7 @@ dateCreated: 2024-10-20T13:01:41.787Z
 
 <div class="role">
 <div class="rolename">Мимбот</div>
-<div class="roleimg"><img src="/mimeb1ot.png"></div>
+<div class="roleimg"><img src="/mimebot.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Искусственный Интеллект</div>
 <div class="roledesclabel">Описание:</div>  
@@ -66,7 +66,7 @@ dateCreated: 2024-10-20T13:01:41.787Z
 
 <div class="role">
 <div class="rolename">Чисто бот</div>
-<div class="roleimg"><img src="/roles/synthetics/cleanbot.png"></div>
+<div class="roleimg"><img src="/cleanbot1.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Искусственный Интеллект</div>
 <div class="roledesclabel">Описание:</div>  
