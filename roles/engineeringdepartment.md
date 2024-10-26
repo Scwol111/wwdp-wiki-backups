@@ -2,7 +2,7 @@
 title: Инженерный Отдел
 description: 
 published: true
-date: 2024-10-20T13:01:38.330Z
+date: 2024-10-26T08:20:41.947Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:38.329Z
@@ -15,7 +15,7 @@ dateCreated: 2024-10-20T13:01:38.329Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/chiefengineer" class="custom-link">Старший инженер</a></div>
-<div class="roleimg"><img src="/roles/engineeringdepartment/chiefengineer.png"></div>
+<div class="roleimg"><img src="/roles/chiefengineer.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -24,7 +24,7 @@ dateCreated: 2024-10-20T13:01:38.329Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/brigadier" class="custom-link">Бригадир</a></div>
-<div class="roleimg"><img src="/roles/engineeringdepartment/brigadier.png"></div>
+<div class="roleimg"><img src="/roles/brigadier.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Капитан, Старший инженер</div>
 <div class="roledesclabel">Описание:</div>  
@@ -33,7 +33,7 @@ dateCreated: 2024-10-20T13:01:38.329Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/engineer" class="custom-link">Инженер</a></div>
-<div class="roleimg"><img src="/roles/engineeringdepartment/engineer.png"></div>
+<div class="roleimg"><img src="/roles/engineer.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Капитан, Старший инженер</div>
 <div class="roledesclabel">Описание:</div>  
@@ -42,7 +42,7 @@ dateCreated: 2024-10-20T13:01:38.329Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/atmospherictechnician" class="custom-link">Атмосферный техник</a></div>
-<div class="roleimg"><img src="/roles/engineeringdepartment/atmospherictechnician.png"></div>
+<div class="roleimg"><img src="/roles/atmospherictechnician.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Капитан, Старший инженер</div>
 <div class="roledesclabel">Описание:</div>  
@@ -51,7 +51,7 @@ dateCreated: 2024-10-20T13:01:38.329Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/technicalassistant" class="custom-link">Технический ассистент</a></div>
-<div class="roleimg"><img src="/roles/engineeringdepartment/technicalassistant.png"></div>
+<div class="roleimg"><img src="/roles/technicalassistant.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Капитан, Старший инженер</div>
 <div class="roledesclabel">Описание:</div>  
@@ -128,17 +128,17 @@ dateCreated: 2024-10-20T13:01:38.329Z
 
 Основные источники энергии:
 
-1.  [Двигатель антиматерии](/guides/antimatterengine).
+1.  Двигатель антиматерии.
 2.  Солнечные панели.
 3.  Генераторы.
-4.  [Сингулярность](/guides/singularengine).
+4.  Сингулярность.
 5.  [Суперматерия](/guides/supermatter).
 
 #### Получение электроэнергии
 
 Настройка двигателя, как основного источника энергии, а так же контроль за его состоянием, как и электросетью в целом - чуть ли не самая главная задача инженеров.
 
-Nanotrasen предусмотрели различные способы выработки энергии для своих станций, пригодные на все случаи жизни в суровом космосе. Ими могут быть, например, солнечные панели, [двигатель антиматерии](/guides/antimatterengine), страшная [гравитационная сингулярность](/guides/singularengine), излучающая радиацию. На самые крайние случаи в запасах станции есть генераторы типа "PACMAN", позволяющие вырабатывать энергию, затрачивая при этом листы урана или плазмы.
+Nanotrasen предусмотрели различные способы выработки энергии для своих станций, пригодные на все случаи жизни в суровом космосе. Ими могут быть, например, солнечные панели, [двигатель антиматерии](/guides/supermatter), страшная гравитационная сингулярность], излучающая радиацию. На самые крайние случаи в запасах станции есть генераторы типа "PACMAN", позволяющие вырабатывать энергию, затрачивая при этом листы урана или плазмы.
 
 ### Двигатель антиматерии
 
@@ -149,11 +149,11 @@ Nanotrasen предусмотрели различные способы выра
 
 <div class="tbl">
   
-| Инструмент | Изображение | Использование |
-| --- | --- | --- |
-| Мультитул | ![](/engineer_stuff/multitool.png){.png} | Нужна для размещения части ДАМ. Превращает её в Экранирование ДАМ. |
-| Гаечный ключ | ![](/engineer_stuff/wrench.png){.png} | Нужна для закрепления Контроллера ДАМ. |
-| Т-лучевой сканер | ![](/engineer_stuff/t-ray.png){.png} | Нужен для просмотра проводов под полом. |
+| Инструмент | Использование |
+| --- |--- |
+| Мультитул | Нужна для размещения части ДАМ. Превращает её в Экранирование ДАМ. |
+| Гаечный ключ | Нужна для закрепления Контроллера ДАМ. |
+| Т-лучевой сканер | Нужен для просмотра проводов под полом. |
 </div>
   
 Подробнее о разных видах оборудования и их функциях см. [инженерия](/guides/engineering).
@@ -162,12 +162,12 @@ Nanotrasen предусмотрели различные способы выра
 
 <div class="tbl">
   
-| Материал | Изображение | Наличие |
-| --- | --- | --- |
-| Часть ДАМ | ![](/role/engineeringdepartment/ame_part_box.png){.png} | Обычно есть на месте, но при желании сделать большой реактор потребуется заказать больше. |
-| Топливо для ДАМ | ![](/role/engineeringdepartment/ame_fuel.png){.png} | Обычно есть на месте, иногда придётся заказывать, в силу того, что расходуется двигателем. |
-| Контроллер ДАМ | ![](/role/engineeringdepartment/ame_control.png){.png} | Обычно есть на месте, но есть возможность заказать. |
-| ВВ провода | ![](/role/engineeringdepartment/hv_coil_30.png){.png} | Необязательно. |
+| Материал | Наличие |
+| --- | --- |
+| Часть ДАМ | Обычно есть на месте, но при желании сделать большой реактор потребуется заказать больше. |
+| Топливо для ДАМ | Обычно есть на месте, иногда придётся заказывать, в силу того, что расходуется двигателем. |
+| Контроллер ДАМ |Обычно есть на месте, но есть возможность заказать. |
+| ВВ провода | Необязательно. |
 </div>
 
 ##### Ход работы
