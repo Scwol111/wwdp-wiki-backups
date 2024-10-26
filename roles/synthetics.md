@@ -2,7 +2,7 @@
 title: Синтетики
 description: 
 published: true
-date: 2024-10-26T08:04:48.909Z
+date: 2024-10-26T08:04:59.787Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:41.787Z
@@ -125,12 +125,12 @@ dateCreated: 2024-10-20T13:01:41.787Z
 
 На текущий момент на Космическую Станцию 14 были доставлены Киборги следующих моделей:
 
--   [Стандартный киборг](/roles/cyborg)
--   [Медицинский киборг](/roles/cyborg)
--   [Инженерный киборг](/roles/cyborg)
--   [Охранный киборг](/roles/cyborg)
--	[Шахтерский киборг](/roles/cyborg)
-- [Клоун киборг](/roles/cyborg)
+-   [Стандартный киборг](/roles/cyborgs)
+-   [Медицинский киборг](/roles/cyborgs)
+-   [Инженерный киборг](/roles/cyborgs)
+-   [Охранный киборг](/roles/cyborgs)
+-	[Шахтерский киборг](/roles/cyborgs)
+- [Клоун киборг](/roles/cyborgs)
 
 ## Синдикат киборг
 
