@@ -2,7 +2,7 @@
 title: Синтетики
 description: 
 published: true
-date: 2024-10-20T13:01:41.787Z
+date: 2024-10-26T07:52:23.772Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:41.787Z
@@ -12,7 +12,7 @@ dateCreated: 2024-10-20T13:01:41.787Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/personalai" class="custom-link">пИИ</a></div>
-<div class="roleimg"><img src="/roles/synthetics/pai.gif"></div>
+<div class="roleimg"><img src="/roles/personalai.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Искусственный Интеллект</div>
 <div class="roledesclabel">Описание:</div>  
@@ -21,7 +21,7 @@ dateCreated: 2024-10-20T13:01:41.787Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/cyborg" class="custom-link">Киборг</a></div>
-<div class="roleimg"><img src="/roles/synthetics/cyborgs.gif"></div>
+<div class="roleimg"><img src="/roles/borggiffix.gif"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Искусственный Интеллект</div>
 <div class="roledesclabel">Описание:</div>  
