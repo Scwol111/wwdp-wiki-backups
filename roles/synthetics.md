@@ -2,7 +2,7 @@
 title: Синтетики
 description: 
 published: true
-date: 2024-10-26T08:07:16.405Z
+date: 2024-10-26T08:07:20.324Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:41.787Z
@@ -140,7 +140,7 @@ dateCreated: 2024-10-20T13:01:41.787Z
 <div class="rolescontainer">
 
 <div class="role">
-<div class="rolename" style="background: #610000;"><a href="/roles/cyborg" class="custom-link">Киборг синдиката</a></div>
+<div class="rolename" style="background: #610000;"><a href="/roles/cyborgs" class="custom-link">Киборг синдиката</a></div>
 <div class="roleimg"><img src="/syndieborg1.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Искусственный Интеллект Синдиката</div>
