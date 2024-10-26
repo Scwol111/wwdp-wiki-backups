@@ -2,7 +2,7 @@
 title: Призрачные роли
 description: 
 published: true
-date: 2024-10-26T07:46:35.954Z
+date: 2024-10-26T07:47:58.690Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:42.381Z
@@ -14,7 +14,7 @@ dateCreated: 2024-10-20T13:01:42.381Z
 <div class="rolescontainer">
 <div class="role">
 <div class="rolename"><a href="/roles/ghost" class="custom-link">Призрак</a></div>
-<div class="roleimg"><img src="/ghost.png"></div>
+<div class="roleimg"><img src="/roles/ghost.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Никому</div>
 <div class="roledesclabel">Описание:</div>  
@@ -29,7 +29,7 @@ dateCreated: 2024-10-20T13:01:42.381Z
 <div class="roledesc">Помогайте священнику во всех его начинаниях.</div>  
 </div>
 <div class="role">
-<div class="rolename"><a href="/roles/remilia" class="custom-link">Гамлет</a></div>
+<div class="rolename"><a href="/roles/hamlet" class="custom-link">Гамлет</a></div>
 <div class="roleimg"><img src="/roles/hamlet.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Никому</div>
