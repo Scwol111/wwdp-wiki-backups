@@ -2,7 +2,7 @@
 title: Призрачные роли
 description: 
 published: true
-date: 2024-10-26T07:47:58.690Z
+date: 2024-10-26T07:49:06.264Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:42.381Z
@@ -30,7 +30,7 @@ dateCreated: 2024-10-20T13:01:42.381Z
 </div>
 <div class="role">
 <div class="rolename"><a href="/roles/hamlet" class="custom-link">Гамлет</a></div>
-<div class="roleimg"><img src="/roles/hamlet.png"></div>
+<div class="roleimg"><img src="/roles/hamlet.gif"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Никому</div>
 <div class="roledesclabel">Описание:</div>  
@@ -38,7 +38,7 @@ dateCreated: 2024-10-20T13:01:42.381Z
 </div>
 <div class="role">
 <div class="rolename"><a href="/roles/ghost" class="custom-link">Мышь</a></div>
-<div class="roleimg"><img src="/roles/spiritualisticdepartment/mouse.png"></div>
+<div class="roleimg"><img src="/roles/ratge-asss1.gif"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Никому</div>
 <div class="roledesclabel">Описание:</div>  
