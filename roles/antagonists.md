@@ -2,7 +2,7 @@
 title: Антагонисты
 description: 
 published: true
-date: 2024-10-26T08:09:57.695Z
+date: 2024-10-26T08:11:44.004Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:40.598Z
@@ -81,7 +81,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
  
 <div class="role">
 <div class="rolename"><a href="/roles/pirate" class="custom-link">Пират</a></div>
-<div class="roleimg"><img src="/roles/antagonists/pirate.png"></div>
+<div class="roleimg"><img src="/roles/pirate.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Капитан каперов</div>
 <div class="roledesclabel">Описание:</div>  
@@ -90,7 +90,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/revenant" class="custom-link">Ревенант</a></div>
-<div class="roleimg"><img src="/roles/antagonists/revenant.png"></div>
+<div class="roleimg"><img src="/roles/revenant.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Никто, вы тут главный.</div>
 <div class="roledesclabel">Описание:</div>  
@@ -99,7 +99,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/ratking" class="custom-link">Крысиный король</a></div>
-<div class="roleimg"><img src="/roles/antagonists/regalrat.png"></div>
+<div class="roleimg"><img src="/roles/ratking.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Никто, вы тут босс!</div>
 <div class="roledesclabel">Описание:</div>  
@@ -108,7 +108,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/spacedragon" class="custom-link">Космический дракон</a></div>
-<div class="roleimg"><img src="/roles/antagonists/spacedragon.gif"></div>
+<div class="roleimg"><img src="/roles/spacedragon.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Никто, вы тут главный.</div>
 <div class="roledesclabel">Описание:</div>  
@@ -117,7 +117,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/guardian" class="custom-link">Хранитель</a></div>
-<div class="roleimg"><img src="/roles/antagonists/guardian.png"></div>
+<div class="roleimg"><img src="/roles/guardian.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Носитель-хозяин</div>
 <div class="roledesclabel">Описание:</div>  
@@ -126,7 +126,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/genestealer" class="custom-link">Генокрад</a></div>
-<div class="roleimg"><img src="/roles/antagonists/changeling.gif"></div>
+<div class="roleimg"><img src="/roles/changeling.gif"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Синдикату, вероятнее всего </div>
 <div class="roledesclabel">Описание:</div>  
@@ -146,7 +146,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/terminator" class="custom-link">Терминатор</a></div>
-<div class="roleimg"><img src="/roles/antagonists/terminator.png"></div>
+<div class="roleimg"><img src="/roles/terminator.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Неизвестно</div>
 <div class="roledesclabel">Описание:</div>  
