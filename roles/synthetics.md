@@ -2,7 +2,7 @@
 title: Синтетики
 description: 
 published: true
-date: 2024-10-26T07:52:33.109Z
+date: 2024-10-26T07:57:04.673Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:41.787Z
@@ -39,7 +39,7 @@ dateCreated: 2024-10-20T13:01:41.787Z
 
 <div class="role">
 <div class="rolename">Хонкбот</div>
-<div class="roleimg"><img src="/roles/synthetics/honkbot.png"></div>
+<div class="roleimg"><img src="/honkbot.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Искусственный Интеллект</div>
 <div class="roledesclabel">Описание:</div>  
@@ -48,7 +48,7 @@ dateCreated: 2024-10-20T13:01:41.787Z
 
 <div class="role">
 <div class="rolename">Мимбот</div>
-<div class="roleimg"><img src="/roles/synthetics/mimebot.png"></div>
+<div class="roleimg"><img src="/mimeb1ot.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Искусственный Интеллект</div>
 <div class="roledesclabel">Описание:</div>  
@@ -57,7 +57,7 @@ dateCreated: 2024-10-20T13:01:41.787Z
 
 <div class="role">
 <div class="rolename">Медбот</div>
-<div class="roleimg"><img src="/roles/synthetics/medibot.png"></div>
+<div class="roleimg"><img src="/medibot.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Искусственный Интеллект</div>
 <div class="roledesclabel">Описание:</div>  
