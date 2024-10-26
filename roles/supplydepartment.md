@@ -2,7 +2,7 @@
 title: Отдел Снабжения
 description: 
 published: true
-date: 2024-10-26T08:15:22.795Z
+date: 2024-10-26T08:16:44.340Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:38.874Z
@@ -15,25 +15,17 @@ dateCreated: 2024-10-20T13:01:38.874Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/quartermaster" class="custom-link">Квартирмейстер</a></div>
-<div class="roleimg"><img src="/roles/supplydepartment/quartermaster.png"></div>
+<div class="roleimg"><img src="/roles/quartermaster.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Капитан</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Глава отдела снабжения. Покупает пушки и пиццу в карго на весь бюджет станции.</div>  
 </div>
-  
-<div class="role">
-<div class="rolename"><a href="/roles/hunter" class="custom-link">Охотник</a></div>
-<div class="roleimg"><img src="/roles/supplydepartment/hunter.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Квартирмейстер</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Самый опытный из утилей. Думает, что он лидер любой экспедиции, но на самом деле просто рядовой утилизатор.</div>  
-</div>  
+ 
 
 <div class="role">
 <div class="rolename"><a href="/roles/utilizer" class="custom-link">Утилизатор</a></div>
-<div class="roleimg"><img src="/roles/supplydepartment/utilizer.png"></div>
+<div class="roleimg"><img src="/roles/utilizer.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Квартирмейстер</div>
 <div class="roledesclabel">Описание:</div>  
@@ -42,7 +34,7 @@ dateCreated: 2024-10-20T13:01:38.874Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/loader" class="custom-link">Грузчик</a></div>
-<div class="roleimg"><img src="/roles/supplydepartment/loader.png"></div>
+<div class="roleimg"><img src="/roles/loader.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Квартирмейстер</div>
 <div class="roledesclabel">Описание:</div>  
