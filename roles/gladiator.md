@@ -2,7 +2,7 @@
 title: Гладиатор
 description: Знает много приемов, но не всеми пользуется, зато может обучить других им. 
 published: true
-date: 2024-10-24T14:19:35.220Z
+date: 2024-10-28T16:06:56.709Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-22T21:02:18.345Z
@@ -13,7 +13,7 @@ dateCreated: 2024-10-22T21:02:18.345Z
 <div class="roles-passport serv">
   <div class="title serv"><a href="/roles/servicedepartment">Сервисный отдел</a></div>
   <div>
-    <div><div><img src="/roles/.png" id="img"></div></div>
+    <div><div><img src="/roles/gladiator.png" id="img"></div></div>
   <div><div>
     <h1>Гладиатор</h1>
     <p><strong>Сложность:</strong> Легкая</p>
