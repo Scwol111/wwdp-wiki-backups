@@ -2,7 +2,7 @@
 title: Клонирование
 description: 
 published: false
-date: 2024-10-29T20:20:37.688Z
+date: 2024-10-29T20:25:19.025Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T20:16:00.127Z
@@ -39,6 +39,11 @@ dateCreated: 2024-10-29T20:16:00.127Z
         </td>
       </tr>
       <tr>
+        <td><img src="/guides/medicine/cloning/cloning_idle.png" class="png1"><br>Метапсионическая машина</td>
+        <td><p>Более простая версия капсулы клонирования. Вместо того чтобы создать клон, эта машина создаёт случайное тело и переносит в него сознание пациента. При таком клонировании вы можете стать макакой, гориллой или даже космической креветкой.
+        </td>
+      </tr>
+      <tr>
         <td><img src="/guides/medicine/cloning/biomassreclaimer.png" class="png1"><br>Переработчик биомассы</td>
         <td><p>Преобразует тела любых существ в биомассу. 
         </td>
@@ -48,6 +53,7 @@ dateCreated: 2024-10-29T20:16:00.127Z
 </center>
 </div>
 
+<p>
 <center>
   <div class="maincontainer">
     <button type="button" class="collapsible"><h2>Настройка системы клонирования</h2></button>
