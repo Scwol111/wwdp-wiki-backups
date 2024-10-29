@@ -2,14 +2,25 @@
 title: Клонирование
 description: Клонирование SS14
 published: false
-date: 2024-10-29T21:05:07.353Z
+date: 2024-10-29T21:18:53.123Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T20:16:00.127Z
 ---
 
-# Клонирование
-<p>
+
+<center>
+  <div class="maincontainer">
+    <button type="button" class="collapsible"><h2>Клонирование</h2></button>
+    <div class="content">
+ <ul>
+<li>Поместите тело в <img src="/guides/medicine/cloning/medicalscanner.png" class="png1" style="vertical-align: middle">.</li>
+ <ul><li><img src="/guides/medicine/cloning/screenshot_9.png"></li> </ul>
+<li>Поместите тело в <img src="/guides/medicine/cloning/medicalscanner.png" class="png1" style="vertical-align: middle">.</li>
+ <ul><li><img src="/guides/medicine/cloning/screenshot_9.png"></li> </ul>
+ </ul>
+    </div>
+
 
 ## Приборы
 
@@ -35,12 +46,12 @@ dateCreated: 2024-10-29T20:16:00.127Z
       </tr>
       <tr>
         <td><img src="/guides/medicine/cloning/cloningpod.png" class="png1"><br>Капсула клонирования</td>
-        <td><p>Здесь происходит процесс синтеза и роста нового тела. Для своей работы использует биомассу.
+        <td><p>Здесь происходит процесс синтеза и роста нового тела. При клонировании тело получает 100 генетического урона. Для своей работы использует биомассу.
         </td>
       </tr>
       <tr>
         <td><img src="/guides/medicine/cloning/cloning_idle.png" class="png1"><br>Метапсионическая машина</td>
-        <td><p>Более простая версия капсулы клонирования. Вместо того, чтобы создать клон, эта машина создаёт случайное тело и переносит в него сознание пациента. При таком клонировании вы можете стать макакой, гориллой или даже космической креветкой. Для своей работы использует биомассу.
+        <td><p>Более простая версия капсулы клонирования. Вместо того, чтобы создать клон, эта машина создаёт случайное тело и переносит в него сознание пациента. При таком клонировании вы можете стать макакой, гориллой или даже космической креветкой. При клонировании тело получает 100 генетического урона. Для своей работы использует биомассу.
         </td>
       </tr>
       <tr>
