@@ -2,7 +2,7 @@
 title: Клонирование
 description: 
 published: false
-date: 2024-10-29T20:25:57.397Z
+date: 2024-10-29T20:31:10.058Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T20:16:00.127Z
@@ -61,10 +61,10 @@ dateCreated: 2024-10-29T20:16:00.127Z
       <p>Для настройки вам потребуется <img src="/guides/medicine/cloning/multitool.png" style="vertical-align: middle"> мультитул или <img src="/guides/medicine/cloning/network_configurator.gif" style="vertical-align: middle"> конфигуратор сетей.</p>
       <ul>
         <li><img src="/guides/medicine/cloning/medicalscanner.png" class="png1" style="vertical-align: middle"> Медицинский сканер соедините с <img src="/guides/medicine/cloning/computer_dna.gif" class="png1" style="vertical-align: middle"> консолью клонирования.</li>
-<ul><li>пикча</li>
+<ul><li><img src="/guides/medicine/cloning/screenshot_6.png" style="vertical-align: middle"></li>
 </ul>
         <li><img src="/guides/medicine/cloning/cloningpod.png" class="png1" style="vertical-align: middle"> Капсулу клонирования соедините с <img src="/guides/medicine/cloning/computer_dna.gif" class="png1" style="vertical-align: middle"> консолью клонирования.</li>
-<ul><li>пикча</li>
+<ul><li><img src="/guides/medicine/cloning/screenshot_7.png" style="vertical-align: middle"></li>
 </ul>
       </ul>
     </div>
