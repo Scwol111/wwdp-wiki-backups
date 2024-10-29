@@ -2,7 +2,7 @@
 title: Клонирование
 description: 
 published: false
-date: 2024-10-29T20:19:43.997Z
+date: 2024-10-29T20:20:18.470Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T20:16:00.127Z
@@ -48,11 +48,11 @@ dateCreated: 2024-10-29T20:16:00.127Z
 </center>
 </div>
 
-<center>
+
   <div class="maincontainer">
     <button type="button" class="collapsible"><h2>Настройка системы клонирования</h2></button>
     <div class="content">
-      <p>Для настройки вам потребуется <img src="/guides/medicine/cloning/multitool.png" style="vertical-align: middle"> мультитул или <img src="/guides/medicine/cloning/network_configurator.gif" style="vertical-align: middle"> конфигуратор сетей.</p>
+      <center><p>Для настройки вам потребуется <img src="/guides/medicine/cloning/multitool.png" style="vertical-align: middle"> мультитул или <img src="/guides/medicine/cloning/network_configurator.gif" style="vertical-align: middle"> конфигуратор сетей.</p>
       <ul>
         <li><img src="/guides/medicine/cloning/medicalscanner.png" class="png1" style="vertical-align: middle"> Медицинский сканер соедините с <img src="/guides/medicine/cloning/computer_dna.gif" class="png1" style="vertical-align: middle"> консолью клонирования.</li>
 <ul><li>пикча</li>
@@ -60,6 +60,5 @@ dateCreated: 2024-10-29T20:16:00.127Z
         <li><img src="/guides/medicine/cloning/cloningpod.png" class="png1" style="vertical-align: middle"> Капсулу клонирования соедините с <img src="/guides/medicine/cloning/computer_dna.gif" class="png1" style="vertical-align: middle"> консолью клонирования.</li>
 <ul><li>пикча</li>
 </ul>
-      </ul>
+      </ul></center>
     </div>
-</center>
