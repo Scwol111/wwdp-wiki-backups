@@ -2,7 +2,7 @@
 title: Клонирование
 description: 
 published: false
-date: 2024-10-29T20:57:52.918Z
+date: 2024-10-29T21:04:50.355Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T20:16:00.127Z
@@ -54,6 +54,7 @@ dateCreated: 2024-10-29T20:16:00.127Z
 </div>
 
 <p>
+
 <center>
   <div class="maincontainer">
     <button type="button" class="collapsible"><h2>Настройка системы клонирования</h2></button>
