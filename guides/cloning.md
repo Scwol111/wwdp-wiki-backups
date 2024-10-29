@@ -2,7 +2,7 @@
 title: Клонирование
 description: Клонирование SS14
 published: false
-date: 2024-10-29T21:24:30.477Z
+date: 2024-10-29T21:25:15.333Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T20:16:00.127Z
@@ -18,7 +18,7 @@ dateCreated: 2024-10-29T20:16:00.127Z
  <ul><li><img src="/guides/medicine/cloning/screenshot_9.png"></li> </ul>
 <li>Используйте <img src="/guides/medicine/cloning/computer_dna.gif" class="png1" style="vertical-align: middle"> и нажмите кнопку "клонировать".</li>
  <ul><li><img src="/guides/medicine/cloning/screenshot_10.png"></li> </ul>
-<li>Если всё пройдёт успешно, вы станете обладателем живого клона. Однако для лечения генетических повреждений вам потребуется Доксарубиксадон или другое средство для лечение генетического урона. </li>
+<li>Если всё пройдёт успешно, вы станете обладателем живого клона. Однако, для лечения генетических повреждений вам потребуется Доксарубиксадон или другое средство для лечение генетического урона. </li>
  </ul>
     </div>
 
