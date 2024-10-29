@@ -1,8 +1,8 @@
 ---
 title: Клонирование
 description: Клонирование SS14
-published: false
-date: 2024-10-29T21:32:06.718Z
+published: true
+date: 2024-10-29T21:33:55.044Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T20:16:00.127Z
