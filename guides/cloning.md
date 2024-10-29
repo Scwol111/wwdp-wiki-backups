@@ -2,7 +2,7 @@
 title: Клонирование
 description: 
 published: false
-date: 2024-10-29T20:16:00.127Z
+date: 2024-10-29T20:19:43.997Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T20:16:00.127Z
@@ -52,15 +52,14 @@ dateCreated: 2024-10-29T20:16:00.127Z
   <div class="maincontainer">
     <button type="button" class="collapsible"><h2>Настройка системы клонирования</h2></button>
     <div class="content">
-      <p>Для настройки вам потребуется <img src="/guides/medicine/cloning/multitool.png"> мультитул или <img src="/guides/medicine/cloning/network_configurator.gif"> конфигуратор сетей.</p>
-      <p>К примеру:</p>
+      <p>Для настройки вам потребуется <img src="/guides/medicine/cloning/multitool.png" style="vertical-align: middle"> мультитул или <img src="/guides/medicine/cloning/network_configurator.gif" style="vertical-align: middle"> конфигуратор сетей.</p>
       <ul>
-        <li>Клик по предмету, что бы взять его в свои руки.</li>
-        <li>Клик по дозатору со стаканом в руке вставит в него стакан.</li>
-        <li>Клик по торговому автомату гаечным ключём отключит торговый автомат.</li>
-        <li>Клик по себе держа в руке еду, заставит вас съесть её. Если кликнуть по другим людям, то заставит съесть их вашу еду в руке.</li>
-        <li>Клик с включённым боевым режимом по другому предмету/сущности атакует её.</li>
+        <li><img src="/guides/medicine/cloning/medicalscanner.png" class="png1" style="vertical-align: middle"> Медицинский сканер соедините с <img src="/guides/medicine/cloning/computer_dna.gif" class="png1" style="vertical-align: middle"> консолью клонирования.</li>
+<ul><li>пикча</li>
+</ul>
+        <li><img src="/guides/medicine/cloning/cloningpod.png" class="png1" style="vertical-align: middle"> Капсулу клонирования соедините с <img src="/guides/medicine/cloning/computer_dna.gif" class="png1" style="vertical-align: middle"> консолью клонирования.</li>
+<ul><li>пикча</li>
+</ul>
       </ul>
-      <p>Если никакого другого взаимодействия не происходит, клик <kbd>ЛКМ</kbd> попытается "активировать" объект.</p>
     </div>
 </center>
