@@ -2,7 +2,7 @@
 title: Клонирование
 description: Клонирование SS14
 published: true
-date: 2024-10-29T21:33:55.044Z
+date: 2024-10-29T21:35:00.473Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T20:16:00.127Z
@@ -11,7 +11,7 @@ dateCreated: 2024-10-29T20:16:00.127Z
 
 <center>
   <div class="maincontainer">
-    <button type="button" class="collapsible"><h2>Клонирование</h2></button>
+    <button type="button" class="collapsible"><h2>Клонирование SS14</h2></button>
     <div class="content">
  <ul>
 <li>Поместите тело в <img src="/guides/medicine/cloning/medicalscanner.png" class="png1" style="vertical-align: middle">.</li>
