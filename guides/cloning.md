@@ -2,7 +2,7 @@
 title: Клонирование
 description: 
 published: false
-date: 2024-10-29T20:50:41.439Z
+date: 2024-10-29T20:55:22.926Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-29T20:16:00.127Z
@@ -89,8 +89,8 @@ dateCreated: 2024-10-29T20:16:00.127Z
         </td>
       </tr>
       <tr>
-        <td><img src="/guides/medicine/cloning/computer_dna.gif" class="png1"><br>Консоль клонирования</td>
-        <td><p>Здесь осуществляется настройка и управление системой клонирования. 
+        <td><img src="/guides/medicine/cloning/screenshot_8.png" class="png1"><br>Помещение с отрицательной температурой</td>
+        <td><p>Чтобы сохранить тело, достаточно заморозить его, например, в комнате с отрицательной температурой. 
         </td>
       </tr>
       <tr>
