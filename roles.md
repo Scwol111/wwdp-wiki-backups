@@ -2,12 +2,11 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-10-28T16:07:27.814Z
+date: 2024-10-30T18:04:21.665Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
 ---
-
 
 
 **Приветствуем в Справочнике Ролей**, которые вы можете встретить на Космической Станции 14 корпорации [NanoTrasen](/backstory#nanotrasen)!   
