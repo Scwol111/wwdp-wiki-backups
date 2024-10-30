@@ -2,7 +2,7 @@
 title: Аплинк
 description: 
 published: false
-date: 2024-10-11T21:38:01.546Z
+date: 2024-10-30T12:51:17.141Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -1364,12 +1364,12 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/antagonists/uplink/implanter.png">
-        <p><a href="/guides/mindslaves" class="is-internal-link is-valid-page">Имплант подчинения</a></p>
+        <img src="/master.png">
+        <p><a href="/guides/implants/mindslaves" class="is-internal-link is-valid-page">Имплант подчинения</a></p>
       </td>
       <td>6 ТК</td>
       <td>
-        <p>Создает шприц в руке игрока. При вводе в другого человека, он становится вашим рабом. Подробнее <a href="/guides/mindslaves" class="is-internal-link is-valid-page">Имплант подчинения.</a></p>
+        <p>Создает шприц в руке игрока. При вводе в другого человека, он становится вашим рабом. Подробнее <a href="/guides/implants/mindslaves" class="is-internal-link is-valid-page">Имплант подчинения.</a></p>
         <p>Вводится за 3 секунды.</p>
       </td>
     </tr>
