@@ -2,7 +2,7 @@
 title: Фауна
 description: 
 published: true
-date: 2024-10-30T07:28:23.832Z
+date: 2024-10-30T07:29:53.438Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T02:37:43.786Z
@@ -376,8 +376,8 @@ dateCreated: 2024-09-28T02:37:43.786Z
           <img src="/guides/fauna/ferret.png">
         </td>
         <td>Бандито</td>
-        <td>Опасный хорёк, живущий в РнД. Заменяет Научного Руководителя в его отсутствие.</td>
-        <td>Кабинет Научного Руководителя</td>
+        <td>Опасный хорёк, живущий в пермабриге. </td>
+        <td>Пермабриг</td>
       </tr>
       <tr>
         <td>
