@@ -2,7 +2,7 @@
 title: Фауна
 description: 
 published: true
-date: 2024-10-30T07:46:30.987Z
+date: 2024-10-30T07:49:50.194Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T02:37:43.786Z
@@ -143,6 +143,14 @@ dateCreated: 2024-09-28T02:37:43.786Z
         <td><img src="/guides/fauna/kengaroo.png" alt="kengaroo.png"></td>
         <td>Кенгуру</td>
         <td>Раньше заселял Африку. Сейчас является просто экспонатом в зоопарке. Отличный боксер.</td>
+        <td>Карго</td>
+      </tr>
+      <tr>
+        <td>
+          <img src="/guides/fauna/slepa.png">
+        </td>
+        <td>Каракаловая кошка</td>
+        <td>Забавное создание природы.</td>
         <td>Карго</td>
       </tr>
       <tr>
