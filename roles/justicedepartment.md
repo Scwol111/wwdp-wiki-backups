@@ -2,7 +2,7 @@
 title: Отдел Юстиции
 description: 
 published: true
-date: 2024-10-26T08:13:59.167Z
+date: 2024-10-30T13:56:54.178Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:39.415Z
@@ -14,21 +14,39 @@ dateCreated: 2024-10-20T13:01:39.415Z
 <div class="rolescontainer">
 
 <div class="role">
-<div class="rolename"><a href="/roles/inspector">Инспектор</a></div>
-<div class="roleimg"><img src="/roles/inspector.png"></div>
+<div class="rolename"><a href="/roles/chief_justice">Главный судья</a></div>
+<div class="roleimg"><img src="/roles/chief_justice.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Капитан</div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Главный душнила на станции. Единственное, что его ограничинает - правила о необязательности СОПов.</div>  
+<div class="roledesc">Гарант порядка и справедливости в суде. Строгий начальник и беспристрастный судья в одном лице.</div>  
 </div>
   
 <div class="role">
 <div class="rolename"><a href="/roles/lawyer">Юрист</a></div>
 <div class="roleimg"><img src="/roles/lawyer.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Инспектор</div>
+<div class="rolehead">Главный судья</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Душнила, но поменьше. Его уже можно дождаться, если вы вызвали юриста для оправдания своих деяний.</div>  
+</div>   
+
+<div class="role">
+<div class="rolename"><a href="/roles/prosecutor">Прокурор</a></div>
+<div class="roleimg"><img src="/roles/prosecutor.png"></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Главный судья</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Ходячее воплощение закона на станции. Он решает, кого судить, какие обвинения предъявить и сам может вершить правосудие. Вам нужен виновный? Прокурор его найдет.</div>  
+</div>   
+
+<div class="role">
+<div class="rolename"><a href="/roles/clerk">Клерк</a></div>
+<div class="roleimg"><img src="/roles/clerk.png"></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Главный судья</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Этого человека вы найдете за стопкой бумаг выше, чем он сам.</div>  
 </div>   
   
 </div>
@@ -38,9 +56,9 @@ dateCreated: 2024-10-20T13:01:39.415Z
 <center>
 <div class="textcontainer">
 
-## Инспектор
+## Главный судья
 
-Ваша задача - следить за выполнением целей станции, но, иногда, можно и поугрожать увольнением за нарушение КЗ. Вы имеете свою свиту, состоящую из таких же, как вы людей, а точнее - <a href="/roles/lawyer">юристов</a>.
+<a href="/roles/lawyer">юристов</a>.
   
 ### Важно!
   
