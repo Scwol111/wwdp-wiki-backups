@@ -2,7 +2,7 @@
 title: Медицина
 description: 
 published: true
-date: 2024-09-29T18:19:43.196Z
+date: 2024-10-30T07:17:15.044Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:43.196Z
@@ -10,7 +10,7 @@ dateCreated: 2024-09-29T18:19:43.196Z
 
 <center> 
   <div class="info-item-container">
-    <img src="/guides/medicine/norus/cmo_flora.png">
+    <img src="/guides/medicine/cmo_flora.png">
     <p><strong>СМО Флора говорит:</strong><br><i>"Доктор! Мне нужно, чтобы вы вырвали этому человеку аппендикс, выбросили этого клоуна из отсека и зашили этому куратору лицо!"</i></p> 
   </div>
 </center>
