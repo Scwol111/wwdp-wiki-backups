@@ -2,7 +2,7 @@
 title: Аплинк
 description: 
 published: false
-date: 2024-10-30T12:51:17.141Z
+date: 2024-10-30T12:51:56.635Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -1447,7 +1447,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr id="monke-tp">
       <td>
-        <img src="/guides/uplink/oldradio.png">
+        <img src="/guides/uplink/oldradio.gif">
         <p>Телепортер подкрепления обезьян</p>
       </td>
       <td>6 ТК</td>
