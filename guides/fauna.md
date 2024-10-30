@@ -2,7 +2,7 @@
 title: Фауна
 description: 
 published: true
-date: 2024-10-30T07:49:50.194Z
+date: 2024-10-30T07:51:48.605Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T02:37:43.786Z
@@ -437,7 +437,7 @@ dateCreated: 2024-09-28T02:37:43.786Z
         </td>
         <td>Тропико</td>
         <td>Благородный и стойкий защитный атмосии.</td>
-        <td>Атмос/Кабинет детектива</td>
+        <td>Атмос, Кабинет детектива</td>
       </tr>
     </tbody>
   </table>
