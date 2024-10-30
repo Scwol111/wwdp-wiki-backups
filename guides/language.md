@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: true
-date: 2024-10-21T15:05:41.793Z
+date: 2024-10-30T09:14:05.215Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
@@ -38,7 +38,7 @@ dateCreated: 2024-09-26T19:23:46.378Z
     </thead>
     <tbody>
       <tr>
-        <td>Общегалактический</td>
+        <td>Тау-Сети</td>
         <td>Стандартный галактический язык, часто используемый для межвидового общения и юридической работы.</td>
         <td>
           <a href="Ссылка на расу"><img src="/guides/language/races.gif">
