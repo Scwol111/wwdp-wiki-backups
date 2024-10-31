@@ -2,7 +2,7 @@
 title: Main
 description: 
 published: true
-date: 2024-10-20T11:59:40.200Z
+date: 2024-10-31T21:51:26.862Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:50.659Z
@@ -126,7 +126,7 @@ dateCreated: 2024-09-10T19:07:50.659Z
                 <div class="servermenu">
                   <div>🏳️Medusa RU</div>
                   <div>
-                    <a class="is-external-link"><span id="copy">ss14://188.64.33.86:1212</span></a>
+                    <a class="is-external-link"><span id="copy">ss14://37.27.69.246:1212</span></a>
                   </div>
                 </div>
                 <div class="servermenu">
