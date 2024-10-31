@@ -2,7 +2,7 @@
 title: Инженерия
 description: 
 published: true
-date: 2024-10-31T13:20:37.186Z
+date: 2024-10-31T13:21:15.170Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:26.495Z
@@ -107,7 +107,7 @@ dateCreated: 2024-09-29T18:19:26.495Z
   </div>
   <!-- Тесла -->
   <div class="table-item">
-    <img src="/guides/engineering/basic-engineering/coil.png">
+    <img src="/guides/engineering/coil.png">
     Тесла
   </div>
   <div class="table-item">
