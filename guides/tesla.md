@@ -2,7 +2,7 @@
 title: Тесла
 description: 
 published: true
-date: 2024-10-31T13:15:53.416Z
+date: 2024-10-31T13:17:20.674Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:31.251Z
@@ -59,7 +59,7 @@ dateCreated: 2024-09-29T18:19:31.251Z
       </tbody>
     </table>
   </center>
-  <h2 class="h2text"><img src="/guidess/engineering/tesla/wrench.png"  class="image">Как построить теслу <img src="/guidess/engineering/tesla/wrench.png"  class="image"></h2><br>
+  <h2 class="h2text"><img src="/guides/engineering/tesla/wrench.png"  class="image">Как построить теслу <img src="/guides/engineering/tesla/wrench.png"  class="image"></h2><br>
   <div class="slider">
     <div>&nbsp;</div>
     <div class="slider-content">
@@ -113,15 +113,15 @@ dateCreated: 2024-09-29T18:19:31.251Z
           <h3> Шаг первый: Ресурсы и площадка</h3>
          <p> Тесла - источник энергии, легкий в построении, но в то же время и очень опасный. Для начала нужно выбрать площадку для постройки Теслы.
 <center>
-  <br><img  src="/guides/tesla/tesla44.png"> </center>
+  <br><img  src="/guides/engineering/tesla/tesla44.png"> </center>
           </div>
    </div>
         <div class="slide">
           <h3>Шаг второй: Размещение компонентов</h3>
-          <p> Для постройки Теслы нужно разместить Генератор «Тесла» по центру нашей конструкции и окружить его четырьмя генераторами сдерживающего поля.<center> <br><img src="/guides/tesla/tesla11.png" class="ploshadka"> </center>
+          <p> Для постройки Теслы нужно разместить Генератор «Тесла» по центру нашей конструкции и окружить его четырьмя генераторами сдерживающего поля.<center> <br><img src="/guides/engineering/tesla/tesla11.png" class="ploshadka"> </center>
         </div>
         <div class="slide">
-          <p>Далее мы ставим 3 накопителя «Тесла» рядом с генераторaми сдерживающего поля слева и справа. За накопителем «Тесла» идут заземлители с эмиттерами. Также не забываем прокладывать высоковольтные (ВВ) провода к накопителям и средневольтные (СВ) провода к эмиттерам. По итогу у нас должна получиться данная конструкция. <br> <img src="/guides/tesla/tesla22.png"> </p>
+          <p>Далее мы ставим 3 накопителя «Тесла» рядом с генераторaми сдерживающего поля слева и справа. За накопителем «Тесла» идут заземлители с эмиттерами. Также не забываем прокладывать высоковольтные (ВВ) провода к накопителям и средневольтные (СВ) провода к эмиттерам. По итогу у нас должна получиться данная конструкция. <br> <img src="/guides/engineering/tesla/tesla22.png"> </p>
         </div>
         <div class="slide">
           <h3>Шаг третий: Ускоритель Частиц</h3>
@@ -129,12 +129,12 @@ dateCreated: 2024-09-29T18:19:31.251Z
               <p> Ускоритель частиц - устройство, используемое для запуска Теслы. Он воздействует на генератор. Обычно сам ускоритель частиц есть на карте, но в полусобранном виде. Однако, если у вас по какой-то причине его нет, то набор плат ускорителя частиц всегда можно заказать в <a href="/guides/listofproducts">карго.</a>
 Ускоритель частиц стоит ставить ближе к конструкции, чтобы он её обнаружил и просканировал. </p><br>
             </div>
-            <img img src="/guidess/engineering/tesla/tesla33.png"  class="uch_foto"> 
+            <img img src="/guides/engineering/tesla/tesla33.png"  class="uch_foto"> 
         </div>
 <div class="slide">
 <div>
   <h3> Итог</h3>
-             <center><p>  После запуска сдерживающих полей, эмиттеров и ускорителя частиц появится наша Тесла!</center><img src="/guidess/engineering/tesla/tesla55.png" >
+             <center><p>  После запуска сдерживающих полей, эмиттеров и ускорителя частиц появится наша Тесла!</center><img src="/guides/engineering/tesla/tesla55.png" >
           </div>
    </div>
       </div>
@@ -145,12 +145,12 @@ dateCreated: 2024-09-29T18:19:31.251Z
 
   <h2 class="h2text"> Как бороться с Теслой </h2>
 
-  Тесла – штука опасная. Допустить её выпуск крайне не рекомендуется, ведь она способна уничтожить всю станцию. Если вы всё же допустили выпуск Теслы, то вам поможет только ручной замедлитель частиц, который можно заказать в карго за 15 000 кредитов. <img src="/guidess/engineering/tesla/decelerator.png" style="float: right" class="image">
+  Тесла – штука опасная. Допустить её выпуск крайне не рекомендуется, ведь она способна уничтожить всю станцию. Если вы всё же допустили выпуск Теслы, то вам поможет только ручной замедлитель частиц, который можно заказать в карго за 15 000 кредитов. <img src="/guides/engineering/tesla/decelerator.png" style="float: right" class="image">
 
   Достаточно совершить 10 выстрелов, и Тесла исчезнёт. Изолирующие перчатки также понижают урон от Теслы.
 
 
-  <h2 class="h2text"><img src="/guides/tesla/lampo4ka.png" class="image">Полезные советы<img src="/guidess/engineering/tesla/lampo4ka.png"  class="image"></h2>
+  <h2 class="h2text"><img src="/guides/engineering/tesla/lampo4ka.png" class="image">Полезные советы<img src="/guides/engineering/tesla/lampo4ka.png"  class="image"></h2>
 
   - Проверяйте Теслу каждые 10-15 минут. Накопители «Тесла» со временем  ломаются,  и их требуется чинить сваркой.
 
