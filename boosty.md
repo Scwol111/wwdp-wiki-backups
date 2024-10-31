@@ -2,7 +2,7 @@
 title: Бусти команды
 description: 
 published: false
-date: 2024-10-31T08:40:35.903Z
+date: 2024-10-31T09:21:10.042Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -17,32 +17,32 @@ dateCreated: 2024-10-31T07:49:55.557Z
 <table class="peop">
 	<tr>
     <td>Remuchi</td>
-    <td><a>https://boosty.to/remuchi</a></td>
+    <td><a href="">https://boosty.to/remuchi</a></td>
     <td>Главный кодер WWDP, кодер культа и много другого хорошего.</td>
 	</tr>
   <tr>
     <td>Spatison</td>
-    <td><a>https://boosty.to/spatison</a></td>
+    <td><a href="">https://boosty.to/spatison</a></td>
     <td>Один из самых активных кодеров WWDP</td>
 	</tr>
   <tr>
     <td>Sample Text</td>
-    <td><a>Sample Link</a></td>
+    <td><a href="">Sample Link</a></td>
     <td>Sample Text</td>
 	</tr>
   <tr>
     <td>Sample Text</td>
-    <td><a>Sample Link</a></td>
+    <td><a href="">Sample Link</a></td>
     <td>Sample Text</td>
 	</tr>
   <tr>
     <td>Sample Text</td>
-    <td><a>Sample Link</a></td>
+    <td><a href="">Sample Link</a></td>
     <td>Sample Text</td>
 	</tr>
   <tr>
     <td>Sample Text</td>
-    <td><a>Sample Link</a></td>
+    <td><a href="">Sample Link</a></td>
     <td>Sample Text</td>
 	</tr>
 </table>
