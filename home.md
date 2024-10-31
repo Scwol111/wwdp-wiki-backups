@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница
 published: true
-date: 2024-10-30T10:26:52.511Z
+date: 2024-10-31T08:05:52.892Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -102,8 +102,9 @@ dateCreated: 2024-09-10T19:12:06.984Z
                         <img src="/main_page_icons/community_elements_logos/forum-link3.gif" class="element-image">Forum
                       </div>
                         </a>
-                      <a class="fredoka-font" href="https://spacestationmultiverse.com/" class="community-link is-external-link"><div class="community-element">
-                        <img src="/main_page_icons/community_elements_logos/hub-link2.gif" class="element-image">Hub
+                      <a class="fredoka-font" href="/boosty" class="community-link is-external-link"><div class="community-element">
+                        <div class="element-image" style="height: 40px; width: 40px; background-color: rgba(255,255,255,0.09)"></div>
+                        <img src="/boosty.png" class="element-image" style="left: 4px; top: 4px; height: 32px; width: 32px;">Boosty
                       </div>
                         </a>
                       </div>
