@@ -2,17 +2,16 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-11-03T18:50:12.895Z
+date: 2024-11-03T18:59:56.523Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-03T18:49:36.350Z
 ---
 
 # Header
-
-<table class="race">
-
-</table>
+<div class="race">
+  <div class="name">ГОООЛ</div>
+</div>
 
 Your content hereYour content hereYour content hereYour content hereYour content hereYour content hereYour content hereYour content hereYour content hereYour content 
 hereYour content hereYour content hereYour content hereYour content hereYour content hereYour content hereYour content hereYour content hereYour content hereYour content 
