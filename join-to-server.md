@@ -2,129 +2,14 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-05T17:56:39.512Z
+date: 2024-11-05T17:58:04.658Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
 ---
 
-<!--
 
- ███████████ ██████████
-░░███░░░░░░█░░███░░░░███
- ░███   █ ░  ░███   ░░███  ██████  █████ █████
- ░███████    ░███    ░███ ███░░███░░███ ░░███
- ░███░░░█    ░███    ░███░███████  ░███  ░███
- ░███  ░     ░███    ███ ░███░░░   ░░███ ███
- █████       ██████████  ░░██████   ░░█████
-░░░░░       ░░░░░░░░░░    ░░░░░░     ░░░░░
-
---><!DOCTYPE html><html lang="ru" data-scrapbook-source="https://ss14.su/quickstart" data-scrapbook-create="20241105175504237" data-scrapbook-title="SS14: Как начать играть"><head>
-            
-
-<!-- Google Tag Manager -->
-
-<!-- End Google Tag Manager -->
-<meta charset="UTF-8">
-<title>SS14: Как начать играть</title>
-<meta name="keywords" content="ss14, space station 14, ss14 сервер, Giedi Prime, Гьеди Прайм, сосаки, рп, ролевая игра">
-<meta name="description" content="Начни играть в Space Station 14 прямо сейчас!">
-<meta property="og:title" content="SS14: Как начать играть">
-<meta property="og:type" content="website">
-<meta property="og:image" content="/img/logo_test.png?v=">
-<meta property="og:image:secure_url" content="/img/logo_test.png?v=1">
-<meta property="og:description" content="Начни играть в Space Station 14 прямо сейчас!">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="shortcut icon" type="/image/png" href="logo_test.png">
-
-
-<link href="normalize.min.css" type="text/css" rel="stylesheet">
-<link href="advance.css" type="text/css" rel="stylesheet">
-<link href="icons.css" type="text/css" rel="stylesheet">
-
-<link rel="canonical" href="https://ss14.su/quickstart">
-    </head>
-<body class="body" lang="ru">
-<!-- Top.Mail.Ru counter -->
-
-<noscript><div><img src="urn:scrapbook:download:error:https://top-fwz1.mail.ru/counter?id=3567325;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru"></div></noscript>
-<!-- /Top.Mail.Ru counter -->
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="index_1.html" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<div class="logger_bar"></div>
-<div class="discord_user_profile">
-    <div class="content-corners">
-    <span class="content-corner"></span>
-    <span class="content-corner"></span>
-    <span class="content-corner"></span>
-    <span class="content-corner"></span>
-</div>    <img src="urn:scrapbook:download:error:https://cdn.discordapp.com/avatars/790194463048990720/49ad05d31e10d51d10630e4029d051dd.png" alt="Аватар flet__">
-    <div class="discord_info">
-        <div class="discord_user_auth"><b>flet__ (Flet)</b> <a class="deauth_button" href="https://ss14.su/?q=login&amp;code=0">Выйти</a></div>
-    </div>
 </div>
-<header>
-    <nav>
-    <a class="logo hlink" href="https://ss14.su/">
-        <picture>
-            <source srcset="logo_test.webp" type="image/webp">
-            <img src="logo_test.webp" alt="SS14: Как начать играть" class="navbar_logo">
-        </picture>
-
-    </a>
-    <a class="hlink high-priority" href=""><i class="lni lni-play"></i> Играть</a>
-    <a class="hlink" target="_blank" href="https://wiki.ss14.su/"><i class="lni lni-book"></i> Wiki</a>
-    <a class="hlink" target="_blank" href="https://ss14.su/maps"><i class="lni lni-map"></i> Карта</a>
-    <div class="sublinks bans">
-        <a class="hlink" href="https://ss14.su/bans"><i class="lni lni-ban"></i> Баны</a>
-        <a class="hlink" href="https://ss14.su/jobbans"><i class="lni lni-flag"></i> Jobs</a>
-    </div>
-    <div class="spacer"></div>
-    <div class="sublinks">
-        <a class="hlink" href="https://ss14.su/funding"><i class="lni lni-coin"></i><div id="pops"><p>Поддержать</p></div></a>
-        <a class="hlink" target="_blank" href="https://discord.ss14.su/"><i class="lni lni-discord-alt"></i><div id="pops"><p>Discord</p></div></a>
-        <a class="hlink" target="_blank" href="https://github.com/frosty-dev"><i class="lni lni-github-original"></i><div id="pops"><p>Github</p></div></a>
-        <a class="hlink" target="_blank" rel="nofollow" href="https://forum.ss14.su/"><i class="lni lni-bubble"></i><div id="pops"><p>Форум</p></div></a>
-                    <a class="hlink" href="https://ss14.su/capitum"><i class="lni lni-grid-alt"></i><div id="pops"><p>Опросы</p></div></a>
-            <a class="hlink" href="https://ss14.su/profile"><i class="lni lni-information"></i><div id="pops"><p>Профиль</p></div></a>
-            </div>
-</nav></header>
-<main class="white-box">
-    <h1 class="middle_title">Как начать играть</h1>
-<div class="default_page quickstart">
-    <div class="content-corners">
-    <span class="content-corner"></span>
-    <span class="content-corner"></span>
-    <span class="content-corner"></span>
-    <span class="content-corner"></span>
-</div>    <!--<h2>Надёжный метод</h2>
-    <ol type="1">
-        <li>
-            Зайди на замечательный сервер Multiverse: <a href="https://discord.gg/HDRqrg8Ca8" target="_blank">https://discord.gg/HDRqrg8Ca8</a>
-        </li>
-        <img src="/img/howto/join.png" alt="Войди на сервер"/>
-        <li>
-            Перейди в <code>#about</code> Discord-сервера <code>Space Station Multiverse</code>
-        </li>
-        <img src="/img/howto/about.png" alt="Выбираем канал"/>
-        <li>
-            <b><u>Пролистай ниже и нажми на кнопочку</u></b> <code>Get SSMV Steam Key</code>
-        </li>
-        <img src="/img/howto/grabkey.png" alt="Забираем ключик"/>
-        <li>
-            Перейди по ссылке для активации ключика и скачай лаунчер из <code>Steam</code>
-        </li>
-        <img src="/img/howto/usekey.png" alt="Используем ключик"/>
-        <li>
-            Прочитай обязательно <a href="https://wiki.ss14.su/beginnersguide" target="_blank">руководство для новичков</a>
-        </li>
-        <img src="/img/howto/readshit.png" alt="Читаем полезное"/>
-        <li>
-            Запусти лаунчер, зарегистрируйся в нём, найди любой сервер <code>Giedi Prime</code> и играй!
-        </li>
-        <img src="/img/howto/degenerate.png" alt="Играем"/>
-    </ol>-->
     <h2>Как начать играть</h2>
     <ol type="1">
         <li>
