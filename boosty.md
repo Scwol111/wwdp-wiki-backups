@@ -2,7 +2,7 @@
 title: Бусти команды
 description: 
 published: false
-date: 2024-11-05T17:24:49.448Z
+date: 2024-11-05T17:25:20.457Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -23,7 +23,7 @@ dateCreated: 2024-10-31T07:49:55.557Z
   <tr>
     <td>Spatison</td>
     <td><a href="https://boosty.to/spatison">https://boosty.to/spatison</a></td>
-    <td>Один из самых активных кодеров WWDP</td>
+    <td>Один из самых активных кодеров WWDP.</td>
 	</tr>
   <tr>
     <td>Sample Text</td>
