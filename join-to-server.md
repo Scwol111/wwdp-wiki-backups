@@ -2,7 +2,7 @@
 title: Как зайти на сервер
 description: 
 published: true
-date: 2024-11-06T17:41:21.547Z
+date: 2024-11-06T17:42:08.767Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -49,8 +49,6 @@ dateCreated: 2024-11-05T17:50:18.581Z
     </div>
 </body>
 </html>
-
-</div>
         </div>
         <li>
             Необходимо Войти/Создать аккаунт в лаунчере, затем нажать на кнопку <code>Добавить в избранное...</code>
