@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-06T15:54:24.466Z
+date: 2024-11-06T16:03:26.446Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -48,18 +48,5 @@ dateCreated: 2024-11-05T17:50:18.581Z
             Жмём кнопку <code>Подключиться</code> и наслаждаемся игрой!
         </li>
         <img src="33.png" alt="Играем">
-    <h2>Альтернативный хаб</h2>
-    </ol>
-    <ol type="a">
-        <li>
-            Заходим в настройки хабов и вписываем эту ссылку <code id="copy_me">https://hub.ss14.su/</code> и жмём <code>Готово</code>
-        </li>
-        <img src="hubadd.png" alt="Пункты">
-        <li>
-            Ищем сервер <code>Maiden</code> в списке и играем!
-        </li>
-        <img src="44.png" alt="Тык">
-    </ol>
-</div>
 
 
