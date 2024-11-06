@@ -2,7 +2,7 @@
 title: Гражданские
 description: 
 published: true
-date: 2024-11-06T18:03:24.238Z
+date: 2024-11-06T18:21:13.205Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:40.050Z
@@ -35,10 +35,19 @@ dateCreated: 2024-10-20T13:01:40.050Z
 </div> 
   
 <div class="role">
+<div class="rolename"><a href="/roles/serviceworker" class="custom-link">Сервисный работник</a></div>
+<div class="roleimg"><img src="/roles/serviceworker.png"></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Глава персонала</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Выполняйте просьбы работников сервиса, учитесь у них.</div>  
+</div> 
+  
+<div class="role">
 <div class="rolename"><a href="/roles/botanist" class="custom-link">Ботаник</a></div>
 <div class="roleimg"><img src="/roles/botanist.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава персонала, Капитан</div>
+<div class="rolehead">Глава персонала</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Выращивайте фрукты и овощи в гидропонных ваннах, выполняйте заказы шеф-повара по продуктам, а так же угощайте экипаж плодами вашего труда. Закажите у химика нестабильный мутаген, чтобы вывести с его помощью новые виды растений.</div>  
 </div> 
@@ -47,7 +56,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
 <div class="rolename"><a href="/roles/chef" class="custom-link">Шеф-повар</a></div>
 <div class="roleimg"><img src="/roles/chef.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава персонала, Капитан</div>
+<div class="rolehead">Глава персонала</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Готовьте еду в "Космо-волновке" и кормите экипаж лучшими мясными блюдами <s>из трупов другого экипажа</s> с овощами и фруктами.</div>  
 </div>   
@@ -56,7 +65,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
 <div class="rolename"><a href="/roles/barman" class="custom-link">Бармен</a></div>
 <div class="roleimg"><img src="/roles/barman.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава персонала, Капитан</div>
+<div class="rolehead">Глава персонала</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Готовьте напитки по заказам посетителей бара, составляйте людям кампанию. <s>Напейтесь и расстреляйте невиновного клоуна за то что он хонкает в вашем баре.</s></div>  
 </div>     
@@ -65,7 +74,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
 <div class="rolename"><a href="/roles/janitor" class="custom-link">Уборщик</a></div>
 <div class="roleimg"><img src="/roles/janitor.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава персонала, Капитан</div>
+<div class="rolehead">Глава персонала</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Вовремя убирайтесь на станции, держите полы станции идеально чистыми <s>и идеально скользкими</s>.</div>  
 </div>    
@@ -74,7 +83,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
 <div class="rolename"><a href="/roles/clown" class="custom-link">Клоун</a></div>
 <div class="roleimg"><img src="/roles/clown.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава персонала, Капитан</div>
+<div class="rolehead">Глава персонала</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Веселите экипаж и веселитесь сами! Даже раздражение неплохой метод! Кидайтесь бананами, <s>гранатами,</s> тортами. <b>ХОНК!</b></div>  
 </div>   
@@ -83,82 +92,101 @@ dateCreated: 2024-10-20T13:01:40.050Z
 <div class="rolename"><a href="/roles/mime" class="custom-link">Мим</a></div>
 <div class="roleimg"><img src="/roles/mime.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава персонала, Капитан</div>
+<div class="rolehead">Глава персонала</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Старайтесь сохранить обет молчания, достигайте своих целей пользуясь универсальным языком жестов.</div>  
-</div>    
+</div>
   
 <div class="role">
-<div class="rolename"><a href="/roles/librarian" class="custom-link">Библиотекарь</a></div>
-<div class="roleimg"><img src="/roles/librarian.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава персонала, Капитан</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Печатайте, пишите, читайте книги, распространяйте любовь к чтению среди экипажа</div>  
-</div>  
-  
-<div class="role">
-<div class="rolename"><a href="/roles/priest" class="custom-link">Священник</a></div>
-<div class="roleimg"><img src="/roles/priest.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава персонала, Капитан</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Проповедуйте, наставляйте экипаж на духовный путь.</div>  
-</div> 
-  
-<div class="role">
-<div class="rolename"><a href="/roles/musician" class="custom-link">Музыкант</a></div>
-<div class="roleimg"><img src="/roles/musician.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава персонала, Капитан</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Берите инструменты, играйте музыку по всей станции, пусть вас ругают за "безвкусицу".</div>  
-</div> 
-  
-<div class="role">
-<div class="rolename"><a href="/roles/serviceworker" class="custom-link">Сервисный работник</a></div>
-<div class="roleimg"><img src="/roles/serviceworker.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава персонала, Капитан</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Выполняйте просьбы работников сервиса, учитесь у них.</div>  
-</div> 
-  
-<div class="role">
-<div class="rolename"><a href="/roles/lawyer" class="custom-link">Юрист</a></div>
-<div class="roleimg"><img src="/roles/lawyer.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава персонала, Капитан</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Защищайте клоуна и мима от закона.</div>  
-</div> 
- 
-<div class="role">
-<div class="rolename"><a href="/roles/reporter" class="custom-link">Репортер</a></div>
-<div class="roleimg"><img src="/roles/reporter.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава персонала, Капитан</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Снимайте свое очень интересное шоу<s>, на которое всем плевать</s></div>  
-</div> 
-  
-<div class="role">
-<div class="rolename"><a href="/roles/zootechnik" class="custom-link">Репортер</a></div>
+<div class="rolename"><a href="/roles/zootechnik" class="custom-link">Зоотехник</a></div>
 <div class="roleimg"><img src="/roles/zootechnik.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава персонала, Капитан</div>
+<div class="rolehead">Глава персонала</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Без него на станции вспыхнет зомби-вирус, прилетят пираты с ядерными оперативниками и сбежит сингулярность, так что он очень нужен, не забывайте про него.</div>  
-</div>   
+</div> 
   
 <div class="role">
 <div class="rolename"><a href="/roles/boxer" class="custom-link">Боксер</a></div>
 <div class="roleimg"><img src="/roles/boxer.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Глава персонала, Капитан</div>
+<div class="rolehead">Глава персонала</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Устройте бои без правил и заслужите уважение всего экипажа!</div>  
-</div>   
+</div> 
+  
+<div class="role">
+<div class="rolename"><a href="/roles/reporter" class="custom-link">Репортер</a></div>
+<div class="roleimg"><img src="/roles/reporter.png"></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Глава персонала</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Снимайте свое очень интересное шоу<s>, на которое всем плевать</s></div>  
+</div>
+
+<div class="role">
+<div class="rolename"><a href="/roles/priest" class="custom-link">Священник</a></div>
+<div class="roleimg"><img src="/roles/priest.png"></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Глава персонала</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Проповедуйте, наставляйте экипаж на духовный путь.</div>  
+</div> 
+  
+<div class="role">
+<div class="rolename"><a href="/roles/librarian" class="custom-link">Библиотекарь</a></div>
+<div class="roleimg"><img src="/roles/librarian.png"></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Глава персонала</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Печатайте, пишите, читайте книги, распространяйте любовь к чтению среди экипажа</div>  
+</div>  
+  
+  
+<div class="role">
+<div class="rolename"><a href="/roles/musician" class="custom-link">Музыкант</a></div>
+<div class="roleimg"><img src="/roles/musician.png"></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Глава персонала</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Берите инструменты, играйте музыку по всей станции, пусть вас ругают за "безвкусицу".</div>  
+</div> 
+
+<div class="role">
+<div class="rolename"><a href="/roles/bomzh" class="custom-link">Космический бомж</a></div>
+<div class="roleimg"><img src="/roles/bomz2.png"></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Глава персонала</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Кто знает, кем он был в прошлом, но сейчас он волочит жалкое существование в мусорблоке, питаясь объедками и мышами.</div>  
+</div> 
+  
+<div class="role">
+<div class="rolename"><a href="/roles/musician" class="custom-link">Заключенный</a></div>
+<div class="roleimg"><img src="/roles/prisoner.png"></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Глава персонала</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Сидите в тюрьме и учитесь выращивать растения и готовить. Играйте в азартные игры со своими сокамерниками. Поговорите с начальником тюрьмы.</div>  
+</div> 
+  
+<div class="role">
+<div class="rolename"><a href="/roles/musician" class="custom-link">Мастер боевых искусств</a></div>
+<div class="roleimg"><img src="/roles/martial-artist.png"></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Глава персонала</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Вызывает охрану на CQC. В итоге забывает основы CQC.</div>  
+</div> 
+  
+<div class="role">
+<div class="rolename"><a href="/roles/musician" class="custom-link">Гладиатор</a></div>
+<div class="roleimg"><img src="/roles/gladiator.png"></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Глава персонала</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Это боец, участвующий в организованных боях на арене для развлечения экипажа станции. Их цель — сражаться, выжить и добиться славы, при этом соблюдая правила арены и развлекая зрителей.</div>  
+</div> 
   
 </div>   
 
