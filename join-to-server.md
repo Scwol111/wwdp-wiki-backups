@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-06T15:53:59.435Z
+date: 2024-11-06T15:54:24.466Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -39,8 +39,8 @@ dateCreated: 2024-11-05T17:50:18.581Z
         <img src="11.png" alt="Жмём кнопку">
         <li>
             В открывшемся окне вводим следующее:<br>
-            <b>Название</b>: <code id="copy_me">Maiden</code><br>
-            <b>Адрес</b> <code id="copy_me">ss14s://ludere.ss14.su/maid</code><br>
+            <b>Название</b>: <code id="copy_me">Medusa</code><br>
+            <b>Адрес</b> <code id="copy_me">ss14://37.27.69.246:1212</code><br>
             И жмём кнопку <code>Add</code>
         </li>
         <img src="22.png" alt="Вводим всякое">
