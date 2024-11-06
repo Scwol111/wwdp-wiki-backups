@@ -2,7 +2,7 @@
 title: Гражданские
 description: 
 published: true
-date: 2024-11-06T18:02:10.735Z
+date: 2024-11-06T18:03:24.238Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:40.050Z
@@ -13,7 +13,6 @@ dateCreated: 2024-10-20T13:01:40.050Z
 
 
 <div class="rolescontainer">
-
 <div class="role">
 <div class="rolename"><a href="/roles/headofpersonnel" class="custom-link">Глава персонала</a></div>
 <div class="roleimg"><img src="/roles/headofpersonnel.png"></div>
@@ -22,6 +21,9 @@ dateCreated: 2024-10-20T13:01:40.050Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Глава отдела сервиса. Принимает и увольняет работников, редактирует доступ ID-карт.</div>  
 </div>  
+</div>
+
+<div class="rolescontainer">
   
 <div class="role">
 <div class="rolename"><a href="/roles/assistant" class="custom-link">Ассистент</a></div>
@@ -29,7 +31,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Всем</div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Украдите чью-то одежду и работу. Попадайте в неприятности. Спасите станцию, когда от вас этого меньше всего ожидают.<br><center><a href="/guides">Рабочие руководства</a></center></div>  
+<div class="roledesc">Украдите чью-то одежду и работу. Попадайте в неприятности. Спасите станцию, когда от вас этого меньше всего ожидают.</div>  
 </div> 
   
 <div class="role">
@@ -38,7 +40,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Выращивайте фрукты и овощи в гидропонных ваннах, выполняйте заказы шеф-повара по продуктам, а так же угощайте экипаж плодами вашего труда. Закажите у химика нестабильный мутаген, чтобы вывести с его помощью новые виды растений.<br><center><a href="/guides/hydroponics">Гидропоника</a></center></div>  
+<div class="roledesc">Выращивайте фрукты и овощи в гидропонных ваннах, выполняйте заказы шеф-повара по продуктам, а так же угощайте экипаж плодами вашего труда. Закажите у химика нестабильный мутаген, чтобы вывести с его помощью новые виды растений.</div>  
 </div> 
   
 <div class="role">
@@ -47,7 +49,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Готовьте еду в "Космо-волновке" и кормите экипаж лучшими мясными блюдами <s>из трупов другого экипажа</s> с овощами и фруктами. <br><center><a href="/guides/food">Руководство по готовке</a></center></div>  
+<div class="roledesc">Готовьте еду в "Космо-волновке" и кормите экипаж лучшими мясными блюдами <s>из трупов другого экипажа</s> с овощами и фруктами.</div>  
 </div>   
 
 <div class="role">
@@ -56,7 +58,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Готовьте напитки по заказам посетителей бара, составляйте людям кампанию. <s>Напейтесь и расстреляйте невиновного клоуна за то что он хонкает в вашем баре.</s><br><center><a href="/guides/beverages">Руководство по готовке напитков</a></center></div>  
+<div class="roledesc">Готовьте напитки по заказам посетителей бара, составляйте людям кампанию. <s>Напейтесь и расстреляйте невиновного клоуна за то что он хонкает в вашем баре.</s></div>  
 </div>     
  
 <div class="role">
@@ -119,7 +121,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Выполняйте просьбы работников сервиса, учитесь у них.<br><center><a href="/guides/food">Руководство по готовке</a>, <a href="/guides/beverages">Руководство по готовке напитков</a></center></div>  
+<div class="roledesc">Выполняйте просьбы работников сервиса, учитесь у них.</div>  
 </div> 
   
 <div class="role">
