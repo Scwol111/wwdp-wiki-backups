@@ -2,7 +2,7 @@
 title: Как зайти на сервер
 description: 
 published: true
-date: 2024-11-06T17:22:36.839Z
+date: 2024-11-06T17:24:02.493Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -24,8 +24,8 @@ dateCreated: 2024-11-05T17:50:18.581Z
 <body>
     <div class="icon-container">
         <div class="icon-box">
-            <a href="https://store.steampowered.com/app/1255460?snr=5000_5100__" target="_blank">
-                <img src="/guides/steam.png" alt="">
+            <a href="https://store.steampowered.com/app/1255460?snr=5000_5100__" target="_blank"> 
+                <img src="/guides/steam.png" ::before alt="">
                 <span>Steam</span>
             </a>
         </div>
