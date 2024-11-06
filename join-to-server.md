@@ -2,7 +2,7 @@
 title: Как зайти на сервер
 description: 
 published: true
-date: 2024-11-06T16:59:05.876Z
+date: 2024-11-06T17:12:02.900Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -14,22 +14,45 @@ dateCreated: 2024-11-05T17:50:18.581Z
         <li>
             Необходимо скачать официальный лаунчер Space Station 14:
         </li>
-        <div id="top_content">
-            <div class="download_launcher_card">
-    <div class="launcher_links">
-        <a class="launcher_steam" href="https://store.steampowered.com/app/2585480/Space_Station_Multiverse/" target="_blank" rel="nofollow">
-          <figure class="image"><img src="/guides/steam.png" sizes="" width="60%"></figure>  Steam
-        </a>
-        <a class="launcher_windows" href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_Windows.zip/" target="_blank" rel="nofollow">
-           <figure class="image"><img src="/guides/windows.png" sizes="" width="60%"></figure> Windows
-        </a>
-        <a class="launcher_linux" href="https://flathub.org/apps/com.spacestation14.Launcher" target="_blank" rel="nofollow">
-           <figure class="image"><img src="/guides/linux.png" sizes="" width="65%"></figure> Linux
-        </a>
-        <a class="launcher_mac" href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_macOS.zip" target="_blank" rel="nofollow">
-          <figure class="image"><img src="/guides/mac.png" sizes="" width="55%"></figure>  Mac
-        </a>
+        <!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Platform Icons with Links</title>
+ 
+
+</head>
+<body>
+    <div class="icon-container">
+        <div class="icon-box">
+            <a href="your-steam-link-here" target="_blank">
+                <img src="steam-icon.png" alt="Steam Icon">
+                <span>Steam</span>
+            </a>
+        </div>
+        <div class="icon-box">
+            <a href="your-windows-link-here" target="_blank">
+                <img src="windows-icon.png" alt="Windows Icon">
+                <span>Windows</span>
+            </a>
+        </div>
+        <div class="icon-box">
+            <a href="your-linux-link-here" target="_blank">
+                <img src="linux-icon.png" alt="Linux Icon">
+                <span>Linux</span>
+            </a>
+        </div>
+        <div class="icon-box">
+            <a href="your-mac-link-here" target="_blank">
+                <img src="mac-icon.png" alt="Mac Icon">
+                <span>Mac</span>
+            </a>
+        </div>
     </div>
+</body>
+</html>
+
 </div>
         </div>
         <li>
