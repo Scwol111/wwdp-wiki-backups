@@ -2,50 +2,87 @@
 title: Как зайти на сервер
 description: 
 published: false
-date: 2024-11-06T17:10:06.240Z
+date: 2024-11-06T17:10:20.707Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T17:10:06.240Z
 ---
 
-
-</div>
-    <ol type="1">
-        <li>
-            Необходимо скачать официальный лаунчер Space Station 14:
-        </li>
-        <div id="top_content">
-            <div class="download_launcher_card">
-    <div class="launcher_links">
-        <a class="launcher_steam" href="https://store.steampowered.com/app/2585480/Space_Station_Multiverse/" target="_blank" rel="nofollow">
-          <figure class="image"><img src="/guides/steam.png" sizes="" width="60%"></figure>  Steam
-        </a>
-        <a class="launcher_windows" href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_Windows.zip/" target="_blank" rel="nofollow">
-           <figure class="image"><img src="/guides/windows.png" sizes="" width="60%"></figure> Windows
-        </a>
-        <a class="launcher_linux" href="https://flathub.org/apps/com.spacestation14.Launcher" target="_blank" rel="nofollow">
-           <figure class="image"><img src="/guides/linux.png" sizes="" width="65%"></figure> Linux
-        </a>
-        <a class="launcher_mac" href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_macOS.zip" target="_blank" rel="nofollow">
-          <figure class="image"><img src="/guides/mac.png" sizes="" width="55%"></figure>  Mac
-        </a>
-    </div>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Platform Icons with Links</title>
+    <style>
+        body {
+            background-color: #2b2b2b;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        .icon-container {
+            display: flex;
+            gap: 20px;
+        }
+        .icon-box {
+            background-color: #1e1e1e;
+            padding: 20px;
+            border: 2px solid #333;
+            border-radius: 5px;
+            text-align: center;
+            width: 80px;
+            transition: background-color 0.3s;
+        }
+        .icon-box:hover {
+            background-color: #333;
+        }
+        .icon-box img {
+            width: 40px;
+            height: 40px;
+        }
+        .icon-box a {
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+            display: block;
+            margin-top: 10px;
+        }
+        .icon-box a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="icon-container">
+        <div class="icon-box">
+            <a href="your-steam-link-here" target="_blank">
+                <img src="steam-icon.png" alt="Steam Icon">
+                <span>Steam</span>
+            </a>
         </div>
-        <li>
-            Необходимо Войти/Создать аккаунт в лаунчере, затем нажать на кнопку <code>Добавить в избранное...</code>
-        </li>
-        <img src="11.png" alt="Жмём кнопку">
-        <li>
-            В открывшемся окне вводим следующее:<br>
-            <b>Название</b>: <code id="copy_me">Medusa</code><br>
-            <b>Адрес</b> <code id="copy_me">ss14://37.27.69.246:1212</code><br>
-            И жмём кнопку <code>Add</code>
-        </li>
-        <img src="22.jpg" alt="Вводим всякое">
-        <li>
-            Жмём кнопку <code>Подключиться</code> и наслаждаемся игрой!
-        </li>
-        <img src="33.jpg" alt="Играем">
-
-
+        <div class="icon-box">
+            <a href="your-windows-link-here" target="_blank">
+                <img src="windows-icon.png" alt="Windows Icon">
+                <span>Windows</span>
+            </a>
+        </div>
+        <div class="icon-box">
+            <a href="your-linux-link-here" target="_blank">
+                <img src="linux-icon.png" alt="Linux Icon">
+                <span>Linux</span>
+            </a>
+        </div>
+        <div class="icon-box">
+            <a href="your-mac-link-here" target="_blank">
+                <img src="mac-icon.png" alt="Mac Icon">
+                <span>Mac</span>
+            </a>
+        </div>
+    </div>
+</body>
+</html>
