@@ -2,7 +2,7 @@
 title: Как зайти на сервер
 description: 
 published: false
-date: 2024-11-06T17:28:47.850Z
+date: 2024-11-06T17:30:12.864Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T17:10:06.240Z
@@ -61,7 +61,7 @@ dateCreated: 2024-11-06T17:10:06.240Z
     <div class="icon-container">
         <div class="icon-box">
             <a href="your-steam-link-here" target="_blank">
-                <img src="steam-icon.png" alt="Steam Icon">
+                <img src="/guides/steam.png" alt="Steam Icon">
                 <span>Steam</span>
             </a>
         </div>
