@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-06T16:03:42.195Z
+date: 2024-11-06T16:07:15.965Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -43,10 +43,10 @@ dateCreated: 2024-11-05T17:50:18.581Z
             <b>Адрес</b> <code id="copy_me">ss14://37.27.69.246:1212</code><br>
             И жмём кнопку <code>Add</code>
         </li>
-        <img src="22.png" alt="Вводим всякое">
+        <img src="22.jpg" alt="Вводим всякое">
         <li>
             Жмём кнопку <code>Подключиться</code> и наслаждаемся игрой!
         </li>
-        <img src="33.png" alt="Играем">
+        <img src="33.jpg" alt="Играем">
 
 
