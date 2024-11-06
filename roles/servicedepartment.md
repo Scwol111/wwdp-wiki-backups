@@ -2,7 +2,7 @@
 title: Гражданские
 description: 
 published: true
-date: 2024-10-20T13:01:40.050Z
+date: 2024-11-06T18:02:10.735Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:40.050Z
@@ -16,7 +16,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/headofpersonnel" class="custom-link">Глава персонала</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/headofpersonnel.png"></div>
+<div class="roleimg"><img src="/roles/headofpersonnel.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -25,7 +25,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/assistant" class="custom-link">Ассистент</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/assistant.png"></div>
+<div class="roleimg"><img src="/roles/assistant.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Всем</div>
 <div class="roledesclabel">Описание:</div>  
@@ -34,7 +34,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/botanist" class="custom-link">Ботаник</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/botanist.png"></div>
+<div class="roleimg"><img src="/roles/botanist.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -43,7 +43,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/chef" class="custom-link">Шеф-повар</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/chef.png"></div>
+<div class="roleimg"><img src="/roles/chef.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -52,7 +52,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/barman" class="custom-link">Бармен</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/barman.png"></div>
+<div class="roleimg"><img src="/roles/barman.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -61,7 +61,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
  
 <div class="role">
 <div class="rolename"><a href="/roles/janitor" class="custom-link">Уборщик</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/janitor.png"></div>
+<div class="roleimg"><img src="/roles/janitor.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -70,7 +70,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/clown" class="custom-link">Клоун</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/clown.png"></div>
+<div class="roleimg"><img src="/roles/clown.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -79,7 +79,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/mime" class="custom-link">Мим</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/mime.png"></div>
+<div class="roleimg"><img src="/roles/mime.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -88,7 +88,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/librarian" class="custom-link">Библиотекарь</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/librarian.png"></div>
+<div class="roleimg"><img src="/roles/librarian.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -97,7 +97,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/priest" class="custom-link">Священник</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/priest.png"></div>
+<div class="roleimg"><img src="/roles/priest.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -106,7 +106,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/musician" class="custom-link">Музыкант</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/musician.png"></div>
+<div class="roleimg"><img src="/roles/musician.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -115,7 +115,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/serviceworker" class="custom-link">Сервисный работник</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/serviceworker.png"></div>
+<div class="roleimg"><img src="/roles/serviceworker.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -124,7 +124,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/lawyer" class="custom-link">Юрист</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/lawyer.png"></div>
+<div class="roleimg"><img src="/roles/lawyer.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -142,7 +142,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/zootechnik" class="custom-link">Репортер</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/zootechnik.png"></div>
+<div class="roleimg"><img src="/roles/zootechnik.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -151,7 +151,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/boxer" class="custom-link">Боксер</a></div>
-<div class="roleimg"><img src="/roles/servicedepartment/boxer.png"></div>
+<div class="roleimg"><img src="/roles/boxer.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала, Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -255,22 +255,22 @@ dateCreated: 2024-10-20T13:01:40.050Z
 
 | Изображение | Название | Описание |
 | --- | --- | --- |
-  | <center>![mini_hoe.png](/role/servicedepartment/botanist/mini_hoe.png){.png1}</center> | <center>Тяпка</center> | Удаляет сорняки |
-| <center>![plant_clippers.png](/role/servicedepartment/botanist/plant_clippers.png){.png1} | <center>Секатор</center> | Берет образцы (семена) с растений |
-| <center>![scythe.png](/role/servicedepartment/botanist/scythe.png){.png1} | <center>Коса</center> | Острая, помогает собирать урожай |
-| <center>![spade.png](/role/servicedepartment/botanist/spade.png){.png1} | <center>Лопата</center>| Убирает растения с гидропонного лотка |
-| <center>![bucket.png](/role/servicedepartment/botanist/bucket.png){.png1} | <center>Ведро</center> | Используется для переноски воды |
-| <center>![plant_bag.png](/role/servicedepartment/botanist/plant_bag.png){.png1} | <center>Сумка для растений</center> | Используется для переноски семян и растений |
+  | <center>![mini_hoe.png](/role/botanist/mini_hoe.png){.png1}</center> | <center>Тяпка</center> | Удаляет сорняки |
+| <center>![plant_clippers.png](/role/botanist/plant_clippers.png){.png1} | <center>Секатор</center> | Берет образцы (семена) с растений |
+| <center>![scythe.png](/role/botanist/scythe.png){.png1} | <center>Коса</center> | Острая, помогает собирать урожай |
+| <center>![spade.png](/role/botanist/spade.png){.png1} | <center>Лопата</center>| Убирает растения с гидропонного лотка |
+| <center>![bucket.png](/role/botanist/bucket.png){.png1} | <center>Ведро</center> | Используется для переноски воды |
+| <center>![plant_bag.png](/role/botanist/plant_bag.png){.png1} | <center>Сумка для растений</center> | Используется для переноски семян и растений |
 
 ### Гидропонный лоток
 
 | Изображение | Название | Описание |
 | --- | --- | --- |
-| <center>![hydro_tray_health.gif](/role/servicedepartment/botanist/hydrotray/hydro_tray_health.gif){.png1}</center> | <center>Красный свет, Левый</center> | Отмершее растение. Используйте лопату, чтобы удалить растение. |
-| <center>![hydro_tray_alert.gif](/role/servicedepartment/botanist/hydrotray/hydro_tray_alert.gif){.png1} </center>| <center>Мигающий оранжевый свет, Центр</center> | Есть сорняки. Используйте тяпку или опрыскайте от сорняков. |
-| <center>![hydro_tray_water.gif](/role/servicedepartment/botanist/hydrotray/hydro_tray_water.gif){.png1} </center>| <center>Голубой свет, Право</center> | Нуждается в воде. Наполните поддон водой. |
-| <center>![hydro_tray_harvest.gif](/role/servicedepartment/botanist/hydrotray/hydro_tray_harvest.gif){.png1}</center> | <center>Зеленый свет, Левый</center> | Готов к сбору урожая. Щелкните, чтобы собрать урожай. |
-| <center>![hydro_tray_nutri.gif](/role/servicedepartment/botanist/hydrotray/hydro_tray_nutri.gif){.png1}</center> | <center>Желтый свет, Справа</center> | Нуждается в удобрениях. Наполните поддон удобрениями. |
+| <center>![hydro_tray_health.gif](/role/botanist/hydrotray/hydro_tray_health.gif){.png1}</center> | <center>Красный свет, Левый</center> | Отмершее растение. Используйте лопату, чтобы удалить растение. |
+| <center>![hydro_tray_alert.gif](/role/botanist/hydrotray/hydro_tray_alert.gif){.png1} </center>| <center>Мигающий оранжевый свет, Центр</center> | Есть сорняки. Используйте тяпку или опрыскайте от сорняков. |
+| <center>![hydro_tray_water.gif](/role/botanist/hydrotray/hydro_tray_water.gif){.png1} </center>| <center>Голубой свет, Право</center> | Нуждается в воде. Наполните поддон водой. |
+| <center>![hydro_tray_harvest.gif](/role/botanist/hydrotray/hydro_tray_harvest.gif){.png1}</center> | <center>Зеленый свет, Левый</center> | Готов к сбору урожая. Щелкните, чтобы собрать урожай. |
+| <center>![hydro_tray_nutri.gif](/role/botanist/hydrotray/hydro_tray_nutri.gif){.png1}</center> | <center>Желтый свет, Справа</center> | Нуждается в удобрениях. Наполните поддон удобрениями. |
 
 ## Шеф-Повар
 
@@ -301,14 +301,14 @@ dateCreated: 2024-10-20T13:01:40.050Z
 
 | Изображение | Название | Описание |
 | --- | --- | --- |
-| <center>![mopbucket.png](/role/servicedepartment/janitor/mopbucket.png){.png1}</center> | <center>Ведро для швабры</center> | Потяните с собой, нажав CTRL + Левый клик |
-| <center>![mop.png](/role/servicedepartment/janitor/mop.png){.png1}</center> | <center>Швабра</center> | Используется для уборки луж на полу. Используйте левый клик на ведре швабры, чтобы намочить и отжать швабру |
-| <center>![bucket.png](/role/servicedepartment/janitor/bucket.png){.png1}</center> | <center>Ведро</center> | Используется для больших беспорядков на полу. Пролейте посередине и получите уборку |
-| <center>![trashbag.png](/role/servicedepartment/janitor/trashbag.png){.png1}</center> | <center>Мешок для мусора</center> | Щелкните левой кнопкой мыши по мусору (окурки, пластиковые стаканчики и т.п), чтобы убрать в мешок. |
-| <center>![soap.png](/role/servicedepartment/janitor/soap.png){.png1}</center> | <center>Мыло</center> | В настоящее время просто существует, чтобы проскользнуть |
-| <center>![spacecleaner.png](/role/servicedepartment/janitor/spacecleaner.png){.png1}</center> | <center>'Космический уборщик'</center> | Используется для чистки стен и пола от граффити / напольной грязи. Спрей для очистки, это магия. Вы можете получить заправки из химической лаборатории, если это необходимо |
-| <center>![wetfloorsign.png](/role/servicedepartment/janitor/wetfloorsign.png){.png1}</center> | <center>Знак мокрого пола</center> | Не забудьте указать на него каждый раз, когда кто-то поскользнется |
-| <center>![galoshes.png](/role/servicedepartment/janitor/galoshes.png){.png1}</center> | <center>Галоши</center> | Предотвращает скольжение владельца |
+| <center>![mopbucket.png](/role/janitor/mopbucket.png){.png1}</center> | <center>Ведро для швабры</center> | Потяните с собой, нажав CTRL + Левый клик |
+| <center>![mop.png](/role/janitor/mop.png){.png1}</center> | <center>Швабра</center> | Используется для уборки луж на полу. Используйте левый клик на ведре швабры, чтобы намочить и отжать швабру |
+| <center>![bucket.png](/role/janitor/bucket.png){.png1}</center> | <center>Ведро</center> | Используется для больших беспорядков на полу. Пролейте посередине и получите уборку |
+| <center>![trashbag.png](/role/janitor/trashbag.png){.png1}</center> | <center>Мешок для мусора</center> | Щелкните левой кнопкой мыши по мусору (окурки, пластиковые стаканчики и т.п), чтобы убрать в мешок. |
+| <center>![soap.png](/role/janitor/soap.png){.png1}</center> | <center>Мыло</center> | В настоящее время просто существует, чтобы проскользнуть |
+| <center>![spacecleaner.png](/role/janitor/spacecleaner.png){.png1}</center> | <center>'Космический уборщик'</center> | Используется для чистки стен и пола от граффити / напольной грязи. Спрей для очистки, это магия. Вы можете получить заправки из химической лаборатории, если это необходимо |
+| <center>![wetfloorsign.png](/role/janitor/wetfloorsign.png){.png1}</center> | <center>Знак мокрого пола</center> | Не забудьте указать на него каждый раз, когда кто-то поскользнется |
+| <center>![galoshes.png](/role/janitor/galoshes.png){.png1}</center> | <center>Галоши</center> | Предотвращает скольжение владельца |
 
 ## Клоун
 
