@@ -2,13 +2,13 @@
 title: Медицинский отдел
 description: 
 published: true
-date: 2024-11-06T17:43:18.963Z
+date: 2024-11-06T17:44:13.504Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:37.193Z
 ---
 
-# Введение
+# Медицинский отдел
 
 
 <div class="rolescontainer">
