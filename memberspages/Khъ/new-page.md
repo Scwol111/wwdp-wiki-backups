@@ -2,11 +2,22 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-11-04T09:01:54.032Z
+date: 2024-11-06T15:16:24.132Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-03T18:49:36.350Z
 ---
+
+<div class="races">
+	<div class="r1">
+    <div>Доступные расы</div>
+    <div><a href="">Человек</a> <a href="">Дварф</a> <a href="">Ящер</a> <a href="">Фелинид</a> <a href="">Диона</a> <a href="">Слаймолюд</a> <a href="">Моль</a> <a href="">Арахнид</a> <a href="">КПБ</a> <a href="">Вульпканины</a> <a href="">Гарпии</a></div>
+  </div>
+	<div class="r2">
+    <div>Недоступные расы</div>
+    <div><a href="">Вокс</a> <a href="">Скелет</a></div>
+  </div>
+</div>
 
 # Header
 <div class="race">
