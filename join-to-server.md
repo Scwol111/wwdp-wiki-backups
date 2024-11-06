@@ -2,7 +2,7 @@
 title: Как зайти на сервер
 description: 
 published: true
-date: 2024-11-06T17:12:02.900Z
+date: 2024-11-06T17:14:58.544Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -14,38 +14,37 @@ dateCreated: 2024-11-05T17:50:18.581Z
         <li>
             Необходимо скачать официальный лаунчер Space Station 14:
         </li>
-        <!DOCTYPE html>
-<html lang="">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Platform Icons with Links</title>
+    <title></title>
  
 
 </head>
 <body>
     <div class="icon-container">
         <div class="icon-box">
-            <a href="your-steam-link-here" target="_blank">
-                <img src="steam-icon.png" alt="Steam Icon">
+            <a href="https://store.steampowered.com/app/1255460?snr=5000_5100__" target="_blank">
+                <img src="/guides/steam.png" alt="">
                 <span>Steam</span>
             </a>
         </div>
         <div class="icon-box">
-            <a href="your-windows-link-here" target="_blank">
-                <img src="windows-icon.png" alt="Windows Icon">
+            <a href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_Windows.zip" target="_blank">
+                <img src="/guides/windows.png" alt="Windows Icon">
                 <span>Windows</span>
             </a>
         </div>
         <div class="icon-box">
-            <a href="your-linux-link-here" target="_blank">
-                <img src="linux-icon.png" alt="Linux Icon">
+            <a href="https://flathub.org/apps/com.spacestation14.Launcher" target="_blank">
+                <img src="/guides/linux.png" alt="Linux Icon">
                 <span>Linux</span>
             </a>
         </div>
         <div class="icon-box">
-            <a href="your-mac-link-here" target="_blank">
-                <img src="mac-icon.png" alt="Mac Icon">
+            <a href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_macOS.zip" target="_blank">
+                <img src="/guides/mac.png" alt="Mac Icon">
                 <span>Mac</span>
             </a>
         </div>
