@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-06T15:43:03.392Z
+date: 2024-11-06T15:43:20.025Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -22,7 +22,7 @@ dateCreated: 2024-11-05T17:50:18.581Z
           <figure class="image"><img src="/guides/steam.png" sizes="" width="80%"></figure>  Steam
         </a>
         <a class="launcher_win" 
-href=""https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_Windows.zip"
+href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_Windows.zip
 " target="_blank" rel="nofollow">
            <figure class="image"><img src="/guides/windows.png" sizes="" width="80%"></figure> Windows
         </a>
