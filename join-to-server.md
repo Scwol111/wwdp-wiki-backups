@@ -1,8 +1,8 @@
 ---
-title: Руководство для новичков
+title: Как зайти на сервер
 description: 
 published: true
-date: 2024-11-06T16:17:16.953Z
+date: 2024-11-06T16:17:56.200Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
