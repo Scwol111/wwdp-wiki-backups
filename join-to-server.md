@@ -2,7 +2,7 @@
 title: Как зайти на сервер
 description: 
 published: true
-date: 2024-11-06T16:44:10.521Z
+date: 2024-11-06T16:52:02.027Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -18,16 +18,16 @@ dateCreated: 2024-11-05T17:50:18.581Z
             <div class="download_launcher_card">
     <div class="launcher_links">
         <a class="launcher_steam" href="https://store.steampowered.com/app/2585480/Space_Station_Multiverse/" target="_blank" rel="nofollow">
-          <figure class="image"><img src="/guides/steam.png" sizes="" width="80%"></figure>  Steam
+          <figure class="image"><img src="/guides/steam.png" sizes="" width="60%"></figure>  Steam
         </a>
         <a class="launcher_windows" href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_Windows.zip/" target="_blank" rel="nofollow">
-           <figure class="image"><img src="/guides/windows.png" sizes="" width="80%"></figure> Windows
+           <figure class="image"><img src="/guides/windows.png" sizes="" width="60%"></figure> Windows
         </a>
         <a class="launcher_linux" href="https://flathub.org/apps/com.spacestation14.Launcher" target="_blank" rel="nofollow">
-           <figure class="image"><img src="/guides/linux.png" sizes="" width="80%"></figure> Linux
+           <figure class="image"><img src="/guides/linux.png" sizes="" width="60%"></figure> Linux
         </a>
         <a class="launcher_mac" href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_macOS.zip" target="_blank" rel="nofollow">
-          <figure class="image"><img src="/guides/mac.png" sizes="" width="60%"></figure>  Mac
+          <figure class="image"><img src="/guides/mac.png" sizes="" width="50%"></figure>  Mac
         </a>
     </div>
 </div>
