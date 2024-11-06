@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-06T15:53:23.470Z
+date: 2024-11-06T15:53:59.435Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -10,7 +10,6 @@ dateCreated: 2024-11-05T17:50:18.581Z
 
 
 </div>
-    </ol>
     <h2>Как начать играть</h2>
     <ol type="1">
         <li>
@@ -33,14 +32,15 @@ dateCreated: 2024-11-05T17:50:18.581Z
         </a>
     </div>
 </div>
+        </div>
         <li>
             Необходимо Войти/Создать аккаунт в лаунчере, затем нажать на кнопку <code>Добавить в избранное...</code>
         </li>
         <img src="11.png" alt="Жмём кнопку">
         <li>
             В открывшемся окне вводим следующее:<br>
-            <b>Название</b>: <code id="copy_me">Medusa</code><br>
-            <b>Адрес</b> <code id="copy_me">ss14://37.27.69.246:1212</code><br>
+            <b>Название</b>: <code id="copy_me">Maiden</code><br>
+            <b>Адрес</b> <code id="copy_me">ss14s://ludere.ss14.su/maid</code><br>
             И жмём кнопку <code>Add</code>
         </li>
         <img src="22.png" alt="Вводим всякое">
@@ -48,6 +48,17 @@ dateCreated: 2024-11-05T17:50:18.581Z
             Жмём кнопку <code>Подключиться</code> и наслаждаемся игрой!
         </li>
         <img src="33.png" alt="Играем">
+    <h2>Альтернативный хаб</h2>
+    </ol>
+    <ol type="a">
+        <li>
+            Заходим в настройки хабов и вписываем эту ссылку <code id="copy_me">https://hub.ss14.su/</code> и жмём <code>Готово</code>
+        </li>
+        <img src="hubadd.png" alt="Пункты">
+        <li>
+            Ищем сервер <code>Maiden</code> в списке и играем!
+        </li>
+        <img src="44.png" alt="Тык">
     </ol>
 </div>
 
