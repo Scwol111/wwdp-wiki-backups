@@ -2,7 +2,7 @@
 title: Научный Отдел
 description: 
 published: true
-date: 2024-10-20T13:01:37.740Z
+date: 2024-11-06T17:26:44.192Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:37.739Z
@@ -14,7 +14,7 @@ dateCreated: 2024-10-20T13:01:37.739Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/researchdirector" class="custom-link">Научный руководитель</a></div>
-<div class="roleimg"><img src="/roles/scientificdepartment/researchdirector.png"></div>
+<div class="roleimg"><img src="/roles/researchdirector.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Капитан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -22,37 +22,42 @@ dateCreated: 2024-10-20T13:01:37.739Z
 </div>
 
 <div class="role">
-<div class="rolename"><a href="/roles/leadresearcher" class="custom-link">Ведущий исследователь</a></div>
-<div class="roleimg"><img src="/roles/scientificdepartment/leadresearcher.png"></div>
+<div class="rolename"><a href="/roles/mantis" class="custom-link">Мантис</a></div>
+<div class="roleimg"><img src="/roles/mantis.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Капитан, Научный руководитель</div>
+<div class="rolehead">Научный руководитель</div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Знает лучше, какие технологии нужно исследовать, чем научный руководитель. Забудет про то, что очки еще нужно получать и будет строить БОЛЬШИХ И СИЛЬНЫХ МЕХОВ.</div>  
+<div class="roledesc">Разгадывает тайны, большие и маленькие. От простых слэм-данков, таких как "кто убил клоуна", до вопросов природы вселенной. Отвечает за расследование мест преступлений в поисках улик. Держит псиоников в узде.</div> 
+</div>   
+
+<div class="role">
+<div class="rolename"><a href="/roles/roboticist" class="custom-link">Робототехник</a></div>
+<div class="roleimg"><img src="/roles/roboticist.png"></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Научный руководитель</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Захватывает власть своей армией киборгов, не забывая показывать им, кто в доме хозяин.</div> 
 </div>    
 
 <div class="role">
 <div class="rolename"><a href="/roles/scientist" class="custom-link">Учёный</a></div>
-<div class="roleimg"><img src="/roles/scientificdepartment/scientist.png"></div>
+<div class="roleimg"><img src="/roles/scientist.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Капитан, Научный руководитель</div>
+<div class="rolehead">Научный руководитель</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Исследуйте новые технологии, создавайте исследованные предметы в протолате и модернизируйте с их помощью станцию. Создавайте разнообразные газы, а затем <s>сгорайте вместе со всей станцией в огненном пламени</s>  изучайте их свойства.</div>  
 </div>  
 
 <div class="role">
 <div class="rolename"><a href="/roles/researchassistant" class="custom-link">Научный ассистент</a></div>
-<div class="roleimg"><img src="/roles/scientificdepartment/researchassistant.png"></div>
+<div class="roleimg"><img src="/roles/researchassistant.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Капитан, Научный руководитель</div>
+<div class="rolehead">Научный руководитель</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Помогайте своим коллегам, а сами, в это же время, обучайтесь основам научного отдела <s>и создания гранат</s>. Постарайтесь не умереть во время экспериментов над аномалиями и артефактами.</div>  
 </div>   
   
 </div>
-
-
-
-<img style="overflow-x: auto;" src="/roles/scientificdepartment/rooms/rnd_boxstation.png">
 
 <center>
 <div class="textcontainer">
