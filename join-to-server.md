@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-06T15:49:18.041Z
+date: 2024-11-06T15:53:23.470Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -10,6 +10,7 @@ dateCreated: 2024-11-05T17:50:18.581Z
 
 
 </div>
+    </ol>
     <h2>Как начать играть</h2>
     <ol type="1">
         <li>
@@ -47,7 +48,7 @@ dateCreated: 2024-11-05T17:50:18.581Z
             Жмём кнопку <code>Подключиться</code> и наслаждаемся игрой!
         </li>
         <img src="33.png" alt="Играем">
-
+    </ol>
 </div>
 
 
