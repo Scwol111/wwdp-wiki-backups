@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-06T15:43:20.025Z
+date: 2024-11-06T15:44:09.626Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -26,10 +26,10 @@ href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS
 " target="_blank" rel="nofollow">
            <figure class="image"><img src="/guides/windows.png" sizes="" width="80%"></figure> Windows
         </a>
-        <a class="launcher_linux" href="https://spacestationmultiverse.com/download/?version=stable&amp;platform=linux" target="_blank" rel="nofollow">
+        <a class="launcher_linux" href="https://flathub.org/apps/com.spacestation14.Launcher" target="_blank" rel="nofollow">
            <figure class="image"><img src="/guides/linux.png" sizes="" width="80%"></figure> Linux
         </a>
-        <a class="launcher_mac" href="https://spacestationmultiverse.com/download/?version=stable&amp;platform=mac" target="_blank" rel="nofollow">
+        <a class="launcher_mac" href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_macOS.zip" target="_blank" rel="nofollow">
           <figure class="image"><img src="/guides/mac.png" sizes="" width="60%"></figure>  Mac
         </a>
     </div>
