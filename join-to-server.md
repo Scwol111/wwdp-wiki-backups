@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-06T15:44:09.626Z
+date: 2024-11-06T15:44:58.243Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -21,9 +21,7 @@ dateCreated: 2024-11-05T17:50:18.581Z
         <a class="launcher_steam" href="https://store.steampowered.com/app/2585480/Space_Station_Multiverse/" target="_blank" rel="nofollow">
           <figure class="image"><img src="/guides/steam.png" sizes="" width="80%"></figure>  Steam
         </a>
-        <a class="launcher_win" 
-href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_Windows.zip
-" target="_blank" rel="nofollow">
+        <a class="launcher_" href="https://store.steampowered.com/app/2585480/Space_Station_Multiverse/" target="_blank" rel="nofollow">
            <figure class="image"><img src="/guides/windows.png" sizes="" width="80%"></figure> Windows
         </a>
         <a class="launcher_linux" href="https://flathub.org/apps/com.spacestation14.Launcher" target="_blank" rel="nofollow">
