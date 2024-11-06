@@ -2,7 +2,7 @@
 title: Как зайти на сервер
 description: 
 published: true
-date: 2024-11-06T16:52:02.027Z
+date: 2024-11-06T16:52:26.451Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -24,10 +24,10 @@ dateCreated: 2024-11-05T17:50:18.581Z
            <figure class="image"><img src="/guides/windows.png" sizes="" width="60%"></figure> Windows
         </a>
         <a class="launcher_linux" href="https://flathub.org/apps/com.spacestation14.Launcher" target="_blank" rel="nofollow">
-           <figure class="image"><img src="/guides/linux.png" sizes="" width="60%"></figure> Linux
+           <figure class="image"><img src="/guides/linux.png" sizes="" width="65%"></figure> Linux
         </a>
         <a class="launcher_mac" href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_macOS.zip" target="_blank" rel="nofollow">
-          <figure class="image"><img src="/guides/mac.png" sizes="" width="50%"></figure>  Mac
+          <figure class="image"><img src="/guides/mac.png" sizes="" width="55%"></figure>  Mac
         </a>
     </div>
 </div>
