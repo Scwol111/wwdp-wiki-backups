@@ -2,7 +2,7 @@
 title: Как зайти на сервер
 description: 
 published: true
-date: 2024-11-06T17:21:38.901Z
+date: 2024-11-06T17:22:36.839Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -36,7 +36,7 @@ dateCreated: 2024-11-05T17:50:18.581Z
             </a>
         </div>
         <div class="icon-box">
-            <a href="https://flathub.org/apps/com.spacestation14.Launcher" target="_blank" ::before>
+            <a href="https://flathub.org/apps/com.spacestation14.Launcher" target="_blank" rel="nofollow">
                 <img src="/guides/linux.png" alt="Linux Icon">
                 <span>Linux</span> 
             </a>
