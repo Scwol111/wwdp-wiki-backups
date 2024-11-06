@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-05T18:17:25.538Z
+date: 2024-11-06T14:21:13.627Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -56,7 +56,7 @@ dateCreated: 2024-11-05T17:50:18.581Z
         </li>
         <img src="hubadd.png" alt="Пункты">
         <li>
-            Ищем сервер <code>Maiden</code> в списке и играем!
+            Ищем сервер <code>Medusa</code> в списке и играем!
         </li>
         <img src="44.png" alt="Тык">
     </ol>
