@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-06T16:03:26.446Z
+date: 2024-11-06T16:03:42.195Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -36,7 +36,7 @@ dateCreated: 2024-11-05T17:50:18.581Z
         <li>
             Необходимо Войти/Создать аккаунт в лаунчере, затем нажать на кнопку <code>Добавить в избранное...</code>
         </li>
-        <img src="11.png" alt="Жмём кнопку">
+        <img src="11.jpg" alt="Жмём кнопку">
         <li>
             В открывшемся окне вводим следующее:<br>
             <b>Название</b>: <code id="copy_me">Medusa</code><br>
