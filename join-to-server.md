@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-06T15:35:35.202Z
+date: 2024-11-06T15:35:45.526Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -28,7 +28,7 @@ dateCreated: 2024-11-05T17:50:18.581Z
            <figure class="image"><img src="/guides/linux.png" sizes="" width="80%"></figure> Linux
         </a>
         <a class="launcher_mac" href="https://spacestationmultiverse.com/download/?version=stable&amp;platform=mac" target="_blank" rel="nofollow">
-          <figure class="image"><img src="/guides/mac.png" sizes="" width="70%"></figure>  Mac
+          <figure class="image"><img src="/guides/mac.png" sizes="" width="60%"></figure>  Mac
         </a>
     </div>
 </div>
