@@ -2,7 +2,7 @@
 title: Гражданские
 description: 
 published: true
-date: 2024-11-06T18:21:13.205Z
+date: 2024-11-06T18:26:09.348Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:40.050Z
@@ -281,27 +281,6 @@ dateCreated: 2024-10-20T13:01:40.050Z
 
 Ботаники отвечают за выращивание еды, лекарств и ресурсов на борту станции. Без вас шеф - повар может прибегнуть к «сомнительным» методам добычи еды. Обязательно используйте экстрактор семян и секатор, чтобы поддерживать постоянный запас семян. Вы можете попросить у химиков удобрение ["Robust harvest"](/guides/chemistry#chem_RobustHarvest), использовав его на растение вы увеличите размер получаемых плодов. Советуем ознакомиться с [Гидропоникой](/guides/hydroponics).
 
-### Инструменты
-
-| Изображение | Название | Описание |
-| --- | --- | --- |
-  | <center>![mini_hoe.png](/role/botanist/mini_hoe.png){.png1}</center> | <center>Тяпка</center> | Удаляет сорняки |
-| <center>![plant_clippers.png](/role/botanist/plant_clippers.png){.png1} | <center>Секатор</center> | Берет образцы (семена) с растений |
-| <center>![scythe.png](/role/botanist/scythe.png){.png1} | <center>Коса</center> | Острая, помогает собирать урожай |
-| <center>![spade.png](/role/botanist/spade.png){.png1} | <center>Лопата</center>| Убирает растения с гидропонного лотка |
-| <center>![bucket.png](/role/botanist/bucket.png){.png1} | <center>Ведро</center> | Используется для переноски воды |
-| <center>![plant_bag.png](/role/botanist/plant_bag.png){.png1} | <center>Сумка для растений</center> | Используется для переноски семян и растений |
-
-### Гидропонный лоток
-
-| Изображение | Название | Описание |
-| --- | --- | --- |
-| <center>![hydro_tray_health.gif](/role/botanist/hydrotray/hydro_tray_health.gif){.png1}</center> | <center>Красный свет, Левый</center> | Отмершее растение. Используйте лопату, чтобы удалить растение. |
-| <center>![hydro_tray_alert.gif](/role/botanist/hydrotray/hydro_tray_alert.gif){.png1} </center>| <center>Мигающий оранжевый свет, Центр</center> | Есть сорняки. Используйте тяпку или опрыскайте от сорняков. |
-| <center>![hydro_tray_water.gif](/role/botanist/hydrotray/hydro_tray_water.gif){.png1} </center>| <center>Голубой свет, Право</center> | Нуждается в воде. Наполните поддон водой. |
-| <center>![hydro_tray_harvest.gif](/role/botanist/hydrotray/hydro_tray_harvest.gif){.png1}</center> | <center>Зеленый свет, Левый</center> | Готов к сбору урожая. Щелкните, чтобы собрать урожай. |
-| <center>![hydro_tray_nutri.gif](/role/botanist/hydrotray/hydro_tray_nutri.gif){.png1}</center> | <center>Желтый свет, Справа</center> | Нуждается в удобрениях. Наполните поддон удобрениями. |
-
 ## Шеф-Повар
 
 Как шеф-повар, ваша работа - обеспечить персонал станции едой, используя вашу верную [Микроволновку](/guides/food) и [Размельчитель](/guides/food). В зависимости от смены, в какое-то время у вас почти не будет клиентов, а в другое время вы будете перегружены. Ваша задача — координировать действия с барменом и другими поварами, а также управлять распределением и нормированием еды, а также типами еды, необходимыми в текущей ситуации. Не стесняйтесь просить ботаников о необходимых растениях.
@@ -326,19 +305,6 @@ dateCreated: 2024-10-20T13:01:40.050Z
 ## Уборщик
 
 Как уборщик, ваша работа - содержать станцию в чистоте, насколько это возможно. Ваши основные обязанности - мыть полы, убирать мусор в мусоропроводах и очищать коридоры от всякого хлама. Также ваша роль - молча указывать на знак мокрого пола и тихо смеяться каждый раз, когда кто-то скользит.
-
-### Инструменты
-
-| Изображение | Название | Описание |
-| --- | --- | --- |
-| <center>![mopbucket.png](/role/janitor/mopbucket.png){.png1}</center> | <center>Ведро для швабры</center> | Потяните с собой, нажав CTRL + Левый клик |
-| <center>![mop.png](/role/janitor/mop.png){.png1}</center> | <center>Швабра</center> | Используется для уборки луж на полу. Используйте левый клик на ведре швабры, чтобы намочить и отжать швабру |
-| <center>![bucket.png](/role/janitor/bucket.png){.png1}</center> | <center>Ведро</center> | Используется для больших беспорядков на полу. Пролейте посередине и получите уборку |
-| <center>![trashbag.png](/role/janitor/trashbag.png){.png1}</center> | <center>Мешок для мусора</center> | Щелкните левой кнопкой мыши по мусору (окурки, пластиковые стаканчики и т.п), чтобы убрать в мешок. |
-| <center>![soap.png](/role/janitor/soap.png){.png1}</center> | <center>Мыло</center> | В настоящее время просто существует, чтобы проскользнуть |
-| <center>![spacecleaner.png](/role/janitor/spacecleaner.png){.png1}</center> | <center>'Космический уборщик'</center> | Используется для чистки стен и пола от граффити / напольной грязи. Спрей для очистки, это магия. Вы можете получить заправки из химической лаборатории, если это необходимо |
-| <center>![wetfloorsign.png](/role/janitor/wetfloorsign.png){.png1}</center> | <center>Знак мокрого пола</center> | Не забудьте указать на него каждый раз, когда кто-то поскользнется |
-| <center>![galoshes.png](/role/janitor/galoshes.png){.png1}</center> | <center>Галоши</center> | Предотвращает скольжение владельца |
 
 ## Клоун
 
