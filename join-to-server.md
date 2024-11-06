@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-06T15:45:20.663Z
+date: 2024-11-06T15:48:54.588Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -32,9 +32,6 @@ dateCreated: 2024-11-05T17:50:18.581Z
         </a>
     </div>
 </div>
-        </div>
-  Заходим в настройки хабов и вписываем эту ссылку <code id="copy_me">https://hub.ss14.su/</code> и жмём <code>Готово</code><br>
-        <img src="hubadd.png" alt="Пункты">
         <li>
             Необходимо Войти/Создать аккаунт в лаунчере, затем нажать на кнопку <code>Добавить в избранное...</code>
         </li>
