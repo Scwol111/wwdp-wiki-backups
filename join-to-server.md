@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-06T15:16:41.689Z
+date: 2024-11-06T15:19:38.696Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -19,7 +19,7 @@ dateCreated: 2024-11-05T17:50:18.581Z
             <div class="download_launcher_card">
     <div class="launcher_links">
         <a class="launcher_steam" href="https://store.steampowered.com/app/2585480/Space_Station_Multiverse/" target="_blank" rel="nofollow">
-            Steam
+          <figure class="image"><img src="/Steam" sizes="" width="80%"></figure>  Steam
         </a>
         <a class="launcher_win" href="https://spacestationmultiverse.com/download/?version=stable&amp;platform=windows" target="_blank" rel="nofollow">
             Windows
