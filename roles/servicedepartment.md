@@ -2,7 +2,7 @@
 title: Гражданские
 description: 
 published: true
-date: 2024-11-06T18:26:09.348Z
+date: 2024-11-06T18:30:24.684Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:40.050Z
@@ -162,7 +162,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
 </div> 
   
 <div class="role">
-<div class="rolename"><a href="/roles/musician" class="custom-link">Заключенный</a></div>
+<div class="rolename"><a href="/roles/prisoner" class="custom-link">Заключенный</a></div>
 <div class="roleimg"><img src="/roles/prisoner.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала</div>
@@ -171,7 +171,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
 </div> 
   
 <div class="role">
-<div class="rolename"><a href="/roles/musician" class="custom-link">Мастер боевых искусств</a></div>
+<div class="rolename"><a href="/roles/martial-artist" class="custom-link">Мастер боевых искусств</a></div>
 <div class="roleimg"><img src="/roles/martial-artist.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала</div>
@@ -180,7 +180,7 @@ dateCreated: 2024-10-20T13:01:40.050Z
 </div> 
   
 <div class="role">
-<div class="rolename"><a href="/roles/musician" class="custom-link">Гладиатор</a></div>
+<div class="rolename"><a href="/roles/gladiator" class="custom-link">Гладиатор</a></div>
 <div class="roleimg"><img src="/roles/gladiator.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава персонала</div>
@@ -337,6 +337,21 @@ dateCreated: 2024-10-20T13:01:40.050Z
 ## Сервисный работник
 
 Как технически подкованный член экипажа, вы являетесь неплохим подмастерьем в таких дисциплинах как - [наука](/roles/scientificdepartment) и [инженерия](/roles/engineeringdepartment) (другие сервисные профессии так же доступны вам в освоении). Ваша задача помогать основному штату персонала станции ~~или выпивать с другими ассистентами~~. Ближайшими целями для вас, являются поход к [Главе Персонала](/roles/headofpersonnel), а также работа по должности, выбранной вами.
+
+## Зоотехник
+
+
+## Боксёр
+
+## Репортёр
+
+## Космический бомж
+
+## Заключенный
+
+## Мастер боевых искусств
+
+## Гладиатор
   
 </div>
 </center>
