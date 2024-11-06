@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-11-06T14:21:13.627Z
+date: 2024-11-06T15:16:41.689Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -18,16 +18,16 @@ dateCreated: 2024-11-05T17:50:18.581Z
         <div id="top_content">
             <div class="download_launcher_card">
     <div class="launcher_links">
-        <a class="launcher_steam" href="https://store.steampowered.com/app/1255460/Space_Station_14/" target="_blank" rel="nofollow">
+        <a class="launcher_steam" href="https://store.steampowered.com/app/2585480/Space_Station_Multiverse/" target="_blank" rel="nofollow">
             Steam
         </a>
-        <a class="launcher_win" href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_Windows.zip" target="_blank" rel="nofollow">
+        <a class="launcher_win" href="https://spacestationmultiverse.com/download/?version=stable&amp;platform=windows" target="_blank" rel="nofollow">
             Windows
         </a>
-        <a class="launcher_linux" href="https://flathub.org/apps/com.spacestation14.Launcher" target="_blank" rel="nofollow">
+        <a class="launcher_linux" href="https://spacestationmultiverse.com/download/?version=stable&amp;platform=linux" target="_blank" rel="nofollow">
             Linux
         </a>
-        <a class="launcher_mac" href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_macOS.zip" target="_blank" rel="nofollow">
+        <a class="launcher_mac" href="https://spacestationmultiverse.com/download/?version=stable&amp;platform=mac" target="_blank" rel="nofollow">
             Mac
         </a>
     </div>
