@@ -2,7 +2,7 @@
 title: Как зайти на сервер
 description: 
 published: true
-date: 2024-11-06T17:37:18.585Z
+date: 2024-11-06T17:39:13.096Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -18,7 +18,6 @@ dateCreated: 2024-11-05T17:50:18.581Z
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
 
 </head>
 <body>
