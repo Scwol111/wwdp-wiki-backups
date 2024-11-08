@@ -2,7 +2,7 @@
 title: Робототехника
 description: 
 published: true
-date: 2024-11-08T20:09:21.750Z
+date: 2024-11-08T20:11:14.636Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-08T20:09:21.750Z
