@@ -2,27 +2,26 @@
 title: Паспорт робота
 description: 
 published: false
-date: 2024-11-10T18:34:09.517Z
+date: 2024-11-10T18:51:34.111Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-10T14:16:52.252Z
 ---
 
 <div class="robotic-card">
-  <div class="image">
-    <img src="/guides/science/robotics/medibot.png"/>
-    <p>МедБот</p>
-  </div>
   <div class="header">
+  	<div class="image">
+      <img src="/guides/science/robotics/medibot.png"/>
+      <p>МедБот</p>
+    </div>
     <p>Маленький доктор, который готов помочь вам с любым ранением!</p>
   </div>
   <div class="features">
-    <p>Технические характеристики:</p>
     <ul>
       <li>За один укол вводит 30 единиц трикордразина.</li>
       <li>Данный бот выдерживает 120 единиц любого урона.</li>
       <li>Данный бот может быть прикреплен к полу.</li>
-      <li>Приносит на 150&nbsp;% больше пользы чем интерн.</li>
+      <li>Приносит на 150% больше пользы чем интерн.</li>
     </ul>
   </div>
   <div class="equipment">Оборудование</div>
