@@ -2,15 +2,18 @@
 title: Паспорт робота
 description: 
 published: false
-date: 2024-11-10T17:33:22.803Z
+date: 2024-11-10T17:58:15.563Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-10T14:16:52.252Z
 ---
 
 <div class="robotic-card">
-  <div class="header">МедБот</div>
-  <div class="image"><img src="/guides/science/robotics/medibot.png"/></div>
+  <div class="image">
+    <img src="/guides/science/robotics/medibot.png"/>
+    <p>МедБот</p>
+  </div>
+  <div class="header">маленький доктор, который готов помочь вам с любым ранением!</div>
   <div class="description">МедБот — маленький доктор, который готов помочь вам с любым ранением!</div>
   <div class="features">
     <p>Технические характеристики:</p>
