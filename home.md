@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница
 published: true
-date: 2024-11-05T17:15:49.926Z
+date: 2024-11-10T12:31:35.944Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -97,7 +97,7 @@ dateCreated: 2024-09-10T19:12:06.984Z
                       </div>
                         </a>
                         <div class="new-string"></div>
-                        <a class="fredoka-font" href="https://forum.wwdp-ss14.ru/" class="community-link is-external-link">
+                        <a class="fredoka-font" href="https://forum.wwdp.ee/" class="community-link is-external-link">
                       <div class="community-element">
                         <img src="/main_page_icons/community_elements_logos/forum-link3.gif" class="element-image">Forum
                       </div>
