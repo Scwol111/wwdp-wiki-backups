@@ -2,7 +2,7 @@
 title: Паспорт робота
 description: 
 published: false
-date: 2024-11-11T07:58:08.482Z
+date: 2024-11-11T07:59:32.435Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-10T14:16:52.252Z
@@ -38,3 +38,5 @@ dateCreated: 2024-11-10T14:16:52.252Z
     <p>Используйте меню крафта через кнопку G для создания.</p>
   </div>
 </div>
+
+<p>ssssssss</p>
