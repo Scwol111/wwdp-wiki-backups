@@ -2,7 +2,7 @@
 title: Робототехника
 description: 
 published: true
-date: 2024-11-11T09:00:52.527Z
+date: 2024-11-11T09:01:46.971Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-08T20:09:21.750Z
@@ -84,8 +84,8 @@ dateCreated: 2024-11-08T20:09:21.750Z
       <li>Работает меньше среднестатистического уборщика.</li>
     </ul>
   </div>
-  <div class="equipment">Оборудование</div>
-  <div class="craft">Инструкция по созданию</div>
+  <div class="equipment hidden">Оборудование</div>
+  <div class="craft hidden">Инструкция по созданию</div>
   <div class="content">Ничего не поддерживает.</div>
   <div class="content">
     <p>Для создания вам потребуется:</p>
@@ -113,8 +113,8 @@ dateCreated: 2024-11-08T20:09:21.750Z
       <li>Постоянно нуждается в починке после встречи со службой безопасности.</li>
     </ul>
   </div>
-  <div class="equipment">Оборудование</div>
-    <div class="craft">Инструкция по созданию</div>
+  <div class="equipment hidden">Оборудование</div>
+    <div class="craft hidden">Инструкция по созданию</div>
     <div class="content">Ничего не поддерживает.</div>
     <div class="content">
       <p>Для создания вам потребуется:</p>
@@ -145,8 +145,8 @@ dateCreated: 2024-11-08T20:09:21.750Z
       <li>Постоянно нуждается в починке после встречи со службой безопасности.</li>
     </ul>
   </div>
-  <div class="equipment">Оборудование</div>
-    <div class="craft">Инструкция по созданию</div>
+  <div class="equipment hidden">Оборудование</div>
+    <div class="craft hidden">Инструкция по созданию</div>
     <div class="content">Ничего не поддерживает.</div>
     <div class="content">
       <p>Для создания вам потребуется:</p>
@@ -178,8 +178,8 @@ dateCreated: 2024-11-08T20:09:21.750Z
       <li>Нуждается в ХонкБоте.</li>
     </ul>
   </div>
-  <div class="equipment">Оборудование</div>
-    <div class="craft">Инструкция по созданию</div>
+  <div class="equipment hidden">Оборудование</div>
+    <div class="craft hidden">Инструкция по созданию</div>
     <div class="content">Ничего не поддерживает.</div>
     <div class="content">
       <p>Для создания вам потребуется:</p>
