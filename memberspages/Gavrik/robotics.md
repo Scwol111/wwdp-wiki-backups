@@ -2,7 +2,7 @@
 title: Робототехника
 description: 
 published: true
-date: 2024-11-10T18:27:21.649Z
+date: 2024-11-11T08:58:05.672Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-08T20:09:21.750Z
@@ -37,23 +37,27 @@ dateCreated: 2024-11-08T20:09:21.750Z
 
 <p>Боты – самые маленькие силиконы, создаваемые в отделе рнд. Поодиночке они не особо привлекательны, но если собрать целую армию из таких роботов, то это облегчит работу всей станции! (Или уничтожит её, если создавать хонкботов)</p>
 
+<!-- МедБот -->
 <div class="robotic-card">
-  <div class="cardheading">МедБот</div>
-  <div class="cardimage"><img src="/guides/science/robotics/medibot.png"/></div>
-  <div class="carddescription">МедБот — маленький доктор, который готов помочь вам с любым ранением!</div>
-  <div class="featuresheading">Технические характеристики:</div>
+  <div class="header">
+  	<div class="image">
+      <img src="/guides/science/robotics/medibot.png"/>
+      <p>МедБот</p>
+    </div>
+    <p>Маленький доктор, который готов помочь вам с любым ранением!</p>
+  </div>
   <div class="features">
     <ul>
-      <li>За один укол вводит 30 единиц трикордразина.</li>
-      <li>Данный бот выдерживает 120 единиц любого урона.</li>
-      <li>Данный бот может быть прикреплен к полу.</li>
-      <li>Приносит на 150&nbsp;% больше пользы чем интерн.</li>
+      <li>Имеет 120 единиц здоровья.</li>
+      <li>Одной иньекцией вводит 30 единиц трикордразина.</li>
+      <li>Может быть прикреплен к полу.</li>
+      <li>Приносит на 150% больше пользы чем интерн.</li>
     </ul>
   </div>
-  <div class="equipment">Оборудование</div>
-  <div class="craft">Инструкция по созданию</div>
-  <div class="content">Ничего не поддерживает.</div>
-  <div class="content">
+  <div class="equipment button">Оборудование</div>
+  <div class="craft button">Инструкция по созданию</div>
+  <div class="content hidden">Ничего не поддерживает.</div>
+  <div class="content hidden">
     <p>Для создания вам потребуется:</p>
     <ol>
       <li>Аптечка</li>
@@ -65,46 +69,51 @@ dateCreated: 2024-11-08T20:09:21.750Z
   </div>
 </div>
 
-<center>
-  <div class="roboticcard">
-    <div class="cardheading">КлинБот</div>
-    <div class="cardimage"><img src="/guides/science/robotics/cleanbot.png" alt="cleanbot.png" /></div>
-    <div class="carddescription">КлинБот — продвинутый уборщик, которому можно не платить зарплату.</div>
-    <div class="featuresheading">Технические характеристики:</div>
-    <div class="features">
-      <ul>
-        <li>Данный бот выдерживает 120 единиц любого урона.</li>
-        <li>Работает меньше среднестатистического уборщика.</li>
-      </ul>
+<!-- КлинБот -->
+<div class="robotic-card">
+  <div class="header">
+  	<div class="image">
+      <img src="/guides/science/robotics/cleanbot.png"/>
+      <p>КлинБот</p>
     </div>
-    <div class="equipment">Оборудование</div>
-    <div class="craft">Инструкция по созданию</div>
-    <div class="content">Ничего не поддерживает.</div>
-    <div class="content">
-      <p>Для создания вам потребуется:</p>
-      <ol>
-        <li>Ведро</li>
-        <li>Датчик движения</li>
-        <li>Левая или правая рука робота</li>
-      </ol>
-      <p>Используйте меню крафта через кнопку G для создания.</p>
-    </div>
+    <p>Продвинутый уборщик, которому можно не платить зарплату.</p>
   </div>
-</center>
+  <div class="features">
+    <ul>
+      <li>Данный бот выдерживает 120 единиц любого урона.</li>
+      <li>Работает меньше среднестатистического уборщика.</li>
+    </ul>
+  </div>
+  <div class="equipment">Оборудование</div>
+  <div class="craft">Инструкция по созданию</div>
+  <div class="content">Ничего не поддерживает.</div>
+  <div class="content">
+    <p>Для создания вам потребуется:</p>
+    <ol>
+      <li>Ведро</li>
+      <li>Датчик движения</li>
+      <li>Левая или правая рука робота</li>
+    </ol>
+    <p>Используйте меню крафта через кнопку G для создания.</p>
+  </div>
+</div>
 
-<center>
-  <div class="roboticcard">
-    <div class="cardheading">ХонкБот</div>
-    <div class="cardimage"><img src="/guides/science/robotics/honkbot.png" alt="honkbot.png" /></div>
-    <div class="carddescription">Хонкбот — маленький бот, способный поскальзывать на себе людей.</div>
-    <div class="featuresheading">Технические характеристики:</div>
-    <div class="features">
-      <ul>
-        <li>Данный бот выдерживает 120 единиц любого урона.</li>
-        <li>Постоянно нуждается в починке после встречи со службой безопасности.</li>
-      </ul>
+<!-- ХонкБот -->
+<div class="robotic-card">
+  <div class="header">
+  	<div class="image">
+      <img src="/guides/science/robotics/cleanbot.png"/>
+      <p>ХонкБот</p>
     </div>
-    <div class="equipment">Оборудование</div>
+    <p>Маленький бот, способный поскальзывать на себе людей.</p>
+  </div>
+  <div class="features">
+    <ul>
+      <li>Имеет 120 единиц здоровья.</li>
+      <li>Постоянно нуждается в починке после встречи со службой безопасности.</li>
+    </ul>
+  </div>
+  <div class="equipment">Оборудование</div>
     <div class="craft">Инструкция по созданию</div>
     <div class="content">Ничего не поддерживает.</div>
     <div class="content">
@@ -117,24 +126,26 @@ dateCreated: 2024-11-08T20:09:21.750Z
         <li>Левая или правая рука робота</li>
       </ol>
       <p>Используйте меню крафта через кнопку G для создания.</p>
-    </div>
   </div>
-</center>
+</div>
 
-<center>
-  <div class="roboticcard">
-    <div class="cardheading">Проклятый ХонкБот</div>
-    <div class="cardimage"><img src="/guides/science/robotics/jonkbot.png" alt="jonkbot.png" /></div>
-    <div class="carddescription">Проклятый Хонкбот — проклятая версия ХонкБота.</div>
-    <div class="featuresheading">Технические характеристики:</div>
-    <div class="features">
-      <ul>
-        <li>Данный бот выдерживает 110 единиц любого урона.</li>
-        <li>Взрывается после полной поломки.</li>
-        <li>Постоянно нуждается в починке после встречи со службой безопасности.</li>
-      </ul>
+<!-- Проклятый ХонкБот -->
+<div class="robotic-card">
+  <div class="header">
+  	<div class="image">
+      <img src="/guides/science/robotics/jonkbot.png"/>
+      <p>Проклятый ХонкБот</p>
     </div>
-    <div class="equipment">Оборудование</div>
+    <p>Проклятая версия ХонкБота</p>
+  </div>
+  <div class="features">
+    <ul>
+      <li>Имеет 110 единиц здоровья.</li>
+      <li>Взрывается после полной поломки.</li>
+      <li>Постоянно нуждается в починке после встречи со службой безопасности.</li>
+    </ul>
+  </div>
+  <div class="equipment">Оборудование</div>
     <div class="craft">Инструкция по созданию</div>
     <div class="content">Ничего не поддерживает.</div>
     <div class="content">
@@ -147,26 +158,27 @@ dateCreated: 2024-11-08T20:09:21.750Z
         <li>Левая или правая рука робота</li>
       </ol>
       <p>Используйте меню крафта через кнопку G для создания.</p>
-    </div>
   </div>
-</center>
+</div>
 
-
-<center>
-  <div class="roboticcard">
-    <div class="cardheading">МимБот</div>
-    <div class="cardimage"><img src="/guides/science/robotics/mimebot.png" alt="mimebot.png" /></div>
-    <div class="carddescription">МимБот — самый тихий бот, который точно не может доставить проблем!</div>
-    <div class="featuresheading">Технические характеристики:</div>
-    <div class="features">
-      <ul>
-        <li>Данный бот выдерживает 120 единиц любого урона.</li>
-        <li>Может общаться эмоциями.</li>
-        <li>Может ставить невидимые стены.</li>
-        <li>Каждому МимБоту нужен брат-хонкбот.</li>
-      </ul>
+<!-- МимБот -->
+<div class="robotic-card">
+  <div class="header">
+  	<div class="image">
+      <img src="/guides/science/robotics/jonkbot.png"/>
+      <p>МимБот</p>
     </div>
-    <div class="equipment">Оборудование</div>
+    <p>Самый тихий бот, который точно не может доставить проблем!</p>
+  </div>
+  <div class="features">
+    <ul>
+      <li>Имеет 120 единиц здоровья.</li>
+      <li>Может общаться эмоциями.</li>
+      <li>Может ставить невидимые стены.</li>
+      <li>Нуждается в ХонкБоте.</li>
+    </ul>
+  </div>
+  <div class="equipment">Оборудование</div>
     <div class="craft">Инструкция по созданию</div>
     <div class="content">Ничего не поддерживает.</div>
     <div class="content">
@@ -181,8 +193,7 @@ dateCreated: 2024-11-08T20:09:21.750Z
       </ol>
       <p>Используйте меню крафта через кнопку G для создания.</p>
     </div>
-  </div>
-</center>
+</div>
 
 
 <h2>Экзокостюмы</h2>
