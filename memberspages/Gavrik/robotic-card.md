@@ -2,7 +2,7 @@
 title: Паспорт робота
 description: 
 published: false
-date: 2024-11-10T19:09:17.986Z
+date: 2024-11-11T07:31:47.206Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-10T14:16:52.252Z
@@ -24,8 +24,8 @@ dateCreated: 2024-11-10T14:16:52.252Z
       <li>Приносит на 150% больше пользы чем интерн.</li>
     </ul>
   </div>
-  <div class="equipment">Оборудование</div>
-  <div class="craft">Инструкция по созданию</div>
+  <div class="equipment button">Оборудование</div>
+  <div class="craft button">Инструкция по созданию</div>
   <div class="content">Ничего не поддерживает.</div>
   <div class="content">
     <p>Для создания вам потребуется:</p>
