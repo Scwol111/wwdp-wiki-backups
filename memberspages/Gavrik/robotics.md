@@ -2,7 +2,7 @@
 title: Робототехника
 description: 
 published: true
-date: 2024-11-11T09:01:46.971Z
+date: 2024-11-11T09:03:28.393Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-08T20:09:21.750Z
@@ -84,10 +84,10 @@ dateCreated: 2024-11-08T20:09:21.750Z
       <li>Работает меньше среднестатистического уборщика.</li>
     </ul>
   </div>
-  <div class="equipment hidden">Оборудование</div>
-  <div class="craft hidden">Инструкция по созданию</div>
-  <div class="content">Ничего не поддерживает.</div>
-  <div class="content">
+  <div class="equipment button">Оборудование</div>
+  <div class="craft button">Инструкция по созданию</div>
+  <div class="content hidden">Ничего не поддерживает.</div>
+  <div class="content hidden">
     <p>Для создания вам потребуется:</p>
     <ol>
       <li>Ведро</li>
@@ -113,10 +113,10 @@ dateCreated: 2024-11-08T20:09:21.750Z
       <li>Постоянно нуждается в починке после встречи со службой безопасности.</li>
     </ul>
   </div>
-  <div class="equipment hidden">Оборудование</div>
-    <div class="craft hidden">Инструкция по созданию</div>
-    <div class="content">Ничего не поддерживает.</div>
-    <div class="content">
+  <div class="equipment button">Оборудование</div>
+    <div class="craft button">Инструкция по созданию</div>
+    <div class="content hidden">Ничего не поддерживает.</div>
+    <div class="content hidden">
       <p>Для создания вам потребуется:</p>
       <ol>
         <li>Гудок клоуна</li>
@@ -145,10 +145,10 @@ dateCreated: 2024-11-08T20:09:21.750Z
       <li>Постоянно нуждается в починке после встречи со службой безопасности.</li>
     </ul>
   </div>
-  <div class="equipment hidden">Оборудование</div>
-    <div class="craft hidden">Инструкция по созданию</div>
-    <div class="content">Ничего не поддерживает.</div>
-    <div class="content">
+  <div class="equipment button">Оборудование</div>
+    <div class="craft button">Инструкция по созданию</div>
+    <div class="content hidden">Ничего не поддерживает.</div>
+    <div class="content hidden">
       <p>Для создания вам потребуется:</p>
       <ol>
         <li>Проклятый гудок клоуна</li>
@@ -178,10 +178,10 @@ dateCreated: 2024-11-08T20:09:21.750Z
       <li>Нуждается в ХонкБоте.</li>
     </ul>
   </div>
-  <div class="equipment hidden">Оборудование</div>
-    <div class="craft hidden">Инструкция по созданию</div>
-    <div class="content">Ничего не поддерживает.</div>
-    <div class="content">
+  <div class="equipment button">Оборудование</div>
+    <div class="craft button">Инструкция по созданию</div>
+    <div class="content hidden">Ничего не поддерживает.</div>
+    <div class="content hidden">
       <p>Для создания вам потребуется:</p>
       <ol>
         <li>Мим хонк мил</li>
@@ -194,7 +194,6 @@ dateCreated: 2024-11-08T20:09:21.750Z
       <p>Используйте меню крафта через кнопку G для создания.</p>
     </div>
 </div>
-
 
 <h2>Экзокостюмы</h2>
 
