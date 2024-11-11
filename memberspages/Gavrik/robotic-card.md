@@ -2,12 +2,13 @@
 title: Паспорт робота
 description: 
 published: false
-date: 2024-11-11T08:30:33.717Z
+date: 2024-11-11T08:35:14.082Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-10T14:16:52.252Z
 ---
 
+<center>
 <div class="robotic-card">
   <div class="header">
   	<div class="image">
@@ -38,5 +39,5 @@ dateCreated: 2024-11-10T14:16:52.252Z
     <p>Используйте меню крафта через кнопку G для создания.</p>
   </div>
 </div>
-
+</center>
 <p>ssssssss</p>
