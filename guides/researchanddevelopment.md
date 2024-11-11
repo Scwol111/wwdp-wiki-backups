@@ -2,7 +2,7 @@
 title: Исследование и Разработка
 description: 
 published: true
-date: 2024-10-13T15:55:29.052Z
+date: 2024-11-11T16:25:00.421Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:43.980Z
