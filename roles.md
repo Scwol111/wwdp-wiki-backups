@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-10-30T18:04:21.665Z
+date: 2024-11-12T08:49:43.817Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -399,6 +399,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/baby-slime">Улыбкин</a><a href="/roles/baby-slime"><img src="/roles/baby-slime.gif" /></a></div>
   <div><div>Не перепутайте с обычным слаймом. Это питомец научного отдела, он не кусается.</div></div>
   <div>Легко</div>
+  <div><a href="/roles/gondola">Гондола</a><a href="/roles/gondola"><img src="/roles/gondola.png" /></a></div>
+  <div><div>Забавное создание, способное только наблюдать и иногда издавать забавные звуки.</div></div>
+  <div>...</div>
   <div><a href="/roles/laika">Лайка</a><a href="/roles/laika"><img src="/roles/secdog.gif" /></a></div>
   <div><div>Собака, принадлежащая Главе Службы Безопасности. Это уличная порода, всегда готовая к драке. Она чувствует нарушение закона.</div></div>
   <div>Легко</div>
