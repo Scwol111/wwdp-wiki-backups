@@ -2,7 +2,7 @@
 title: Руководства для маленьких викиводов
 description: 
 published: false
-date: 2024-11-12T09:20:10.516Z
+date: 2024-11-12T09:20:19.715Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T09:02:33.879Z
@@ -22,7 +22,7 @@ dateCreated: 2024-11-12T09:02:33.879Z
     </div>
     <div class="content-table" id="advanced">
       <a href="/wiki-inside/design-guide"><img src="/icons8-html-48.png" alt="shitcur.png" class="zoom"/>Гайд на html</a>
-      <p>Базовый гайд по html</p>
+      <p>Базовый гайд по html.</p>
     </div>
     <div class="content-table" id="templates">
       <a href="/guides/shitcurity"><img src="https://wiki.ss14.su/main_page_icons/roles_icon.png" alt="shitcur.png" class="zoom"/>Паспорт роли</a>
