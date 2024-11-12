@@ -2,7 +2,7 @@
 title: Руководства для маленьких викиводов
 description: 
 published: false
-date: 2024-11-12T11:29:25.231Z
+date: 2024-11-12T15:31:46.631Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T09:02:33.879Z
@@ -17,7 +17,7 @@ dateCreated: 2024-11-12T09:02:33.879Z
     <div class="content-table" id="bas">
       <a href="/guides/interactions"><img src="/guides/interactions.png" alt="interactions.png" class="zoom"/>Взаимодействия</a>
       <p>Это руководство научит вас основам взаимодействия с игровым миром.</p>
-      <a href="/guides/interactions"><img src="/guides/interactions.png" alt="interactions.png" class="zoom"/>Таблица ролей</a>
+      <a href="/guides/interactions"><img src="/bar_jobslots.png" alt="interactions.png" class="zoom"/>Таблица ролей</a>
       <p>Руководство по обновлению, дополнению и изменению таблицы ролей.</p>
     </div>
     <div class="content-table" id="advanced">
@@ -25,7 +25,7 @@ dateCreated: 2024-11-12T09:02:33.879Z
       <p>Базовый гайд по html.</p>
     </div>
     <div class="content-table" id="templates">
-      <a href="/guides/shitcurity"><img src="https://wiki.ss14.su/main_page_icons/roles_icon.png" alt="shitcur.png" class="zoom"/>Паспорт роли</a>
+      <a href="/wiki-inside/templates/role-passport"><img src="https://wiki.ss14.su/main_page_icons/roles_icon.png" alt="shitcur.png" class="zoom"/>Паспорт роли</a>
       <p>Шаблон, используемый на страницах ролей.</p>
     </div>
   </div>
