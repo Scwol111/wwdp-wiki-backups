@@ -2,11 +2,15 @@
 title: Интерн
 description: 
 published: true
-date: 2024-11-13T14:57:10.903Z
+date: 2024-11-13T15:01:13.515Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:24.032Z
 ---
+
+> в этой статье не будет никаких руководств, как лечить людей. Это руководство по освоению в медицинском отделе, если вам требуется что-то другое - проверьте прикрепленные руководства
+{.is-warning}
+
 
 <div style="display: flex; justify-content: center;"><div class="roles-passport med">
   <div class="title med"><a href="/roles/medicaldepartment" class="is-internal-link is-valid-page">Медицинский отдел</a></div>
@@ -17,7 +21,7 @@ dateCreated: 2024-09-10T19:08:24.032Z
     <p><strong>Сложность:</strong> Лёгкая</p>
     <strong>Обязанности:</strong> Помогите...<br>
     <b>Руководители</b>: <a href="/roles/chiefmedicalofficer" title="Старший Медицинский Офицер" class="is-internal-link is-valid-page">Старший Медицинский Офицер</a><br>
-    <b>Руководства</b>: <a href="/guides/medicine" title="Медицина" class="is-internal-link is-valid-page">Медицина</a> • <a href="/guides/chemistry" title="Химия" class="is-internal-link is-valid-page">Химия</a> • <a href="/guides/medicalequipment" title="Медицинский инвентарь" class="is-internal-link is-valid-page">Медицинский инвентарь</a> • <a href="/guides/soul" title="Состояния души" class="is-internal-link is-valid-page">Состояния души</a>
+    <b>Руководства</b>: <a href="/guides/medicine" title="Медицина" class="is-internal-link is-valid-page">Медицина</a> • <a href="/guides/chemistry" title="Химия" class="is-internal-link is-valid-page">Химия</a> • <a href="/guides/medicalequipment" title="Медицинский инвентарь" class="is-internal-link is-valid-page">Медицинский инвентарь</a> • <a href="/guides/soul" title="Состояния души" class="is-internal-link is-valid-page">Состояния души</a> • <a href="/guides/cloning"> Клонирование</a>
   </div></div>
   </div>
 </div>
@@ -36,9 +40,8 @@ dateCreated: 2024-09-10T19:08:24.032Z
   </div>
 </div><br>
 <noinclude><p></p>
-<h2 id="я-новичок" class="toc-header"><a class="toc-anchor" href="#я-новичок">¶</a> <center>Я новичок</center></h2>
-<p><strong>Предупреждение</strong> - в этой статье не будет никаких руководств, как лечить людей. Это руководство по освоению в медицинском отделе, если вам требуется что-то другое - проверьте прикрепленные руководства<br>
-Как интерн - ваша задача научиться лечить людей, помогать им, клонировать их гнилые тела и заниматься прочей важной работой. Для начала стоит разобраться, кто за что отвечает.</p>
+<h2 id="я-новичок" class="toc-header"><a class="toc-anchor" href="#я-новичок">¶</a> <center>Я новичок</center></h2><p>
+Ваша задача как интерна — научиться лечить людей, помогать им, заниматься важной работой, например, клонировать их гниющие тела. Однако для начала стоит понять, кто за что отвечает.<p>
 <div><center style="overflow-x: auto">
   <table class="medical-table">
     <thead>
