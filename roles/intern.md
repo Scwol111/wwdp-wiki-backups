@@ -2,7 +2,7 @@
 title: Интерн
 description: 
 published: true
-date: 2024-11-13T14:15:08.646Z
+date: 2024-11-13T14:16:18.958Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:24.032Z
@@ -31,7 +31,7 @@ dateCreated: 2024-09-10T19:08:24.032Z
 <h2 id="я-новичок" class="toc-header"><a class="toc-anchor" href="#я-новичок">¶</a> <center>Я новичок</center></h2>
 <p><strong>Предупреждение</strong> - в этой статье не будет никаких руководств, как лечить людей. Это руководство по освоению в медицинском отделе, если вам требуется что-то другое - проверьте прикрепленные руководства<br>
 Как интерн - ваша задача научиться лечить людей, помогать им, клонировать их гнилые тела и заниматься прочей важной работой. Для начала стоит разобраться, кто за что отвечает.</p>
-<div>
+<div><center>
   <table class="medical-table">
     <thead>
       <tr style="font-weight:bold; text-align:center; vertical-align:middle; background-color:#27272E; color:#FFF;">
@@ -53,6 +53,7 @@ dateCreated: 2024-09-10T19:08:24.032Z
       </tr>
     </tbody>
   </table>
+</center>
 </div>
 <p></p>
 <h2 id="подготовка-к-работе" class="toc-header"><a class="toc-anchor" href="#подготовка-к-работе">¶</a> <center>Подготовка к работе</center></h2>
