@@ -2,7 +2,7 @@
 title: Призрак
 description: 
 published: true
-date: 2024-10-04T14:29:34.265Z
+date: 2024-11-13T15:12:07.723Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:23:31.951Z
@@ -33,15 +33,16 @@ dateCreated: 2024-09-25T17:23:31.951Z
 
 Так как призраки не материальны их не видно живым игрокам.
 
-Слева экрана есть кнопки:
+Вверху экрана есть следующие кнопки:
 
-<div class="table">
+<div class="table"><center>
   
 | Кнопка | Описание |
 |--------|----------|
 |<center>![scream1.png](/roles/some_service_shet/scream.png){.png1}</center> | Заставляет свет мигать, чем можно пугать своих коллег. |
 |<center>![light.svg.192dpi.png](/roles/some_service_shet/light.svg.192dpi.png){.png1}</center> | Позволяет убрать все тени, тем самым позволяет видеть в темноте. |
 |<center>![vv.svg.192dpi.png](/roles/some_service_shet/vv.svg.192dpi.png){.png1}</center> | Позволяет видеть так, как живые люди. То есть не сквозь стены. |
+</center>
 </div>
 
 Внизу экрана можно заметить кнопку <b>Роли призраков</b>. Нажав на неё, вы сможете стать доступной ролью, к примеру: <a href="/roles/mouse">мышь</a>.
