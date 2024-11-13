@@ -2,7 +2,7 @@
 title: Паспорт робота
 description: 
 published: false
-date: 2024-11-11T09:00:40.364Z
+date: 2024-11-13T17:31:06.424Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-10T14:16:52.252Z
