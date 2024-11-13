@@ -2,7 +2,7 @@
 title: Глава Службы Безопасности
 description: 
 published: true
-date: 2024-10-11T21:18:56.527Z
+date: 2024-11-13T13:52:11.054Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-20T19:10:23.267Z
@@ -81,23 +81,23 @@ dateCreated: 2024-09-20T19:10:23.267Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/roles/warden.png"><br><a href="/roles/warden" class="is-internal-link is-valid-page">Смотритель</a></td>
+        <td><a href="/roles/warden"><img src="/roles/warden.png"></a><br><a href="/roles/warden">Смотритель</a></td>
         <td>Сторожевой пес Брига. Следите за тем, чтобы он держал под контролем все таймеры на камерах содержания заключенных, поддерживал работу Брига и не покидал его, пока там находятся заключенные. Он следующий в очереди на вашу должность, если вас сместят, и ваш самый старший лейтенант. Относитесь к нему как к своей правой руке, поскольку в большинстве ситуаций он сможет прекрасно управлять Бригом в одиночку.</td>
       </tr>
       <tr>
-        <td><img src="/roles/detective.png"><br><a href="/roles/detective" class="is-internal-link is-valid-page">Детектив</a></td>
+        <td><a href="/roles/warden"><img src="/roles/detective.png"></a><br><a href="/roles/detective" class="is-internal-link is-valid-page">Детектив</a></td>
         <td>Просто позвольте ему заниматься своим делом. Он привык работать с достаточной степенью автономии от остального коллектива. Просто не забывайте время от времени интересоваться его делами и будьте готовы послать краснорубашечников, если он раскроет что-то серьезное.</td>
       </tr>
       <tr>
-        <td><img src="/roles/prison-guard.png"><br><a href="/roles/prison-guard" class="is-internal-link is-valid-page">Тюремный надзиратель</a></td>
+        <td><a href="/roles/warden"><img src="/roles/prison-guard.png"></a><br><a href="/roles/prison-guard" class="is-internal-link is-valid-page">Тюремный надзиратель</a></td>
         <td>Правая рука смотрителя, следит за заключенными и бригом. Не забывайте время от времени проверять их работу.</td>
       </tr>
       <tr>
-        <td><img src="/roles/officer.png"><br><a href="/roles/officer" class="is-internal-link is-valid-page">Офицер Службы Безопасности</a></td>
+        <td><a href="/roles/warden"><img src="/roles/officer.png"></a><br><a href="/roles/officer" class="is-internal-link is-valid-page">Офицер Службы Безопасности</a></td>
         <td>Это ваши пешки и ваша задача — грамотно управлять ими. По прибытию на станцию инструктируйте каждого офицера и выдавайте им задания. Требуйте от них дисциплины, орите на них, если потребуется. Эффективным средством бывает так же посадить особо непонимающих офицеров в камеру. В крайнем случае не брезгуйте увольнять их и просить у Главы Персонала новых. Иногда в вашей команде может появиться новый игрок, поэтому не стоит слишком усердствовать с ним.</td>
       </tr>
       <tr>
-        <td><img src="/roles/cadet.png"><br><a href="/roles/cadet" class="is-internal-link is-valid-page">Кадет</a></td>
+        <td><a href="/roles/warden"><img src="/roles/cadet.png"></a><br><a href="/roles/cadet" class="is-internal-link is-valid-page">Кадет</a></td>
         <td>Кадеты - это продуценты в экологической пирамиде Брига. Ещё зелёные как травка. В начале смены на бриффинге назначьте по кадету на каждого офицера, чтобы они обучались и были под пресмотром, а то заманят в дормы бедненьких. Если остались лишние кадеты, то направьте их на обучение к <a href="/roles/warden" class="is-internal-link is-valid-page">Смотрителю</a> или отдайте на попечительство <a href="/roles/veteran" class="is-internal-link is-valid-page">Ветерану</a>, который уже пояснит им правила здешних мест и основы.</td>
       </tr>
     </tbody>
