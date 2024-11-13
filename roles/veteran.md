@@ -2,8 +2,8 @@
 title: Ветеран
 description: 
 published: true
-date: 2024-10-10T19:33:31.407Z
-tags: 
+date: 2024-11-13T15:28:47.028Z
+tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:01:21.901Z
 ---
