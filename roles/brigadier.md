@@ -2,8 +2,8 @@
 title: Бригадир
 description: 
 published: true
-date: 2024-10-10T19:34:02.050Z
-tags: роли
+date: 2024-11-13T15:26:17.563Z
+tags: роли, архив
 editor: markdown
 dateCreated: 2024-09-10T19:08:13.298Z
 ---
