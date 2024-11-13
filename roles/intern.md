@@ -2,7 +2,7 @@
 title: Интерн
 description: 
 published: true
-date: 2024-11-13T14:51:39.352Z
+date: 2024-11-13T14:56:21.996Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:24.032Z
@@ -23,10 +23,18 @@ dateCreated: 2024-09-10T19:08:24.032Z
 </div>
 </div>
 <p>
-</p><div class="floatright"><a href="/roles/chiefmedicalofficer" class="image is-internal-link is-valid-page" title="128"><img alt="chiefmedicalofficer.png" src="/roles/chiefmedicalofficer.png" decoding="async" width="192" height="192" data-file-width="114" data-file-height="192"></a></div><div> 
-
-</div><div style="display: flex; flex-flow: row wrap; border: 1px solid #111010; border-radius: 10px; background-color: #111010; padding: 30px; color: #BB9C31; font-size: 16pt; justify-content: center; align-items: center;">СМО говорит:
-<p>"Добро пожаловать. Добро пожаловать в Медбей. Сами вы его выбрали или его выбрали за вас, это лучший отдел из имеющихся. Я горжусь тем, что работаю тут. Итак, собираетесь ли вы остаться здесь, или же вас ждут неизвестные дали, добро пожаловать в Медицинский Отдел. Здесь умирают люди и это ваши проблемы."<br></p></div><br>
+</p>
+<div class="medbay-welcome" style="display: none;">
+  <div class="floatright">
+    <a href="/roles/chiefmedicalofficer" class="image is-internal-link is-valid-page" title="128">
+      <img alt="chiefmedicalofficer.png" src="/roles/chiefmedicalofficer.png" decoding="async" width="192" height="192" data-file-width="114" data-file-height="192">
+    </a>
+  </div>
+  <div style="display: flex; flex-flow: row wrap; border: 1px solid #111010; border-radius: 10px; background-color: #111010; padding: 30px; color: #BB9C31; font-size: 16pt; justify-content: center; align-items: center;">
+    СМО говорит:
+    <p>"Добро пожаловать. Добро пожаловать в Медбей. Сами вы его выбрали или его выбрали за вас, это лучший отдел из имеющихся. Я горжусь тем, что работаю тут. Итак, собираетесь ли вы остаться здесь, или же вас ждут неизвестные дали, добро пожаловать в Медицинский Отдел. Здесь умирают люди и это ваши проблемы."<br></p>
+  </div>
+</div><br>
 <noinclude><p></p>
 <h2 id="я-новичок" class="toc-header"><a class="toc-anchor" href="#я-новичок">¶</a> <center>Я новичок</center></h2>
 <p><strong>Предупреждение</strong> - в этой статье не будет никаких руководств, как лечить людей. Это руководство по освоению в медицинском отделе, если вам требуется что-то другое - проверьте прикрепленные руководства<br>
