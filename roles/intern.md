@@ -2,7 +2,7 @@
 title: Интерн
 description: 
 published: true
-date: 2024-11-13T14:27:05.559Z
+date: 2024-11-13T14:29:03.867Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:24.032Z
@@ -34,7 +34,7 @@ dateCreated: 2024-09-10T19:08:24.032Z
 <div><center>
   <table class="medical-table">
     <thead>
-      <tr style="font-weight:bold; text-align:center; vertical-align:middle; background-color:#27272E; color:#FFF;">
+      <tr style="font-weight:bold; text-align:center;">
         <td><a href="/roles/chiefmedicalofficer"title="СМО"><img src="/roles/chiefmedicalofficer.png" class="role-icon" alt="СМО"></a><br>СМО</td>
         <td><a href="/roles/doctor" title="Врач"><img src="/roles/doctor.png" class="role-icon" alt="Врач"></a><br>Врач</td>
         <td><a href="/roles/paramedic" title="парамедик" ><img src="/roles/paramedic.png" class="role-icon" alt="Парамедик"></a><br>Парамедик</td>
@@ -47,7 +47,7 @@ dateCreated: 2024-09-10T19:08:24.032Z
         <td>Глава отдела. Занимается менеджментом ресурсов, персонала. Обучает новичков врачебному делу в отсутствие другой работы.</td>
         <td>Стандартный представитель врачебного дела. Лечит двух ассистентов последними пластырями и смотрит, как они снова дерутся в прихожей.</td>
         <td>Бегает по станции в поиске раненных. Помогает в отделе.</td>
-        <td>Синтезирует высокоэффективные медикаменты. Иногда синтезирует <a href="/guides/chemistry" title="Химия" class="is-internal-link is-valid-page">кое-что другое.</a></td>
+        <td>Синтезирует высокоэффективные медикаменты. Иногда синтезирует <a href="/guides/chemistry" title="Химия">кое-что другое.</a></td>
         <td>Следит за психическим состоянием экипажа.</td>
         <td>Самый младший персонал отдела. Избивают раненных аптечками в попытках вылечить раны.</td>
       </tr>
