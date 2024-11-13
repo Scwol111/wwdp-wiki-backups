@@ -2,7 +2,7 @@
 title: Интерн
 description: 
 published: true
-date: 2024-11-13T14:07:09.980Z
+date: 2024-11-13T14:15:08.646Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:24.032Z
@@ -32,8 +32,8 @@ dateCreated: 2024-09-10T19:08:24.032Z
 <p><strong>Предупреждение</strong> - в этой статье не будет никаких руководств, как лечить людей. Это руководство по освоению в медицинском отделе, если вам требуется что-то другое - проверьте прикрепленные руководства<br>
 Как интерн - ваша задача научиться лечить людей, помогать им, клонировать их гнилые тела и заниматься прочей важной работой. Для начала стоит разобраться, кто за что отвечает.</p>
 <div>
-  <table>
-    <tbody>
+  <table class="medical-table">
+    <thead>
       <tr style="font-weight:bold; text-align:center; vertical-align:middle; background-color:#27272E; color:#FFF;">
         <td><a href="/roles/chiefmedicalofficer"title="СМО"><img src="/roles/chiefmedicalofficer.png" class="role-icon" alt="СМО"></a><br>СМО</td>
         <td><a href="/roles/doctor" title="Врач"><img src="/roles/doctor.png" class="role-icon" alt="Врач"></a><br>Врач</td>
@@ -42,6 +42,7 @@ dateCreated: 2024-09-10T19:08:24.032Z
         <td><a href="/roles/psychologist" title="Психолог" ><img src="/roles/psyschologistmeow.png" class="role-icon" alt="Психолог"></a><br>Психолог</td>
         <td><a class="mw-selflink selflink"><img src="/roles/intern.png" class="role-icon" alt="Интерн"></a><br>Интерн</td>
       </tr>
+ </thead>
       <tr>
         <td>Глава отдела. Занимается менеджментом ресурсов, персонала. Обучает новичков врачебному делу в отсутствие другой работы.</td>
         <td>Стандартный представитель врачебного дела. Лечит двух ассистентов последними пластырями и смотрит, как они снова дерутся в прихожей.</td>
