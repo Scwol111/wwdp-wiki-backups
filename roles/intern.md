@@ -2,7 +2,7 @@
 title: Интерн
 description: 
 published: true
-date: 2024-09-22T18:20:31.712Z
+date: 2024-11-13T14:07:09.980Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:24.032Z
@@ -31,32 +31,28 @@ dateCreated: 2024-09-10T19:08:24.032Z
 <h2 id="я-новичок" class="toc-header"><a class="toc-anchor" href="#я-новичок">¶</a> <center>Я новичок</center></h2>
 <p><strong>Предупреждение</strong> - в этой статье не будет никаких руководств, как лечить людей. Это руководство по освоению в медицинском отделе, если вам требуется что-то другое - проверьте прикрепленные руководства<br>
 Как интерн - ваша задача научиться лечить людей, помогать им, клонировать их гнилые тела и заниматься прочей важной работой. Для начала стоит разобраться, кто за что отвечает.</p>
-<div class="citizen-table-wrapper"><table class="wikitable">
-<tbody><tr style="font-weight:bold; text-align:center; vertical-align:middle; background-color:#27272E; color:#FFF;">
-<td><a href="/roles/chiefmedicalofficer" class="mw-redirect is-internal-link is-valid-page" title="СМО">СМО</a>
-</td>
-<td><a href="/roles/medicalofficer" class="mw-redirect is-internal-link is-valid-page" title="Старший медицинский офицер">Медицинский офицер</a>
-</td>
-<td><a href="/roles/doctor" title="Врач" class="is-internal-link is-valid-page">Врач</a>
-</td>
-<td><a href="/roles/paramedic" title="парамедик" class="is-internal-link is-valid-page">Парамедик</a>
-</td>
-<td><a href="/roles/chemist" title="Химик" class="is-internal-link is-valid-page">Химик</a>
-</td>
-<td><a href="/roles/psychologist" title="Психолог" class="is-internal-link is-valid-page">Психолог</a>
-</td>
-<td><a class="mw-selflink selflink">Интерн</a>
-</td>
-</tr><tr>
-<td>Глава отдела. Занимается менеджментом ресурсов, персонала. Обучает новичков врачебному делу в отсутствие другой работы.</td>
-<td>Очень опытный врач в отделе. Обязан обучать вас медицине.</td>
-<td>Стандартный представитель врачебного дела. Лечит двух ассистентов последними пластырями и смотрит, как они снова дерутся в прихожей.</td>
-<td>Бегает по станции в поиске раненных. Помогает в отделе.</td>
-<td>Синтезирует высокоэффективные медикаменты. Иногда синтезирует <a href="/guides/chemistry" title="Химия" class="is-internal-link is-valid-page">кое-что другое.</a></td>
-<td>Следит за психическим состоянием экипажа.</td>
-<td>Самый младший персонал отдела. Избивают раненных аптечками в попытках вылечить раны.</td>
-</tr>
-</tbody></table></div>
+<div>
+  <table>
+    <tbody>
+      <tr style="font-weight:bold; text-align:center; vertical-align:middle; background-color:#27272E; color:#FFF;">
+        <td><a href="/roles/chiefmedicalofficer"title="СМО"><img src="/roles/chiefmedicalofficer.png" class="role-icon" alt="СМО"></a><br>СМО</td>
+        <td><a href="/roles/doctor" title="Врач"><img src="/roles/doctor.png" class="role-icon" alt="Врач"></a><br>Врач</td>
+        <td><a href="/roles/paramedic" title="парамедик" ><img src="/roles/paramedic.png" class="role-icon" alt="Парамедик"></a><br>Парамедик</td>
+        <td><a href="/roles/chemist" title="Химик" ><img src="/roles/chemist.png" class="role-icon" alt="Химик"></a><br>Химик</td>
+        <td><a href="/roles/psychologist" title="Психолог" ><img src="/roles/psyschologistmeow.png" class="role-icon" alt="Психолог"></a><br>Психолог</td>
+        <td><a class="mw-selflink selflink"><img src="/roles/intern.png" class="role-icon" alt="Интерн"></a><br>Интерн</td>
+      </tr>
+      <tr>
+        <td>Глава отдела. Занимается менеджментом ресурсов, персонала. Обучает новичков врачебному делу в отсутствие другой работы.</td>
+        <td>Стандартный представитель врачебного дела. Лечит двух ассистентов последними пластырями и смотрит, как они снова дерутся в прихожей.</td>
+        <td>Бегает по станции в поиске раненных. Помогает в отделе.</td>
+        <td>Синтезирует высокоэффективные медикаменты. Иногда синтезирует <a href="/guides/chemistry" title="Химия" class="is-internal-link is-valid-page">кое-что другое.</a></td>
+        <td>Следит за психическим состоянием экипажа.</td>
+        <td>Самый младший персонал отдела. Избивают раненных аптечками в попытках вылечить раны.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 <p></p>
 <h2 id="подготовка-к-работе" class="toc-header"><a class="toc-anchor" href="#подготовка-к-работе">¶</a> <center>Подготовка к работе</center></h2>
   <p>Перед тем, как приступить к своей работе вам необходимо разобраться с экипировкой, которая имеется у вас в распоряжении. Рассмотрим имеющуюся у вас по началу экипировку: медикаменты в медицинском поясе.<br>
