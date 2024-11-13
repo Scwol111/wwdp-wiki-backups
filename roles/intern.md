@@ -2,7 +2,7 @@
 title: Интерн
 description: 
 published: true
-date: 2024-11-13T15:01:13.515Z
+date: 2024-11-13T15:03:16.480Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:24.032Z
@@ -21,7 +21,7 @@ dateCreated: 2024-09-10T19:08:24.032Z
     <p><strong>Сложность:</strong> Лёгкая</p>
     <strong>Обязанности:</strong> Помогите...<br>
     <b>Руководители</b>: <a href="/roles/chiefmedicalofficer" title="Старший Медицинский Офицер" class="is-internal-link is-valid-page">Старший Медицинский Офицер</a><br>
-    <b>Руководства</b>: <a href="/guides/medicine" title="Медицина" class="is-internal-link is-valid-page">Медицина</a> • <a href="/guides/chemistry" title="Химия" class="is-internal-link is-valid-page">Химия</a> • <a href="/guides/medicalequipment" title="Медицинский инвентарь" class="is-internal-link is-valid-page">Медицинский инвентарь</a> • <a href="/guides/soul" title="Состояния души" class="is-internal-link is-valid-page">Состояния души</a> • <a href="/guides/cloning"> Клонирование</a>
+    <b>Руководства</b>: <a href="/guides/medicine" title="Медицина" class="is-internal-link is-valid-page">Медицина</a> • <a href="/guides/chemistry" title="Химия" class="is-internal-link is-valid-page">Химия</a> • <a href="/guides/medicalequipment" title="Медицинский инвентарь" class="is-internal-link is-valid-page">Медицинский инвентарь</a> • <a href="/guides/cloning"> Клонирование</a>
   </div></div>
   </div>
 </div>
@@ -67,6 +67,7 @@ dateCreated: 2024-09-10T19:08:24.032Z
 </center>
 </div>
 
+## <center>Душа</center>
 
 <p></p>
 <h2 id="подготовка-к-работе" class="toc-header"><a class="toc-anchor" href="#подготовка-к-работе">¶</a> <center>Подготовка к работе</center></h2>
