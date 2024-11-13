@@ -2,7 +2,7 @@
 title: Клоун
 description: 
 published: true
-date: 2024-09-23T13:59:16.008Z
+date: 2024-11-13T20:07:44.916Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-23T13:55:01.893Z
@@ -13,7 +13,7 @@ dateCreated: 2024-09-23T13:55:01.893Z
     <div class="title clown"><a href="/roles/servicedepartment" class="is-internal-link is-valid-page">Убогий департамент</a></div>
     <div>
       <div class="clown-img">
-        <img src="/roles/clown.png" alt="Клоун">
+        <img src="/roles/clown.png" alt="Клоун"> 
       </div>
       <div>
         <div>
