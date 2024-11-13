@@ -2,7 +2,7 @@
 title: Интерн
 description: 
 published: true
-date: 2024-11-13T14:33:06.961Z
+date: 2024-11-13T14:49:00.072Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:24.032Z
@@ -61,7 +61,7 @@ dateCreated: 2024-09-10T19:08:24.032Z
 <h2 id="подготовка-к-работе" class="toc-header"><a class="toc-anchor" href="#подготовка-к-работе">¶</a> <center>Подготовка к работе</center></h2>
   <p>Перед тем, как приступить к своей работе вам необходимо разобраться с экипировкой, которая имеется у вас в распоряжении. Рассмотрим имеющуюся у вас по началу экипировку: медикаменты в медицинском поясе.<br>
 </p><p><img src="/roles/med/intern_hud.png" alt="intern_hud.png"><br>
-<img src="/roles/med/medical_belt_ui.png" alt="medical_belt_ui.png"><br>
+<img src="/roles/med/medical_belt_ui.jpg" alt="medical_belt_ui.png"><br>
 В вашем поясе имеется 40 единиц свободного места, куда вы можете складывать нужные вам медикаменты. Раундстартом в нем находятся <b>3</b> пачки пластырей, в каждой пачке по <b>10</b> штук, <b>3</b> пачки тюбиков мази и экстренный медипен. Этого набора должно хватить на некоторое время, пока <a href="/roles/chemist" title="Химик" class="is-internal-link is-valid-page">химики</a> синтезируют более эффективные лекарства. Подготовились - пора начинать работу!</p>
 <p></p>
 <h2 id="доктор-помогите" class="toc-header"><a class="toc-anchor" href="#доктор-помогите">¶</a> <center>Доктор! Помогите!</center></h2>
