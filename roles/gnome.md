@@ -2,8 +2,8 @@
 title: Гном
 description: 
 published: true
-date: 2024-10-10T19:37:30.703Z
-tags: 
+date: 2024-11-13T15:27:56.267Z
+tags: архив
 editor: markdown
 dateCreated: 2024-09-25T17:28:52.480Z
 ---
