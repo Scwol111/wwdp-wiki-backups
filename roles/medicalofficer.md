@@ -2,8 +2,8 @@
 title: Медицинский офицер
 description: 
 published: true
-date: 2024-10-10T19:36:46.633Z
-tags: 
+date: 2024-11-13T15:28:15.843Z
+tags: архив
 editor: markdown
 dateCreated: 2024-09-10T19:08:25.466Z
 ---
