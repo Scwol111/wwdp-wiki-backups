@@ -2,7 +2,7 @@
 title: Roles
 description: 
 published: true
-date: 2024-11-17T09:55:25.124Z
+date: 2024-11-17T09:57:21.740Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:47:40.648Z
@@ -251,6 +251,9 @@ If you're new to the station, it's definitely a good idea to start with the [Ass
   <div><a href="/roles/martial-artist">Martial Artist</a><a href="/roles/martial-artist"><img src="/roles/martial-artist.png" /></a></div>
   <div><div>Calls security for CQC. In the end, he forgets the basics of CQC.</div></div>
   <div>Easy</div>
+<div><a href="/roles/gladiator">Gladiator</a><a href="/roles/gladiator" class="is-internal-link is-valid-page" ><img src="/roles/gladiator.png" alt="Gladiator" /></a></div>
+<div><div>This is a fighter who participates in organized battles in the arena for the entertainment of the station crew. Gladiators possess high combat skills, using various weapons and tactics to defeat opponents. Their goal is to fight, survive, and achieve glory, while respecting the rules of the arena and entertaining the audience.</div></div>
+<div>Easy</div>
 </div>
 
 <div class="roles-table antag">
