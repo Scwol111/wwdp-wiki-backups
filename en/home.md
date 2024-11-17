@@ -2,7 +2,7 @@
 title: Main
 description: 
 published: true
-date: 2024-11-17T09:12:55.662Z
+date: 2024-11-17T09:17:28.201Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:50.659Z
@@ -103,6 +103,7 @@ dateCreated: 2024-09-10T19:07:50.659Z
                       </div>
                         </a>
                       <a class="fredoka-font" href="/boosty" class="community-link is-external-link"><div class="community-element">
+                        <div class="element-image" style="height: 40px; width: 40px; background-color: rgba(255,255,255,0.09)"></div>
                         <img src="/boosty.png" class="element-image" style="left: 4px; top: 4px; height: 32px; width: 32px;">Boosty
                       </div>
                         </a>
