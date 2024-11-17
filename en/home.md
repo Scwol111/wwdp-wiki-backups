@@ -2,7 +2,7 @@
 title: Main
 description: 
 published: true
-date: 2024-10-31T21:51:26.862Z
+date: 2024-11-17T09:11:02.279Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:50.659Z
@@ -103,8 +103,8 @@ dateCreated: 2024-09-10T19:07:50.659Z
                       </div>
                         </a>
                       <a class="fredoka-font" href="https://spacestationmultiverse.com/" class="community-link is-external-link"><div class="community-element">
-                        <img src="/main_page_icons/community_elements_logos/hub-link2.gif" class="element-image">Hub
-                          </div>
+                        <img src="/boosty.png" class="element-image" style="left: 4px; top: 4px; height: 32px; width: 32px;">Boosty
+                      </div>
                         </a>
                       </div>
                     </center>
