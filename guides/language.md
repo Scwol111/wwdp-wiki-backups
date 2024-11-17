@@ -2,7 +2,7 @@
 title: Языки
 description: 
 published: true
-date: 2024-11-13T19:42:09.771Z
+date: 2024-11-17T09:26:13.428Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:23:46.378Z
@@ -103,7 +103,7 @@ dateCreated: 2024-09-26T19:23:46.378Z
         <td>Язык жуков и мотыльков, граничит с полной неразборчивостью.</td>
         <td>
 <a href="Ссылка на расу"><img src="/guides/language/moth.png">
-              <br>Моль</a><br><img src="/guides/language/mothroach.png">
+              <br>Ниан</a><br><img src="/guides/language/mothroach.png">
               <br>Тараканомоли
         </td>
       </tr>
