@@ -2,7 +2,7 @@
 title: Gavrik
 description: 
 published: false
-date: 2024-11-17T11:10:02.985Z
+date: 2024-11-17T11:11:09.494Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T18:47:48.919Z
@@ -15,7 +15,7 @@ dateCreated: 2024-11-07T18:47:48.919Z
     <a href="/memberspages/Gavrik/robotics">Робототехника</a>
     <ul>
       <li><a href="/memberspages/Gavrik/robotic-card">Паспорт робота</a></li>
-      <li><a href="/memberspages/Gavrik/mech-equipment">Оборудование меха</a></li>
+      <li><a href="/memberspages/Gavrik/mech-equipment">Оборудование мехов</a></li>
     </ul>
   </li>
 </ul>
