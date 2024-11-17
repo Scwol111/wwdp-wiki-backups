@@ -1,8 +1,8 @@
 ---
 title: Робототехника
 description: 
-published: true
-date: 2024-11-17T10:22:01.478Z
+published: false
+date: 2024-11-17T10:25:37.400Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-08T20:09:21.750Z
@@ -377,36 +377,42 @@ dateCreated: 2024-11-08T20:09:21.750Z
   </div>
 </div>
 
-<center>
-  <div class="roboticcard">
-    <div class="cardheading">ВИМ</div>
-    <div class="cardimage"><img src="/guides/science/robotics/vim_idle_gif.gif" alt="vim_idle_gif.gif" /></div>
-    <div class="carddescription">ВИМ – экзокостюм для питомцев. Позволяет выжить при разгерметизации на борту.</div>
-    <div class="featuresheading">Технические характеристики:</div>
-    <div class="features">
-      <ul>
-        <li>Данный мех выдерживает 250 единиц любого урона.</li>
-        <li>Возможность изготовить маленькие гидравлические клешни! Разъемы для установки клешней не прилагаются.</li>
-      </ul>
+<div class="robotic-card">
+  <!--  -->
+  <div class="header">
+    <div class="image">
+      <img src="/"/>
+      <p>ВИМ</p>
     </div>
-    <div class="equipment">Оборудование</div>
-    <div class="craft">Инструкция по созданию</div>
-    <div class="content">
-      <p>Ничего не поддерживает.</p>
-    </div>
-    <div class="content">
-      <p>Необходимо исследование для меха HAMTR.</p>
-      <ol>
-        <li>Создайте в фабрикаторе экзокостюмов vim harness и ноги борга, а также голосовой триггер в протолате.</li>
-        <li>Прикрепите ноги борга к vim harness.</li>
-        <li>Прикрепите к конструкции шлем от евы.</li>
-        <li>Добавьте голосовой триггер.</li>
-        <li>Вставьте батарею</li>
-        <li>Используйте отвёртку</li>
-      </ol>
-    </div>
+    <p>Экзокостюм для питомцев. Позволяет выжить при разгерметизации на борту.</p>
   </div>
-</center>
+  <!--  -->
+  <div class="features">
+    <ul>
+      <li>Имеет 250 единиц здоровья.</li>
+      <li>Возможность изготовить маленькие гидравлические клешни! Разъемы для установки клешней не прилагаются.</li>
+    </ul>
+  </div>
+  <!--  -->
+  <div class="equipment button">Оборудование</div>
+  <div class="craft button">Инструкция по созданию</div>
+  <!--  -->
+  <div class="content hidden">
+    <p>Ничего не поддерживает.</p>
+  </div>
+  <!--  -->
+  <div class="content hidden">
+    <p>Необходимо исследование меха ХОМЯК.</p>
+    <ol>
+      <li>Создайте в фабрикаторе экзокостюмов vim harness и ноги борга, а также голосовой триггер в протолате.</li>
+      <li>Прикрепите ноги борга к vim harness.</li>
+      <li>Прикрепите к конструкции шлем от евы.</li>
+      <li>Добавьте голосовой триггер.</li>
+      <li>Вставьте батарею</li>
+      <li>Используйте отвёртку</li>
+    </ol>
+  </div>
+</div>
 
 <h3>Оборудование для мехов</h3>
 
