@@ -2,18 +2,11 @@
 title: Бригмедик
 description: Вытаскивайте станбатоны из офицеров и спасайте их задницы.
 published: true
-date: 2024-11-19T07:36:26.370Z
+date: 2024-11-19T07:37:47.673Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-06T13:11:04.743Z
 ---
-
-<center>
-<div class="warning-banner">
-  <h2> Эта статья заглушка</h2>
-  <p>Эта статья пока не завершена, и мы скоро её обновим.</p><p>
-</div>
-</center>
 
 
 <div style="display: flex; justify-content: center;">
