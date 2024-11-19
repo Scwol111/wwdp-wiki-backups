@@ -2,7 +2,7 @@
 title: Бригмедик
 description: Вытаскивайте станбатоны из офицеров и спасайте их задницы.
 published: true
-date: 2024-11-19T07:30:23.541Z
+date: 2024-11-19T07:33:25.678Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-06T13:11:04.743Z
@@ -34,5 +34,11 @@ dateCreated: 2024-10-06T13:11:04.743Z
 
 Бригмедик — это врач, прикреплённый к Службе Безопасности. Его основная задача — оказывать медицинскую помощь офицерам СБ и арестованным в бриге.
 
+<h2>
+  <div class="box">
+    <img src="/roles/sec/helmet2.png" style="height: 64px"/>
+    <span style="margin-left:10px;">Роль в экипаже</span>
+  </div>
+</h2>
 
 <div class="table"></div>
