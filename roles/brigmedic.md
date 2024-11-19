@@ -2,7 +2,7 @@
 title: Бригмедик
 description: Вытаскивайте станбатоны из офицеров и спасайте их задницы.
 published: true
-date: 2024-11-19T07:37:47.673Z
+date: 2024-11-19T07:39:20.329Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-06T13:11:04.743Z
@@ -29,7 +29,6 @@ dateCreated: 2024-10-06T13:11:04.743Z
 
 <h2>
   <div class="box">
-    <img src="/roles/sec/helmet2.png" style="height: 64px"/>
     <span style="margin-left:10px;">Обязанности</span>
   </div>
 </h2>
