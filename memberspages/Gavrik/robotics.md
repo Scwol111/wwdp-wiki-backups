@@ -2,7 +2,7 @@
 title: Робототехника
 description: 
 published: false
-date: 2024-11-20T06:35:58.263Z
+date: 2024-11-20T06:45:01.199Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-08T20:09:21.750Z
@@ -15,21 +15,21 @@ dateCreated: 2024-11-08T20:09:21.750Z
 <h3>Фабрикатор экзокостюмов</h3>
 
 <div class="item-info">
-  <img src="/guides/science/robotics/fab-idle.png"/>
+  <img src="/guides/rnd/robotics/fab-idle.png"/>
   <p>Основная машина, необходимая робототехнику для работы - фабрикатор экзокостюмов. С помощью фабрикатора можно создавать части роботов, экзокостюмов и различных клешней. Некоторые рецепты доступны уже в начале смены. Данную машину всегда можно найти в отделе робототехники. Если её нет - можно создать плату на принтере схем после изучения базовой робототехники.</p>
 </div>
 
 <h3>Консоль управления роботехникой</h3>
 
 <div class=item-info>
-	<img src="\"/>
+	<img src="/guides/rnd/robotics/"/>
   <p></p>
 </div>
 
 <h3>Починка роботов</h3>
 
 <div class="item-info">
-  <img src="/guides/science/robotics/clothingeyeshuddiagnostic.png"/>
+  <img src="/guides/rnd/robotics/clothingeyeshuddiagnostic.png"/>
   <p>Диагностический визор - специальные очки с помощью которых можно видеть состояние роботов и экзокостюмов. Найти его можно в автомате с формой робототехника. Любого робота с низкими показателями прочности можно починить сваркой. Если вы видите, что борг в состоянии смерти, то для его починки используйте дефибриллятор.</p>
 </div>
 
@@ -41,7 +41,7 @@ dateCreated: 2024-11-08T20:09:21.750Z
 <div class="robotic-card">
   <div class="header">
   	<div class="image">
-      <img src="/guides/science/robotics/medibot.png"/>
+      <img src="/guides/rnd/robotics/medibot.png"/>
       <p>МедБот</p>
     </div>
     <p>Маленький доктор, который готов помочь вам с любым ранением!</p>
@@ -73,7 +73,7 @@ dateCreated: 2024-11-08T20:09:21.750Z
 <div class="robotic-card">
   <div class="header">
   	<div class="image">
-      <img src="/guides/science/robotics/cleanbot.png"/>
+      <img src="/guides/rnd/robotics/cleanbot.png"/>
       <p>КлинБот</p>
     </div>
     <p>Продвинутый уборщик, которому можно не платить зарплату.</p>
@@ -102,7 +102,7 @@ dateCreated: 2024-11-08T20:09:21.750Z
 <div class="robotic-card">
   <div class="header">
   	<div class="image">
-      <img src="/guides/science/robotics/cleanbot.png"/>
+      <img src="/guides/rnd/robotics/honkbot.png"/>
       <p>ХонкБот</p>
     </div>
     <p>Маленький бот, способный поскальзывать на себе людей.</p>
@@ -134,7 +134,7 @@ dateCreated: 2024-11-08T20:09:21.750Z
 <div class="robotic-card">
   <div class="header">
   	<div class="image">
-      <img src="/guides/science/robotics/jonkbot.png"/>
+      <img src="/guides/rnd/robotics/jonkbot.png"/>
       <p>Проклятый ХонкБот</p>
     </div>
     <p>Проклятая версия ХонкБота</p>
@@ -165,7 +165,7 @@ dateCreated: 2024-11-08T20:09:21.750Z
 <div class="robotic-card">
   <div class="header">
   	<div class="image">
-      <img src="/guides/science/robotics/jonkbot.png"/>
+      <img src="/guides/rnd/robotics/mimebot.png"/>
       <p>МимБот</p>
     </div>
     <p>Самый тихий бот, который точно не может доставить проблем!</p>
@@ -198,7 +198,7 @@ dateCreated: 2024-11-08T20:09:21.750Z
 <h2>Экзокостюмы</h2>
 
 <div class="item-info">	
-  <img src="/guides/science/robotics/ripley_idle_gif.gif"/>
+  <img src="/guides/rnd/robotics/ripley_idle_gif.gif"/>
 	<p>Экзокостюмы – специальная разработка робототехников NanoTrasen, представляющая собой роботизированный костюм. Для работы костюмам необходим заряд. Для большинства мехов можно сделать оборудование. Все экзокостюмы созданы для выполнения разных задач.</p>
 </div>
 
@@ -225,7 +225,7 @@ dateCreated: 2024-11-08T20:09:21.750Z
 <div class="robotic-card">
     <div class="header">
         <div class="image">
-        <img src="/"/>
+        <img src="/guides/rnd/robotics/ripley_idle_gif.gif"/>
         <p>РИПЛИ</p>
       </div>
       <p>Специальный экзокостюм для отдела карго. Данный мех необходим для эффективного переноса больших грузов.</p>
@@ -276,7 +276,7 @@ dateCreated: 2024-11-08T20:09:21.750Z
   <!--  -->
   <div class="header">
     <div class="image">
-      <img src="/guides/science/robotics/honker_idle_gif.gif"/>
+      <img src="/guides/rnd/robotics/honker_idle_gif.gif"/>
       <p>ХОНК</p>
     </div>
     <p>Специальная игрушка, создаваемая только для взрослых клоунов!</p>
@@ -328,7 +328,7 @@ dateCreated: 2024-11-08T20:09:21.750Z
   <!--  -->
   <div class="header">
     <div class="image">
-      <img src="/guides/science/robotics/honker_idle_gif.gif"/>
+      <img src="/guides/rnd/robotics/hamtr_idle_gif.gif"/>
       <p>ХОМЯК</p>
     </div>
     <p>Экзокостюм для хомяков. Позволяет стать полноценным членом экипажа!</p>
@@ -381,7 +381,7 @@ dateCreated: 2024-11-08T20:09:21.750Z
   <!--  -->
   <div class="header">
     <div class="image">
-      <img src="/"/>
+      <img src="/guides/rnd/robotics/vim_idle_gif.gif"/>
       <p>ВИМ</p>
     </div>
     <p>Экзокостюм для питомцев. Позволяет выжить при разгерметизации на борту.</p>
