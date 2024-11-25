@@ -2,7 +2,7 @@
 title: test
 description: 
 published: true
-date: 2024-11-25T18:02:41.153Z
+date: 2024-11-25T18:04:20.664Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-25T17:19:16.041Z
@@ -13,16 +13,16 @@ dateCreated: 2024-11-25T17:19:16.041Z
 ## Пример
 
 текст
-{.is-custom}
+{.infobox}
 
 текст
-{.is-custom .success-custom}
+{.infobox .success-custom}
 
 текст
-{.is-custom .warning-custom}
+{.infobox .warning-custom}
 
 текст
-{.is-custom .danger-custom}
+{.infobox .danger-custom}
 
 ## html
 
@@ -30,33 +30,33 @@ dateCreated: 2024-11-25T17:19:16.041Z
 
 ```html
 текст
-{.is-custom}
+{.infobox}
 ```
 
 ### Success
 
 ```html
 текст
-{.is-custom .success-custom}
+{.infobox .success-custom}
 ```
 
 ### Warning
 
 ```html
 текст
-{.is-custom .warning-custom}
+{.infobox .warning-custom}
 ```
 
 ### Danger
 
 ```html
 текст
-{.is-custom .danger-custom}
+{.infobox .danger-custom}
 ```
 ## css
 
 ```css
-.is-custom {
+.infobox {
   border-radius: 3px;
   border-left: solid 3px #607D8B;
 	padding: 10px!important;
