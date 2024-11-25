@@ -2,14 +2,14 @@
 title: test
 description: 
 published: true
-date: 2024-11-25T17:44:29.854Z
+date: 2024-11-25T17:46:31.198Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-25T17:19:16.041Z
 ---
 
 213
-{.is-custom.warning}
+{.is-custom .warn}
 
 > 123
 
