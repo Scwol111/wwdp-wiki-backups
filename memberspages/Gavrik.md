@@ -2,7 +2,7 @@
 title: Gavrik
 description: 
 published: false
-date: 2024-11-17T11:11:09.494Z
+date: 2024-11-25T17:19:49.695Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T18:47:48.919Z
@@ -18,4 +18,6 @@ dateCreated: 2024-11-07T18:47:48.919Z
       <li><a href="/memberspages/Gavrik/mech-equipment">Оборудование мехов</a></li>
     </ul>
   </li>
+  
+  <li><a href="/memberspages/Gavrik/test">test</a></li>
 </ul>
