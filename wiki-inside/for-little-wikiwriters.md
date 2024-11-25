@@ -2,7 +2,7 @@
 title: Руководства для маленьких викиводов
 description: 
 published: false
-date: 2024-11-25T19:16:54.173Z
+date: 2024-11-25T19:17:39.259Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T09:02:33.879Z
@@ -32,5 +32,6 @@ dateCreated: 2024-11-12T09:02:33.879Z
       <a href="/memberspages/Gavrik/InfoBoxes"><img src="/guides/screenshot_94.png" alt="shitcur.png" class="zoom"/>Инфобоксы</a>
       <p>Инфобоксы, для всякой информации.</p>
     </div>
+   </div>
   </div>
 </div>
