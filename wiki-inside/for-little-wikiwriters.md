@@ -2,7 +2,7 @@
 title: Руководства для маленьких викиводов
 description: 
 published: false
-date: 2024-11-25T19:17:39.259Z
+date: 2024-11-25T19:18:33.023Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T09:02:33.879Z
@@ -27,8 +27,6 @@ dateCreated: 2024-11-12T09:02:33.879Z
     <div class="content-table" id="templates">
       <a href="/wiki-inside/templates/role-passport"><img src="https://wiki.ss14.su/main_page_icons/roles_icon.png" alt="shitcur.png" class="zoom"/>Паспорт роли</a>
       <p>Шаблон, используемый на страницах ролей.</p>
-    </div>
-    <div class="content-table" id="templates">
       <a href="/memberspages/Gavrik/InfoBoxes"><img src="/guides/screenshot_94.png" alt="shitcur.png" class="zoom"/>Инфобоксы</a>
       <p>Инфобоксы, для всякой информации.</p>
     </div>
