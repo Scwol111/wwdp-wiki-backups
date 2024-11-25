@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2024-11-25T17:01:31.005Z
+date: 2024-11-25T17:10:38.801Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -46,3 +46,5 @@ dateCreated: 2024-11-21T13:23:17.560Z
   </figure>
 </b>
 </div>
+
+## <center>Хирургические инструменты
