@@ -2,7 +2,7 @@
 title: Gavrik
 description: 
 published: false
-date: 2024-11-25T17:19:49.695Z
+date: 2024-11-25T18:05:11.810Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T18:47:48.919Z
@@ -19,5 +19,5 @@ dateCreated: 2024-11-07T18:47:48.919Z
     </ul>
   </li>
   
-  <li><a href="/memberspages/Gavrik/test">test</a></li>
+  <li><a href="/memberspages/Gavrik/InfoBoxes">test</a></li>
 </ul>
