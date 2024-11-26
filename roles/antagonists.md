@@ -2,7 +2,7 @@
 title: Антагонисты
 description: 
 published: true
-date: 2024-11-26T13:30:59.645Z
+date: 2024-11-26T13:37:20.167Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:40.598Z
@@ -42,7 +42,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Укради этот чёртов диск, а после взорви тут всё. Ядерные оперативниками являются крупными антагонистами</div>  
 </div> 
-
+<!---
 <div class="role">
 <div class="rolename"><a href="/roles/corticalBorer" class="custom-link">Космическая аскарида</a></div>
 <div class="roleimg"><img src="/roles/borer.png"></div>
@@ -51,7 +51,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Залезай в головы экипажа! Захватывай разум и откладывай личинок! Мозговые черви являются мелкими антагонистами</div>  
 </div> 
-  
+  --->
 <div class="role">
 <div class="rolename"><a href="/roles/revolution" class="custom-link">Революционер</a></div>
 <div class="roleimg"><img src="/roles/revolution.png"></div>
@@ -123,7 +123,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Помогайте своему хозяину выполнять задания.</div>  
 </div>     
-
+<!--
 <div class="role">
 <div class="rolename"><a href="/roles/genestealer" class="custom-link">Генокрад</a></div>
 <div class="roleimg"><img src="/roles/changeling.gif"></div>
@@ -132,7 +132,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Поглощайте ДНК, одурачивайте людей, выполняйте свои цели. Генокрады являются мелкими антагонистами</div>  
 </div>     
-
+-->
 
 <div class="role">
 <div class="rolename"><a href="/roles/thief" class="custom-link">Вор</a></div>
@@ -152,7 +152,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Уничтожьте свою цель, а затем и себя. Терминатор является мелким антагонистом</div>  
 </div>  
-
+<!--
 <div class="role">
 <div class="rolename"><a href="/roles/wizard" class="custom-link">Маг</a></div>
 <div class="roleimg"><img src="/roles/antagonists/wizard/wizard_real.png"></div>
@@ -161,7 +161,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Устройте невероятный хаос! Маг является крупным антагонистом</div>  
 </div>
-
+--->
 </div>
 
 
