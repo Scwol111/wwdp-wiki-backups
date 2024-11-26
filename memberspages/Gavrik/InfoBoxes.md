@@ -2,7 +2,7 @@
 title: InfoBoxes
 description: 
 published: true
-date: 2024-11-26T14:57:56.211Z
+date: 2024-11-26T15:02:27.080Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-25T17:19:16.041Z
