@@ -2,7 +2,7 @@
 title: Антагонисты
 description: 
 published: true
-date: 2024-11-26T13:37:20.167Z
+date: 2024-11-26T13:41:46.080Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:40.598Z
@@ -90,7 +90,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/revenant" class="custom-link">Ревенант</a></div>
-<div class="roleimg"><img src="/roles/revenant.png"></div>
+<div class="roleimg"><img src="/roles/revenant.gif"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Никто, вы тут главный.</div>
 <div class="roledesclabel">Описание:</div>  
