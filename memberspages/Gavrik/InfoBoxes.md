@@ -1,8 +1,8 @@
 ---
-title: test
+title: InfoBoxes
 description: 
 published: true
-date: 2024-11-25T18:04:45.996Z
+date: 2024-11-26T05:13:03.409Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-25T17:19:16.041Z
