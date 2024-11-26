@@ -2,7 +2,7 @@
 title: InfoBoxes
 description: 
 published: true
-date: 2024-11-26T14:57:28.358Z
+date: 2024-11-26T14:57:56.211Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-25T17:19:16.041Z
@@ -63,6 +63,9 @@ dateCreated: 2024-11-25T17:19:16.041Z
   margin-bottom: 1em!important;
   box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12);
   background-color: #252525;
+}
+.infobox > br {
+ 	margin-bottom: .5em; 
 }
 .warning-custom { 
   border-left-color: #CB7B05;
