@@ -2,7 +2,7 @@
 title: Исследование и Разработка
 description: 
 published: true
-date: 2024-11-26T18:05:04.690Z
+date: 2024-11-26T18:05:35.271Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:43.980Z
@@ -113,7 +113,7 @@ dateCreated: 2024-09-29T18:19:43.980Z
 
 <h2>Технологии</h2>
 
- {.tabset}
+## {.tabset}
 
 ### Арсенал
 
