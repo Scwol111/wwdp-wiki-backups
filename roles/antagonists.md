@@ -2,7 +2,7 @@
 title: Антагонисты
 description: 
 published: true
-date: 2024-10-26T08:11:44.004Z
+date: 2024-11-26T13:30:59.645Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:40.598Z
@@ -24,7 +24,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Добейтесь своих целей любыми доступными вам методами (Не нарушая <a href="/rules" class="custom-link">Правила сервера</a>). Предатели являются мелкими антагонистами</div>  
 </div>
-  
+  <!----
 <div class="role">
 <div class="rolename"><a href="/roles/cultist" class="custom-link">Культист</a></div>
 <div class="roleimg"><img src="/roles/cultist.gif"></div>
@@ -33,7 +33,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Создание культа и выживание - это лишь пол беды! Культисты являются крупными антагонистами</div>  
 </div>  
-  
+  --->
 <div class="role">
 <div class="rolename"><a href="/roles/nuclearoperative" class="custom-link">Ядерный Оперативник</a></div>
 <div class="roleimg"><img src="/roles/nuclearoperative.png"></div>
