@@ -2,7 +2,7 @@
 title: Ксеноархеология
 description: 
 published: false
-date: 2024-11-26T17:59:50.979Z
+date: 2024-11-26T18:03:14.364Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-26T14:53:09.906Z
@@ -90,6 +90,10 @@ ID_ОБЪЕКТА - это айди узла, который можно быст
   <img src="/guides/xenoarcheology/crusher.png" width="64" height="128"/>
   <p>Крушитель позволяет преобразовать артефакт в осколки артефакта и активировать узел, на котором он находился в процессе преобразования. Однако мы не рекомендуем использовать эту функцию, если артефакт расположен на опасном узле.</p> 
 </div>   
+
+## {.tabset}
+
+### Стимуляторы
 
 <table class="classification-table">    
   <thead>
@@ -197,6 +201,8 @@ ID_ОБЪЕКТА - это айди узла, который можно быст
     </tr>
   </tbody>  
 </table>
+
+### Реакции
 
 <table class="classification-table">    
   <thead>
@@ -419,6 +425,8 @@ ID_ОБЪЕКТА - это айди узла, который можно быст
     </tr>
   </tbody>
 </table>
+
+### Постоянные реакции
 
 <table class="classification-table">   
     <thead>
