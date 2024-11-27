@@ -2,13 +2,17 @@
 title: InfoBoxes
 description: 
 published: true
-date: 2024-11-27T15:57:50.733Z
+date: 2024-11-27T16:25:06.635Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-25T17:19:16.041Z
 ---
 
 # InfoBoxes
+
+Если вы хотите, чтобы инфобокс заполнял не все пространство по x, то в стиля замените на 
+*display: inline-flex*
+{.infobox}
 
 ## html
 
@@ -28,12 +32,15 @@ dateCreated: 2024-11-25T17:19:16.041Z
 <div class="infobox">
   <img src="/" width="64px" height="64px"/>
   <p>текст</p>
+  <p>текст</p>
+  <p>текст</p>
 </div>
 
 ```html
 <div class="infobox">
   <img src="/" width="64px" height="64px"/>
   <p>текст</p>
+  
 </div>
 ```
 
@@ -78,6 +85,9 @@ dateCreated: 2024-11-25T17:19:16.041Z
   border-left: solid 3px #607d8b;
   background-color: #252525;
   box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12)
+}
+.infobox:has(img) {
+  display: flex;
 }
 .infobox > img {
   float: left;
