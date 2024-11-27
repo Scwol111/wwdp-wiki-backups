@@ -2,7 +2,7 @@
 title: Инженерный Отдел
 description: 
 published: true
-date: 2024-10-26T08:20:41.947Z
+date: 2024-11-27T19:31:43.883Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:38.329Z
@@ -133,6 +133,7 @@ dateCreated: 2024-10-20T13:01:38.329Z
 3.  Генераторы.
 4.  Сингулярность.
 5.  [Суперматерия](/guides/supermatter).
+6. [Тесла](/guides/tesla).
 
 #### Получение электроэнергии
 
