@@ -2,7 +2,7 @@
 title: InfoBoxes
 description: 
 published: true
-date: 2024-11-27T17:44:04.644Z
+date: 2024-11-27T17:44:23.061Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-25T17:19:16.041Z
@@ -93,7 +93,7 @@ dateCreated: 2024-11-25T17:19:16.041Z
 .infobox {
   display: flex;
   align-items: center;
-  gap: .5em;
+  gap: 20px;
   padding: 10px 20px!important;
   margin-top: 1em!important;
   border-radius: 3px;
