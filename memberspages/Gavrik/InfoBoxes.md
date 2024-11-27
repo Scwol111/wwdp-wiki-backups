@@ -2,7 +2,7 @@
 title: InfoBoxes
 description: 
 published: true
-date: 2024-11-27T16:52:09.494Z
+date: 2024-11-27T16:53:07.533Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-25T17:19:16.041Z
@@ -72,7 +72,7 @@ dateCreated: 2024-11-25T17:19:16.041Z
 
 ```css
 .infobox {
-  display: flex;
+  display: block;
   align-items: center;
   padding: 10px 20px!important;
   margin-top: 1em!important;
@@ -81,26 +81,23 @@ dateCreated: 2024-11-25T17:19:16.041Z
   background-color: #252525;
   box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12)
 }
-.infobox:has(img) {
-  display: flex;
-}
 .infobox > img {
   float: left;
-  margin-right: 20px
+  margin: 0 10px 0 0
 }
 .infobox > br {
   margin-bottom: .5em
 }
 .infobox > p {
- 	padding: 0!important 
+  padding: 0 0 .5em 0!important
 }
-.warning-custom { 
-  border-left-color: #CB7B05;
+.warning-custom {
+  border-left-color: #cb7b05
 }
-.success-custom { 
-  border-left-color: #4CAF50;
+.success-custom {
+  border-left-color: #4caf50
 }
-.danger-custom { 
-  border-left-color: #F44336;
+.danger-custom {
+  border-left-color: #f44336
 }
 ```
