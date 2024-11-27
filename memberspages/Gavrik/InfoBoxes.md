@@ -2,17 +2,13 @@
 title: InfoBoxes
 description: 
 published: true
-date: 2024-11-27T16:50:52.277Z
+date: 2024-11-27T16:51:29.701Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-25T17:19:16.041Z
 ---
 
 # InfoBoxes
-
-Если вы хотите, чтобы инфобокс заполнял не все пространство по x, то в стиля замените на 
-*display: inline-flex*
-{.infobox}
 
 ## html
 
