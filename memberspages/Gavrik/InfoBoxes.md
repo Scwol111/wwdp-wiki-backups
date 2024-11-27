@@ -2,7 +2,7 @@
 title: InfoBoxes
 description: 
 published: true
-date: 2024-11-26T15:02:27.080Z
+date: 2024-11-27T15:54:52.117Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-25T17:19:16.041Z
@@ -10,30 +10,41 @@ dateCreated: 2024-11-25T17:19:16.041Z
 
 # InfoBoxes
 
-## Пример
-
-текст
-{.infobox}
-
-текст
-{.infobox .success-custom}
-
-текст
-{.infobox .warning-custom}
-
-текст
-{.infobox .danger-custom}
-
 ## html
 
 ### Info
+
+текст
+{.infobox}
 
 ```html
 текст
 {.infobox}
 ```
 
+### Info with img
+
+<div class="infobox">
+  <img src="/" width="64px" height="64px"/>
+  <p>текст</p>
+  <p>текст</p>
+</div>
+
+```html
+<div class="infobox">
+  <img src="/" width="64px" height="64px"/>
+  <p>текст</p>
+  <p>текст</p>
+</div>
+```
+
+
+
 ### Success
+
+
+Во время работы не пренебрегайте средствами защиты. Надевайте специальные защитные костюмы и переносите артефакты только в специальных контейнерах. Также желательно положить счетчик Гейгера в камеру с артефактом.
+{.infobox .success-custom}
 
 ```html
 текст
@@ -42,12 +53,18 @@ dateCreated: 2024-11-25T17:19:16.041Z
 
 ### Warning
 
+текст
+{.infobox .warning-custom}
+
 ```html
 текст
 {.infobox .warning-custom}
 ```
 
 ### Danger
+
+текст
+{.infobox .danger-custom}
 
 ```html
 текст
@@ -57,15 +74,24 @@ dateCreated: 2024-11-25T17:19:16.041Z
 
 ```css
 .infobox {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px!important;
+  margin-top: 1em!important;
   border-radius: 3px;
-  border-left: solid 3px #607D8B;
-	padding: 10px!important;
-  margin-bottom: 1em!important;
-  box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12);
+  border-left: solid 3px #607d8b;
   background-color: #252525;
+  box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12)
+}
+.infobox > img {
+  float: left;
+  margin-right: 20px
 }
 .infobox > br {
- 	margin-bottom: .5em; 
+  margin-bottom: .5em
+}
+.infobox > p {
+ 	padding: 0!important 
 }
 .warning-custom { 
   border-left-color: #CB7B05;
