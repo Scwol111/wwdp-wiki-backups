@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-11-26T12:36:50.344Z
+date: 2024-11-27T20:30:38.123Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -348,9 +348,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/emergencyresponseteam">Отряд Быстрого Реагирования</a><a href="/roles/emergencyresponseteam"><img src="/roles/emergencyresponseteam.png" /></a></div>
   <div><div><a href="https://www.youtube.com/watch?v=r3BcRKU-li0">Отряд Быстрого Реагирования зашёл на станцию. Всему персоналу просьба оставаться в безопасных местах до дальнейших указаний.</a></div></div>
   <div>Сложно</div>
-  <!--<div><a href="/roles/deathsquad">Эскадрон Смерти</a><a href="/roles/deathsquad"><img src="/roles/deathsquad.png" /></a></div>
+  <div><a href="/roles/deathsquad">Эскадрон Смерти</a><a href="/roles/deathsquad"><img src="/roles/deathsquad.png" /></a></div>
   <div><div>"Вы заходите, вы зачищаете всё, вы умираете, а затем улетаете. Если есть какие-то вопрос по поводу плана, то спросите после выполнения миссии. Кому-то нужно повторить?"</div></div>
-  <div>До Боли Сложно</div>-->
+  <div>До Боли Сложно</div>
 </div>
 
 <div class="roles-table sint">
