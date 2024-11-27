@@ -2,7 +2,7 @@
 title: InfoBoxes
 description: 
 published: true
-date: 2024-11-27T17:46:17.020Z
+date: 2024-11-27T19:01:56.705Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-25T17:19:16.041Z
@@ -14,13 +14,13 @@ dateCreated: 2024-11-25T17:19:16.041Z
 
 ### Info
 
-Тут должно быть очень много текста, но мне лень, чтобы показать интервалы между строками
+Тут должно быть очень много текста, чтобы показать интервалы между строками, но мне лень
 Можете сами придумать, если вам не лень. Такие вот дела.
 {.infobox}
 
 ```html
-Тут должно быть очень много текста, но мне лень
-Можете сами придумать, если вам не лень. Такие вот дела.
+текст
+текст
 {.infobox}
 ```
 
@@ -31,7 +31,6 @@ dateCreated: 2024-11-25T17:19:16.041Z
   <div>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-    <p>текст</p>
   </div>
 </div>
 
@@ -39,8 +38,7 @@ dateCreated: 2024-11-25T17:19:16.041Z
 <div class="infobox">
   <img src="/" width="64px" height="64px"/>
   <div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+    <p>текст</p>
     <p>текст</p>
   </div>
 </div>
@@ -54,13 +52,13 @@ dateCreated: 2024-11-25T17:19:16.041Z
 ```html
 <div class="infobox">
   <img src="/" width="64px" height="64px"/>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+  <p>текст</p>
 </div>
 ```
 
 ### Success
 
-текст
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 {.infobox .success-custom}
 
 ```html
@@ -70,7 +68,7 @@ dateCreated: 2024-11-25T17:19:16.041Z
 
 ### Warning
 
-текст
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 {.infobox .warning-custom}
 
 ```html
@@ -80,7 +78,7 @@ dateCreated: 2024-11-25T17:19:16.041Z
 
 ### Danger
 
-текст
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 {.infobox .danger-custom}
 
 ```html
