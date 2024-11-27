@@ -2,7 +2,7 @@
 title: InfoBoxes
 description: 
 published: true
-date: 2024-11-27T17:42:19.649Z
+date: 2024-11-27T17:44:04.644Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-25T17:19:16.041Z
@@ -91,8 +91,9 @@ dateCreated: 2024-11-25T17:19:16.041Z
 
 ```css
 .infobox {
-  display: block;
+  display: flex;
   align-items: center;
+  gap: .5em;
   padding: 10px 20px!important;
   margin-top: 1em!important;
   border-radius: 3px;
@@ -100,15 +101,16 @@ dateCreated: 2024-11-25T17:19:16.041Z
   background-color: #252525;
   box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12)
 }
-.infobox > img {
-  float: left;
-  margin: 0 10px 0 0
+.infobox p {
+  padding: 0!important
 }
 .infobox > br {
   margin-bottom: .5em
 }
-.infobox > p {
-  padding: 0 0 .5em 0!important
+.infobox > div {
+  display: flex;
+  flex-flow: column;
+  gap: .5em
 }
 .warning-custom {
   border-left-color: #cb7b05
