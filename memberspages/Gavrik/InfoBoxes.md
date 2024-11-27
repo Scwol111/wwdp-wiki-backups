@@ -2,7 +2,7 @@
 title: InfoBoxes
 description: 
 published: true
-date: 2024-11-27T17:41:44.040Z
+date: 2024-11-27T17:42:19.649Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-25T17:19:16.041Z
@@ -19,7 +19,8 @@ dateCreated: 2024-11-25T17:19:16.041Z
 {.infobox}
 
 ```html
-текст
+Тут должно быть очень много текста, но мне лень
+Можете сами придумать, если вам не лень. Такие вот дела.
 {.infobox}
 ```
 
