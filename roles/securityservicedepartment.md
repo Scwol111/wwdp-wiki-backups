@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-11-28T20:09:27.347Z
+date: 2024-11-28T20:20:18.179Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -346,41 +346,10 @@ forensicpad.png" width="64" height="64"></td>
         <td><figure><img src="/roles/icons/prosecutor.png"><figcaption>Прокурор</figcaption></figure></td>
     </tr>
     <tr style="background-color: rgba();">
-      
-
-</table>
-<table class="tble">
-  <thead>
-    <tr>
-      <th colspan="2">Иконки криминалистики</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><div><img src="/guides/security/officership/free.png" alt="free.png" /><div>Выписан</div></div></td>
-      <td>Выпущен из брига по истечению срока.</td>
-    </tr>
-    <tr>
-      <td><div><img src="/guides/security/officership/coded.png" alt="coded.png" /><div>Освобожден</div></div></td>
-      <td>Освобожден из брига по УДО.</td>
-    </tr>
-    <tr>
-      <td><div><img src="/guides/security/officership/suspect.png" alt="suspect.png" /><div>Подозреваемый</div></div></td>
-      <td>Возможный преступник.</td>
-    </tr>
-    <tr>
-      <td><div><img src="/guides/security/officership/wanted.png" alt="wanted.png" /><div>В розыске</div></div></td>
-      <td>Должен быть доставлен в бриг.</td>
-    </tr>
-    <tr>
-      <td><div><img src="/guides/security/officership/prisoner.png" alt="prisoner.png" /><div>Заключенный</div></div></td>
-      <td>Заключен в камере или пермабриге.</td>
-    </tr>
-  </tbody>
-</table>
+   </table>
 
 
-# Уставная и неуставная речь
+## Уставная и неуставная речь
 
 ## Уставная речь
 
