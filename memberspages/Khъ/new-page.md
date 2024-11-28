@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-11-28T17:50:52.722Z
+date: 2024-11-28T17:51:21.197Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-03T18:49:36.350Z
@@ -15,7 +15,7 @@ dateCreated: 2024-11-03T18:49:36.350Z
   </div>
 	<div class="r2">
     <div>Недоступные расы</div>
-    <div><a href="">Вокс</a> <a href="">Скелет</a></div>
+    <div><a href="">Вокс</a> <a href="/rules">Скелет</a></div>
   </div>
 </div>
 
