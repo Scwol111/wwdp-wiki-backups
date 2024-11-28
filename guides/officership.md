@@ -2,7 +2,7 @@
 title: Офицерство
 description: 
 published: true
-date: 2024-09-29T18:19:18.400Z
+date: 2024-11-28T19:35:33.534Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:18.400Z
@@ -74,204 +74,129 @@ dateCreated: 2024-09-29T18:19:18.400Z
 
 <p>В бриге вы можете найти Охранный визор. Если его надеть, то вы будете видеть иконку профессии гуманоида, а так же его криминальный статус.</p>
 
-<div class="flex-table">
-  <div class="title" style="background-color: #2055ab">Командование</div>
-  <div>
-    <img src="/guides/security/officership/cmo's_icon.png"/>
-    <div><a href="/roles/chiefmedicalofficer">Старший медицинский офицер</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/rd's_icon.png" alt="rd's_icon.png" />
-    <div><a href="/roles/researchdirector">Научный руководитель</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/ce's_icon.png" alt="ce's_icon.png" />
-    <div><a href="/roles/chiefengineer">Старший Инженер</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/qm's_icon.png" alt="qm's_icon.png" />
-    <div><a href="/roles/quartermaster">Квартирмейстер</a></div>
-  </div>
-  <div>
-    <img src="/role/roles_icon/inspector.png"/>
-    <div><a href="/roles/inspector">Инспектор</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/hop's_icon.png" alt="hop's_icon.png" />
-    <div><a href="/roles/headofpersonnel">Глава Персонала</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/captaim's_icon.png" alt="captaim's_icon.png" />
-    <div><a href="/roles/captain">Капитан</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/hos's_icon.png" alt="hos's_icon.png" />
-    <div><a href="/roles/headofsecurity">Глава Службы Безопасности</a></div>
-  </div>
-  <div class="title" style="background-color: #950000">Служба Безопасности</div>
-  <div class="full">
-    <img src="/guides/security/officership/seniorofficer.png"/>
-    <div><a href="/roles/veteran">Ветеран</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/warden's_icon.png" alt="warden's_icon.png" />
-    <div><a href="/roles/warden">Смотритель</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/detective's_icon.png" alt="detective's_icon.png" />
-    <div><a href="/roles/detective">Детектив</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/securityofficer's_icon.png" alt="securityofficer's_icon.png" />
-    <div><a href="/roles/officer">Офицер</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/securitycadet's_icon.png" alt="securitycadet's_icon.png" />
-    <div><a href="/roles/cadet">Кадет</a></div>
-  </div>
-  <div class="title" style="background-color: #0094AB">Медицинский отдел</div>
-  <div class="full">
-    <img src="/guides/security/officership/seniorphysician.png"/>
-    <div><a href="/roles/medicalofficer">Медицинский Офицер</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/chemist's_icon.png" alt="chemist's_icon.png" />
-    <div><a href="/roles/chemist">Химик</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/paramedic's_icon.png" alt="paramedic's_icon.png" />
-    <div><a href="/roles/paramedic">Парамедик</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/doctor's_icon.png" alt="doctor's_icon.png" />
-    <div><a href="/roles/doctor">Врач</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/intern's_icon.png" alt="intern's_icon.png" />
-    <div><a href="/roles/intern">Интерн</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/psychologist`s_icon.png" alt="psychologist's_icon.png" />
-    <div><a href="/roles/psychologist">Психолог</a></div>
-  </div>
-  <div class="title" style="background-color: #75008C">Научный отдел</div>
-  <div class="full">
-    <img src="/guides/security/officership/seniorresearcher.png"/>
-    <div><a href="/roles/leadresearcher">Ведущий исследователь</a></div>
-  </div>
-  <div class="half">
-    <img src="/guides/security/officership/scientist's_icon.png" alt="scientist's_icon.png" />
-    <div><a href="/roles/scientist">Ученый</a></div>
-  </div>
-  <div class="half">
-    <img src="/guides/security/officership/researchassistant's_icon.png" alt="researchassistant's_icon.png" />
-    <div><a href="/roles/scientist">Научный Ассистент</a></div>
-  </div>
-  <div class="title" style="background-color: #D3B000">Инженерный Отдел</div>
-  <div class="full">
-    <img src="/guides/security/officership/seniorengineer.png"/>
-    <div><a href="/roles/brigadier">Бригадир</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/atmos's_icon.png" alt="atmos's_icon.png" />
-    <div><a href="/roles/atmospherictechnician">Атмосферный Техник</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/engineer's_icon.png" alt="engineer's_icon.png" />
-    <div><a href="/roles/engineer">Инженер</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/technicalassistant's_icon.png" alt="technicalassistant's_icon.png" />
-    <div><a href="/roles/technicalassistant">Технический Ассистент</a></div>
-  </div>
-  <div class="title" style="background-color: #925C0E">Отдел Снабжения</div>
-  <!--<div class="full">
-    <img src="/role/roles_icon/hunter.png"/>
-    <div><a href="/roles/hunter">Охотник</a></div>
-  </div>-->
-  <div class="half">
-    <img src="/guides/security/officership/shaftminer's_icon.png" alt="shaftminer's_icon.png" />
-    <div><a href="/roles/utilizer">Утилизатор</a></div>
-  </div>
-  <div class="half">
-    <img src="/guides/security/officership/cargotechnician's_icon.png" alt="cargotechnician's_icon.png" />
-    <div><a href="/roles/utilizer">Грузчик</a></div>
-  </div>
-  <div class="title" style="background-color: #20920E">Сервисный отдел</div>
-  <div class="half">
-    <img src="/guides/security/officership/clown's_icon.png" alt="clown's_icon.png" />
-    <div><a href="/roles/clown">Клоун</a></div>
-  </div>
-  <div class="half">
-    <img src="/guides/security/officership/mime's_icon.png" alt="mime's_icon.png" />
-    <div><a href="/roles/mime">Мим</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/assisitant's_icon.png" alt="assisitant's_icon.png" />
-    <div><a href="/roles/assistant">Ассистент</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/serviceworker's_icon.png" alt="serviceworker's_icon.png" />
-    <div><a href="/roles/serviceworker">Сервисный Работник</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/bartender's_icon.png" alt="bartender's_icon.png" />
-    <div><a href="/roles/barman">Бармен</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/chef's_icon.png" alt="chef's_icon.png" />
-    <div><a href="/roles/chef">Повар</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/botanist's_icon.png" alt="botanist's_icon.png" />
-    <div><a href="/roles/botanist">Ботаник</a></div>
-  </div>
-  <div>
-    <img src="/role/roles_icon/zootechnik.png"/>
-    <div><a href="/roles/zootechnik">Зоотехник</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/musician's_icon.png" alt="musician's_icon.png" />
-    <div><a href="/roles/musician">Музыкант</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/janitor's_icon_new.png" alt="janitor's_icon_new.png" />
-    <div><a href="/roles/janitor">Уборщик</a></div>
-  </div>
-  <div>
-    <img src="/role/roles_icon/reporter.png"/>
-    <div><a href="/roles/reporter">Репортер</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/chaplain's_icon_new.png" alt="chaplain's_icon_new.png" />
-    <div><a href="/roles/priest">Священник</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/librarian's_icon_new.png" alt="librarian's_icon_new.png" />
-    <div><a href="/roles/librarian">Библиотекарь</a></div>
-  </div>
-  <div>
-    <img src="/guides/security/officership/boxer's_icon.png" alt="boxer's_icon.png" />
-    <div><a href="/roles/boxer">Боксер</a></div>
-  </div>
-  
-  <div class="title" style="background-color: rgba(140, 0, 0, 0.2)">Отдел Юстиции</div>
-  <div class="full">
-    <img src="/guides/security/officership/lawyer_icon_new.png" alt="lawyer's_icon.png" />
-    <div><a href="/roles/lawyer">Юрист</a></div>
-  </div>
-  
-  <div class="title" style="background-color: rgba(0, 0, 0, 0.2)">Разное</div>
-  <div class="half">
-  	<img src="/guides/security/officership/nanotrasens_icon.png" alt="nanotrasens_icon.png" />
-    <div>Центральное командование</div>
-    <div>Айди с полным доступом</div>
-  </div>
-  <div class="half">
-  	<img src="/guides/security/officership/no_id.png" alt="no_id.png" />
-    <div>Без ID карты</div>
-  </div>
-</div>
+<br>
+<table class="tbl" style="margin-left: auto; margin-right: auto; width: 80%;">
+    <tr>
+        <th colspan="4" style="background: rgba(0, 77, 169, 0.2)"><big>Командование</big></th>
+    </tr>
+    <tr>
+        <td><figure><img src="/roles/roles_icon/chiefmedicalofficer.png"><figcaption>Старший Медицинский Офицер</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/headofpersonnel.png"><figcaption>Глава Персонала</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/headofsecurity.png"><figcaption>Глава Службы Безопасности</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/chiefengineer.png"><figcaption>Старший Инженер</figcaption></figure></td>
+    </tr>
+    <tr>
+        <td><figure><img src="/roles/roles_icon/researchdirector.png"><figcaption>Мистагог</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/captain.png"><figcaption>Капитан</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/inspector.png"><figcaption>Инспектор</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/quartermaster.png"><figcaption>Квартирмейстер</figcaption></figure></td>
+    </tr>
+    <tr style="background-color: rgba(140, 0, 0, 0.2);">
+        <th colspan="4" style="background: rgba(140, 0, 0, 0.2)"><big>Служба Безопасности</big></th>
+    </tr>
+    <tr>
+        <td><figure><img src="/roles/roles_icon/warden.png"><figcaption>Смотритель</figcaption></figure></td>
+      	<td colspan="2" rowspan="2"><figure><img src="/roles/icons/	seniorofficer.png"><figcaption>Ветеран</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/officer.png"><figcaption>Офицер</figcaption></figure></td>
+    </tr>
+  	<tr>
+        <td><figure><img src="/roles/roles_icon/cadet.png"><figcaption>Кадет</figcaption></figure></td>
+				<td><figure><img src="/roles/roles_icon/detective.png"><figcaption>Детектив</figcaption></figure></td>
+    </tr>
+    <tr>     
+        <td colspan="2"><figure><img src="/roles/icons/brigmedic.png"><figcaption>Бригмедик</figcaption></figure></td>
+        <td colspan="2"><figure><img src="/roles/icons/nyanoprisonguard.png"><figcaption>Смотритель Тюрьмы</figcaption></figure></td>
+    </tr>
+    <tr style="background-color: rgba(0, 148, 171, 0.2);">
+        <th colspan="4" style="background: rgba(0, 148, 171, 0.2)"><big>Медицинский отдел</big></th>
+    </tr>
+    <tr>
+        <td><figure><img src="/roles/roles_icon/chemist.png"><figcaption>Химик</figcaption></figure></td>
+      	<td colspan="2" rowspan="2"><figure><img src="/roles/icons/seniorphysician.png"><figcaption>Медицинский Офицер	</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/intern.png"><figcaption>Интерн</figcaption></figure></td>
+    </tr>
+  	<tr>
+        <td><figure><img src="/roles/roles_icon/doctor.png"><figcaption>Врач</figcaption></figure></td>
+				<td><figure><img src="/roles/roles_icon/paramedic.png"><figcaption>Парамедик</figcaption></figure></td>
+    </tr>
+
+<td colspan="2"><figure><img src="/roles/icons/medicalborg.png"><figcaption>Медицинский Киборг</figcaption></figure></td>
+<td colspan="2"><figure><img src="/roles/icons/psychologist.png"><figcaption>Психолог</figcaption></figure></td>
+    <tr style="background-color: rgba(0, 148, 171, 0.2);">
+        <th colspan="4" style="background: rgba(117, 0, 140, 0.2)"><big>Научный отдел</big></th>
+    </tr>
+    <tr>
+        <td><figure><img src="/roles/roles_icon/scientist.png"><figcaption>Учёный</figcaption></figure></td>
+        <td colspan="2"><figure><img src="/roles/icons/seniorresearcher.png"><figcaption>Ведущий Исследователь</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/researchassistant.png"><figcaption>Научный Ассистент</figcaption></figure></td>
+    </tr>
+    <tr>
+        <td><figure><img src="/roles/icons/chaplain.png"><figcaption>Священник</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/librarian.png"><figcaption>Библиотекарь</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/nyanomantis.png"><figcaption>Мантис</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/roboticist.png"><figcaption>Робототехник</figcaption></figure></td>
+    </tr>
+    <tr>
+        <th colspan="4" style="background: rgba(211, 176, 0, 0.2)"><big>Инженерный отдел</big></th>
+    </tr>
+    <tr>
+        <td><figure><img src="/roles/icons/seniorengineer.png"><figcaption>Бригадир</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/atmospherictechnician.png"><figcaption>Атмосферный Техник</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/engineer.png"><figcaption>Инженер</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/technicalassistant.png"><figcaption>Технический Ассистент</figcaption></figure></td>
+    </tr>
+    <tr>
+        <th colspan="4" style="background: rgba(146, 92, 14, 0.2)"><big>Отдел снабжения</big></th>
+    </tr>
+    <tr>
+        <td><figure><img src="/roles/icons/nyanomailcarrier.png"><figcaption>Курьер</figcaption></figure></td>
+        <td colspan="2"><figure><img src="/roles/roles_icon/utilizer.png"><figcaption>Утилизатор</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/loader.png"><figcaption>Грузчик</figcaption></figure></td>
+    </tr>
+    <tr style="background-color: rgba();">
+        <th colspan="4" style="background: rgba(32, 146, 14, 0.2)"><big>Сервисный отдел</big></th>
+    </tr>
+    <tr>
+        <td colspan="2"><figure><img src="/roles/roles_icon/clown.png"><figcaption>Клоун</figcaption></figure></td>
+        <td colspan="2"><figure><img src="/roles/roles_icon/mime.png"><figcaption>Мим</figcaption></figure></td>
+    </tr>
+    <tr>     
+        <td colspan="2"><figure><img src="/roles/roles_icon/barman.png"><figcaption>Бармен</figcaption></figure></td>
+        <td colspan="2"><figure><img src="/roles/roles_icon/botanist.png"><figcaption>Ботаник</figcaption></figure></td>
+    </tr>
+    <tr>
+        <td><figure><img src="/roles/roles_icon/assistant.png"><figcaption>Ассистент</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/musician.png"><figcaption>Музыкант</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/janitor.png"><figcaption>Уборщик</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/boxer.png"><figcaption>Боксёр</figcaption></figure></td>
+    </tr>
+    <tr>
+        <td><figure><img src="/roles/roles_icon/serviceworker.png"><figcaption>Сервисный Работник</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/chef.png"><figcaption>Повар</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/reporter.png"><figcaption>Репортёр</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/zootechnik.png"><figcaption>Зоотехник</figcaption></figure></td>
+    </tr>
+    <tr>
+        <td><figure><img src="/roles/icons/nyanomartialartist.png"><figcaption>Мастер Боевых Исскуств</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/hobo.png"><figcaption>Космический Бомж</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/nyanogladiator.png"><figcaption>Гладиатор</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/prisoner.png"><figcaption>Заключенный</figcaption></figure></td>
+    </tr>
+ <td colspan="4"><figure><img src="/roles/icons	/borg.png"><figcaption>Борг</figcaption></figure></td>
+
+<tr>
+        <th colspan="4" style="background: rgba(140, 0, 0, 0.2)"><big>Отдел юстиции</big></th>
+    </tr>
+    <tr>
+        <td><figure><img src="/roles/roles_icon/lawyer.png"><figcaption>Юрист</figcaption></figure></td>
+        <td colspan="2"><figure><img src="/roles/icons/clerk.png"><figcaption>Клерк</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/prosecutor.png"><figcaption>Прокурор</figcaption></figure></td>
+    </tr>
+    <tr style="background-color: rgba();">
+      
+
+</table>
+
 
 <table class="table-name">
   <thead>
