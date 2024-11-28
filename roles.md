@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-11-28T16:40:53.413Z
+date: 2024-11-28T16:44:21.264Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -293,9 +293,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/thief">Вор</a><a href="/roles/thief"><img src="/roles/thief32x32.png" /></a></div>
   <div><div>Вор, способный утащить всё, что не прикручено к полу. Остерегайтесь пропажи ваших ценных вещей!</div></div>
   <div>Средне</div>
-  <div><a href="/roles/cultist">Культист</a><a href="/roles/cultist"><img src="/roles/cultist.gif" /></a></div>
+  <!-- <div><a href="/roles/cultist">Культист</a><a href="/roles/cultist"><img src="/roles/cultist.gif" /></a></div>
   <div><div>Заходит в бар безумный фанатик, священник и человек с кроваво-красными глазами и большой руной над головой, а бармен говорит "Тебе как обычно?".</div></div>
-  <div>Сложно</div>
+  <div>Сложно</div>-->
   <div><a href="/roles/revolution">Революционер</a><a href="/roles/revolution"><img src="/roles/revolution.png" /></a></div>
   <div><div>Синдикат решает захватить власть более интересным путём, а именно промывкой мозгов с помощью флешки. Ещё одна веская причина не собираться в толпы. И если вы зачинщик революции.. я надеюсь вы же умеете управлять толпой из десяток людей?</div></div>
   <div>Средне</div>
@@ -321,14 +321,14 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><div>Звучит полезно.. хотя обычно им почему-то не пользуются.</div></div>
   <div>Сложно</div>
   <div><a href="/roles/genestealer" class="goida"></a><a href="/roles/genestealer"><img src="/roles/changeling.gif" /></a></div>
-  <div><div>Высокоинтеллектуальный инопланетный хищник, обладающий способностью менять свой облик, чтобы выглядеть в точности как человек.. Способен создавать из своих конечностей оружие и жала с ядом."</div></div>
-  <div>Сложно</div>
+ <!-- <div><div>Высокоинтеллектуальный инопланетный хищник, обладающий способностью менять свой облик, чтобы выглядеть в точности как человек.. Способен создавать из своих конечностей оружие и жала с ядом."</div></div>
+  <div>Сложно</div>-->
   <div><a href="/roles/terminator">Терминатор</a><a href="/roles/terminator"><img src="/roles/terminator.png" /></a></div>
   <div><div>Высокотехнологичный антагонист, который представляет собой серьезную угрозу для отдельного члена экипажа.</div></div>
   <div>Легко</div>
-  <div><a href="/roles/wizard">Маг</a><a href="/roles/wizard"><img src="/roles/wizard_real.png" /></a></div>
+ <!-- <div><a href="/roles/wizard">Маг</a><a href="/roles/wizard"><img src="/roles/wizard_real.png" /></a></div>
   <div><div>FORTI GY AMA!! Заставьте всех ненавидеть вас за убийство всей станции. HONK FOR ME!!! Превратите весь экипаж в клоунов. ONI SOMA!!! Умрите от клоуна с жезлом нулификации.</div></div>
-  <div>Очень сложно</div>
+  <div>Очень сложно</div>-->
   <div><a href="/roles/paradox-anomaly" class="is-internal-link is-valid-page">Парадоксальная аномалия</a><a href="/roles/paradox-anomaly"><img src="/roles/paradox-anomaly.png" /></a></div>
   <div><div>Основная цель Парадоксальной аномалии - либо убить оригинала и заменить его собой, либо сохранить жизнь своему клону и подружиться с ним. Вторичная цель - сбежать на ЦентКом живым и свободным.</div></div>
   <div>Достаточно сложно</div>
