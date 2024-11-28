@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-11-28T19:18:58.776Z
+date: 2024-11-28T19:26:46.835Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -230,7 +230,7 @@ criminalisticrecord.png" width="64" height="64"></td>
     </tr>
     <tr>
         <td><figure><img src="/roles/roles_icon/warden.png"><figcaption>Смотритель</figcaption></figure></td>
-      	<td colspan="2" rowspan="2"><figure><img src="/roles/roles_icon/veteran.png"><figcaption>Ветеран</figcaption></figure></td>
+      	<td colspan="2" rowspan="2"><figure><img src="/roles/icons/	seniorofficer.png"><figcaption>Ветеран</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/officer.png"><figcaption>Офицер</figcaption></figure></td>
     </tr>
   	<tr>
@@ -257,14 +257,20 @@ criminalisticrecord.png" width="64" height="64"></td>
     </tr>
     <tr>
         <td><figure><img src="/roles/roles_icon/scientist.png"><figcaption>Учёный</figcaption></figure></td>
-        <td colspan="2"><figure><img src="/roles/roles_icon/leadresearcher.png"><figcaption>Ведущий Исследователь</figcaption></figure></td>
+        <td colspan="2"><figure><img src="/roles/icons/seniorresearcher.png"><figcaption>Ведущий Исследователь</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/researchassistant.png"><figcaption>Научный Ассистент</figcaption></figure></td>
+    </tr>
+    <tr>
+        <td><figure><img src="/roles/icons/chaplain.png"><figcaption>Священник</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/librarian.png"><figcaption>Библиотекарь</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/nyanomantis.png"><figcaption>Мантис</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/roboticist.png"><figcaption>Робототехник</figcaption></figure></td>
     </tr>
     <tr>
         <th colspan="4" style="background: rgba(211, 176, 0, 0.2)"><big>Инженерный отдел</big></th>
     </tr>
     <tr>
-        <td><figure><img src="/roles/roles_icon/brigadier.png"><figcaption>Бригадир</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/seniorengineer.png"><figcaption>Бригадир</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/atmospherictechnician.png"><figcaption>Атмосферный Техник</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/engineer.png"><figcaption>Инженер</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/technicalassistant.png"><figcaption>Технический Ассистент</figcaption></figure></td>
