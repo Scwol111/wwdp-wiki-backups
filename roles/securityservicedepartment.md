@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-11-28T18:59:03.681Z
+date: 2024-11-28T19:09:12.463Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -302,6 +302,13 @@ criminalisticrecord.png" width="64" height="64"></td>
         <td><figure><img src="/roles/roles_icon/reporter.png"><figcaption>Репортёр</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/zootechnik.png"><figcaption>Зоотехник</figcaption></figure></td>
     </tr>
+    <tr>
+        <td><figure><img src="/roles/icons/nyanomartialartist.png"><figcaption>Мастер Боевых Исскуств</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/hobo.png"><figcaption>Космический Бомж</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/nyanogladiator.png"><figcaption>Гладиатор</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/prisoner.png"><figcaption>Заключенный</figcaption></figure></td>
+    </tr>
+ <td colspan="4"><figure><img src="/roles/icons	/borg.png"><figcaption>Борг</figcaption></figure></td>
 
 <tr>
         <th colspan="4" style="background: rgba(140, 0, 0, 0.2)"><big>Отдел юстиции</big></th>
