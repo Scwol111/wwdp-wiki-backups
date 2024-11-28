@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-11-28T16:44:21.264Z
+date: 2024-11-28T16:47:13.859Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -287,9 +287,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/nuclearoperative">Ядерный Оперативник</a><a href="/roles/nuclearoperative"><img src="/roles/nuclearoperative.png" /></a></div>
   <div><div><strike>Криворукие</strike> "Элитные" наёмники синдиката. Варят два часа лекарства, выпивают для храбрости, наедаются как в последний раз, а потом половина умирают от какой-то обезьяны, что бегает с гранатой, а вторая падает от дизейблера.</div></div>
   <div><a href="https://www.youtube.com/watch?v=KMB6jqALLt8">БАБАХ!</a></div>
-  <div><a href="/roles/corticalBorer">Мозговой червь</a><a href="/roles/corticalBorer"><img src="/roles/borer.png" /></a></div>
+  <!--<div><a href="/roles/corticalBorer">Мозговой червь</a><a href="/roles/corticalBorer"><img src="/roles/borer.png" /></a></div>
   <div><div>Мозговые черви — идеальные паразиты, которые способны проникнуть через ухо к мозгу гуманоида. Черви способны к общению со своей жертвой из-за частичного захвата мозга и центра мыслительных процессов.</div></div>
-  <div>Легко</div>
+  <div>Легко</div> -->
   <div><a href="/roles/thief">Вор</a><a href="/roles/thief"><img src="/roles/thief32x32.png" /></a></div>
   <div><div>Вор, способный утащить всё, что не прикручено к полу. Остерегайтесь пропажи ваших ценных вещей!</div></div>
   <div>Средне</div>
@@ -320,9 +320,10 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/guardian">Хранитель</a><a href="/roles/guardian"><img src="/roles/guardian.png" /></a></div>
   <div><div>Звучит полезно.. хотя обычно им почему-то не пользуются.</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/genestealer" class="goida"></a><a href="/roles/genestealer"><img src="/roles/changeling.gif" /></a></div>
- <!-- <div><div>Высокоинтеллектуальный инопланетный хищник, обладающий способностью менять свой облик, чтобы выглядеть в точности как человек.. Способен создавать из своих конечностей оружие и жала с ядом."</div></div>
-  <div>Сложно</div>-->
+ <!-- <div><a href="/roles/genestealer" class="goida"></a><a href="/roles/genestealer"><img src="/roles/changeling.gif" /></a></div>
+<div><div>Высокоинтеллектуальный инопланетный хищник, обладающий способностью менять свой облик, чтобы выглядеть в точности как человек.. Способен создавать из своих конечностей оружие и жала с ядом."</div></div>
+  <div>Сложно</div>
+-->
   <div><a href="/roles/terminator">Терминатор</a><a href="/roles/terminator"><img src="/roles/terminator.png" /></a></div>
   <div><div>Высокотехнологичный антагонист, который представляет собой серьезную угрозу для отдельного члена экипажа.</div></div>
   <div>Легко</div>
