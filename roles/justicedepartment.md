@@ -2,7 +2,7 @@
 title: Отдел Юстиции
 description: 
 published: true
-date: 2024-10-30T13:56:54.178Z
+date: 2024-11-28T16:30:31.470Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:39.415Z
@@ -12,7 +12,7 @@ dateCreated: 2024-10-20T13:01:39.415Z
 
 
 <div class="rolescontainer">
-
+<!--
 <div class="role">
 <div class="rolename"><a href="/roles/chief_justice">Главный судья</a></div>
 <div class="roleimg"><img src="/roles/chief_justice.png"></div>
@@ -21,7 +21,7 @@ dateCreated: 2024-10-20T13:01:39.415Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Гарант порядка и справедливости в суде. Строгий начальник и беспристрастный судья в одном лице.</div>  
 </div>
-  
+  -->
 <div class="role">
 <div class="rolename"><a href="/roles/lawyer">Юрист</a></div>
 <div class="roleimg"><img src="/roles/lawyer.png"></div>
@@ -29,8 +29,9 @@ dateCreated: 2024-10-20T13:01:39.415Z
 <div class="rolehead">Главный судья</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Душнила, но поменьше. Его уже можно дождаться, если вы вызвали юриста для оправдания своих деяний.</div>  
-</div>   
-
+</div>
+   
+<!--
 <div class="role">
 <div class="rolename"><a href="/roles/prosecutor">Прокурор</a></div>
 <div class="roleimg"><img src="/roles/prosecutor.png"></div>
@@ -48,18 +49,15 @@ dateCreated: 2024-10-20T13:01:39.415Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Этого человека вы найдете за стопкой бумаг выше, чем он сам.</div>  
 </div>   
-  
+  -->
 </div>
 
 
 
 <center>
+
 <div class="textcontainer">
 
-## Главный судья
-
-<a href="/roles/lawyer">юристов</a>.
-  
 ### Важно!
   
 **ПОМНИТЕ!** Любые конфликты внутри станции должны быть решены силами станции. Для этого вы и занимаете свою должность. Обращение к [Центральному Командованию](/roles/centralcommand) может быть выполнено **только** если ситуация никаким образом не может быть решена силами самой станции и не требует отлагательств. В иных случаях, обращение к [Центральному Командованию](/roles/centralcommand) будет проигнорировано либо расценено как халатность с дальнейшими последствиями.
