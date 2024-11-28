@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-11-28T19:26:46.835Z
+date: 2024-11-28T19:30:23.210Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -236,6 +236,10 @@ criminalisticrecord.png" width="64" height="64"></td>
   	<tr>
         <td><figure><img src="/roles/roles_icon/cadet.png"><figcaption>Кадет</figcaption></figure></td>
 				<td><figure><img src="/roles/roles_icon/detective.png"><figcaption>Детектив</figcaption></figure></td>
+    </tr>
+    <tr>     
+        <td colspan="2"><figure><img src="/roles/icons/brigmedic.png"><figcaption>Бригмедик</figcaption></figure></td>
+        <td colspan="2"><figure><img src="/roles/icons/nyanoprisonguard.png"><figcaption>Смотритель Тюрьмы</figcaption></figure></td>
     </tr>
     <tr style="background-color: rgba(0, 148, 171, 0.2);">
         <th colspan="4" style="background: rgba(0, 148, 171, 0.2)"><big>Медицинский отдел</big></th>
