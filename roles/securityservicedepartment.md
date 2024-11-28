@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-11-28T19:43:50.910Z
+date: 2024-11-28T20:09:27.347Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -129,6 +129,14 @@ dateCreated: 2024-09-22T08:37:21.006Z
 
 <h1> <span><img src="/roles/prison-guard.png"> <a href="/roles/prison-guard">Смотритель Тюрьмы</a></span> </h1>
 
+## Большой брат следит за тобой	
+
+Смотритель Тюрьмы — это важная роль, предназначенная для управления и охраны Пермабрига, места содержания особо опасных преступников. В ваши обязанности входит обеспечение безопасности как заключённых, так и самого Пермабрига, а также контроль за тем, чтобы ни один заключённый не сбежал и не подвергся внешним угрозам. Потеря хотя бы одного заключенного может привести к большим последствиям, поэтому следите в оба!
+
+## Сторожевой пёс
+
+Из-за того что Смотритель Тюрьмы начинает игру с [имплантом](/roles/securityservicedepartment/implants) "Защиты разума" (Mindshield) он не может быть антагонистом.
+
 <h1> <span><img src="/roles/officer.png"> <a href="/roles/officer">Офицер</a></span> </h1>
 
 ## Полыцыя!
@@ -167,7 +175,7 @@ dateCreated: 2024-09-22T08:37:21.006Z
 
 <table>
   <tr>
-    <td><img src="/roles/security/scaner.png" alt="scaner.png" width="64" height="64"></td>
+    <td><img src="/roles/icons/forensicscanner.png" alt="scaner.png" width="64" height="64"></td>
     <td style="text-align: center;">Ваш сканер отпечатков!</td>
   </tr>
 </table>
@@ -183,8 +191,8 @@ dateCreated: 2024-09-22T08:37:21.006Z
 
 <table>
 <tr>
-<td><img src="/roles/security/	
-criminalisticrecord.png" width="64" height="64"></td>
+<td><img src="/roles/icons/	
+forensicpad.png" width="64" height="64"></td>
 <td style="text-align: center;">Криминалистическая пластинка, на которой остаются отпечатки человека.</td>
 </tr>
 </table>
@@ -341,20 +349,35 @@ criminalisticrecord.png" width="64" height="64"></td>
       
 
 </table>
-
-
-<div class="tble">
-
-|   **Иконки криминалистики**  |   **Описание**  |
-| --- | --- |
-| ![](/role/roles_icon/released.png)<br>Освобождён | Освобождён по УДО. |
-| ![](/role/roles_icon/discharged.png)<br>Выписан | Выпущен из брига по истечению срока. |
-| ![](/role/roles_icon/encoded.png)<br>Закодирован | Имплантирован МайндШилдом. |
-| ![](/role/roles_icon/suspect.png)<br>Подозреваемый | Возможный преступник. |
-| ![](/role/roles_icon/wanted.png)<br>В розыске | Должен быть доставлен в бриг. |
-| ![](/role/roles_icon/prisoner.png)<br>Заключённый | Заключен в камере или пермабриге. |
-
-</div>
+<table class="tble">
+  <thead>
+    <tr>
+      <th colspan="2">Иконки криминалистики</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><div><img src="/guides/security/officership/free.png" alt="free.png" /><div>Выписан</div></div></td>
+      <td>Выпущен из брига по истечению срока.</td>
+    </tr>
+    <tr>
+      <td><div><img src="/guides/security/officership/coded.png" alt="coded.png" /><div>Освобожден</div></div></td>
+      <td>Освобожден из брига по УДО.</td>
+    </tr>
+    <tr>
+      <td><div><img src="/guides/security/officership/suspect.png" alt="suspect.png" /><div>Подозреваемый</div></div></td>
+      <td>Возможный преступник.</td>
+    </tr>
+    <tr>
+      <td><div><img src="/guides/security/officership/wanted.png" alt="wanted.png" /><div>В розыске</div></div></td>
+      <td>Должен быть доставлен в бриг.</td>
+    </tr>
+    <tr>
+      <td><div><img src="/guides/security/officership/prisoner.png" alt="prisoner.png" /><div>Заключенный</div></div></td>
+      <td>Заключен в камере или пермабриге.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 # Уставная и неуставная речь
