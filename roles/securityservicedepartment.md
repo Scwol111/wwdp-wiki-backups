@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-10-20T13:01:36.424Z
+date: 2024-11-28T17:17:25.611Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -220,7 +220,7 @@ criminalisticrecord.png" width="64" height="64"></td>
         <td><figure><img src="/roles/roles_icon/chiefengineer.png"><figcaption>Старший Инженер</figcaption></figure></td>
     </tr>
     <tr>
-        <td><figure><img src="/roles/roles_icon/researchdirector.png"><figcaption>Научный Руководитель</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/researchdirector.png"><figcaption>Мистагог</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/captain.png"><figcaption>Капитан</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/inspector.png"><figcaption>Инспектор</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/quartermaster.png"><figcaption>Квартирмейстер</figcaption></figure></td>
@@ -249,6 +249,8 @@ criminalisticrecord.png" width="64" height="64"></td>
         <td><figure><img src="/roles/roles_icon/doctor.png"><figcaption>Врач</figcaption></figure></td>
 				<td><figure><img src="/roles/roles_icon/paramedic.png"><figcaption>Парамедик</figcaption></figure></td>
     </tr>
+
+<td colspan="4"><figure><img src="/roles/roles_icon/medicalofficer.png"><figcaption>Медицинский Офицер</figcaption></figure></td>
     <tr style="background-color: rgba(0, 148, 171, 0.2);">
         <th colspan="4" style="background: rgba(117, 0, 140, 0.2)"><big>Научный отдел</big></th>
     </tr>
@@ -270,8 +272,8 @@ criminalisticrecord.png" width="64" height="64"></td>
         <th colspan="4" style="background: rgba(146, 92, 14, 0.2)"><big>Отдел снабжения</big></th>
     </tr>
     <tr>
-        <td><figure><img src="/roles/roles_icon/utilizer.png"><figcaption>Утилизатор</figcaption></figure></td>
-        <td colspan="2"><figure><img src="/roles/roles_icon/hunter.png"><figcaption>Охотник</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/nyanomailcarrier.png"><figcaption>Курьер</figcaption></figure></td>
+        <td colspan="2"><figure><img src="/roles/roles_icon/utilizer.png"><figcaption>Утилизатор</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/loader.png"><figcaption>Грузчик</figcaption></figure></td>
     </tr>
     <tr style="background-color: rgba();">
@@ -299,12 +301,18 @@ criminalisticrecord.png" width="64" height="64"></td>
         <td><figure><img src="/roles/roles_icon/reporter.png"><figcaption>Репортёр</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/zootechnik.png"><figcaption>Зоотехник</figcaption></figure></td>
     </tr>
-    <tr>
+
+<tr>
         <th colspan="4" style="background: rgba(140, 0, 0, 0.2)"><big>Отдел юстиции</big></th>
     </tr>
-    <tr >
-        <td colspan="4"><figure><img src="/roles/roles_icon/lawyer.png"><figcaption>Юрист</figcaption></figure></td>
+    <tr>
+        <td><figure><img src="/roles/roles_icon/lawyer.png"><figcaption>Юрист</figcaption></figure></td>
+        <td colspan="2"><figure><img src="/roles/icons/clerk.png"><figcaption>Клерк</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/prosecutor.png"><figcaption>Прокурор</figcaption></figure></td>
     </tr>
+    <tr style="background-color: rgba();">
+      
+
 </table>
 
 
