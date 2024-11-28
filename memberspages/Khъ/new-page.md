@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-11-06T15:51:36.548Z
+date: 2024-11-28T17:12:25.447Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-03T18:49:36.350Z
@@ -22,7 +22,7 @@ dateCreated: 2024-11-03T18:49:36.350Z
 # Header
 <div class="race">
   <div class="name">ГОООЛ</div>
-  <div><img src="/boosty.png"></div>
+  <div><img src="/boosty.png" class="zoomable"></div>
   <div class="pers">
     <hr>
     <b>ГОЙДА:</b>
