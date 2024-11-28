@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-11-28T17:17:25.611Z
+date: 2024-11-28T18:59:03.681Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -216,7 +216,7 @@ criminalisticrecord.png" width="64" height="64"></td>
     <tr>
         <td><figure><img src="/roles/roles_icon/chiefmedicalofficer.png"><figcaption>Старший Медицинский Офицер</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/headofpersonnel.png"><figcaption>Глава Персонала</figcaption></figure></td>
-        <td><figure><img src="/roles/roles_icon/headofsecurity.png"><figcaption>Глава Охранной Службы</figcaption></figure></td>
+        <td><figure><img src="/roles/roles_icon/headofsecurity.png"><figcaption>Глава Службы Безопасности</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/chiefengineer.png"><figcaption>Старший Инженер</figcaption></figure></td>
     </tr>
     <tr>
@@ -242,7 +242,7 @@ criminalisticrecord.png" width="64" height="64"></td>
     </tr>
     <tr>
         <td><figure><img src="/roles/roles_icon/chemist.png"><figcaption>Химик</figcaption></figure></td>
-      	<td colspan="2" rowspan="2"><figure><img src="/roles/roles_icon/medicalofficer.png"><figcaption>Медицинский Офицер</figcaption></figure></td>
+      	<td colspan="2" rowspan="2"><figure><img src="/roles/icons/seniorphysician.png"><figcaption>Медицинский Офицер	</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/intern.png"><figcaption>Интерн</figcaption></figure></td>
     </tr>
   	<tr>
@@ -250,7 +250,8 @@ criminalisticrecord.png" width="64" height="64"></td>
 				<td><figure><img src="/roles/roles_icon/paramedic.png"><figcaption>Парамедик</figcaption></figure></td>
     </tr>
 
-<td colspan="4"><figure><img src="/roles/roles_icon/medicalofficer.png"><figcaption>Медицинский Офицер</figcaption></figure></td>
+<td colspan="2"><figure><img src="/roles/icons/medicalborg.png"><figcaption>Медицинский Киборг</figcaption></figure></td>
+<td colspan="2"><figure><img src="/roles/icons/psychologist.png"><figcaption>Психолог</figcaption></figure></td>
     <tr style="background-color: rgba(0, 148, 171, 0.2);">
         <th colspan="4" style="background: rgba(117, 0, 140, 0.2)"><big>Научный отдел</big></th>
     </tr>
