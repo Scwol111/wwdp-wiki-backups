@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-11-28T19:31:26.049Z
+date: 2024-11-28T19:43:50.910Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -28,7 +28,16 @@ dateCreated: 2024-09-22T08:37:21.006Z
 <div class="rolehead">Глава Службы Безопасности<p></div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Вы охраняете бриг и заключенных. Следите за ними.<br> <center><a href="/guides/officership" title="Офицерство">Офицерство</a> • <a href="/spacelaw" title="Космический закон">Космический закон</a> • <a href="/guides/smuggling" title="Контрабанда">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности">Инвентарь службы безопасности</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности">Десятичные коды</a></center></div>  
-</div>    
+</div>  
+
+<div class="role">
+<div class="rolename"><a href="/roles/warden" class="custom-link">Смотритель Тюрьмы</a></div>
+<div class="roleimg"><img src="/roles/prison-guard.png"></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Глава Службы Безопасности/Смотритель</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Вы следите за заключенными в пермабриге.<br> <center><a href="/guides/officership" title="Офицерство">Офицерство</a> • <a href="/spacelaw" title="Космический закон">Космический закон</a> • <a href="/guides/smuggling" title="Контрабанда">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности">Инвентарь службы безопасности</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности">Десятичные коды</a></center></div>  
+</div>     
 
 <div class="role">
 <div class="rolename"><a href="/roles/veteran" class="custom-link">Ветеран</a></div>
@@ -117,6 +126,8 @@ dateCreated: 2024-09-22T08:37:21.006Z
 ## Я всевидящее око!
 
 Из-за того что варден начинает игру с [имплантом](/roles/securityservicedepartment/implants) "Защиты разума" (Mindshield) он не может быть антагонистом.
+
+<h1> <span><img src="/roles/prison-guard.png"> <a href="/roles/prison-guard">Смотритель Тюрьмы</a></span> </h1>
 
 <h1> <span><img src="/roles/officer.png"> <a href="/roles/officer">Офицер</a></span> </h1>
 
