@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2024-11-28T20:25:10.535Z
+date: 2024-11-28T20:30:11.769Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -64,32 +64,37 @@ dateCreated: 2024-11-21T13:23:17.560Z
     <tbody>
       <tr>
         <td><img src="/guides/medicine/surgery/bone-gel.png" class="png1"><br><b>Костянной гель</b></td>
-        <td><p>Сращивает кости.
+        <td><p>Используется для сращивания костей. 
         </td>
       </tr>
       <tr>
         <td><img src="/guides/medicine/surgery/hemostat.png" class="png1"><br><b>Гемостат</b></td>
-        <td><p>Хз
+        <td><p>Используется для закрытия кровеносных сосудов и артерий.
+        </td>
+      </tr>
+      <tr>
+        <td><img src="/guides/medicine/surgery/retractor.png" class="png1"><br><b>Ретрактор</b></td>
+        <td><p>	Используется для удержания дряблой кожи на месте и открытых разрезов.
         </td>
       </tr>
       <tr>
         <td><img src="/guides/medicine/surgery/scalpel.png" class="png1"><br><b>Скальпель</b></td>
-        <td><p>Чик чик чик чик
+        <td><p>Используется для точных разрезов кожи и сухожилий.
         </td>
       </tr>
       <tr>
         <td><img src="/guides/medicine/surgery/cautery.png" class="png1"><br><b>Прибор для прижигания</b></td>
-        <td><p>хуууууууууууууй
+        <td><p>	Используется для прижигания ран.
         </td>
       </tr>
       <tr>
         <td><img src="/guides/medicine/surgery/saw.png" class="png1"><br><b>Пила по металлу</b></td>
-        <td><p>Режет ноги.
+        <td><p>Используется для распиливания костей и других твердых структур.
         </td>
       </tr>
       <tr>
         <td><img src="/guides/medicine/surgery/drill.png" class="png1"><br><b>Дрель</b></td>
-        <td><p>Делает бурбурбур
+        <td><p>	Используется для создания точных отверстий в костях и хрящах.
         </td>
       </tr>
     </tbody>
