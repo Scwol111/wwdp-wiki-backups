@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-11-29T09:12:22.425Z
+date: 2024-11-29T17:37:19.787Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -18,7 +18,7 @@ dateCreated: 2024-09-22T08:37:21.006Z
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Капитан<p></div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Вы руководите службой безопасности, неся ответственность за порядок на станции.<br> <center><a href="/guides/hierarchyofcommand">Иерархия Командования</a> • <a href="/spacelaw">Космический Закон</a> • <a href="/guides/officership">Офицерство</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности">Десятичные коды</a></center></div>  
+<div class="roledesc">Вы руководите службой безопасности, неся ответственность за порядок на станции.</div>  
 </div>
 
 <div class="role">
@@ -27,7 +27,7 @@ dateCreated: 2024-09-22T08:37:21.006Z
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава Службы Безопасности<p></div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Вы охраняете бриг и заключенных. Следите за ними.<br> <center><a href="/guides/officership" title="Офицерство">Офицерство</a> • <a href="/spacelaw" title="Космический закон">Космический закон</a> • <a href="/guides/smuggling" title="Контрабанда">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности">Инвентарь службы безопасности</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности">Десятичные коды</a></center></div>  
+<div class="roledesc">Вы охраняете бриг и заключенных. Следите за ними.</div>  
 </div>  
 
 <div class="role">
@@ -36,7 +36,7 @@ dateCreated: 2024-09-22T08:37:21.006Z
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава Службы Безопасности/Смотритель</div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Вы следите за заключенными в пермабриге.<br> <center><a href="/guides/officership" title="Офицерство">Офицерство</a> • <a href="/spacelaw" title="Космический закон">Космический закон</a> • <a href="/guides/smuggling" title="Контрабанда">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности">Инвентарь службы безопасности</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности">Десятичные коды</a></center></div>  
+<div class="roledesc">Вы следите за заключенными в пермабриге.></div>  
 </div>     
 
 <div class="role">
@@ -45,7 +45,7 @@ dateCreated: 2024-09-22T08:37:21.006Z
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава Службы Безопасности/Смотритель</div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Обучайте и помогайте новичкам отдела СБ.<br> <center><a href="/spacelaw" title="Космический Закон">Космический Закон</a> • <a href="/guides/smuggling" title="Контрабанда">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности">Инвентарь службы безопасности</a> • <a href="/guides/officership" title="Знать наизусть">Знать наизусть</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности">Десятичные коды</a></center></div>  
+<div class="roledesc">Обучайте и помогайте новичкам отдела СБ.</div>  
 </div>
 
 <div class="role">
@@ -54,7 +54,7 @@ dateCreated: 2024-09-22T08:37:21.006Z
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава Службы Безопасности/Смотритель</div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Расскрывайте преступления, сланяйтесь по станции в поисках дела, берите отпечатки с каждого встречного.<br> <center><a href="/guides/officership" title="Офицерство">Офицерство</a> • <a href="/spacelaw" title="Космический закон">Космический закон</a> • <a href="/guides/smuggling" title="Контрабанда">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности">Инвентарь службы безопасности</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности">Десятичные коды</a></center></div>  
+<div class="roledesc">Расскрывайте преступления, сланяйтесь по станции в поисках дела, берите отпечатки с каждого встречного.</div>  
 </div>
 
 <div class="role">
@@ -63,7 +63,7 @@ dateCreated: 2024-09-22T08:37:21.006Z
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава Службы Безопасности/Смотритель</div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Следите за порядком на станции, вяжите клоуна раундстартом и принижайте каждого, кого встретите, ведь вы тут власть!!!<br> <center><a href="/guides/officership" title="Офицерство">Офицерство</a> • <a href="/spacelaw" title="Космический закон">Космический закон</a> • <a href="/guides/smuggling" title="Контрабанда">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности">Инвентарь службы безопасности</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности">Десятичные коды</a></center></div>  
+<div class="roledesc">Следите за порядком на станции, вяжите клоуна раундстартом и принижайте каждого, кого встретите, ведь вы тут власть!!!</div>  
 </div>  
 
 <div class="role">
@@ -72,7 +72,7 @@ dateCreated: 2024-09-22T08:37:21.006Z
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава Службы Безопасности/Смотритель/Ветеран</div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Помогайте офицерам в их умных и полезных делах, обучайтесь на ходу, держите дубинку в руках всю смену.<br> <center><a href="/guides/officership" title="Офицерство">Офицерство</a> • <a href="/spacelaw" title="Космический закон">Космический закон</a> • <a href="/guides/smuggling" title="Контрабанда">Контрабанда</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности">Инвентарь службы безопасности</a></center></div>  
+<div class="roledesc">Помогайте офицерам в их умных и полезных делах, обучайтесь на ходу, держите дубинку в руках всю смену.</div>  
 </div>
 </div>
 
