@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-11-29T08:46:21.082Z
+date: 2024-11-29T08:49:49.331Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -191,8 +191,7 @@ dateCreated: 2024-09-22T08:37:21.006Z
 
 <table>
 <tr>
-<td><img src="/roles/icons/	
-forensicpad.png" width="64" height="64"></td>
+<td><img src="/roles/icons/forensicpad.png" width="64" height="64" style="pohoto"></td>
 <td style="text-align: center;">Криминалистическая пластинка, на которой остаются отпечатки человека.</td>
 </tr>
 </table>
