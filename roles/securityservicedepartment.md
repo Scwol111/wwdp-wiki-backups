@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-11-28T20:45:06.820Z
+date: 2024-11-29T08:46:21.082Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -241,7 +241,7 @@ forensicpad.png" width="64" height="64"></td>
     <tr>
         <td><figure><img src="/roles/roles_icon/researchdirector.png"><figcaption>Мистагог</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/captain.png"><figcaption>Капитан</figcaption></figure></td>
-        <td><figure><img src="/roles/roles_icon/inspector.png"><figcaption>Инспектор</figcaption></figure></td>
+        <td><figure><img src="/roles/icons/chiefjustice.png"><figcaption>Главный Судья</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/quartermaster.png"><figcaption>Квартирмейстер</figcaption></figure></td>
     </tr>
     <tr style="background-color: rgba(140, 0, 0, 0.2);">
@@ -249,7 +249,7 @@ forensicpad.png" width="64" height="64"></td>
     </tr>
     <tr>
         <td><figure><img src="/roles/roles_icon/warden.png"><figcaption>Смотритель</figcaption></figure></td>
-      	<td colspan="2" rowspan="2"><figure><img src="/roles/icons/	seniorofficer.png"><figcaption>Ветеран</figcaption></figure></td>
+      	<td colspan="2" rowspan="2"><figure><img src="/roles/icons/nyanoprisonguard.png"><figcaption>Смотритель Тюрьмы</figcaption></figure></td>
         <td><figure><img src="/roles/roles_icon/officer.png"><figcaption>Офицер</figcaption></figure></td>
     </tr>
   	<tr>
@@ -257,8 +257,7 @@ forensicpad.png" width="64" height="64"></td>
 				<td><figure><img src="/roles/roles_icon/detective.png"><figcaption>Детектив</figcaption></figure></td>
     </tr>
     <tr>     
-        <td colspan="2"><figure><img src="/roles/icons/brigmedic.png"><figcaption>Бригмедик</figcaption></figure></td>
-        <td colspan="2"><figure><img src="/roles/icons/nyanoprisonguard.png"><figcaption>Смотритель Тюрьмы</figcaption></figure></td>
+        <td colspan="4"><figure><img src="/roles/icons/brigmedic.png"><figcaption>Бригмедик</figcaption></figure></td>
     </tr>
     <tr style="background-color: rgba(0, 148, 171, 0.2);">
         <th colspan="4" style="background: rgba(0, 148, 171, 0.2)"><big>Медицинский отдел</big></th>
