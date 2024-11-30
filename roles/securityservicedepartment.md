@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-11-29T22:07:28.423Z
+date: 2024-11-30T21:56:44.493Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -312,12 +312,10 @@ dateCreated: 2024-09-22T08:37:21.006Z
         <th colspan="4" style="background: rgba(32, 146, 14, 0.2)"><big>Сервисный отдел</big></th>
     </tr>
     <tr>
-        <td colspan="2"><figure><img src="/roles/roles_icon/clown.png"><figcaption>Клоун</figcaption></figure></td>
-        <td colspan="2"><figure><img src="/roles/roles_icon/mime.png"><figcaption>Мим</figcaption></figure></td>
-    </tr>
-    <tr>     
-        <td colspan="2"><figure><img src="/roles/roles_icon/barman.png"><figcaption>Бармен</figcaption></figure></td>
-        <td colspan="2"><figure><img src="/roles/roles_icon/botanist.png"><figcaption>Ботаник</figcaption></figure></td>
+        <td colspan="1"><figure><img src="/roles/roles_icon/clown.png"><figcaption>Клоун</figcaption></figure></td>
+        <td colspan="1"><figure><img src="/roles/roles_icon/mime.png"><figcaption>Мим</figcaption></figure></td>  
+        <td colspan="1"><figure><img src="/roles/roles_icon/barman.png"><figcaption>Бармен</figcaption></figure></td>
+        <td colspan="1"><figure><img src="/roles/roles_icon/botanist.png"><figcaption>Ботаник</figcaption></figure></td>
     </tr>
     <tr>
         <td><figure><img src="/roles/roles_icon/assistant.png"><figcaption>Ассистент</figcaption></figure></td>
