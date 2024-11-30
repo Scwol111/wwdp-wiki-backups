@@ -2,7 +2,7 @@
 title: Отдел Юстиции
 description: 
 published: true
-date: 2024-11-28T16:30:31.470Z
+date: 2024-11-30T18:47:54.229Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:39.415Z
@@ -12,7 +12,7 @@ dateCreated: 2024-10-20T13:01:39.415Z
 
 
 <div class="rolescontainer">
-<!--
+
 <div class="role">
 <div class="rolename"><a href="/roles/chief_justice">Главный судья</a></div>
 <div class="roleimg"><img src="/roles/chief_justice.png"></div>
@@ -21,7 +21,7 @@ dateCreated: 2024-10-20T13:01:39.415Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Гарант порядка и справедливости в суде. Строгий начальник и беспристрастный судья в одном лице.</div>  
 </div>
-  -->
+
 <div class="role">
 <div class="rolename"><a href="/roles/lawyer">Юрист</a></div>
 <div class="roleimg"><img src="/roles/lawyer.png"></div>
@@ -31,7 +31,7 @@ dateCreated: 2024-10-20T13:01:39.415Z
 <div class="roledesc">Душнила, но поменьше. Его уже можно дождаться, если вы вызвали юриста для оправдания своих деяний.</div>  
 </div>
    
-<!--
+
 <div class="role">
 <div class="rolename"><a href="/roles/prosecutor">Прокурор</a></div>
 <div class="roleimg"><img src="/roles/prosecutor.png"></div>
@@ -49,7 +49,6 @@ dateCreated: 2024-10-20T13:01:39.415Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Этого человека вы найдете за стопкой бумаг выше, чем он сам.</div>  
 </div>   
-  -->
 </div>
 
 
