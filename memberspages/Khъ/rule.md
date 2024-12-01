@@ -2,17 +2,14 @@
 title: Untitled Page
 description: 
 published: false
-date: 2024-12-01T22:32:24.796Z
+date: 2024-12-01T22:34:58.133Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T13:33:41.706Z
 ---
 
 <table id="info-table">
-  <tr>
-    <th>Чат</th>
-    <th>Описание</th>
-  </tr>
+  
   <tr>
     <td><span style="color: #7db8be; text-shadow: 0 0 5px black">IC</span> ("In character") - то, что говорит ваш персонаж.</td>
     <td>За общение IC отвечает канал Рядом (например: Рядом "Клоун, ты арестован!"). В этом канале категорически запрещены смайлики и выход из роли. "Общий канал" является каналом радиосвязи, а не каналом чата.</td>
