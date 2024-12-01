@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: false
-date: 2024-12-01T22:34:58.133Z
+date: 2024-12-01T22:43:16.884Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T13:33:41.706Z
@@ -11,19 +11,19 @@ dateCreated: 2024-12-01T13:33:41.706Z
 <table id="info-table">
   
   <tr>
-    <td><span style="color: #7db8be; text-shadow: 0 0 5px black">IC</span> ("In character") - то, что говорит ваш персонаж.</td>
+    <td><span>IC</span><br><span>("In character") - то, что говорит ваш персонаж.</span></td>
     <td>За общение IC отвечает канал Рядом (например: Рядом "Клоун, ты арестован!"). В этом канале категорически запрещены смайлики и выход из роли. "Общий канал" является каналом радиосвязи, а не каналом чата.</td>
   </tr>
   <tr>
-    <td><span style="color: #7db8be; text-shadow: 0 0 5px black">OOC</span> ("Out of character") - общение вне роли.</td>
+    <td><span>OOC</span><br><span>("Out of character") - общение вне роли.</span></td>
     <td>За общение OOC отвечает канал OOC (например: OOC "Я новичок в этой игре. Что мне нужно знать из того, что не написано в вики?"). Здесь можно задать вопросы по механике игры или обсудить что-то, к ней не относящееся (всё же, для этого предпочтительнее зайти в <b>AHelp</b> или <b><a href="https://discord.gg/axx6fR4x">Discord-канал</a></b>). В OOC абсолютно запрещено обсуждать события текущего раунда.</td>
   </tr>
   <tr>
-    <td><span style="color: #7db8be; text-shadow: 0 0 5px black">LOOC</span> ("Local out of character") - локальное общение вне роли.</td>
+    <td><span>LOOC</span><br><span>("Local out of character") - локальное общение вне роли.</span></td>
     <td>Канал аналогичен OOC с той лишь разницей, что сообщения из LOOC распространяются лишь на 8 клеток вокруг говорящего.</td>
   </tr>
   <tr>
-    <td><span style="color: #7851A9; text-shadow: 0 0 5px black">Мёртвые</span> - общение между призраками.</td>
+    <td><span style="color: #7851A9">Мёртвые</span><br><span>- общение между призраками.</span></td>
     <td>Отличие от OOC и LOOC в том, что здесь можно обсуждать текущие события раунда, так как канал доступен только призракам.</td>
   </tr>
 </table>
