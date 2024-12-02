@@ -2,12 +2,20 @@
 title: Черты персонажа.
 description: Черты персонажа.
 published: false
-date: 2024-10-12T09:11:15.553Z
+date: 2024-12-02T18:47:55.895Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T21:27:18.257Z
 ---
 
+
+
+<center>
+<div class="warning-banner-red">
+  <h2> Йобаный рот! </h2>
+  <p>Оказалось, эта статья нахуй не нужна. Поэтому, доделывать её никто не будет. </p><p>
+</div>
+</center>
 
 # Tabs {.tabset}
 ## Слуховые
