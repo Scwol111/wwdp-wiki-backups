@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница
 published: true
-date: 2024-11-24T21:24:19.552Z
+date: 2024-12-05T13:43:40.691Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -128,9 +128,9 @@ dateCreated: 2024-09-10T19:12:06.984Z
                     <a class="is-external-link-r"><span id="copy">ss14://37.27.69.246:1212<span id="opov-copy">Скопировано</span></span></a>
                   </div>
                 </div>
-                <div class="servermenu">
+            <!--    <div class="servermenu">
                   <div>🏳️Wyrm EN</div>
                   <div>
                     <a class="is-external-link-r"><span id="copy">ss14://213.145.86.186:1212</span><span id="opov-copy">Скопировано</span></a>
                   </div>
-                </div>
+                </div> -->
