@@ -2,7 +2,7 @@
 title: Gavrik
 description: 
 published: false
-date: 2024-12-10T16:19:03.960Z
+date: 2024-12-10T16:19:25.182Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T18:47:48.919Z
@@ -21,5 +21,5 @@ dateCreated: 2024-11-07T18:47:48.919Z
   
   <li><a href="/memberspages/Gavrik/InfoBoxes">InfoBoxes</a></li>
   <li><a href="/memberspages/Gavrik/xenoarcheology">Ксеноархеология</a></li>
-  <li><a href="/memberspages/Gavrik/test">тест</a></li>
+  <li><a href="/memberspages/Gavrik/test">Тест</a></li>
 </ul>
