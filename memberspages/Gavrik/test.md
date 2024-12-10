@@ -2,7 +2,7 @@
 title: Test
 description: 
 published: false
-date: 2024-12-10T16:26:19.611Z
+date: 2024-12-10T16:26:41.150Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-27T16:13:08.467Z
@@ -14,7 +14,6 @@ dateCreated: 2024-11-27T16:13:08.467Z
       <span class="accardion__summary"
             role="term"
             aria-details="faq-1">
-        
         Заголовок 1
       </span>
     </summary>
