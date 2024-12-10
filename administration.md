@@ -2,7 +2,7 @@
 title: Администрация
 description: Стафф, педали, команда проекта.
 published: true
-date: 2024-12-10T18:15:06.360Z
+date: 2024-12-10T18:17:06.317Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:30.491Z
@@ -49,7 +49,7 @@ dateCreated: 2024-09-10T19:07:30.491Z
 сам хост. Обладает абсолютным набором кнопок и занимается<br>
 разработкой игры.</li>
 </ul>
-<h2 id="ранги-членов-команды-giedi-prime-14-в-discord" class="toc-header"><a class="toc-anchor" href="#ранги-членов-команды-giedi-prime-14-в-discord">¶</a> Роли членов команды WWDP в <a href="https://discord.gg/avwXNAsBgu" class="is-external-link">Discord</a></h2>
+<h2 id="ранги-членов-команды-giedi-prime-14-в-discord" class="toc-header"><a class="toc-anchor" href="#ранги-членов-команды-giedi-prime-14-в-discord">¶</a> Роли членов команды WWDP в <a href="https://discord.gg/cHdPPHUn">Discord</a></h2>
 <ul>
 <li><font color="#cdb1ff"><strong>Veteran</strong></font> — Бывший представитель педального состава, который ушёл на покой без косяков.</li>
 <li><strong>White Dream Staff</strong> — Часть стаффа, помогающая проекту или развивающая его, чаще всего на чистом энтузиазме.</li>
@@ -126,7 +126,7 @@ F1. У вас откроется окно чата с администратор
 <td width="150px"><center>
 <p>Причины бана</p>
 </center></td>
-<td><p><a href="https://ss14.su/bans" class="is-external-link">Баны</a> и прочие виды наказаний
+<td><p><a href="https://wwdp.ee/bans" class="is-external-link">Баны</a> и прочие виды наказаний
 должны быть оправданы, чтобы у игрока не было вопросов. Если
 причина "пидорас", то игрок должен точно знать, почему он забанен по этой причине. Если точнее, вы должны ему объяснять причину до того момента, как он не выйдет/скажет, что понял.</p></td>
 </tr>
