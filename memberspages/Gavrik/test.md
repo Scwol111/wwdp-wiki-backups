@@ -2,19 +2,23 @@
 title: Test
 description: 
 published: false
-date: 2024-11-27T17:35:18.136Z
+date: 2024-12-10T16:22:11.335Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-27T16:13:08.467Z
 ---
 
+<details>
+  <summary name="fq">Заголовок 1</summary>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<p/>
+</details>
 
-<div class="infobox">
-  <img src="/guides/xenoarcheology/crusher.png" width="64px" height="128px"/>
-  <p>Крушитель позволяет разрушать артефакты в осколки артефакта, активируя узел, на котором он находился в процессе преобразования. Однако мы не рекомендуем использовать эту функцию, если артефакт расположен на опасном узле.</p>
-</div>
+<details>
+  <summary name="fq">Заголовок 2</summary>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<p/>
+</details>
 
-<div class="infobox">
-  <img src="/guides/xenoarcheology/skaner_uslov.gif" width="64px" height="64px"/> 
-  <p>Сканер узлов может рассказать вам на каком узле находить артефакт если на него нажать самим сканером (для чего это чуть выше). Сканер можно взять в шкафчике учёного или создать на протлате если вы изучили нужную технологию.</p>
-</div>
+<details>
+  <summary name="fq">Заголовок 3</summary>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<p/>
+</details>
