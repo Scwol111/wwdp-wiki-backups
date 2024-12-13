@@ -2,7 +2,7 @@
 title: Как зайти на сервер
 description: 
 published: false
-date: 2024-12-13T16:14:19.498Z
+date: 2024-12-13T16:15:04.161Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T17:10:06.240Z
@@ -13,77 +13,7 @@ dateCreated: 2024-11-06T17:10:06.240Z
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Гайд: Как подключиться к Space Station 14</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f4f4f9;
-            color: #333;
-        }
 
-        .icon-container {
-            display: flex;
-            gap: 20px;
-            margin-bottom: 20px;
-        }
-
-        .icon-box {
-            text-align: center;
-            background-color: #fff;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            padding: 10px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            transition: transform 0.2s, box-shadow 0.2s;
-        }
-
-        .icon-box:hover {
-            transform: scale(1.05);
-            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
-        }
-
-        .icon-box img {
-            width: 50px;
-            height: 50px;
-            margin-bottom: 10px;
-        }
-
-        .icon-box span {
-            display: block;
-            font-weight: bold;
-            color: #007acc;
-        }
-
-        ol {
-            margin-left: 20px;
-            padding-left: 20px;
-        }
-
-        ol li {
-            margin-bottom: 15px;
-        }
-
-        img {
-            display: block;
-            max-width: 100%;
-            margin: 10px 0;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-
-        code {
-            background-color: #eef;
-            padding: 2px 4px;
-            border-radius: 4px;
-            font-size: 0.9em;
-        }
-
-        b {
-            color: #444;
-        }
-    </style>
 </head>
 <body>
     <h1>Гайд: Как подключиться к Space Station 14</h1>
