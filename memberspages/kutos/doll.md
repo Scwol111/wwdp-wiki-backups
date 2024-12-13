@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-12-13T18:53:56.613Z
+date: 2024-12-13T18:55:05.253Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-30T09:33:04.320Z
@@ -13,7 +13,7 @@ dateCreated: 2024-11-30T09:33:04.320Z
     <h1>Гайд: Как подключиться к серверу</h1>
     <ol type="1">
         <li>
-            Необходимо скачать официальный лаунчер Space Station 14:
+            Необходимо скачать лаунчер Space Station 14:
             <div class="icon-container">
                 <div class="icon-box">
                     <a href="https://store.steampowered.com/app/1255460?snr=5000_5100__" target="_blank"> 
