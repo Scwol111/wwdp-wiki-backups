@@ -2,7 +2,7 @@
 title: Как зайти на сервер
 description: 
 published: true
-date: 2024-12-13T17:01:35.365Z
+date: 2024-12-13T17:02:39.270Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -18,25 +18,33 @@ dateCreated: 2024-11-05T17:50:18.581Z
             <div class="icon-container">
                 <div class="icon-box">
                     <a href="https://store.steampowered.com/app/1255460?snr=5000_5100__" target="_blank"> 
-                        <img src="/guides/steam.png" alt="Steam Icon">
+                        <img src="/guides/steam.png" img {
+  image-rendering: auto !important;
+} alt="Steam Icon">
                         <span>Steam</span>
                     </a>
                 </div>
                 <div class="icon-box">
                     <a href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_Windows.zip" target="_blank">
-                        <img src="/guides/windows.png" alt="Windows Icon">
+                        <img src="/guides/windows.png" img {
+  image-rendering: auto !important;
+} alt="Windows Icon">
                         <span>Windows</span>
                     </a>
                 </div>
                 <div class="icon-box">
                     <a href="https://flathub.org/apps/com.spacestation14.Launcher" target="_blank" rel="nofollow">
-                        <img src="/guides/linux.png" alt="Linux Icon">
+                        <img src="/guides/linux.png" img {
+  image-rendering: auto !important;
+} alt="Linux Icon">
                         <span>Linux</span> 
                     </a>
                 </div>
                 <div class="icon-box">
                     <a href="https://github.com/space-wizards/SS14.Launcher/releases/latest/download/SS14.Launcher_macOS.zip" target="_blank">
-                        <img src="/guides/mac.png" alt="Mac Icon">
+                        <img src="/guides/mac.png" img {
+  image-rendering: auto !important;
+} alt="Mac Icon">
                         <span>Mac</span>
                     </a>
                 </div>
