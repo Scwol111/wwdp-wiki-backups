@@ -2,7 +2,7 @@
 title: Как зайти на сервер
 description: 
 published: true
-date: 2024-12-13T17:00:07.449Z
+date: 2024-12-13T17:00:31.116Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -11,7 +11,7 @@ dateCreated: 2024-11-05T17:50:18.581Z
 
 </head>
 <body>
-    <h1>Гайд: Как подключиться к Space Station 14</h1>
+    <h1>Гайд: Как подключиться к серверу</h1>
     <ol type="1">
         <li>
             Необходимо скачать официальный лаунчер Space Station 14:
