@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-12-13T19:11:22.583Z
+date: 2024-12-13T19:18:16.266Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-30T09:33:04.320Z
@@ -12,7 +12,7 @@ dateCreated: 2024-11-30T09:33:04.320Z
 <div class="hui">
     <h1>Гайд: Как подключиться к серверу</h1>
 <p>
-            1.Необходимо скачать лаунчер Space Station 14:
+            1. Необходимо скачать лаунчер Space Station 14:
             <center><div class="icon-container">
                 <div class="icon-box">
                     <a href="https://store.steampowered.com/app/1255460?snr=5000_5100__" target="_blank"> 
@@ -39,14 +39,14 @@ dateCreated: 2024-11-30T09:33:04.320Z
                     </a>
               </div>
             </div></center>
-            2.Необходимо Войти/Создать аккаунт в лаунчере, затем нажать на кнопку <code>Добавить в избранное...</code><br>
+            2. Необходимо Войти/Создать аккаунт в лаунчере, затем нажать на кнопку <code>Добавить в избранное...</code><br>
             <img src="/11.jpg" alt="Жмём кнопку">
-            3.В открывшемся окне вводим следующее:<br>
+            3. В открывшемся окне вводим следующее:<br>
             <b>Название</b>: <code id="copy_me">Medusa</code><br>
             <b>Адрес</b>: <code id="copy_me">ss14://37.27.69.246:1212</code><br>
             И жмём кнопку <code>Add</code><br>
             <img src="/22.jpg"  alt="Вводим данные">
-            4.Жмём кнопку <code>Подключиться</code> и наслаждаемся игрой!<br>
+            4. Жмём кнопку <code>Подключиться</code> и наслаждаемся игрой!<br>
             <img src="/33.jpg" alt="Играем">
 <p>
 <p>
