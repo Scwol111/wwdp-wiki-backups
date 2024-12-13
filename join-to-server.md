@@ -2,7 +2,7 @@
 title: Как зайти на сервер
 description: 
 published: true
-date: 2024-12-13T17:14:12.187Z
+date: 2024-12-13T17:14:39.317Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
@@ -52,18 +52,21 @@ dateCreated: 2024-11-05T17:50:18.581Z
         </li>
         <li>
             Необходимо Войти/Создать аккаунт в лаунчере, затем нажать на кнопку <code>Добавить в избранное...</code><br>
-            <img src="11.png" alt="Жмём кнопку">
+            <img src="11.png" img {
+  image-rendering: auto !important; alt="Жмём кнопку">
         </li>
         <li>
             В открывшемся окне вводим следующее:<br>
             <b>Название</b>: <code id="copy_me">Medusa</code><br>
             <b>Адрес</b>: <code id="copy_me">ss14://37.27.69.246:1212</code><br>
             И жмём кнопку <code>Add</code><br>
-            <img src="22.jpg" alt="Вводим данные">
+            <img src="22.jpg" img {
+  image-rendering: auto !important; alt="Вводим данные">
         </li>
         <li>
             Жмём кнопку <code>Подключиться</code> и наслаждаемся игрой!<br>
-            <img src="33.jpg" alt="Играем">
+            <img src="33.jpg" img {
+  image-rendering: auto !important; alt="Играем">
         </li>
     </ol>
 </body>
