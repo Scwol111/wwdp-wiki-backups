@@ -2,13 +2,13 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-12-13T19:18:16.266Z
+date: 2024-12-13T19:18:30.056Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-30T09:33:04.320Z
 ---
 
-<b>
+
 <div class="hui">
     <h1>Гайд: Как подключиться к серверу</h1>
 <p>
