@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-12-13T18:57:07.622Z
+date: 2024-12-13T18:58:09.851Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-30T09:33:04.320Z
@@ -13,7 +13,7 @@ dateCreated: 2024-11-30T09:33:04.320Z
     <h1>Гайд: Как подключиться к серверу</h1>
 <p>
             1.Необходимо скачать лаунчер Space Station 14:
-            <div class="icon-container">
+            <center><div class="icon-container">
                 <div class="icon-box">
                     <a href="https://store.steampowered.com/app/1255460?snr=5000_5100__" target="_blank"> 
                         <img src="/guides/steam.png" alt="Steam Icon">
@@ -37,8 +37,8 @@ dateCreated: 2024-11-30T09:33:04.320Z
                         <img src="/guides/mac.png" alt="Mac Icon">
                         <span>Mac</span>
                     </a>
-                </div>
-            </div>
+              </div>
+            </div></center>
             2.Необходимо Войти/Создать аккаунт в лаунчере, затем нажать на кнопку <code>Добавить в избранное...</code><br>
             <img src="/11.jpg" alt="Жмём кнопку">
             3.В открывшемся окне вводим следующее:<br>
