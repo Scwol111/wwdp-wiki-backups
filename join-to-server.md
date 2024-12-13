@@ -2,17 +2,12 @@
 title: Как зайти на сервер
 description: 
 published: true
-date: 2024-12-13T16:26:14.847Z
+date: 2024-12-13T16:31:20.440Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-05T17:50:18.581Z
 ---
 
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Гайд: Как подключиться к Space Station 14</title>
 
 </head>
 <body>
