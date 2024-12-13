@@ -2,13 +2,12 @@
 title: Как зайти на сервер
 description: 
 published: false
-date: 2024-12-13T16:13:48.247Z
+date: 2024-12-13T16:14:19.498Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T17:10:06.240Z
 ---
 
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
