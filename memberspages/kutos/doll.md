@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-12-13T18:18:06.025Z
+date: 2024-12-13T18:19:30.830Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-30T09:33:04.320Z
@@ -43,7 +43,7 @@ dateCreated: 2024-11-30T09:33:04.320Z
         </li>
         <li>
             Необходимо Войти/Создать аккаунт в лаунчере, затем нажать на кнопку <code>Добавить в избранное...</code><br>
-            <img src="/11.png" alt="Жмём кнопку">
+            <img src="/11.jpg" alt="Жмём кнопку">
         </li>
         <li>
             В открывшемся окне вводим следующее:<br>
