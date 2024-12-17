@@ -2,13 +2,13 @@
 title: Экспедиции
 description: 
 published: true
-date: 2024-12-17T18:36:02.790Z
+date: 2024-12-17T18:37:00.812Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:18:33.220Z
 ---
 
-<canvas id="snowCanvas" style="position: fixed; top: 0; left: 0; pointer-events: none;"></canvas>
+<canvas id="snowCanvas" style="position: fixed; top: 0; left: 0; pointer-events: none; z-index: 9999;"></canvas>
 <h1><img src="/expeditions/expeditions_console.png">Экспедиции<img src="/expeditions/expeditions_console.png"></h1>
 
 <p>Экспедиции - это случайно сгенерированные миссии на планетах. Миссия заключается в сборе полезных ресурсов на заброшенной станции, которая заполнена фауной, достаточно агрессивной к вам. Успешное прохождение этих миссий - одна из главных задач Утилизаторов. К ним рано или поздно приступают, неважно - новички или профессионалы, но однако экспедиции - это не руду на метеоритах копать, к ним нужна серьёзная подготовка, о которой будет всё расписано ниже.</p>
