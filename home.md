@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница
 published: true
-date: 2024-12-17T18:49:02.976Z
+date: 2024-12-17T18:51:43.432Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
