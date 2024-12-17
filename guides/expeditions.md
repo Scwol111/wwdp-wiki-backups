@@ -2,11 +2,13 @@
 title: Экспедиции
 description: 
 published: true
-date: 2024-12-17T19:39:13.812Z
+date: 2024-12-17T19:42:10.067Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:18:33.220Z
 ---
+
+<div id="gif-container"></div>
 
 <h1><img src="/expeditions/expeditions_console.png">Экспедиции<img src="/expeditions/expeditions_console.png"></h1>
 
