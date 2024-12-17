@@ -2,13 +2,13 @@
 title: Таблицы
 description: 
 published: false
-date: 2024-11-27T07:30:34.348Z
+date: 2024-12-17T18:46:42.731Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-26T18:16:32.599Z
 ---
 
-<div class="table II-columns">
+<div class="table II-columns rnd">
   <div class="table-title">Заголовок</div>
   <div class="table-title">Заголовок</div>
 	<!--  -->
@@ -16,13 +16,13 @@ dateCreated: 2024-11-26T18:16:32.599Z
   <div class="table-item">123</div>
   <!--  -->
   <div class="table-item">
-    <img src="/"/>
+    <img src="/" width="64px" height="64px"/>
     123
   </div>
   <div class="table-item">123</div>
   <!--  -->
   <div class="table-item">
-    <img src="/"/>
+    <img src="/" width="64px" height="64px"/>
   	123
   </div>
   <div class="table-item">123</div>
