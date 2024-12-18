@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница
 published: true
-date: 2024-12-17T18:51:43.432Z
+date: 2024-12-18T12:55:04.251Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -85,7 +85,7 @@ dateCreated: 2024-09-10T19:12:06.984Z
                     </p>
                     <center>
                       <div class="community-div-flex">
-                        <a class="fredoka-font" href="https://discord.gg/wwdp" class="community-link is-external-link">
+                        <a class="fredoka-font" href="https://discord.gg/n8VQ8jtd" class="community-link is-external-link">
                       <div class="community-element">
                         <div class="element-image" style="height: 40px; width: 40px; background-color: #5863F3"></div>
                         <img src="/main_page_icons/community_elements_logos/discord-2-xxl.png" class="element-image" style="left: 2px; top: 2px; height: 36px; width: 36px;">WWDP Discord
