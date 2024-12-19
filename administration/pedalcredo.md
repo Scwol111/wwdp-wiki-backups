@@ -1,11 +1,11 @@
 ---
 title: Кредо педали
-description: 
-published: false
-date: 2024-08-26T01:32:56.478Z
+description: Правила, кодекс, админа, педали.
+published: true
+date: 2024-12-19T20:58:55.035Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-26T01:31:58.733Z
+dateCreated: 2024-09-10T19:07:46.621Z
 ---
 
 <div><h1 id="кредо-педали" class="toc-header"><a class="toc-anchor" href="#кредо-педали">¶</a> Кредо педали</h1>
