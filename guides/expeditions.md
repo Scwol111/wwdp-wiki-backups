@@ -2,7 +2,7 @@
 title: Экспедиции
 description: 
 published: true
-date: 2024-12-17T19:49:14.431Z
+date: 2024-12-19T10:16:40.949Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:18:33.220Z
@@ -10,11 +10,11 @@ dateCreated: 2024-09-29T18:18:33.220Z
 
 <div id="gif-container"></div>
 
-<h1><img src="/expeditions/expeditions_console.png">Экспедиции<img src="/expeditions/expeditions_console.png"></h1>
+<h1><img src="/guides/expeditions/console.png">Экспедиции<img src="/guides/expeditions/console.png"></h1>
 
 <p>Экспедиции - это случайно сгенерированные миссии на планетах. Миссия заключается в сборе полезных ресурсов на заброшенной станции, которая заполнена фауной, достаточно агрессивной к вам. Успешное прохождение этих миссий - одна из главных задач Утилизаторов. К ним рано или поздно приступают, неважно - новички или профессионалы, но однако экспедиции - это не руду на метеоритах копать, к ним нужна серьёзная подготовка, о которой будет всё расписано ниже.</p>
 
-<h2><img src="/expeditions/shuttle_console.png">Экспедиционный Шаттл<img src="/expeditions/shuttle_console.png"></h2>
+<h2><img src="/guides/expeditions/console23.png">Экспедиционный Шаттл<img src="/guides/expeditions/console23.png"></h2>
 
 <div class="image-box">
 <div>
@@ -28,10 +28,10 @@ dateCreated: 2024-09-29T18:18:33.220Z
 <li><strong>Ящик с медикаментами</strong> - для возможности оказания первой помощи в условиях экспедиции.</li>
 </ol>
 </div>
-<img src="/expeditions/util1_shuttle.png" style="image-rendering: auto!important; height: 460px">
+<img src="/guides/expeditions/shuttle.png" style="image-rendering: auto!important; height: 460px">
 </div>
 
-<h2><img src="/role/roles_icon/utilizer.png" style="width: 32px; height: 32px;">Выбор Экспедиции<img src="/role/roles_icon/utilizer.png" style="width: 32px; height: 32px;"></h2>
+<h2><img src="/guides/expeditions/util_icon.png" style="width: 32px; height: 32px;">Выбор Экспедиции<img src="/guides/expeditions/util_icon.png" style="width: 32px; height: 32px;"></h2>
 
 <p>И так, вы подготовили всё к экспедиции? Тогда, можно приступать к ним!<br>Для начала, надо выбрать саму экспедицию. Выбирается она с помощью консоли утилизационных экспедиций! На ней у вас есть выбор из 3х экспедиций. В описании экспедиций указаны: уровень сложности, рекомендуемое минимальное количество утилизаторов, время на прохождение, тип врагов, модификаторы и биом.</p>
 
@@ -57,24 +57,24 @@ dateCreated: 2024-09-29T18:18:33.220Z
 <h4>Виды врагов</h4>
 <center>
   <div class="custom-table-exp">
-    <div><img src ="/fauna/xeno.png">Ксено</div>
+    <div><img src ="/guides/expeditions/xeno.png">Ксено</div>
     <div><p>Многообразные, сильные и крепкие, но в основном медленные враги. Опасны тем, что среди них может быть <a href="https://js.ss14.su/guides/fauna#FELIXSOSALBALLON">Королева</a>.</p></div>
-    <div><img src="/fauna/carp.png">Карп</div>
+    <div><img src="/guides/expeditions/carp.png">Карп</div>
     <div><p>Мелкие и хрупкие, но крайне резвые враги.</p></div>
-    <div><img src="/fauna/space_dragon.png">Космический дракон</div>
+    <div><img src="/guides/expeditions/dracon.png">Космический дракон</div>
     <div><p>Космические экспедиции представляет собой множество опасностей, в том числе и гигантских драконов. Не создает разломы, как это делают другие драконы.</p></div>
   </div>
 </center>
 <h4>Виды биомов</h4>
 <center>
   <div class="custom-table-exp">
-    <div><img src="/expeditions/caves.png">Caves</div>
+    <div><img src="/guides/expeditions/cavebiome.png">Caves</div>
     <div><p>Пещерный биом. Примечателен большим количеством породы и не самым чистым окружением. Иногда встречаются светящиеся кристаллы, они бесполезны и не опасны, но излучают свечение.</p></div>
-    <div><img src="/expeditions/grasslands.png">Grasslands</div>
+    <div><img src="/guides/expeditions/grassbiome.png">Grasslands</div>
     <div><p>Луговой биом. Растут деревья, течет река, порода присутствует, но её не так много, опасных для ходьбы поверхностей нет.</p></div>
-    <div><img src="/expeditions/lava.png">Lava</div>
+    <div><img src="/guides/expeditions/lavabiome.png">Lava</div>
     <div><p>Лавовый биом. Много породы, также есть лава, которая крайне опасна для вас. Примечателен этот биом ещё тем, что в нём заброшенная структура - это бриг.</p></div>
-    <div><img src="/expeditions/snow3.png">Snow</div>
+    <div><img src="/guides/expeditions/snowbiome.png">Snow</div>
     <div><p>Снежный биом. Снег повсюду, есть деревья и каким-то образом тут есть реки жидкой плазмы.</p></div>
   </div>
 </center>
@@ -100,7 +100,7 @@ dateCreated: 2024-09-29T18:18:33.220Z
 
 
 
-<h2><img src="/role/roles_icon/hunter.png" style="width: 32px; height: 32px;">Процесс экспедиции<img src="/role/roles_icon/hunter.png" style="width: 32px; height: 32px;"></h2>
+<h2><img src="/guides/expeditions/secondicon.png" style="width: 32px; height: 32px;">Процесс экспедиции<img src="/guides/expeditions/secondicon.png" style="width: 32px; height: 32px;"></h2>
 
 После выбора экспедиции, самое время отправиться на неё! Тут ничего сложного нет, вам всего лишь нужно в консоли управления шаттлом выбрать пункт назначения БСС. Так как экспедиции проходят на планетах, то и называются они как планеты, как например - Goal-69-C! Если в выборе пункта назначения есть подобная планета, то нажимайте на её название, после чего шаттл в режиме БСС полетит к планете. Спустя короткое время, вы окажетесь на самой планете!
 
@@ -108,7 +108,7 @@ dateCreated: 2024-09-29T18:18:33.220Z
 
 Как только вы сделаете всё, что планировали, возвращайтесь на шаттл и в меню выбора пункта назначения БСС выберите вашу родную станцию и празднуйте завершение экспедиции!
 
-<h2><img src="/guides/credits.png">Что же можно найти?<img src="/guides/credits.png"></h2>
+<h2><img src="/guides/expeditions/money.png">Что же можно найти?<img src="/guides/expeditions/money.png"></h2>
 
 Вещи, появляющиеся на экспедициях, в большинстве случаев, случайные. Однако, список вещей очень большой и среди них много разный полезностей, как например:
 1. <strong>Очки и Диски Исследований</strong>
@@ -120,7 +120,7 @@ dateCreated: 2024-09-29T18:18:33.220Z
 
 И другое.
 
-<h2><img src="/weapon/melee/combat-knife.png">Советы<img src="/weapon/melee/combat-knife.png"></h2>
+<h2><img src="/guides/expeditions/knife.png">Советы<img src="/guides/expeditions/knife.png"></h2>
 
 - Используйте портативную рацию! Это крайне полезный инструмент для общения, а поддержание связи на экспедиции - залог выживаемости всей команды!
 - Ходите как минимум парами, а лучше - группой! Врагов на экспедициях нередко много, и они могут без проблем одолеть даже опытного утилизатора, поэтому всегда нужна подстраховка.
