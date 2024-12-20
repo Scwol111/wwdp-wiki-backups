@@ -2,7 +2,7 @@
 title: Ксеноархеология
 description: 
 published: false
-date: 2024-12-20T18:35:58.387Z
+date: 2024-12-20T18:37:45.134Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-26T14:53:09.906Z
@@ -23,8 +23,8 @@ dateCreated: 2024-11-26T14:53:09.906Z
 ## Что такое узлы, грани и глубины
 
 <div class="table II-columns rnd">
-  <div class="table__title">Заголовок</div>
-  <div class="table__title">Заголовок</div>
+  <div class="table__title">Свойство</div>
+  <div class="table__title">Пояснение</div>
   <!--  -->
   <div class="table__item">ID_ОБЪЕКТА</div>
   <div class="table__item">Уникальный номер узла </div>
