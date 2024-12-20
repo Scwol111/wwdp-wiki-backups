@@ -2,7 +2,7 @@
 title: Таблицы
 description: 
 published: false
-date: 2024-12-20T18:24:00.832Z
+date: 2024-12-20T18:25:26.024Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-26T18:16:32.599Z
