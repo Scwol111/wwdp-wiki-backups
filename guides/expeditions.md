@@ -2,7 +2,7 @@
 title: Экспедиции
 description: 
 published: true
-date: 2024-12-20T18:52:34.093Z
+date: 2024-12-20T18:54:12.112Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:18:33.220Z
