@@ -2,42 +2,42 @@
 title: Таблицы
 description: 
 published: false
-date: 2024-12-17T18:46:42.731Z
+date: 2024-12-20T16:09:02.237Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-26T18:16:32.599Z
 ---
 
-<div class="table II-columns rnd">
-  <div class="table-title">Заголовок</div>
-  <div class="table-title">Заголовок</div>
-	<!--  -->
-  <div class="table-item">123</div>
-  <div class="table-item">123</div>
+<div class="table II-columns">
+  <div class="table__title">Заголовок</div>
+  <div class="table__title">Заголовок</div>
   <!--  -->
-  <div class="table-item">
+  <div class="table__item">123</div>
+  <div class="table__item">123</div>
+  <!--  -->
+  <div class="table__item">
     <img src="/" width="64px" height="64px"/>
     123
   </div>
-  <div class="table-item">123</div>
+  <div class="table__item">123</div>
   <!--  -->
-  <div class="table-item">
+  <div class="table__item">
     <img src="/" width="64px" height="64px"/>
-  	123
+    123
   </div>
-  <div class="table-item">123</div>
+  <div class="table__item">123</div>
 </div>
 
 
 <table>
   <thead>
-  	<tr>
+    <tr>
       <th>123</th>
       <th>123</th>
       <th>123</th>
     </tr>
   </thead>
-	<tbody>
+  <tbody>
     <tr>
       <td>123</td>
       <td>123</td>
