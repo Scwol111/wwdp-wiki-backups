@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-12-21T20:58:18.691Z
+date: 2024-12-21T20:59:57.781Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-30T09:33:04.320Z
@@ -40,14 +40,14 @@ dateCreated: 2024-11-30T09:33:04.320Z
               </div>
             </div></center>
             2. Необходимо Войти/Создать аккаунт в лаунчере, затем нажать на кнопку <code>Добавить в избранное...</code><br>
-            <img src="/11.jpg" alt="Жмём кнопку">
+            <img class="hry" src="/11.jpg" alt="Жмём кнопку"><br>
             3. В открывшемся окне вводим следующее:<br>
             <b>Название</b>: <code id="copy_me">Medusa</code><br>
             <b>Адрес</b>: <code id="copy_me">ss14://37.27.69.246:1212</code><br>
             И жмём кнопку <code>Add</code><br>
-            <img src="/22.jpg"  alt="Вводим данные">
+            <img class="hry" src="/22.jpg"  alt="Вводим данные"><br>
             4. Жмём кнопку <code>Подключиться</code> и наслаждаемся игрой!<br>
-            <img src="/33.jpg" alt="Играем">
+            <img class="hry"src="/33.jpg" alt="Играем">
 <p>
 <p>
 <p>
