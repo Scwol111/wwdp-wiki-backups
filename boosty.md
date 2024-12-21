@@ -2,7 +2,7 @@
 title: Бусти команды
 description: 
 published: true
-date: 2024-12-21T20:03:09.979Z
+date: 2024-12-21T20:20:21.866Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -16,11 +16,6 @@ dateCreated: 2024-10-31T07:49:55.557Z
 	</tr>
 </table>
 <table class="peop">
-  <tr>
-    <td>IzeRibak</td>
-    <td><a href="https://boosty.to/wdwikiwod">boosty.to/wdwikiwod</a></td>
-    <td>Важнейшее звено WWPD. Рабовладелец Викиводов, без которых вся SS14 не имела бы смысла. Храни Господь этот великий отдел.</td>
-	</tr>
 	<tr>
     <td>Remuchi</td>
     <td ><a href="	https://boosty.to/remuchi">boosty.to/remuchi</a></td>
