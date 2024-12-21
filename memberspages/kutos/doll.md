@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-12-21T21:01:40.417Z
+date: 2024-12-21T21:04:22.176Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-30T09:33:04.320Z
@@ -13,7 +13,7 @@ dateCreated: 2024-11-30T09:33:04.320Z
     <h1>Гайд: Как подключиться к серверу</h1>
 <p>
             1. Необходимо скачать лаунчер Space Station 14:
-            <center><div class="icon-container">
+            <center><div style="max-width: 500px" class="icon-container">
                 <div class="icon-box">
                     <a href="https://store.steampowered.com/app/1255460?snr=5000_5100__" target="_blank"> 
                         <img src="/guides/steam.png" alt="Steam Icon">
