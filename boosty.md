@@ -2,7 +2,7 @@
 title: Бусти команды
 description: 
 published: true
-date: 2024-12-21T20:34:47.427Z
+date: 2024-12-21T20:41:40.427Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -17,12 +17,12 @@ dateCreated: 2024-10-31T07:49:55.557Z
 </table>
 <table class="peop">
 	<tr>
-    <td>Remuchi</td>
+    <td><a href="https://github.com/Remuchi">Remuchi</a></td>
     <td ><a href="	https://boosty.to/remuchi">boosty.to/remuchi</a></td>
     <td>Главный кодер WWDP, кодер культа и много другого хорошего.</td>
 	</tr>
   <tr>
-    <td>Spatison</td>
+    <td><a href="https://github.com/Spatison">Spatison</a></td>
     <td><a href="https://boosty.to/spatison">boosty.to/spatison</a></td>
     <td>Один из самых активных кодеров WWDP.</td>
 	</tr>
