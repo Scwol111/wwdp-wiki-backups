@@ -2,14 +2,14 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-12-21T21:22:38.478Z
+date: 2024-12-21T21:24:07.926Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-30T09:33:04.320Z
 ---
 
 
-<div id="slider" class="hui">
+<div class="hui">
     <h1>Гайд: Как подключиться к серверу</h1>
 <p>
             1. Необходимо скачать лаунчер Space Station 14:
