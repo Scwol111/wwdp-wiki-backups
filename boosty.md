@@ -2,7 +2,7 @@
 title: Бусти команды
 description: 
 published: true
-date: 2024-12-21T20:47:53.769Z
+date: 2024-12-21T20:48:04.305Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -11,7 +11,7 @@ dateCreated: 2024-10-31T07:49:55.557Z
 <center>
 <table class="desc">
   <tr>
-		<td><img src="/boosty.png" width="123"></td>
+		<td><img src="/boosty.png" width="110"></td>
     <td>Boosty это платформа для монетизации авторского контента. Там вы можете поддержать любимого автора донатом или подпиской. Ниже представлены ссылки на бусти некоторых людей из нашего стаффа. Отдельного бусти сервера WWDP не существует.</td>
 	</tr>
 </table>
