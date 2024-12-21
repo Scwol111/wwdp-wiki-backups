@@ -2,13 +2,13 @@
 title: Бусти команды
 description: 
 published: true
-date: 2024-12-21T20:20:21.866Z
+date: 2024-12-21T20:31:41.350Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
 ---
 
-
+<center>
 <table class="desc">
   <tr>
 		<td><img src="/boosty.png" width="128"></td>
