@@ -2,7 +2,7 @@
 title: Бусти команды
 description: 
 published: true
-date: 2024-12-21T19:51:35.683Z
+date: 2024-12-21T19:52:46.858Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -18,7 +18,7 @@ dateCreated: 2024-10-31T07:49:55.557Z
 <table class="peop">
   <tr>
     <td>IzeRibak</td>
-    <td style="vertical-align: middle"><a href="https://boosty.to/wdwikiwod">boosty.to/wdwikiwod</a></td>
+    <td><a href="https://boosty.to/wdwikiwod">boosty.to/wdwikiwod</a></td>
     <td>Важнейшее звено WWPD. Рабовладелец Викиводов, без которых вся SS14 не имела бы смысла. Храни Господь этот великий отдел.</td>
 	</tr>
 	<tr>
