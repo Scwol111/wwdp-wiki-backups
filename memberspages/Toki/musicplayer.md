@@ -2,18 +2,15 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-12-22T20:36:50.385Z
+date: 2024-12-22T20:38:13.557Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-22T17:28:02.843Z
 ---
 
-<div class="player">
-  <h1>MIDI Music Player</h1>
-  <input type="file" id="fileInput" accept=".mid, .midi">
-  <div class="controls">
-    <button id="playButton">Play</button>
-    <button id="pauseButton">Pause</button>
-    <button id="stopButton">Stop</button>
-  </div>
+<div id="player">
+    <input type="file" id="fileInput">
+    <button id="play">Play</button>
+    <button id="pause">Pause</button>
+    <progress id="progress" max="100"></progress>
 </div>
