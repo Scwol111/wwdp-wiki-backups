@@ -2,7 +2,7 @@
 title: Правила
 description: 
 published: true
-date: 2024-12-07T17:35:47.644Z
+date: 2024-12-23T12:22:08.767Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:43.345Z
@@ -16,7 +16,7 @@ dateCreated: 2024-09-10T19:07:43.345Z
   </tr>
   <tr>
     <td><span>OOC</span><br><span>("Out of character") - общение вне роли.</span></td>
-    <td>За общение OOC отвечает канал OOC (например: <span style="color:#7db8be">OOC "Я новичок в этой игре. Что мне нужно знать из того, что не написано в вики?"</span>). Здесь можно задать вопросы по механике игры или обсудить что-то, к ней не относящееся (всё же, для этого предпочтительнее зайти в <b>AHelp</b> или <b><a href="https://discord.gg/axx6fR4x">Discord-канал</a></b>). В OOC абсолютно <span class="t-red">запрещено</span> обсуждать события текущего раунда.</td>
+    <td>За общение OOC отвечает канал OOC (например: <span style="color:#7db8be">OOC "Я новичок в этой игре. Что мне нужно знать из того, что не написано в вики?"</span>). Здесь можно задать вопросы по механике игры или обсудить что-то, к ней не относящееся (всё же, для этого предпочтительнее зайти в <b>AHelp</b> или <b><a href="https://discord.gg/zcBMKYsUJX">Discord-канал</a></b>). В OOC абсолютно <span class="t-red">запрещено</span> обсуждать события текущего раунда.</td>
   </tr>
   <tr>
     <td><span>LOOC</span><br><span>("Local out of character") - локальное общение вне роли.</span></td>
