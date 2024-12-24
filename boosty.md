@@ -2,7 +2,7 @@
 title: Бусти команды
 description: 
 published: true
-date: 2024-12-24T11:31:21.552Z
+date: 2024-12-24T20:00:38.263Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -18,7 +18,7 @@ dateCreated: 2024-10-31T07:49:55.557Z
 
 <p>
 
-<table class="peop">
+<table class="cockers">
 	<tr>
     <td><a href="https://github.com/Remuchi">Remuchi</a></td>
     <td ><a href="	https://boosty.to/remuchi">boosty.to/remuchi</a></td>
@@ -28,6 +28,11 @@ dateCreated: 2024-10-31T07:49:55.557Z
     <td><a href="https://github.com/Spatison">Spatison</a></td>
     <td><a href="https://boosty.to/spatison">boosty.to/spatison</a></td>
     <td>Один из самых активных кодеров WWDP.</td>
+	</tr>
+   <tr>
+    <td><a href="https://github.com/PuroSlavKing">PuroSlavKing</a></td>
+    <td><a href="https://boosty.to/puroslavking">boosty.to/puroslavking</a></td>
+    <td>Ну... Он кодер, что-то кодит. Наверное...</td>
 	</tr>
 <!--  <tr>
     <td>Sample Text</td>
