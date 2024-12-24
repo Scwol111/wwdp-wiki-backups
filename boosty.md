@@ -1,8 +1,8 @@
 ---
 title: Бусти команды
-description: 
+description: Здесь вы можете поддержать людей из стаффа, которые завели свой бусти.
 published: true
-date: 2024-12-24T20:02:51.397Z
+date: 2024-12-24T20:48:27.998Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -41,4 +41,32 @@ dateCreated: 2024-10-31T07:49:55.557Z
     <td><a href="">Sample Link</a></td>
     <td>Sample Text</td>
 	</tr>-->
+</table>
+
+## WWDP Mappers
+
+<table class="mappers">
+<tr>
+    <td>Mr_darky</td>
+    <td><a href="https://boosty.to/mr_darky">boosty.to/mr_darky</a></td>
+    <td>Активный маппер еще до раскола, его работы вы можете заметить на карте ДрайРок и ВайтБокс.</td>
+</tr>
+<tr>
+    <td>Diamantes</td>
+    <td><a href="https://boosty.to/diamantes_00">boosty.to/diamantes</a></td>
+    <td>Маппил Мус и всякое для ивентов.</td>
+</tr>
+</table>
+
+## WWDP Spriters
+
+<table class="spriters">
+<tr>
+    <td>Purka</td>
+    <td><a href="https://boosty.to/purplepigeon">boosty.to/purplepigeon</a></td>
+</tr>
+<tr>
+    <td>Unkima</td>
+    <td><a href="https://boosty.to/unkima">boosty.to/unkima</a></td>
+</tr>
 </table>
