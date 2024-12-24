@@ -2,7 +2,7 @@
 title: Бусти команды
 description: Здесь вы можете поддержать людей из стаффа, которые завели свой бусти.
 published: true
-date: 2024-12-24T21:00:48.538Z
+date: 2024-12-24T21:01:25.930Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -19,7 +19,7 @@ dateCreated: 2024-10-31T07:49:55.557Z
 <p>
 
 <button type="button" class="collapsible">
-  <h2 style="color: white;">WWDP Coderbus</h2>
+  <h2>WWDP Coderbus</h2>
 </button>
 <div class="content">
   <table class="cockers">
