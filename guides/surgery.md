@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2024-12-25T11:56:59.125Z
+date: 2024-12-25T11:58:32.104Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -108,4 +108,22 @@ dateCreated: 2024-11-21T13:23:17.560Z
 
 ## <center> Органы
 
-
+<div class="tb">
+<center>
+  <table class="med">
+    <thead>
+      <tr>
+        <th>Снаряжение</th>
+        <th>Описание</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><img src="/guides/medicine/surgery/drill.png" class="png1"><br><b>Мозг</b></td>
+        <td><p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</center>
+</div>
