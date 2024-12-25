@@ -2,7 +2,7 @@
 title: Бусти команды
 description: Здесь вы можете поддержать людей из стаффа, которые завели свой бусти.
 published: true
-date: 2024-12-25T11:34:30.423Z
+date: 2024-12-25T11:35:10.878Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -58,6 +58,19 @@ dateCreated: 2024-10-31T07:49:55.557Z
 </div>
 
 <button type="button" class="collapsible">
+  <h2 style="color: white;">Wikiwriters</h2>
+</button>
+<div class="content">
+  <table class="wiki">
+    <tr>
+      <td>IzeRibak</td>
+      <td><a href="https://boosty.to/wdwikiwod">boosty.to/wdwikiwod</a></td>
+      <td>Второй глава викиводов, самый старый из сохранившихся викиводов.</td>
+    </tr>
+  </table>
+</div>
+
+<button type="button" class="collapsible">
   <h2 style="color: white;">Spriters</h2>
 </button>
 <div class="content">
@@ -69,19 +82,6 @@ dateCreated: 2024-10-31T07:49:55.557Z
     <tr>
       <td>Unkima</td>
       <td><a href="https://boosty.to/unkima">boosty.to/unkima</a></td>
-    </tr>
-  </table>
-</div>
-
-<button type="button" class="collapsible">
-  <h2 style="color: white;">Wikiwriters</h2>
-</button>
-<div class="content">
-  <table class="wiki">
-    <tr>
-      <td>IzeRibak</td>
-      <td><a href="https://boosty.to/wdwikiwod">boosty.to/wdwikiwod</a></td>
-      <td>Второй глава викиводов, самый старый из сохранившихся викиводов.</td>
     </tr>
   </table>
 </div>
