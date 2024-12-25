@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-12-25T12:51:42.277Z
+date: 2024-12-25T13:25:41.750Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:33.269Z
@@ -75,8 +75,36 @@ SS14 это [ролевая игра](/guides/roleplayingguide) по своей 
 </table>
 </div>
 
-## Конечности/Кукла
-Зайдя в игру, вы могли заметить это меню: 
+## Базовые статусы
+
+    <div class="icon-container">
+        <img src="/guides/beginnersguide/mood5.png" alt="Mood 5">
+        <div class="icon-label">Mood 5</div>
+    </div>
+    <div class="icon-container">
+        <img src="/guides/beginnersguide/thirsty.png" alt="Thirsty">
+        <div class="icon-label">Thirsty</div>
+    </div>
+    <div class="icon-container">
+        <img src="/guides/beginnersguide/parched.gif" alt="Parched">
+        <div class="icon-label">Parched</div>
+    </div>
+    <div class="icon-container">
+        <img src="/guides/beginnersguide/peckish.png" alt="Peckish">
+        <div class="icon-label">Peckish</div>
+    </div>
+    <div class="icon-container">
+        <img src="/guides/beginnersguide/starving.gif" alt="Starving">
+        <div class="icon-label">Starving</div>
+    </div>
+    <div class="icon-container">
+        <img src="/guides/beginnersguide/not_enough_oxy.gif" alt="Not Enough Oxygen">
+        <div class="icon-label">Not Enough Oxygen</div>
+    </div>
+    <div class="icon-container">
+        <img src="/guides/beginnersguide/lowpressure1.png" alt="Low Pressure">
+        <div class="icon-label">Low Pressure</div>
+    </div>
 
 
 ## Антагонисты
