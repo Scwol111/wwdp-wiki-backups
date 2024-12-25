@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-12-25T14:00:48.487Z
+date: 2024-12-25T15:03:07.473Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:33.269Z
@@ -123,7 +123,52 @@ SS14 это [ролевая игра](/guides/roleplayingguide) по своей 
         <div class="description">Показатель настроения вашего персонажа. Если вы нажмёте на иконку, то увидите список проблем, которые беспокоят вашего персонажа.</div>
     </div>
 </div>
+<div class="icon-container">
+    <img src="/guides/beginnersguide/sprite-0001.png">
+    <div class="icon-info">
+        <div class="icon-label">Здоровье конечностей</div>
+        <div class="description">Уровень здоровья ваших конечностей можно оценить по их цвету. Чем они краснее, тем больше нуждаются в медицинской помощи.</div>
+    </div>
 </div>
+<div class="icon-container">
+    <img src="/guides/beginnersguide/health0.gif">
+    <div class="icon-info">
+        <div class="icon-label">Здоровье</div>
+        <div class="description">Общий показатель вашего самочувствия. Чем ближе к красному - тем вам хуже. Если он мигает со словом CRIT это означает, что вы близки к смерти. </div>
+    </div>
+</div>
+<div class="icon-container">
+    <img src="/guides/beginnersguide/fire.png">
+    <div class="icon-info">
+        <div class="icon-label">Вы горите!</div>
+        <div class="description">Возникает, если ваш персонаж горит. Нажмите на иконку, чтобы начать тушить себя. </div>
+    </div>
+</div>
+<div class="icon-container">
+    <img src="/guides/beginnersguide/stamina6.gif">
+    <div class="icon-info">
+        <div class="icon-label">Стамина</div>
+        <div class="description">Индикатор сил, который растрачивается на броски, удары и т.д. Если упадет до нуля, вы упадете на пол, пока не начнет восполняться. </div>
+    </div>
+</div>
+<div class="icon-container">
+    <img src="/guides/beginnersguide/hot1.png">
+    <div class="icon-info">
+        <div class="icon-label">Температура </div>
+        <div class="description">Возникает, если вокруг слишком жарко или слишком холодно. Оденьте куртку, или покиньте помещение. </div>
+    </div>
+</div>
+<div class="icon-container">
+    <img src="/guides/beginnersguide/internal0.gif">
+    <div class="icon-info">
+        <div class="icon-label">Баллон пуст! </div>
+        <div class="description">Возникает, если кислород в вашем баллоне опустел. Наполните баллон кислородом или найдите новый.
+      </div>
+    </div>
+</div>
+</div>
+
+
 
 ## Антагонисты
 
