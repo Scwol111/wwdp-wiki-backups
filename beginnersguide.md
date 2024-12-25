@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-12-25T13:56:15.631Z
+date: 2024-12-25T14:00:48.487Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:33.269Z
