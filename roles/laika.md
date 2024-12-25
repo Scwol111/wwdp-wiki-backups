@@ -2,7 +2,7 @@
 title: Лайка
 description: 
 published: true
-date: 2024-12-25T21:00:09.345Z
+date: 2024-12-25T21:02:04.813Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-25T19:52:41.561Z
@@ -15,10 +15,10 @@ dateCreated: 2024-12-25T19:52:41.561Z
     </div>
     <div><div><div><img src="/roles/captain.png"></div></div><div><div>
       <h1>Лайка</h1>
-        <p><strong>Сложность:</strong> Сложная</p>
+        <p><strong>Сложность:</strong> Отсутствует.</p>
         <strong>Обязанности:</strong> Глава объекта. Занимается руководством всей станции.
       <br>
-        <b>Руководители</b>: <a href="/roles/centralcommand">Глава Службы Безопасности</a>
+        <b>Руководители</b>: <a href="/roles/headofsecurity">Глава Службы Безопасности</a>
       <br>
         <b>Руководства</b>: Вы чего читаете.
 </div></div></div></div></div>
