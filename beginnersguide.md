@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-12-25T13:42:47.478Z
+date: 2024-12-25T13:47:35.033Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:33.269Z
@@ -77,6 +77,7 @@ SS14 это [ролевая игра](/guides/roleplayingguide) по своей 
 
 ## Базовые статусы
 
+<div class="icon-container-flex">
 <div class="icon-container">
     <img src="/guides/beginnersguide/mood5.png" alt="Mood 5">
     <div class="icon-info">
@@ -119,7 +120,7 @@ SS14 это [ролевая игра](/guides/roleplayingguide) по своей 
         <div class="description">Возникает, если давление воздуха слишком высокое или слишком низкое</div>
     </div>
 </div>
-
+</div>
 
 ## Антагонисты
 
