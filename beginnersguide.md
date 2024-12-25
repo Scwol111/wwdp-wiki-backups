@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-10-20T13:09:38.652Z
+date: 2024-12-25T12:51:42.277Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:33.269Z
@@ -74,6 +74,10 @@ SS14 это [ролевая игра](/guides/roleplayingguide) по своей 
   </tr>
 </table>
 </div>
+
+## Конечности/Кукла
+Зайдя в игру, вы могли заметить это меню: 
+
 
 ## Антагонисты
 
