@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2024-12-25T11:58:32.104Z
+date: 2024-12-25T12:20:48.387Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -110,7 +110,7 @@ dateCreated: 2024-11-21T13:23:17.560Z
 
 <div class="tb">
 <center>
-  <table class="med">
+  <table class="organs">
     <thead>
       <tr>
         <th>Снаряжение</th>
@@ -119,8 +119,38 @@ dateCreated: 2024-11-21T13:23:17.560Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/guides/medicine/surgery/drill.png" class="png1"><br><b>Мозг</b></td>
-        <td><p>
+        <td><img src="/guides/medicine/surgery/organs/brain.png" class="png1"><br><b>Мозг</b></td>
+        <td>Мяу<p>
+        </td>
+      </tr>
+      <tr>
+        <td><img src="/guides/medicine/surgery/organs/eyes.png" class="png1"><br><b>Глаза</b></td>
+        <td>Мяу<p>
+        </td>
+      </tr>
+      <tr>
+        <td><img src="/guides/medicine/surgery/organs/heart-on.gif" class="png1"><br><b>Сердце</b></td>
+        <td>Мяу<p>
+        </td>
+      </tr>
+      <tr>
+        <td><img src="/guides/medicine/surgery/organs/kidneys.png" class="png1"><br><b>Почки</b></td>
+        <td>Мяук<p>
+        </td>
+      </tr>
+      <tr>
+        <td><img src="/guides/medicine/surgery/organs/liver.png" class="png1"><br><b>Печень</b></td>
+        <td>Мяу<p>
+        </td>
+      </tr>
+      <tr>
+        <td><img src="/guides/medicine/surgery/organs/lungs.png" class="png1"><br><b>Легкие</b></td>
+        <td>Мяук<p>
+        </td>
+      </tr>
+      <tr>
+        <td><img src="/guides/medicine/surgery/organs/stomach.png" class="png1"><br><b>Желудок</b></td>
+        <td>Мяу<p>
         </td>
       </tr>
     </tbody>
