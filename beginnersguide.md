@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-12-25T13:48:42.017Z
+date: 2024-12-25T13:50:33.602Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:33.269Z
@@ -78,17 +78,11 @@ SS14 это [ролевая игра](/guides/roleplayingguide) по своей 
 ## Базовые статусы
 
 <div class="icon-container-flex">
-<div class="icon-container">
-    <img src="/guides/beginnersguide/mood5.png" alt="Mood 5">
-    <div class="icon-info">
-        <div class="icon-label"><a href="/guides/mood">Настроение</a></div>
-        <div class="description">Показатель настроения вашего персонажа. Если вы нажмёте на иконку, то увидите список проблем, которые беспокоят вашего персонажа.</div>
-    </div>
-</div>
+
 <div class="icon-container">
     <img src="/guides/beginnersguide/thirsty.png" alt="Thirsty">
     <div class="icon-info"> <div class="icon-label">Легкая жажда</div>
-        <div class="description">Ваш персонаж хочет пить. Просто выпейте газировку из ближайшего автомата или сходите к бармену.</div>
+        <div class="description">Просто выпейте газировку из ближайшего автомата или сходите к бармену.</div>
     </div>
 </div>
 <div class="icon-container">
@@ -100,24 +94,32 @@ SS14 это [ролевая игра](/guides/roleplayingguide) по своей 
 <div class="icon-container">
     <img src="/guides/beginnersguide/peckish.png" alt="Peckish">
     <div class="icon-info"> <div class="icon-label">Легкий голод</div>
-        <div class="description">Ваш персонаж хочет есть. Загляните к повару или купите что-нибудь перекусить в ближайшем автомате с едой.</div>
+        <div class="description"> Загляните к повару или купите что-нибудь перекусить в ближайшем автомате с едой.</div>
     </div>
 </div>
 <div class="icon-container">
     <img src="/guides/beginnersguide/starving.gif" alt="Starving">
     <div class="icon-info"> <div class="icon-label">Голод</div>
         <div class="description">Ваш персонаж ОЧЕНЬ хочет пить. Сильно портит настроение.</div>  </div>
+
 </div>
 <div class="icon-container">
     <img src="/guides/beginnersguide/not_enough_oxy.gif" alt="Not Enough Oxygen">
     <div class="icon-info"> <div class="icon-label">Нет кислорода</div>
-        <div class="description">Возникает, если в воздухе, которым вы дышите, слишком мало кислорода. Если вы задержитесь слишком долго, то в конце концов потеряете сознание и медленно задохнетесь.</div>
+        <div class="description">Возникает, если в воздухе, которым вы дышите, слишком мало кислорода. </div>
     </div>
 </div>
 <div class="icon-container">
     <img src="/guides/beginnersguide/lowpressure1.png" alt="Low Pressure">
     <div class="icon-info"> <div class="icon-label">Низкое давление</div>
         <div class="description">Возникает, если давление воздуха слишком высокое или слишком низкое</div>
+    </div>
+</div>
+<div class="icon-container">
+    <img src="/guides/beginnersguide/mood5.png" alt="Mood 5">
+    <div class="icon-info">
+        <div class="icon-label"><a href="/guides/mood">Настроение</a></div>
+        <div class="description">Показатель настроения вашего персонажа. Если вы нажмёте на иконку, то увидите список проблем, которые беспокоят вашего персонажа.</div>
     </div>
 </div>
 </div>
