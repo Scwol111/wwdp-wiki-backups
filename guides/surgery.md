@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2024-12-25T12:31:01.716Z
+date: 2024-12-25T12:36:43.859Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -156,4 +156,15 @@ dateCreated: 2024-11-21T13:23:17.560Z
     </tbody>
   </table>
 </center>
+</div>
+
+## Добыча органов
+
+<div style="text-align: center;">
+<b>
+  <figure style="display: inline-block; margin-right: 5px;">
+    <img src="/guides/medicine/surgery/breathing_mask.png"  class="png2" alt="Дыхательная маска">
+    <figcaption>Дыхательная маска</figcaption>
+  </figure>
+</b>
 </div>
