@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-12-25T13:25:54.880Z
+date: 2024-12-25T13:28:22.080Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:33.269Z
@@ -79,31 +79,31 @@ SS14 это [ролевая игра](/guides/roleplayingguide) по своей 
 
 <div class="icon-container">
         <img src="/guides/beginnersguide/mood5.png" alt="Mood 5">
-        <div class="icon-label">Mood 5</div>
+        <div class="icon-label">Настроение</div>
     </div>
     <div class="icon-container">
         <img src="/guides/beginnersguide/thirsty.png" alt="Thirsty">
-        <div class="icon-label">Thirsty</div>
+        <div class="icon-label">Легкая жажда</div>
     </div>
     <div class="icon-container">
         <img src="/guides/beginnersguide/parched.gif" alt="Parched">
-        <div class="icon-label">Parched</div>
+        <div class="icon-label">Жажда</div>
     </div>
     <div class="icon-container">
         <img src="/guides/beginnersguide/peckish.png" alt="Peckish">
-        <div class="icon-label">Peckish</div>
+        <div class="icon-label">Легкий голод</div>
     </div>
     <div class="icon-container">
         <img src="/guides/beginnersguide/starving.gif" alt="Starving">
-        <div class="icon-label">Starving</div>
+        <div class="icon-label">Голод</div>
     </div>
     <div class="icon-container">
         <img src="/guides/beginnersguide/not_enough_oxy.gif" alt="Not Enough Oxygen">
-        <div class="icon-label">Not Enough Oxygen</div>
+        <div class="icon-label">Нет кислорода</div>
     </div>
     <div class="icon-container">
         <img src="/guides/beginnersguide/lowpressure1.png" alt="Low Pressure">
-        <div class="icon-label">Low Pressure</div>
+        <div class="icon-label">Низкое давление</div>
     </div>
 
 
