@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-12-25T13:54:27.503Z
+date: 2024-12-25T13:56:15.631Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:33.269Z
@@ -77,6 +77,7 @@ SS14 это [ролевая игра](/guides/roleplayingguide) по своей 
 
 ## Базовые статусы
 
+<p>
 <div class="icon-container-flex">
 
 <div class="icon-container">
