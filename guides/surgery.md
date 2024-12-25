@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2024-12-25T12:29:54.569Z
+date: 2024-12-25T12:31:01.716Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -135,7 +135,7 @@ dateCreated: 2024-11-21T13:23:17.560Z
       </tr>
       <tr>
         <td><img src="/guides/medicine/surgery/organs/kidneys.png" class="png1"><br><b>Почки</b></td>
-        <td>Мяу<p>
+        <td>Не имеет механик. Разработке...<p>
         </td>
       </tr>
       <tr>
@@ -150,7 +150,7 @@ dateCreated: 2024-11-21T13:23:17.560Z
       </tr>
       <tr>
         <td><img src="/guides/medicine/surgery/organs/stomach.png" class="png1"><br><b>Желудок</b></td>
-        <td>Мяу<p>
+        <td>Позволяет поедать пищу.<p>
         </td>
       </tr>
     </tbody>
