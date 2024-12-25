@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-12-25T13:50:33.602Z
+date: 2024-12-25T13:54:27.503Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:33.269Z
@@ -112,7 +112,7 @@ SS14 это [ролевая игра](/guides/roleplayingguide) по своей 
 <div class="icon-container">
     <img src="/guides/beginnersguide/lowpressure1.png" alt="Low Pressure">
     <div class="icon-info"> <div class="icon-label">Низкое давление</div>
-        <div class="description">Возникает, если давление воздуха слишком высокое или слишком низкое</div>
+        <div class="description">Возникает, если давление воздуха слишком высокое или слишком низкое.</div>
     </div>
 </div>
 <div class="icon-container">
