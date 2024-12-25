@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2024-12-25T13:25:41.750Z
+date: 2024-12-25T13:25:54.880Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:33.269Z
@@ -77,7 +77,7 @@ SS14 это [ролевая игра](/guides/roleplayingguide) по своей 
 
 ## Базовые статусы
 
-    <div class="icon-container">
+<div class="icon-container">
         <img src="/guides/beginnersguide/mood5.png" alt="Mood 5">
         <div class="icon-label">Mood 5</div>
     </div>
