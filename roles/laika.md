@@ -2,7 +2,7 @@
 title: Лайка
 description: 
 published: true
-date: 2024-12-25T20:58:28.860Z
+date: 2024-12-25T21:00:09.345Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-25T19:52:41.561Z
@@ -20,5 +20,5 @@ dateCreated: 2024-12-25T19:52:41.561Z
       <br>
         <b>Руководители</b>: <a href="/roles/centralcommand">Глава Службы Безопасности</a>
       <br>
-        <b>Руководства</b>: <a href="/guides/hierarchyofcommand">Иерархия Командования</a> • <a href="/guides/especiallyvaluableitems">Особо ценные предметы</a>
+        <b>Руководства</b>: Вы чего читаете.
 </div></div></div></div></div>
