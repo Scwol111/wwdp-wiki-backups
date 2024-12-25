@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2024-12-25T12:36:43.859Z
+date: 2024-12-25T12:37:36.151Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
