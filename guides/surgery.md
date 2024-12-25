@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2024-12-25T12:20:48.387Z
+date: 2024-12-25T12:29:54.569Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -113,39 +113,39 @@ dateCreated: 2024-11-21T13:23:17.560Z
   <table class="organs">
     <thead>
       <tr>
-        <th>Снаряжение</th>
+        <th>Орган</th>
         <th>Описание</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td><img src="/guides/medicine/surgery/organs/brain.png" class="png1"><br><b>Мозг</b></td>
-        <td>Мяу<p>
+        <td>Здесь хранится ваш разум, пересадка мозга позволит управлять вам другим телом.<p>
         </td>
       </tr>
       <tr>
         <td><img src="/guides/medicine/surgery/organs/eyes.png" class="png1"><br><b>Глаза</b></td>
-        <td>Мяу<p>
+        <td>Я тебя вижу!!! Пересадка глаз избавляет пациента от любых повреждений глаз. Например, если <a href="/roles/technicalassistant">технический ассистент</a> решил без сварочной маски заварить шлюз...<p>
         </td>
       </tr>
       <tr>
         <td><img src="/guides/medicine/surgery/organs/heart-on.gif" class="png1"><br><b>Сердце</b></td>
-        <td>Мяу<p>
+        <td>Вы, наверное, и сами понимаете, что не сможете жить без этой штуки? Пересадка сердца избавляет тело от гниения и разложения.<p>
         </td>
       </tr>
       <tr>
         <td><img src="/guides/medicine/surgery/organs/kidneys.png" class="png1"><br><b>Почки</b></td>
-        <td>Мяук<p>
-        </td>
-      </tr>
-      <tr>
-        <td><img src="/guides/medicine/surgery/organs/liver.png" class="png1"><br><b>Печень</b></td>
         <td>Мяу<p>
         </td>
       </tr>
       <tr>
+        <td><img src="/guides/medicine/surgery/organs/liver.png" class="png1"><br><b>Печень</b></td>
+        <td>Получает основной урон от токсинов. Трансплатация печени позволит вылечить пациентов от тяжелого отравления.<p>
+        </td>
+      </tr>
+      <tr>
         <td><img src="/guides/medicine/surgery/organs/lungs.png" class="png1"><br><b>Легкие</b></td>
-        <td>Мяук<p>
+        <td>Позволяют вам дышать, накапливают удушающий урон. Пересадка легких может помочь вам при тяжелой асфиксии.<p>
         </td>
       </tr>
       <tr>
