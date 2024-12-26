@@ -2,13 +2,13 @@
 title: Руководства для маленьких викиводов
 description: 
 published: false
-date: 2024-12-26T14:45:17.502Z
+date: 2024-12-26T14:51:10.324Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T09:02:33.879Z
 ---
 
-<div class="maincontainer"> 
+<div class="maincontainer">
   <div class="buttoncontainer">
     <button id="buttonbas"><img src="/guides/passenger.png">Основы</button>
     <button id="buttonadvanced"><img src="/guides/warden's_icon.png">Для смешариков</button>             <button id="buttontemplates"><img src="/guides/passenger.png">Шаблоны</button>
