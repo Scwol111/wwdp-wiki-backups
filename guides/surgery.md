@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2024-12-25T12:37:36.151Z
+date: 2024-12-26T11:14:49.017Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -158,13 +158,24 @@ dateCreated: 2024-11-21T13:23:17.560Z
 </center>
 </div>
 
-## Добыча органов
+### Организм отвергает орган
+Организм вашего пациента не принял орган? Попробуйте использовать более свежий орган от донора, или используйте медицинский биофабрикатор.
 
+## Добыча органов
+<p>
 <div style="text-align: center;">
 <b>
   <figure style="display: inline-block; margin-right: 5px;">
-    <img src="/guides/medicine/surgery/breathing_mask.png"  class="png2" alt="Дыхательная маска">
-    <figcaption>Дыхательная маска</figcaption>
+    <img src="/guides/medicine/surgery/limbgrower_idleoff.png"  class="png2">
+    <figcaption><p>Медицинский биофабрикатор</figcaption>
   </figure>
 </b>
 </div>
+
+  <div style="text-align: center;">У <a href="/roles/chiefmedicalofficer">главного врача</a> есть плата биофабриктора. <br>Позволяет печатать конечности и органы. <br>Для работы использует биомассу.</div>
+
+## Анатомия 
+
+
+
+
