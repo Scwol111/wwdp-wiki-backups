@@ -2,7 +2,7 @@
 title: Обновление таблицы ролей
 description: 
 published: false
-date: 2024-12-26T20:54:36.410Z
+date: 2024-12-26T20:56:44.480Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-26T14:37:23.458Z
@@ -61,7 +61,7 @@ dateCreated: 2024-12-26T14:37:23.458Z
    <summary>
       <center>Не забудьте добавить стили CSS</center>
    </summary>
-```
+<code>
 .roles-table {
   width: auto;
   display: flex;
@@ -150,7 +150,7 @@ dateCreated: 2024-12-26T14:37:23.458Z
 .roles-table > .wrapper > .dep-wrapper > .roles > a {
   font-weight: 700
 }
-```
+</code>
 </details>
 
 # Изменение, дополнение и обновление таблицы ролей
