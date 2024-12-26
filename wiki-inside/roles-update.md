@@ -2,7 +2,7 @@
 title: Обновление таблицы ролей
 description: 
 published: false
-date: 2024-12-26T20:59:10.862Z
+date: 2024-12-26T21:00:13.497Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-26T14:37:23.458Z
@@ -170,7 +170,7 @@ dateCreated: 2024-12-26T14:37:23.458Z
 
 ![screenshot_38.png](/guides/wiki/screenshot_38.png)
 
-4. Редактирование. Нажмите на карандаш справа, с надписью при наведении «edit this file».
+4. Редактирование. Нажмите на карандаш справа, с надписью при наведении <kbd>edit this file</kbd>.
 
 ![screenshot_39.png](/guides/wiki/screenshot_39.png)
 
