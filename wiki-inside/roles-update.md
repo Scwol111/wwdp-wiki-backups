@@ -2,7 +2,7 @@
 title: Обновление таблицы ролей
 description: 
 published: false
-date: 2024-12-26T20:51:22.153Z
+date: 2024-12-26T20:54:36.410Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-26T14:37:23.458Z
@@ -56,6 +56,102 @@ dateCreated: 2024-12-26T14:37:23.458Z
 И тогда, при открытии страницы, на месте ```<div class="table"></div>``` должно получиться следующее:
 
 <div class="table"></div>
+
+<details>
+   <summary>
+      <center>Не забудьте добавить стили CSS</center>
+   </summary>
+```
+.roles-table {
+  width: auto;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1em auto 1em auto;
+  padding: 5px;
+  border-radius: 10px;
+  border: solid #757575 1px
+}
+.roles-table > .title {
+  width: 20%;
+  display: flex;
+  flex: min-content;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center
+}
+.roles-table > .wrapper {
+  width: 80%;
+  display: flex;
+  flex: auto;
+  flex-flow: row wrap
+}
+.roles-table > .wrapper > .dep-wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  border: solid #212121 2px;
+  border-radius: 10px
+}
+.roles-table > .wrapper > .dep-wrapper > .dep-title {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding: 0 3px;
+  border-radius: 10px
+}
+.roles-table > .wrapper > .dep-wrapper > .dep-title > strong {
+  font-size: 18px
+}
+.roles-table > .wrapper > .dep-wrapper > .roles > a:last-child:after {
+  content: none
+}
+.roles-table > .wrapper > .dep-wrapper > .roles > a:after {
+  content: "•";
+  display: inline-block;
+  color: #fff;
+  margin: 0 0 0 4px
+}
+@media (orientation:portrait) {
+  .roles-table {
+    width: 100%
+  }
+  .roles-table > .wrapper > .dep-wrapper {
+    flex-direction: column
+  }
+  .roles-table > .wrapper > .dep-wrapper > .roles {
+    display: grid;
+    padding: 5px 20px 5px 20px
+  }
+  .roles-table a:after {
+    content: none!important
+  }
+}
+@media (orientation:landscape) {
+  .roles-table {
+    width: 90%
+  }
+  .roles-table > .wrapper > .dep-wrapper > .dep-title {
+    width: 20%
+  }
+  .roles-table > .wrapper > .dep-wrapper > .roles {
+    width: 80%;
+    display: inline;
+    justify-content: center;
+    padding: 5px 20px 5px 10px;
+    gap: 0 10px
+  }
+  .roles-table > .wrapper > .dep-wrapper > .roles > .nomobile {
+    display: inline;
+    font-weight: 700
+  }
+}
+.roles-table > .wrapper > .dep-wrapper > .roles > a {
+  font-weight: 700
+}
+```
+</details>
 
 # Изменение, дополнение и обновление таблицы ролей
 
