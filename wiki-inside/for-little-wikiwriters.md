@@ -2,7 +2,7 @@
 title: Руководства для маленьких викиводов
 description: 
 published: false
-date: 2024-12-26T14:17:34.457Z
+date: 2024-12-26T14:17:53.198Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T09:02:33.879Z
@@ -29,7 +29,7 @@ dateCreated: 2024-11-12T09:02:33.879Z
       <p>Шаблон, используемый на страницах ролей.(НЕАКТУАЛЬНО)</p>
       <a href="/memberspages/Gavrik/InfoBoxes"><img src="/guides/screenshot_94.png" alt="shitcur.png" class="zoom"/>Инфобоксы</a>
       <p>Инфобоксы, для всякой информации.</p>
-      <a href="/memberspages/Gavrik/InfoBoxes"><img src="/guides/screenshot_35.png" alt="shitcur.png" class="zoom"/>Адаптивные таблицы</a>
+      <a href="/memberspages/Gavrik/tables"><img src="/guides/screenshot_35.png" alt="shitcur.png" class="zoom"/>Адаптивные таблицы</a>
       <p>Таблицы, которые удобно адаптируются под телефоны..</p>
     </div>
    </div>
