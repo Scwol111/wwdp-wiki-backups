@@ -2,7 +2,7 @@
 title: Руководства для маленьких викиводов
 description: 
 published: false
-date: 2024-12-26T21:07:26.284Z
+date: 2024-12-26T21:37:10.605Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T09:02:33.879Z
@@ -16,7 +16,7 @@ dateCreated: 2024-11-12T09:02:33.879Z
   <div class="content-container">
     <div class="content-table" id="bas">
       <a href="/wiki-inside/wiki-interface"><img src="/guides/wiki/plushie_lizard.png" alt="interactions.png" class="zoom"/>Интерфейс</a>
-      <p>Для самых глупеньких.</p>
+      <p>Для самых глупеньких.(В процессе, НЕ ДОДЕЛАНО!!)</p>
       <a href="/wiki-inside/roles-update"><img src="/bar_jobslots.png" alt="interactions.png" class="zoom"/>Таблица ролей</a>
       <p>Руководство по обновлению, дополнению и изменению таблицы ролей.</p>
       <a href="/wiki-inside/pizdimyvalery"><img src="/guides/wiki/thiefcharacter.png" alt="interactions.png" class="zoom"/>Пиздим у валерии🍻</a>
