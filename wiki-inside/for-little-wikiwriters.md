@@ -2,7 +2,7 @@
 title: Руководства для маленьких викиводов
 description: 
 published: false
-date: 2024-12-26T14:17:53.198Z
+date: 2024-12-26T14:19:34.046Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T09:02:33.879Z
@@ -17,7 +17,7 @@ dateCreated: 2024-11-12T09:02:33.879Z
     <div class="content-table" id="bas">
       <a href="/guides/interactions"><img src="/guides/interactions.png" alt="interactions.png" class="zoom"/>Взаимодействия</a>
       <p>Это руководство научит вас основам взаимодействия с игровым миром.</p>
-      <a href="/guides/interactions"><img src="/bar_jobslots.png" alt="interactions.png" class="zoom"/>Таблица ролей</a>
+      <a href="/wiki-inside/templates/roles-update"><img src="/bar_jobslots.png" alt="interactions.png" class="zoom"/>Таблица ролей</a>
       <p>Руководство по обновлению, дополнению и изменению таблицы ролей.</p>
     </div>
     <div class="content-table" id="advanced">
