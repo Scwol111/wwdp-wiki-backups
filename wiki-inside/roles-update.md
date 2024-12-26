@@ -2,7 +2,7 @@
 title: Обновление таблицы ролей
 description: 
 published: false
-date: 2024-12-26T14:41:09.972Z
+date: 2024-12-26T20:50:30.944Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-26T14:37:23.458Z
@@ -11,37 +11,6 @@ dateCreated: 2024-12-26T14:37:23.458Z
 
 ## <center>Добавление на страничку роли
 Во-первых, добавьте следующий скрипт в сценарий(свойства страницы, третья вкладка):
-
-<script>
-  async function insertContentAfterTable(url) {
-    try {
-      const response = await fetch(url);
-
-      if (!response.ok) {
-        throw new Error(`Ошибка загрузки: ${response.statusText}`);
-      }
-
-      const content = await response.text();
-
-      const tableElement = document.querySelector('.table');
-
-      if (tableElement) {
-        const contentElement = document.createElement('div');
-        contentElement.innerHTML = content;
-        console.log(contentElement.querySelector(".title"));
-        tableElement.insertAdjacentElement('afterend', contentElement);
-      } else {
-        console.log('Элемент с классом table не найден.');
-      }
-    } catch (error) {
-      console.error('Произошла ошибка:', error);
-    }
-  }
-  window.onload = function() {
-    insertContentAfterTable('https://raw.githubusercontent.com/TokiJumper/wikijs-templates/refs/heads/main/role-table'); // Ссылка на таблицу ролей, чтобы заменить на английскую версию, добавьте "-en". role-table -> role-table-en //
-  }
-
-</script>
 
 ```
 <script>
