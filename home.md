@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница. Вики SS14, СС14, Космическая станция 14, космическая ебанина 14.
 published: true
-date: 2024-12-21T22:35:29.892Z
+date: 2024-12-26T15:10:25.269Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -128,7 +128,7 @@ dateCreated: 2024-09-10T19:12:06.984Z
                     <a class="is-external-link-r"><span id="copy">ss14://37.27.69.246:1212<span id="opov-copy">Скопировано</span></span></a>
                   </div>
                 </div>
-            <!--    <div class="servermenu">
+            <!--  До лучших времен...  <div class="servermenu">
                   <div>🏳️Wyrm EN</div>
                   <div>
                     <a class="is-external-link-r"><span id="copy">ss14://213.145.86.186:1212</span><span id="opov-copy">Скопировано</span></a>
