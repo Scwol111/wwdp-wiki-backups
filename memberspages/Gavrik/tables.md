@@ -2,11 +2,14 @@
 title: Таблицы
 description: 
 published: false
-date: 2024-12-20T21:28:31.056Z
+date: 2024-12-26T20:34:38.763Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-26T18:16:32.599Z
 ---
+
+Статья активно доробатывается. Пока все не доделано.
+{.infobox .warning-custom}
 
 <div class="table II-columns rnd">
   <div class="table__title">Заголовок</div>
