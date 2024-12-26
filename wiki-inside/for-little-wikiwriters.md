@@ -2,7 +2,7 @@
 title: Руководства для маленьких викиводов
 description: 
 published: false
-date: 2024-12-26T21:37:10.605Z
+date: 2024-12-26T22:12:17.488Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T09:02:33.879Z
@@ -33,6 +33,8 @@ dateCreated: 2024-11-12T09:02:33.879Z
       <p>Инфобоксы, для всякой информации.</p>
       <a href="/memberspages/Gavrik/tables"><img src="/guides/screenshot_35.png" alt="shitcur.png" class="zoom"/>Адаптивные таблицы</a>
       <p>Таблицы, которые удобно адаптируются под телефоны.  НЕ ДОДЕЛАНО!!</p>
+      <a href="/wiki-inside/tags"><img src="/guides/wiki/icon_pentagramm.png" alt="shitcur.png" class="zoom"/>Быстрые шаблоны</a>
+      <p>Теги быстрых шаблонов.</p>
     </div>
    </div>
   </div>
