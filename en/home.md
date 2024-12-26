@@ -2,7 +2,7 @@
 title: Main
 description: 
 published: true
-date: 2024-11-17T09:17:28.201Z
+date: 2024-12-26T15:05:40.629Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:50.659Z
@@ -133,6 +133,6 @@ dateCreated: 2024-09-10T19:07:50.659Z
                 <div class="servermenu">
                   <div>🏳️Wyrm EN</div>
                   <div>
-                    <a class="is-external-link"><span id="copy">ss14://213.145.86.186:1212</span></a>
+                    <a class="is-external-link"><span id="copy">It was off</span></a>
                   </div>
                 </div>
