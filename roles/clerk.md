@@ -1,8 +1,8 @@
 ---
 title: Клерк
 description: 
-published: false
-date: 2024-10-30T18:53:50.823Z
+published: true
+date: 2024-12-26T16:16:39.783Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T18:10:43.248Z
