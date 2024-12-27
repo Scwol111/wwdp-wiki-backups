@@ -2,7 +2,7 @@
 title: InfoBoxes
 description: 
 published: true
-date: 2024-12-26T20:33:20.534Z
+date: 2024-12-27T20:58:55.946Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-25T17:19:16.041Z
@@ -94,7 +94,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   gap: 20px;
   padding: 10px 20px!important;
   margin-top: 1em!important;
-  border-radius: 3px;
+  border-radius: 4px;
   border-left: solid 3px #607d8b;
   background-color: #252525;
   box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12)
