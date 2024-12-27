@@ -2,16 +2,20 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-12-22T20:40:03.079Z
+date: 2024-12-27T17:23:35.720Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-22T17:28:02.843Z
 ---
 
-<div id="player">
-    <input type="file" id="fileInput">
-    <button id="play">Play</button>
-    <button id="pause">Pause</button>
-    <progress id="progress" max="100"></progress>
+<h1>MIDI Player</h1>
+    <div class="player">
+  <audio id="audio" hidden></audio>
+  <p id="current-track">No track playing</p>
+  <button id="prev">Previous</button>
+  <button id="play">Play</button>
+  <button id="pause">Pause</button>
+  <button id="next">Next</button>
+  <button id="download">Download</button>
 </div>
-<script src="http://unpkg.com/tone"></script>
+    <div class="track-list" id="track-list"></div>
