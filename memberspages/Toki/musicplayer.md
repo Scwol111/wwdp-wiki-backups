@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-12-27T17:23:35.720Z
+date: 2024-12-27T17:26:00.908Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-22T17:28:02.843Z
@@ -10,7 +10,6 @@ dateCreated: 2024-12-22T17:28:02.843Z
 
 <h1>MIDI Player</h1>
     <div class="player">
-  <audio id="audio" hidden></audio>
   <p id="current-track">No track playing</p>
   <button id="prev">Previous</button>
   <button id="play">Play</button>
