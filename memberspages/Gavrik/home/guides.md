@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: false
-date: 2024-12-29T07:26:52.607Z
+date: 2024-12-29T07:52:59.765Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
@@ -10,7 +10,7 @@ dateCreated: 2024-12-29T06:47:46.338Z
 
 <div class="nav-panel center">
   <!--  -->
-  <div class="nav-panel__nav-tabs">
+  <div class="nav-panel__nav-tabs flex-col">
     <button class="nav-link">Основы</button>
     <button class="nav-link">Безопасность</button>
     <button class="nav-link">Юстиция</button>
@@ -19,18 +19,17 @@ dateCreated: 2024-12-29T06:47:46.338Z
   <div class="nav-panel__tab-panels">
     <div class="tab-panel">
       <a class="tab-panel__item">
-        <span></span>
+        <span>Взаимодействия</span>
         <img src="/"/>
       </a>
-      <a class="tab-panel__item"></a>
-      <a class="tab-panel__item"></a>
-    </div>
-    <div class="tab-panel">
-      <a class="tab-panel__item"></a>
-      <a class="tab-panel__item"></a>
-    </div>
-    <div class="tab-panel">
-      <a class="tab-panel__item"></a>
+      <a class="tab-panel__item">
+        <span>Коммуникация</span>
+        <img src="/"/>
+      </a>
+      <a class="tab-panel__item">
+        <span>Настроение</span>
+        <img src="/"/>
+      </a>
     </div>
   </div>
 </div>
