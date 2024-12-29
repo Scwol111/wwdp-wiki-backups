@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-12-17T17:57:52.922Z
+date: 2024-12-29T13:49:16.861Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -335,6 +335,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div>Достаточно сложно</div>
   <div><a href="/roles/listening_post_operative" class="is-internal-link is-valid-page">Оперативник прослушки</a><a href="/roles/listening_post_operative"><img src="/roles/listening_operative.png" /></a></div>
   <div><div>Занимается прослушиванием и слежкой за деятельностью станции НаноТрейзен на своём аванпосте.</div></div>
+  <div>Легко</div>
+  <div><a href="/roles/headcrabs" class="is-internal-link is-valid-page">Хедкрабы</a><a href="/roles/headcrabs"><img src="/roles/headcrabs.png" /></a></div>
+  <div><div>Паразитические инопланетные существа, которые прыгают на головы своих жертв, высасывая их мозги.</div></div>
   <div>Легко</div>
 </div>
  
