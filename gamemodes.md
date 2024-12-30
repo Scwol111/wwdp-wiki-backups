@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: true
-date: 2024-10-23T19:51:17.791Z
+date: 2024-12-30T19:24:53.192Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:34.643Z
@@ -59,7 +59,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
 <p>Целью экипажа является обнаружение оперативников и защита диска, который со старта раунда находится у <a href="/roles/captain" class="is-internal-link is-valid-page">капитана</a>. В ходе противостояния количественно превосходящих, но уступающих по качеству экипировки членов экипажа и малочисленных, но тяжело вооруженных ядерных оперативников разворачиваются события раунде, что обычно занимает не больше, чем 30 минут.</p>
 </div><div>
 
-</div><button type="button" class="collapsible">
+<!--</div><button type="button" class="collapsible">
 <h2 id="генокрад" class="toc-header"><a href="#генокрад"></a> 
     <div class="titleBox" style="margin: 0">
     <img src="/roles/changeling.gif">
@@ -73,7 +73,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <li>Максимальное количество спец-ролей: 4</li>
 </ul>
 <p><br><a href="/roles/genestealer" class="is-internal-link is-valid-page"><strong>Генокрад</strong></a> - это высокоинтеллектуальный инопланетный хищник, обладающий способностью менять свой облик, чтобы выглядеть в точности как человек. Он прибывает на станцию в обычном человеческом обличии. Для сбора ДНК генокрад использует своё жало. Из-за своих способностей их часто нанимает Синдикат, чтобы украсть некоторые вещи со станций NanoTrasen.</p>
-</div><div>
+</div><div>-->
 
 </div><button type="button" class="collapsible">
 <h2 id="нулевой-пациент" class="toc-header"><a class="toc-anchor" href="#нулевой-пациент"></a> 
@@ -134,7 +134,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
 </ul>
 </div><div>  
 
-</div><button type="button" class="collapsible">
+<!--</div><button type="button" class="collapsible">
 <h2 id="маг" class="toc-header"><a class="toc-anchor" href="#маг"></a> 
     <div class="titleBox" style="margin: 0">
     <img src="/roles/wizard_real.png">
@@ -153,7 +153,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <li>Если маг эвакуируется на шаттле не выполнив задания или если маг умирает, он проигрывает.</li>
   <li>Если маг завершает свои цели, маг выигрывает.</li>
 </ul>
-</div><div>  
+</div><div>-->  
 
 </div><button type="button" class="collapsible">
 <h2 id="расширенный" class="toc-header"><a class="toc-anchor" href="#расширенный"></a> 
