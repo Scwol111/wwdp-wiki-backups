@@ -2,7 +2,7 @@
 title: Призрачные роли
 description: 
 published: true
-date: 2024-12-10T09:28:59.156Z
+date: 2024-12-30T19:45:53.674Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:42.381Z
@@ -67,6 +67,15 @@ dateCreated: 2024-10-20T13:01:42.381Z
   </div>
 
   <div class="role">
+    <div class="rolename"><a href="/roles/laika" class="custom-link">Гондола</a></div>
+    <div class="roleimg"><img src="/roles/gondola.png"></div>
+    <div class="roleheadlabel">Подчиняется:</div>
+    <div class="rolehead">...</div>
+    <div class="roledesclabel">Описание:</div>  
+    <div class="roledesc"><center>...</center></div>  
+  </div>
+
+  <div class="role">
     <div class="rolename"><a href="/roles/laika" class="custom-link">Лайка</a></div>
     <div class="roleimg"><img src="/roles/secdog.gif"></div>
     <div class="roleheadlabel">Подчиняется:</div>
@@ -74,7 +83,7 @@ dateCreated: 2024-10-20T13:01:42.381Z
     <div class="roledesclabel">Описание:</div>  
     <div class="roledesc">Собака, принадлежащая Главе Службы Безопасности. Это уличная порода, всегда готовая к драке. Она чувствует нарушение закона.</div>  
   </div>
-</div>
+
 
 <center>
   <div class="textcontainer">
