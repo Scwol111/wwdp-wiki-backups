@@ -2,7 +2,7 @@
 title: Бригмедик
 description: Вытаскивайте станбатоны из офицеров и спасайте их задницы.
 published: true
-date: 2024-12-30T22:02:25.505Z
+date: 2024-12-30T22:05:37.853Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-06T13:11:04.743Z
@@ -19,7 +19,7 @@ dateCreated: 2024-10-06T13:11:04.743Z
     <p><strong>Сложность:</strong> Средняя</p>
     <strong>Обязанности:</strong> Оказание медицинской помощи заключенным и сотрудникам службы безопасности при необходимости.<br>
     <b>Руководители</b>: <a href="/roles/headofsecurity">Глава Службы Безопасности</a><br>
-    <b>Руководства</b>: <a href="/guides/officership" title="Офицерство">Офицерство</a> • <a href="/spacelaw" title="Космический закон">Космический закон</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности">Инвентарь службы безопасности</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности">Десятичные коды</a>• <a href="/guides/medicine" title="Медицина">Медицина</a>
+    <b>Руководства</b>: <a href="/guides/officership" title="Офицерство">Офицерство</a> • <a href="/spacelaw" title="Космический закон">Космический закон</a> • <a href="/guides/securityinventory" title="Инвентарь службы безопасности">Инвентарь службы безопасности</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности">Десятичные коды</a> • <a href="/guides/medicine" title="Медицина">Медицина</a>
   </div></div>
   </div>
 </div>
