@@ -2,7 +2,7 @@
 title: Бригмедик
 description: Вытаскивайте станбатоны из офицеров и спасайте их задницы.
 published: true
-date: 2024-12-30T22:09:56.397Z
+date: 2024-12-30T22:10:13.036Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-06T13:11:04.743Z
@@ -42,7 +42,7 @@ dateCreated: 2024-10-06T13:11:04.743Z
   
 <h2>
   <div class="box">
-    <span style="margin-left:10px;">Снаряжение бригмедика</span>
+    <span style="margin-left:10px;">Снаряжение Бригмеда</span>
   </div>
 </h2>
   
