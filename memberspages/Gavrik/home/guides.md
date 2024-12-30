@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: false
-date: 2024-12-30T09:46:27.048Z
+date: 2024-12-30T09:56:01.591Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
@@ -32,19 +32,7 @@ dateCreated: 2024-12-29T06:47:46.338Z
         <img src="/passenger.png"/>
       </a>
       <a class="tab-panel__item">
-        <span>Взаимодействия</span>
-        <img src="/passenger.png"/>
-      </a>
-      <a class="tab-panel__item">
-        <span>Взаимодействия</span>
-        <img src="/passenger.png"/>
-      </a>
-      <a class="tab-panel__item">
-        <span>Взаимодействия</span>
-        <img src="/passenger.png"/>
-      </a>
-      <a class="tab-panel__item">
-        <span>Взаимодействия</span>
+        <span>Настроение</span>
         <img src="/passenger.png"/>
       </a>
     </div>
