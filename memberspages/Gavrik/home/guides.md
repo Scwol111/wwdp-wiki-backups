@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: false
-date: 2024-12-30T09:56:01.591Z
+date: 2024-12-30T09:58:20.992Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
@@ -11,13 +11,13 @@ dateCreated: 2024-12-29T06:47:46.338Z
 # 123
 <div class="nav-panel center br">
   <!--  -->
-  <div class="nav-panel__nav-tabs flex-col br-child">
+  <div class="nav-panel__nav-tabs flex-clmn br-child padding-bl">
     <button class="nav-link">Основы</button>
     <button class="nav-link">Безопасность</button>
     <button class="nav-link">Юстиция</button>
   </div>
   <!--  -->
-  <div class="nav-panel__tab-panels br-child">
+  <div class="nav-panel__tab-panels br-child padding-bl">
     <div class="tab-panel">
       <a class="tab-panel__item">
         <span>Взаимодействия</span>
