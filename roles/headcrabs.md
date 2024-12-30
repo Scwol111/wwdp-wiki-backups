@@ -2,11 +2,19 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2024-12-30T17:08:24.833Z
+date: 2024-12-30T17:34:05.603Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
 ---
+
+
+<center>
+<div class="warning-banner">
+  <h2> Эта статья заглушка </h2>
+  <p>Статья находится в процессе написания. Скоро здесь появится больше информации.</p><p>
+</div>
+</center>
 
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport antag">
