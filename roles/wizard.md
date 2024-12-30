@@ -2,11 +2,18 @@
 title: Маг
 description: 
 published: true
-date: 2024-11-14T13:04:45.898Z
+date: 2024-12-30T19:13:19.543Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:38:47.177Z
 ---
+
+<center>
+<div class="warning-banner">
+  <h2> Архив </h2>
+  <p>Эта статья посвящена игровым механикам, которые уже не используются в текущей версии билда. Она отправляется в архив, чтобы сохранить воспоминания о них. <p>Однако, скорее всего, мы увидим его в ближайшем будущем в новой версии сборки.</p><p>
+</div>
+</center>
 
 <div class="roles-passport antag">
   <div class="title antag"><a href="/roles/antagonists">Антагонист</a></div>
