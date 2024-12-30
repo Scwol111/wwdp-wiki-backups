@@ -2,13 +2,20 @@
 title: Генокрад
 description: 
 published: true
-date: 2024-10-04T14:09:02.482Z
+date: 2024-12-30T19:12:25.977Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
 ---
 
-  </div></div>
+<center>
+<div class="warning-banner">
+  <h2> Архив </h2>
+  <p>Эта статья посвящена игровым механикам, которые уже не используются в текущей версии билда. Она отправляется в архив, чтобы сохранить воспоминания о них. <p>Однако, скорее всего, мы увидим его в ближайшем будущем в новой версии сборки.</p><p>
+</div>
+</center>
+
+</div></div>
 </div>
 </div>
 <div style="display: flex; justify-content: center;">
