@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: false
-date: 2024-12-29T08:04:23.850Z
+date: 2024-12-30T09:19:15.303Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
@@ -21,7 +21,7 @@ dateCreated: 2024-12-29T06:47:46.338Z
     <div class="tab-panel">
       <a class="tab-panel__item">
         <span>Взаимодействия</span>
-        <img src="/"/>
+        <img src="https://wiki.ss14.su/main_page_icons/rule_icon.png"/>
       </a>
       <a class="tab-panel__item">
         <span>Коммуникация</span>
