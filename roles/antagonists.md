@@ -2,7 +2,7 @@
 title: Антагонисты
 description: 
 published: true
-date: 2024-11-30T18:49:02.680Z
+date: 2024-12-30T19:02:46.582Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:40.598Z
@@ -18,7 +18,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/traitor" class="custom-link">Предатель</a></div>
-<div class="roleimg"><img src="/roles/traitor.png"></div>
+<div class="roleimg"><a href="/roles/traitor" class="custom-link"><img src="/roles/traitor.png"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Руководство Синдиката</div>
 <div class="roledesclabel">Описание:</div>  
@@ -27,7 +27,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/cultist" class="custom-link">Культист</a></div>
-<div class="roleimg"><img src="/roles/cultist.gif"></div>
+<div class="roleimg"><a href="/roles/cultist" class="custom-link"><img src="/roles/cultist.gif"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Нар'Си</div>
 <div class="roledesclabel">Описание:</div>  
@@ -36,25 +36,25 @@ dateCreated: 2024-10-20T13:01:40.598Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/nuclearoperative" class="custom-link">Ядерный Оперативник</a></div>
-<div class="roleimg"><img src="/roles/nuclearoperative.png"></div>
+<div class="roleimg"><a href="/roles/nuclearoperative" class="custom-link"><img src="/roles/nuclearoperative.png"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Командир синдиката</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Укради этот чёртов диск, а после взорви тут всё. Ядерные оперативниками являются крупными антагонистами</div>  
 </div> 
 
-<div class="role">
+<!--<div class="role">
 <div class="rolename"><a href="/roles/corticalBorer" class="custom-link">Космическая аскарида</a></div>
 <div class="roleimg"><img src="/roles/borer.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Инстинкт размножения</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Залезай в головы экипажа! Захватывай разум и откладывай личинок! Мозговые черви являются мелкими антагонистами</div>  
-</div> 
+</div> -->
   
 <div class="role">
 <div class="rolename"><a href="/roles/revolution" class="custom-link">Революционер</a></div>
-<div class="roleimg"><img src="/roles/revolution.png"></div>
+<div class="roleimg"><a href="/roles/revolution" class="custom-link"><img src="/roles/revolution.png"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава революции</div>
 <div class="roledesclabel">Описание:</div>  
@@ -63,7 +63,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/patientzero" class="custom-link">Нулевой пациент</a></div>
-<div class="roleimg"><img src="/roles/patientzero.png"></div>
+<div class="roleimg"><a href="/roles/patientzero" class="custom-link"><img src="/roles/patientzero.png"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Сам себе глава</div>
 <div class="roledesclabel">Описание:</div>  
@@ -72,7 +72,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/spaceninja" class="custom-link">Космический ниндзя</a></div>
-<div class="roleimg"><img src="/roles/spaceninja.png"></div>
+<div class="roleimg"><a href="/roles/spaceninja" class="custom-link"><img src="/roles/spaceninja.png"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Паучий Клан</div>
 <div class="roledesclabel">Описание:</div>  
@@ -81,7 +81,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
  
 <div class="role">
 <div class="rolename"><a href="/roles/pirate" class="custom-link">Пират</a></div>
-<div class="roleimg"><img src="/roles/pirate.png"></div>
+<div class="roleimg"><a href="/roles/pirate" class="custom-link"><img src="/roles/pirate.png"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Капитан каперов</div>
 <div class="roledesclabel">Описание:</div>  
@@ -90,7 +90,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/revenant" class="custom-link">Ревенант</a></div>
-<div class="roleimg"><img src="/roles/revenant.gif"></div>
+<div class="roleimg"><a href="/roles/revenant" class="custom-link"><img src="/roles/revenant.gif"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Никто, вы тут главный.</div>
 <div class="roledesclabel">Описание:</div>  
@@ -99,7 +99,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/ratking" class="custom-link">Крысиный король</a></div>
-<div class="roleimg"><img src="/roles/ratking.png"></div>
+<div class="roleimg"><a href="/roles/ratking" class="custom-link"><img src="/roles/ratking.png"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Никто, вы тут босс!</div>
 <div class="roledesclabel">Описание:</div>  
@@ -108,7 +108,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/spacedragon" class="custom-link">Космический дракон</a></div>
-<div class="roleimg"><img src="/roles/spacedragon.png"></div>
+<div class="roleimg"><a href="/roles/spacedragon" class="custom-link"><img src="/roles/spacedragon.png"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Никто, вы тут главный.</div>
 <div class="roledesclabel">Описание:</div>  
@@ -117,13 +117,13 @@ dateCreated: 2024-10-20T13:01:40.598Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/guardian" class="custom-link">Хранитель</a></div>
-<div class="roleimg"><img src="/roles/guardian.png"></div>
+<div class="roleimg"><a href="/roles/guardian" class="custom-link"><img src="/roles/guardian.png"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Носитель-хозяин</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Помогайте своему хозяину выполнять задания.</div>  
 </div>     
-
+<!--
 <div class="role">
 <div class="rolename"><a href="/roles/genestealer" class="custom-link">Генокрад</a></div>
 <div class="roleimg"><img src="/roles/changeling.gif"></div>
@@ -132,11 +132,11 @@ dateCreated: 2024-10-20T13:01:40.598Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Поглощайте ДНК, одурачивайте людей, выполняйте свои цели. Генокрады являются мелкими антагонистами</div>  
 </div>     
-
+-->
 
 <div class="role">
 <div class="rolename"><a href="/roles/thief" class="custom-link">Вор</a></div>
-<div class="roleimg"><img src="/roles/thief32x32.png"></div>
+<div class="roleimg"><a href="/roles/thief" class="custom-link"><img src="/roles/thief32x32.png"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">[УДАЛЕНО] </div>
 <div class="roledesclabel">Описание:</div>  
@@ -146,20 +146,38 @@ dateCreated: 2024-10-20T13:01:40.598Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/terminator" class="custom-link">Терминатор</a></div>
-<div class="roleimg"><img src="/roles/terminator.png"></div>
+<div class="roleimg"><a href="/roles/terminator" class="custom-link"><img src="/roles/terminator.png"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Неизвестно</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Уничтожьте свою цель, а затем и себя. Терминатор является мелким антагонистом</div>  
 </div>  
 
-<div class="role">
+<!-- <div class="role">
 <div class="rolename"><a href="/roles/wizard" class="custom-link">Маг</a></div>
 <div class="roleimg"><img src="/roles/antagonists/wizard/wizard_real.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Федерация Волшебников</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Устройте невероятный хаос! Маг является крупным антагонистом</div>  
+</div>-->
+
+<div class="role">
+<div class="rolename"><a href="/roles/paradox-anomaly" class="custom-link">Двойник</a></div>
+<div class="roleimg"><a href="/roles/paradox-anomaly" class="custom-link"><img src="/roles/paradox-anomaly.png"></a></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Руководитель отдела жертвы</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Устраните оригинал или подружитесь с ним. Мелкий антагонист</div>  
+</div>
+
+<div class="role">
+<div class="rolename"><a href="/roles/headcrabs" class="custom-link">Хедкрабы</a></div>
+<div class="roleimg"><a href="/roles/headcrabs" class="custom-link"><img src="/roles/headcrabs.png"></a></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Инстинкты</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Высосите мозг жертвы, защитите гнездо</div>  
 </div>
 
 </div>
