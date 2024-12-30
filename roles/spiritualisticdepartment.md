@@ -2,7 +2,7 @@
 title: Призрачные роли
 description: 
 published: true
-date: 2024-12-30T19:45:53.674Z
+date: 2024-12-30T19:46:29.666Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:42.381Z
@@ -67,7 +67,7 @@ dateCreated: 2024-10-20T13:01:42.381Z
   </div>
 
   <div class="role">
-    <div class="rolename"><a href="/roles/laika" class="custom-link">Гондола</a></div>
+    <div class="rolename"><a href="/roles/gondola" class="custom-link">Гондола</a></div>
     <div class="roleimg"><img src="/roles/gondola.png"></div>
     <div class="roleheadlabel">Подчиняется:</div>
     <div class="rolehead">...</div>
