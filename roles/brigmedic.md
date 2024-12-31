@@ -2,7 +2,7 @@
 title: Бригмедик
 description: Вытаскивайте станбатоны из офицеров и спасайте их задницы.
 published: true
-date: 2024-12-30T22:24:14.868Z
+date: 2024-12-31T15:27:35.559Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-06T13:11:04.743Z
@@ -29,6 +29,7 @@ dateCreated: 2024-10-06T13:11:04.743Z
 
 <h2>
   <div class="box">
+    <img src="/roles/sec/pen.png" alt="ручка" style="height: 64px"/>
     <span style="margin-left:10px;">Коморка Бригмеда</span>
   </div>
 </h2>
@@ -65,6 +66,7 @@ dateCreated: 2024-10-06T13:11:04.743Z
 * Во время нападения на бриг бригмедик оказывает первую помощь охранникам под огнем, используя инъекторы с эпинефрином.
 <h2>
   <div class="box">
+        <img src="/roles/sec/light_bulb.png" alt="Светлая мысль" style="height: 64px"/>
     <span style="margin-left:10px;">Обязанности</span>
   </div>
 </h2>
