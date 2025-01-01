@@ -2,16 +2,16 @@
 title: Руководства
 description: 
 published: false
-date: 2025-01-01T17:48:18.747Z
+date: 2025-01-01T17:49:34.045Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
 ---
 
 # 123
-<div class="nav-panel center br">
+<div class="nav-panel .v-sheet .v-card theme-dark">
   <!--  -->
-  <div class="nav-panel__nav-tabs .v-sheet .v-card theme-dark">
+  <div class="nav-panel__nav-tabs">
     <button class="nav-link active">Основы</button>
     <button class="nav-link">Безопасность</button>
     <button class="nav-link">Юстиция</button>
