@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: true
-date: 2025-01-01T22:36:47.374Z
+date: 2025-01-01T22:37:50.739Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:34.643Z
@@ -622,7 +622,7 @@ Your browser does not support the audio element.
   </p>
   
   <audio controls="">
-  <source src="palevo.ogg.mp3" type="audio/mpeg">
+  <source src="/palevo.ogg.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
   <h3 id="bloodyпер-кровавый" class="toc-header"><a class="toc-anchor" href="#bloodyпер-кровавый"></a> Bloody(пер. Кровавый)</h3>
