@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница. Вики SS14, СС14, Космическая станция 14, космическая ебанина 14.
 published: true
-date: 2024-12-27T19:38:57.033Z
+date: 2025-01-01T12:31:18.710Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -113,12 +113,12 @@ dateCreated: 2024-09-10T19:12:06.984Z
                 </div>
               </div>
               <div></div>
-              <div class="multiversecont">
+              <!--<div class="multiversecont">
                 <p>
                   <strong>Multiverse</strong>
                 </p>
                 <p>Впервые на нашем сервере? Для того, чтобы начать своё погружение в удивительный мир космической станции, прочитайте как начать играть с нами на <a href="" class="is-external-link" style="text-decoration: none!important;">сайте, которого пока нет.</a></p>
-              </div>
+              </div>-->
               <div></div>
               <hr>
               <div class="containerextra">
