@@ -2,7 +2,7 @@
 title: Антагонисты
 description: 
 published: true
-date: 2024-12-30T19:02:46.582Z
+date: 2025-01-01T21:20:03.070Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:40.598Z
@@ -36,7 +36,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
   
 <div class="role">
 <div class="rolename"><a href="/roles/nuclearoperative" class="custom-link">Ядерный Оперативник</a></div>
-<div class="roleimg"><a href="/roles/nuclearoperative" class="custom-link"><img src="/roles/nuclearoperative.png"></a></div>
+<div class="roleimg"><a href="/roles/nuclearoperative" class="custom-link"><img src="/roles/nuclearoperative.gif"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Командир синдиката</div>
 <div class="roledesclabel">Описание:</div>  
