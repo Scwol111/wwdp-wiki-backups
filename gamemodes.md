@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: true
-date: 2025-01-01T22:25:24.198Z
+date: 2025-01-01T22:36:47.374Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:34.643Z
@@ -406,7 +406,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
 <p>Звук аспекта в начале раунда:</p><div>
 
 </div><audio controls="">
-  <source src="aspect_sound.mp3" type="audio/mpeg">
+  <source src="/aspect_sound.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio><div>
 
