@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: true
-date: 2024-12-30T19:24:53.192Z
+date: 2025-01-01T22:25:24.198Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:34.643Z
@@ -386,6 +386,16 @@ dateCreated: 2024-09-10T19:07:34.643Z
   </p>
   <p>
     Спавнит на станцию со стороны космоса <a href="/roles/spacedragon" class="is-internal-link is-valid-page">дракона</a>, который уж точно захочет полакомиться экипажем.
+  </p>
+
+  <h3 id="нашествие-дракона" class="toc-header"><a class="toc-anchor" href="#нашествие-дракона"></a>Вспышка зомби вируса</h3>
+  <p>
+    <strong>
+  		Идёт без оповещения.
+    </strong>
+  </p>
+  <p>
+   Один из членов экипажа становится <a href="/roles/patientzero" class="is-internal-link is-valid-page">нулевым пациентом</a>.
   </p>
 
 </div><div>
