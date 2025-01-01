@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2024-12-30T17:26:59.352Z
+date: 2025-01-01T10:15:17.041Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -293,9 +293,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/thief">Вор</a><a href="/roles/thief"><img src="/roles/thief32x32.png" /></a></div>
   <div><div>Вор, способный утащить всё, что не прикручено к полу. Остерегайтесь пропажи ваших ценных вещей!</div></div>
   <div>Средне</div>
-  <!-- <div><a href="/roles/cultist">Культист</a><a href="/roles/cultist"><img src="/roles/cultist.gif" /></a></div>
+  <div><a href="/roles/cultist">Культист</a><a href="/roles/cultist"><img src="/roles/cultist.gif" /></a></div>
   <div><div>Заходит в бар безумный фанатик, священник и человек с кроваво-красными глазами и большой руной над головой, а бармен говорит "Тебе как обычно?".</div></div>
-  <div>Сложно</div>-->
+  <div>Сложно</div>
   <div><a href="/roles/revolution">Революционер</a><a href="/roles/revolution"><img src="/roles/revolution.png" /></a></div>
   <div><div>Синдикат решает захватить власть более интересным путём, а именно промывкой мозгов с помощью флешки. Ещё одна веская причина не собираться в толпы. И если вы зачинщик революции.. я надеюсь вы же умеете управлять толпой из десяток людей?</div></div>
   <div>Средне</div>
