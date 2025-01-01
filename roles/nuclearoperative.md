@@ -2,7 +2,7 @@
 title: Ядерный Оперативник
 description: 
 published: true
-date: 2024-10-03T09:58:57.394Z
+date: 2025-01-01T21:19:44.836Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:15:26.706Z
@@ -12,7 +12,7 @@ dateCreated: 2024-09-25T18:15:26.706Z
 <div class="roles-passport antag">
   <div class="title antag"><a href="/roles/antagonists">Антагонист</a></div>
   <div>
-    <div><div><img src="/roles/nuclearoperative.png" id="img" class="shadow"></div></div>
+    <div><div><img src="/roles/nuclearoperative.gif" id="img" class="shadow"></div></div>
   <div id="tb1" style="display: non"><div>
     <h1>Ядерный оперативник</h1>
     <p><strong>Сложность:</strong> Очень сложная</p>
