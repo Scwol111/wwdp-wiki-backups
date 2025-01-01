@@ -2,7 +2,7 @@
 title: Руководство для новичков
 description: 
 published: true
-date: 2025-01-01T12:42:35.937Z
+date: 2025-01-01T12:43:55.797Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:33.269Z
@@ -77,7 +77,6 @@ dateCreated: 2024-09-10T19:07:33.269Z
     <img src="/guides/beginnersguide/starving.gif" alt="Starving">
     <div class="icon-info"> <div class="icon-label">Голод</div>
         <div class="description">Ваш персонаж ОЧЕНЬ хочет есть. Сильно портит настроение.</div>  </div>
-
 </div>
 <div class="icon-container">
     <img src="/guides/beginnersguide/not_enough_oxy.gif" alt="Not Enough Oxygen">
