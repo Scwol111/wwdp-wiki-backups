@@ -2,7 +2,7 @@
 title: Экспедиции
 description: 
 published: true
-date: 2024-12-20T19:10:43.411Z
+date: 2025-01-02T17:38:00.571Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:18:33.220Z
@@ -28,7 +28,7 @@ dateCreated: 2024-09-29T18:18:33.220Z
 <li><strong>Ящик с медикаментами</strong> - для возможности оказания первой помощи в условиях экспедиции.</li>
 </ol>
 </div>
-<img src="/guides/expeditions/shuttle.png" style="image-rendering: auto!important; height: 460px">
+<img src="/guides/expeditions/shuttle.png" style="image-rendering: auto!important; height: 460px" class="zoomable">
 </div>
 
 <h2><img src="/guides/expeditions/util_icon.png" style="width: 32px; height: 32px;">Выбор Экспедиции<img src="/guides/expeditions/util_icon.png" style="width: 32px; height: 32px;"></h2>
@@ -58,7 +58,7 @@ dateCreated: 2024-09-29T18:18:33.220Z
 <center>
   <div class="custom-table-exp">
     <div><img src ="/guides/expeditions/xeno.png">Ксено</div>
-    <div><p>Многообразные, сильные и крепкие, но в основном медленные враги. Опасны тем, что среди них может быть <a href="https://js.ss14.su/guides/fauna#FELIXSOSALBALLON">Королева</a>.</p></div>
+    <div><p>Многообразные, сильные и крепкие, но в основном медленные враги. Опасны тем, что среди них может быть <a href="https://js.ss14.su/guides/fauna#queen">Королева</a>.</p></div>
     <div><img src="/guides/expeditions/carp.png">Карп</div>
     <div><p>Мелкие и хрупкие, но крайне резвые враги.</p></div>
     <div><img src="/guides/expeditions/dracon.png">Космический дракон</div>
@@ -67,8 +67,8 @@ dateCreated: 2024-09-29T18:18:33.220Z
 </center>
 <h4>Виды биомов</h4>
 <center>
-  <div class="custom-table-exp">
-    <div><img src="/guides/expeditions/cavebiome.png">Caves</div>
+  <div class="custom-table-exp bioms">
+    <div><p><img src="/guides/expeditions/cavebiome.png"></p>Caves</div>
     <div><p>Пещерный биом. Примечателен большим количеством породы и не самым чистым окружением. Иногда встречаются светящиеся кристаллы, они бесполезны и не опасны, но излучают свечение.</p></div>
     <div><img src="/guides/expeditions/grassbiome.png">Grasslands</div>
     <div><p>Луговой биом. Растут деревья, течет река, порода присутствует, но её не так много, опасных для ходьбы поверхностей нет.</p></div>
