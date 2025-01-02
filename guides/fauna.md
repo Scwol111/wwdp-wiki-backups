@@ -2,7 +2,7 @@
 title: Фауна
 description: 
 published: true
-date: 2024-10-30T07:51:48.605Z
+date: 2025-01-02T16:49:25.630Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T02:37:43.786Z
@@ -315,7 +315,7 @@ dateCreated: 2024-09-28T02:37:43.786Z
         <td>
           <img src="/guides/fauna/secdog.gif">
         </td>
-        <td><a href="/roles/laika" >Лайка</a></td>
+        <td><a href="/roles/laika">Лайка</a></td>
         <td>Собака, принадлежащая Главе Службы Безопасности. Это уличная порода, всегда готовая к драке. Она чувствует нарушение закона.</td>
         <td>Офис Главы Службы Безопасности</td>
       </tr>
@@ -618,7 +618,7 @@ dateCreated: 2024-09-28T02:37:43.786Z
       </tr>
       <tr>
         <td>
-          <img src="/guides/fauna/queen.png" id="FELIXSOSALBALLON">
+          <img src="/guides/fauna/queen.png" id="queen">
         </td>
         <td>Королева</td>
         <td>
