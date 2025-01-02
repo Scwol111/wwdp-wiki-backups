@@ -2,7 +2,7 @@
 title: Инвентарь отдела снабжения
 description: 
 published: true
-date: 2024-09-29T18:19:45.854Z
+date: 2025-01-02T15:39:21.033Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:45.854Z
@@ -17,7 +17,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   <div class="table-title">Описание</div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/gun/launchers/grappling-gun.png" alt="grappling-gun.png" />
+    <img src="/guides/cargo/items/grappling-gun.png" alt="grappling-gun.png" />
 		Крюк-кошка
   </div>
   <div class="table-item">
