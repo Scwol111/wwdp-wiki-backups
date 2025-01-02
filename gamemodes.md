@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: true
-date: 2025-01-01T22:37:50.739Z
+date: 2025-01-02T15:18:18.067Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:34.643Z
@@ -156,8 +156,9 @@ dateCreated: 2024-09-10T19:07:34.643Z
 </div><div>-->  
 
 </div><button type="button" class="collapsible">
-<h2 id="расширенный" class="toc-header"><a class="toc-anchor" href="#расширенный"></a> 
-    <div class="titleBox">
+<h2 id="революция" class="toc-header"><a class="toc-anchor" href="#революция"></a> 
+    <div class="titleBox" style="margin: 0">
+    <img src="/coffe.png">
     <span style="margin-left:10px;">Расширенный</span>
     </div>
 </h2>
@@ -167,8 +168,9 @@ dateCreated: 2024-09-10T19:07:34.643Z
 </div><div>
   
 </div><button type="button" class="collapsible">
-<h2 id="песочница" class="toc-header"><a class="toc-anchor" href="#песочница"></a> 
-    <div class="titleBox">
+<h2 id="революция" class="toc-header"><a class="toc-anchor" href="#революция"></a> 
+    <div class="titleBox" style="margin: 0">
+    <img src="/spade.png">
     <span style="margin-left:10px;">Песочница</span>
     </div>
 </h2>
