@@ -2,7 +2,7 @@
 title: Инвентарь отдела снабжения
 description: 
 published: true
-date: 2025-01-02T17:31:50.284Z
+date: 2025-01-02T17:37:03.665Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:45.854Z
@@ -123,7 +123,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   <div class="table-title">Описание</div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/gun/kinetic-accelerator.png" alt="kinetic-accelerator.png" />
+    <img src="/weapon/kinetic-accelerator.png" alt="kinetic-accelerator.png" />
     Протокинетический ускоритель
   </div>
   <div class="table-item">
@@ -135,7 +135,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/melee/crusher.png" alt="crusher.png" />
+    <img src="/weapon/crusher.png" alt="crusher.png" />
     Дробилка
   </div>
   <div class="table-item">
@@ -153,7 +153,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/weapon/melee/crusher_glaive.png" alt="crusher_glaive.png" />
+    <img src="/weapon/crusher_glaive.png" alt="crusher_glaive.png" />
     Глеф-дробилка
   </div>
   <div class="table-item">
@@ -171,7 +171,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   </div>
 	<!--  -->
 	<div class="table-item button">
-    <img src="/weapon/melee/crusher_dagger.png" alt="crusher_dagger.png" />
+    <img src="/weapon/crusher_dagger.png" alt="crusher_dagger.png" />
     Кинжал-дробилка
   </div>
   <div class="table-item">
@@ -183,7 +183,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   </div>
 	<!--  -->
 	<div class="table-item button">
-    <img src="/weapon/melee/survival_knife.png" alt="survival_knife.png" />
+    <img src="/weapon/survival_knife.png" alt="survival_knife.png" />
     Нож для выживания
   </div>
   <div class="table-item">
