@@ -2,7 +2,7 @@
 title: Экспедиции
 description: 
 published: true
-date: 2025-01-02T17:38:00.571Z
+date: 2025-01-02T17:39:33.378Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:18:33.220Z
@@ -58,7 +58,7 @@ dateCreated: 2024-09-29T18:18:33.220Z
 <center>
   <div class="custom-table-exp">
     <div><img src ="/guides/expeditions/xeno.png">Ксено</div>
-    <div><p>Многообразные, сильные и крепкие, но в основном медленные враги. Опасны тем, что среди них может быть <a href="https://js.ss14.su/guides/fauna#queen">Королева</a>.</p></div>
+    <div><p>Многообразные, сильные и крепкие, но в основном медленные враги. Опасны тем, что среди них может быть <a href="/guides/fauna#queen">Королева</a>.</p></div>
     <div><img src="/guides/expeditions/carp.png">Карп</div>
     <div><p>Мелкие и хрупкие, но крайне резвые враги.</p></div>
     <div><img src="/guides/expeditions/dracon.png">Космический дракон</div>
