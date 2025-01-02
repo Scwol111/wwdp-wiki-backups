@@ -2,7 +2,7 @@
 title: Бригмедик
 description: Вытаскивайте станбатоны из офицеров и спасайте их задницы.
 published: true
-date: 2024-12-31T15:27:35.559Z
+date: 2025-01-02T14:58:55.105Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-06T13:11:04.743Z
@@ -29,7 +29,7 @@ dateCreated: 2024-10-06T13:11:04.743Z
 
 <h2>
   <div class="box">
-    <img src="/roles/sec/pen.png" alt="ручка" style="height: 64px"/>
+    <img src="/roles/sec/pen.png" alt="ручка">
     <span style="margin-left:10px;">Коморка Бригмеда</span>
   </div>
 </h2>
@@ -40,7 +40,8 @@ dateCreated: 2024-10-06T13:11:04.743Z
 * В коморке обычно можно найти аптечки, сканеры здоровья и медикаменты.
 * Кровать, где бригмед может лечить своих пациентов, и медицинский автомат.
 * Иногда в комнате есть наручники, средства для успокоения буйных задержанных и другие инструменты для работы в условиях брига.<d>
-<img src="/guides/security/brigmedf.png" id="img">  
+<div id="img">
+  <img src="/guides/security/brigmedf.png" alt="Комната Бригмедика"> </div>
 <h2>
   <div class="box">
     <span style="margin-left:10px;">Снаряжение Бригмеда</span>
@@ -66,7 +67,7 @@ dateCreated: 2024-10-06T13:11:04.743Z
 * Во время нападения на бриг бригмедик оказывает первую помощь охранникам под огнем, используя инъекторы с эпинефрином.
 <h2>
   <div class="box">
-        <img src="/roles/sec/light_bulb.png" alt="Светлая мысль" style="height: 64px"/>
+        <img src="/roles/sec/light_bulb.png" alt="Светлая мысль">
     <span style="margin-left:10px;">Обязанности</span>
   </div>
 </h2>
