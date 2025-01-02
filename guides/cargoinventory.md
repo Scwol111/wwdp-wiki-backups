@@ -2,7 +2,7 @@
 title: Инвентарь отдела снабжения
 description: 
 published: true
-date: 2025-01-02T15:39:21.033Z
+date: 2025-01-02T15:47:09.884Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:45.854Z
@@ -308,7 +308,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   <div class="table-title">Описание</div> 
   <!--  -->
   <div class="table-item button">
-    <img src="/machines/ore-processor.gif" alt="ore-processor.gif" />
+    <img src="/guides/cargo/computers/ore-processor.gif" alt="ore-processor.gif" />
     Переработчик руды
   </div>
   <div class="table-item">
@@ -316,7 +316,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/machines/salvage-magnet.png" alt="salvage-magnet.png" />
+    <img src="/guides/cargo/computers/salvage-magnet.png" alt="salvage-magnet.png" />
     Магнит обломков
   </div>
   <div class="table-item">
@@ -324,7 +324,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/machines/vending/salvage.gif" alt="salvage.gif" />
+    <img src="/guides/cargo/computers/salvage.gif" alt="salvage.gif" />
     Утильмаг
   </div>
   <div class="table-item">
@@ -332,7 +332,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/machines/computers/cargo-orgers.gif" alt="cargo-orgers.gif" />
+    <img src="/guides/cargo/computers/cargo-orgers.gif" alt="cargo-orgers.gif" />
     Консоль заказа грузов
   </div>
   <div class="table-item">
@@ -340,7 +340,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/machines/computers/cargo-shuttle.png" alt="cargo-shuttle.png" />
+    <img src="/guides/cargo/computers/cargo-shuttle.png" alt="cargo-shuttle.png" />
     Консоль вызова грузового шаттла
   </div>
   <div class="table-item">
@@ -348,7 +348,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/machines/computers/cargo-bounty.gif" alt="cargo-bounty.gif" />
+    <img src="/guides/cargo/computers/cargo-bounty.gif" alt="cargo-bounty.gif" />
     Компьютер грузовых наград
   </div>
   <div class="table-item">
@@ -356,7 +356,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/machines/computers/shuttle.gif" alt="shuttle.gif" />
+    <img src="/guides/cargo/computers/shuttle.gif" alt="shuttle.gif" />
     Консоль управления грузовым шаттлом
   </div>
   <div class="table-item">
@@ -364,7 +364,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/machines/computers/shuttle.gif" alt="shuttle.gif" />
+    <img src="/guides/cargo/computers/shuttle.gif" alt="shuttle.gif" />
     Консоль спасательного челнока
   </div>
   <div class="table-item">
@@ -372,7 +372,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/machines/computers/salvage-expedition.gif" alt="salvage-expedition.gif" />
+    <img src="/guides/cargo/computers/salvage-expedition.gif" alt="salvage-expedition.gif" />
     Компьютер утилизационных экспедиций
   </div>
   <div class="table-item">
