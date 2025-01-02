@@ -2,7 +2,7 @@
 title: Инвентарь отдела снабжения
 description: 
 published: true
-date: 2025-01-02T15:47:09.884Z
+date: 2025-01-02T15:50:35.086Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:45.854Z
@@ -207,7 +207,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   <div class="table-title">Описание</div>
   <!--  -->
   <div class="table-item button">
-    <img src="/clothing/belt/salvage-webbing.png" alt="salvage-webbing.png" />
+    <img src="/guides/cargo/items/salvage-webbing.png" alt="salvage-webbing.png" />
     Пояс утилизатора
   </div>
   <div class="table-item">
@@ -231,7 +231,7 @@ dateCreated: 2024-09-29T18:19:45.854Z
   </div>
   <!--  -->
   <div class="table-item button">
-    <img src="/clothing/shoes/magboots.png" alt="magboots.png" />
+    <img src="/guides/cargo/items/magboots.png" alt="magboots.png" />
     Магнитные сапоги
   </div>
   <div class="table-item">
