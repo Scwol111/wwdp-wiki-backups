@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница. Вики SS14, СС14, Космическая станция 14, космическая ебанина 14.
 published: true
-date: 2025-01-01T12:31:18.710Z
+date: 2025-01-03T00:07:22.344Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -87,24 +87,22 @@ dateCreated: 2024-09-10T19:12:06.984Z
                       <div class="community-div-flex">
                         <a class="fredoka-font" href="https://discord.gg/n8VQ8jtd" class="community-link is-external-link">
                       <div class="community-element">
-                        <div class="element-image" style="height: 40px; width: 40px; background-color: #5863F3"></div>
-                        <img src="/main_page_icons/community_elements_logos/discord-2-xxl.png" class="element-image" style="left: 2px; top: 2px; height: 36px; width: 36px;">WWDP Discord
+                        Discord
                       </div>
                         </a>
                         <a class="fredoka-font" href="https://github.com/WWhiteDreamProject/wwdpublic" class="community-link is-external-link">
  											<div class="community-element">
-                        <img src="/main_page_icons/community_elements_logos/git.png" class="element-image" style="background-color: #ffff">GitHub
+												GitHub
                       </div>
                         </a>
                         <div class="new-string"></div>
                         <a class="fredoka-font" href="https://forum.wwdp.ee/" class="community-link is-external-link">
                       <div class="community-element">
-                        <img src="/main_page_icons/community_elements_logos/forum-link3.gif" class="element-image">Forum
+                        Forum
                       </div>
                         </a>
                       <a class="fredoka-font" href="/boosty" class="community-link is-external-link"><div class="community-element">
-                        <div class="element-image" style="height: 40px; width: 40px; background-color: rgba(255,255,255,0.09)"></div>
-                        <img src="/boosty.png" class="element-image" style="left: 4px; top: 4px; height: 32px; width: 32px;">Boosty
+                        Boosty
                       </div>
                         </a>
                       </div>
