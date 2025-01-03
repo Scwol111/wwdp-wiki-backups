@@ -2,7 +2,7 @@
 title: Суперматерия
 description: 
 published: false
-date: 2025-01-03T15:59:50.230Z
+date: 2025-01-03T16:09:07.666Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-03T15:08:56.390Z
@@ -52,7 +52,7 @@ dateCreated: 2025-01-03T15:08:56.390Z
         <p>Настраиваем каждый охладитель на минимальную температуру и включаем.</p>
       </div>
       <div class="zoomable"> 
-      <div class="step-image"><img src="/guides/supermatter/1.png"></div>
+      <div class="step-image"><img class="zoomable" src="/guides/supermatter/1.png"></div>
       </div>
     </div>
     <div class="step" id="step2">
@@ -60,14 +60,14 @@ dateCreated: 2025-01-03T15:08:56.390Z
         <h3>2: Фильтры</h3>
         <p>Настраиваем первый (по желанию, каждый) фильтр на азот и включаем.</p>
       </div>
-      <div class="step-image"><img src="/guides/supermatter/2.png"></div>
+      <div class="step-image"><img class="zoomable" src="/guides/supermatter/2.png"></div>
     </div>
     <div class="step" id="step3">
       <div class="step-text">
         <h3>3: Фильтр</h3>
         <p>Настраиваем фильтр на "НЕТ" и включаем.</p>
       </div>
-      <div class="step-image"><img src="/guides/supermatter/3.png"></div>
+      <div class="step-image"><img class="zoomable" src="/guides/supermatter/3.png"></div>
     </div>
     <div class="step" id="step4">
       <div class="step-text">
@@ -81,7 +81,7 @@ dateCreated: 2025-01-03T15:08:56.390Z
           5: Активируем <span style="color: #3AE2CE">"OXYGEN"</span> и <span style="color: #3AE2CE">"NITROGEN"</span><br>
         </p>
       </div>
-      <div class="step-image"><img src="/guides/supermatter/4-1.png"></div>
+      <div class="step-image"><img class="zoomable" src="/guides/supermatter/4-1.png"></div>
     </div>
     <div class="step" id="step5">
       <div class="step-text">
@@ -89,7 +89,7 @@ dateCreated: 2025-01-03T15:08:56.390Z
         <h4> Второй скруббер</h4>
         <p>Активируем <span style="color: #3AE2CE">"OXYGEN"</span></p>
       </div>
-      <div class="step-image"><img src="/guides/supermatter/4-2.png"></div>
+      <div class="step-image"><img class="zoomable" src="/guides/supermatter/4-2.png"></div>
     </div>
     <div class="step" id="step6">
       <div class="step-text">
@@ -97,28 +97,28 @@ dateCreated: 2025-01-03T15:08:56.390Z
         <h4> Третий скруббер</h4>
         <p>Активируем <span style="color: #3AE2CE">"OXYGEN"</span></p>
       </div>
-      <div class="step-image"><img src="/guides/supermatter/4-3.png"></div>
+      <div class="step-image"><img class="zoomable" src="/guides/supermatter/4-3.png"></div>
     </div>
     <div class="step" id="step7">
       <div class="step-text">
         <h3>5: Выходной насос</h3>
         <p>Выставляем Выходное давление <span style="color:#FFDD00">4500 кПа</span> и включаем</p>
       </div>
-      <div class="step-image"><img src="/guides/supermatter/5.png"></div>
+      <div class="step-image"><img class="zoomable" src="/guides/supermatter/5.png"></div>
     </div>
     <div class="step" id="step8">
       <div class="step-text">
         <h3>6: Насос азота</h3>
         <p>Выставляем Выходное давление <span style="color:#FFDD00">50 кПа</span> и включаем</p>
       </div>
-      <div class="step-image"><img src="/guides/supermatter/6.png"></div>
+      <div class="step-image"><img class="zoomable" src="/guides/supermatter/6.png"></div>
     </div>
     <div class="step" id="step9">
       <div class="step-text">
         <h3>7: Входной насос</h3>
         <p>Выставляем Выходное давление <span style="color:#FFDD00">200 кПа</span> и включаем</p>
       </div>
-      <div class="step-image"><img src="/guides/supermatter/7.png"></div>
+      <div class="step-image"><img class="zoomable" src="/guides/supermatter/7.png"></div>
     </div>
     <div class="step" id="step10">
       <div class="step-text">
