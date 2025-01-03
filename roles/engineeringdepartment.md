@@ -2,7 +2,7 @@
 title: Инженерный Отдел
 description: 
 published: true
-date: 2024-11-27T19:31:43.883Z
+date: 2025-01-03T12:46:37.189Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:38.329Z
@@ -21,7 +21,7 @@ dateCreated: 2024-10-20T13:01:38.329Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Глава отдела инженерии. Пытается держать в стабильном состоянии станцию, но в конце концов улетает от проблем на собственном шаттле.</div>  
 </div>
-  
+<!--
 <div class="role">
 <div class="rolename"><a href="/roles/brigadier" class="custom-link">Бригадир</a></div>
 <div class="roleimg"><img src="/roles/brigadier.png"></div>
@@ -30,7 +30,7 @@ dateCreated: 2024-10-20T13:01:38.329Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Левой рукой строит с нуля зону содержания сингулярности. Правой - систему охлаждения суперматерии.</div>  
 </div> 
-  
+-->
 <div class="role">
 <div class="rolename"><a href="/roles/engineer" class="custom-link">Инженер</a></div>
 <div class="roleimg"><img src="/roles/engineer.png"></div>
@@ -147,28 +147,74 @@ Nanotrasen предусмотрели различные способы выра
 
 ##### Оборудование
 
-
-<div class="tbl">
-  
-| Инструмент | Использование |
-| --- |--- |
-| Мультитул | Нужна для размещения части ДАМ. Превращает её в Экранирование ДАМ. |
-| Гаечный ключ | Нужна для закрепления Контроллера ДАМ. |
-| Т-лучевой сканер | Нужен для просмотра проводов под полом. |
+<div class="table II-columns rnd">
+  <div class="table__title">Заголовок</div>
+  <div class="table__title">Заголовок</div>
+  <!--  -->
+  <div class="table__item">
+    <img src="/roles/eng/multi.gif" width="64px" height="64px"/>
+    Мультитул
+  </div>
+  <div class="table__item">
+    <p>Нужна для размещения части ДАМ. Превращает её в Экранирование ДАМ.</p>
+  </div>
+  <!--  -->
+  <div class="table__item">
+    <img src="/roles/eng/wrench.png" width="64px" height="64px"/>
+    Гаечный ключ
+  </div>
+  <div class="table__item">
+    <p>Нужна для закрепления Контроллера ДАМ.</p>
+  </div>
+  <!--  -->
+  <div class="table__item">
+    <img src="/roles/eng/t-ray.png" width="64px" height="64px"/>
+    Т-лучевой сканер
+  </div>
+  <div class="table__item">
+    <p>Нужен для просмотра проводов под полом.</p>
+  </div>
 </div>
   
 Подробнее о разных видах оборудования и их функциях см. [инженерия](/guides/engineering).
 
 ##### Материалы
 
-<div class="tbl">
-  
-| Материал | Наличие |
-| --- | --- |
-| Часть ДАМ | Обычно есть на месте, но при желании сделать большой реактор потребуется заказать больше. |
-| Топливо для ДАМ | Обычно есть на месте, иногда придётся заказывать, в силу того, что расходуется двигателем. |
-| Контроллер ДАМ |Обычно есть на месте, но есть возможность заказать. |
-| ВВ провода | Необязательно. |
+<div class="table II-columns rnd">
+  <div class="table__title">Заголовок</div>
+  <div class="table__title">Заголовок</div>
+  <!--  -->
+  <div class="table__item">
+    <img src="/roles/eng/part_ame.png" width="64px" height="64px"/>
+    Часть ДАМ
+  </div>
+  <div class="table__item">
+    <p>Обычно есть на месте, но при желании сделать большой реактор потребуется заказать больше.</p>
+  </div>
+  <!--  -->
+  <div class="table__item">
+    <img src="/roles/eng/fuel_ame.png" width="64px" height="64px"/>
+    Топливо ДАМ
+  </div>
+  <div class="table__item">
+    <p>Обычно есть на месте, иногда придётся заказывать, в силу того, что расходуется двигателем.</p>
+  </div>
+  <!--  -->
+  <div class="table__item">
+    <img src="/roles/eng/controller_ame.png" width="64px" height="64px"/>
+    Контроллер ДАМ
+  </div>
+  <div class="table__item">
+    <p>Обычно есть на месте, но есть возможность заказать.</p>
+  </div>
+	<!--  -->
+  <div class="table__item">
+    <img src="/roles/eng/hv-wires.png" width="64px" height="64px"/>
+    ВВ провода
+  </div>
+  <div class="table__item">
+    <p>Необязательно.</p>
+  </div>
 </div>
 
 ##### Ход работы
