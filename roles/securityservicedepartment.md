@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2024-11-30T21:56:44.493Z
+date: 2025-01-03T11:49:46.572Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -36,7 +36,7 @@ dateCreated: 2024-09-22T08:37:21.006Z
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Глава Службы Безопасности/Смотритель</div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Вы следите за заключенными в пермабриге.></div>  
+<div class="roledesc">Вы следите за заключенными в пермабриге.</div>  
 </div>     
 
 <div class="role">
@@ -111,7 +111,7 @@ dateCreated: 2024-09-22T08:37:21.006Z
 
 ## Я диктатор!
 
-Из-за того, что Глава Службы Безопасности начинает игру с [имплантом](/roles/securityservicedepartment/implants) "Защиты разума" (Mindshield), он не может быть антагонистом.
+Из-за того, что Глава Службы Безопасности начинает игру с [имплантом](/guides/implants) "Защиты разума" (Mindshield), он не может быть антагонистом.
 
 <h1> <span><img src="/roles/warden.png"> <a href="/roles/warden">Смотритель</a></span> </h1>
 
