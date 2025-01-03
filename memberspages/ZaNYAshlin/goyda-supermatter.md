@@ -2,7 +2,7 @@
 title: Суперматерия
 description: 
 published: false
-date: 2025-01-03T16:09:07.666Z
+date: 2025-01-03T16:13:22.138Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-03T15:08:56.390Z
@@ -51,9 +51,7 @@ dateCreated: 2025-01-03T15:08:56.390Z
         <h3>1: Охладители</h3>
         <p>Настраиваем каждый охладитель на минимальную температуру и включаем.</p>
       </div>
-      <div class="zoomable"> 
       <div class="step-image"><img class="zoomable" src="/guides/supermatter/1.png"></div>
-      </div>
     </div>
     <div class="step" id="step2">
       <div class="step-text">
