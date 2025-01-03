@@ -2,7 +2,7 @@
 title: Отдел Службы Безопасности
 description: 
 published: true
-date: 2025-01-03T11:49:46.572Z
+date: 2025-01-03T11:50:24.029Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T08:37:21.006Z
@@ -38,7 +38,7 @@ dateCreated: 2024-09-22T08:37:21.006Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Вы следите за заключенными в пермабриге.</div>  
 </div>     
-
+<!--
 <div class="role">
 <div class="rolename"><a href="/roles/veteran" class="custom-link">Ветеран</a></div>
 <div class="roleimg"><img src="/roles/veteran.png"></div>
@@ -47,7 +47,7 @@ dateCreated: 2024-09-22T08:37:21.006Z
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Обучайте и помогайте новичкам отдела СБ.</div>  
 </div>
-
+-->
 <div class="role">
 <div class="rolename"><a href="/roles/detective" class="custom-link">Детектив</a></div>
 <div class="roleimg"><img src="/roles/detective.png"></div>
