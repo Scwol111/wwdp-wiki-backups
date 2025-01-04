@@ -2,7 +2,7 @@
 title: Бусти команды
 description: Здесь вы можете поддержать людей из стаффа, которые завели свой бусти.
 published: true
-date: 2024-12-28T20:12:52.234Z
+date: 2025-01-04T11:52:44.495Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -30,11 +30,6 @@ dateCreated: 2024-10-31T07:49:55.557Z
       <td><a href="https://github.com/Spatison">Spatison</a></td>
       <td><a href="https://boosty.to/spatison">boosty.to/spatison</a></td>
       <td>Один из самых активных кодеров WWDP.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/PuroSlavKing">PuroSlavKing</a></td>
-      <td><a href="https://boosty.to/puroslavking">boosty.to/puroslavking</a></td>
-      <td>Ну... Он кодер, что-то кодит. Наверное...</td>
     </tr>
   </table>
 </div>
