@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: false
-date: 2025-01-02T12:17:57.865Z
+date: 2025-01-04T14:46:05.366Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
@@ -17,23 +17,37 @@ dateCreated: 2024-12-29T06:47:46.338Z
     <button class="nav-link">Юстиция</button>
   </div>
   <!--  -->
-  <div class="nav-panel__tab-panels br-child padding-bl">
+  <div class="nav-panel__tab-panels br-child padding-bl br-child">
     <div class="tab-panel">
       <a class="tab-panel__item">
-        <span>Взаимодействия</span>
-        <img src="/passenger.png"/>
+        <div>
+          <span>Взаимодействия</span>
+          <img src="/passenger.png"/>
+        </div>
       </a>
       <a class="tab-panel__item">
-        <span>Коммуникация</span>
-        <img src="/passenger.png"/>
+        <div>
+          <span>Взаимодействия</span>
+          <img src="/passenger.png"/>
+        </div>
       </a>
       <a class="tab-panel__item">
-        <span>Настроение</span>
-        <img src="/passenger.png"/>
+        <div>
+          <span>Взаимодействия</span>
+          <img src="/passenger.png"/>
+        </div>
       </a>
       <a class="tab-panel__item">
-        <span>Настроение</span>
-        <img src="/passenger.png"/>
+        <div>
+          <span>Взаимодействия</span>
+          <img src="/passenger.png"/>
+        </div>
+      </a>
+      <a class="tab-panel__item">
+        <div>
+          <span>Взаимодействия</span>
+          <img src="/passenger.png"/>
+        </div>
       </a>
     </div>
   </div>
