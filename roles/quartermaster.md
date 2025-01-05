@@ -2,7 +2,7 @@
 title: Квартирмейстер
 description: 
 published: true
-date: 2024-09-25T18:05:24.857Z
+date: 2025-01-05T21:30:03.667Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:05:24.857Z
