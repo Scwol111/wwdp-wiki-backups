@@ -2,19 +2,19 @@
 title: Игровые режимы
 description: 
 published: true
-date: 2025-01-02T15:18:18.067Z
+date: 2025-01-05T23:18:24.591Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:34.643Z
 ---
 
-<div><h1 id="игровые-режимы"><a href="#игровые-режимы"></a> Игровые режимы</h1><div>
+<div><h1>Игровые режимы</h1><div>
 
 </div><p><strong>Игровые режимы</strong> - события на станции, контролирующие события в раунде. Они определяют, как будет проходить смена, какие антагонисты будут действовать в раунде, когда они будут действовать и при каких обстоятельствах. Этот список поможет разобраться со всеми существующими игровыми событиями.</p>
 <p>&nbsp;</p><div>
 
 </div><button type="button" class="collapsible">
-<h2 id="секрет" class="toc-header"><a class="toc-anchor" href="#секрет"></a> 
+<h2 class="toc-header"><a class="toc-anchor" href="#секрет"></a> 
     <div class="titleBox" style="margin: 0">
     <img src="/roles/clown_mask.png">
     <span style="margin-left:10px;">Секрет</span>
@@ -26,7 +26,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
 </div><div>
 
 </div><button type="button" class="collapsible">
-<h2 id="предатели" class="toc-header"><a class="toc-anchor" href="#предатели"></a> 
+<h2 class="toc-header"><a class="toc-anchor" href="#предатели"></a> 
     <div class="titleBox" style="margin: 0">
     <img src="/roles/traitor.png">
     <span style="margin-left:10px;">Предатели</span>
@@ -38,12 +38,12 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <li>Минимальное количество участников: 5</li>
   <li>Максимальное количество спец-ролей: 7</li>
 </ul>
-<p><br><a href="/roles/traitor" class="is-internal-link is-valid-page"><strong>Предатель</strong></a> - это режим игры, в котором выбирается несколько членов экипажа в качестве агентов синдиката с целью выполнения от трёх до четырех задач. Цели могут включать в себя: убийство, кражу, защиту и так далее. Заметьте, что у каждого предателя свои индивидуальные цели — они могут кооперироваться с другими предателями на станции, чтобы помочь друг другу выполнить цель. Или же подставить друг-друга, ведь предатель - антагонист-одиночка и ему вовсе не обязательно быть заодно с другими предателями.</p>
+<p><br><a href="/roles/traitor"><strong>Предатель</strong></a> - это режим игры, в котором выбирается несколько членов экипажа в качестве агентов синдиката с целью выполнения от трёх до четырех задач. Цели могут включать в себя: убийство, кражу, защиту и так далее. Заметьте, что у каждого предателя свои индивидуальные цели — они могут кооперироваться с другими предателями на станции, чтобы помочь друг другу выполнить цель. Или же подставить друг-друга, ведь предатель - антагонист-одиночка и ему вовсе не обязательно быть заодно с другими предателями.</p>
 <p>В конце раунда выводится сводка целей агентов, если игрок успешно завершил все свои задания, то он получит <strong>гринтекст</strong> - условную самонаграду за свои старания в виде зеленого текста <strong>Выполнено</strong>.</p>
 </div><div>
 
 </div><button type="button" class="collapsible">
-<h2 id="ядерные-оперативники" class="toc-header"><a class="toc-anchor" href="#ядерные-оперативники"></a> 
+<h2 class="toc-header"><a class="toc-anchor"></a> 
     <div class="titleBox" style="margin: 0">
     <img src="/roles/nuclearoperative.png">
     <span style="margin-left:10px;">Ядерные оперативники</span>
@@ -55,7 +55,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <li>Минимальное количество игроков при старте раунда: 15</li>
   <li>Максимальное количество спец-ролей: 6</li>
 </ul>
-<p><br><a href="/roles/nuclearoperative" class="is-internal-link is-valid-page"><strong>Отряд ядерных оперативников</strong></a>, элитные бойцы террористического объединения Синдикат вооружаются до зубов пулеметами, снайперскими винтовками, гранатами и ракетометами и отправляются на станции, на своем бронированном и защищенном турелями шаттле. Целью оперативников является уничтожения станции при помощи <strong>ядерной боеголовки</strong>, запасливо оставленной на рабочем шаттле ядерщиков. Для ее взведения требуется специальный <strong>диск ядерной аутентификации</strong>, находящийся на станции.</p>
+<p><br><a href="/roles/nuclearoperative"><strong>Отряд ядерных оперативников</strong></a>, элитные бойцы террористического объединения Синдикат вооружаются до зубов пулеметами, снайперскими винтовками, гранатами и ракетометами и отправляются на станции, на своем бронированном и защищенном турелями шаттле. Целью оперативников является уничтожения станции при помощи <strong>ядерной боеголовки</strong>, запасливо оставленной на рабочем шаттле ядерщиков. Для ее взведения требуется специальный <strong>диск ядерной аутентификации</strong>, находящийся на станции.</p>
 <p>Целью экипажа является обнаружение оперативников и защита диска, который со старта раунда находится у <a href="/roles/captain" class="is-internal-link is-valid-page">капитана</a>. В ходе противостояния количественно превосходящих, но уступающих по качеству экипировки членов экипажа и малочисленных, но тяжело вооруженных ядерных оперативников разворачиваются события раунде, что обычно занимает не больше, чем 30 минут.</p>
 </div><div>
 
@@ -76,7 +76,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
 </div><div>-->
 
 </div><button type="button" class="collapsible">
-<h2 id="нулевой-пациент" class="toc-header"><a class="toc-anchor" href="#нулевой-пациент"></a> 
+<h2 class="toc-header"><a class="toc-anchor"></a> 
     <div class="titleBox" style="margin: 0">
     <img src="/roles/patientzero.png">
     <span style="margin-left:10px;">Нулевой пациент</span>
@@ -88,12 +88,12 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <li>Минимальное количество игроков на начало раунда: 20</li>
   <li>Максимальное количество спец-ролей: 6</li>
 </ul>
-<p><br><a href="/roles/patientzero" class="is-internal-link is-valid-page"><strong>Нулевой пациент</strong></a> - режим, в котором на станцию прибывают несколько зараженных <strong>зомби-вирусом</strong> членов экипажа. По прошествию некоторого времени они превращаются в полноценных ходячих мертвецов и на станции начинается настоящая эпидемия. Каждую минуту несколько членов экипажа обращаются в зомби, кусают других зазевавшихся космонавтиков и те также обращаются в зомби, разгоняя машину по аннигиляции станции.</p>
-<p>Во время этого <a href="/roles/securityservicedepartment" class="is-internal-link is-valid-page">Служба Безопасности</a> и храбрые добровольцы вооружаются и отправляются на отпор зеленой угрозе. <a href="/roles/medicaldepartment" class="is-internal-link is-valid-page">Медики</a> синтезируют лекарство от вируса, а <a href="/roles/engineeringdepartment" class="is-internal-link is-valid-page">инженеры</a> баррикадируют отдел.</p>
+<p><br><a href="/roles/patientzero"><strong>Нулевой пациент</strong></a> - режим, в котором на станцию прибывают несколько зараженных <strong>зомби-вирусом</strong> членов экипажа. По прошествию некоторого времени они превращаются в полноценных ходячих мертвецов и на станции начинается настоящая эпидемия. Каждую минуту несколько членов экипажа обращаются в зомби, кусают других зазевавшихся космонавтиков и те также обращаются в зомби, разгоняя машину по аннигиляции станции.</p>
+<p>Во время этого <a href="/roles/securityservicedepartment">Служба Безопасности</a> и храбрые добровольцы вооружаются и отправляются на отпор зеленой угрозе. <a href="/roles/medicaldepartment">Медики</a> синтезируют лекарство от вируса, а <a href="/roles/engineeringdepartment">инженеры</a> баррикадируют отдел.</p>
 </div><div>
 
 </div><button type="button" class="collapsible">
-<h2 id="культ" class="toc-header"><a class="toc-anchor" href="#культ"></a> 
+<h2 class="toc-header"><a class="toc-anchor"></a> 
     <div class="titleBox" style="margin: 0">
     <img src="/roles/cultist.gif">
     <span style="margin-left:10px;">Культ</span>
@@ -105,7 +105,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <li>Минимальное количество игроков на начало раунда: 20</li>
   <li>Максимальное количество спец-ролей: 4</li>
 </ul>
-<p><br><a href="/roles/cultist" class="is-internal-link is-valid-page">Культ</a> - режим, в котором сектантам нужно призвать древнего бога кровопролития и разрушения - Нар'Си! В этом им поможет знание магии крови. Однако не только это необходимо нашим тёмным магам, также им нужны верные товарищи. С помощью кровавых ритуалов фанатики смогут вербовать в свои ряды обычных членов экипажа(без импланта разума) и тем самым набирать сторонников. Запомните детишки: "чем больше культ, тем легче вызвать Нар'Си".</p>
+<p><br><a href="/roles/cultist">Культ</a> - режим, в котором сектантам нужно призвать древнего бога кровопролития и разрушения - Нар'Си! В этом им поможет знание магии крови. Однако не только это необходимо нашим тёмным магам, также им нужны верные товарищи. С помощью кровавых ритуалов фанатики смогут вербовать в свои ряды обычных членов экипажа(без импланта разума) и тем самым набирать сторонников. Запомните детишки: "чем больше культ, тем легче вызвать Нар'Си".</p>
 <p>У режима культа есть два исхода:</p>
 <ul>
   <li>Убийство всех культистов.</li>
@@ -114,7 +114,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
 </div><div>
 
 </div><button type="button" class="collapsible">
-<h2 id="революция" class="toc-header"><a class="toc-anchor" href="#революция"></a> 
+<h2 class="toc-header"><a class="toc-anchor"></a> 
     <div class="titleBox" style="margin: 0">
     <img src="/roles/revolution.png">
     <span style="margin-left:10px;">Революция</span>
@@ -126,11 +126,11 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <li>Минимальное количество игроков на начало раунда: 20</li>
   <li>Максимальное количество спец-ролей: 5(на каждые 10 человек по одному главе революционеров и так до пяти)</li>
 </ul>
-<p><br><a href="/roles/revolution" class="is-internal-link is-valid-page">Революция</a> - режим, в котором на станцию прибывают несколько революционеров. Цель же их заключается в том, чтобы завлечь к себе максимальное количество людей и убить всех глав. Вербуют они при помощи флешек, мятежникам нужно ударить флешкой человека без импланта защиты разума и вуаля, боевая единица способная рвать и метать готова!</p>
+<p><br><a href="/roles/revolution">Революция</a> - режим, в котором на станцию прибывают несколько революционеров. Цель же их заключается в том, чтобы завлечь к себе максимальное количество людей и убить всех глав. Вербуют они при помощи флешек, мятежникам нужно ударить флешкой человека без импланта защиты разума и вуаля, боевая единица способная рвать и метать готова!</p>
 <p>У режима революция есть два исхода:</p>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=dIbJuJbR5_E" class="is-external-link">Победа революции</a>. Главы убиты. Революционеры смогли свергнуть правящий режим. Если раунд не закончился, попробуй установить свой правящий режим!</li>
-  <li><a href="https://www.youtube.com/watch?v=C4RkHNgUcxM" class="is-external-link">Поражение революции</a>. Лоялисты смогли остановить красную угрозу. Безопасность станции снова восстановлена. Слава НТ!</li>
+  <li><a href="https://www.youtube.com/watch?v=dIbJuJbR5_E">Победа революции</a>. Главы убиты. Революционеры смогли свергнуть правящий режим. Если раунд не закончился, попробуй установить свой правящий режим!</li>
+  <li><a href="https://www.youtube.com/watch?v=C4RkHNgUcxM">Поражение революции</a>. Лоялисты смогли остановить красную угрозу. Безопасность станции снова восстановлена. Слава НТ!</li>
 </ul>
 </div><div>  
 
@@ -156,7 +156,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
 </div><div>-->  
 
 </div><button type="button" class="collapsible">
-<h2 id="революция" class="toc-header"><a class="toc-anchor" href="#революция"></a> 
+<h2 class="toc-header"><a class="toc-anchor"></a> 
     <div class="titleBox" style="margin: 0">
     <img src="/coffe.png">
     <span style="margin-left:10px;">Расширенный</span>
@@ -164,11 +164,11 @@ dateCreated: 2024-09-10T19:07:34.643Z
 </h2>
 </button>
 <div class="content">
-<p><strong>Расширенный</strong> - это запасной режим игры, выбираемый в результате невозможности выбора режима из-за нехватки игроков. В расширенном режиме нет каких-либо антагонистов, кроме <a href="#список-случайных-ивентов">обычных случайных событий</a>.</p>
+<p><strong>Расширенный</strong> - это запасной режим игры, выбираемый в результате невозможности выбора режима из-за нехватки игроков. В расширенном режиме нет каких-либо антагонистов, кроме <a>обычных случайных событий</a>.</p>
 </div><div>
   
 </div><button type="button" class="collapsible">
-<h2 id="революция" class="toc-header"><a class="toc-anchor" href="#революция"></a> 
+<h2 class="toc-header"><a class="toc-anchor"></a> 
     <div class="titleBox" style="margin: 0">
     <img src="/spade.png">
     <span style="margin-left:10px;">Песочница</span>
@@ -180,18 +180,18 @@ dateCreated: 2024-09-10T19:07:34.643Z
 </div>
 <p></p><div>
 
-</div><h1 id="список-случайных-ивентов" class="toc-header"><a class="toc-anchor" href="#список-случайных-ивентов"></a> Список случайных ивентов</h1><div>
+</div><h1 class="toc-header"><a class="toc-anchor"></a> Список случайных ивентов</h1><div>
 
 </div><p>
 Список случайных ивентов, которые могут произойти в течение раунда. Сопутствующие им оповещения с описанием ситуации дадут понять, какой именно ивент происходит в данный момент.
 </p><div>
 
 </div><button type="button" class="collapsible">
-  <h2 id="обыденные-ивенты" class="toc-header"><a class="toc-anchor" href="#обыденные-ивенты"></a> Обыденные ивенты</h2>
+  <h2 class="toc-header"><a class="toc-anchor"></a> Обыденные ивенты</h2>
 </button>
 <div class="content">
   
-  <h3 id="бюрократическая-ошибка" class="toc-header"><a class="toc-anchor" href="#бюрократическая-ошибка"></a> Бюрократическая ошибка</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Бюрократическая ошибка</h3>
   <p>
     <strong>
   	В результате бюрократической ошибки в отделе органических ресурсов на станции может образоваться нехватка персонала в одних отделах и избыток персонала в других.
@@ -201,7 +201,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
     У вас может как добавиться несколько капитанов, так и убраться несколько учёных из меню выбора ролей.
   </p>
   
-  <h3 id="существо-с-сознанием" class="toc-header"><a class="toc-anchor" href="#существо-с-сознанием"></a> Существо с сознанием</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Существо с сознанием</h3>
   <p>
     <strong>
       Опираясь на наше всемогущество, мы полагаем что несколько существ обрели интеллект уровня обезьяны, а также способность к общению.
@@ -221,7 +221,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   	Несколько человек из экипажа подхватят одну из болезней, если экипажа не хватит, то несколько животных подхватят эту болезнь.
   </p>
   -->
-  <h3 id="ложная-тревога" class="toc-header"><a class="toc-anchor" href="#ложная-тревога"></a> Ложная тревога</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Ложная тревога</h3>
   <p>
     <strong>
       Использует сообщение с других событий.
@@ -231,7 +231,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   	Во время этого события происходит ровным счётом ничего, но появляется уведомление с других событий.
   </p>
   
-  <h3 id="электрическая-аномалия" class="toc-header"><a class="toc-anchor" href="#электрическая-аномалия"></a> Электрическая аномалия</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Электрическая аномалия</h3>
   <p>
     <strong>
       Обнаружена аномальная активность в сети электропитания станции. В качестве меры предосторожности питание станции будет отключено на неопределённый срок.
@@ -241,7 +241,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   	На протяжении минуты всё электричество на станции отключается.
   </p>
   
-  <h3 id="выплачивание-зарплат-экипажу" class="toc-header"><a class="toc-anchor" href="#выплачивание-зарплат-экипажу">¶</a> Выплачивание зарплат экипажу</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Выплачивание зарплат экипажу</h3>
   <p>
     <strong>
       Внимание! Экипажу станции была выплачена заработная плата.
@@ -256,7 +256,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
 
 </div><button type="button" class="collapsible">
 
-  <h2 id="средние-ивенты" class="toc-header"><a class="toc-anchor" href="#средние-ивенты"></a> Средние ивенты</h2>
+  <h2 class="toc-header"><a class="toc-anchor"></a> Средние ивенты</h2>
 </button>
 <div class="content">
 
@@ -271,7 +271,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <p>
     Уровень сияния повышается примерно на 200Ψ.
   </p>
- <h3 id="бюрократическая-ошибка" class="toc-header"><a class="toc-anchor" href="#бюрократическая-ошибка"></a> Вторжение ксеноморфов</h3>
+ <h3 class="toc-header"><a class="toc-anchor"></a> Вторжение ксеноморфов</h3>
   <p>
     <strong>
   	Подтверждено, что на станции замечены враждебные инопланетные существа. Персоналу рекомендуется вооружиться, забаррикадировать двери и при необходимости защищаться. Службе Безопасности рекомендуется ликвидировать угрозу как можно скорее.
@@ -280,7 +280,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <p>
     На станции появляется целый рой ксеноморфов — десять особей.
   </p>
-  <h3 id="бюрократическая-ошибка" class="toc-header"><a class="toc-anchor" href="#бюрократическая-ошибка"></a> Канцелярская ошибка</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Канцелярская ошибка</h3>
   <p>
     <strong>
   	Небольшая канцелярская ошибка в отделе органических ресурсов привела к окончательному уничтожению некоторых записей станци.
@@ -289,7 +289,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <p>
     Некоторые члены экипажа исчезают из всех доступных источников информации, например из манифеста экипажа и консоли криминальных записей.
   </p>
-  <h3 id="скелеты-в-шкафу" class="toc-header"><a class="toc-anchor" href="#скелеты-в-шкафу"></a> Прослушка</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Прослушка</h3>
   <p>
     <strong>
       Идёт без оповещения.
@@ -298,7 +298,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <p>
     Рядом со станцией организуется пост прослушивания синдиката, где <a href="/roles/listening_post_operative">радисты</a> отслеживают переговоры на станции и координируют действия членов синдиката, находящихся там.
   </p>
-  <h3 id="скелеты-в-шкафу" class="toc-header"><a class="toc-anchor" href="#скелеты-в-шкафу"></a> Скелеты в шкафу</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Скелеты в шкафу</h3>
   <p>
     <strong>
       Идёт без оповещения.
@@ -308,7 +308,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <p>
     В случайных шкафах станции появляються скелеты, за которых может зайти любой игрок ставший <a href="/roles/ghost" class="is-internal-link is-valid-page">призраком</a>.
   </p>
-	<h3 id="нашествие-вредителей" class="toc-header"><a class="toc-anchor" href="#нашествие-вредителей"></a> Нашествие вредителей</h3>
+	<h3 class="toc-header"><a class="toc-anchor"></a> Нашествие вредителей</h3>
   <p>
     <strong>
   		Идёт без оповещения.
@@ -317,7 +317,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <p>
     Мыши или паучки появляются в случайной локации на станции. Мыши в целом безвредны, но паучки представляют серьезную опасность для здоровья экипажа и целостности станции.
   </p>
-  <h3 id="утечка-газа" class="toc-header"><a class="toc-anchor" href="#утечка-газа"></a> Утечка газа</h3>
+  <h3 class="toc-header"><a class="toc-anchor" ></a> Утечка газа</h3>
   <p>
     <strong>
   		Внимание экипажу, на станции произошла утечка газа. Мы советуем вам избегать зоны аварии и носить кислородные маски.
@@ -326,7 +326,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <p>
     Один из нескольких газов появляется в одной из комнат на станции.
   </p>
-  <h3 id="метеориты" class="toc-header"><a class="toc-anchor" href="#метеориты"></a> Метеориты</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Метеориты</h3>
   <p>
     <strong>
   		Рой метеоритов пересекает курс станции. Приготовитесь к столкновению.
@@ -335,7 +335,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <p>
     В станцию влетает метеорный дождь, который слегка лупит станцию, образуя несколько мелких брешей.
   </p>
-  <h3 id="кудзу" class="toc-header"><a class="toc-anchor" href="#кудзу"></a> Кудзу</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Кудзу</h3>
   <p>
     <strong>
   		Идёт без оповещения.
@@ -344,7 +344,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <p>
     На станции появляется растение кудзу, которое растёт с сумасшедшей скоростью.
   </p>
-  <h3 id="выброс-содержимого" class="toc-header"><a class="toc-anchor" href="#выброс-содержимого"></a> Выброс содержимого</h3>
+  <h3 class="toc-header"><a class="toc-anchor" ></a> Выброс содержимого</h3>
   <p>
     <strong>
   		Сеть скрубберов испытывает выброс обратного давления. Может произойти выброс некоторого количества содержимого.
@@ -353,7 +353,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <p>
     Некоторые скрубберы выбрасывают своё содержимое, они могут выбросить как и космическую смазку, так и один из сильных токсинов.
   </p>
-  <h3 id="нашествие-паразитов" class="toc-header"><a class="toc-anchor" href="#нашествие-паразитов"></a> Нашествие паразитов</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Нашествие паразитов</h3>
   <p>
     <strong>
       Внимание. В вентиляционных системах станции обнаружен наплыв неизвестных форм жизни.
@@ -361,48 +361,48 @@ dateCreated: 2024-09-10T19:07:34.643Z
     </strong>
   </p>
   <p>
-    На станции повляются таракано-моли или <a href="/roles/corticalBorer" class="is-internal-link is-valid-page">мозговые черви</a> за которых могут зайти игроки.
+    На станции повляются таракано-моли или <a href="/roles/corticalBorer">мозговые черви</a> за которых могут зайти игроки.
   </p>
   
 </div><div>
 
 </div><button type="button" class="collapsible">
-  <h2 id="крупные-ивенты" class="toc-header"><a class="toc-anchor" href="#крупные-ивенты">¶</a> Крупные ивенты</h2>
+  <h2 class="toc-header"><a class="toc-anchor" href="#крупные-ивенты"></a> Крупные ивенты</h2>
 </button>
 <div class="content">
-	<h3 id="миграция-мышей" class="toc-header"><a class="toc-anchor" href="#миграция-мышей">¶</a> Миграция мышей</h3>
+	<h3 class="toc-header"><a class="toc-anchor"></a> Миграция мышей</h3>
   <p>
     <strong>
   		Идёт без оповещения.
     </strong>
   </p>
   <p>
-    На станции появляется около 10 мышей и один <a href="/roles/ratking" class="is-internal-link is-valid-page">Крысиный король</a>.
+    На станции появляется около 10 мышей и один <a href="/roles/ratking">Крысиный король</a>.
   </p>
   
-  <h3 id="нашествие-дракона" class="toc-header"><a class="toc-anchor" href="#нашествие-дракона"></a> Нашествие дракона</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Нашествие дракона</h3>
   <p>
     <strong>
   		Идёт без оповещения.
     </strong>
   </p>
   <p>
-    Спавнит на станцию со стороны космоса <a href="/roles/spacedragon" class="is-internal-link is-valid-page">дракона</a>, который уж точно захочет полакомиться экипажем.
+    Спавнит на станцию со стороны космоса <a href="/roles/spacedragon">дракона</a>, который уж точно захочет полакомиться экипажем.
   </p>
 
-  <h3 id="нашествие-дракона" class="toc-header"><a class="toc-anchor" href="#нашествие-дракона"></a>Вспышка зомби вируса</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a>Вспышка зомби вируса</h3>
   <p>
     <strong>
   		Идёт без оповещения.
     </strong>
   </p>
   <p>
-   Один из членов экипажа становится <a href="/roles/patientzero" class="is-internal-link is-valid-page">нулевым пациентом</a>.
+   Один из членов экипажа становится <a href="/roles/patientzero">нулевым пациентом</a>.
   </p>
 
 </div><div>
 
-</div><h1 id="аспекты" class="toc-header"><a class="toc-anchor" href="#аспекты"></a> Аспекты</h1><div>
+</div><h1 class="toc-header"><a class="toc-anchor"></a> Аспекты</h1><div>
 
 </div><p>Аспект это модификатор раунда, который назначается в начале каждого раунда и описан голубым текстом в чате.</p>
 <p>Звук аспекта в начале раунда:</p><div>
@@ -420,10 +420,10 @@ Your browser does not support the audio element.
 </p><div>
 
 </div><button type="button" class="collapsible">
-  <h2 style="color: #698f43" id="частые-аспекты" class="toc-header"><a class="toc-anchor" href="#частые-аспекты"></a> Частые аспекты</h2>
+  <h2 style="color: #698f43"class="toc-header"><a class="toc-anchor"></a> Частые аспекты</h2>
 </button>
 <div class="content">
-	<h3 id="акценты-вне-контроля" class="toc-header"><a class="toc-anchor" href="#акценты-вне-контроля"></a> Акценты вне контроля</h3>
+	<h3 class="toc-header"><a class="toc-anchor"></a> Акценты вне контроля</h3>
   <p>
     <i>
   		"Всегда интересно, какой акцент вы услышите следующим."
@@ -433,7 +433,7 @@ Your browser does not support the audio element.
     У всех персонажей меняется акцент.
   </p>
   
-  <h3 id="i-have-two-butts-but-i-must-seatпер-у-меня-есть-две-задницы-но-я-должен-сесть" class="toc-header"><a class="toc-anchor" href="#i-have-two-butts-but-i-must-seatпер-у-меня-есть-две-задницы-но-я-должен-сесть"></a> I Have Two Butts But I must Seat(пер. У меня есть две задницы, но я должен сесть)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> I Have Two Butts But I must Seat(пер. У меня есть две задницы, но я должен сесть)</h3>
   <p>
     <i>
   		"Стулья украли!"
@@ -443,7 +443,7 @@ Your browser does not support the audio element.
     На всей станции отсутствуют стулья.
   </p>
   
-  <h3 id="fast-and-furiousпер-форсаж" class="toc-header"><a class="toc-anchor" href="#fast-and-furiousпер-форсаж"></a> Fast and Furious(пер. Форсаж)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Fast and Furious(пер. Форсаж)</h3>
   <p>
     <i>
   		"Люди спешат и не важно куда."
@@ -452,7 +452,7 @@ Your browser does not support the audio element.
   <p>
     Скорость всех персонажей и животных увеличивается в несколько раз.
   </p>
-  <h3 id="random-appearanceпер-случайные-внешности" class="toc-header"><a class="toc-anchor" href="#random-appearanceпер-случайные-внешности"></a> Random appearance(пер. Случайные внешности)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Random appearance(пер. Случайные внешности)</h3>
   <p>
     <i>
   		"Экипаж перестал узнавать друг-друга в лицо."
@@ -461,7 +461,7 @@ Your browser does not support the audio element.
   <p>
     У всех персонажей меняется облик, голос и имя. (В связи с этим могут быть баги отображения имени в консоли криминальных записей и в манифесте экипажа.)
   </p>
-  <h3 id="danceпер-танцуем" class="toc-header"><a class="toc-anchor" href="#danceпер-танцуем"></a> Dance(пер. Танцуем)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Dance(пер. Танцуем)</h3>
   <p>
     <i>
   		"Танцуют все!"
@@ -470,7 +470,7 @@ Your browser does not support the audio element.
   <p>
     Все персонажи начинают танцевать и делать сальто без остановки.
   </p>
-  <h3 id="drunkпер-пьяный" class="toc-header"><a class="toc-anchor" href="#drunkпер-пьяный"></a> Drunk(пер. Пьяный)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Drunk(пер. Пьяный)</h3>
   <p>
     <i>
   		"На станции стоит явный запах вчерашнего веселья... и кажется оно только начинается."
@@ -479,7 +479,7 @@ Your browser does not support the audio element.
   <p>
     Во время раунда у персонажей появляется эффект алкогольного опьянения.
   </p>
-  <h3 id="cat-ears-and-tailпер-кошачьи-уши-и-хвост" class="toc-header"><a class="toc-anchor" href="#cat-ears-and-tailпер-кошачьи-уши-и-хвост"></a> Cat Ears And Tail(пер. Кошачьи уши и хвост)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Cat Ears And Tail(пер. Кошачьи уши и хвост)</h3>
   <p>
     <i>
   		"Мяукайте."
@@ -488,7 +488,7 @@ Your browser does not support the audio element.
   <p>
     Дает всем хвост и ушки.
   </p>
-  <h3 id="are-we-in-dungeonпер-мы-что-в-подземелье" class="toc-header"><a class="toc-anchor" href="#are-we-in-dungeonпер-мы-что-в-подземелье"></a> Are We In Dungeon(пер. Мы что, в подземелье?)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Are We In Dungeon(пер. Мы что, в подземелье?)</h3>
   <p>
     <i>
   		"В связи с невероятной хрупкостью окон было решено заменить их на стены."
@@ -497,7 +497,7 @@ Your browser does not support the audio element.
   <p>
     Все окна (кроме направленных) становятся стенами.
   </p>
-  <h3 id="stolen-floorпер-украденный-пол" class="toc-header"><a class="toc-anchor" href="#stolen-floorпер-украденный-пол"></a> Stolen Floor(пер. Украденный пол)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Stolen Floor(пер. Украденный пол)</h3>
   <p>
     <i>
   		"Рабочие забыли положить плитку при строительстве станции."
@@ -510,10 +510,10 @@ Your browser does not support the audio element.
 </div><div>
 
 </div><button type="button" class="collapsible">
-  <h2 style="color: #a69b38" id="редкие-аспекты" class="toc-header"><a class="toc-anchor" href="#редкие-аспекты"></a> Редкие аспекты</h2>
+  <h2 style="color: #a69b38" class="toc-header"><a class="toc-anchor"></a> Редкие аспекты</h2>
 </button>
 <div class="content">
-	<h3 id="weak-wallsпер-слабые-стены" class="toc-header"><a class="toc-anchor" href="#weak-wallsпер-слабые-стены"></a> Weak Walls(пер. Слабые стены)</h3>
+	<h3 class="toc-header"><a class="toc-anchor"></a> Weak Walls(пер. Слабые стены)</h3>
   <p>
     <i>
   		"На стенах явно экономили."
@@ -522,7 +522,7 @@ Your browser does not support the audio element.
   <p>
     Стены стали хрупче в несколько раз.
   </p>
-  <h3 id="no-engineпер-нет-генераторов" class="toc-header"><a class="toc-anchor" href="#no-engineпер-нет-генераторов"></a> No engine(пер. Нет генераторов)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> No engine(пер. Нет генераторов)</h3>
   <p>
     <i>
   		"Какой-то смышлённый агент синдиката решил украсть все ваши генераторы энергии целиком."
@@ -531,7 +531,7 @@ Your browser does not support the audio element.
   <p>
     На всей станции отсутствуют генераторы.
   </p>
-  <h3 id="airunlockпер-разблокировка-шлюзов" class="toc-header"><a class="toc-anchor" href="#airunlockпер-разблокировка-шлюзов"></a> Airunlock(пер. Разблокировка шлюзов)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Airunlock(пер. Разблокировка шлюзов)</h3>
   <p>
     <i>
   		"Кого волнует безопасность? Экипаж свободно может ходить по всем отсекам, ведь все шлюзы теперь для них доступны."
@@ -540,7 +540,7 @@ Your browser does not support the audio element.
   <p>
     Все шлюзы теперь не требуют доступ к ним.
   </p>
-  <h3 id="presentsпер-подарки" class="toc-header"><a class="toc-anchor" href="#presentsпер-подарки"></a> Presents(пер. Подарки)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Presents(пер. Подарки)</h3>
   <p>
     <i>
   		"А вы верите в Деда Мороза?"
@@ -549,7 +549,7 @@ Your browser does not support the audio element.
   <p>
     По всей станции разбросаны подарки, при открытии которых вам может выпасть любой предмет в игре.
   </p>
-  <h3 id="reflectпер-отражающий" class="toc-header"><a class="toc-anchor" href="#reflectпер-отражающий"></a> Reflect(пер. Отражающий)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Reflect(пер. Отражающий)</h3>
   <p>
     <i>
   		"Ваше отражение повсюду."
@@ -558,7 +558,7 @@ Your browser does not support the audio element.
   <p>
     Все стены, окна и шлюзы отражают пули и лазеры.
   </p>
-  <h3 id="slipperyпер-скользкий" class="toc-header"><a class="toc-anchor" href="#slipperyпер-скользкий"></a> Slippery(пер. Скользкий)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Slippery(пер. Скользкий)</h3>
   <p>
     <i>
   		"Постарайтесь не поскальзываться!"
@@ -567,7 +567,7 @@ Your browser does not support the audio element.
   <p>
     Увеличивает силу слипов в 2 раза.
   </p>
-  <h3 id="darknessпер-темнота" class="toc-header"><a class="toc-anchor" href="#darknessпер-темнота"></a> Darkness(пер. Темнота)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Darkness(пер. Темнота)</h3>
   <p>
     <i>
   		"Почему все так темно?"
@@ -576,7 +576,7 @@ Your browser does not support the audio element.
   <p>
     Все лампы удалены.
   </p>
-  <h3 id="extra-tcпер-больше-тк" class="toc-header"><a class="toc-anchor" href="#extra-tcпер-больше-тк"></a> Extra TC(пер. Больше ТК)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Extra TC(пер. Больше ТК)</h3>
   <p>
     <i>
   		"Синдикат выделил 10 дополнительных телекристаллов для предателей."
@@ -585,7 +585,7 @@ Your browser does not support the audio element.
   <p>
     Аспект скрытый, то есть в начале раунда вы не узнаете, что он включился.
   </p>
-  <h3 id="cargo-richпер-богатое-карго" class="toc-header"><a class="toc-anchor" href="#cargo-richпер-богатое-карго"></a> Cargo Rich(пер. Богатое карго)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Cargo Rich(пер. Богатое карго)</h3>
   <p>
     <i>
   		"Карго работало усердно в прошлую смену, за что они и были награждены премией в размере 100000 кредитов."
@@ -598,10 +598,10 @@ Your browser does not support the audio element.
 </div><div>
 
 </div><button type="button" class="collapsible">
-  <h2 style="color: #963535" id="очень-редкие-аспекты" class="toc-header"><a class="toc-anchor" href="#очень-редкие-аспекты"></a> Очень редкие аспекты</h2>
+  <h2 style="color: #963535" class="toc-header"><a class="toc-anchor"></a> Очень редкие аспекты</h2>
 </button>
 <div class="content">
-  <h3 id="bombassпер-а-ты-что-ожидал-у-нас-тут-мир-дружба-и-жевачка" class="toc-header"><a class="toc-anchor" href="#bombassпер-а-ты-что-ожидал-у-нас-тут-мир-дружба-и-жевачка">¶</a> Bombass(пер. А ТЫ ЧТО ОЖИДАЛ? У НАС ТУТ МИР, ДРУЖБА И ЖЕВАЧКА)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Bombass(пер. А ТЫ ЧТО ОЖИДАЛ? У НАС ТУТ МИР, ДРУЖБА И ЖЕВАЧКА)</h3>
   <p>
     <i>
   		"Кто-то заложил мины на станции!"
@@ -610,7 +610,7 @@ Your browser does not support the audio element.
   <p>
     По всей станции появляются мины, при контакте с которыми они взрываются.
   </p>
-  <h3 id="traitoredпер-преданный" class="toc-header"><a class="toc-anchor" href="#traitoredпер-преданный"></a> Traitored(пер. Преданный)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Traitored(пер. Преданный)</h3>
   <p>
     <i>
   		"Кто-то сдал всех предателей!"
@@ -627,7 +627,7 @@ Your browser does not support the audio element.
   <source src="/palevo.ogg.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
-  <h3 id="bloodyпер-кровавый" class="toc-header"><a class="toc-anchor" href="#bloodyпер-кровавый"></a> Bloody(пер. Кровавый)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Bloody(пер. Кровавый)</h3>
   <p>
     <i>
   		"В эту смену любая незначительная травма может оказаться летальной."
@@ -636,7 +636,7 @@ Your browser does not support the audio element.
   <p>
     Весь полученный урон умножается на 2.
   </p>
-  <h3 id="weakпер-слабость" class="toc-header"><a class="toc-anchor" href="#weakпер-слабость"></a> Weak(пер. Слабость)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Weak(пер. Слабость)</h3>
   <p>
     <i>
   		"Удары стали слабее. Пули мягче. К чему это приведёт?"
@@ -645,7 +645,7 @@ Your browser does not support the audio element.
   <p>
     Урон от пуль и ударов становится намного меньше.
   </p>
-  <h3 id="battledпер-сражение" class="toc-header"><a class="toc-anchor" href="#battledпер-сражение"></a> Battled(пер. Сражение)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Battled(пер. Сражение)</h3>
   <p>
     <i>
   		"Люди очень насторожены и готовы дать отпор в любую секунду."
@@ -654,7 +654,7 @@ Your browser does not support the audio element.
   <p>
     Каждому персонажу выдаётся случайное оружие.
   </p>
-  <h3 id="skeletonsпер-скелеты" class="toc-header"><a class="toc-anchor" href="#skeletonsпер-скелеты"></a> Skeletons(пер. Скелеты)</h3>
+  <h3 class="toc-header"><a class="toc-anchor"></a> Skeletons(пер. Скелеты)</h3>
   <p>
     <i>
   		"АЧК АЧК!"
