@@ -2,7 +2,7 @@
 title: Суперматерия
 description: 
 published: false
-date: 2025-01-05T16:31:04.081Z
+date: 2025-01-05T16:42:36.677Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-03T15:08:56.390Z
@@ -70,7 +70,7 @@ dateCreated: 2025-01-03T15:08:56.390Z
     </div>
     <div class="step" id="step3">
       <div class="step-text">
-        <h3>3: Фильтр</h3>
+        <h3>3: Фильтр<img src="/guides/supermatter/gasfilter.png"></h3>
         <p>Настраиваем фильтр на "НЕТ" и включаем.</p>
       </div>
       <div class="step-image"><img class="zoomable" src="/guides/supermatter/3.png"></div>
