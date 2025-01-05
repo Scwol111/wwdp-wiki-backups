@@ -2,7 +2,7 @@
 title: Суперматерия
 description: 
 published: false
-date: 2025-01-05T17:07:36.743Z
+date: 2025-01-05T17:08:48.594Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-03T15:08:56.390Z
@@ -77,7 +77,7 @@ dateCreated: 2025-01-03T15:08:56.390Z
     </div>
     <div class="step" id="step4">
       <div class="step-text">
-        <h3>4.1: Воздушная сигнализация<img src="/guides/supermatter/AirAlarm.png"></h3>
+        <h3>4.1: Воздушная сигнализация<img src="/guides/supermatter/airalarm.png"></h3>
         <h4> Первый скруббер<img src="/guides/supermatter/scrubber.png"></h4>
         <p>
           1: Заходим в <span style="color: #3AE2CE">"СКРУББЕРЫ"</span><br>
@@ -91,7 +91,7 @@ dateCreated: 2025-01-03T15:08:56.390Z
     </div>
     <div class="step" id="step5">
       <div class="step-text">
-        <h3>4.2: Воздушная сигнализация<img src="/guides/supermatter/AirAlarm.png"></h3>
+        <h3>4.2: Воздушная сигнализация<img src="/guides/supermatter/airalarm.png"></h3>
         <h4> Второй скруббер<img src="/guides/supermatter/scrubber.png"></h4>
         <p>Активируем <span style="color: #3AE2CE">"OXYGEN"</span></p>
       </div>
@@ -99,7 +99,7 @@ dateCreated: 2025-01-03T15:08:56.390Z
     </div>
     <div class="step" id="step6">
       <div class="step-text">
-        <h3>4.3: Воздушная сигнализация<img src="/guides/supermatter/AirAlarm.png"></h3>
+        <h3>4.3: Воздушная сигнализация<img src="/guides/supermatter/airalarm.png"></h3>
         <h4> Третий скруббер<img src="/guides/supermatter/scrubber.png"></h4>
         <p>Активируем <span style="color: #3AE2CE">"OXYGEN"</span></p>
       </div>
