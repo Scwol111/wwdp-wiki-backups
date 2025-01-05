@@ -2,7 +2,7 @@
 title: Суперматерия
 description: 
 published: false
-date: 2025-01-05T17:08:48.594Z
+date: 2025-01-05T17:12:43.486Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-03T15:08:56.390Z
@@ -107,28 +107,28 @@ dateCreated: 2025-01-03T15:08:56.390Z
     </div>
     <div class="step" id="step7">
       <div class="step-text">
-        <h3>5: Выходной насос</h3>
+        <h3>5: Выходной насос<img src="/guides/supermatter/pumppressureup.png"></h3>
         <p>Выставляем Выходное давление <span style="color:#FFDD00">4500 кПа</span> и включаем</p>
       </div>
       <div class="step-image"><img class="zoomable" src="/guides/supermatter/5.png"></div>
     </div>
     <div class="step" id="step8">
       <div class="step-text">
-        <h3>6: Насос азота</h3>
+        <h3>6: Насос азота<img src="/guides/supermatter/pumppressureleft.png"></h3>
         <p>Выставляем Выходное давление <span style="color:#FFDD00">50 кПа</span> и включаем</p>
       </div>
       <div class="step-image"><img class="zoomable" src="/guides/supermatter/6.png"></div>
     </div>
     <div class="step" id="step9">
       <div class="step-text">
-        <h3>7: Входной насос</h3>
+        <h3>7: Входной насос<img src="/guides/supermatter/pumppressuredown.png"></h3>
         <p>Выставляем Выходное давление <span style="color:#FFDD00">200 кПа</span> и включаем</p>
       </div>
       <div class="step-image"><img class="zoomable" src="/guides/supermatter/7.png"></div>
     </div>
     <div class="step" id="step10">
       <div class="step-text">
-        <h3>8: Поглотители радиации, эмиттеры</h3>
+        <h3>8: Поглотители радиации<img src="/guides/supermatter/radcollector.png">, эмиттеры<img src="/guides/supermatter/emitter.png"></h3>
         <p>Активируем все поглотители энергии и эмиттеры (не забудьте их закрыть на замок)</p>
       </div>
       <div class="step-image"></div>
