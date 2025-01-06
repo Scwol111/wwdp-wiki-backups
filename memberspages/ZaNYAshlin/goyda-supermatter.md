@@ -2,7 +2,7 @@
 title: Суперматерия
 description: 
 published: false
-date: 2025-01-06T15:24:20.231Z
+date: 2025-01-06T15:28:05.833Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-03T15:08:56.390Z
@@ -22,8 +22,9 @@ dateCreated: 2025-01-03T15:08:56.390Z
 
 <blockquote class="is-warning"><p>Не суицидься о Суперматерию в начале раунда! За это можно получить бан.</p></blockquote>
 
-
-<h2 class="pay-attention"><img src="/guides/supermatter/radiation.png" alt="" class="png1"> Обратите внимание <img src="/guides/supermatter/radiation.png" alt="" class="png1"></h2>
+<div>
+  <h2 class="pay-attention"><img src="/guides/supermatter/radiation.png" alt="" class="png1"> Обратите внимание <img src="/guides/supermatter/radiation.png" alt="" class="png1"></h2>
+</div>
 <ol>
   <li>Суперматерия <strong>ОЧЕНЬ ОПАСНА</strong>. Активировать её следует в последнюю очередь.</li>
   <li>Тебе нужна защита: Анти-радиационный костюм.</li>
