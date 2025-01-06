@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2025-01-06T15:22:02.225Z
+date: 2025-01-06T15:25:16.897Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -180,10 +180,10 @@ dateCreated: 2024-11-21T13:23:17.560Z
 
 <div class="operation-container">
         <div class="image-container">
-            <img src="/guides/medicine/surgery/organs/heart-on.gif" class="png1">
+            <img src="/guides/medicine/surgery/organs/brain.png" class="png1">
         </div>
         <div class="description">
-            <h2>Название операции</h2>
-            <p>Описание операции. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque quidem est sit debitis, tempore asperiores dicta!</p>
+            <h2>Лоботомия</h2>
+            <p></p>
         </div>
     </div>
