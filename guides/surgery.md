@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2025-01-06T15:21:27.710Z
+date: 2025-01-06T15:22:02.225Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -180,7 +180,7 @@ dateCreated: 2024-11-21T13:23:17.560Z
 
 <div class="operation-container">
         <div class="image-container">
-            <!-- Здесь будет картинка -->
+            <img src="/guides/medicine/surgery/organs/heart-on.gif" class="png1">
         </div>
         <div class="description">
             <h2>Название операции</h2>
