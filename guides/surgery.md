@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2025-01-06T14:50:23.058Z
+date: 2025-01-06T14:51:34.621Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -181,13 +181,13 @@ dateCreated: 2024-11-21T13:23:17.560Z
 <div class="container">
         <div class="operation-item">
             <div class="image-container">
-                <!-- Здесь будет картинка -->
+                <center><img src="/guides/medicine/surgery/limbgrower_idleoff.png"  class="png2"></center>
             </div>
             <h2>Название операции</h2>
             <button class="show-details">Показать требования</button>
             <div class="details">
                 <ul>
-                    <!-- Сюда добавлять требования -->
+                    [e[q[eq[e[[ew[eq[e[eweqwqewqewqweeqwewqqwewee
                 </ul>
                 <p>Результат: ...</p>
             </div>
