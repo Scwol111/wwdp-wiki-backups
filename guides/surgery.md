@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2025-01-06T15:18:06.614Z
+date: 2025-01-06T15:21:27.710Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -187,12 +187,3 @@ dateCreated: 2024-11-21T13:23:17.560Z
             <p>Описание операции. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque quidem est sit debitis, tempore asperiores dicta!</p>
         </div>
     </div>
-    <button class="requirements-button">Требования</button>
-    <div class="requirements">
-       <ul>
-           <li>Требование 1</li>
-           <li>Требование 2</li>
-           <li>Требование 3</li>
-       </ul>
-    </div>
-
