@@ -1,8 +1,8 @@
 ---
-title: Скелет
+title: Скелет из шкафа
 description: У каждого есть свои скелеты в шкафу...
 published: false
-date: 2025-01-06T00:32:56.697Z
+date: 2025-01-06T00:37:39.327Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-05T21:33:08.768Z
