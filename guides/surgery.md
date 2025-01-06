@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2025-01-06T14:49:34.872Z
+date: 2025-01-06T14:50:23.058Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -178,7 +178,7 @@ dateCreated: 2024-11-21T13:23:17.560Z
 
 ## Операции
 
-    <div class="container">
+<div class="container">
         <div class="operation-item">
             <div class="image-container">
                 <!-- Здесь будет картинка -->
