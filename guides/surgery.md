@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2025-01-06T14:08:20.957Z
+date: 2025-01-06T14:39:16.895Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -178,4 +178,19 @@ dateCreated: 2024-11-21T13:23:17.560Z
 
 ## Операции
 
+<input type="text" id="searchInput" placeholder="Поиск операции...">
+<ul id="surgeryList">
+<li class="surgery-item" data-name="Пересадка сердца" data-requirements="Скальпель, Нитки, Сердце">
+<h3>Пересадка сердца</h3>
+<p>Требования: Скальпель, Нитки, Сердце</p>
+</li>
+<li class="surgery-item" data-name="Ампутация ноги" data-requirements="Пила, Бинты">
+<h3>Ампутация ноги</h3>
+<p>Требования: Пила, Бинты</p>
+</li>
+<li class="surgery-item" data-name="Наложение швов" data-requirements="Нитки, Игла">
+<h3>Наложение швов</h3>
+<p>Требования: Нитки, Игла</p>
+</li>
+</ul>
 
