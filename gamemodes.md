@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: true
-date: 2025-01-06T00:27:11.033Z
+date: 2025-01-06T00:28:17.030Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:34.643Z
@@ -164,7 +164,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
 </h2>
 </button>
 <div class="content">
-<p><strong>Выживание</strong> - Этот игровой режим характеризуется многократным увеличением вероятности появления опасных событий.</p>
+<p><strong>Выживание</strong> - это режим, при котором многократно увеличивается вероятность появления опасных событий.</p>
 </div><div>
 
 </div><button type="button" class="collapsible">
