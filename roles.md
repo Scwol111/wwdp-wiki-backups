@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-01-01T21:19:21.930Z
+date: 2025-01-06T00:39:33.285Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -310,6 +310,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div>Сложно</div>
   <div><a href="/roles/revenant">Ревенант</a><a href="/roles/revenant"><img src="/roles/revenant.gif" /></a></div>
   <div><div>Призрак, что любит кошмарить станцию. Если вы получили информацию, что это существо ходит по станции, то убедительная просьба НЕ ХОДИТЬ ПО ОДНОМУ.</div></div>
+  <div>Средне</div>
+  <div><a href="/roles/skeletonfromcloset">Скелет из шкафа</a><a href="/roles/skeletonfromcloset"><img src="/roles/skeleton.png" /></a></div>
+  <div><div>Скелет, который появляется в шкафу. Не закрывайте шкафы.</div></div>
   <div>Средне</div>
   <div><a href="/roles/ratking">Крысиный Король</a><a href="/roles/ratking"><img src="/roles/ratking.png" /></a></div>
   <div><div>Очень большая и злая крыса. Ну хотя бы не переносит чуму.. Но еду свою поберегите.</div></div>
