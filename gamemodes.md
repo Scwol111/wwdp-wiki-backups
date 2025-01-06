@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: true
-date: 2025-01-05T23:18:24.591Z
+date: 2025-01-06T00:27:11.033Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:34.643Z
@@ -154,6 +154,18 @@ dateCreated: 2024-09-10T19:07:34.643Z
   <li>Если маг завершает свои цели, маг выигрывает.</li>
 </ul>
 </div><div>-->  
+
+</div><button type="button" class="collapsible">
+<h2 class="toc-header"><a class="toc-anchor"></a> 
+    <div class="titleBox" style="margin: 0">
+    <img src="/survivalist.gif">
+    <span style="margin-left:10px;">Выживание</span>
+    </div>
+</h2>
+</button>
+<div class="content">
+<p><strong>Выживание</strong> - Этот игровой режим характеризуется многократным увеличением вероятности появления опасных событий.</p>
+</div><div>
 
 </div><button type="button" class="collapsible">
 <h2 class="toc-header"><a class="toc-anchor"></a> 
