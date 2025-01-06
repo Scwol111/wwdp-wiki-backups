@@ -2,7 +2,7 @@
 title: Скелет
 description: У каждого есть свои скелеты в шкафу...
 published: false
-date: 2025-01-06T00:29:54.091Z
+date: 2025-01-06T00:30:55.016Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-05T21:33:08.768Z
