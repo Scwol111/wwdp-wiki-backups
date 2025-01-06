@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2024-12-26T11:14:49.017Z
+date: 2025-01-06T14:08:20.957Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -176,6 +176,6 @@ dateCreated: 2024-11-21T13:23:17.560Z
 
 ## Анатомия 
 
-
+## Операции
 
 
