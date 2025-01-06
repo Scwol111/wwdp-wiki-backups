@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2025-01-06T15:07:39.441Z
+date: 2025-01-06T15:10:26.609Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -177,17 +177,18 @@ dateCreated: 2024-11-21T13:23:17.560Z
 ## Анатомия 
 
 ## Операции
-
+<p>
 <div class="operation-container">
   <div class="operation-content">
     <div class="operation-image">
-       <!-- Здесь будет картинка -->
+       <img src="/guides/medicine/surgery/organs/brain.png" class="png1">
     </div>
     <div class="operation-info">
-      <div class="operation-title">Название операции</div>
-      <div class="operation-description">Описание операции. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
+      <div class="operation-title">Лоботомия</div>
+      <div class="operation-description">Как у тебя.</div>
     </div>
   </div>
+<p><p>
   <button class="requirements-button">Требования</button>
   <ul class="requirements-list">
     <li>Требование 1</li>
