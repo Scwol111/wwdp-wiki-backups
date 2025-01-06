@@ -2,7 +2,7 @@
 title: Скелет из шкафа
 description: У каждого есть свои скелеты в шкафу...
 published: true
-date: 2025-01-06T09:26:52.836Z
+date: 2025-01-06T13:40:19.457Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-05T21:33:08.768Z
@@ -27,7 +27,7 @@ dateCreated: 2025-01-05T21:33:08.768Z
 </div>
 </div>
 
-<h2><img src="/roles/antagonists/wardrobe.png">Появление</h2>
+<h2><img src="/roles/antagonists/clothet_skeleton.gif">Появление</h2>
 
 Скелет появляется после случайного <a href="/gamemodes">события</a>, которое не объявляется, как большинство остальных. Оно может произойти в любом раунде и в любой момент, после чего в случайных шкафах станции появятся эти скелеты.<br>
 Играть за него возможно, если найти его в панели <b><a href="/roles/spiritualisticdepartment">Роли призраков</a></b>, будучи <a href="/roles/ghost">Призраком</a>, и успеть вселиться быстрее других игроков.
