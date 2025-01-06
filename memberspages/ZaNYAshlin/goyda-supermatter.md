@@ -2,7 +2,7 @@
 title: Суперматерия
 description: 
 published: false
-date: 2025-01-06T15:39:53.206Z
+date: 2025-01-06T15:41:13.493Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-03T15:08:56.390Z
@@ -129,7 +129,7 @@ dateCreated: 2025-01-03T15:08:56.390Z
     </div>
     <div class="step" id="step10">
       <div class="step-text">
-        <h3>8: Поглотители радиации<img style="vertical-align:middle" src="/guides/supermatter/radcollector.png">, эмиттеры<img src="/guides/supermatter/emitter.png"></h3>
+        <h3>8: Поглотители радиации<img style="vertical-align:middle" src="/guides/supermatter/radcollector.png">, эмиттеры<img style="vertical-align:middle" src="/guides/supermatter/emitter.png"></h3>
         <p>Активируем все поглотители энергии и эмиттеры (не забудьте их закрыть на замок)</p>
       </div>
       <div class="step-image"></div>
