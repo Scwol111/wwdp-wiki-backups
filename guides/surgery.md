@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2025-01-06T15:25:58.751Z
+date: 2025-01-06T15:26:32.990Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -184,6 +184,6 @@ dateCreated: 2024-11-21T13:23:17.560Z
         </div>
         <div class="description">
             <h2>Лоботомия</h2>
-            <p></p>
+            <p>Ну короче хуем по лбу дают, и выходит брейнрот акцент.</p>
         </div>
     </div>
