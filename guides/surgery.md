@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2025-01-06T15:11:09.288Z
+date: 2025-01-06T15:12:20.648Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -177,7 +177,6 @@ dateCreated: 2024-11-21T13:23:17.560Z
 ## Анатомия 
 
 ## Операции
-<p>
 <div class="operation-container">
   <div class="operation-content">
     <div class="operation-image">
@@ -188,9 +187,7 @@ dateCreated: 2024-11-21T13:23:17.560Z
       <div class="operation-description">Как у тебя.</div>
     </div>
   </div>
-<p><p>
-  <button class="requirements-button">Требования</button>
-  <ul class="requirements-list">
+  <button class="requirements-button">Требования</button> <ul class="requirements-list">
     <li>Требование 1</li>
     <li>Требование 2</li>
     <li>Требование 3</li>
