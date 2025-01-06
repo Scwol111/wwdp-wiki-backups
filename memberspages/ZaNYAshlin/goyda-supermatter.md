@@ -2,7 +2,7 @@
 title: Суперматерия
 description: 
 published: false
-date: 2025-01-06T16:29:12.345Z
+date: 2025-01-06T16:34:33.385Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-03T15:08:56.390Z
@@ -10,7 +10,7 @@ dateCreated: 2025-01-03T15:08:56.390Z
 
 <h1>Суперматерия</h1>
 <h2>Введение</h2>
-
+<h4>Гойда</h4>
 
 <div class="imageBox">
   <img src="/guides/supermatter/supermatter.png" width="128px">
