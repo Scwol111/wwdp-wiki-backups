@@ -2,7 +2,7 @@
 title: Космический Закон
 description: Правила нахождения персонала на станции. КЗ, Космический закон.
 published: true
-date: 2024-12-26T16:11:31.569Z
+date: 2025-01-08T13:53:30.738Z
 tags: сб
 editor: markdown
 dateCreated: 2024-09-10T19:07:45.005Z
@@ -302,7 +302,7 @@ dateCreated: 2024-09-10T19:07:45.005Z
       </tr>
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s201">201</th>
-        <th style="background-color:#a69b38;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law201.png" alt="law201.png"></th>
+        <th style="background-color:#a69b38;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law201.png" alt="law201.png" class="zoomable"></th>
         <th style="background-color:#a69b38; color:white;"><b>Легкие телесные повреждения</b></th>
         <th style="background-color:#a69b38; color:white;">Нанесение легких повреждений сотруднику.<br>Повреждение: 25-49</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Мим не остановился на одном ударе и разбил лицо уборщика до кровавых соплей.</th>
