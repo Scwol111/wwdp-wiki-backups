@@ -2,14 +2,13 @@
 title: Судебные заседания
 description: 
 published: false
-date: 2025-01-08T16:34:15.423Z
+date: 2025-01-08T16:36:20.713Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-06T11:49:19.027Z
 ---
 
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/X82lgafM0h8?si=8JMBDgNn5LEsTba_"></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/X82lgafM0h8?si=8JMBDgNn5LEsTba_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 > На этой странице представлены стандартные руководящие принципы и процедуры на борту станции, но они не прописаны в законе; имейте в виду, что в случае крайней необходимости командир или определенные лица имеют право временно изменять текущую СОП по своему усмотрению, рискуя получить уголовное наказание в случае неправильного использования или злоупотребления! Обязательно ознакомьтесь с процедурой оповещения, чтобы узнать рекомендации, которые меняются в зависимости от текущего уровня оповещения.
 {.is-info}
