@@ -2,7 +2,7 @@
 title: Суперматерия
 description: 
 published: false
-date: 2025-01-09T14:17:10.146Z
+date: 2025-01-09T14:18:21.088Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-03T15:08:56.390Z
@@ -32,15 +32,9 @@ dateCreated: 2025-01-03T15:08:56.390Z
   <li>Из всех доступных на станции средств защиты, только анти-радиационный костюм и скафандр <a href="/roles/chiefengineer">старшего инженера</a> имеют полную защиту от радиации.</li>
 </ol>
 <!--Видео не отображается-->
-
+<!--
 <h2>Видео-гайд</h2><br>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/X82lgafM0h8?si=XFt2p9Y2qSdaGTpr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-<!--
-Добавить заголовкам этапов картинки
-Условно говоря
-*охладитель.png*Охладитель
 -->
 
 <h2>Супер краткий гайд</h2><br>
