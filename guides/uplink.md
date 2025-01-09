@@ -2,7 +2,7 @@
 title: Аплинк
 description: 
 published: false
-date: 2024-11-13T19:40:24.015Z
+date: 2025-01-09T21:59:26.026Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -1531,13 +1531,13 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/job/box.png">
+        <img src="/guides/uplink/	boxsindie.png">
         <p>Синдикатсикй ящик для губок</p>
       </td>
       <td>7 ТК</td>
       <td>
         <p>Корбка содержащая 6 кубиков с агрессивной фауной. Внешне это обычные кубики обезьян. Из кубика могут появиться: Космо медведь, Тарантул, Слайм, Ксено, Пчела и т.д.</p>
-        <p>Доступно <a href="/roles/scientist" class="is-internal-link is-valid-page">учёным</a>.</p>
+        <p>Доступно <a href="/roles/scientist" class="is-internal-link is-valid-page">учёным</a>, шеф-повару, зоотехнику.</p>
       </td>
     </tr>
     <tr>
@@ -1604,7 +1604,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
         <img src="/guides/uplink/negronomicon_new.png">
         <p>Некрономикон</p>
       </td>
-      <td>6 ТК</td>
+      <td>4 ТК</td>
       <td>
         <p>Книга, которую при применении на другого персонажа вызовет очень заметное сообщение и нанесёт ему 20 урона. А так же может призвать Цербера, над которым у вас есть полная власть.</p>
         <p>Доступно <a href="/roles/priest" class="is-internal-link is-valid-page">священнику</a>.</p>
@@ -1626,10 +1626,10 @@ dateCreated: 2024-09-28T16:46:38.976Z
         <img src="/guides/uplink/piston.png">
         <p>Фальшивый пистон</p>
       </td>
-      <td>6 ТК</td>
+      <td>9 ТК</td>
       <td>
         <p>Пистон, использующий как пистоны так и патроны .45 магнум (Будет заряжен ими при покупке). Не взрывается как другое оружие в руках клоуна.</p>
-        <p>Доступно <a href="/roles/clown" class="is-internal-link is-valid-page">клоуну</a>.</p>
+        <p>Доступно <a href="/roles/clown" class="is-internal-link is-valid-page">клоуну</a> и <a href="/roles/mime" class="is-internal-link is-valid-page">миму</a>.</p>
       </td>
     </tr>
     <tr>
