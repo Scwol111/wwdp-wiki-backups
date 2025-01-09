@@ -2,7 +2,7 @@
 title: Лайка
 description: 
 published: true
-date: 2025-01-09T17:47:26.953Z
+date: 2025-01-09T17:47:36.245Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-25T19:52:41.561Z
@@ -15,7 +15,7 @@ dateCreated: 2024-12-25T19:52:41.561Z
     </div>
     <div><div><div><img src="/roles/secdog.gif" /></div></div><div><div>
       <h1>Лайка</h1>
-        <p><strong>Сложность:</strong> Гав-гав.</p>
+        <p><strong>Сложность:</strong> Гав-гав</p>
         <strong>Обязанности:</strong> Лаять на заключённых. 
       <br>
         <b>Руководители</b>: <a href="/roles/headofsecurity">Глава Службы Безопасности</a>
