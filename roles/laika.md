@@ -2,7 +2,7 @@
 title: Лайка
 description: 
 published: true
-date: 2025-01-09T16:47:30.127Z
+date: 2025-01-09T17:35:44.267Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-25T19:52:41.561Z
