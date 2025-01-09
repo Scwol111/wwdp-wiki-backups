@@ -2,7 +2,7 @@
 title: Космический Закон
 description: Правила нахождения персонала на станции. КЗ, Космический закон.
 published: true
-date: 2025-01-08T14:00:24.387Z
+date: 2025-01-09T18:37:35.498Z
 tags: сб
 editor: markdown
 dateCreated: 2024-09-10T19:07:45.005Z
@@ -295,42 +295,42 @@ dateCreated: 2024-09-10T19:07:45.005Z
       </tr>
       <tr>
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s101">101</th>
-        <th style="background-color:#698f43;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law101.png" alt="law101.png"></th>
+        <th style="background-color:#698f43;"><img src="/guides/spacelaw/101.png" alt="law101.png"></th>
         <th style="background-color:#698f43; color:white;"><b>Побои</b></th>
         <th style="background-color:#698f43; color:white;">Нанесение минимальных повреждений сотруднику. Если нет возможности определить степень повреждений, то применяется данная статья.<br>Повреждение: 5-24.</th>
         <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">За оскорбление своего творчества мим ударил кулаком уборщика в лицо.</th>
       </tr>
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s201">201</th>
-        <th style="background-color:#a69b38;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law201.png" alt="law201.png"></th>
+        <th style="background-color:#a69b38;"><img src="/guides/spacelaw/201.png" alt="law201.png"></th>
         <th style="background-color:#a69b38; color:white;"><b>Легкие телесные повреждения</b></th>
         <th style="background-color:#a69b38; color:white;">Нанесение легких повреждений сотруднику.<br>Повреждение: 25-49</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Мим не остановился на одном ударе и разбил лицо уборщика до кровавых соплей.</th>
       </tr>      
       <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s301">301</th>
-        <th style="background-color:#b8863b;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law301.png" alt="law301.png"></th>
+        <th style="background-color:#b8863b;"><img src="/guides/spacelaw/301.png" alt="law301.png"></th>
         <th style="background-color:#b8863b; color:white;"><b>Средние телесные повреждения</b></th>
         <th style="background-color:#b8863b; color:white;">Нанесение средних повреждений сотруднику.<br>Повреждение: 50-99</th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Мим также решил продемонстрировать свои творческие способности, избив уборщика до такой степени, что тот стоял на ногах из последних сил.</th>
       </tr>      
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s401">401</th>
-        <th style="background-color:#b0653a;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law401.png" alt="law401.png"></th>
+        <th style="background-color:#b0653a;"><img src="/guides/spacelaw/401.png" alt="law401.png"></th>
         <th style="background-color:#b0653a; color:white;"><b>Тяжкие телесные повреждения</b></th>
         <th style="background-color:#b0653a; color:white;">Введение сотрудника в критическое состояние.</th>
         <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;">Но мим перестарался, и уборщик свалился с ног, едва ли способный защищаться.</th>
       </tr>
       <tr>
         <th style="background-color:#963535; color:white; border-top-left-radius: 0px;" id="s501">501</th>
-        <th style="background-color:#963535;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law501.png" alt="law501.png"></th>
+        <th style="background-color:#963535;"><img src="/guides/spacelaw/501.png" alt="law501.png"></th>
         <th style="background-color:#963535; color:white;"><b>Убийство</b></th>
         <th style="background-color:#963535; color:white;">Использования любых методов, которые довели до смерти сотрудника.</th>
         <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Но миму было мало... уборщик был в крови, умолял о пощаде, но мим снова и снова наносил ему удары.</th>
       </tr>
       <tr>
         <th style="background-color:#242424; color:white; border-top-left-radius: 0px;" id="s601">601</th>
-        <th style="background-color:#242424;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law601.png" alt="law601.png"></th>
+        <th style="background-color:#242424;"><img src="/guides/spacelaw/601.png" alt="law601.png"></th>
         <th style="background-color:#242424; color:white;"><b>Массовые убийства</b></th>
         <th style="background-color:#242424; color:white;">Убийство двух или более сотрудников. Рекомендуется устранить нарушителя на месте, чтобы избежать дополнительных смертей.</th>
         <th style="background-color:#242424; color:white; border-top-right-radius: 0px;">После убийства уборщика мим напал на свидетелей, никто не выжил. Мим доказал, что он не терпила.</th>
@@ -350,42 +350,42 @@ dateCreated: 2024-09-10T19:07:45.005Z
       </tr>
       <tr>
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s102">102</th>
-        <th style="background-color:#698f43;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law102.png" alt="law102.png"></th>
+        <th style="background-color:#698f43;"><img src="/guides/spacelaw/102.png" alt="law102.png"></th>
         <th style="background-color:#698f43; color:white;"><b>Незаконное хранение или употребление наркотиков</b></th>
         <th style="background-color:#698f43; color:white;">Незаконное хранение наркотических средств или их употребление. Для хранения наркотических средств требуется медицинский рецепт. Стимуляторы попадают под наркотические средства.</th>
         <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Глава персонала взял несколько сомнительных таблеток, чтобы поднять себе настроение.</th>
       </tr>
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s202">202</th>
-        <th style="background-color:#a69b38;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law202.png" alt="law202.png"></th>
+        <th style="background-color:#a69b38;"><img src="/guides/spacelaw/202.png" alt="law202.png"></th>
         <th style="background-color:#a69b38; color:white;"><b>Незаконное распространение наркотиков</b></th>
         <th style="background-color:#a69b38; color:white;">Распространение наркотиков. Даже если у вас есть разрешение на их хранение, вам не разрешено распространять в отношении лиц, у которых такого разрешения нет.</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Глава Персонала решил порадовать свой сервисный отдел и раздал каждому сотруднику "витаминки", чтобы все были счастливы.</th>
       </tr>
       <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s302">302</th>
-        <th style="background-color:#b8863b;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law302.png" alt="law302.png"></th>
+        <th style="background-color:#b8863b;"><img src="/guides/spacelaw/303.png" alt="law302.png"></th>
         <th style="background-color:#b8863b; color:white;"><b>Незаконное производство наркотиков</b></th>
         <th style="background-color:#b8863b; color:white;">Производство наркотических средств без соответствующего разрешения.</th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Оказалось, что химик производил химически чистый и стабильный продукт, но у него не было разрешения.</th>
       </tr>
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s402">402</th>
-        <th style="background-color:#b0653a;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law402.png" alt="law402.png"></th>
+        <th style="background-color:#b0653a;"><img src="/guides/spacelaw/402.png" alt="law402.png"></th>
         <th style="background-color:#b0653a; color:white;"><b>Хранение или использование контрабанды</b></th>
         <th style="background-color:#b0653a; color:white;">Хранение или использование вещей, включенных в список контрабанды.</th>
         <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;">Химик решил не сдаваться во время облавы службы безопасности и, достав пистолет Кобра, открыл ответный огонь.</th>
       </tr>
       <tr>
         <th style="background-color:#963535; color:white; border-top-left-radius: 0px;" id="s502">502</th>
-        <th style="background-color:#963535;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law502.png" alt="law502.png"></th>
+        <th style="background-color:#963535;"><img src="/guides/spacelaw/502.png" alt="law502.png"></th>
         <th style="background-color:#963535; color:white;"><b>Распространение контрабанды</b></th>
         <th style="background-color:#963535; color:white;">Распространение вещей из списка контрабанды другим лицам.</th>
         <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Во время допроса стало известно, что химик вооружил врачей контрабандой, чтобы они его не сдали.</th>
       </tr>
       <tr>
         <th style="background-color:#242424; color:white; border-top-left-radius: 0px;" id="s602">602</th>
-        <th style="background-color:#242424;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law602.png" alt="law602.png"></th>
+        <th style="background-color:#242424;"><img src="/guides/spacelaw/602.png" alt="law602.png"></th>
         <th style="background-color:#242424; color:white;"><b>Враг корпорации</b></th>
         <th style="background-color:#242424; color:white;">Наличие стороннего ПО в ПДА, хранение вражеского снаряжения или участие во вражеских группировках подпадает под данную статью. Сюда включается вся амуниция, которая считается вражеской, а также принадлежность к корпорациям-врагам.</th>
         <th style="background-color:#242424; color:white; border-top-right-radius: 0px;">После расследования выяснилось, что химик является участником вражеской группировки, цель которой - свергнуть власть на данной станции.</th>
@@ -405,35 +405,35 @@ dateCreated: 2024-09-10T19:07:45.005Z
       </tr>
       <tr>
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s103">103</th>
-        <th style="background-color:#698f43;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law103.png" alt="law103.png"></th>
+        <th style="background-color:#698f43;"><img src="/guides/spacelaw/103.png" alt="law103.png"></th>
         <th style="background-color:#698f43; color:white;"><b>Хулиганство</b></th>
         <th style="background-color:#698f43; color:white;">Нарушение правил общественного порядка. Сюда включаются действия, которые вызывают недовольство у группы лиц.</th>
         <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Научный руководитель залез на стол в баре и начал кричать, что все боги фальшивы, а те, кто верят в них, просто дураки.</th>
       </tr>
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s203">203</th>
-        <th style="background-color:#a69b38;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law203.png" alt="law203.png"></th>
+        <th style="background-color:#a69b38;"><img src="/guides/spacelaw/203.png" alt="law203.png"></th>
         <th style="background-color:#a69b38; color:white;"><b>Эксгибиционизм</b></th>
         <th style="background-color:#a69b38; color:white;">Намеренное оголение в публичных местах.</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Научный Руководитель проиграл клоуну в споре и пробежал 3 круга вокруг мостика голым.</th>
       </tr>
       <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s303">303</th>
-        <th style="background-color:#b8863b;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law303.png" alt="law303.png"></th>
+        <th style="background-color:#b8863b;"><img src="/guides/spacelaw/302.png" alt="law303.png"></th>
         <th style="background-color:#b8863b; color:white;"><b>Домогательство</b></th>
         <th style="background-color:#b8863b; color:white;">Домогательство к членам экипажа и приставание к сотруднику, явно выражающему своё нежелание подобных действий.</th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">На замечания бармена научный руководитель начал произносить похабные шутки о ней и попытался установить физический контакт.</th>
       </tr>
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s403">403</th>
-        <th style="background-color:#b0653a;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law403.png" alt="law403.png"></th>
+        <th style="background-color:#b0653a;"><img src="/guides/spacelaw/403.png" alt="law403.png"></th>
         <th style="background-color:#b0653a; color:white;"><b>Похищение</b></th>
         <th style="background-color:#b0653a; color:white;">Похищение сотрудника с применением средств ограничения свободы (наручники, стяжки и т.д.). В данную статью можно включить попытку скрыть похищенное лицо.</th>
         <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;">Клоун заставил капитана поскользнуться, после чего надел на него наручники и потащил в технические помещения.</th>
       </tr>
       <tr>
         <th style="background-color:#242424; color:white; border-top-left-radius: 0px;" id="s603">603</th>
-        <th style="background-color:#242424;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law603.png" alt="law603.png"></th>
+        <th style="background-color:#242424;"><img src="/guides/spacelaw/603.png" alt="law603.png"></th>
         <th style="background-color:#242424; color:white;"><b>Изнасилование</b></th>
         <th style="background-color:#242424; color:white;">Изнасилование сотрудника.</th>
         <th style="background-color:#242424; color:white; border-top-right-radius: 0px;">Научный руководитель был неудержим и завершил то, что он ранее намеревался сделать с барменом.</th>
