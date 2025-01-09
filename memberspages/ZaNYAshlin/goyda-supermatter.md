@@ -2,7 +2,7 @@
 title: Суперматерия
 description: 
 published: false
-date: 2025-01-09T16:06:26.583Z
+date: 2025-01-09T16:07:35.661Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-03T15:08:56.390Z
@@ -81,7 +81,6 @@ dateCreated: 2025-01-03T15:08:56.390Z
     <div class="step" id="step4">
       <div class="step-text">
         <h3>4.1: Воздушная сигнализация<img style="vertical-align:middle" src="/guides/supermatter/airalarm.png"></h3>
-        <div class="step-space"></div>
         <h4> Первый скруббер<img style="vertical-align:middle" src="/guides/supermatter/scrubber.png"></h4>
         <div class="step-space"></div>
         <div class="step-description">
@@ -97,7 +96,6 @@ dateCreated: 2025-01-03T15:08:56.390Z
     <div class="step" id="step5">
       <div class="step-text">
         <h3>4.2: Воздушная сигнализация<img style="vertical-align:middle" src="/guides/supermatter/airalarm.png"></h3>
-        <div class="step-space"></div>
         <h4> Второй скруббер<img style="vertical-align:middle" src="/guides/supermatter/scrubber.png"></h4>
         <div class="step-space"></div>
         <div class="step-description">
@@ -109,7 +107,6 @@ dateCreated: 2025-01-03T15:08:56.390Z
     <div class="step" id="step6">
       <div class="step-text">
         <h3>4.3: Воздушная сигнализация<img style="vertical-align:middle" src="/guides/supermatter/airalarm.png"></h3>
-        <div class="step-space"></div>
         <h4> Третий скруббер<img style="vertical-align:middle" src="/guides/supermatter/scrubber.png"></h4>
         <div class="step-space"></div>
         <div class="step-description">
