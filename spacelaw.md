@@ -2,7 +2,7 @@
 title: Космический Закон
 description: Правила нахождения персонала на станции. КЗ, Космический закон.
 published: true
-date: 2025-01-09T18:37:35.498Z
+date: 2025-01-09T20:31:07.999Z
 tags: сб
 editor: markdown
 dateCreated: 2024-09-10T19:07:45.005Z
@@ -454,35 +454,35 @@ dateCreated: 2024-09-10T19:07:45.005Z
       </tr>
       <tr>
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s104">104</th>
-        <th style="background-color:#698f43;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law104.png" alt="law104.png"></th>
+        <th style="background-color:#698f43;"><img src="/guides/spacelaw/104.png" alt="law104.png"></th>
         <th style="background-color:#698f43; color:white;"><b>Сопротивление</b></th>
         <th style="background-color:#698f43; color:white;">Побег от службы безопасности во время обыска или ареста. Применяется в случае, если сотрудник службы безопасности полностью соблюдал процедуры.</th>
         <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Офицер приказал боксеру, который ранее избил репортера, остановиться, но тот сбежал.</th>
       </tr>
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s204">204</th>
-        <th style="background-color:#a69b38;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law204.png" alt="law204.png"></th>
+        <th style="background-color:#a69b38;"><img src="/guides/spacelaw/204.png" alt="law204.png"></th>
         <th style="background-color:#a69b38; color:white;"><b>Нападение на должностное лицо</b></th>
         <th style="background-color:#a69b38; color:white;">Нападение, нанесение физического ущерба должностному лицу (сотрудникам службы безопасности, руководителям станции), попытки ареста или активные попытки опрокидывания толканиями.</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Пассажир ударил ломом офицера службы безопасности.</th>
       </tr>
       <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s304">304</th>
-        <th style="background-color:#b8863b;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law304.png" alt="law304.png"></th>
+        <th style="background-color:#b8863b;"><img src="/guides/spacelaw/304.png" alt="law304.png"></th>
         <th style="background-color:#b8863b; color:white;"><b>Забастовка</b></th>
         <th style="background-color:#b8863b; color:white;">Действия группы лиц, направленные на прекращение взаимодействия отдела и станции.</th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Другие каргонцы послушались грузчика и устроили забастовку, отказываясь взаимодействовать со станцией в любой форме.</th>
       </tr>
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s404">404</th>
-        <th style="background-color:#b0653a;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law404.png" alt="law404.png"></th>
+        <th style="background-color:#b0653a;"><img src="/guides/spacelaw/404.png" alt="law404.png"></th>
         <th style="background-color:#b0653a; color:white;"><b>Подстрекательство к мятежу</b></th>
         <th style="background-color:#b0653a; color:white;">Подстрекательство членов экипажа к действиям против командования или порядка на станции с использованием силы.</th>
         <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;">Грузчик подстрекает каргонцев к восстанию против глав, после того как Квартирмейстер запретил им заказывать квас.</th>
       </tr>
       <tr>
         <th style="background-color:#242424; color:white; border-top-left-radius: 0px;" id="s604">604</th>
-        <th style="background-color:#242424;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law604.png" alt="law604.png"></th>
+        <th style="background-color:#242424;"><img src="/guides/spacelaw/604.png" alt="law604.png"></th>
         <th style="background-color:#242424; color:white;"><b>Вооруженный мятеж</b></th>
         <th style="background-color:#242424; color:white;">Действия группы вооруженных лиц, направленные против интересов командования станции, корпорации NanoTrasen или Центрального Командования.</th>
         <th style="background-color:#242424; color:white; border-top-right-radius: 0px;">Когда капитан угрожал тюрьмой свободной каргонии, они взяли оружие и отправились на мостик с криками "viva la revolution!" в поисках справедливости.</th>
@@ -503,28 +503,28 @@ dateCreated: 2024-09-10T19:07:45.005Z
       </tr>
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s205">205</th>
-        <th style="background-color:#a69b38;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law205.png" alt="law205.png"></th>
+        <th style="background-color:#a69b38;"><img src="/guides/spacelaw/205.png" alt="law205.png"></th>
         <th style="background-color:#a69b38; color:white;"><b>Изготовление или владение самодельным оружием</b></th>
         <th style="background-color:#a69b38; color:white;">Изготовление или хранение самодельного оружия.</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">У ученого была жажда создать идеальное оружие. Его первой мыслью было создать длинное оружие, которое не позволило бы тварям подойти на близкое расстояние. И, таким образом, он создал копье.</th>
       </tr>
       <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s305">305</th>
-        <th style="background-color:#b8863b;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law305.png" alt="law305.png"></th>
+        <th style="background-color:#b8863b;"><img src="/guides/spacelaw/305.png" alt="law305.png"></th>
         <th style="background-color:#b8863b; color:white;"><b>Незаконное владение холодным или нелетальным оружием</b></th>
         <th style="background-color:#b8863b; color:white;">Владение холодным или нелетальным оружием без соответствующего разрешения. Сюда включаются холодное оружие, предназначенное для нанесения серьезных увечий, а также любое другое оружие и приспособления для временного усмирения.</th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">После нескольких драк он понял, что сила проявляется в дальнем бою. Ученый смог выторговать у офицера дизейблер за незначительную побрякушку.</th>
       </tr>
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s405">405</th>
-        <th style="background-color:#b0653a;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law405.png" alt="law405.png"></th>
+        <th style="background-color:#b0653a;"><img src="/guides/spacelaw/405.png" alt="law405.png"></th>
         <th style="background-color:#b0653a; color:white;"><b>Незаконное владение летальным оружием</b></th>
         <th style="background-color:#b0653a; color:white;">Владение огнестрельным и летальным энергетическим без соответствующего разрешения. Изначально лицензию на владение имеют только сотрудники отдела СБ, Капитан, Глава Персонала и Бармен в пределах бара.</th>
         <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;">Но все технологии казались слишком устаревшими или слабыми. Тогда он взял все в свои руки и создал лазерную пушку. Теперь у него было средство для компенсации недостатков.</th>
       </tr>
       <tr>
-        <th style="background-color:#963535; color:white; border-top-left-radius: 0px;" id="s505">502</th>
-        <th style="background-color:#963535;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law502.png" alt="law502.png"></th>
+        <th style="background-color:#963535; color:white; border-top-left-radius: 0px;" id="s505">505</th>
+        <th style="background-color:#963535;"><img src="/guides/spacelaw/505.png" alt="law502.png"></th>
         <th style="background-color:#963535; color:white;"><b>Незаконный оборот оружием</b></th>
         <th style="background-color:#963535; color:white;">Вооружение других сотрудников огнестрельным оружием. Разрешение на данное действие имеет только Капитан и Глава Службы Безопасности, либо сотрудник с разрешением указанных ранее глав.</th>
         <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Он осознал гениальность данного изобретения и решил вооружить всех сотрудников РНД этой технологией, чтобы не было никакой большой угрозы для них..</th>
@@ -546,28 +546,28 @@ dateCreated: 2024-09-10T19:07:45.005Z
       </tr>
       <tr>
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s106">106</th>
-        <th style="background-color:#698f43;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law106.png" alt="law106.png"></th>
+        <th style="background-color:#698f43;"><img src="/guides/spacelaw/106.png" alt="law106.png"></th>
         <th style="background-color:#698f43; color:white;"><b>Мелкая кража</b></th>
         <th style="background-color:#698f43; color:white;">Кража личных, не ценных для станции, вещей, таких как: пища, сумма ниже 2000$, одежда, гарнитура и подобные мелочи.</th>
         <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Сервисный работник с клептоманией решил снять очки со спящего юриста.</th>
       </tr>
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s206">206</th>
-        <th style="background-color:#a69b38;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law206.png" alt="law206.png"></th>
+        <th style="background-color:#a69b38;"><img src="/guides/spacelaw/206.png" alt="law206.png"></th>
         <th style="background-color:#a69b38; color:white;"><b>Кража</b></th>
         <th style="background-color:#a69b38; color:white;">Кража вещей из отделов или других объектов, которые имеют какую-либо ценность. Сюда входят, например, сумма свыше 2000$, инструменты, оборудование, транспорт, ПДА и другие предметы, принадлежащие определенным отделам.</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Проходя мимо брига, сервисный сотрудник увидел открытую дверь и сумел украсть секвей службы безопасности, не привлекая внимания.</th>
       </tr>
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s406">406</th>
-        <th style="background-color:#b0653a;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law406.png" alt="law406.png"></th>
+        <th style="background-color:#b0653a;"><img src="/guides/spacelaw/406.png" alt="law406.png"></th>
         <th style="background-color:#b0653a; color:white;"><b>Кража ценного имущества или в особо крупных масштабах</b></th>
         <th style="background-color:#b0653a; color:white;">Кража ценного имущества включает в себя все, что при пропаже может повлиять на работу отдела, или находится в закрытых шкафах. Также в ценное имущество входят ID карты глав и смотрителя, терминалы оплаты отделов. Кроме того, кража в особо крупных масштабах означает кражу 4 и более вещей, или же кражу на сумму свыше 5000$.</th>
         <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;">Сервисному работнику было мало, и в конечном итоге он украл из брига 2 вспышки, 2 дубинки и бронежилет.</th>
       </tr>
       <tr>
         <th style="background-color:#963535; color:white; border-top-left-radius: 0px;" id="s506">506</th>
-        <th style="background-color:#963535;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law506.png" alt="law506.png"></th>
+        <th style="background-color:#963535;"><img src="/guides/spacelaw/506.png" alt="law506.png"></th>
         <th style="background-color:#963535; color:white;"><b><a href="/guides/especiallyvaluableitems" class="is-internal-link is-valid-page">Кража особо ценного имущества</a></b></th>
         <th style="background-color:#963535; color:white;">Кража ключевых предметов глав, счётов отделов или станции, скафандры глав, ID карта главы персонала и ID карта капитана, а также вещи, которые представляют особую ценность для НаноТрайзен или самой станции, включаются в данную статью.</th>
         <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">С помощью системы труб и неких махинаций, сервисный сотрудник сумел проникнуть в комнату главы службы безопасности, где украл её скафандр.</th>
@@ -587,35 +587,35 @@ dateCreated: 2024-09-10T19:07:45.005Z
       </tr>
       <tr>
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s107">107</th>
-        <th style="background-color:#698f43;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law107.png" alt="law107.png"></th>
+        <th style="background-color:#698f43;"><img src="/guides/spacelaw/107.png" alt="law107.png"></th>
         <th style="background-color:#698f43; color:white;"><b>Проникновение в отдел</b></th>
         <th style="background-color:#698f43; color:white;">Проникновение в отсек, к которому нет доступа по ID, или без полученного разрешения от владельца отсека.</th>
         <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Атмосферный техник решила устроить себе экскурсию по РНД, забежав за Научным Руководителем в его отдел без разрешения.</th>
       </tr>
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s207">207</th>
-        <th style="background-color:#a69b38;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law207.png" alt="law207.png"></th>
+        <th style="background-color:#a69b38;"><img src="/guides/spacelaw/207.png" alt="law207.png"></th>
         <th style="background-color:#a69b38; color:white;"><b>Проникновение со взломом</b></th>
         <th style="background-color:#a69b38; color:white;">Намеренное проникновение в отсеки, к которым подозреваемый не имеет доступа, с использованием инструментов или других методов для проникновения. В данную статью также включается изменение труб для проникновения.</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Атмосферный техник после этого отправилась в карго, где вскрыла дверь, чтобы через консоль заказать 20 ящиков с кошками.</th>
       </tr>
       <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s307">307</th>
-        <th style="background-color:#b8863b;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law307.png" alt="law307.png"></th>
+        <th style="background-color:#b8863b;"><img src="/guides/spacelaw/307.png" alt="law307.png"></th>
         <th style="background-color:#b8863b; color:white;"><b>Проникновение в защищенные отсеки/комнаты глав</b></th>
         <th style="background-color:#b8863b; color:white;">Проникновение в комнаты глав или места особой важности, такие как: мостик, бриг, ПермаБриг, атмосферия, комната с ДАМом, сингулярность, серверная, телекомы, а также отсек с СуперМатерией. </th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">С ящиками котов атмосферный техник забежала на мостик, чтобы выпустить их всех на радость клоунам.</th>
       </tr>
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s407">407</th>
-        <th style="background-color:#b0653a;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law407.png" alt="law407.png"></th>
+        <th style="background-color:#b0653a;"><img src="/guides/spacelaw/407.png" alt="law407.png"></th>
         <th style="background-color:#b0653a; color:white;"><b>Проникновение в хранилище</b></th>
         <th style="background-color:#b0653a; color:white;">Проникновение в особо важные места станции, такие как отсеки, закрытые дверьми хранилища (включая комнату с генератором гравитации).</th>
         <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;">Атмосферный техник продолжила свой крестовой поход взлома и отправилась в хранилище, чтобы оттуда взять цветочек.</th>
       </tr>
       <tr>
         <th style="background-color:#963535; color:white; border-top-left-radius: 0px;" id="s507">507</th>
-        <th style="background-color:#963535;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law507.png" alt="law507.png"></th>
+        <th style="background-color:#963535;"><img src="/guides/spacelaw/507.png" alt="law507.png"></th>
         <th style="background-color:#963535; color:white;"><b>Проникновение в оружейную</b></th>
         <th style="background-color:#963535; color:white;">Проникновение в оружейную комнату брига. Данное действие также может вызвать открытие огня на поражение.</th>
         <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Завершить свой поход атмосферный техник решила посещением оружейной. Путем некоторых махинаций ей удалось проникнуть внутрь, где в итоге она и получила пулю между глаз.</th>
@@ -635,35 +635,35 @@ dateCreated: 2024-09-10T19:07:45.005Z
       </tr>
       <tr>
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s108">108</th>
-        <th style="background-color:#698f43;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law108.png" alt="law108.png"></th>
+        <th style="background-color:#698f43;"><img src="/guides/spacelaw/108.png" alt="law108.png"></th>
         <th style="background-color:#698f43; color:white;"><b>Вандализм</b></th>
         <th style="background-color:#698f43; color:white;">Умышленное причинение незначительного ущерба имуществу станции. Животные также считаются имуществом станции.</th>
         <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Клоун разбил всю посуду на кухне после того, как повара отказались готовить ему бургер из ассистента.</th>
       </tr>
       <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s308">308</th>
-        <th style="background-color:#b8863b;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law308.png" alt="law308.png"></th>
+        <th style="background-color:#b8863b;"><img src="/guides/spacelaw/308.png" alt="law308.png"></th>
         <th style="background-color:#b8863b; color:white;"><b>Повреждение или попытка взлома боргов</b></th>
         <th style="background-color:#b8863b; color:white;">Любые явные повреждения борга или попытка его взлома являются нарушением.</th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Клоун разочаровался в станции и для своих дальнейших планов вскрыл панель СБ-борга, чтобы взять над ним контроль.</th>
       </tr>
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s408">408</th>
-        <th style="background-color:#b0653a;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law408.png" alt="law408.png"></th>
+        <th style="background-color:#b0653a;"><img src="/guides/spacelaw/408.png"></th>
         <th style="background-color:#b0653a; color:white;"><b>Саботаж</b></th>
         <th style="background-color:#b0653a; color:white;">Действия, которые повлияли на работу отдела или части станции, а также причинение значительного ущерба имуществу, входят в данную статью.</th>
         <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;">Клоун был впереди красноперых на пять шагов и, прежде чем воплотить свой план в жизнь, заварил двери в бриге, чтобы сотрудники Службы Безопасности не могли покинуть отдел.</th>
       </tr>
       <tr>
         <th style="background-color:#963535; color:white; border-top-left-radius: 0px;" id="s508">508</th>
-        <th style="background-color:#963535;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law508.png" alt="law508.png"></th>
+        <th style="background-color:#963535;"><img src="/guides/spacelaw/508.png" alt="law508.png"></th>
         <th style="background-color:#963535; color:white;"><b>Теракт</b></th>
         <th style="background-color:#963535; color:white;">Действия, которые критически повлияли на работу отдела или всей станции. Также данная статья предполагает, что восстановление после данных действий займет значительное количество времени.</th>
         <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Благодаря тщательно продуманному плану, клоун с помощью борга смог проникнуть в комнату с ДАМом, где он осуществил диверсию, в результате которой ДАМ был взорван, и вся станция осталась без света.</th>
       </tr>
       <tr>
         <th style="background-color:#242424; color:white; border-top-left-radius: 0px;" id="s608">608</th>
-        <th style="background-color:#242424;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law608.png" alt="law608.png"></th>
+        <th style="background-color:#242424;"><img src="/guides/spacelaw/608.png" alt="law608.png"></th>
         <th style="background-color:#242424; color:white;"><b>Попытка уничтожения станции</b></th>
         <th style="background-color:#242424; color:white;">Действие, направленное на уничтожение всей станции. Убийство данного сотрудника не ставится под сомнение.</th>
         <th style="background-color:#242424; color:white; border-top-right-radius: 0px;">Однако свет был восстановлен благодаря запуску сингулярности. Клоун намеревался её выпустить и проник в отсек, чтобы завершить свой план, но оказался медленнее капитана со своей саблей.</th>
@@ -683,28 +683,28 @@ dateCreated: 2024-09-10T19:07:45.005Z
       </tr>
       <tr>
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s109">109</th>
-        <th style="background-color:#698f43;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law109.png" alt="law109.png"></th>
+        <th style="background-color:#698f43;"><img src="/guides/spacelaw/109.png" alt="law109.png"></th>
         <th style="background-color:#698f43; color:white;"><b>Неисполнение приказа</b></th>
         <th style="background-color:#698f43; color:white;">Неисполнение приказа, отданного руководителем или старшим по званию сотрудником. Исключение - приказ нарушает космический закон.</th>
         <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Повар отказался приготовить борщ по приказу капитана.</th>
       </tr>
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s209">209</th>
-        <th style="background-color:#a69b38;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law209.png" alt="law209.png"></th>
+        <th style="background-color:#a69b38;"><img src="/guides/spacelaw/209.png" alt="law209.png"></th>
         <th style="background-color:#a69b38; color:white;"><b>Халатность</b></th>
         <th style="background-color:#a69b38; color:white;">Создание ситуаций, потенциально опасных для экипажа или станции из-за небрежных или безответственных, но не умышленных действий. Нарушение процедур, которое глава отдела может квалифицировать как халатность, подпадает под эту статью даже в случае, если нарушение не оказало негативного влияния на работу отдела и/или станции.</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Глава Персонала не закрыла окно перед уходом и оставила ID-карту в консоли, что позволило преступнику завладеть её доступом.</th>
       </tr>
       <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s309">309</th>
-        <th style="background-color:#b8863b;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law309.png" alt="law309.png"></th>
+        <th style="background-color:#b8863b;"><img src="/guides/spacelaw/309.png" alt="law309.png"></th>
         <th style="background-color:#b8863b; color:white;"><b>Превышение должностных полномочий</b></th>
         <th style="background-color:#b8863b; color:white;">Умышленные действия, совершаемые должностным лицом или главой, которые явно выходят за пределы его должностных полномочий.</th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Глава Персонала решила уволить офицера за халатную работу без разрешения Главы Службы Безопасности или Капитана.</th>
       </tr>
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s409">409</th>
-        <th style="background-color:#b0653a;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law409.png" alt="law409.png"></th>
+        <th style="background-color:#b0653a;"><img src="/guides/spacelaw/409.png" alt="law409.png"></th>
         <th style="background-color:#b0653a; color:white;"><b>Грубая халатность</b></th>
         <th style="background-color:#b0653a; color:white;">Действия сотрудника, которые подвергают сомнению его квалификацию и представляют серьезную угрозу для работы отдела или станции.</th>
         <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;">Глава Персонала выдала всему сервисному отделу полный доступ без разрешения капитана, чтобы они могли проводить концерты в любой части станции.</th>
@@ -724,21 +724,21 @@ dateCreated: 2024-09-10T19:07:45.005Z
       </tr>
       <tr>
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s110">110</th>
-        <th style="background-color:#698f43;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law110.png" alt="law110.png"></th>
+        <th style="background-color:#698f43;"><img src="/guides/spacelaw/110.png" alt="law110.png"></th>
         <th style="background-color:#698f43; color:white;"><b>Мошенничество</b></th>
         <th style="background-color:#698f43; color:white;">Намеренное введение сотрудника в заблуждение и невыполнение своей части ранее согласованной сделки. Эти действия направлены на получение выгоды путем обмана второй стороны.</th>
         <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Ассистент и священник заключили договор о проведении частной службы за 400 кредитов, заверив его у юриста. После проведения службы ассистент пропал, не оплатив услугу.</th>
       </tr>
       <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s310">310</th>
-        <th style="background-color:#b8863b;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law310.png" alt="law310.png"></th>
+        <th style="background-color:#b8863b;"><img src="/guides/spacelaw/310.png" alt="law310.png"></th>
         <th style="background-color:#b8863b; color:white;"><b>Принятие взятки</b></th>
         <th style="background-color:#b8863b; color:white;">Принятие взятки должностным лицом (сотрудниками СБ и главами) с целью выполнения незаконного действия или бездействия в интересах взяткодателя или третьего лица.</th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Вместо того, чтобы арестовать священника по обвинению в мошенничестве, Смотритель принял взятку в размере 100 кредитов и отпустил его.</th>
       </tr>
       <tr>
         <th style="background-color:#242424; color:white; border-top-left-radius: 0px;" id="s610">610</th>
-        <th style="background-color:#242424;"><img src="https://wiki.ss14.su/guides/security/spacelaw/law610.png" alt="law610.png"></th>
+        <th style="background-color:#242424;"><img src="/guides/spacelaw/610.png" alt="law610.png"></th>
         <th style="background-color:#242424; color:white;"><b>Растрата активов НТ</b></th>
         <th style="background-color:#242424; color:white;">Проводить какие-либо торговые сделки с представителями враждебных корпораций или организаций в убыток NanoTrasen. Экипаж обязан защищать все активы станции, если есть такая возможность. Только ЦентКом может разрешить обратное.</th>
         <th style="background-color:#242424; color:white; border-top-right-radius: 0px;">Капитан без сопротивления передал космическим пиратам 200 000 кредитов, чтобы они покинули сектор, хотя у него была возможность защитить активы НТ.</th>
