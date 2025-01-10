@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-01-10T12:02:29.742Z
+date: 2025-01-10T12:02:55.900Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -629,7 +629,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
         <th>Предмет</th>
         <th>Стоимость</th>
         <th>Описание</th>
-        <th>Доступнооперативникам</th>
+        <th>Доступно оперативникам</th>
       </tr>
  <tr>
       <td>
