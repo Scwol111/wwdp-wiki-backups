@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-01-10T11:54:03.546Z
+date: 2025-01-10T12:00:50.817Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -629,7 +629,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
         <th>Предмет</th>
         <th>Стоимость</th>
         <th>Описание</th>
-        <th>Доступно оперативникам</th>
+        <th>Доступно <a  href="/roles/nuclearoperative">оперативникам</a></th>
       </tr>
  <tr>
       <td>
@@ -642,7 +642,6 @@ dateCreated: 2024-09-28T16:46:38.976Z
    <td>Да</td>
     </tr>
  <tr>
- <tr>
       <td>
         <img src="/guides/uplinknew/electricbox.png">
         <p>Набор для наблюдения</p>
@@ -653,7 +652,6 @@ dateCreated: 2024-09-28T16:46:38.976Z
    <td>Да      </td>
     </tr>
  <tr>
- <tr>
       <td>
         <img src="/guides/uplinknew/electricbox.png">
         <p>Набор электрика</p>
@@ -663,7 +661,6 @@ dateCreated: 2024-09-28T16:46:38.976Z
         <p>Ультимативный ответ энергетическому оружию: Отключает дизейблеры, оглушает электрошокеры, разряжает лазерные пушки! Содержит 3 ЭМИ- гранаты и ЭМИ-имплант. Примечание: не выводит из строя настоящее огнестрельное оружие.</p>
    <td>Да      </td>
     </tr>
- <tr>
  <tr>
       <td>
         <img src="/guides/uplinknew/decoykit.png">
