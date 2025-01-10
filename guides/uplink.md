@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-01-10T17:49:21.224Z
+date: 2025-01-10T18:04:01.992Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -61,22 +61,6 @@ dateCreated: 2024-09-28T16:46:38.976Z
       </td>
 <td>Да</td>
     </tr>
-       <!--    <tr>
-      <td>
-         <img src="/guides/uplink/eshield-on.png">
-        <p>Энергетический щит</p>
-      </td>
-      <td>3 ТК</td>
-      <td>
-        <p>Энерго щит отражающий лазеры, а также немного защищающий от пуль и других физических атак. В сложеном состоянии размер 2x1.</p>
-        <p>Он блокирует <span class="percent">50%</span> входящего урона и:</p>
-    <p><span>- Отнимает <b class="percent">100%</b> <b style="color: yellow;">Тупого</b> урона</span></p>
-    <p><span>- Отнимает <b class="percent">90%</b> <b style="color: yellow;">Рубящего</b> урона</span></p>
-    <p><span>- Отнимает <b class="percent">85%</b> <b style="color: yellow;">Проникающего</b> урона</span></p>
-    <p><span>- Отнимает <b class="percent">50%</b> <b style="color: yellow;">Теплового</b> урона</span></p>
-        <p>Имеет заряд. В случае его разряда заряжаеться за 15 секунд</p>
-      </td>
-    </tr> -->
     <tr>
       <td>
         <img src="/guides/uplinknew/viper.png">
@@ -573,7 +557,6 @@ dateCreated: 2024-09-28T16:46:38.976Z
   
 </thead></table>
 
-
 <h2 id="надеваемое" class="toc-header"><a class="toc-anchor" href="#надеваемое">¶</a>Bundles</h2>
 
 <center>
@@ -735,6 +718,92 @@ dateCreated: 2024-09-28T16:46:38.976Z
 
 
 </thead></table>
+
+<h2 id="надеваемое" class="toc-header"><a class="toc-anchor" href="#надеваемое">¶</a>Misc</h2>
+
+<center>
+  <div class="table-wrapper">
+    <table class="ant">
+      <thead>
+      <tr>
+        <th>Предмет</th>
+        <th>Стоимость</th>
+        <th>Описание</th>
+        <th>Доступно оперативникам</th>
+      </tr>
+    <tr>
+      <td>
+        <img src="/guides/uplink/nukesnaks.png">
+        <p>Коробка закусок Синдиката</p>
+      </td>
+      <td>1 ТК</td>
+      <td>
+        <p>Коробка с вкусными закусками и напитками.</p>
+        <p>Содержит: Воздушный шарик синдиката, 4 напитка(может быть кроваво-красный самогон или кола), 4 синдикекса.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="/guides/uplink/synsoap.png">
+        <p>Мыло</p>
+      </td>
+      <td>1 ТК</td>
+      <td>
+        <p>Мыло. Оно более скользкое, чем его аналоги. После подскальзывания жертва улетает гораздо дальше.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="/guides/uplink/insulated.png">
+        <p>Токопроводящие перчатки</p>
+      </td>
+      <td>2 ТК</td>
+      <td>
+        <p>Увеличивает урон от электричества в 5 раз.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="/guides/uplink/synsoap.png">
+        <p>Кластерное мыло Слипокалипсиса</p>
+      </td>
+      <td>3 ТК</td>
+      <td>
+        <p>Кластерное мыло, которое при броске ломается на десяток осколков, которые работают как обычное синдимыло. Спустя 60 секунд все осколки исчезают.</p>
+      </td>
+    </tr>
+      <td>
+         <img src="/guides/uplink/eshield-on.png">
+        <p>Энергетический щит</p>
+      </td>
+      <td>3 ТК</td>
+      <td>
+        <p>Энерго щит отражающий лазеры, а также немного защищающий от пуль и других физических атак. В сложеном состоянии размер 2x1.</p>
+        <p>Он блокирует <span class="percent">50%</span> входящего урона и:</p>
+    <p><span>- Отнимает <b class="percent">100%</b> <b style="color: yellow;">Тупого</b> урона</span></p>
+    <p><span>- Отнимает <b class="percent">90%</b> <b style="color: yellow;">Рубящего</b> урона</span></p>
+    <p><span>- Отнимает <b class="percent">85%</b> <b style="color: yellow;">Проникающего</b> урона</span></p>
+    <p><span>- Отнимает <b class="percent">50%</b> <b style="color: yellow;">Теплового</b> урона</span></p>
+        <p>Имеет заряд. В случае его разряда заряжаеться за 15 секунд</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="/guides/uplink/syndicat.png">
+      <p>СиндиКот</p>
+      </td>
+      <td>8 ТК</td>
+      <td>
+        <p>Ручная кошка.</p>
+        <p>Оснащенна имплантом микробомбы.</p>
+        <p>При укусе наносит 5 уколов.</p>
+<p>Доступно только <a href="/roles/nuclearoperative" class="is-internal-link is-valid-page">ядерным оперативникам</a></p>
+      </td>
+    </tr>
+
+</thead></table>
+
+
 
 <h2 id="надеваемое" class="toc-header"><a class="toc-anchor" href="#надеваемое">¶</a> Надеваемое</h2>
 
