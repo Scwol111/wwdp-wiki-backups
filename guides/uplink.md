@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-01-10T10:05:28.659Z
+date: 2025-01-10T10:46:04.761Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -619,7 +619,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
 </thead></table>
 
 
-<h2 id="надеваемое" class="toc-header"><a class="toc-anchor" href="#надеваемое">¶</a> Надеваемое</h2>
+<h2 id="надеваемое" class="toc-header"><a class="toc-anchor" href="#надеваемое">¶</a>Bundles</h2>
 
 <center>
   <div class="table-wrapper">
@@ -630,12 +630,65 @@ dateCreated: 2024-09-28T16:46:38.976Z
         <th>Стоимость</th>
         <th>Описание</th>
       </tr>
-    <tr>
+ <tr>
       <td>
-        <img src="/guides/uplink/c20r.png">
-        <p>Набор "C-20r"</p>
+        <img src="/guides/uplinknew/chemicbox.png">
+        <p>Набор для химического синтеза</p>
+      </td>
+      <td>4 ТК</td>
+      <td>
+        <p>Стартовый набор для начинающего химика, включает токсин и вестин для всех ваших преступных нужд!</p>
+      </td>
+    </tr>
+ <tr>
+ <tr>
+      <td>
+        <img src="/guides/uplinknew/electricbox.png">
+        <p>Набор для наблюдения</p>
+      </td>
+      <td>4 ТК</td>
+      <td>
+        <p>Включает в себя монитор экипажа Синдиката, батарейку высокой емкости и охранный визор, замаскированный под солнцезащитные очки.</p>
+      </td>
+    </tr>
+ <tr>
+ <tr>
+      <td>
+        <img src="/guides/uplinknew/electricbox.png">
+        <p>Набор электрика</p>
+      </td>
+      <td>6 ТК</td>
+      <td>
+        <p>Ультимативный ответ энергетическому оружию: Отключает дизейблеры, оглушает электрошокеры, разряжает лазерные пушки! Содержит 3 ЭМИ- гранаты и ЭМИ-имплант. Примечание: не выводит из строя настоящее огнестрельное оружие.</p>
+      </td>
+    </tr>
+ <tr>
+ <tr>
+      <td>
+        <img src="/guides/uplinknew/decoykit.png">
+        <p>Decoy kit</p>
+      </td>
+      <td>6 ТК</td>
+      <td>
+        <p>State-of-the-art distraction technology straight from RND. Comes with five realistic balloons, four decoy grenades, and some snap poppers!</p>
+      </td>
+    </tr>
+ <tr>
+      <td>
+        <img src="/guides/uplinknew/ammosumka.png">
+        <p>Набор патронов</p>
       </td>
       <td>15 ТК</td>
+      <td>
+        <p>Перезарядка! Содержит 4 магазина для С-20r, 4 барабана для Bulldog и 2 ящика с боеприпасами для L6 SAW.</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="/guides/uplinknew/c20.png">
+        <p>Набор "C-20r"</p>
+      </td>
+      <td>17 ТК</td>
       <td>
         <p> Приходит в вещмешке синдиката.</p>
         <p>Один С-20r, заряженный стандартным магазином на 30 патронов калибра 35.пистолетный.</p>
@@ -646,23 +699,10 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/uplink/akms.png">
-        <p>AK-74</p>
-      </td>
-      <td>16 ТК</td>
-      <td>
-        <p>Мощная штурмовая винтовка с высокой скорострельностью. Использует (.30 винтовочные)</p>
-        <p> Обойма - 30 патронов. </p>
-        <p>Каждый выстрел наносит 19 урона уколами.</p>
-        <p>Скорострельность <b style="color: yellow;">5.0</b> в секунду.</p>	
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="/guides/uplink/buldog.png">
+        <img src="/guides/uplinknew/bulldog.png">
         <p>Набор "Бульдога"</p>
       </td>
-      <td>17 ТК</td>
+      <td>20 ТК</td>
       <td>
         <p>Приходит в вещмешке синдиката.</p>
         <p>Один дробовик "Бульдог", заряженный магазином с патронами 50.дробь.</p>
@@ -685,7 +725,6 @@ dateCreated: 2024-09-28T16:46:38.976Z
         <p>Скорострельность <b style="color: yellow;">0.6</b> в секунду.</p>
         <p>Использовать можно только в двух руках.</p>
         <p>Имеет возможность прицеливания на <kbd>ПКМ</kbd>.</p>
-        <p>Доступно <a href="/roles/nuclearoperative" class="is-internal-link is-valid-page">ядерным оперативникам</a>.</p>
       </td>
     </tr>
     <tr>
