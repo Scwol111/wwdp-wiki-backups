@@ -2,7 +2,7 @@
 title: Емаг
 description: 
 published: true
-date: 2025-01-11T18:34:32.990Z
+date: 2025-01-11T18:41:44.334Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:12.273Z
@@ -244,56 +244,56 @@ dateCreated: 2024-09-29T18:19:12.273Z
         <tr>
           <td>
             <figure class="image"><img src="/guides/antagonists/emag/sheffend.png" alt="sheffend.png" /></figure>
-            <p><strong>ШефВенд&nbsp;</strong></p>
+            <p><strong>ШефВенд </strong></p>
           </td>
           <td>Кухня</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/powderpile.png" alt="powderpile.png" />Gunpowder(60) x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/powderpile.png" alt="powderpile.png" />Gunpowder(60) x1</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/machines/povar.png" alt="chapedrobe.png" /></figure>
-            <p><strong>Кухонно-пластальная поварская утварь&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/povar.png" alt="chapedrobe.png" /></figure>
+            <p><strong>Кухонно-пластальная поварская утварь </strong></p>
           </td>
           <td>Кухня</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/sharpener.png" alt="sharpener.png" />Точильный камень x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/sharpener.png" alt="sharpener.png" />Точильный камень x1</p>
           </td>
         </tr>
         <tr>
           <td>
             <figure class="image"><img src="/guides/antagonists/emag/vendingmachinechapel.png" alt="chapedrobe.png" /></figure>
-            <p><strong>БогоМат&nbsp;</strong></p>
+            <p><strong>БогоМат </strong></p>
           </td>
           <td>Комната священника</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/sheetcult.png" alt="sheetcult.png" />Одеяло культа x4</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/necronomikon.png" alt="necronomikon.png" />Некрономикон x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/black_scarf.png" alt="black_scarf.png" />Полосатый черный шарф x3</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/antihrist.png" alt="antihrist.png" />Крест антихриста x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/sheetcult.png" alt="sheetcult.png" />Одеяло культа x4</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/necronomikon.png" alt="necronomikon.png" />Некрономикон x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/black_scarf.png" alt="black_scarf.png" />Полосатый черный шарф x3</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/antihrist.png" alt="antihrist.png" />Крест антихриста x1</p>
           </td>
         </tr>
         <tr>
           <td>
             <figure class="image"><img src="/guides/antagonists/emag/vendingmachinetheater.png" alt="theaterdrobe.png" /></figure>
-            <p><strong>ТеатроШкаф&nbsp;</strong></p>
+            <p><strong>ТеатроШкаф </strong></p>
           </td>
           <td>Театр</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/clown_shoes_bling.png" alt="clown_shoes_bling.png" />Блестящие клоунские туфли x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/boots_cowboy.png" alt="boots_cowboy.png" />Модные ковбойские сапоги x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/dogi.png" alt="dogi.png" />Самурайский доги x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/mask_sexy_clown.png" alt="mask_sexy_clown.png" />Сексуальная клоунская маска x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/mask_sexy_mime.png" alt="mask_sexy_mime.png" />Сексуальная маска мима x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/head_cowboy.png" alt="head_cowboy.png" />Шляпа ковбоя-охотника за головами x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/katana.png" alt="katana.png" />Катана x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/clown_shoes_bling.png" alt="clown_shoes_bling.png" />Блестящие клоунские туфли x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/boots_cowboy.png" alt="boots_cowboy.png" />Модные ковбойские сапоги x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/dogi.png" alt="dogi.png" />Самурайский доги x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/mask_sexy_clown.png" alt="mask_sexy_clown.png" />Сексуальная клоунская маска x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/mask_sexy_mime.png" alt="mask_sexy_mime.png" />Сексуальная маска мима x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/head_cowboy.png" alt="head_cowboy.png" />Шляпа ковбоя-охотника за головами x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/katana.png" alt="katana.png" />Катана x1</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/machines/sec_drobe.png" alt="sec_drobe.png" /></figure>
-            <p><strong>ОхранШкаф&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/sec_drobe.png" alt="sec_drobe.png" /></figure>
+            <p><strong>ОхранШкаф </strong></p>
           </td>
           <td>Отдел службы безопасности, посты Сб</td>
           <td>
@@ -303,302 +303,302 @@ dateCreated: 2024-09-29T18:19:12.273Z
         <tr>
           <td>
             <figure class="image"><img src="/guides/antagonists/emag/vendingmachinebooze.png" alt="vendingmachinebooze.png" /></figure>
-            <p><strong>АлкоМат&nbsp;</strong></p>
+            <p><strong>АлкоМат </strong></p>
           </td>
           <td>Бар, старый бар</td>
           <td>
-          <p><img class="item_emag" src="/guides/antagonists/emag/item/poison_wine.png" alt="poison_wine.png" />Бутылка колдовского бархата x2</p>
-          <p><img class="item_emag" src="/guides/antagonists/emag/item/shaker.png" alt="shaker.png" />Шейкер x1</p>
+          <p><img class="item_emag" src="/guides/antagonists/emag/poison_wine.png" alt="poison_wine.png" />Бутылка колдовского бархата x2</p>
+          <p><img class="item_emag" src="/guides/antagonists/emag/shaker.png" alt="shaker.png" />Шейкер x1</p>
           </td>
         </tr>
         <tr>
           <td>
             <figure class="image"><img src="/guides/antagonists/emag/happyhonk.png" alt="happyhonk.png" /></figure>
-            <p><strong>ХэппиХонк&nbsp;</strong></p>
+            <p><strong>ХэппиХонк </strong></p>
           </td>
           <td>Кухня, театр</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/honk_cluwne.png" alt="honk_cluwne.png" />Горестная клувнская еда x3</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/honk_nukie.png" alt="honk_nukie.png" />Крепкий обед "Нюки" x3</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/honk_cluwne.png" alt="honk_cluwne.png" />Горестная клувнская еда x3</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/honk_nukie.png" alt="honk_nukie.png" />Крепкий обед "Нюки" x3</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/machines/law_drobe.png" alt="law_drobe.png" /></figure>
-            <p><strong>ЗаконШкаф&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/law_drobe.png" alt="law_drobe.png" /></figure>
+            <p><strong>ЗаконШкаф </strong></p>
           </td>
           <td>Комната юриста</td>
           <td>
-          <p><img class="item_emag" src="/guides/antagonists/emag/item/pen_cubersun.png" alt="pen_cubersun.png" />Ручка Cubersun x1</p>
+          <p><img class="item_emag" src="/guides/antagonists/emag/pen_cubersun.png" alt="pen_cubersun.png" />Ручка Cubersun x1</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/machines/game_drobe.png" alt="game_drobe.png" /></figure>
-            <p><strong>Безобидные развлечения&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/game_drobe.png" alt="game_drobe.png" /></figure>
+            <p><strong>Безобидные развлечения </strong></p>
           </td>
           <td>Библиотека</td>
           <td>
-          <p><img class="item_emag" src="/donat_panel/toes/synb.png" alt="synb.png" />Воздушный шарик синдиката x3</p>
+          <p><img class="item_emag" src="/guides/antagonists/emag/synb.png" alt="synb.png" />Воздушный шарик синдиката x3</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/machines/sb_teh.png" alt="sb_teh.png" /></figure>
-            <p><strong>СБтех&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/sb_teh.png" alt="sb_teh.png" /></figure>
+            <p><strong>СБтех </strong></p>
           </td>
           <td>Отдел службы безопасности</td>
           <td>
-          <p><img class="item_emag" src="/guides/antagonists/emag/item/grenade.png" alt="grenade.png" />Разрывная граната x1</p>
-          <p><img class="item_emag" src="/guides/antagonists/emag/item/truncheon.png" alt="truncheon.png" />Дубинка x1</p>
+          <p><img class="item_emag" src="/guides/antagonists/emag/grenade.png" alt="grenade.png" />Разрывная граната x1</p>
+          <p><img class="item_emag" src="/guides/antagonists/emag/truncheon.png" alt="truncheon.png" />Дубинка x1</p>
           </td>
         </tr>
         <tr>
           <td>
             <figure class="image"><img src="/guides/antagonists/emag/coffee1.png" alt="coffee1.png" /></figure>
-            <p><strong>Лучшие горячие напитки Солнечной&nbsp;</strong></p>
+            <p><strong>Лучшие горячие напитки Солнечной </strong></p>
           </td>
           <td>Везде на станции</td>
           <td>
-          <p><img class="item_emag" src="/guides/antagonists/emag/item/nothing.png" alt="nothing.png" />Ничего x2</p>
+          <p><img class="item_emag" src="/guides/antagonists/emag/nothing.png" alt="nothing.png" />Ничего x2</p>
           </td>
         </tr>
         <tr>
           <td>
             <figure class="image"><img src="/guides/antagonists/emag/cola1.png" alt="cola1.png" /></figure>
-            <p><strong>Прохладительные напитки Робаст&nbsp;</strong></p>
+            <p><strong>Прохладительные напитки Робаст </strong></p>
           </td>
           <td>Везде на станции</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/nukie_robast.png" alt="nukie_robast.png" />Банка кроваво-красного самогона x2</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/changeling.png" alt="changeling.png" />Банка Жала генокрада x2</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/nukie_robast.png" alt="nukie_robast.png" />Банка кроваво-красного самогона x2</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/changeling.png" alt="changeling.png" />Банка Жала генокрада x2</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/machines/black_drink.png" alt="black_drink.png" /></figure>
-            <p><strong>Прохладительные напитки Робаст&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/black_drink.png" alt="black_drink.png" /></figure>
+            <p><strong>Прохладительные напитки Робаст </strong></p>
           </td>
-          <td>Везде на станции</td>
+           <td>Везде на станции</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/nukie_robast.png" alt="nukie_robast.png" />Банка кроваво-красного самогона x2</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/changeling.png" alt="changeling.png" />Банка Жала генокрада x2</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <figure class="image"><img src="/guides/antagonists/emag/machines/red_drink.png" alt="red_drink.png" /></figure>
-            <p><strong>Прохладительные напитки Робаст&nbsp;</strong></p>
-          </td>
-          <td>Везде на станции</td>
-          <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/nukie_robast.png" alt="nukie_robast.png" />Банка кроваво-красного самогона x2</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/changeling.png" alt="changeling.png" />Банка Жала генокрада x2</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/nukie_robast.png" alt="nukie_robast.png" />Банка кроваво-красного самогона x2</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/changeling.png" alt="changeling.png" />Банка Жала генокрада x2</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/machines/dr_gibb.png" alt="dr_gibb.png" /></figure>
-            <p><strong>Автомат доктора Гибба&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/red_drink.png" alt="red_drink.png" /></figure>
+            <p><strong>Прохладительные напитки Робаст </strong></p>
           </td>
           <td>Везде на станции</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/nukie_robast.png" alt="nukie_robast.png" />Банка кроваво-красного самогона x2</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/changeling.png" alt="changeling.png" />Банка Жала генокрада x2</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/nukie_robast.png" alt="nukie_robast.png" />Банка кроваво-красного самогона x2</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/changeling.png" alt="changeling.png" />Банка Жала генокрада x2</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/machines/starkist.png" alt="starkist.png" /></figure>
-            <p><strong>Раздатчик Старкист&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/dr_gibb.png" alt="dr_gibb.png" /></figure>
+            <p><strong>Автомат доктора Гибба </strong></p>
           </td>
           <td>Везде на станции</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/nukie_robast.png" alt="nukie_robast.png" />Банка кроваво-красного самогона x2</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/changeling.png" alt="changeling.png" />Банка Жала генокрада x2</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/nukie_robast.png" alt="nukie_robast.png" />Банка кроваво-красного самогона x2</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/changeling.png" alt="changeling.png" />Банка Жала генокрада x2</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/spaceup.png.png" alt="spaceup.png.png" /></figure>
-            <p><strong>Раздатчик Спейс-Ап&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/starkist.png" alt="starkist.png" /></figure>
+            <p><strong>Раздатчик Старкист </strong></p>
           </td>
           <td>Везде на станции</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/nukie_robast.png" alt="nukie_robast.png" />Банка кроваво-красного самогона x2</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/changeling.png" alt="changeling.png" />Банка Жала генокрада x2</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/nukie_robast.png" alt="nukie_robast.png" />Банка кроваво-красного самогона x2</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/changeling.png" alt="changeling.png" />Банка Жала генокрада x2</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <figure class="image"><img src="/guides/antagonists/emag/spaceup.png" alt="spaceup.png" /></figure>
+            <p><strong>Раздатчик Спейс-Ап </strong></p>
+          </td>
+          <td>Везде на станции</td>
+           <td>
+            <p><img class="item_emag" src="/guides/antagonists/emag/nukie_robast.png" alt="nukie_robast.png" />Банка кроваво-красного самогона x2</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/changeling.png" alt="changeling.png" />Банка Жала генокрада x2</p>
           </td>
         </tr>
         <tr>
           <td>
             <figure class="image"><img src="/guides/antagonists/emag/snack1.png" alt="snack1.png" /></figure>
-            <p><strong>Гетмор Шоколад Корп(Голубой, Зелёный, Оранжевый, Синий)&nbsp;</strong></p>
+            <p><strong>Гетмор Шоколад Корп(Голубой, Зелёный, Оранжевый, Синий) </strong></p>
           </td>
           <td>Везде на станции</td>
           <td>
-          <p><img class="item_emag" src="/guides/antagonists/emag/item/syndicakes.png" alt="syndicakes.png" />Синди-кексы x3</p>
+          <p><img class="item_emag" src="/guides/antagonists/emag/syndicakes.png" alt="syndicakes.png" />Синди-кексы x3</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/machines/nanomed.png" alt="nanomed.png" /></figure>
-            <p><strong>НаноМедПлюс&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/nanomed.png" alt="nanomed.png" /></figure>
+            <p><strong>НаноМедПлюс </strong></p>
           </td>
           <td>Медицинский отдел</td>
           <td>
-          <p><img class="item_emag" src="/guides/antagonists/emag/item/stimpen.png" alt="stimpen.png" />Микроинъектор стимулятора x1</p>
+          <p><img class="item_emag" src="/guides/antagonists/emag/stimpen.png" alt="stimpen.png" />Микроинъектор стимулятора x1</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/cigs.png" /></figure>
-            <p><strong>ШейдиСиг Делюкс&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/cigs.png" alt="cigs.png" /></figure>
+            <p><strong>ШейдиСиг Делюкс </strong></p>
+          </td>
+           <td>Везде на станции</td>
+          <td>
+          <p><img class="item_emag" src="/guides/antagonists/emag/cigarettes_syn.png" alt="cigarettes_syn.png" />Пачка сигарет синдиката x2</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <figure class="image"><img src="/guides/antagonists/emag/donut.png" alt="donut.png" /></figure>
+            <p><strong>Пончики Монкинс </strong></p>
           </td>
           <td>Везде на станции</td>
           <td>
-          <p><img class="item_emag" src="/guides/antagonists/emag/item/cigarettes_syn.png" alt="cigarettes_syn.png" />Пачка сигарет синдиката x2</p>
+          <p><img class="item_emag" src="/guides/antagonists/emag/pink_donut.png" alt="pink_donut.png" />Розовый пончик x3</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/donut.png" /></figure>
-            <p><strong>Пончики Монкинс&nbsp;</strong></p>
-          </td>
-          <td>Везде на станции</td>
-          <td>
-          <p><img class="item_emag" src="/guides/antagonists/emag/item/pink_donut.png" alt="pink_donut.png" />Розовый пончик x3</p>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <figure class="image"><img src="/guides/antagonists/emag/seedvendor.png" /></figure>
-            <p><strong>Мега раздатчик семян&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/seedvendor.png" alt="seedvendor.png" /></figure>
+            <p><strong>Мега раздатчик семян </strong></p>
           </td>
           <td>Гидропоника, пермабриг, техи</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/seed_amanita.png" alt="seed_amanita.png" />Пакет спор мухоморов x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/seed_amanita.png" alt="seed_amanita.png" />Пакет спор мухоморов x1</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/vending_nutri.gif" /></figure>
-            <p><strong>БотаМакс&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/vending_nutri.gif" alt="vending_nutri.gif" /></figure>
+            <p><strong>БотаМакс </strong></p>
           </td>
           <td>Гидропоника</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/bottle.png" alt="bottle.png" />Бутылка с Left-4-Zed x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/bottle.png" alt="bottle.png" />Бутылка с Left-4-Zed x1</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/chemvend.png" /></figure>
-            <p><strong>ХимВенд&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/chemvend.png" alt="chemvend.png" /></figure>
+            <p><strong>ХимВенд </strong></p>
           </td>
           <td>Химия</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/vial.png" alt="vial.png" />Флакон с вестином x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/bottle.png" alt="bottle.png" />Бутылка с токсином x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/chemical_cartrid.png" alt="chemical_cartrid.png" />Химический картридж (напалм) x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/vial.png" alt="vial.png" />Флакон с вестином x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/bottle.png" alt="bottle.png" />Бутылка с токсином x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/chemical_cartrid.png" alt="chemical_cartrid.png" />Химический картридж (напалм) x1</p>
           </td>
         </tr>
-        <tr>
+         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/chemvend.png" /></figure>
-            <p><strong>СиндиСок&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/chemvend.png" alt="chemvend.png" /></figure>
+            <p><strong>СиндиСок </strong></p>
           </td>
           <td>Аванпост синдиката</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/bottle.png" alt="bottle.png" />Бутылка с Pax x3</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/bottle.png" alt="bottle.png" />Бутылка с токсином молчания x3</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/bottle.png" alt="bottle.png" />Бутылка со свинцом x2</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/bottle.png" alt="bottle.png" />Бутылка с токсином x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/bottle.png" alt="bottle.png" />Бутылка с Pax x3</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/bottle.png" alt="bottle.png" />Бутылка с токсином молчания x3</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/bottle.png" alt="bottle.png" />Бутылка со свинцом x2</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/bottle.png" alt="bottle.png" />Бутылка с токсином x1</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/youtool.png" /></figure>
-            <p><strong>ТвоиИнструменты&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/youtool.png" alt="youtool.png" /></figure>
+            <p><strong>ТвоиИнструменты </strong></p>
           </td>
           <td>Инженерный отдел, комната инструментов.</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/syn_jaws_pry.png" alt="syn_jaws_pry.png" />Челюсти жизни синдиката x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/syn_jaws_pry.png" alt="syn_jaws_pry.png" />Челюсти жизни синдиката x1</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/winterdrobe.png" /></figure>
-            <p><strong>ЗимКомод&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/winterdrobe.png" alt="winterdrobe.png" /></figure>
+            <p><strong>ЗимКомод </strong></p>
           </td>
           <td>Жилой отсек</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/green_scarf.png" alt="green_scarf.png" />Полосатый зеленый шарф синдиката x3</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/red_scarf.png" alt="red_scarf.png" />Красный шарф синдиката x3</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/centcom_scarf.png" alt="centcom_scarf.png" />Полосатый шарф ЦентКом x3</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/green_scarf.png" alt="green_scarf.png" />Полосатый зеленый шарф синдиката x3</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/red_scarf.png" alt="red_scarf.png" />Красный шарф синдиката x3</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/centcom_scarf.png" alt="centcom_scarf.png" />Полосатый шарф ЦентКом x3</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/cart.gif" /></figure>
-            <p><strong>ПТех&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/cart.gif" alt="cart.gif" /></figure>
+            <p><strong>ПТех </strong></p>
           </td>
           <td>Комната главы персонала</td>
           <td>
-            <p><img class="item_emag" src="/guides/security/smuggling/id_regular.png" alt="id_regular.png" />ID карта ассистента x1</p>
-            <p><img class="item_emag" src="/guides/security/smuggling/syn_cypherkey_new.png" alt="syn_cypherkey_new.png" />Кроваво-красный ключ шифрования x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/id_regular.png" alt="id_regular.png" />ID карта ассистента x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/syn_cypherkey_new.png" alt="syn_cypherkey_new.png" />Кроваво-красный ключ шифрования x1</p>
           </td>
         </tr>
          <tr>
            <td>
-             <figure class="image"><img src="/guides/antagonists/emag/vendomat.gif" /></figure>
-             <p><strong>Торгомат&nbsp;</strong></p>
+             <figure class="image"><img src="/guides/antagonists/emag/vendomat.gif" alt="vendomat.gif" /></figure>
+             <p><strong>Торгомат </strong></p>
            </td>
            <td>Инженерный, комната с инструментами.</td>
            <td>
-             <p><img class="item_emag" src="/guides/antagonists/emag/item/lantern.png" alt="lantern.png" />Lantern x1</p>
+             <p><img class="item_emag" src="/guides/antagonists/emag/lantern.png" alt="lantern.png" />Lantern x1</p>
            </td>
          </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/engivend.gif" /></figure>
-            <p><strong>ИнжеМат&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/engivend.gif" alt="engivend.gif" /></figure>
+            <p><strong>ИнжеМат </strong></p>
           </td>
           <td>Инженерный</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/microreactor.png" alt="microreactor.png" />Маленькая микрореактрная батарея x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/microreactor.png" alt="microreactor.png" />Маленькая микрореактрная батарея x1</p>
           </td>
         </tr>
         <tr>
           <td>
             <figure class="image"><img src="/guides/antagonists/emag/clothing.gif" alt="clothing.gif" /></figure>
-            <p><strong>Одеждомат&nbsp;</strong></p>
+            <p><strong>Одеждомат </strong></p>
           </td>
           <td>Гардероб</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/hand_combat.png" alt="hand_combat.png" />Боевые перчатки x1</p>
-            <p><img class="item_emag" src="/guides/security/smuggling/gassyndicate.png" alt="gassyndicate.png" />Противогаз синдиката x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/rps_army.png" alt="rps_army.png" />Армейская РПС x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/uniform_agent_m.png" alt="uniform_agent_m.png" />Комбинезон оперативника x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/uniform_agent_w.png" alt="uniform_agent_w.png" />Юбка-комбинезон оперативника x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/hand_combat.png" alt="hand_combat.png" />Боевые перчатки x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/gassyndicate.png" alt="gassyndicate.png" />Противогаз синдиката x1</p>
+             <p><img class="item_emag" src="/guides/antagonists/emag/rps_army.png" alt="rps_army.png" />Армейская РПС x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/uniform_agent_m.png" alt="uniform_agent_m.png" />Комбинезон оперативника x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/uniform_agent_w.png" alt="uniform_agent_w.png" />Юбка-комбинезон оперативника x1</p>
           </td>
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/scidrobe.gif" /></figure>
-            <p><strong>НаучШкаф&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/scidrobe.gif" alt="scidrobe.gif" /></figure>
+            <p><strong>НаучШкаф </strong></p>
           </td>
           <td>РНД</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/item/pnv.png" alt="pnv.png" />ПНВ x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/pnv.png" alt="pnv.png" />ПНВ x1</p>
           </td>
         </tr>
-        <tr>
+         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/mining.gif" /></figure>
-            <p><strong>Утильмаг&nbsp;</strong></p>
+            <figure class="image"><img src="/guides/antagonists/emag/mining.gif" alt="mining.gif" /></figure>
+            <p><strong>Утильмаг </strong></p>
           </td>
           <td>Карго</td>
           <td>
-            <p><img class="item_emag" src="/guides/security/smuggling/black_jetpack.png" alt="black_jetpack.png" />Джетпак x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/black_jetpack.png" alt="black_jetpack.png" />Джетпак x1</p>
           </td>
         </tr>
       </tbody>
