@@ -2,7 +2,7 @@
 title: Емаг
 description: 
 published: true
-date: 2025-01-11T18:41:44.334Z
+date: 2025-01-11T18:46:12.539Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:12.273Z
@@ -608,7 +608,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
 
 <div style="text-align: center;">
   <p><br><br>&nbsp;<strong>Взлом боргов</strong></p>
-  <img src="/guides/science/robotics/borgs/standart-borg-gif.gif" alt="standart-borg-gif.gif" width="128" />
+  <img src="/guides/antagonists/emag/standart-borg-gif.gif" alt="standart-borg-gif.gif" width="128" />
   <p>Чтобы взломать вам надо:</p>
   <ol style="text-align: left; display: inline-block; text-align: left;">
     <li>Ослепить борга с помощью вспышки (необязательно).</li>
