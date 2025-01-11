@@ -2,7 +2,7 @@
 title: Емаг
 description: 
 published: true
-date: 2025-01-11T18:29:46.525Z
+date: 2025-01-11T18:34:32.990Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:12.273Z
@@ -123,7 +123,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/machines/fax.png" alt="fax.png" /></figure>
+            <figure class="image"><img src="/guides/antagonists/emag/fax.png" alt="fax.png" /></figure>
             <p><strong>Факс&nbsp;</strong></p>
           </td>
           <td>Мостик, комнаты глав, библиотека</td>
@@ -243,7 +243,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
       <tbody>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/machines/sheffend.png" alt="sheffend.png" /></figure>
+            <figure class="image"><img src="/guides/antagonists/emag/sheffend.png" alt="sheffend.png" /></figure>
             <p><strong>ШефВенд&nbsp;</strong></p>
           </td>
           <td>Кухня</td>
