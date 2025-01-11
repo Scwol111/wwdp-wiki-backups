@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-01-06T00:39:33.285Z
+date: 2025-01-11T19:06:22.980Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -377,10 +377,10 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div>Очень легко</div>
   <!---<div><a href="/roles/maintenancedrone">Дрон техобслуживания</a><a href="/roles/maintenancedrone"><img src="/roles/maintenancedrone.png" /></a></div>
   <div><div>Чинит всё то, что понаделала эти Разумная органическая жизнь, чтобы они здесь не исчахли раньше времени.</div></div>
-  <div>Средне</div>
-  <div><a href="/roles/ai">Искусственный Интелект</a><a href="/roles/ai"><img src="/roles/ai.png" /></a></div>
-  <div><div>Одна из новейших разработок корпорации NanoTrasen, которая, к сожалению, ещё не совсем дошла до Космической Станции 14.</div></div>
   <div>Средне</div>-->
+  <div><a href="/roles/ai">Искусственный Интелект</a><a href="/roles/ai"><img src="/roles/jobai.gif" /></a></div>
+  <div><div>Одна из новейших разработок корпорации NanoTrasen, которая, к сожалению, ещё не совсем дошла до Космической Станции 14.</div></div>
+  <div>Средне</div>
 </div>
 
 <div class="roles-table sp">
