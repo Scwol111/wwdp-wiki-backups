@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: false
-date: 2025-01-11T19:59:21.648Z
+date: 2025-01-11T20:00:54.887Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -30,11 +30,9 @@ dateCreated: 2025-01-11T19:20:01.784Z
 
 
 <button type="button" class="collapsible">
-  <div style="display: flex; align-items: center; justify-content: center;">
     <img src="/roles/synthetics/ai_/aiscreenblue.gif">
     <h2 style="color: white; margin: 0 10px;">Крюзимов</h2>
     <img src="/roles/synthetics/ai_/aiscreenblue.gif">
-  </div>
 </button>
 <div class="content">
 <ol>
