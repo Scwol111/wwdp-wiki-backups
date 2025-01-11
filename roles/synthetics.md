@@ -2,7 +2,7 @@
 title: Синтетики
 description: 
 published: true
-date: 2025-01-11T19:24:40.684Z
+date: 2025-01-11T19:26:16.132Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:41.787Z
@@ -29,12 +29,12 @@ dateCreated: 2024-10-20T13:01:41.787Z
 </div>
 
 <div class="role">
-<div class="rolename"><a href="/roles/ai" class="custom-link">Киборг</a></div>
+<div class="rolename"><a href="/roles/ai" class="custom-link">ИИ</a></div>
 <div class="roleimg"><a href="/roles/ai" class="custom-link"><img src="/roles/jobai.gif"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Искусственный Интеллект</div>
+<div class="rolehead">Законам и экипажу</div>
 <div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Незаменимый стальной помощник.</div>  
+<div class="roledesc">Искусственный интеллект станции (сокращенно ИИ) - одна из самых важных должностей на станции. </div>  
 </div>
 
 
