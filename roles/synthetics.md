@@ -2,7 +2,7 @@
 title: Синтетики
 description: 
 published: true
-date: 2024-11-06T17:17:11.214Z
+date: 2025-01-11T19:24:40.684Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:41.787Z
@@ -12,7 +12,7 @@ dateCreated: 2024-10-20T13:01:41.787Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/personalai" class="custom-link">пИИ</a></div>
-<div class="roleimg"><img src="/roles/personalai.png"></div>
+<div class="roleimg"><a href="/roles/personalai" class="custom-link"><img src="/roles/personalai.png"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Искусственный Интеллект</div>
 <div class="roledesclabel">Описание:</div>  
@@ -21,12 +21,22 @@ dateCreated: 2024-10-20T13:01:41.787Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/cyborgs" class="custom-link">Киборг</a></div>
-<div class="roleimg"><img src="/roles/borggiffix.gif"></div>
+<div class="roleimg"><a href="/roles/cyborgs" class="custom-link"><img src="/roles/borggiffix.gif"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Искусственный Интеллект</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Незаменимый стальной помощник.</div>  
 </div>
+
+<div class="role">
+<div class="rolename"><a href="/roles/ai" class="custom-link">Киборг</a></div>
+<div class="roleimg"><a href="/roles/ai" class="custom-link"><img src="/roles/jobai.gif"></a></div>
+<div class="roleheadlabel">Подчиняется:</div>
+<div class="rolehead">Искусственный Интеллект</div>
+<div class="roledesclabel">Описание:</div>  
+<div class="roledesc">Незаменимый стальной помощник.</div>  
+</div>
+
 
 <!--
 <div class="role">
