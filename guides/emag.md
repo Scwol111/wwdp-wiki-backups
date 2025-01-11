@@ -2,7 +2,7 @@
 title: Емаг
 description: 
 published: true
-date: 2024-09-29T18:19:12.273Z
+date: 2025-01-11T18:29:46.525Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:12.273Z
@@ -41,7 +41,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/machines/apc.png" /></figure>
+            <figure class="image"><img src="/guides/antagonists/emag/apc.gif" /></figure>
             <p><strong>АПЦ&nbsp;</strong></p>
           </td>
           <td>Все зоны, где есть энергия&nbsp;</td>
@@ -50,7 +50,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/machines/alarm0.png" /></figure>
+            <figure class="image"><img src="/guides/antagonists/emag/alarm0.png" /></figure>
             <p><strong>Воздушная сигнализация&nbsp;</strong></p>
           </td>
           <td>Зоны, где есть вентиляция или скруббер&nbsp;</td>
