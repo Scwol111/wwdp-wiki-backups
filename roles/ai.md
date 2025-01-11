@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: false
-date: 2025-01-11T19:55:43.240Z
+date: 2025-01-11T19:56:41.338Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -30,9 +30,11 @@ dateCreated: 2025-01-11T19:20:01.784Z
 
 
 <button type="button" class="collapsible">
-  <img src="/roles/synthetics/ai_/aiscreenblue.gif">
-  <h2 style="color: white;">Крюзимов</h2>
-  <img src="/roles/synthetics/ai_/aiscreenblue.gif">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <img src="/roles/synthetics/ai_/aiscreenblue.gif">
+    <h2 style="color: white; margin: 0 10px;">Крюзимов</h2>
+    <img src="/roles/synthetics/ai_/aiscreenblue.gif">
+  </div>
 </button>
 <div class="content">
 <ol>
@@ -41,7 +43,6 @@ dateCreated: 2025-01-11T19:20:01.784Z
   <li>Вы должны заботиться о своей безопасности в той мере, в которой это не противоречит Первому или Второму Законам.</li>
 </ol>
 </div>
-
 
 ## Способности 
 
