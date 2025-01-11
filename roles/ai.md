@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: false
-date: 2025-01-11T19:52:38.017Z
+date: 2025-01-11T19:55:43.240Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -12,10 +12,10 @@ dateCreated: 2025-01-11T19:20:01.784Z
   <div class="roles-passport sint">
     <div class="title sint"><a href="/roles/synthetics" class="is-internal-link is-valid-page">Синтетики</a></div>
     <div>
-      <div><div><img id="ai-image" src="/roles/jobai.gif" onclick="toggleImageAndText(this)"></div></div>
+      <div><div><img src="/roles/jobai.gif"></div></div>
       <div>
         <div id="ai-info">
-          <h1 id="пии" class="toc-header"><a class="toc-anchor" href="#пии">¶</a> Искусственный Интеллект</h1>
+          <h1 id="пии" class="toc-header"><a></a> Искусственный Интеллект</h1>
           <p><strong>Сложность:</strong> Средняя</p>
           <strong>Обязанности:</strong> Помощь экипажу в выполнении его обязанностей.<br>
           <b>Руководители</b>: Каждый член экипажа, в зависимости от законов.<br>
@@ -30,7 +30,9 @@ dateCreated: 2025-01-11T19:20:01.784Z
 
 
 <button type="button" class="collapsible">
+  <img src="/roles/synthetics/ai_/aiscreenblue.gif">
   <h2 style="color: white;">Крюзимов</h2>
+  <img src="/roles/synthetics/ai_/aiscreenblue.gif">
 </button>
 <div class="content">
 <ol>
