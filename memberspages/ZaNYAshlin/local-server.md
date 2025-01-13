@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP и не только
 published: false
-date: 2025-01-13T16:51:46.006Z
+date: 2025-01-13T16:53:30.217Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -38,7 +38,7 @@ dateCreated: 2025-01-13T15:10:02.822Z
 
 4. Пропишите команду <tt>git submodule update --init --recursive</tt> в консоль, чтобы скачать движок игры.
 
-5. Соберите один из вариантов сервера:
+5. Соберите один из вариантов сервера через скрипт:
 
 5.1. Debug для разработки, содержит утилиты для отладки.
 - Windows - <tt>Scripts/bat/buildAllDebug.bat</tt>
@@ -52,7 +52,7 @@ dateCreated: 2025-01-13T15:10:02.822Z
 - Windows - <tt>Scripts/bat/buildAllTools.bat</tt>
 - GNU/Linux & macOS - <tt>Scripts/sh/buildAllTools.sh</tt>
 
-6. Запустите сервер:
+6. Запустите сервер через скрипт:
 
 - Windows - <tt>Scripts\bat\runQuickAll.bat</tt>
 - GNU/Linux & macOS - <tt>Scripts/sh/runQuickAll.sh</tt>
