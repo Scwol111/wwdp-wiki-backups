@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: false
-date: 2025-01-11T20:14:54.640Z
+date: 2025-01-13T18:35:19.741Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -26,12 +26,12 @@ dateCreated: 2025-01-11T19:20:01.784Z
   </div>
 </div>
 
-## Наборы законов
+## Законы 
 
 
 <button type="button" class="collapsible">
     <img src="/roles/synthetics/ai_/aiscreenblue.gif">
-    <h2 style="color: white; margin: 0 10px;">Крюзимов</h2>
+    <h2 style="color: white; margin: 0 10px;">Стандартный законы ИИ</h2>
     <img src="/roles/synthetics/ai_/aiscreenblue.gif">
 </button>
 <div class="content">
@@ -54,7 +54,31 @@ dateCreated: 2025-01-11T19:20:01.784Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/"><br>Какая-то способность</td>
+        <td><img src="/roles/synthetics/ai_/ai_core.png"><br>Какая-то способность</td>
+        <td>Описание</td>
+      </tr>
+      <tr>
+        <td><img src="/roles/synthetics/ai_/station_records.png"><br>Какая-то способность</td>
+        <td>Описание</td>
+      </tr>
+      <tr>
+        <td><img src="/roles/synthetics/ai_/state_laws.png"><br>Какая-то способность</td>
+        <td>Описание</td>
+      </tr>
+      <tr>
+        <td><img src="/roles/synthetics/ai_/mass_scanner.png"><br>Какая-то способность</td>
+        <td>Описание</td>
+      </tr>
+      <tr>
+        <td><img src="/roles/synthetics/ai_/crew_monitor.png"><br>Какая-то способность</td>
+        <td>Описание</td>
+      </tr>
+      <tr>
+        <td><img src="/roles/synthetics/ai_/camera_light.png"><br>Какая-то способность</td>
+        <td>Описание</td>
+      </tr>
+      <tr>
+        <td><img src="/roles/synthetics/ai_/comms_console.png"><br>Какая-то способность</td>
         <td>Описание</td>
       </tr>
     </tbody>
