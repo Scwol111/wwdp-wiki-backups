@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP и не только
 published: false
-date: 2025-01-13T16:53:59.952Z
+date: 2025-01-13T17:04:25.578Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -38,23 +38,23 @@ dateCreated: 2025-01-13T15:10:02.822Z
 
 4. Пропишите команду <tt>git submodule update --init --recursive</tt> в консоль, чтобы скачать движок игры.
 
-5. Соберите один из вариантов сервера через скрипт:
+5. Соберите один из вариантов сервера и клиента через скрипт:
 
 5.1. Debug для разработки, содержит утилиты для отладки.
-- Windows - <tt>Scripts/bat/buildAllDebug.bat</tt>
+- Windows - <tt>Scripts\bat\buildAllDebug.bat</tt>
 - GNU/Linux & macOS - <tt>Scripts/sh/buildAllDebug.sh</tt>
 
 5.2. Release для развёртывания на сервере или маппинга, содержит различные оптимизации.
-- Windows - <tt>Scripts/bat/buildAllRelease.bat</tt>
+- Windows - <tt>Scripts\bat\buildAllRelease.bat</tt>
 - GNU/Linux & macOS - <tt>Scripts/sh/buildAllRelease.sh</tt>
 
-5.3. Tools для маппинга, содержит ещё больше оптимизаций.
-- Windows - <tt>Scripts/bat/buildAllTools.bat</tt>
+5.3. Tools для маппинга, содержит различные оптимизации.
+- Windows - <tt>Scripts\bat\buildAllTools.bat</tt>
 - GNU/Linux & macOS - <tt>Scripts/sh/buildAllTools.sh</tt>
 
-6. Запустите сервер через скрипт:
+6. Запустите сервер и клиент через скрипт:
 
 - Windows - <tt>Scripts\bat\runQuickAll.bat</tt>
 - GNU/Linux & macOS - <tt>Scripts/sh/runQuickAll.sh</tt>
 
-7. Подключитесь к локальному серверу, нажав <tt>Direct Connect To Server...</tt> в меню, и играйте
+7. Подключитесь через клиент к локальному серверу, нажав <tt>Direct Connect To Server...</tt> в меню, и играйте.
