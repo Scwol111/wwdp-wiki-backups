@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница. Вики SS14, СС14, Космическая станция 14, космическая ебанина 14.
 published: true
-date: 2025-01-03T11:35:08.492Z
+date: 2025-01-13T12:27:06.922Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -117,6 +117,7 @@ dateCreated: 2024-09-10T19:12:06.984Z
                 </p>
                 <p>Впервые на нашем сервере? Для того, чтобы начать своё погружение в удивительный мир космической станции, прочитайте как начать играть с нами на <a href="" class="is-external-link" style="text-decoration: none!important;">сайте, которого пока нет.</a></p>
               </div>-->
+<center><b><font size="5">Сервера White Dream</font><b></center>
               <div></div>
               <hr>
               <div class="containerextra">
