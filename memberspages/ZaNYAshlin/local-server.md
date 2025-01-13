@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP и не только
 published: true
-date: 2025-01-13T15:44:59.402Z
+date: 2025-01-13T15:48:20.186Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -65,7 +65,7 @@ dateCreated: 2025-01-13T15:10:02.822Z
 3. В той же командной строке введите команду <tt>dotnet build</tt>
 
 ### <center>Запуск</center>
-<p>Вручную:</p>
+#### Вручную:
 1. Запускаем сервер:
 
 - Windows - запустите исполняемый файл <tt>Content.Server.exe</tt> по пути <tt>..\\*ИМЯ РЕПОЗИТОРИЯ*\bin\Content.Server (не путать с Robust.Server.exe)</tt>
@@ -76,6 +76,6 @@ dateCreated: 2025-01-13T15:10:02.822Z
 - Windows - запустите исполняемый файл <tt>Content.Client.exe</tt> по пути <tt>..\\*ИМЯ РЕПОЗИТОРИЯ*\bin\Content.MapRenderer (не путать с Robust.Client.exe)</tt>
 - GNU/Linux & macOS - <tt>dotnet run --project Content.Client --no-build</tt>
 
-Через скрипт:
+#### Через скрипт:
 - Windows - <tt>..\\*ИМЯ РЕПОЗИТОРИЯ*\Scripts\bat\runQuickAll.bat</tt>
 - GNU/Linux & macOS - <tt>../*ИМЯ РЕПОЗИТОРИЯ*/Scripts/sh/runQuickAll.sh</tt>
