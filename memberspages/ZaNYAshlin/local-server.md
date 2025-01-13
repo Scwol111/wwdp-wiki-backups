@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP и не только
 published: true
-date: 2025-01-13T15:10:02.822Z
+date: 2025-01-13T15:13:27.388Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -43,7 +43,7 @@ dateCreated: 2025-01-13T15:10:02.822Z
 <tt>git clone https://github.com/WWhiteDreamProject/wwdpublic/</tt>
 
 3. Переходим в папку репозитория (носит название последнего словосочетания в ссылке). В данном случае wwdpublic:
-- Универсальный способ - <tt>cd wwdpublic</tt>
+- Универсальный способ через команду <tt>cd wwdpublic</tt>
 - В проводнике нажмите ПКМ по папке wwdpublic и выберите пункт "Открыть в Терминале" из выпадающего списка.
 
 4. Устанавливаем зависимости для сборки через команду <tt>python ./RUN_THIS.py</tt>
