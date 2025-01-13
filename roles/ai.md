@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: false
-date: 2025-01-13T18:35:19.741Z
+date: 2025-01-13T18:36:33.038Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -31,7 +31,7 @@ dateCreated: 2025-01-11T19:20:01.784Z
 
 <button type="button" class="collapsible">
     <img src="/roles/synthetics/ai_/aiscreenblue.gif">
-    <h2 style="color: white; margin: 0 10px;">Стандартный законы ИИ</h2>
+    <h2 style="color: white; margin: 0 10px;">Стандартные законы ИИ</h2>
     <img src="/roles/synthetics/ai_/aiscreenblue.gif">
 </button>
 <div class="content">
