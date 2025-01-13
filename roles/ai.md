@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: false
-date: 2025-01-13T18:36:33.038Z
+date: 2025-01-13T19:22:09.733Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -54,32 +54,32 @@ dateCreated: 2025-01-11T19:20:01.784Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/roles/synthetics/ai_/ai_core.png"><br>Какая-то способность</td>
-        <td>Описание</td>
+        <td><img src="/roles/synthetics/ai_/ai_core.png"><br>Вернуться к ядру</td>
+        <td>Возвращает ваш образ к ядру. <br><img src="/roles/synthetics/ai_/image_ai.png"><img src="/roles/synthetics/ai_/hand.png"> <img src="/roles/jobai.gif"></td>
       </tr>
       <tr>
-        <td><img src="/roles/synthetics/ai_/station_records.png"><br>Какая-то способность</td>
-        <td>Описание</td>
+        <td><img src="/roles/synthetics/ai_/station_records.png"><br>Интерфейс станционного учета</td>
+        <td>Открывает просмотр интерфейса станционного учета.</td>
       </tr>
       <tr>
-        <td><img src="/roles/synthetics/ai_/state_laws.png"><br>Какая-то способность</td>
-        <td>Описание</td>
+        <td><img src="/roles/synthetics/ai_/state_laws.png"><br>Посмотреть законы</td>
+        <td>Открывает список законов ИИ. Здесь можно просмотреть текущие законы и отправить актуальный набор законов экипажу по выбранному каналу связи. </td>
       </tr>
       <tr>
-        <td><img src="/roles/synthetics/ai_/mass_scanner.png"><br>Какая-то способность</td>
-        <td>Описание</td>
+        <td><img src="/roles/synthetics/ai_/mass_scanner.png"><br>Интерфейс консоли массы</td>
+        <td>Открывает соотвествующий названию интерфейс.<br><img style="width: 80%" src="/roles/synthetics/ai_/mass.png"></td>
       </tr>
       <tr>
-        <td><img src="/roles/synthetics/ai_/crew_monitor.png"><br>Какая-то способность</td>
-        <td>Описание</td>
+        <td><img src="/roles/synthetics/ai_/хуйня"><br>Пульт управления экипажем</td>
+        <td>Открывает карту станции.<br><img style="width: 90%" src="/roles/synthetics/ai_/station.png"></td>
       </tr>
       <tr>
-        <td><img src="/roles/synthetics/ai_/camera_light.png"><br>Какая-то способность</td>
-        <td>Описание</td>
+        <td><img src="/roles/synthetics/ai_/camera_light.png"><br>Переключить подсветку камер</td>
+        <td>Включает подсветку камеры наблюдения в непосредственной близости от всего образа.</td>
       </tr>
       <tr>
-        <td><img src="/roles/synthetics/ai_/comms_console.png"><br>Какая-то способность</td>
-        <td>Описание</td>
+        <td><img src="/roles/synthetics/ai_/captain.png"><br>Показать иконки экипажа</td>
+        <td>Показывает иконки профессий у айди карт. </td>
       </tr>
     </tbody>
   </table>
