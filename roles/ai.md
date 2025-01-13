@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: false
-date: 2025-01-13T19:38:55.990Z
+date: 2025-01-13T19:58:07.625Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -105,6 +105,37 @@ dateCreated: 2025-01-11T19:20:01.784Z
 -  Не -> отклонено/ответ отрицательный.
 
 ### Взаимодействия
+<p>
+<center> <img src="/roles/synthetics/ai_/command-door.png"></center>
+  <center><b>Шлюзы</b></center>
+
+Кликните правой кнопкой мыши (<kbd>ПКМ</kbd>) на шлюзе, чтобы открыть контекстное меню и выбрать пункт "Open actions" для доступа к вариантам взаимодействия.
+
+
+<center style="overflow-x: auto">
+  <table class="pai" id="ai-table">
+    <thead>
+      <tr>
+        <th>Способность</th>
+        <th>Описание</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><img src="/roles/synthetics/ai_/emergency_on.png"><br>Переключить аварийный режим</td>
+        <td>Переводит шлюз в аварийный режим, позволяя экипажу без соответствующего доступа открыть его.</td>
+      </tr>
+      <tr>
+        <td><img src="/roles/synthetics/ai_/bolt_door.png"><br>Переключить болты</td>
+        <td>Переключает болты на шлюзе. Блокируя его полностью.</td>
+      </tr>
+      <tr>
+        <td><img src="/roles/synthetics/ai_/door_overcharge_on.png"><br>Включить перегрузку</td>
+        <td>Шлюз начнет бить током. АА-АЙ Б-Б-Л-Я-Я-Я-ТЬ! OOF-F!</td>
+      </tr>
+    </tbody>
+  </table>
+</center>
 
 
 <div class="table"></div>
