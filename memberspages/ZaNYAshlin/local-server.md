@@ -2,21 +2,20 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP и не только
 published: false
-date: 2025-01-13T15:56:01.493Z
+date: 2025-01-13T16:49:56.485Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
 ---
 
 # <center>Запуск локального сервера</center>
-В этом руководстве вы научитесь развёртывать локальный сервер любого проекта с открытым билдом, в частности WWDP.
-## <center>Собственноручная сборка</center>
-Собственноручная сборка подразумевает собой поэтапный процесс с самого клонирования репозитория.
+В этом руководстве вы научитесь развёртывать локальный сервер любого проекта с открытым билдом на базе Einstein Engines, в частности WWDP.
+## <center>Cборка через скрипт</center>
+Для облегчения работы, были созданы скрипты. Приступим к сборке.
 
 Для начала установите компоненты, необходимые для сборки:
 - [Git](https://git-scm.com/downloads)
 - [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
-- [Python 3.7+](https://www.python.org/downloads)
 
 Для работы с утилитами понадобится терминал:
 - Windows - [Windows Terminal](https://learn.microsoft.com/ru-ru/windows/terminal/)
@@ -26,56 +25,36 @@ dateCreated: 2025-01-13T15:10:02.822Z
 <p>Пользователям дистрибутивов GNU/Linux рекомендуется устанавливать компоненты для сборки через встроенный пакетный менеджер.</p>
 <p>Пользователям macOS рекомендуется использовать пакетный менеджер <a href="https://brew.sh/">homebrew</a>, но можно использовать установщики с официальных сайтов.</p>
 
-Этапы:
+### Этапы:
 1. Откройте любую выбранную вами директорию в терминале:
 - Консольный способ - <tt>cd *нужная директория*</tt>
 - Или в проводнике нажмите ПКМ и выберите пункт "Открыть в Терминале" из выпадающего списка.
 
-2. Клонируем нужный вам репозиторий через команду <tt>git clone *ссылка*</tt>
-Вместо *ссылки* вставьте нужный вам репозиторий. Вот некоторые из существующих на свете:
-- WWDP - https://github.com/WWhiteDreamProject/wwdpublic
-- Einstein Engines - https://github.com/Simple-Station/Einstein-Engines
-- Backmen & Ataraxia - https://github.com/Rxup/space-station-14
-- Corvax - https://github.com/space-syndicate/space-station-14
-- Corvax Next - https://github.com/space-syndicate/space-station-14-next
-- Wizard's Den - https://github.com/space-wizards/space-station-14
-<p>Получившаяся команда будет иметь примерно такой вид:</p>
+2. Клонируем репозиторий через команду:
 <tt>git clone https://github.com/WWhiteDreamProject/wwdpublic/</tt>
 
 3. Переходим в папку репозитория в терминале (носит название последнего словосочетания в ссылке). В данном случае wwdpublic:
-- Консольный способ через команду <tt>cd wwdpublic</tt>
-- Или в проводнике нажмите ПКМ по папке wwdpublic и выберите пункт "Открыть в Терминале" из выпадающего списка.
+<tt>cd wwdpublic</tt>
 
-4. Устанавливаем зависимости для сборки через команду <tt>python ./RUN_THIS.py</tt>
+4. Пропишите команду <tt>git submodule update --init --recursive</tt> в консоль, чтобы скачать движок игры.
 
-5. Собираем сервер и клиент через команду <tt>dotnet build</tt> или <tt>dotnet build --configuration *конфигурация*</tt>
-Вместо *конфигурация* впишите нужную:
-- <tt>Release</tt> - обычная сборка, используемая на серверах;
-- <tt>Tools</tt> - отладка, оптимизированная для маппинга;
-- <tt>Debug</tt> - отладка;
-- <tt>DebugOpt</tt> - оптимизированная отладка;
+5. Соберите один из вариантов сервера:
 
-### <center>Обновление версии</center>
+5.1. Debug для разработки, содержит утилиты для отладки.
+- Windows - <tt>Scripts/bat/buildAllDebug.bat</tt>
+- GNU/Linux & macOS - <tt>Scripts/sh/buildAllDebug.sh</tt>
 
-1. Переходим в папку репозитория в терминале (носит название последнего словосочетания в ссылке):
-- Универсальный способ через команду <tt>cd *путь до репозитория*</tt>
-- Или в проводнике нажмите ПКМ по папке репозитория и выберите пункт "Открыть в Терминале" из выпадающего списка.
+5.2. Release для развёртывания на сервере или маппинга, содержит различные оптимизации.
+- Windows - <tt>Scripts/bat/buildAllRelease.bat</tt>
+- GNU/Linux & macOS - <tt>Scripts/sh/buildAllRelease.sh</tt>
 
-2. Пропишите команды <tt>git pull</tt> и <tt>git submodule update --init --recursive</tt> в консоль.
-3. В той же командной строке введите команду <tt>dotnet build</tt>
+5.3. Tools для маппинга, содержит ещё больше оптимизаций.
+- Windows - <tt>Scripts/bat/buildAllTools.bat</tt>
+- GNU/Linux & macOS - <tt>Scripts/sh/buildAllTools.sh</tt>
 
-### <center>Запуск</center>
-#### Вручную:
-1. Запускаем сервер:
+6. Запустите сервер:
 
-- Windows - запустите исполняемый файл <tt>Content.Server.exe</tt> по пути <tt>..\\*ИМЯ РЕПОЗИТОРИЯ*\bin\Content.Server (не путать с Robust.Server.exe)</tt>
-- GNU/Linux & macOS - <tt>dotnet run --project Content.Client --no-build</tt>
+- Windows - <tt>Scripts\bat\runQuickAll.bat</tt>
+- GNU/Linux & macOS - <tt>Scripts/sh/runQuickAll.sh</tt>
 
-2. Запускаем клиент:
-
-- Windows - запустите исполняемый файл <tt>Content.Client.exe</tt> по пути <tt>..\\*ИМЯ РЕПОЗИТОРИЯ*\bin\Content.MapRenderer (не путать с Robust.Client.exe)</tt>
-- GNU/Linux & macOS - <tt>dotnet run --project Content.Client --no-build</tt>
-
-#### Через скрипт:
-- Windows - <tt>..\\*ИМЯ РЕПОЗИТОРИЯ*\Scripts\bat\runQuickAll.bat</tt>
-- GNU/Linux & macOS - <tt>../*ИМЯ РЕПОЗИТОРИЯ*/Scripts/sh/runQuickAll.sh</tt>
+7. Подключитесь к локальному серверу, нажав <tt>Direct Connect To Server...</tt> в меню, и играйте
