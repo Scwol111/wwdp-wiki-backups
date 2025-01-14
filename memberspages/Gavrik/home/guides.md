@@ -2,22 +2,23 @@
 title: Руководства
 description: 
 published: false
-date: 2025-01-14T17:35:26.726Z
+date: 2025-01-14T18:09:42.190Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
 ---
 
 # 123
+<button style="background-color:#0095FF">asdsad</button>
 <div class="nav-panel center br">
   <!--  -->
-  <div class="nav-panel__nav-tabs">
+  <div class="nav-tabs">
     <button class="nav-link active">Основы</button>
     <button class="nav-link ">Безопасность</button>
     <button class="nav-link">Юстиция</button>
   </div>
   <!--  -->
-  <div class="nav-panel__tab-panels br-child padding-bl br-child">
+  <div class="tab-panels br-child">
     <div class="tab-panel">
       <a class="tab-panel__item">
         <div>
