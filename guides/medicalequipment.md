@@ -2,7 +2,7 @@
 title: Медицинский инвентарь
 description: 
 published: true
-date: 2024-10-20T12:14:39.562Z
+date: 2025-01-14T23:06:08.916Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:43.866Z
@@ -437,7 +437,7 @@ dateCreated: 2024-09-29T18:19:43.866Z
       <td></td>
     </tr>
     <tr>
-      <td><img src="/guides/medicine/medicine/electric_disk.png" class="big"><br><strong>Дисковая пила</strong></td>
+      <td><img src="/guides/electric_disk.png" class="big"><br><strong>Дисковая пила</strong></td>
       <td>Для интенсивной резки.</td>
       <td></td>
     </tr>
