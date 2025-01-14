@@ -2,7 +2,7 @@
 title: Смотритель
 description: 
 published: true
-date: 2024-09-25T19:10:49.881Z
+date: 2024-10-20T12:13:41.813Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:00:30.773Z

@@ -2,7 +2,7 @@
 title: Курьер
 description: 
 published: true
-date: 2024-10-04T15:21:26.348Z
+date: 2024-10-20T12:13:32.142Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:36:37.178Z

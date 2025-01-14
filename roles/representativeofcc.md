@@ -2,7 +2,7 @@
 title: Представитель ЦК
 description: 
 published: true
-date: 2024-09-25T17:16:35.094Z
+date: 2024-10-20T13:01:42.624Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:16:35.094Z

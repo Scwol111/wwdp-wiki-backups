@@ -2,7 +2,7 @@
 title: Химия
 description: 
 published: true
-date: 2024-09-17T17:18:12.578Z
+date: 2024-10-20T12:12:35.105Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-17T17:16:16.611Z

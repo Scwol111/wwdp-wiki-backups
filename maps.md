@@ -1,11 +1,11 @@
 ---
 title: Карты
 description: 
-published: false
-date: 2024-08-25T17:39:51.180Z
+published: true
+date: 2024-10-20T12:11:33.647Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-25T11:20:31.901Z
+dateCreated: 2024-09-10T19:07:39.208Z
 ---
 
 # Header

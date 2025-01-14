@@ -2,7 +2,7 @@
 title: Captain
 description: 
 published: true
-date: 2024-09-22T19:22:30.154Z
+date: 2024-10-20T12:12:45.586Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:57:16.237Z

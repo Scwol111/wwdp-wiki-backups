@@ -2,7 +2,7 @@
 title: Инженерия
 description: 
 published: true
-date: 2024-10-31T13:21:15.170Z
+date: 2024-10-31T13:21:16.028Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:26.495Z

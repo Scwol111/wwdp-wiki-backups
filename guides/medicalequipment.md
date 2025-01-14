@@ -2,7 +2,7 @@
 title: Медицинский инвентарь
 description: 
 published: true
-date: 2024-09-29T18:19:43.866Z
+date: 2024-10-20T12:14:39.562Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:43.866Z

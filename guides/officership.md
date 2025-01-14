@@ -2,7 +2,7 @@
 title: Офицерство
 description: 
 published: true
-date: 2024-11-28T19:35:33.534Z
+date: 2024-11-28T19:35:34.383Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:18.400Z

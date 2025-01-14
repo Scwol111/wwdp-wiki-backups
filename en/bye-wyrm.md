@@ -2,7 +2,7 @@
 title: Bye wyrm
 description: 
 published: true
-date: 2024-12-26T15:11:01.660Z
+date: 2024-12-26T15:11:02.412Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-26T15:03:34.732Z

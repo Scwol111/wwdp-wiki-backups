@@ -2,7 +2,7 @@
 title: Инженерный Отдел
 description: 
 published: true
-date: 2025-01-03T12:46:37.189Z
+date: 2025-01-03T12:46:38.044Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:38.329Z

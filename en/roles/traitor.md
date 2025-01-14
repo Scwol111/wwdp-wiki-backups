@@ -2,7 +2,7 @@
 title: Traitor
 description: 
 published: true
-date: 2024-10-17T16:52:45.342Z
+date: 2024-10-20T12:15:08.631Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-17T16:48:56.699Z

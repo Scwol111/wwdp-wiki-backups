@@ -2,7 +2,7 @@
 title: Шаблон паспорта роли
 description: 
 published: true
-date: 2024-09-27T19:26:50.970Z
+date: 2024-10-20T13:01:42.624Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:21:17.004Z

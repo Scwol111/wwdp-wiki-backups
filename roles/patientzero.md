@@ -2,7 +2,7 @@
 title: Нулевой пациент
 description: 
 published: true
-date: 2024-10-30T10:35:23.612Z
+date: 2024-10-30T10:35:24.417Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:30:13.701Z

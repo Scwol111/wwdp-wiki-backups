@@ -2,7 +2,7 @@
 title: Гладиатор
 description: Знает много приемов, но не всеми пользуется, зато может обучить других им. 
 published: true
-date: 2024-10-28T16:06:56.709Z
+date: 2024-10-28T16:06:57.645Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-22T21:02:18.345Z

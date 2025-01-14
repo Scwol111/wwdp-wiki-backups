@@ -2,7 +2,7 @@
 title: Communication
 description: 
 published: true
-date: 2024-10-30T13:43:33.055Z
+date: 2024-10-30T13:43:33.834Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:31.211Z

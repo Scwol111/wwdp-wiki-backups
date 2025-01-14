@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2024-09-29T18:20:06.170Z
+date: 2024-10-20T12:14:45.218Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z

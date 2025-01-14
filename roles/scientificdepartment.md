@@ -2,7 +2,7 @@
 title: Научный Отдел
 description: 
 published: true
-date: 2024-11-06T17:30:23.363Z
+date: 2024-11-06T17:30:24.180Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:37.739Z

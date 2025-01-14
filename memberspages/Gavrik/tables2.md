@@ -2,7 +2,7 @@
 title: Tables
 description: 
 published: false
-date: 2024-12-17T18:34:14.834Z
+date: 2024-12-17T18:34:15.669Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T18:34:14.834Z

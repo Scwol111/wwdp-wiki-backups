@@ -2,7 +2,7 @@
 title: Маг
 description: 
 published: true
-date: 2024-12-30T19:14:58.164Z
+date: 2024-12-30T19:14:59.037Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:38:47.177Z

@@ -2,7 +2,7 @@
 title: Культист
 description: 
 published: true
-date: 2024-10-04T19:41:50.708Z
+date: 2024-10-20T13:01:41.996Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T14:58:53.955Z

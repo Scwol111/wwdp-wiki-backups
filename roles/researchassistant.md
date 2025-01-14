@@ -2,7 +2,7 @@
 title: Научный Ассистент
 description: 
 published: true
-date: 2024-09-28T16:19:30.760Z
+date: 2024-10-20T13:01:39.057Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:47:36.062Z

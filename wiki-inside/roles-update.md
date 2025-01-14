@@ -2,7 +2,7 @@
 title: Обновление таблицы ролей
 description: 
 published: false
-date: 2024-12-26T21:00:13.497Z
+date: 2024-12-26T21:00:14.303Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-26T14:37:23.458Z

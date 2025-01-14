@@ -2,7 +2,7 @@
 title: Гамлет
 description: 
 published: true
-date: 2024-09-25T17:26:27.829Z
+date: 2024-10-20T13:01:43.680Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:26:27.829Z

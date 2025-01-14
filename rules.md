@@ -2,7 +2,7 @@
 title: Правила
 description: 
 published: true
-date: 2024-12-23T12:22:08.767Z
+date: 2024-12-23T12:22:09.550Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:43.345Z

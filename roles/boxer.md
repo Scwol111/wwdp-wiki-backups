@@ -2,7 +2,7 @@
 title: Боксёр
 description: 
 published: true
-date: 2024-10-06T10:10:17.078Z
+date: 2024-10-20T13:01:41.505Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:05:08.625Z

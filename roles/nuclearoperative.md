@@ -2,7 +2,7 @@
 title: Ядерный Оперативник
 description: 
 published: true
-date: 2025-01-13T21:22:00.671Z
+date: 2025-01-13T21:22:01.506Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:15:26.706Z

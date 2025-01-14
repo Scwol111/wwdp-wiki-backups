@@ -2,7 +2,7 @@
 title: Тесла
 description: 
 published: true
-date: 2024-10-31T13:17:20.674Z
+date: 2024-10-31T13:17:21.518Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:31.251Z

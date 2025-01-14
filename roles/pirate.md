@@ -2,7 +2,7 @@
 title: Пират
 description: 
 published: true
-date: 2024-09-28T17:43:01.171Z
+date: 2024-10-20T13:01:41.996Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:32:18.436Z

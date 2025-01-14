@@ -2,7 +2,7 @@
 title: Атмосферный Техник
 description: 
 published: true
-date: 2024-10-04T14:21:59.230Z
+date: 2024-10-20T13:01:39.715Z
 tags: роли
 editor: markdown
 dateCreated: 2024-09-10T19:08:10.565Z

@@ -2,7 +2,7 @@
 title: Инвентарь отдела снабжения
 description: 
 published: true
-date: 2025-01-02T17:37:03.665Z
+date: 2025-01-02T17:37:04.495Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:45.854Z

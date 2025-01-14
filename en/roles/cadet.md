@@ -2,7 +2,7 @@
 title: Cadet
 description: 
 published: true
-date: 2024-10-11T16:58:06.019Z
+date: 2024-10-20T12:15:01.667Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-11T16:58:06.019Z

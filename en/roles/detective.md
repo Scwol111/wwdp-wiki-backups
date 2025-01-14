@@ -2,7 +2,7 @@
 title: Detective
 description: 
 published: true
-date: 2024-10-11T16:55:59.164Z
+date: 2024-10-20T12:15:00.491Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-11T16:55:59.164Z

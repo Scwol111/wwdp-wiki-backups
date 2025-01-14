@@ -2,7 +2,7 @@
 title: Отряд Быстрого Реагирования
 description: 
 published: true
-date: 2024-09-25T17:19:27.858Z
+date: 2024-10-20T13:01:42.624Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:19:27.858Z

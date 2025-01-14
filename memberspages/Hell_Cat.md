@@ -1,11 +1,11 @@
 ---
 title: Untitled Page
 description: 
-published: false
-date: 2024-08-26T09:18:18.838Z
+published: true
+date: 2024-10-20T12:12:02.569Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-26T08:59:16.533Z
+dateCreated: 2024-09-10T19:08:07.070Z
 ---
 
 <div style="text-align: justify; background-color: rgb(22, 22, 22); padding: 16px; border-radius: 16px; box-shadow: rgb(32, 32, 32) 0px 0px 16px 4px inset;">

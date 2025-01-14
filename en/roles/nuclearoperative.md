@@ -2,7 +2,7 @@
 title: Nuclear Operative
 description: 
 published: true
-date: 2024-10-17T16:55:53.628Z
+date: 2024-10-20T12:15:10.627Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-17T16:55:25.424Z

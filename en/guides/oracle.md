@@ -2,7 +2,7 @@
 title: Oracle
 description: 
 published: true
-date: 2024-09-21T19:05:30.436Z
+date: 2024-10-20T12:12:51.678Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T19:05:30.436Z

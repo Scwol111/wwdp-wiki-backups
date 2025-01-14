@@ -2,7 +2,7 @@
 title: Технический ассистент
 description: 
 published: true
-date: 2024-10-04T14:27:43.279Z
+date: 2024-10-20T13:01:39.715Z
 tags: роли
 editor: markdown
 dateCreated: 2024-09-10T19:08:29.750Z

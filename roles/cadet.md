@@ -2,7 +2,7 @@
 title: Кадет
 description: 
 published: true
-date: 2024-12-30T20:02:01.997Z
+date: 2024-12-30T20:02:02.777Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:57:44.261Z

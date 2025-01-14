@@ -2,7 +2,7 @@
 title: Отдел Юстиции
 description: 
 published: true
-date: 2024-11-30T18:47:54.229Z
+date: 2024-11-30T18:47:54.984Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:39.415Z

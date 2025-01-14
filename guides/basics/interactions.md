@@ -1,11 +1,11 @@
 ---
 title: Взаимодействия
 description: 
-published: false
-date: 2024-08-26T01:44:23.607Z
+published: true
+date: 2024-10-20T12:12:23.740Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-26T01:37:15.147Z
+dateCreated: 2024-09-10T19:08:36.618Z
 ---
 
 <div><left>

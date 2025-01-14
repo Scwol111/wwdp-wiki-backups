@@ -2,7 +2,7 @@
 title: Хранитель
 description: 
 published: true
-date: 2024-09-28T18:12:53.501Z
+date: 2024-10-20T13:01:41.996Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:35:39.205Z

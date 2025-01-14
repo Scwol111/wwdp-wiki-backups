@@ -2,7 +2,7 @@
 title: Аномалии
 description: 
 published: true
-date: 2024-09-28T02:20:44.135Z
+date: 2024-10-20T13:01:39.057Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T02:08:35.014Z

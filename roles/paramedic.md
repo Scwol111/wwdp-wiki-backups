@@ -2,7 +2,7 @@
 title: Парамедик
 description: 
 published: true
-date: 2024-09-25T17:52:40.384Z
+date: 2024-10-20T13:01:38.577Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:26.886Z

@@ -2,7 +2,7 @@
 title: Jurisprudence 
 description: 
 published: true
-date: 2024-09-28T15:52:33.414Z
+date: 2024-10-20T12:14:18.388Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T15:52:33.414Z

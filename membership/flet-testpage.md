@@ -2,7 +2,7 @@
 title: Как зайти на сервер
 description: 
 published: false
-date: 2024-12-13T16:25:48.661Z
+date: 2024-12-13T16:25:49.438Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-06T17:10:06.240Z

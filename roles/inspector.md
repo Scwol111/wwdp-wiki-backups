@@ -2,7 +2,7 @@
 title: Инспектор
 description: 
 published: true
-date: 2024-11-13T15:27:01.588Z
+date: 2024-11-13T15:27:02.385Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:04:43.998Z

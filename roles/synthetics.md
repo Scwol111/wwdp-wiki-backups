@@ -2,7 +2,7 @@
 title: Синтетики
 description: 
 published: true
-date: 2025-01-11T19:34:34.643Z
+date: 2025-01-11T19:34:35.431Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:41.787Z

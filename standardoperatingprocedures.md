@@ -2,7 +2,7 @@
 title: Стандартные процедуры
 description: 
 published: true
-date: 2024-12-18T16:37:17.480Z
+date: 2024-12-18T16:37:18.353Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-12T09:44:15.165Z

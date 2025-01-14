@@ -2,7 +2,7 @@
 title: Псионический Мантис
 description: 
 published: true
-date: 2024-11-17T09:45:29.853Z
+date: 2024-11-17T09:45:30.648Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-22T09:28:16.539Z

@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-01-06T18:06:55.427Z
+date: 2025-01-06T18:06:56.330Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z

@@ -2,7 +2,7 @@
 title: Psionics
 description: Psionics
 published: true
-date: 2024-10-04T19:56:04.873Z
+date: 2024-10-20T12:14:52.033Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T19:54:27.269Z

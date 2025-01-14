@@ -2,7 +2,7 @@
 title: Священник
 description: 
 published: true
-date: 2024-10-04T14:56:28.047Z
+date: 2024-10-20T13:01:41.505Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:10:18.092Z

@@ -2,7 +2,7 @@
 title: Гондола
 description: 
 published: true
-date: 2024-11-12T08:47:06.280Z
+date: 2024-11-12T08:47:07.085Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:29:54.858Z

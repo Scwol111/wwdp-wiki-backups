@@ -2,7 +2,7 @@
 title: Экономика
 description: 
 published: true
-date: 2024-12-30T22:17:17.923Z
+date: 2024-12-30T22:17:18.707Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-29T18:18:28.721Z

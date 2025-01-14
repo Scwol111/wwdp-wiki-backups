@@ -2,7 +2,7 @@
 title: Антагонисты
 description: 
 published: true
-date: 2025-01-06T00:42:46.967Z
+date: 2025-01-06T00:42:47.759Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:40.598Z

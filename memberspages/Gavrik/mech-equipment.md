@@ -2,7 +2,7 @@
 title: Оборудование меха
 description: 
 published: true
-date: 2024-11-17T11:51:15.076Z
+date: 2024-11-17T11:51:15.855Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-17T11:09:21.213Z

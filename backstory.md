@@ -1,11 +1,11 @@
 ---
 title: Лор
 description: 
-published: false
-date: 2024-09-03T05:01:29.385Z
+published: true
+date: 2024-10-20T13:01:42.624Z
 tags: 
 editor: markdown
-dateCreated: 2024-08-25T11:20:08.107Z
+dateCreated: 2024-09-10T19:07:31.839Z
 ---
 
 # Давным-давно, в далёкой галактике

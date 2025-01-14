@@ -2,7 +2,7 @@
 title: Shift Goals
 description: 
 published: true
-date: 2024-10-13T12:11:23.882Z
+date: 2024-10-20T12:15:07.590Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-13T12:09:16.235Z

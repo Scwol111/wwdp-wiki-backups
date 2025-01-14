@@ -2,10 +2,10 @@
 title: Mindhack Rules
 description: Mindhack Rules
 published: true
-date: 2024-09-03T14:17:32.112Z
+date: 2024-10-20T12:12:26.692Z
 tags: 
 editor: markdown
-dateCreated: 2024-09-03T14:05:56.489Z
+dateCreated: 2024-09-10T19:08:42.463Z
 ---
 
 <h1><a class="toc-anchor" href="#mindslave"></a> <img src="/master.png" alt="master.png" width="32" style="vertical-align: middle;"> Mindslave <img src="/master.png" alt="master.png" width="32" style="vertical-align: middle;"></h1>

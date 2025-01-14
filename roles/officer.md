@@ -2,7 +2,7 @@
 title: Офицер
 description: 
 published: true
-date: 2024-09-28T21:27:15.195Z
+date: 2024-10-20T13:01:42.624Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:59:37.975Z

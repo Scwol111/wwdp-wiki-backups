@@ -2,7 +2,7 @@
 title: Медицина
 description: Капсула криогенного сна, Душа, Биомасса, Клонирование, Мониторинг экипажа
 published: true
-date: 2024-10-30T07:20:23.856Z
+date: 2024-10-30T07:20:24.707Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:19:43.196Z

@@ -2,7 +2,7 @@
 title: Терминатор
 description: 
 published: true
-date: 2024-10-04T14:10:15.905Z
+date: 2024-10-20T13:01:41.996Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:37:34.296Z

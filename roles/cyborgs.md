@@ -2,7 +2,7 @@
 title: Cyborgs
 description: 
 published: true
-date: 2024-11-06T17:12:37.809Z
+date: 2024-11-06T17:12:38.650Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:21:44.105Z

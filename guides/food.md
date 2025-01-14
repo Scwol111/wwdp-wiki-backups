@@ -2,7 +2,7 @@
 title: Готовка
 description: 
 published: true
-date: 2024-10-04T20:53:24.161Z
+date: 2024-10-20T12:14:47.043Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-29T18:20:37.366Z

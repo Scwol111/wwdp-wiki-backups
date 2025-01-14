@@ -2,7 +2,7 @@
 title: Мышка!
 description: 
 published: true
-date: 2024-10-04T14:31:28.731Z
+date: 2024-10-20T13:01:43.680Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:25:33.241Z

@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2024-12-30T19:14:42.467Z
+date: 2024-12-30T19:14:43.286Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z

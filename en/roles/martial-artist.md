@@ -2,7 +2,7 @@
 title: Martial artist
 description: 
 published: true
-date: 2024-10-12T08:46:44.459Z
+date: 2024-10-20T12:15:03.927Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-12T08:46:44.459Z

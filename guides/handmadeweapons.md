@@ -2,7 +2,7 @@
 title: Самодельное оружие
 description: 
 published: true
-date: 2024-10-12T19:39:30.453Z
+date: 2024-10-20T12:12:36.130Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-19T20:20:38.412Z

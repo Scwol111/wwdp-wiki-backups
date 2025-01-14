@@ -2,7 +2,7 @@
 title: Отдел Снабжения
 description: 
 published: true
-date: 2024-11-06T17:21:32.484Z
+date: 2024-11-06T17:21:33.253Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:38.874Z

@@ -2,7 +2,7 @@
 title: Черты персонажа.
 description: Черты персонажа.
 published: false
-date: 2024-12-02T18:47:55.895Z
+date: 2024-12-02T18:47:56.691Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T21:27:18.257Z

@@ -2,7 +2,7 @@
 title: Командование
 description: 
 published: true
-date: 2024-11-27T19:35:32.036Z
+date: 2024-11-27T19:35:32.799Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:35.091Z

@@ -2,7 +2,7 @@
 title: Юрист
 description: 
 published: true
-date: 2024-10-13T09:11:45.221Z
+date: 2024-10-20T13:01:40.725Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:32:46.799Z

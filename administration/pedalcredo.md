@@ -2,7 +2,7 @@
 title: Кредо педали
 description: Правила, кодекс, админа, педали.
 published: true
-date: 2024-12-19T20:58:55.035Z
+date: 2024-12-19T20:58:55.863Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:46.621Z

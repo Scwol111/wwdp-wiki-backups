@@ -2,7 +2,7 @@
 title: Сингулярность
 description: 
 published: true
-date: 2024-09-26T19:14:55.594Z
+date: 2024-10-20T12:14:08.066Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:14:55.594Z

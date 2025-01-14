@@ -2,7 +2,7 @@
 title: Интерфейс
 description: 
 published: true
-date: 2024-12-26T22:08:33.211Z
+date: 2024-12-26T22:08:33.955Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-26T21:28:49.931Z

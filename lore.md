@@ -2,7 +2,7 @@
 title: Лор
 description: 
 published: true
-date: 2024-10-04T06:52:58.527Z
+date: 2024-10-20T12:14:49.984Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-04T06:52:58.527Z

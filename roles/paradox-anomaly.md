@@ -2,7 +2,7 @@
 title: Парадоксальная аномалия
 description: 
 published: true
-date: 2024-09-23T12:21:19.003Z
+date: 2024-10-20T13:01:36.613Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-21T13:34:25.772Z
