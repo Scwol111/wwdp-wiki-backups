@@ -2,14 +2,14 @@
 title: Руководства
 description: 
 published: false
-date: 2025-01-14T16:44:41.086Z
+date: 2025-01-14T17:15:05.409Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
 ---
 
 # 123
-<div class="nav-panel center v-sheet v-card theme--dark">
+<div class="nav-panel center">
   <!--  -->
   <div class="nav-panel__nav-tabs">
     <button class="nav-link active">Основы</button>
