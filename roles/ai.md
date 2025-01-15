@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: false
-date: 2025-01-15T11:14:21.643Z
+date: 2025-01-15T11:15:16.137Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -84,7 +84,7 @@ dateCreated: 2025-01-11T19:20:01.784Z
         <td>Открывает соотвествующий названию интерфейс.<br><img style="width: 60%" src="/roles/synthetics/ai_/mass.png" ></td>
       </tr>
       <tr>
-        <td><img src="/roles/synthetics/ai_/хуйня"><br>Интерфейс Мониторинга Экипажа</td>
+        <td><img src="/roles/synthetics/ai_/crew_monitor.png"><br>Интерфейс Мониторинга Экипажа</td>
         <td>Способность открывает интерфейс консоли Мониторинга Экипажа.<br><img style="width: 60%" src="/roles/synthetics/ai_/station.png" class="hui"></td>
       </tr>
       <tr>
