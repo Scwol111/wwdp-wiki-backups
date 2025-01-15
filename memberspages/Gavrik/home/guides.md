@@ -2,15 +2,15 @@
 title: Руководства
 description: 
 published: false
-date: 2025-01-15T15:28:31.907Z
+date: 2025-01-15T15:38:22.906Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
 ---
 
-# 123
-<button style="background-color:#0095FF;padding:10px;">asd</button>
-<div class="nav-panel center br">
+  # 123
+  <button style="background-color:#0095FF;padding:10px;">asd</button>
+  <div class="nav-panel center br">
   <!--  -->
   <div class="nav-tabs">
     <button class="nav-link active">Основы</button>
@@ -21,30 +21,42 @@ dateCreated: 2024-12-29T06:47:46.338Z
   <div class="tab-panels br-child">
     <div class="tab-panel">
       <a class="tab-panel__item">
+        <div>
+          <img src="/guides/interactions.png"/>
+        </div>
         <span>Взаимодействия</span>
-        <img src="/guides/interactions.png"/>
       </a>
       <a class="tab-panel__item">
+        <div>
+          <img src="/guides/communication.png"/>
+        </div>
         <span>Коммуникация</span>
-        <img src="/guides/communication.png"/>
       </a>
       <a class="tab-panel__item">
+        <div>
+          <img src="/guides/mood.gif"/>
+        </div>
         <span>Настроение</span>
-        <img src="/guides/mood.gif"/>
       </a>
       <a class="tab-panel__item">
+        <div>
+          <img src="/guides/terminology.png"/>
+        </div>
         <span>Терминология</span>
-        <img src="/guides/terminology.png"/>
       </a>
       <a class="tab-panel__item">
+        <div>
+          <img src="/guides/language.png"/>
+        </div>
         <span>Языки</span>
-        <img src="/guides/language.png"/>
       </a>
       <a class="tab-panel__item">
+        <div>
+          <img src="/guides/language.png"/>
+        </div>
         <span>Языки</span>
-        <img src="/guides/language.png"/>
       </a>
     </div>
   </div>
 </div>
-<div></div>
+  <div></div>
