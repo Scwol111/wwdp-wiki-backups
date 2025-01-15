@@ -2,14 +2,13 @@
 title: Руководства
 description: 
 published: false
-date: 2025-01-15T18:58:13.699Z
+date: 2025-01-15T19:05:19.561Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
 ---
 
 # 123
-<button style="background-color:#0095FF;padding:10px;">asd</button>
 <div class="nav-panel center br">
   <!--  -->
   <div class="nav-tabs">
@@ -21,23 +20,23 @@ dateCreated: 2024-12-29T06:47:46.338Z
   <div class="tab-panels br-child">
     <div class="tab-panel">
       <a class="tab-panel__item">
-        <div>Взаимодействия</div>
+        <span>Взаимодействия</span>
         <img src="/main_page_icons/harm__white.png"/>  
       </a>
       <a class="tab-panel__item">
-        <div>Коммуникация</div>
+        <span>Коммуникация</span>
         <img src="/main_page_icons/headset__white.png"/>
       </a>
       <a class="tab-panel__item">
-        <div>Настроение</div>
+        <span>Настроение</span>
         <img src="/main_page_icons/mood__white.png"/>
       </a>
       <a class="tab-panel__item">
-        <div>Терминология</div>
+        <span>Терминология</span>
         <img src="/main_page_icons/terminology__white.png"/>
       </a>
       <a class="tab-panel__item">
-        <div>Языки</div>
+        <span>Языки</span>
         <img src="/main_page_icons/language__white.png"/>
       </a>
     </div>
