@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: false
-date: 2025-01-15T11:16:46.927Z
+date: 2025-01-15T12:01:18.593Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -34,11 +34,15 @@ dateCreated: 2025-01-11T19:20:01.784Z
 
 Роль ИИ — это ответственность и привилегия.  ИИ обязан помогать экипажу, защищать и управлять станцией. 
 <p>
-<center><img style="width: 128px" src="/roles/synthetics/ai_/image_ai.png"></center>
-
-<center><b>Ваш образ</b></center>
 
 
+<center>
+  <div class="info-item-container">
+    <img style="width: 128px" src="/roles/synthetics/ai_/image_ai.png">
+    <p><b>Образ</b><br>
+Ваша голограмма, которую может видеть экипаж. </p>
+  </div>
+</center>
 
 ## Наборы законов
 
