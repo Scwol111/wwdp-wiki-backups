@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: false
-date: 2025-01-15T12:06:18.976Z
+date: 2025-01-15T12:06:34.688Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -47,7 +47,7 @@ dateCreated: 2025-01-11T19:20:01.784Z
   <div class="info-item-container">
     <img style="width: 128px" src="/roles/jobai.gif">
     <p><b>Ядро ИИ</b><br>
-Это мощный компьютер, являющийся<br> мозгом станции. </p>
+Это мощный компьютер, являющийся мозгом <br> станции. </p>
   </div>
 </center>
 
