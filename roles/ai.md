@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: false
-date: 2025-01-15T11:15:16.137Z
+date: 2025-01-15T11:16:26.703Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -81,7 +81,7 @@ dateCreated: 2025-01-11T19:20:01.784Z
       </tr>
       <tr>
         <td><img class="hui" src="/roles/synthetics/ai_/mass_scanner.png"><br>Интерфейс Сканнера Массы</td>
-        <td>Открывает соотвествующий названию интерфейс.<br><img style="width: 60%" src="/roles/synthetics/ai_/mass.png" ></td>
+        <td>Способность открывает интерфейс консоли Сканнера Массы.<br><img style="width: 60%" src="/roles/synthetics/ai_/mass.png" ></td>
       </tr>
       <tr>
         <td><img src="/roles/synthetics/ai_/crew_monitor.png"><br>Интерфейс Мониторинга Экипажа</td>
