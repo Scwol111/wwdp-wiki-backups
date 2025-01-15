@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: false
-date: 2025-01-15T16:56:46.726Z
+date: 2025-01-15T17:07:00.903Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
@@ -38,7 +38,7 @@ dateCreated: 2024-12-29T06:47:46.338Z
       </a>
       <a class="tab-panel__item">
         <span>Языки</span>
-        <img src="/guides/language.png"/>
+        <img src="/main_page_icons/language__white.png"/>
       </a>
     </div>
   </div>
