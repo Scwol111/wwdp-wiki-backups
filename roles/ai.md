@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: false
-date: 2025-01-15T12:07:03.076Z
+date: 2025-01-15T12:07:17.348Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -41,13 +41,6 @@ dateCreated: 2025-01-11T19:20:01.784Z
     <img style="width: 128px" src="/roles/synthetics/ai_/image_ai.png">
     <p><b>Образ</b><br>
 Ваша голограмма, которую может видеть экипаж. </p>
-  </div>
-</center>
-<center>
-  <div class="info-item-container">
-    <img style="width: 128px" src="/roles/jobai.gif"> 
-    <p><b>Ядро ИИ</b><br>
-Это мощный компьютер, являющийся мозгом <br> станции. </p>
   </div>
 </center>
 
