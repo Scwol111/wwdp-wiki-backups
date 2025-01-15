@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: false
-date: 2025-01-15T17:25:08.944Z
+date: 2025-01-15T17:27:09.227Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
@@ -45,7 +45,7 @@ dateCreated: 2024-12-29T06:47:46.338Z
 </div>
 
 
-<div class="nav-panel center br">
+<div class="nav-panel center br asd">
   <!--  -->
   <div class="nav-tabs">
     <button class="nav-link active">Основы</button>
