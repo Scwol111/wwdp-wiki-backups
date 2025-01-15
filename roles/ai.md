@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: false
-date: 2025-01-13T21:40:09.221Z
+date: 2025-01-15T11:14:21.643Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -72,7 +72,7 @@ dateCreated: 2025-01-11T19:20:01.784Z
         <td>Возвращает ваш образ к ядру. <br><img src="/roles/synthetics/ai_/image_ai.png"><img src="/roles/synthetics/ai_/hand.png"> <img src="/roles/jobai.gif"></td>
       </tr>
       <tr>
-        <td><img src="/roles/synthetics/ai_/station_records.png"><br>Интерфейс станционного учета</td>
+        <td><img src="/roles/synthetics/ai_/station_records.png"><br>Интерфейс станционного учёта</td>
         <td>Открывает просмотр интерфейса станционного учета.</td>
       </tr>
       <tr>
@@ -80,19 +80,19 @@ dateCreated: 2025-01-11T19:20:01.784Z
         <td>Открывает список законов ИИ. Здесь можно просмотреть текущие законы и отправить актуальный набор законов экипажу по выбранному каналу связи. </td>
       </tr>
       <tr>
-        <td><img src="/roles/synthetics/ai_/mass_scanner.png"><br>Интерфейс консоли массы</td>
-        <td>Открывает соотвествующий названию интерфейс.<br><img style="width: 80%" src="/roles/synthetics/ai_/mass.png"></td>
+        <td><img class="hui" src="/roles/synthetics/ai_/mass_scanner.png"><br>Интерфейс Сканнера Массы</td>
+        <td>Открывает соотвествующий названию интерфейс.<br><img style="width: 60%" src="/roles/synthetics/ai_/mass.png" ></td>
       </tr>
       <tr>
-        <td><img src="/roles/synthetics/ai_/хуйня"><br>Пульт управления экипажем</td>
-        <td>Открывает карту станции.<br><img style="width: 90%" src="/roles/synthetics/ai_/station.png"></td>
+        <td><img src="/roles/synthetics/ai_/хуйня"><br>Интерфейс Мониторинга Экипажа</td>
+        <td>Способность открывает интерфейс консоли Мониторинга Экипажа.<br><img style="width: 60%" src="/roles/synthetics/ai_/station.png" class="hui"></td>
       </tr>
       <tr>
         <td><img src="/roles/synthetics/ai_/camera_light.png"><br>Переключить подсветку камер</td>
         <td>Включает подсветку камеры наблюдения в непосредственной близости от вашего образа.</td>
       </tr>
       <tr>
-        <td><img src="/roles/synthetics/ai_/captain.png"><br>Показать иконки экипажа</td>
+        <td><img src="/roles/synthetics/ai_/job_view.png"><br>Показывать иконки должностей</td>
         <td>Показывает иконки профессий у айди карт. </td>
       </tr>
     </tbody>
