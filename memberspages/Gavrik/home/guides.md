@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: false
-date: 2025-01-15T17:27:09.227Z
+date: 2025-01-15T18:58:13.699Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
@@ -21,23 +21,23 @@ dateCreated: 2024-12-29T06:47:46.338Z
   <div class="tab-panels br-child">
     <div class="tab-panel">
       <a class="tab-panel__item">
-        <span>Взаимодействия</span>
-        <img src="/main_page_icons/harm__white.png"/>
+        <div>Взаимодействия</div>
+        <img src="/main_page_icons/harm__white.png"/>  
       </a>
       <a class="tab-panel__item">
-        <span>Коммуникация</span>
+        <div>Коммуникация</div>
         <img src="/main_page_icons/headset__white.png"/>
       </a>
       <a class="tab-panel__item">
-        <span>Настроение</span>
+        <div>Настроение</div>
         <img src="/main_page_icons/mood__white.png"/>
       </a>
       <a class="tab-panel__item">
-        <span>Терминология</span>
+        <div>Терминология</div>
         <img src="/main_page_icons/terminology__white.png"/>
       </a>
       <a class="tab-panel__item">
-        <span>Языки</span>
+        <div>Языки</div>
         <img src="/main_page_icons/language__white.png"/>
       </a>
     </div>
