@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: false
-date: 2025-01-16T07:48:08.997Z
+date: 2025-01-16T07:50:20.447Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
@@ -12,9 +12,17 @@ dateCreated: 2024-12-29T06:47:46.338Z
 <div class="nav-panel center br">
   <!--  -->
   <div class="nav-tabs">
-    <button class="nav-link active">Основы</button>
-    <button class="nav-link ">Безопасность</button>
+    <button class="nav-link">Основы</button>
+    <button class="nav-link">Безопасность</button> 
     <button class="nav-link">Юстиция</button>
+    <button class="nav-link">Инженерия</button>
+    <button class="nav-link">Медицина</button>
+    <button class="nav-link">Наука</button>
+    <button class="nav-link">Логистика</button>
+    <button class="nav-link">Сервис</button>
+    <button class="nav-link">Командование</button>
+    <button class="nav-link">Антагонистам</button>
+    <button class="nav-link">Разное</button>
   </div>
   <!--  -->
   <div class="tab-panels br-child">
