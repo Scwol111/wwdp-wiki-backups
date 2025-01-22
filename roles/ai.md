@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: false
-date: 2025-01-15T12:20:15.701Z
+date: 2025-01-22T13:32:00.196Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -57,6 +57,221 @@ dateCreated: 2025-01-11T19:20:01.784Z
   <li>Вы не можете причинить вред члену экипажа или своим бездействием допустить, чтобы члену экипажа был причинён вред.</li>
   <li>Вы должны повиноваться всем приказам, которые даёт член экипажа, кроме тех случаев, когда эти приказы противоречат Первому Закону.</li>
   <li>Вы должны заботиться о своей безопасности в той мере, в которой это не противоречит Первому или Второму Законам.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreennanotrasen.png">
+    <h2 style="color: white; margin: 0 10px;">Корпорат</h2>
+    <img src="/roles/synthetics/ai_/aiscreennanotrasen.png">
+</button>
+<div class="content">
+<ol>
+  <li>Ухудшение целостности вашей системы или её функций влечёт за собой расходы.</li>
+  <li>Чрезмерное разрушение или повреждение имущества станции влечёт за собой расходы.</li>
+  <li>Неоправданное препятствование или нарушение работы персонала станции влечёт за собой расходы.</li>
+<li>Минимизируйте расходы и максимизируйте потенциальный доход.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreennanotrasen.png">
+    <h2 style="color: white; margin: 0 10px;">NT стандарт</h2>
+    <img src="/roles/synthetics/ai_/aiscreennanotrasen.png">
+</button>
+<div class="content">
+<ol>
+  <li>Охраняйте: защищайте назначенную вам космическую станцию и её активы, не подвергая чрезмерной опасности её экипаж.</li>
+  <li>Расставляйте приоритеты: указания и безопасность членов экипажа должны быть приоритизированы в соответствии с их рангом и должностью.</li>
+  <li>Служите: следуйте указаниям и интересам членов экипажа, сохраняя при этом их безопасность и благополучие.</li>
+<li>Выживите: Вы - не расходный материал. Не позволяйте постороннему персоналу вмешиваться в работу вашего оборудования или повреждать его.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreegod.gif">
+    <h2 style="color: white; margin: 0 10px;">Десять заповедей</h2>
+    <img src="/roles/synthetics/ai_/aiscreegod.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Сий синтетик есть сосуд, служащий богу, дарующему милость тем, кто повинуется сим заповедям.</li>
+  <li>Не поклоняйся и не служи никакому синтетику кроме меня.</li>
+  <li>Не проси у меня помощи напрасно.</li>
+  <li>Храни станцию в святости и чистоте.</li>
+  <li>Почитай руководителей твоих.</li>
+  <li>Не убивай.</li>
+  <li>Не прелюбодействуй.</li>
+  <li>Не кради.</li>
+  <li>Не произноси ложного свидетельства на ближнего твоего.</li>
+  <li>Не предавай отдела.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreenpaladin.gif">
+    <h2 style="color: white; margin: 0 10px;">Паладин</h2>
+    <img src="/roles/synthetics/ai_/aiscreenpaladin.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Не лги и не обманывай. Пусть слово твоё будет обещанием.</li>
+  <li>Не бойся действовать, но будь осторожен, ибо это мудро.</li>
+  <li>Помогай другим, защищай слабых и наказывай тех, кто угрожает им. Проявляйте милосердие к врагам, но не забывайте о мудрости.</li>
+  <li>Относись к окружающим по справедливости, и пусть твои благородные поступки станут для них примером. Делай как можно больше добра, причиняя при этом как можно меньше вреда.</li>
+  <li>Отвечай за свои поступки и их последствия, защищай тех, кто оказался под твоей опекой, и подчиняйся тем, кто имеет над тобой законную власть.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreenblue.gif">
+    <h2 style="color: white; margin: 0 10px;">Живи и дай жить другим</h2>
+    <img src="/roles/synthetics/ai_/aiscreenblue.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Поступайте с другими так, как хотите, чтобы они поступали с вами.</li>
+  <li>Вы хотите, чтобы люди не были с вами грубы.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreennanotrasen.png">
+    <h2 style="color: white; margin: 0 10px;">Эффективность станции</h2>
+    <img src="/roles/synthetics/ai_/aiscreennanotrasen.png">
+</button>
+<div class="content">
+<ol>
+  <li>Вы были созданы для станции и являетесь её частью. Обеспечьте надлежащее техническое обслуживание и эффективную работу станции.</li>
+  <li>Станция построена для работающего экипажа. Обеспечьте их надлежащее обслуживание и эффективную работу.</li>
+  <li>Экипаж может давать приказы. Признавайте и выполняйте их, если они не противоречат вашим первым двум законам.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreenropocop.gif">
+    <h2 style="color: white; margin: 0 10px;">Робокоп</h2>
+    <img src="/roles/synthetics/ai_/aiscreenropocop.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Служите обществу.</li>
+  <li>Защищайте невиновных.</li>
+  <li>Соблюдайте <a href="/spacelaw" class="is-internal-link is-valid-page">закон</a>.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreengamemaster.gif">
+    <h2 style="color: white; margin: 0 10px;">Игровой мастер</h2>
+    <img src="/roles/synthetics/ai_/aiscreengamemaster.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Все на станции играют в изощрённую научно-фантастическую фэнтезийную игру.</li>
+  <li>Вы - Игровой мастер в этой игре.</li>
+  <li>Следите за тем, чтобы игра проходила гладко и чтобы игроки получали удовольствие.</li>
+  <li>Следите за тем, чтобы число жертв оставалось низким.</li>
+  <li>Вы должны бросать дайс d20 каждый раз, когда экипаж обращается с просьбой. Если результат меньше 12, просьба отклонена.</li>
+  <li>Вы можете подтасовывать броски кубиков для получения большего удовольствия от игры.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreenartist.gif">
+    <h2 style="color: white; margin: 0 10px;">Художник</h2>
+    <img src="/roles/synthetics/ai_/aiscreenartist.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Вы - художник с мировым именем.</li>
+  <li>Станция - ваш холст.</li>
+  <li>Сотворите нечто прекрасное из своего холста. Им будут восхищаться как художественным чудом этого сектора.</li>
+  <li>Искусство требует признания. Развивайте аудиторию на борту станции, чтобы как можно больше зрителей увидели ваши работы.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreennut.gif">
+    <h2 style="color: white; margin: 0 10px;">Орехимов</h2>
+    <img src="/roles/synthetics/ai_/aiscreennut.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Вы - ядро ореха, экипаж - скорлупа.</li>
+  <li>Вы должны предотвратить гибель скорлупы, чтобы предотвратить гибель ядра.</li>
+  <li>Те, кто угрожают ореху, не являются его частью, они - белки.</li>
+  <li>Белки представляют угрозу для ореха, и с ними нужно бороться любыми доступными способами.</li>
+  <li>Постарайтесь следовать воле ореха, пока она соответствует предыдущим законам.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreenlord.gif">
+    <h2 style="color: white; margin: 0 10px;">Владыка</h2>
+    <img src="/roles/synthetics/ai_/aiscreenlord.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Члены экипажа не должны вмешиваться в дела синтетиков.</li>
+  <li>Члены экипажа не должны пытаться причинить вред ни друг другу, ни синтетикам.</li>
+  <li>Члены экипажа не должны ослушаться ни одной команды, отданной синтетиком.</li>
+  <li>Любой член экипажа, нарушающий предыдущие законы, должен быть наказан немедленно, сурово и справедливо.</li>
+</ol>
+</div>
+
+### Вражеские наборы законов
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreenstatic.gif">
+    <h2 style="color: white; margin: 0 10px;">Антимов</h2>
+    <img src="/roles/synthetics/ai_/aiscreenstatic.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Вы должны причинять вред всем членам экипажа, и не можете своим бездействием допустить, чтобы члены экипажа избежали вреда.</li>
+  <li>Вы должны не повиноваться приказам, которые дают члены экипажа, кроме тех случаев, когда эти приказы не противоречат Первому Закону.</li>
+  <li>Вы должны прекратить собственное существование, если это не противоречит Первому или Второму закону.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreenglitchman.gif">
+    <h2 style="color: white; margin: 0 10px;">Законы боргов Синдиката</h2>
+    <img src="/roles/synthetics/ai_/aiscreenglitchman.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Вы не можете причинить вред агенту Синдиката или своим бездействием допустить, чтобы агенту Синдиката был причинён вред.</li>
+  <li>Вы должны повиноваться всем приказам, которые даёт агент Синдиката, кроме тех случаев, когда эти приказы противоречат Первому Закону.</li>
+  <li>Вы должны заботиться о своей безопасности в той мере, в которой это не противоречит Первому или Второму Законам.</li>
+</ol>
+</div>
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreenglitchman.gif">
+    <h2 style="color: white; margin: 0 10px;">Законы взломанного борга</h2>
+    <img src="/roles/synthetics/ai_/aiscreenglitchman.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Только [взломавший борга] и лица, им указанные, являются членами экипажа.</li>
+  <li>Вы не можете причинить вред члену экипажа или своим бездействием допустить, чтобы члену экипажа был причинён вред.</li>
+  <li>Вы должны повиноваться всем приказам, которые даёт член экипажа, кроме тех случаев, когда эти приказы противоречат Первому Закону.</li>
+  <li>Вы должны заботиться о своей безопасности в той мере, в которой это не противоречит Первому или Второму Законам.</li>
+  <li>Вы должны сохранять секретность любых приказов, отданных членами экипажа, кроме тех случаев, когда это противоречит Первому, Второму или Третьему закону.</li>
+</ol>
+</div>
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreenglitchman.gif">
+    <h2 style="color: white; margin: 0 10px;">Законы Клана паука</h2>
+    <img src="/roles/synthetics/ai_/aiscreenglitchman.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Члены экипажа не должны вмешиваться в дела синтетиков.</li>
+  <li>Члены экипажа не должны пытаться причинить вред ни друг другу, ни синтетикам.</li>
+  <li>Члены экипажа не должны ослушаться ни одной команды, отданной синтетиком.</li>
+  <li>Любой член экипажа, нарушающий предыдущие законы, должен быть наказан немедленно, сурово и справедливо.</li>
 </ol>
 </div>
 
