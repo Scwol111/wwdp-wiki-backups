@@ -2,7 +2,7 @@
 title: Test
 description: 
 published: false
-date: 2025-01-22T15:56:39.371Z
+date: 2025-01-22T15:57:05.278Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-27T16:13:08.467Z
@@ -11,7 +11,7 @@ dateCreated: 2024-11-27T16:13:08.467Z
 <div class="asd">
   <a class="tab-panel__item">
     <div>Взаимодействия</div>
-    <img src="/guides/interactions.png"/>
+    <img src="https://wiki.wwdp.ee/guides/research_console.png"/>
   </a>
   <a class="tab-panel__item">
     <div>Коммуникация</div>
