@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: true
-date: 2025-01-23T07:06:34.938Z
+date: 2025-01-23T13:20:02.864Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -40,7 +40,7 @@ dateCreated: 2025-01-11T19:20:01.784Z
   <div class="info-item-container">
     <img style="width: 128px" src="/roles/synthetics/ai_/image_ai.png">
     <p><b>Образ</b><br>
-Ваша голограмма, которую может видеть экипаж. </p>
+Ваша голограмма, которую не может видеть экипаж. </p>
   </div>
 </center>
 
