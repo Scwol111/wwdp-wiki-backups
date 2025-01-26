@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: false
-date: 2025-01-26T17:02:51.819Z
+date: 2025-01-26T17:06:14.189Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
@@ -18,13 +18,11 @@ dateCreated: 2024-12-29T06:47:46.338Z
   </div>
   <!--  -->
   <div class="tab-panels br-child">
+    <!--  -->
     <div class="tab-panel">
       <a class="tab-panel__item">
-        <div>
-          <p>Взаимодействия</p>
-        </div>
-        <img src="/guides/interactions.png"/>
-        <div></div>
+        <div>Взаимодействия</div>
+        <img src="https://wiki.wwdp.ee/guides/research_console.png"/>
       </a>
       <a class="tab-panel__item">
         <div>Коммуникация</div>
@@ -42,6 +40,7 @@ dateCreated: 2024-12-29T06:47:46.338Z
         <div>Языки</div>
         <img src="/guides/language.png"/>
       </a>
+      <!--  -->
     </div>
   </div>
 </div>
