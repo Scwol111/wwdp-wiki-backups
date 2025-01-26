@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: false
-date: 2025-01-26T19:15:49.832Z
+date: 2025-01-26T19:16:54.007Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-29T06:47:46.338Z
@@ -14,7 +14,7 @@ dateCreated: 2024-12-29T06:47:46.338Z
       <div class="header">
         <span>Разное</span>
       </div>
-      <div class="content  hidden">
+      <div class="content hidden">
         <a class="guide-panel__item">
           <div>Взаимодействия</div>
           <img src="https://wiki.wwdp.ee/guides/research_console.png" />
