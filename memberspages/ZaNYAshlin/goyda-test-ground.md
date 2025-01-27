@@ -2,7 +2,7 @@
 title: Тестовый Полигон
 description: ГОЙДА, БРАТЬЯ И СЕСТРЫ, ГОЙДА!!!
 published: false
-date: 2025-01-27T15:11:33.462Z
+date: 2025-01-27T15:12:07.916Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-03T17:48:26.544Z
@@ -16,7 +16,7 @@ Your content here
  <iframe width="420" height="315"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe> 
-<button onclick="copy()">
+<button onclick="copyToClipboard(text)">
 	<div class="text">
   ZOVZOVZOV
 	</div>
