@@ -2,13 +2,13 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP и не только
 published: false
-date: 2025-01-27T15:47:29.539Z
+date: 2025-01-27T15:55:45.410Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
 ---
 
-<div class="crt">
+
 <div class="term">
 <h1><center>Запуск локального сервера</center></h1>
 В этом руководстве вы научитесь развёртывать локальный сервер любого проекта с открытым билдом на базе Einstein Engines, в том числе WWDP.
