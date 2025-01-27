@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP и не только
 published: false
-date: 2025-01-27T16:48:31.551Z
+date: 2025-01-27T16:52:07.231Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -43,12 +43,19 @@ $$/      $$/ $$/      $$/ $$$$$$$/  $$/
 - Или в проводнике нажмите ПКМ и выберите пункт "Открыть в Терминале" из выпадающего списка.
 
 2. Клонируем репозиторий через команду:
-<code>git clone https://github.com/WWhiteDreamProject/wwdpublic/</code>
+```
+git clone https://github.com/WWhiteDreamProject/wwdpublic/
+```
 
 3. Переходим в папку репозитория в терминале (носит название последнего словосочетания в ссылке). В данном случае wwdpublic:
-<code>cd wwdpublic</code>
+```
+cd wwdpublic
+```
 
-4. Пропишите команду <code>git submodule update --init --recursive</code> в консоль, чтобы скачать движок игры.
+4. Пропишите данную команду в консоль, чтобы скачать движок игры:
+```
+git submodule update --init --recursive
+```
 
 5. Соберите один из вариантов сервера и клиента через скрипт:
 
