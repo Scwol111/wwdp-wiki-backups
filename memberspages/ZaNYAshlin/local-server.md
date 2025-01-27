@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-01-27T16:53:59.260Z
+date: 2025-01-27T16:57:00.941Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -40,7 +40,7 @@ $$/      $$/ $$/      $$/ $$$$$$$/  $$/
 
 1. Откройте любую выбранную вами директорию в терминале:
   - Консольный способ - ```cd *нужная_директория*```
-- Или в проводнике нажмите ПКМ и выберите пункт "Открыть в Терминале" из выпадающего списка.
+- Или в проводнике нажмите ПКМ и выберите пункт ```"Открыть в Терминале"``` из выпадающего списка.
 
 2. Клонируем репозиторий через команду:
 ```
@@ -60,22 +60,22 @@ git submodule update --init --recursive
 5. Соберите один из вариантов сервера и клиента через скрипт:
 
 5.1. Debug для разработки, содержит утилиты для отладки.
-- Windows - <tt>Scripts\bat\buildAllDebug.bat</tt>
-- GNU/Linux & macOS - <tt>Scripts/sh/buildAllDebug.sh</tt>
+- Windows - ```Scripts\bat\buildAllDebug.bat```
+- GNU/Linux & macOS - ```Scripts/sh/buildAllDebug.sh```
 
 5.2. Release для развёртывания на сервере или маппинга, содержит различные оптимизации.
-- Windows - <tt>Scripts\bat\buildAllRelease.bat</tt>
-- GNU/Linux & macOS - <tt>Scripts/sh/buildAllRelease.sh</tt>
+- Windows - ```Scripts\bat\buildAllRelease.bat```
+- GNU/Linux & macOS - ```Scripts/sh/buildAllRelease.sh```
 
 5.3. Tools для маппинга, содержит различные оптимизации.
-- Windows - <tt>Scripts\bat\buildAllTools.bat</tt>
-- GNU/Linux & macOS - <tt>Scripts/sh/buildAllTools.sh</tt>
+- Windows - ```Scripts\bat\buildAllTools.bat```
+- GNU/Linux & macOS - ```Scripts/sh/buildAllTools.sh```
 
 6. Запустите сервер и клиент через скрипт:
 
-- Windows - <tt>Scripts\bat\runQuickAll.bat</tt>
-- GNU/Linux & macOS - <tt>Scripts/sh/runQuickAll.sh</tt>
+- Windows - ```Scripts\bat\runQuickAll.bat```
+- GNU/Linux & macOS - ```Scripts/sh/runQuickAll.sh```
 
-7. Подключитесь через клиент к локальному серверу, нажав <tt>Direct Connect To Server...</tt> в меню, и играйте.
+7. Подключитесь через клиент к локальному серверу, нажав ```Direct Connect To Server...``` в меню, и играйте.
 </div>
 </div>
