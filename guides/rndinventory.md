@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-01-28T21:12:22.048Z
+date: 2025-01-28T22:42:21.644Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -525,12 +525,13 @@ rnd_headset.png"></td>
 </table>
 
 ## <p><span style="color: #f7ccff ;">Контейнеры и раздатчики </span> </p> 
+### Раздатчики
 <div class="table-name"><table>
   <thead>
     <tr>
-      <th>Контейнер/Раздатчик</th>
+      <th>Раздатчик</th>
       <th>Содержимое</th>
-      <th>Контейнер/Раздатчик</th>
+      <th>Раздатчик</th>
       <th>Содержимое</th>
     </tr>
     <tr>
@@ -580,6 +581,43 @@ scidrobe.gif"><p>НаучШкаф</strong></td>
         <li><img src="/guides/science/containers__vends/vends/scidrobe/clothingneckscarfstripedpurple.png">Полосатый фиолетовый шарф [3]</li>
         <li><img src="/guides/science/containers__vends/vends/scidrobe/tinfoil.png">Шапочка из фольги</li>
         <li><img src="/guides/science/containers__vends/vends/scidrobe/winterboots_sci.png">Научные зимние ботинки [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/">DAAAAAAA</li>
+      </td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/scidrobe/	
+scidrobe.gif"><p>Робошкаф</strong></td>
+      <td>    
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/">DAAAAAAA</li>
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+</table></div>
+### Раздатчик
+<div class="table-name"><table>
+  <thead>
+    <tr>
+      <th>Контейнер</th>
+      <th>Содержимое</th>
+      <th>Контейнер</th>
+      <th>Содержимое</th>
+    </tr>
+    <tr>
+      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/robotechdelux/normal.png"><p>Роботех Делюкс</strong></td>
+      <td>    
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/">DAAAAAAAAAAAAAAAA</li>
+    </td>
+      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/scidrobe/	
+scidrobe.gif"><p>НаучШкаф</strong></td>
+      <td>    
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/">DAAAAAAA</li>
+      </td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/scidrobe/	
+scidrobe.gif"><p>Робошкаф</strong></td>
+      <td>    
         <li><img src="/guides/science/containers__vends/vends/scidrobe/">DAAAAAAA</li>
       </td>
     </tr>
