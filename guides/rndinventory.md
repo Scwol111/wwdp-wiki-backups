@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-01-26T23:04:09.864Z
+date: 2025-01-28T20:08:52.549Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -521,7 +521,6 @@ rnd_headset.png"></td>
       <td>Шаблон</td>
       <td>Шаблон</td>
     </tr>
-  </thead>
   <tbody>
 </table>
 
@@ -529,14 +528,12 @@ rnd_headset.png"></td>
 <table class="table-name">
   <thead>
     <tr>
-      <th>Название</th>
-      <th>Описание</th>
-      <th>Предназначение</th>
+      <th>Контейнер/Раздатчик</th>
+      <th colspan=3>Содержимое</th>
     </tr>
     <tr>
       <td><strong>Шаблон 1</strong></td>
-      <td>Шаблон 2</td>
-      <td>Шаблон 2.2</td>
+      <td> <img height="50px" width="50px" src="/guides/science/equipment/rndcoat.png"><p>Моток НВ проводов</td>
     </tr>
   </thead>
   <tbody>
@@ -575,4 +572,5 @@ rnd_headset.png"></td>
   </thead>
   <tbody>
 </table>
+
 
