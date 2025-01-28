@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-01-28T20:41:21.006Z
+date: 2025-01-28T21:12:22.048Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -529,7 +529,9 @@ rnd_headset.png"></td>
   <thead>
     <tr>
       <th>Контейнер/Раздатчик</th>
-      <th colspan=3>Содержимое</th>
+      <th>Содержимое</th>
+      <th>Контейнер/Раздатчик</th>
+      <th>Содержимое</th>
     </tr>
     <tr>
       <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/robotechdelux/normal.png"><p>Роботех Делюкс</strong></td>
@@ -560,6 +562,26 @@ screwdriver.png">Отвёртка [2]</li>
 crowbar.png">Лом [2]</li>
         <li><img src="/guides/science/containers__vends/vends/robotechdelux/">DAAAAAAAAAAAAAAAA</li>
     </td>
+      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/scidrobe/	
+scidrobe.gif"><p>НаучШкаф</strong></td>
+      <td>    
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/clothingbackpackscience.png">Рюкзак учёного [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/science_satchel.png">Сумка учёного [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/science_duffel.png">Вещмешок учёного [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/clothinguniformjumpsuitscientist.png">Комбинезон учёного [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/scientist_jumpskirt.png">Юбка-комбинезон учёного [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/scientist_formal_jumpsuit.png">Формальный комбинезон учёного [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/clothingoutercoatrnd.png">Лабораторный халат учёного [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/clothingshoesbootswintersci.png">Белые туфли [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/galstuk.png">Галстук учёного [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/clothingheadsetscience.png">Научная гарнитура [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/clothingmaskgas.png">Противогаз [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/scicoat.png">Зимнее пальто учёного [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/clothingneckscarfstripedpurple.png">Полосатый фиолетовый шарф [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/tinfoil.png">Шапочка из фольги</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/winterboots_sci.png">Научные зимние ботинки [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/scidrobe/">DAAAAAAA</li>
+      </td>
     </tr>
   </thead>
   <tbody>
