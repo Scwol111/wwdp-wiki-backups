@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-01-28T20:08:52.549Z
+date: 2025-01-28T20:41:21.006Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -525,19 +525,45 @@ rnd_headset.png"></td>
 </table>
 
 ## <p><span style="color: #f7ccff ;">Контейнеры и раздатчики </span> </p> 
-<table class="table-name">
+<div class="table-name"><table>
   <thead>
     <tr>
       <th>Контейнер/Раздатчик</th>
       <th colspan=3>Содержимое</th>
     </tr>
     <tr>
-      <td><strong>Шаблон 1</strong></td>
-      <td> <img height="50px" width="50px" src="/guides/science/equipment/rndcoat.png"><p>Моток НВ проводов</td>
+      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/robotechdelux/normal.png"><p>Роботех Делюкс</strong></td>
+      <td>    
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/lv_coil_30.png">Моток НВ кабеля [4]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/	
+flash.png">Вспышка [4]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/	
+proximitysensor.png">Датчик движения [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/	
+clothingeyeshuddiagnostic.png">Диагностический визор [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/	
+clothingeyeseyepatchhuddiag.png">Диагностический монокль [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/signaller.png">Передатчик сигналов [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/igniter.png">Воспламенитель [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/health_analyzer.gif">Анализатор здоровья [3]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/	
+scalpel.png">Скальпель [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/	
+sawelectric.png">Дисковая пила [1]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/nitrousoxidetank.png">Баллон оксида азота [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/medicalmask.png">Медицинская маска [5]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/clothingheadhatweldingmaskflame.png">Сварочная маска пламени [1]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/welder.png">Сварочный аппарат [1]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/	
+screwdriver.png">Отвёртка [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/	
+crowbar.png">Лом [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robotechdelux/">DAAAAAAAAAAAAAAAA</li>
+    </td>
     </tr>
   </thead>
   <tbody>
-</table>
+</table></div>
 
 ## <p><span style="color: #ffcce1 ;">Прочее</span> </p> 
 <table class="table-name">
