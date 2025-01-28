@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-01-28T22:43:51.983Z
+date: 2025-01-28T22:59:53.358Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -585,10 +585,25 @@ scidrobe.gif"><p>НаучШкаф</strong></td>
       </td>
     </tr>
     <tr>
-      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/scidrobe/	
-scidrobe.gif"><p>Робошкаф</strong></td>
+      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/robodrobe/	robodrobe.gif
+"><p>Робошкаф</strong></td>
       <td>    
-        <li><img src="/guides/science/containers__vends/vends/scidrobe/">DAAAAAAA</li>
+        <li><img src="/guides/science/containers__vends/vends/robodrobe/	
+robohalat.png">Лабораторный халат робототехника [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robodrobe/roboticist_jumpsuit.png">Комбинезон робототехника [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robodrobe/roboticist_jumpskirt.png">Юбка-комбинезон робототехника [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robodrobe/clothingshoescolorblack.png">Чёрные туфли [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robodrobe/clothinghandsglovesfingerless.png">Беспалые перчатки [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robodrobe/corp_soft.png">Корпоративная кепка [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robodrobe/bandana_skull.png">Бандана с черепом [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robodrobe/headset_robotics.png">Робототехническая гарнитура [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robodrobe/	
+coatrobo.png">Зимнее пальто робототехника [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robodrobe/robowintshoze.png">Зимние ботинки робототехника [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robodrobe/robobackpack.png">Рюкзак робототехника [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robodrobe/robosatchel.png">Сумка робототехника [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robodrobe/roboduffel.png">Вещмешок робототехника [2]</li>
+        <li><img src="/guides/science/containers__vends/vends/robodrobe/">DAAAAAAA</li>
       </td>
     </tr>
   </thead>
