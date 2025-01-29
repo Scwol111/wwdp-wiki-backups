@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-01-28T22:59:53.358Z
+date: 2025-01-29T11:39:21.807Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -621,21 +621,57 @@ coatrobo.png">Зимнее пальто робототехника [2]</li>
       <th>Содержимое</th>
     </tr>
     <tr>
-      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/robotechdelux/normal.png"><p>Роботех Делюкс</strong></td>
+      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/containers/scigard/	gard.gif"><p>Гардероб учёного</strong></td>
       <td>    
-        <li><img src="/guides/science/containers__vends/vends/robotechdelux/">DAAAAAAAAAAAAAAAA</li>
+        <li><img src="/guides/science/containers__vends/containers/scigard/	
+clothingshoescolorwhite.png">Белые туфли</li>
+        <li><img src="/guides/science/containers__vends/containers/scigard/	
+clothinguniformjumpsuitscientist.png">Комбинезон учёного</li>
+        <li><img src="/guides/science/containers__vends/containers/scigard/	
+clothingoutercoatrnd.png">Лабораторный халат учёного</li>
+        <li><img src="/guides/science/containers__vends/containers/scigard/clothingbackpackscience.png">Научный рюкзак</li>
+        <li><img src="/guides/science/containers__vends/containers/scigard/scientist_jumpskirt.png">Юбка-кобинезон учёного</li>
+        <li><img src="/guides/science/containers__vends/containers/scigard/">DAAAAAAAAAAAAAAAA</li>
     </td>
-      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/scidrobe/	
-scidrobe.gif"><p>НаучШкаф</strong></td>
+      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/containers/scilock/	
+scilocket.gif"><p>Шкаф учёного</strong></td>
       <td>    
-        <li><img src="/guides/science/containers__vends/vends/scidrobe/">DAAAAAAA</li>
+        <li><img src="/guides/science/containers__vends/containers/scilock/">Лабораторный халат учёного</li>
+        <li><img src="/guides/science/containers__vends/containers/scilock/">Латексные перчатки</li>
+        <li><img src="/guides/science/containers__vends/containers/scilock/">Научная гарнитура</li>
+        <li><img src="/guides/science/containers__vends/containers/scilock/">Сканер аномалий</li>
+        <li><img src="/guides/science/containers__vends/containers/scilock/">Сканер узлов</li>
+        <li><img src="/guides/science/containers__vends/containers/scilock/">Стерильная маска</li>
+        <li><img src="/guides/science/containers__vends/containers/scilock/">DAAAAAAA</li>
       </td>
     </tr>
     <tr>
       <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/scidrobe/	
-scidrobe.gif"><p>Робошкаф</strong></td>
+scidrobe.gif"><p>Шкаф научного руководителя</strong></td>
       <td>    
-        <li><img src="/guides/science/containers__vends/vends/scidrobe/">DAAAAAAA</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlock/">Двоичный ключ шифрования</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlock/">Исследовательская консоль (машинная плата)</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlock/">Коробка научных ключей шифрования</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlock/">Коробка противорадиационных мешков для тел</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlock/">Печать научного руководителя</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlock/">Полноразмерная научная гарнитура</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlock/">Пояс для инструментов</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlock/">Принтер схем (машинная плата)</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlock/">Протолат (машинная плата)</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlock/">Ручной телепортер</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlock/">ID карта (Мистагог)</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlock/">DAAAAAAA</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlock/">DAAAAAAA</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlock/">DAAAAAAA</li>
+      </td>
+      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/scidrobe/	
+scidrobe.gif"><p>Хранилище скафандра [Научный руководитель]</strong></td>
+      <td>    
+        <li><img src="/guides/science/containers__vends/containers/rdlockscaf/">Дыхательная маска</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlockscaf/">Кислородный баллон</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlockscaf/">Скафандр научного руководителя</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlockscaf/">DAAAAAAA</li>
+        <li><img src="/guides/science/containers__vends/containers/rdlockscaf/">DAAAAAAA</li>
       </td>
     </tr>
   </thead>
