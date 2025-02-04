@@ -2,14 +2,14 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-02-04T14:37:48.104Z
+date: 2025-02-04T15:49:20.645Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
 ---
 
 <script>
-h2 {
+h1 {
   text-align: center;
   font-size: 32px;
 }
@@ -37,27 +37,27 @@ h2 {
   </thead>
   <tbody>
     <tr>
-      <td><img height="100px" width="100px" src="/guides/xenoarcheology/analyzator.png"><p><strong>Анализатор артефактов</strong><p></td>
+      <td><img height="100px" width="100px" class="big" src="/guides/xenoarcheology/analyzator.png"><p><strong>Анализатор артефактов</strong><p></td>
       <td>Платформа анализирующая свойства артефактов.</td>
       <td>Анализатор артефактов - неотъемлемая часть ксеноархеологии, ведь только с помощью нее можно получать очки исследования из артефактов! Для работы нужна связь с консолью.</td>
     </tr>
     <tr>
-      <td><img height="100px" width="100px" src="/guides/xenoarcheology/computer.png"><p><strong>Консоль анализа артефактов</strong><p></td>
+      <td><img height="100px" width="100px" class="big" src="/guides/xenoarcheology/computer.png"><p><strong>Консоль анализа артефактов</strong><p></td>
       <td>Консоль предоставляющая интерфейс для упрощения работы с анализатором артефактов.</td>
       <td>При создании связи с анализатором дает возможность начать анализ и получить информацию о нем. Позволяет извлекать очки исследования из артефактов.</td>
     </tr>
     <tr>
-      <td><img height="100px" width="100px" src="/guides/xenoarcheology/art_container.png"><p><strong>Контейнер для артефактов</strong><p></td>
+      <td><img height="100px" width="100px" class="big" src="/guides/xenoarcheology/art_container.png"><p><strong>Контейнер для артефактов</strong><p></td>
       <td>Коробочка с замочком.</td>
       <td>Контейнер для безопасной перевозки артефактов.</td>
     </tr>
     <tr>
-      <td><img height="200px" width="100px" src="/guides/xenoarcheology/crusher.png"><p><strong>Крушитель артефактов</strong><p></td>
+      <td><img height="200px" width="100px" class="big" src="/guides/xenoarcheology/crusher.png"><p><strong>Крушитель артефактов</strong><p></td>
       <td>Быстрый гайд: зайдите в крушитель, быстро нажмите ЛКМ и альт ЛКМ, теперь вы не сможете умереть, поздравляю!</td>
       <td>Нужен для дробления артефактов и не только. При уничтожении артефакта вы можете получить несколько осколков, которые позже можно переделать в новый артефакт.</td>
     </tr>
     <tr>
-      <td><img height="100px" width="100px" src="/guides/xenoarcheology/	
+      <td><img height="100px" width="100px" class="big" src="/guides/xenoarcheology/	
 skaner_uslov.gif"><p><strong>Сканер узлов</strong><p> </td>
       <td>Хуйня прямо как на кассе в магазине, делает пик пилик!</td>
       <td>При использовании на артефакте дает текущий узл. Можно использовать для более быстрого исследования, ведь сканирует моментально, в отличии от анализатора.</td>
@@ -80,59 +80,59 @@ skaner_uslov.gif"><p><strong>Сканер узлов</strong><p> </td>
       <th>Предназначение</th>
     </tr>
     <tr>
-      <td><img height="100px" width="100px" src="/guides/science/anomalies/	
+      <td><img class="big" height="100px" width="100px" src="/guides/science/anomalies/	
 anomaly-generator.png"><p><strong>Генератор аномалий</strong><p></td>
       <td>Сложный и большой механизм дающий создавать новые аномалии.</td>
       <td>Генератор аномалий за 15 плазмы создает 1 аномалию в случайном месте в пределах станции.</td>
     </tr>
     <tr>
-      <td><img height="100px" width="100px" src="/guides/science/anomalies/
+      <td><img class="big" height="100px" width="100px" src="/guides/science/anomalies/
 ape.png"><p><strong>М.А.К.А.К.</strong></td>
       <td>Пушка дающая как стабилизировать, так и дестабилизировать аномалию.</td>
       <td>Пушка способная создавать 4 вида частиц, каждая из которых выполняет свою функцию.</td>
     </tr>
     <tr>
-      <td><img height="100px" width="100px" src="/guides/science/anomalies/	
+      <td><img class="big" height="100px" width="100px" src="/guides/science/anomalies/	
 anomaly-vessel.png"><p><strong>Сосуд аномалии<p></strong></td>
       <td>Дает возможность извлекать выгоду из аномалий.</td>
       <td>При создании связи с аномалией извлекает из нее очки исследования. Для создания связи нажмите ЛКМ по сосуде со сканером аномалий в руках, не забудьте просканировать нужную аномалию перед этим. <p><span style="color: red;">Взрывается вслед за аномалией</span>.</td>
     </tr>
     <tr>
-      <td><img height="170px" width="100px" src="/guides/science/anomalies/	
+      <td><img class="big" height="170px" width="100px" src="/guides/science/anomalies/	
 experimental-anomaly-vessel.png"><p><strong>Экспериментальный сосуд аномалии<p></strong></td>
       <td>Улучшенная версия обычного сосуда!</td>
       <td>Выполняет те же функции что и обычный сосуд аномалии, но выдает вдвое больше очков исследования и выделяет радиацию при работе. <p> <span style="color: red;">Все так же взрывается вслед за аномалией</span> </td>
     </tr>
     <tr>
-      <td><img height="100px" width="100px" src="/guides/science/anomalies/
+      <td><img class="big" height="100px" width="100px" src="/guides/science/anomalies/
 anomaly-scanner.png"><p><strong>Сканер аномалий<p></strong></td>
       <td>Предмет для получения основной информации об аномалии.</td>
       <td>При использовании на аномалии выдает о ней информацию, нужную для изменения ее статуса. Дает возможность соединить аномалию с сосудом.</td>
     </tr>
     <tr>
-      <td><img height="100px" width="100px" src="/guides/science/anomalies/
+      <td><img class="big" height="100px" width="100px" src="/guides/science/anomalies/
 anomaly-locator.png"><p><strong>Локатор аномалий<p></strong></td>
       <td>Самый обычный локатор аномалий.</td>
       <td>Реагирует на аномалии в радиусе 20 тайлов, пищит интенсивнее при приближении к аномалии.</td>
     </tr>
     <tr>
-      <td><img height="100px" width="90px" src="/guides/science/anomalies/wide-anomaly-locator.png"><p><strong>Локатор аномалий широкого спектра<p></strong></td>
+      <td><img class="big" height="100px" width="90px" src="/guides/science/anomalies/wide-anomaly-locator.png"><p><strong>Локатор аномалий широкого спектра<p></strong></td>
       <td>Улучшенный локатор аномалий, потерял возможность более точечного поиска аномалии.</td>
       <td>Реагирует на аномалии в радиусе 40 тайлов, но уже не пищит при приближении к ней.</td>
     </tr>
     <tr>
-      <td><img height="100px" width="150px" src="/guides/science/anomalies/	
+      <td><img class="big" height="100px" width="150px" src="/guides/science/anomalies/	
 anomaly-sync.png"><p><strong>Синхронизатор аномалий</strong><p></td>
       <td>С помощью новых технологий люди смогли подчинить себе даже аномалии!</td>
       <td>Дает возможность синхронизировать устройство с аномалией и стабилизировать ее.</td>
     </tr>
     <tr>
-      <td><img height="100px" width="100px" src="/guides/science/anomalies/gorilla-gauntlet.png"><p><strong>Перчатка Г.О.Р.И.Л.Л.А.</strong><p></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/anomalies/gorilla-gauntlet.png"><p><strong>Перчатка Г.О.Р.И.Л.Л.А.</strong><p></td>
       <td>Перчатка извлекающая силу из ядер аномалий, давая вам ее использовать </td>
       <td>Перчатка способная толкать аномалии и живых существ, используя заряды. Заряды можно получить поставив ядро внутрь перчатки( 1 ядро - 5 зарядов ).</td>
     </tr>
     <tr>
-      <td><img height="100px" width="100px" src="/guides/science/anomalies/chimp.png"><p><strong>Излучатель М.А.Р.Т.Ы.Х.</strong><p></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/anomalies/chimp.png"><p><strong>Излучатель М.А.Р.Т.Ы.Х.</strong><p></td>
       <td>Компактная версия М.А.К.А.К., позволяющая изменить состояние аномалии используя только его.</td>
       <td>Излучатель имеет 10 зарядов стреляющих 4 видами частиц, как и М.А.К.А.К.. Заряжается на обычном заряднике.</td>
     </tr>
@@ -149,17 +149,17 @@ anomaly-sync.png"><p><strong>Синхронизатор аномалий</strong
       <th>Предназначение</th>
     </tr>
     <tr>
-      <td><strong>Фабрикатор экзокостюмов</strong><p><img height="100px" width="100px" src="/guides/science/robotech/exocostume_fabricator.png"></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/robotech/exocostume_fabricator.png"><p><strong>Фабрикатор экзокостюмов</strong><p></td>
       <td>Основной источник деталей для киборгов и прочего.</td>
       <td>Используется для печати деталей и модулей киборгов.</td>
     </tr> 
     <tr>
-      <td><strong>Позитронный мозг</strong><p><img height="100px" width="100px" src="/guides/science/robotech/posibrain.png"></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/robotech/posibrain.png"><p><strong>Позитронный мозг</strong><p></td>
       <td>Процессор или же мозги боргов, которых вы будете создавать изучая робототехнику</td>
       <td>Выполняет функцию вместилища для души, чтобы в ваш борг могла заселиться заблудшая душа.</td>
     </tr>
     <tr>
-      <td><strong><span style="color:#a06969;">Борги</span></strong></td>
+      <td><strong><span>Борги</span></strong></td>
       <td>Рабы? Нет! Это же ваши личные прислуги!</td>
       <td>Борги - металлические существа со своими законами и правилами, они могут выполнять ваши приказы или заменять множество сотрудников своими модулями.</td>
     </tr>
@@ -199,55 +199,55 @@ anomaly-sync.png"><p><strong>Синхронизатор аномалий</strong
       <th>Предназначение</th>
     </tr>
     <tr>
-      <td><strong>Токсин майндбрейкера<p><img height="100px" width="100px" src="/guides/science/psionics/	
-cryptobiolin_pill.png"></strong></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/psionics/	
+cryptobiolin_pill.png"><p><strong>Токсин майндбрейкера<p></strong></td>
       <td>Таблетка убивающая все способности к псионике в съевшем ее человеке.</td>
       <td>Введение в организм 20 или более юнитов майндбрейкер токсина лишает носителя способностей псионики.</td>
     </tr>
     <tr>
-      <td><strong>Шапочка из фольги<p><img height="100px" width="100px" src="/guides/science/psionics/	
-tinfold_hat.png"></strong></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/psionics/	
+tinfold_hat.png"><p><strong>Шапочка из фольги<p></strong></td>
       <td>Лучшая защита от псиопа!</td>
       <td>Слабая защита от псионических способностей, защищает от слабых способностей и превращается в пыль от сильных. <p>Может быть получена из НаучШкафа или создана из 1 стали в крафт меню.</td>
     </tr>
     <tr>
-      <td><strong>Изолирующий череп<p><img height="100px" width="100px" src="/guides/science/psionics/	
-insulative_skullcap.png"></strong></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/psionics/	
+insulative_skullcap.png"><p><strong>Изолирующий череп<p></strong></td>
       <td>Неразрушимый кашкет для избегания псионических сил!</td>
       <td>Более прочный защитник от псионических способностей, не разрушается от сильных воздействий, но может поджечь вас!<p>Может быть найдена в бриге.</td>
     </tr>
     <tr>
-      <td><strong>Изолирующая клетка<p><img height="100px" width="100px" src="/guides/science/psionics/insulative_headcage.png"></strong></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/psionics/insulative_headcage.png"><p><strong>Изолирующая клетка<p></strong></td>
       <td>Изолирует вас от внешнего мира и облучений оттуда!</td>
       <td>Самая неудобная и умеренная от псионики. <p>Находиться в бриге или в торгомате священника</td>
     </tr>
     <tr>
-      <td><strong>Душеломный снаряд<p><img height="100px" width="100px" src="/guides/science/psionics/	
-soulbreaker_shells.png"></strong></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/psionics/	
+soulbreaker_shells.png"><p><strong>Душеломный снаряд<p></strong></td>
       <td>Пуля уничтожающая любую связь между душой и псионикой!</td>
       <td>Душеломные снаряды при попадании уничтожают любые псионические способности у задетого.<p>Могут быть напечатаны на техфабе СБ после некоторых исследований.</td>
     </tr>
     <tr>
-      <td><strong>Оракл<p><img height="100px" width="50px" src="/guides/science/psionics/	
-oracle.png"></strong></td>
+      <td><img class="big" height="100px" width="50px" src="/guides/science/psionics/	
+oracle.png"><p><strong>Оракл<p></strong></td>
       <td>Странная статуя обладающая невероятными способностями</td>
       <td>Оракл - ключевая структура в вашем изучении псионики. За выполнения заданий ( Пожертвований случайных предметов ) создает в своей емкости жидкости, которые при употреблении могут дать вам псионические способности.</td>
     </tr>
     <tr>
-      <td><strong>София<p><img height="100px" width="50px" src="/guides/science/psionics/	
-sophie.png"></strong></td>
+      <td><img class="big" height="100px" width="50px" src="/guides/science/psionics/	
+sophie.png"><p><strong>София<p></strong></td>
       <td>Статуя замечающая самые малые колебания псионических сил в пространстве.</td>
       <td>София - ваш градусник в мире псионики, озвучивает текущий уровень сияния.</td>
     </tr>
     <tr>
-      <td><strong>Пробер мерцания<p><img height="100px" width="100px" src="/guides/science/psionics/	
-glimmer_prober.png"></strong></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/psionics/	
+glimmer_prober.png"><p><strong>Пробер мерцания<p></strong></td>
       <td>Пробер - хороший друг отдела исследований, ведь с помощью него можно пассивно получать очки для ваших целей! Но какой ценой?..</td>
       <td><p>Проберы ловят колебания мерцания и преобразуют его в очки, но повышают уровень мерцания.<p><span style="color: red;">Опасен при высоком уровне мерцания, вызывает разряды молний или даже может взорваться!</span> </td>
     </tr>
     <tr>
-      <td><strong>Сток мерцания<p><img height="100px" width="100px" src="/guides/science/psionics/	
-glimmer_drain.png"></strong></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/psionics/	
+glimmer_drain.png"><p><strong>Сток мерцания<p></strong></td>
       <td>Эффективный борец со страшной силой!</td>
       <td>Сток мерцания открывается путем исследований и эффективно понижает уровень мерцания, может быть использован с пробером, для более безопасной генерации очков.</td>
     </tr>
@@ -265,60 +265,60 @@ glimmer_drain.png"></strong></td>
       <th>Предназначение</th>
     </tr>
     <tr>
-      <td><strong>Сервер РНД</strong><p><img height="100px" width="100px" src="/guides/science/researchanddevelopment/rnd_server.png"></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/researchanddevelopment/rnd_server.png"><p><strong>Сервер РНД</strong><p></td>
       <td>Сервер РНД - хранилище всех знаний полученных экипажем при исследованиях.</td>
       <td>Сервер РНД хранит очки и технологии, которые экипаж исследовал на нем. Без сервера исследования попросту невозможны.</td>
     </tr>
     <tr>
-      <td><strong>Консоль исследований</strong><p><img height="100px" width="100px" src="/guides/science/researchanddevelopment/research_console.png"></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/researchanddevelopment/research_console.png"><p><strong>Консоль исследований</strong><p></td>
       <td>Консоль для исследования разных технологий в любой области!</td>
       <td>Консоль позволяющая исследовать технологии из разных веток, от РНД, до СБ. </td>
     </tr>
     <tr>
-      <td><strong>Терминал дисков</strong><p><img height="100px" width="100px" src="/guides/science/researchanddevelopment/disk_terminal.png"></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/researchanddevelopment/disk_terminal.png"><p><strong>Терминал дисков</strong><p></td>
       <td>Терминал дающий разные диски с технологиями за достаточно скромную цену.</td>
       <td>Терминал позволяет напечатать 1 диск за 1000 очков с совершенно случайной технологией. Напечатанные диски можно поместить в сервер РНД, как и диски с очками исследований.</td>
     </tr>
     <tr>
-      <td><strong>Автолат</strong><p><img height="100px" width="100px" src="/guides/science/researchanddevelopment/autolathe.png"></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/researchanddevelopment/autolathe.png"><p><strong>Автолат</strong><p></td>
       <td>Хоть и самая обычная, но и очень полезная печатная машина!</td>
       <td>Автолат это базовая печатная машина, позволяющая печатать множество предметов, полезных в любой ситуации.</td>
     </tr>
     <tr>
-      <td><strong>Протолат</strong><p><img height="100px" width="100px" src="/guides/science/researchanddevelopment/protolathe.png"></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/researchanddevelopment/protolathe.png"><p><strong>Протолат</strong><p></td>
       <td>Машина дающая реализовать ваши исследования!</td>
       <td>Протолат - продвинутая версия автолата, хотя она уже не позволяет печатать обычные предметы, зато она может напечатать труды ваших исследований.</td>
     </tr>
     <tr>
-      <td><strong>Принтер схем</strong><p><img height="100px" width="100px" src="/guides/science/researchanddevelopment/plata_printer.png"></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/researchanddevelopment/plata_printer.png"><p><strong>Принтер схем</strong><p></td>
       <td>Создатель любой микросхемы для ваших конструкций!</td>
       <td>Позволяет напечатать любую исследованную схему для дальнейшего использования.</td>
     </tr>
     <tr>
-      <td><strong>Пробер мерцания<p><img height="100px" width="100px" src="/guides/science/psionics/	
-glimmer_prober.png"></strong></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/psionics/	
+glimmer_prober.png"><p><strong>Пробер мерцания<p></strong></td>
       <td>Пробер - хороший друг отдела исследований, ведь с помощью него можно пассивно получать очки для ваших целей! Но какой ценой?..</td>
       <td><p>Проберы ловят колебания мерцания и преобразуют его в очки, но повышают уровень мерцания.<p><span style="color: red;">Опасен при высоком уровне мерцания, вызывает разряды молний или даже может взорваться!</span> </td>
     </tr>
     <tr>
-      <td><strong>Сосуд аномалии<p><img height="100px" width="100px" src="/guides/science/anomalies/	
-anomaly-vessel.png"></strong></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/anomalies/	
+anomaly-vessel.png"><p><strong>Сосуд аномалии<p></strong></td>
       <td>Дает возможность извлекать выгоду из аномалий.</td>
       <td>При создании связи с аномалией извлекает из нее очки исследования. Для создания связи нажмите ЛКМ по сосуде со сканером аномалий в руках, не забудьте просканировать нужную аномалию перед этим. <p><span style="color: red;">Взрывается вслед за аномалией</span>.</td>
     </tr>
     <tr>
-      <td><strong>Экспериментальный сосуд аномалии<p><img height="170px" width="100px" src="/guides/science/anomalies/	
-experimental-anomaly-vessel.png"></strong></td>
+      <td><img class="big" height="170px" width="100px" src="/guides/science/anomalies/	
+experimental-anomaly-vessel.png"><p><strong>Экспериментальный сосуд аномалии<p></strong></td>
       <td>Улучшенная версия обычного сосуда!</td>
       <td>Выполняет те же функции что и обычный сосуд аномалии, но выдает вдвое больше очков исследования и выделяет радиацию при работе. <p> <span style="color: red;">Все так же взрывается вслед за аномалией</span> </td>
     </tr>
     <tr>
-      <td><strong>Анализатор артефактов</strong><p><img height="100px" width="100px" src="/guides/xenoarcheology/analyzator.png"></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/xenoarcheology/analyzator.png"><p><strong>Анализатор артефактов</strong><p></td>
       <td>Платформа анализирующая свойства артефактов.</td>
       <td>Анализатор артефактов - неотъемлемая часть ксеноархеологии, ведь только с помощью нее можно получать очки исследования из артефактов! Для работы нужна связь с консолью.</td>
     </tr>
     <tr>
-      <td><strong>Консоль анализа артефактов</strong><p><img height="100px" width="100px" src="/guides/xenoarcheology/computer.png"></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/xenoarcheology/computer.png"><p><strong>Консоль анализа артефактов</strong><p></td>
       <td>Консоль предоставляющая интерфейс для упрощения работы с анализатором артефактов.</td>
       <td>При создании связи с анализатором дает возможность начать анализ и получить информацию о нем. Позволяет извлекать очки исследования из артефактов.</td>
     </tr>
@@ -345,7 +345,7 @@ experimental-anomaly-vessel.png"></strong></td>
       <th><abbr title="Стамина"><span style="color: yellow ;">Стам.</span></abbr></th>
     </tr>
     <tr>
-      <td><strong>Капюшон радиозащитного костюма</strong><p><img height="100px" width="100px" src="/guides/science/equipment/clothingheadhathoodrad.png"></td>
+      <td><strong>Капюшон радиозащитного костюма</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/clothingheadhathoodrad.png"></td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
@@ -358,7 +358,7 @@ experimental-anomaly-vessel.png"></strong></td>
       <td>- Часть противорадиационного костюма</td>
     </tr>
     <tr>
-      <td><strong>Противорадиационный костюм</strong><p><img height="100px" width="100px" src="/guides/science/equipment/clothingoutersuitrad.png"></td>
+      <td><strong>Противорадиационный костюм</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/clothingoutersuitrad.png"></td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
@@ -371,7 +371,7 @@ experimental-anomaly-vessel.png"></strong></td>
       <td>- Шкаф радиационных костюмов</td>
     </tr>
     <tr>
-      <td><strong>Сварочный противогаз</strong><p><img height="100px" width="100px" src="/guides/science/equipment/	
+      <td><strong>Сварочный противогаз</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/	
 clothingmaskweldinggas.png"></td>
       <td>-</td>
       <td>-</td>
@@ -385,7 +385,7 @@ clothingmaskweldinggas.png"></td>
       <td>- Создается на протолате после исследования</td>
     </tr>
     <tr>
-      <td><strong>Шлем скафандра научного руководителя</strong><p><img height="100px" width="100px" src="/guides/science/equipment/	
+      <td><strong>Шлем скафандра научного руководителя</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/	
 rdhead.png"></td>
       <td>10%</td>
       <td>10%</td>
@@ -399,7 +399,7 @@ rdhead.png"></td>
       <td>- Часть скафандра научного руководителя</td>
     </tr>
     <tr>
-      <td><strong>Скафандр научного руководителя</strong><p><img height="100px" width="100px" src="/guides/science/equipment/rdsuit.png"></td>
+      <td><strong>Скафандр научного руководителя</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/rdsuit.png"></td>
       <td>40%</td>
       <td>20%</td>
       <td>10%</td>
@@ -412,7 +412,7 @@ rdhead.png"></td>
       <td>- Хранилище скафандра или шкаф научного руководителя</td>
     </tr>
     <tr>
-      <td><strong>Сапёрный шлем</strong><p><img height="100px" width="100px" src="/guides/science/equipment/bombsuit_helmet.png"></td>
+      <td><strong>Сапёрный шлем</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/bombsuit_helmet.png"></td>
       <td>5%</td>
       <td>5%</td>
       <td>5%</td>
@@ -425,7 +425,7 @@ rdhead.png"></td>
       <td>- Шкаф взрывозащитного снаряжения</td>
     </tr>
     <tr>
-      <td><strong>Сапёрный костюм</strong><p><img height="100px" width="100px" src="/guides/science/equipment/bombsuit.png"></td>
+      <td><strong>Сапёрный костюм</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/bombsuit.png"></td>
       <td>10%</td>
       <td>10%</td>
       <td>10%</td>
@@ -438,7 +438,7 @@ rdhead.png"></td>
       <td>- Шкаф взрывозащитного снаряжения</td>
     </tr>
     <tr>
-      <td><strong>Зимнее пальто учёного</strong><p><img height="100px" width="100px" src="/guides/science/equipment/scicoat.png"></td>
+      <td><strong>Зимнее пальто учёного</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/scicoat.png"></td>
       <td>-</td>
       <td>5%</td>
       <td>-</td>
@@ -451,7 +451,7 @@ rdhead.png"></td>
       <td>- НаучШкаф</td>
     </tr>
     <tr>
-      <td><strong>Лабораторный халат учёного</strong><p><img height="100px" width="100px" src="/guides/science/equipment/rndcoat.png"></td>
+      <td><strong>Лабораторный халат учёного</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/rndcoat.png"></td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
@@ -464,7 +464,7 @@ rdhead.png"></td>
       <td>- Научшкаф<p> - Гардероб/шкаф учёного</td>
     </tr>
     <tr>
-      <td><strong>Зимние ботинки учёного</strong><p><img height="100px" width="100px" src="/guides/science/equipment/science_wintboots.png"></td>
+      <td><strong>Зимние ботинки учёного</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/science_wintboots.png"></td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
@@ -477,7 +477,7 @@ rdhead.png"></td>
       <td>- Научшкаф</td>
     </tr>
     <tr>
-      <td><strong>Научная гарнитура</strong><p><img height="100px" width="100px" src="/guides/science/equipment/	
+      <td><strong>Научная гарнитура</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/	
 rnd_headset.png"></td>
       <td>-</td>
       <td>-</td>
@@ -539,11 +539,9 @@ rnd_headset.png"></td>
     <tr>
       <th>Раздатчик</th>
       <th>Содержимое</th>
-      <th>Раздатчик</th>
-      <th>Содержимое</th>
     </tr>
     <tr>
-      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/robotechdelux/normal.png"><p>Роботех Делюкс</strong></td>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/containers__vends/vends/robotechdelux/normal.png"><p>Роботех Делюкс</strong></td>
       <td>    
         <li><img src="/guides/science/containers__vends/vends/robotechdelux/lv_coil_30.png">Моток НВ кабеля [4]</li>
         <li><img src="/guides/science/containers__vends/vends/robotechdelux/	
@@ -571,7 +569,9 @@ screwdriver.png">Отвёртка [2]</li>
 crowbar.png">Лом [2]</li>
         <li><img src="/guides/science/containers__vends/vends/robotechdelux/">DAAAAAAAAAAAAAAAA</li>
     </td>
-      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/scidrobe/	
+       </tr>
+      <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/containers__vends/vends/scidrobe/	
 scidrobe.gif"><p>НаучШкаф</strong></td>
       <td>    
         <li><img src="/guides/science/containers__vends/vends/scidrobe/clothingbackpackscience.png">Рюкзак учёного [3]</li>
@@ -593,7 +593,7 @@ scidrobe.gif"><p>НаучШкаф</strong></td>
       </td>
     </tr>
     <tr>
-      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/vends/robodrobe/	robodrobe.gif
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/containers__vends/vends/robodrobe/	robodrobe.gif
 "><p>Робошкаф</strong></td>
       <td>    
         <li><img src="/guides/science/containers__vends/vends/robodrobe/	
@@ -622,14 +622,12 @@ coatrobo.png">Зимнее пальто робототехника [2]</li>
 
 <div class="table-name"><table>
   <thead>
-    <tr>
+    <ti>
       <th>Контейнер</th>
       <th>Содержимое</th>
-      <th>Контейнер</th>
-      <th>Содержимое</th>
-    </tr>
+    </ti>
     <tr>
-      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/containers/scigard/	gard.gif"><p>Гардероб учёного</strong></td>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/containers__vends/containers/scigard/	gard.gif"><p>Гардероб учёного</strong></td>
       <td>    
         <li><img src="/guides/science/containers__vends/containers/scigard/	
 clothingshoescolorwhite.png">Белые туфли</li>
@@ -641,7 +639,8 @@ clothingoutercoatrnd.png">Лабораторный халат учёного</li
         <li><img src="/guides/science/containers__vends/containers/scigard/scientist_jumpskirt.png">Юбка-кобинезон учёного</li>
         <li><img src="/guides/science/containers__vends/containers/scigard/">DAAAAAAAAAAAAAAAA</li>
     </td>
-      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/containers/scilock/	
+       <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/containers__vends/containers/scilock/	
 scilocket.gif"><p>Шкаф учёного</strong></td>
       <td>    
         <li><img src="/guides/science/containers__vends/containers/scilock/clothingoutercoatrnd.png">Лабораторный халат учёного</li>
@@ -658,7 +657,7 @@ clothingmasksterile.png">Стерильная маска</li>
       </td>
     </tr>
     <tr>
-      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/containers/rdlock/
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/containers__vends/containers/rdlock/
 rdlocket.gif"><p>Шкаф научного руководителя</strong></td>
       <td>    
         <li><img src="/guides/science/containers__vends/containers/rdlock/ecryptionkey.png">Двоичный ключ шифрования</li>
@@ -681,13 +680,27 @@ doorremoteresearch.png">Пульт от дверей научного отдел
         <li><img src="/guides/science/containers__vends/containers/rdlock/idcard.png">ID карта (Мистагог)</li>
         <li><img src="/guides/science/containers__vends/containers/rdlock/">DAAAAAAA</li>
       </td>
-      <td><strong><img width="100" height="100 "src="/guides/science/containers__vends/containers/rdlockscaf/	
+       <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/containers__vends/containers/rdlockscaf/	
 suitstorage.png"><p>Хранилище скафандра [Научный руководитель]</strong></td>
       <td>    
         <li><img src="/guides/science/containers__vends/containers/rdlockscaf/clothingmaskbreath.png">Дыхательная маска</li>
         <li><img src="/guides/science/containers__vends/containers/rdlockscaf/oxygentank.png">Кислородный баллон</li>
         <li><img src="/guides/science/containers__vends/containers/rdlockscaf/rdsuit.png">Скафандр научного руководителя</li>
         <li><img src="/guides/science/containers__vends/containers/rdlockscaf/">DAAAAAAA</li>
+      </td>
+    </tr>
+           <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/containers__vends/containers/rd_dresser/	
+dresser.png"><p>Комод [Научный руководитель]</strong></td>
+      <td>    
+        <li><img src="/guides/science/containers__vends/containers/rd_dresser/rd_coat.png">Зимнее пальто научного руководителя</li>
+        <li><img src="/guides/science/containers__vends/containers/rd_dresser/rd_mantle.png">Мантия научного руководителя</li>
+        <li><img src="/guides/science/containers__vends/containers/rd_dresser/mystagogue_cloak.png">Плащ научного руководителя</li>
+        <li><img src="/guides/science/containers__vends/containers/rd_dresser/sci_beret.png">Берет учёного</li>
+        <li><img src="/guides/science/containers__vends/containers/rd_dresser/glasses.png">Очки</li>
+        <li><img src="/guides/science/containers__vends/containers/rd_dresser/purple_gloves.png">Фиолетовые перчатки</li>
+        <li><img src="/guides/science/containers__vends/containers/rd_dresser/">DAAAAAAA</li>
       </td>
     </tr>
   </thead>
