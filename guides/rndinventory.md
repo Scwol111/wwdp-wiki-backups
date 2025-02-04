@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-01-29T11:57:16.335Z
+date: 2025-02-04T14:34:53.930Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -29,28 +29,28 @@ dateCreated: 2025-01-22T16:20:03.975Z
   </thead>
   <tbody>
     <tr>
-      <td><strong>Анализатор артефактов</strong><p><img height="100px" width="100px" src="/guides/xenoarcheology/analyzator.png"></td>
+      <td><img height="100px" width="100px" src="/guides/xenoarcheology/analyzator.png"><p><strong>Анализатор артефактов</strong><p></td>
       <td>Платформа анализирующая свойства артефактов.</td>
       <td>Анализатор артефактов - неотъемлемая часть ксеноархеологии, ведь только с помощью нее можно получать очки исследования из артефактов! Для работы нужна связь с консолью.</td>
     </tr>
     <tr>
-      <td><strong>Консоль анализа артефактов</strong><p><img height="100px" width="100px" src="/guides/xenoarcheology/computer.png"></td>
+      <td><img height="100px" width="100px" src="/guides/xenoarcheology/computer.png"><p><strong>Консоль анализа артефактов</strong><p></td>
       <td>Консоль предоставляющая интерфейс для упрощения работы с анализатором артефактов.</td>
       <td>При создании связи с анализатором дает возможность начать анализ и получить информацию о нем. Позволяет извлекать очки исследования из артефактов.</td>
     </tr>
     <tr>
-      <td><strong>Контейнер для артефактов</strong><p><img height="100px" width="100px" src="/guides/xenoarcheology/art_container.png"></td>
+      <td><img height="100px" width="100px" src="/guides/xenoarcheology/art_container.png"><p><strong>Контейнер для артефактов</strong><p></td>
       <td>Коробочка с замочком.</td>
       <td>Контейнер для безопасной перевозки артефактов.</td>
     </tr>
     <tr>
-      <td><strong>Крушитель артефактов</strong><p><img height="200px" width="100px" src="/guides/xenoarcheology/crusher.png"></td>
+      <td><img height="200px" width="100px" src="/guides/xenoarcheology/crusher.png"><p><strong>Крушитель артефактов</strong><p></td>
       <td>Быстрый гайд: зайдите в крушитель, быстро нажмите ЛКМ и альт ЛКМ, теперь вы не сможете умереть, поздравляю!</td>
       <td>Нужен для дробления артефактов и не только. При уничтожении артефакта вы можете получить несколько осколков, которые позже можно переделать в новый артефакт.</td>
     </tr>
     <tr>
-      <td><strong>Сканер узлов</strong><p><img height="100px" width="100px" src="/guides/xenoarcheology/	
-skaner_uslov.gif"> </td>
+      <td><img height="100px" width="100px" src="/guides/xenoarcheology/	
+skaner_uslov.gif"><p><strong>Сканер узлов</strong><p> </td>
       <td>Хуйня прямо как на кассе в магазине, делает пик пилик!</td>
       <td>При использовании на артефакте дает текущий узл. Можно использовать для более быстрого исследования, ведь сканирует моментально, в отличии от анализатора.</td>
     </tr>
@@ -72,59 +72,59 @@ skaner_uslov.gif"> </td>
       <th>Предназначение</th>
     </tr>
     <tr>
-      <td><strong>Генератор аномалий</strong><p><img height="100px" width="100px" src="/guides/science/anomalies/	
-anomaly-generator.png"></td>
+      <td><img height="100px" width="100px" src="/guides/science/anomalies/	
+anomaly-generator.png"><p><strong>Генератор аномалий</strong><p></td>
       <td>Сложный и большой механизм дающий создавать новые аномалии.</td>
       <td>Генератор аномалий за 15 плазмы создает 1 аномалию в случайном месте в пределах станции.</td>
     </tr>
     <tr>
-      <td><strong>М.А.К.А.К.<p><img height="100px" width="100px" src="/guides/science/anomalies/
-ape.png"></strong></td>
+      <td><img height="100px" width="100px" src="/guides/science/anomalies/
+ape.png"><p><strong>М.А.К.А.К.</strong></td>
       <td>Пушка дающая как стабилизировать, так и дестабилизировать аномалию.</td>
       <td>Пушка способная создавать 4 вида частиц, каждая из которых выполняет свою функцию.</td>
     </tr>
     <tr>
-      <td><strong>Сосуд аномалии<p><img height="100px" width="100px" src="/guides/science/anomalies/	
-anomaly-vessel.png"></strong></td>
+      <td><img height="100px" width="100px" src="/guides/science/anomalies/	
+anomaly-vessel.png"><p><strong>Сосуд аномалии<p></strong></td>
       <td>Дает возможность извлекать выгоду из аномалий.</td>
       <td>При создании связи с аномалией извлекает из нее очки исследования. Для создания связи нажмите ЛКМ по сосуде со сканером аномалий в руках, не забудьте просканировать нужную аномалию перед этим. <p><span style="color: red;">Взрывается вслед за аномалией</span>.</td>
     </tr>
     <tr>
-      <td><strong>Экспериментальный сосуд аномалии<p><img height="170px" width="100px" src="/guides/science/anomalies/	
-experimental-anomaly-vessel.png"></strong></td>
+      <td><img height="170px" width="100px" src="/guides/science/anomalies/	
+experimental-anomaly-vessel.png"><p><strong>Экспериментальный сосуд аномалии<p></strong></td>
       <td>Улучшенная версия обычного сосуда!</td>
       <td>Выполняет те же функции что и обычный сосуд аномалии, но выдает вдвое больше очков исследования и выделяет радиацию при работе. <p> <span style="color: red;">Все так же взрывается вслед за аномалией</span> </td>
     </tr>
     <tr>
-      <td><strong>Сканер аномалий<p><img height="100px" width="100px" src="/guides/science/anomalies/
-anomaly-scanner.png"></strong></td>
+      <td><img height="100px" width="100px" src="/guides/science/anomalies/
+anomaly-scanner.png"><p><strong>Сканер аномалий<p></strong></td>
       <td>Предмет для получения основной информации об аномалии.</td>
       <td>При использовании на аномалии выдает о ней информацию, нужную для изменения ее статуса. Дает возможность соединить аномалию с сосудом.</td>
     </tr>
     <tr>
-      <td><strong>Локатор аномалий<p><img height="100px" width="100px" src="/guides/science/anomalies/
-anomaly-locator.png"></strong></td>
+      <td><img height="100px" width="100px" src="/guides/science/anomalies/
+anomaly-locator.png"><p><strong>Локатор аномалий<p></strong></td>
       <td>Самый обычный локатор аномалий.</td>
       <td>Реагирует на аномалии в радиусе 20 тайлов, пищит интенсивнее при приближении к аномалии.</td>
     </tr>
     <tr>
-      <td><strong>Локатор аномалий широкого спектра<p><img height="100px" width="90px" src="/guides/science/anomalies/wide-anomaly-locator.png"></strong></td>
+      <td><img height="100px" width="90px" src="/guides/science/anomalies/wide-anomaly-locator.png"><p><strong>Локатор аномалий широкого спектра<p></strong></td>
       <td>Улучшенный локатор аномалий, потерял возможность более точечного поиска аномалии.</td>
       <td>Реагирует на аномалии в радиусе 40 тайлов, но уже не пищит при приближении к ней.</td>
     </tr>
     <tr>
-      <td><strong>Синхронизатор аномалий</strong><p><img height="100px" width="150px" src="/guides/science/anomalies/	
-anomaly-sync.png"></td>
+      <td><img height="100px" width="150px" src="/guides/science/anomalies/	
+anomaly-sync.png"><p><strong>Синхронизатор аномалий</strong><p></td>
       <td>С помощью новых технологий люди смогли подчинить себе даже аномалии!</td>
       <td>Дает возможность синхронизировать устройство с аномалией и стабилизировать ее.</td>
     </tr>
     <tr>
-      <td><strong>Перчатка Г.О.Р.И.Л.Л.А.</strong><p><img height="100px" width="100px" src="/guides/science/anomalies/gorilla-gauntlet.png"></td>
+      <td><img height="100px" width="100px" src="/guides/science/anomalies/gorilla-gauntlet.png"><p><strong>Перчатка Г.О.Р.И.Л.Л.А.</strong><p></td>
       <td>Перчатка извлекающая силу из ядер аномалий, давая вам ее использовать </td>
       <td>Перчатка способная толкать аномалии и живых существ, используя заряды. Заряды можно получить поставив ядро внутрь перчатки( 1 ядро - 5 зарядов ).</td>
     </tr>
     <tr>
-      <td><strong>Излучатель М.А.Р.Т.Ы.Х.</strong><p><img height="100px" width="100px" src="/guides/science/anomalies/chimp.png"></td>
+      <td><img height="100px" width="100px" src="/guides/science/anomalies/chimp.png"><p><strong>Излучатель М.А.Р.Т.Ы.Х.</strong><p></td>
       <td>Компактная версия М.А.К.А.К., позволяющая изменить состояние аномалии используя только его.</td>
       <td>Излучатель имеет 10 зарядов стреляющих 4 видами частиц, как и М.А.К.А.К.. Заряжается на обычном заряднике.</td>
     </tr>
