@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-02-04T15:53:31.955Z
+date: 2025-02-04T16:05:30.926Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -622,10 +622,10 @@ coatrobo.png">Зимнее пальто робототехника [2]</li>
 
 <div class="table-name"><table>
   <thead>
-    <ti>
+    <tr>
       <th>Контейнер</th>
       <th>Содержимое</th>
-    </ti>
+    </tr>
     <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/containers__vends/containers/scigard/	gard.gif"><p>Гардероб учёного</strong></td>
       <td>    
