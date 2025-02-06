@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-01-15T20:15:42.894Z
+date: 2025-02-06T17:23:21.726Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -244,7 +244,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
       </td>
       <td>16 ТК</td>
       <td>
-        <p>Rigged bat pre-coated in blood for Syndicate tee-ball practice. Launch your foes!</p>
+        <p>Металлическая бита, предварительно смазанная кровью, для тренировок по бейсболу в синдикате. Поиграйте своими врагами в бейсбол!</p>
                 <p>Наносит следующие повреждения (бросок): </p>
         <p><span> - <b style="color: red;">11</b> единиц <b style="color: yellow;">тупого</b> урона.</span></p>
         <p>Наносит следующие повреждения (ближний бой): </p>
