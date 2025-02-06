@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-02-04T16:05:30.926Z
+date: 2025-02-06T11:34:51.745Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -217,9 +217,15 @@ insulative_skullcap.png"><p><strong>Изолирующий череп<p></strong
       <td>Более прочный защитник от псионических способностей, не разрушается от сильных воздействий, но может поджечь вас!<p>Может быть найдена в бриге.</td>
     </tr>
     <tr>
-      <td><img class="big" height="100px" width="100px" src="/guides/science/psionics/insulative_headcage.png"><p><strong>Изолирующая клетка<p></strong></td>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/psionics/headcage.png"><p><strong>Изолирующая клетка<p></strong></td>
       <td>Изолирует вас от внешнего мира и облучений оттуда!</td>
       <td>Самая неудобная и умеренная от псионики. <p>Находиться в бриге или в торгомате священника</td>
+    </tr>
+    <tr>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/psionics/	
+psi_breaker.png"><p><strong>Пси-разрушитель<p></strong></td>
+      <td>Это же тот самый пистолет!</td>
+      <td>Пистолет избавляющий от псионических сил при попадании специфическими пулями.</td>
     </tr>
     <tr>
       <td><img class="big" height="100px" width="100px" src="/guides/science/psionics/	
@@ -250,6 +256,12 @@ glimmer_prober.png"><p><strong>Пробер мерцания<p></strong></td>
 glimmer_drain.png"><p><strong>Сток мерцания<p></strong></td>
       <td>Эффективный борец со страшной силой!</td>
       <td>Сток мерцания открывается путем исследований и эффективно понижает уровень мерцания, может быть использован с пробером, для более безопасной генерации очков.</td>
+    </tr>
+    <tr>
+      <td><img class="big" height="100px" width="100px" src="/guides/science/psionics/	
+antipsi_knife.png"><p><strong>Анти-псионический нож<p></strong></td>
+      <td>Нож вырезающий клеймо на душе псиоников.</td>
+      <td>Нож избавляющий от псионических сил человека пострадавшего от его лезвия.</td>
     </tr>
   </thead>
   <tbody>
@@ -490,45 +502,6 @@ rnd_headset.png"></td>
       <td>-</td>
       <td>- Научшкаф / Вендомат главы персонала</td>
     </tr>
-    <tr>
-      <td><strong>Шаблон 1</strong></td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-    </tr>
-    <tr>
-      <td><strong>Шаблон 1</strong></td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-    </tr>
-    <tr>
-      <td><strong>Шаблон 1</strong></td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-      <td>Шаблон</td>
-    </tr>
   <tbody>
 </table>
 
@@ -617,6 +590,8 @@ coatrobo.png">Зимнее пальто робототехника [2]</li>
   </thead>
   <tbody>
 </table></div>
+
+
 
 ##### Контейнеры
 
@@ -707,6 +682,53 @@ dresser.png"><p>Комод [Научный руководитель]</strong></t
   <tbody>
 </table></div>
 
+## <p><span style="color: #ffcce1 ;">Инструменты</span> </p> 
+<table class="table-name">
+  <thead>
+    <tr>
+      <th>Название</th>
+      <th>Описание</th>
+      <th>Предназначение</th>
+    </tr>
+    <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/inst_belt.png"><p>Пояс для инструментов</strong></td>
+      <td>Пояс для хранения разных вещей </td>
+      <td>Пояс который может хранить инструменты и некоторые приборы </td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/drill_bolt.png"><p>Электродрель</strong></td>
+      <td>Гаечный ключ и отвертка в одной оболочке, еще и электрической!</td>
+      <td>Электродрель совмещает в себе отвертку и гаечный ключ, а так же имеет увеличенную скорость использования. </td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/weapontethergun.png"><p>Гравипушка</strong></td>
+      <td>Манипулирует гравитацией вокруг объектов, чтобы манипулировать ими в пространстве!</td>
+      <td>При нажатии ЛКМ по объекту дает вам передвигать его в пространстве. </td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/weaponforcegun.png"><p>Силовая пушка</strong></td>
+      <td>Манипулирует гравитацией вокруг объектов, чтобы манипулировать ими в пространстве!</td>
+      <td>При нажатии ЛКМ по объекту дает вам передвигать его в пространстве. </td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/geiger_base.png"><p>Счётчик гейгера</strong></td>
+      <td>Старый и надежный спасатель от радиации!</td>
+      <td>При активации показывает текущий уровень радиации в клетке.</td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/signaller.png"><p>Передатчик сигналов</strong></td>
+      <td>Пульт со встроенной антенной!</td>
+      <td>При привязке передатчика сигналов к чему либо дает воможность создавать сигнал, невероятно, правда?</td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/"><p>Шаблон 1</strong></td>
+      <td>Шаблон 2 </td>
+      <td>Шаблон 2.2 </td>
+    </tr>
+  </thead>
+  <tbody>
+</table>
+
 ## <p><span style="color: #ffcce1 ;">Прочее</span> </p> 
 <table class="table-name">
   <thead>
@@ -716,9 +738,44 @@ dresser.png"><p>Комод [Научный руководитель]</strong></t
       <th>Предназначение</th>
     </tr>
     <tr>
-      <td><strong>Шаблон 1</strong></td>
-      <td>Шаблон 2</td>
-      <td>Шаблон 2.2</td>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/doorremoteresearch.png"><p>Пульт от дверей научного отдела</strong></td>
+      <td>Пульт отвечающий за все двери РНД! </td>
+      <td>Инструмент для управления шлюзами, для работы нужны доступы. </td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/hand_teleporter.gif"><p>Ручной телепортер</strong></td>
+      <td>Невероятное достижение ученых, которое создает дыры во вселенной, позволяя передвигаться очень быстро!</td>
+      <td>Инструмент, который создает порталы при использовании. <p> При первом использовании создает <span style="color: orange;">оранжевый</span> портал. <p> При втором использовании создает <span style="color: blue;">синий</span> портал.<p> При третьем использовании <span style="color: red;">удаляет</span> два предыдущих портала</td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/rubberstamprd.png"><p>Печать научного руководителя</strong></td>
+      <td>Печать научного руководителя.</td>
+      <td>При использовании на бумаге оставляет печать научного руководителя.</td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/comp.gif"><p>Компоненты</strong></td>
+      <td>Части чего то большего.</td>
+      <td>Компоненты нужны для создания разных машин или крафта чего либо.</td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/triggers.gif"><p>Триггеры</strong></td>
+      <td>Они следят за тобой!</td>
+      <td>Триггеры нужны для создания модульных гранат или крафта, в большинстве для рецептов робототехника.</td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/igniter.png"><p>Воспламенитель</strong></td>
+      <td>Искрящаяся штучка! </td>
+      <td>Воспламенитель поджигает газы в клетке, в которой он находится, для работы нужен сигнал.</td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/quantspininvent.png"><p>Инвертор квантового спина</strong></td>
+      <td>С помощью блюспейса и законов физики, квантовый инвертор спина способен поменять вас с таким же инвертором в другом месте!</td>
+      <td>При использовании меняет местами вас с другим инвертором. <p><span style="color: red;">!!! Будьте осторожны, этот предмет вызывает очень много багов при его использовании !!!</span></td>
+    </tr>
+    <tr>
+      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/"><p>Шаблон 1</strong></td>
+      <td>Шаблон 2 </td>
+      <td>Шаблон 2.2 </td>
     </tr>
   </thead>
   <tbody>
