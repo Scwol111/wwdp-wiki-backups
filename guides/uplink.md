@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-02-06T17:28:27.236Z
+date: 2025-02-06T17:41:21.212Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -1113,7 +1113,8 @@ dateCreated: 2024-09-28T16:46:38.976Z
         <p>Genetic Ancestor Reinforcement Teleporter</p>
       </td>
       <td>6 ТК / 8 ТК</td>
-      <td>Call in a trained ancestor of your choosing to assist you. Comes with a single syndicate cigarette.</td>
+      <td>Позовите обученного агента синдиката по вашему выбору, чтобы он помог вам.
+</td>
       <td>Цена оперативника / Цена агента</td>
     </tr>
     <tr>
