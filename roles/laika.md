@@ -2,7 +2,7 @@
 title: Лайка
 description: 
 published: true
-date: 2025-01-15T16:37:53.763Z
+date: 2025-02-06T11:44:36.127Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-25T19:52:41.561Z
@@ -11,7 +11,7 @@ dateCreated: 2024-12-25T19:52:41.561Z
 <div style="display: flex; justify-content: center;">
   <div class="roles-passport sp">
     <div class="title sp">
-      <a href="/roles/spiritualisticdepartment">Спиричитеский Отдел</a>
+      <a href="/roles/spiritualisticdepartment">Спиритический Отдел</a>
     </div>
     <div><div><div><img src="/roles/secdog.gif" /></div></div><div><div>
       <h1>Лайка</h1>
