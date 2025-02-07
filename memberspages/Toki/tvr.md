@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-02-07T20:27:52.325Z
+date: 2025-02-07T20:30:13.778Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -77,34 +77,28 @@ dateCreated: 2025-02-07T17:23:54.686Z
 
 <div class="lore-container">
 
-  <div onclick="location.href='/lore/human'" class="lore-img-passport" href="/lore/human">
-    <div>
-      Шериф
-    </div>
+  <div class="lore-img-passport">
+    <div>Шериф</div>
     <div class="img-container">
       <div><img src="/fun-prison/sherif32.png"></div>
       <div>Глава тюрьмы, он устанавливает порядок дня, в котором выбираются игры. За счёт игр выбывают заключённые до того момента, пока их не останется вовсе.</div>
     </div>
   </div>
 
-  <div onclick="location.href = '/lore/felinid'" class="lore-img-passport" href = "/lore/felinid">
-    <div>
-      Смотритель тюрьмы
-    </div>
+  <div class="lore-img-passport">
+    <div>Смотритель тюрьмы</div>
     <div class="img-container">
       <div><img src="/fun-prison/warden32.png"></div>
-      <div>Личный состав Шерифа, следят за порядком, конвоируют заключённых между локациями и ловят сбежавших саботажников из тюрьмы. В более редких случаях останавливают вооружённое восстание.</div>
+      <div>Личный состав Шерифа, обязаны следить за порядком, а также конвоируют заключённых между локациями и ловят сбежавших саботажников из тюрьмы. В более редких случаях останавливают вооружённое восстание.</div>
     </div>
   </div>
   
-  <div class="lore-img-passport" onclick="location.href = '/lore/dwarf'">
-    <div>
-      Заключённый
-    </div>
+  <div class="lore-img-passport">
+    <div>Заключённый</div>
     <div class="img-container">
       <div><img src="/fun-prison/prisoner32.png"></div>
       <div>Играют в игры. Заключённые с ролью “Саботажник” могут пытаться устроить вооружённое восстание.  
-*Примечание: Смотрители тюрьмы и Шериф знают, что у Саботажников есть имплант .</div>
+*Примечание: Смотрители тюрьмы и Шериф знают, что у Саботажников есть имплант подкожного хранилища.</div>
     </div>
   </div>
 
