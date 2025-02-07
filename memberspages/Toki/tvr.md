@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-02-07T20:37:34.594Z
+date: 2025-02-07T20:40:40.770Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -108,6 +108,43 @@ dateCreated: 2025-02-07T17:23:54.686Z
 
 
 Дополнительные роли: Врач, Бармен, Повар, Ботаник.  
+
+<div class="lore-container">
+
+  <div class="lore-img-passport">
+    <div>Шериф</div>
+    <div class="img-container">
+      <div><img src="/fun-prison/sherif32.png"></div>
+    </div>
+  </div>
+
+  <div class="lore-img-passport">
+    <div>Смотритель тюрьмы</div>
+    <div class="img-container">
+      <div><img src="/fun-prison/warden32.png"></div>
+    </div>
+  </div>
+  
+  <div class="lore-img-passport">
+    <div>Заключённый</div>
+    <div class="img-container">
+      <div><img src="/fun-prison/prisoner32.png"></div>
+    </div>
+  </div>
+  
+  
+
+  <div class="lore-img-passport">
+    <div>Заключённый</div>
+    <div class="img-container">
+      <div><img src="/fun-prison/prisoner32.png"></div>
+    </div>
+  </div>
+
+</div>
+
+
+
 *Дополнительные роли не могут быть саботажниками или их помощниками.*
 
 ***В режиме всё построено вокруг того, что все играют в игры. Все игры в режиме проводятся “на выбывание”. Количество выбывающих зависят от условий игры в которую собираются играть.*** 
