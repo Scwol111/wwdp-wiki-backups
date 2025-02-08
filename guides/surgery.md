@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2025-01-06T15:26:33.765Z
+date: 2025-02-08T08:10:00.521Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -177,13 +177,53 @@ dateCreated: 2024-11-21T13:23:17.560Z
 ## Анатомия 
 
 ## Операции
+<p>
 
-<div class="operation-container">
-        <div class="image-container">
-            <img src="/guides/medicine/surgery/organs/brain.png" class="png1">
-        </div>
-        <div class="description">
-            <h2>Лоботомия</h2>
-            <p>Ну короче хуем по лбу дают, и выходит брейнрот акцент.</p>
-        </div>
+<ul class="operation-list">
+  <li class="operation-item">
+    <div class="operation-image">
+      <img src="placeholder.png" alt="Изображение операции">  <!-- Замените placeholder.png -->
     </div>
+    <div class="operation-details">
+      <div class="operation-title">Название операции 1</div>
+      <span class="operation-toggle">Показать/скрыть описание</span>
+      <div class="operation-description">
+        <ul>
+          <li>Шаг 1: Сделайте что-то.</li>
+          <li>Шаг 2: Сделайте что-то еще.</li>
+          <li>Шаг 3: Завершите операцию.</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li class="operation-item">
+    <div class="operation-image">
+      <img src="placeholder.png" alt="Изображение операции"> <!-- Замените placeholder.png -->
+    </div>
+    <div class="operation-details">
+      <div class="operation-title">Название операции 2</div>
+      <span class="operation-toggle">Показать/скрыть описание</span>
+      <div class="operation-description">
+        <ul>
+          <li>Шаг 1: ...</li>
+          <li>Шаг 2: ...</li>
+        </ul>
+      </div>
+    </div>
+  </li>
+    <li class="operation-item">
+    <div class="operation-image">
+      <img src="placeholder.png" alt="Изображение операции"> <!-- Замените placeholder.png -->
+    </div>
+    <div class="operation-details">
+      <div class="operation-title">Длинное название операции, которое может переноситься на новую строку</div>
+      <span class="operation-toggle">Показать/скрыть описание</span>
+      <div class="operation-description">
+        <ul>
+          <li>Шаг 1: ...</li>
+          <li>Шаг 2: ...</li>
+          <li>Шаг 3: Очень длинное описание шага, которое показывает, как ведет себя текст в блоке с описанием.  Текст должен переноситься и не вылезать за границы блока.</li>
+        </ul>
+      </div>
+    </div>
+  </li>
