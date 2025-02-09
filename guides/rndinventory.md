@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-02-09T09:03:14.759Z
+date: 2025-02-09T09:14:24.607Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -159,34 +159,21 @@ anomaly-sync.png"><p><strong>Синхронизатор аномалий</strong
       <td>Выполняет функцию вместилища для души, чтобы в ваш борг могла заселиться заблудшая душа.</td>
     </tr>
     <tr>
+      <td><img height="100px" width="100px" src="/guides/science/robotech/clothingeyeshuddiagnostic.png"><p><strong>Диагностический визор</strong></td>
+      <td>Визор робототехника</td>
+      <td>Показывает состояние боргов.</td>
+    </tr>
+    <tr>
+      <td><img height="100px" width="100px" src="/guides/science/robotech/proximitysensor.png"><p><strong>Датчик движения.</strong><p></td>
+      <td>Ингредиент некоторых роботехнических штучек и мин!</td>
+      <td>Обычный ингредиент для создания разного.</td>
+    </tr>
+    <tr>
       <td><strong><span>Борги</span></strong></td>
       <td>Рабы? Нет! Это же ваши личные прислуги!</td>
       <td>Борги - металлические существа со своими законами и правилами, они могут выполнять ваши приказы или заменять множество сотрудников своими модулями.</td>
     </tr>
-    <tr>
-      <td><strong>Шаблон 1</strong></td>
-      <td>Шаблон 2</td>
-      <td>Шаблон 2.2</td>
-    </tr>
   </thead>
-  <tbody>
-</table>
-<table class="table-name">
-  <thead>
-    <tr>
-      <th colspan= 8;>Так же встречаются!</th>
-    </tr>
-    <tr>
-      <td><strong><abbr title="Датчик движения. Ингредиент некоторых рецептов.">Датчик движения<p><img height="48px" width="48px" src="/guides/science/robotech/proximitysensor.png"></abbr></strong></td>
-      <td><strong><abbr title="Диагностический визор. Показывает состояние боргов.">Диагностический визор<p><img height="48px" width="48px" src="/guides/science/robotech/clothingeyeshuddiagnostic.png"></abbr></strong></td>
-      <td><strong><abbr title="Роботех делюкс. Автомат со всем снаряжением для робототехника.">Роботех делюкс<p><img height="48px" width="48px" src="/guides/science/robotech/robodeluxe.gif"></abbr></strong></td>
-      <td><strong><abbr title="Гарнитура робототехника.">Гарнитура робототехника<p><img height="48px" width="48px" src="/guides/science/robotech/headset_robotics.png"></abbr></strong></td>
-    </tr>
-    <tr>
-      <td><strong><abbr title="Робошкаф. Автомат с одеждой роботехника.">Робошкаф<p><img height="48px" width="48px" src="/guides/science/robotech/robodrobe.gif"></abbr></strong></td>
-      <td><strong><abbr title="Вспышка. Ингредиент в создании боргов.">Вспышка<p><img height="48px" width="48px" src="/guides/science/robotech/flash.png"></abbr></strong></td>
-      <td><strong><abbr title="Диагностическая накладка на глаз. Тот же самый визор, но с другим дизайном.">Диагностический монокль<p><img height="48px" width="48px" src="/guides/science/robotech/clothingeyeseyepatchhuddiag.png"></abbr></strong></td>
-    </tr>
   <tbody>
 </table>
 
@@ -499,7 +486,7 @@ rnd_headset.png"></td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>-</td>
+      <td>- Имеет канал научный канал радиосвязи</td>
       <td>- Научшкаф / Вендомат главы персонала</td>
     </tr>
   <tbody>
@@ -540,7 +527,6 @@ sawelectric.png">Дисковая пила [1]</li>
 screwdriver.png">Отвёртка [2]</li>
         <li><img src="/guides/science/containers__vends/vends/robotechdelux/	
 crowbar.png">Лом [2]</li>
-        <li><img src="/guides/science/containers__vends/vends/robotechdelux/">DAAAAAAAAAAAAAAAA</li>
     </td>
        </tr>
       <tr>
@@ -562,7 +548,6 @@ scidrobe.gif"><p>НаучШкаф</strong></td>
         <li><img src="/guides/science/containers__vends/vends/scidrobe/clothingneckscarfstripedpurple.png">Полосатый фиолетовый шарф [3]</li>
         <li><img src="/guides/science/containers__vends/vends/scidrobe/tinfoil.png">Шапочка из фольги</li>
         <li><img src="/guides/science/containers__vends/vends/scidrobe/winterboots_sci.png">Научные зимние ботинки [2]</li>
-        <li><img src="/guides/science/containers__vends/vends/scidrobe/">DAAAAAAA</li>
       </td>
     </tr>
     <tr>
@@ -584,7 +569,6 @@ coatrobo.png">Зимнее пальто робототехника [2]</li>
         <li><img src="/guides/science/containers__vends/vends/robodrobe/robobackpack.png">Рюкзак робототехника [2]</li>
         <li><img src="/guides/science/containers__vends/vends/robodrobe/robosatchel.png">Сумка робототехника [2]</li>
         <li><img src="/guides/science/containers__vends/vends/robodrobe/roboduffel.png">Вещмешок робототехника [2]</li>
-        <li><img src="/guides/science/containers__vends/vends/robodrobe/">DAAAAAAA</li>
       </td>
     </tr>
   </thead>
@@ -612,7 +596,6 @@ clothinguniformjumpsuitscientist.png">Комбинезон учёного</li>
 clothingoutercoatrnd.png">Лабораторный халат учёного</li>
         <li><img src="/guides/science/containers__vends/containers/scigard/clothingbackpackscience.png">Научный рюкзак</li>
         <li><img src="/guides/science/containers__vends/containers/scigard/scientist_jumpskirt.png">Юбка-кобинезон учёного</li>
-        <li><img src="/guides/science/containers__vends/containers/scigard/">DAAAAAAAAAAAAAAAA</li>
     </td>
        <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/containers__vends/containers/scilock/	
@@ -628,7 +611,6 @@ anomalyscanner.png">Сканер аномалий</li>
 node_scanner11.gif">Сканер узлов</li>
         <li><img src="/guides/science/containers__vends/containers/scilock/	
 clothingmasksterile.png">Стерильная маска</li>
-        <li><img src="/guides/science/containers__vends/containers/scilock/">DAAAAAAA</li>
       </td>
     </tr>
     <tr>
@@ -653,7 +635,6 @@ doorremoteresearch.png">Пульт от дверей научного отдел
         <li><img src="/guides/science/containers__vends/containers/rdlock/hand_teleporter.gif">Ручной телепортер</li>
         <li><img src="/guides/science/containers__vends/containers/rdlock/pda.png">Коробка пда исследователей</li>
         <li><img src="/guides/science/containers__vends/containers/rdlock/idcard.png">ID карта (Мистагог)</li>
-        <li><img src="/guides/science/containers__vends/containers/rdlock/">DAAAAAAA</li>
       </td>
        <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/containers__vends/containers/rdlockscaf/	
@@ -662,7 +643,6 @@ suitstorage.png"><p>Хранилище скафандра [Научный рук
         <li><img src="/guides/science/containers__vends/containers/rdlockscaf/clothingmaskbreath.png">Дыхательная маска</li>
         <li><img src="/guides/science/containers__vends/containers/rdlockscaf/oxygentank.png">Кислородный баллон</li>
         <li><img src="/guides/science/containers__vends/containers/rdlockscaf/rdsuit.png">Скафандр научного руководителя</li>
-        <li><img src="/guides/science/containers__vends/containers/rdlockscaf/">DAAAAAAA</li>
       </td>
     </tr>
            <tr>
@@ -675,7 +655,6 @@ dresser.png"><p>Комод [Научный руководитель]</strong></t
         <li><img src="/guides/science/containers__vends/containers/rd_dresser/sci_beret.png">Берет учёного</li>
         <li><img src="/guides/science/containers__vends/containers/rd_dresser/glasses.png">Очки</li>
         <li><img src="/guides/science/containers__vends/containers/rd_dresser/purple_gloves.png">Фиолетовые перчатки</li>
-        <li><img src="/guides/science/containers__vends/containers/rd_dresser/">DAAAAAAA</li>
       </td>
     </tr>
   </thead>
@@ -692,8 +671,8 @@ dresser.png"><p>Комод [Научный руководитель]</strong></t
     </tr>
     <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/inst_belt.png"><p>Пояс для инструментов</strong></td>
-      <td>Пояс для хранения разных вещей </td>
-      <td>Пояс который может хранить инструменты и некоторые приборы </td>
+      <td>Пояс для хранения разных вещей. </td>
+      <td>Пояс который может хранить инструменты и некоторые приборы. </td>
     </tr>
     <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/drill_bolt.png"><p>Электродрель</strong></td>
@@ -720,11 +699,6 @@ dresser.png"><p>Комод [Научный руководитель]</strong></t
       <td>Пульт со встроенной антенной!</td>
       <td>При привязке передатчика сигналов к чему либо дает воможность создавать сигнал, невероятно, правда?</td>
     </tr>
-    <tr>
-      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/"><p>Шаблон 1</strong></td>
-      <td>Шаблон 2 </td>
-      <td>Шаблон 2.2 </td>
-    </tr>
   </thead>
   <tbody>
 </table>
@@ -745,7 +719,7 @@ dresser.png"><p>Комод [Научный руководитель]</strong></t
     <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/hand_teleporter.gif"><p>Ручной телепортер</strong></td>
       <td>Невероятное достижение ученых, которое создает дыры во вселенной, позволяя передвигаться очень быстро!</td>
-      <td>Инструмент, который создает порталы при использовании. <p> При первом использовании создает <span style="color: orange;">оранжевый</span> портал. <p> При втором использовании создает <span style="color: blue;">синий</span> портал.<p> При третьем использовании <span style="color: red;">удаляет</span> два предыдущих портала</td>
+      <td>Инструмент, который создает порталы при использовании. <p> При первом использовании создает <span style="color: orange;">оранжевый</span> портал. <p> При втором использовании создает <span style="color: blue;">синий</span> портал.<p> При третьем использовании <span style="color: red;">удаляет</span> два предыдущих портала.</td>
     </tr>
     <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/rubberstamprd.png"><p>Печать научного руководителя</strong></td>
@@ -765,37 +739,14 @@ dresser.png"><p>Комод [Научный руководитель]</strong></t
     <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/igniter.png"><p>Воспламенитель</strong></td>
       <td>Искрящаяся штучка! </td>
-      <td>Воспламенитель поджигает газы в клетке, в которой он находится, для работы нужен сигнал.</td>
+      <td>Воспламенитель поджигает газы в клетке, в которой он находится. Для работы нужен сигнал.</td>
     </tr>
     <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/quantspininvent.png"><p>Инвертор квантового спина</strong></td>
       <td>С помощью блюспейса и законов физики, квантовый инвертор спина способен поменять вас с таким же инвертором в другом месте!</td>
       <td>При использовании меняет местами вас с другим инвертором. <p><span style="color: red;">!!! Будьте осторожны, этот предмет вызывает очень много багов при его использовании !!!</span></td>
     </tr>
-    <tr>
-      <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/"><p>Шаблон 1</strong></td>
-      <td>Шаблон 2 </td>
-      <td>Шаблон 2.2 </td>
-    </tr>
   </thead>
   <tbody>
 </table>
-
-## <p><span style="color: #ce7eff ;">Ксеноархеология</span> </p> 
-<table class="table-name">
-  <thead>
-    <tr>
-      <th>Название</th>
-      <th>Описание</th>
-      <th>Предназначение</th>
-    </tr>
-    <tr>
-      <td><strong>Шаблон 1</strong></td>
-      <td>Шаблон 2</td>
-      <td>Шаблон 2.2</td>
-    </tr>
-  </thead>
-  <tbody>
-</table>
-
 
