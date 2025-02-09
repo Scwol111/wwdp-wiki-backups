@@ -2,7 +2,7 @@
 title: Обновление таблицы ролей
 description: 
 published: false
-date: 2024-12-26T21:00:14.303Z
+date: 2025-02-09T08:51:08.038Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-26T14:37:23.458Z
@@ -44,7 +44,6 @@ dateCreated: 2024-12-26T14:37:23.458Z
 
 </script>
 ```
-![screenshot_36.png](/guides/wiki/screenshot_36.png)
 
 Затем, в самом конце самой страницы добавьте следующий элемент:
 
