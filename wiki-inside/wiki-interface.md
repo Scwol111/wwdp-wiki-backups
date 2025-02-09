@@ -1,8 +1,8 @@
 ---
 title: Интерфейс
 description: 
-published: true
-date: 2025-02-09T08:46:37.572Z
+published: false
+date: 2025-02-09T08:47:15.121Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-26T21:28:49.931Z
