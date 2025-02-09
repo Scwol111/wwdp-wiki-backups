@@ -2,7 +2,7 @@
 title: Интерфейс
 description: 
 published: true
-date: 2025-02-09T08:21:00.876Z
+date: 2025-02-09T08:46:37.572Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-26T21:28:49.931Z
@@ -50,8 +50,32 @@ dateCreated: 2024-12-26T21:28:49.931Z
 
 Некоторые могут быть недоступны.
 
-## <center>CSS 
+## <center>CSS и HTML
+
+  <center> <a href="/ru/wiki-inside/design-guide">Ссылка на базовый гайд по дизайну</a></center> 
+
+### <center>Стили
 
 CSS (англ. Cascading Style Sheets — «каскадные таблицы стилей») — формальный язык декодирования и описания внешнего вида документа (веб-страницы), написанного с использованием языка разметки (чаще всего HTML или XHTML). Также может применяться к любым XML-документам, например, к SVG или XUL.
 
-Простыми словами: CSS/стили то язык, который используется для оформления веб-страниц. [Здесьu/wiki-inside/design-guide)
+Простыми словами: CSS/стили это язык, который используется для оформления веб-страниц.
+
+Пишем обычно здесь
+
+<img src="/guides/wiki/screenshot_35.png" alt="securityarmor.png" style="vertical-align: middle; ">
+
+Но можно и прям внутри элемента HTML 
+
+<img src="/guides/wiki/screenshot_36.png" alt="securityarmor.png" style="vertical-align: middle; ">
+
+### <center>HTML
+
+HTML (от англ. HyperText Markup Language — «язык гипертекстовой разметки») — стандартизированный язык разметки для создания веб-страниц и других типов цифрового контента, который может отображаться в интернете.
+
+Человеческим языком: Структура веб-страниц, на которые накладываются стили. 
+
+## <center> Интерфейс в Markdown
+ 
+![ahui.png](/guides/wiki/ahui.png)
+ 
+
