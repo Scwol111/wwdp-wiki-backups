@@ -2,13 +2,14 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-02-11T16:48:06.084Z
+date: 2025-02-11T16:49:29.876Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
 ---
 
 <div class="headtxt">
+	Goyda protocol
 <div class="term">
 <!--<div class="crt">-->
 <h1><center>Запуск локального сервера</center></h1>
