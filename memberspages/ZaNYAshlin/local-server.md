@@ -2,14 +2,12 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-02-11T16:54:03.764Z
+date: 2025-02-11T16:55:48.965Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
 ---
 
-<div class="headtext">
-	Local_Server_Setup.txt - NotePad
 <div class="term">
 <div class="crt">
 <h1><center>Запуск локального сервера</center></h1>
@@ -70,6 +68,5 @@ git submodule update --init --recursive
 - GNU/Linux & macOS - ```Scripts/sh/runQuickAll.sh```
 
 7. Подключитесь через клиент к локальному серверу, нажав ```Прямое подключение``` в меню, и играйте.
-</div>
 </div>
 </div>
