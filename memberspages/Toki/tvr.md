@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-02-14T15:39:30.722Z
+date: 2025-02-14T15:39:48.118Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -263,7 +263,8 @@ dateCreated: 2025-02-07T17:23:54.686Z
           <img src="/api/placeholder/1200/400" alt="Slide 2" class="slide-image">
           <div class="slide-text-content">
             <div class="slide-title">Второй слайд</div>
-            <div class="slide-description">Длинное описание второго слайда. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+            <div class="slide-description">Дополнительная локация.  
+Шерифу и смотрителям тюрьмы выгодно направлять в шахты всех заключённых на работы. Они будут копать руду и добывать полезные ископаемые в виде стали, золота, плазмы и урана. На локации спрятаны разные предметы, от оружия до дисков исследовательских очков, которые можно будет использовать для исследования разных технологических веток.t.</div>
           </div>
         </div>
       </div>
