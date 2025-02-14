@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-02-14T15:34:47.845Z
+date: 2025-02-14T15:39:30.722Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -252,23 +252,28 @@ dateCreated: 2025-02-07T17:23:54.686Z
       <div class="slide">
         <div class="slide-content">
           <img src="/api/placeholder/1200/400" alt="Slide 1" class="slide-image">
-          <div class="slide-title">Первый слайд</div>
-          <div class="slide-description">Суть игры: 4 участника выбирают по одной из сторон и встают на цифру 1. Далее, они берут предмет над цифрой и кидают или стреляют им в кого-то на выбор из остальных заключённых. Далее, каждый из участников по часовой стрелке кидает свой кубик и делает шагов по цифрам столько, сколько у него выпало на кубике. Когда участник доходит до цифры 8, считается, что он сделал 1 круг и он возвращается на цифру 1 и продолжает оставшееся количество шагов по кубику. Как только участник доберётся до цифры своего круга, он сможет взять предмет из окна под этой цифрой и атаковать кого-то из остальных участников. Двигаться не в свой ход нельзя, а большинство предметов необходимо кидать в оппонентов.
-Пример: У вас 4-ый круг, вы стоите на цифре 2. Вы кидаете кубик и выпадает 7. Вы делаете 6 шагов вперёд до цифры 8 и считается, что вы перешли на 5-ый круг, далее вы делаете ещё 1 шаг, потому что было 7 на кубике и оказываетесь на цифре 1. Как только вы дойдёте до цифры 5 на этом кругу вы сможете взять предмет с окна над цифрой..</div>
+          <div class="slide-text-content">
+            <div class="slide-title">Первый слайд</div>
+            <div class="slide-description">Короткое описание первого слайда.</div>
+          </div>
         </div>
       </div>
       <div class="slide">
         <div class="slide-content">
           <img src="/api/placeholder/1200/400" alt="Slide 2" class="slide-image">
-          <div class="slide-title">Второй слайд</div>
-          <div class="slide-description">Описание второго слайда. Здесь может быть любой текст, описывающий содержимое слайда.</div>
+          <div class="slide-text-content">
+            <div class="slide-title">Второй слайд</div>
+            <div class="slide-description">Длинное описание второго слайда. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
+          </div>
         </div>
       </div>
       <div class="slide">
         <div class="slide-content">
           <img src="/api/placeholder/1200/400" alt="Slide 3" class="slide-image">
-          <div class="slide-title">Третий слайд</div>
-          <div class="slide-description">Описание третьего слайда. Здесь может быть любой текст, описывающий содержимое слайда.</div>
+          <div class="slide-text-content">
+            <div class="slide-title">Третий слайд</div>
+            <div class="slide-description">Описание среднего размера для третьего слайда. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</div>
+          </div>
         </div>
       </div>
     </div>
