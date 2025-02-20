@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-02-20T17:03:37.170Z
+date: 2025-02-20T17:31:52.199Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -638,7 +638,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
   
 </thead></table>
 
-<h2 id="надеваемое" class="toc-header"><a class="toc-anchor" href="#надеваемое">¶</a>Misc</h2>
+<h2 id="надеваемое" class="toc-header"><a class="toc-anchor" href="#надеваемое">¶</a>Надеваемое</h2>
 
 <center>
   <div class="table-wrapper">
@@ -651,7 +651,34 @@ dateCreated: 2024-09-28T16:46:38.976Z
         <th>Доступно оперативникам</th>
       </tr>
     <tr>
-      <td>
+            <td>
+        <img src="/guides/uplink/grenadierrigging.png">
+        <p>РПС</p>
+      </td>
+      <td>1 ТК</td>
+      <td>Ременно-поясная система тактических ремней, которую носят абордажные группы синдиката.</td>
+<td>Да</td>
+    </tr> 
+    <tr>
+            <td>
+        <img src="/guides/uplink/syndvisor.png">
+        <p>Визор синдиката</p>
+      </td>
+      <td>2 ТК</td>
+      <td><p>Отслеживает гуманоидов, помечая их значком профессии.</p></td>
+<td>Да</td>
+    </tr>
+    <tr>
+			<td>
+        <img src="/guides/uplink/syndiegreenscarf.png">
+        <p>Визор синдиката</p>
+      </td>
+      <td>2 ТК</td>
+      <td><p>Отслеживает гуманоидов, помечая их значком профессии.</p></td>
+<td>Да</td>
+    </tr>
+    <tr>
+ <!--     <td>
         <img src="/guides/uplink/nukesnaks.png">
         <p>Коробка закусок Синдиката</p>
       </td>
@@ -724,6 +751,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
       </td>
       <td>Только для оперативников</td>
     </tr>
+ -->
 
 </thead></table>
 
@@ -1048,6 +1076,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
 <td>Да</td>
     </tr>
     <tr>
+       <!--
       <td>
         <img src="/guides/uplink/syndvisor.png">
         <p>Визор синдиката</p>
@@ -1057,6 +1086,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
 <td>Да</td>
     </tr>
     <tr>
+ -->
       <td>
         <img src="/guides/uplink/gondola.png">
         <p>Ящик с Гондолой</p>
