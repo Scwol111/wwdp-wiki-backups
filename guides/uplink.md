@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-02-20T17:31:52.199Z
+date: 2025-02-20T18:40:31.794Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -670,11 +670,11 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
 			<td>
-        <img src="/guides/uplink/syndiegreenscarf.png">
-        <p>Визор синдиката</p>
+        <img src="/guides/uplink/evasind.png">
+        <p>Набор EVA Синдиката</p>
       </td>
       <td>2 ТК</td>
-      <td><p>Отслеживает гуманоидов, помечая их значком профессии.</p></td>
+      <td><p>Простой скафандр EVA, который не обеспечивает никакой защиты, кроме той, что необходима для выживания в космосе.</p></td>
 <td>Да</td>
     </tr>
     <tr>
