@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-02-20T17:01:54.228Z
+date: 2025-02-20T17:03:37.170Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -848,6 +848,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
    <td>Нет      </td>
     </tr>
     <tr>
+      <!--
       <td>
         <img src="/guides/uplinknew/china.png">
         <p>Набор "Крайта"</p>
@@ -880,6 +881,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
          <td>Да</td>
     </tr>
     <tr>
+ -->
       <td>
         <img src="/guides/uplinknew/redcircle.png">
         <p>Ящик суперприпасов синдиката</p>
