@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-02-20T18:40:31.794Z
+date: 2025-02-20T19:03:39.734Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -678,6 +678,52 @@ dateCreated: 2024-09-28T16:46:38.976Z
 <td>Да</td>
     </tr>
     <tr>
+        <td>
+        <img src="/guides/uplink/insulated.png">
+        <p>Токопроводящие перчатки</p>
+      </td>
+      <td>2 ТК</td>
+      <td>
+        <p>Выглядият как как обычные изолированные перчатки, но увеличивают урон от электричества в 5 раз.</p>
+      </td>
+<td>Нет</td>
+    </tr>
+    <tr>
+       <td>
+        <img src="/guides/uplink/hameleonshoes.png">
+        <p>Нескользящая обувь</p>
+      </td>
+      <td>2 ТК</td>
+      <td>
+        <p>Обувь-хамелеон, которая защищает вас от скольжения.</p>
+      </td>
+<td>Да</td>
+    </tr>
+    <tr>
+         <td>
+        <img src="/guides/uplink/thermal.png">
+        <p>Прибор термального видения</p>
+      </td>
+      <td>3 ТК</td>
+      <td>
+        <p>Позволяет вам видеть живых существ независимо от преград, при этом выглядя как обычные солнцезащитные очки!</p>
+      </td>
+<td>Да</td>
+    </tr>
+    <tr>
+         <td>
+        <img src="/guides/uplink/nightvisionnew.png">
+        <p>Прибор термального видения</p>
+      </td>
+      <td>3 ТК</td>
+      <td>
+        <p>Позволяет вам видеть живых существ независимо от преград, при этом выглядя как обычные солнцезащитные очки!</p>
+      </td>
+<td>Да</td>
+    </tr>
+    <tr>      
+      
+      
  <!--     <td>
         <img src="/guides/uplink/nukesnaks.png">
         <p>Коробка закусок Синдиката</p>
@@ -702,6 +748,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
       <td>
+
         <img src="/guides/uplink/insulated.png">
         <p>Токопроводящие перчатки</p>
       </td>
