@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-02-11T17:14:43.914Z
+date: 2025-02-21T10:26:33.113Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
