@@ -2,7 +2,7 @@
 title: Cyborgs
 description: 
 published: true
-date: 2024-11-06T17:12:38.650Z
+date: 2025-02-21T17:34:36.652Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:21:44.105Z
@@ -18,7 +18,7 @@ dateCreated: 2024-09-25T17:21:44.105Z
         <h1>Борг</h1>
         <p><strong>Сложность:</strong> Выше среднего.</p>
         <strong>Обязанности:</strong> Помощь персоналу во всех отраслях.<br>
-        <b>Руководители</b>: <a href="/roles">Любой персонал станции</a>.<br>
+        <b>Руководители</b>: Законы, <a href="/roles/ai">ИИ</a>.<br>
         <b>Руководства</b>: Вы его читаете.
         </div></div>
     </div>
