@@ -2,14 +2,14 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-02-21T10:26:33.113Z
+date: 2025-02-21T10:27:48.747Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
 ---
 
 <div class="headtext">
-	Local_Server_Setup.txt - NotePad
+	<center>Local_Server_Setup.txt - NotePad</center>
 <div class="term">
 <h1><center>Запуск локального сервера</center></h1>
 В этом руководстве вы научитесь развёртывать локальный сервер любого проекта с открытым билдом на базе Einstein Engines, в том числе WWDP.
