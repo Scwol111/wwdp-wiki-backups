@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-02-23T17:46:09.344Z
+date: 2025-02-23T18:00:03.707Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -271,7 +271,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
     <div class="slider">
       <div class="slide">
         <div class="slide-image">
-          <img src="placeholder.jpg" alt="Лабиринт">
+          <img src="/fun-prison/labirinth.png">
         </div>
         <div class="slide-content">
           <p class="slide-title">Лабиринт</p>
@@ -280,20 +280,172 @@ dateCreated: 2025-02-07T17:23:54.686Z
       </div>
       <div class="slide">
         <div class="slide-image">
-          <img src="placeholder.jpg" alt="Энерджи бат">
+          <img src="/fun-prison/energy-bat.png">
         </div>
         <div class="slide-content">
           <p class="slide-title">Энерджи бат</p>
-          <p class="slide-description">Суть игры: Вам выдаётся бита, которая при ударе по оппоненту отталкивает.</p>
+          <p class="slide-description">Суть игры: Вам выдаётся бита. которая при ударе по оппоненту отталкивает. Нужно победить своего оппонента отправив его в критическое состояние.</p>
         </div>
       </div>
       <div class="slide">
         <div class="slide-image">
-          <img src="placeholder.jpg" alt="Остров">
+          <img src="/fun-prison/SRC.png">
         </div>
         <div class="slide-content">
           <p class="slide-title">Остров</p>
-          <p class="slide-description">Суть игры: Необходимо найти 1 из 10 лис и прилететь с ней на фултоне.</p>
+          <p class="slide-description">Суть игры: Необходимо найти 1 из 10 лис и прилететь с ней на фултоне через технический шкаф. 1 лиса - 1 игрок. У вас нет ничего, кроме 1 фултона. Локация заполнена ловушками и минами. Время игры примерно 10-15 минут.</p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Захват флага</p>
+          <p class="slide-description">Суть игры: Есть два лагеря. У каждого есть флаг. Побеждает команда, который заберёт флаг второго команды. Но, помимо битвы между лагерями, надо отбиться ещё от 7-ми волн монстров для каждой из команд. Ресурсы ограничены.</p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Предметы</p>
+          <p class="slide-description">Суть игры: Смотрители тюрьмы ищут заключённых, которые спрятались в виде предметов на локации. Смотрителям тюрьмы даётся 5 минут, чтобы изучить локацию и далее уже прячутся заключённые. Найденный заключённый может пытаться бежать в рамках игровой локации, а смотрители тюрьмы должны его поймать. Время на поиски: 5-10 минут. Первые 5 пойманных заключённых считаются проигравшими. <b>Важно: Стрелять во все предметы на угад было бы слишком легко, поэтому смотрителям тюрьмы лучше выборочно стрелять в проверяемые предметы.</b></p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Верный квадрат</p>
+          <p class="slide-description">Суть игры: В центре локации спавнится случайно животное. Когда ставни открываются, цвет того квадрата на котором стоит животное является верным. Участникам в других квадратах через утилизационный баг закидывается одна из двух гранат на выбор, которая способна их ранить. Упавшие в критическое состояние заключённые проигрывают в игре. </p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Горячая картошка</p>
+          <p class="slide-description">Суть игры: Участники заходят на локацию и через утилизационный бак в центр локации забрасываются 4 горячие картошки. Задача заключённых взорвать 4 горячие картошки и при этом остаться в живых.</p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">“Кидай кубик!”</p>
+          <p class="slide-description">Суть игры: 4 участника выбирают по одной из сторон и встают на цифру 1. Далее, они берут предмет над цифрой и кидают или стреляют им в кого-то на выбор из остальных заключённых. Далее, каждый из участников по часовой стрелке кидает свой кубик и делает шагов по цифрам столько, сколько у него выпало на кубике. Когда участник доходит до цифры 8, считается, что он сделал 1 круг и он возвращается на цифру 1 и продолжает оставшееся количество шагов по кубику. Как только участник доберётся до цифры своего круга, он сможет взять предмет из окна под этой цифрой и атаковать кого-то из остальных участников. Двигаться не в свой ход нельзя, а большинство предметов необходимо кидать в оппонентов.</p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Рокет-джамп.</p>
+          <p class="slide-description">Суть игры: Участникам выдаётся набор из скафандра, джетпака, вещмешка в котором лежит баллон, тесла-пушка, толкающая бита, нож для выживания и дизейблер-пулемёт на 90 зарядов. Все участники выходят на локацию, которая представляет из себя зону без гравитации в центре которой локализуется сингулярность. Задача участников, за определённое время победить всех остальных заключённых на локации. Саботаж сингулярности в центре локации разрешён условиями игры и для этого спрятаны 4 РПГ. <br><i>Как вы собираетесь там выживать?</i></p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Мафия</p>
+          <p class="slide-description">Суть игры: Игра в Мафию проходит по правилам одноимённой настольной игры “Мафия”. На локации уже заготовлены листы персонажей. Выбирайте ведущего, садитесь все за стол, закажите себе напиток из бара и игра начинается! </p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Лаки бой</p>
+          <p class="slide-description">Суть игры: Игра на 2 участника. Есть 6 передатчиков сигнала и каждый открывает какие-то ставни к ящику с припасами. На локацию по утилизационной трубе забрасываются два разных передатчика сигнала, по одному на каждого из заключённых. Они нажимают на передатчик и бегут к ближайшим открытым ставням. <br><i>Примечание: Взять можно только один передатчик.</i></p>
+        </div>
+      </div><div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Стендап</p>
+          <p class="slide-description">Суть игры: Расскажите смешную шутку или покажите фокус. На сцену можно бросать плюшевых акул или помидоры.</p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Ринг</p>
+          <p class="slide-description">Суть игры: Сражайтесь в простых дуэлях 1 на 1 или 2 на 2.</p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Тир</p>
+          <p class="slide-description">Суть игры: Два участника по разные стороны встают на ленту и больше не двигаются. Каждому выдаётся Кардашев-Мосин и коробка патронов .30 винтовочные. Участники пытаются попасть по сопернику. Стреляют по очереди.</p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Пневмопушка</p>
+          <p class="slide-description">Суть игры: Закидывайте предметы в утилизационный бак и уворачивайтесь от летящих предметов.</p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Конкурс хот-догов</p>
+          <p class="slide-description">Суть игры: Съесть всё, что на столе быстрее оппонента и при этом не погибнуть первым.</p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Дартс</p>
+          <p class="slide-description">Суть игры: Заработайте больше очков в дартс, чем оппонент. За каждое попадание дротиком по мишени начисляется 20 дополнительных очков.</p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Верный квадрат, версия “мини”</p>
+          <p class="slide-description">Суть игры: Два участника выбирают цвет на котором будут стоять, и выбирают цвет напротив положив на него игрушечную боеголовку, после этого открываются ставни. Если боеголовка совпадает по цвету с нахождением участника напротив, то он выбывает из игры.</p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Русская рулетка</p>
+          <p class="slide-description">Суть игры: В питоне 6 пуль из которых 1-2 пули настоящие, остальные учебные или не заряжены.</p>
+        </div>
+      </div>
+	  <div class="slide">
+        <div class="slide-image">
+          <img src="/fun-prison/SRC.png">
+        </div>
+        <div class="slide-content">
+          <p class="slide-title">Шахты dop</p>
+          <p class="slide-description">Шерифу и смотрителям тюрьмы выгодно направлять в шахты всех заключённых на работы. Они будут копать руду и добывать полезные ископаемые в виде стали, золота, плазмы и урана. На локации спрятаны разные предметы, от оружия до дисков исследовательских очков, которые можно будет использовать для исследования разных технологических веток.</p>
         </div>
       </div>
     </div>
