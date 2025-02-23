@@ -2,17 +2,24 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-02-23T10:40:50.364Z
+date: 2025-02-23T10:54:16.179Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
 ---
 
 <section class="rules-section">
-  <h2 class="rules-title">Правила режима "Тюрьма Весёлого Режима"</h2>
-  <p class="rules-description">
-    На игровой режим ТВР распространяются все правила сервера White Dream и дополняется ряд новых правил.
-  </p>
+  <div class="rules-header">
+    <div class="rules-logo">
+      <img src="/fun-prison/logo.png" alt="Логотип режима ТВР" width="150" height="64">
+    </div>
+    <div class="rules-text">
+      <h2 class="rules-title">Правила режима "Тюрьма Весёлого Режима"</h2>
+      <p class="rules-description">
+        На игровой режим ТВР распространяются все правила сервера White Dream и дополняется ряд новых правил.
+      </p>
+    </div>
+  </div>
   <div class="rules-list">
     <div class="rule-item">
       <div class="rule-icon">
@@ -27,34 +34,11 @@ dateCreated: 2025-02-07T17:23:54.686Z
         </p>
       </div>
     </div>
-    <div class="rule-item">
-      <div class="rule-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
-          <path d="M12 2L2 22h20L12 2z" />
-        </svg>
-      </div>
-      <div class="rule-content">
-        <h3 class="rule-header">Разрушение наружных стен</h3>
-        <p>
-          Это намеренно построенные ограничения в режиме, за которые вам не стоит выбираться. Сбежать из тюрьмы у вас цели нет, а шаттлов в режиме не предусмотрено. За стенами открытый космос. Разрушая внешние стены вы устраиваете полную разгерметизацию.
-        </p>
-      </div>
-    </div>
-    <div class="rule-item">
-      <div class="rule-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
-          <path d="M12 2L2 22h20L12 2z" />
-        </svg>
-      </div>
-      <div class="rule-content">
-        <h3 class="rule-header">Лечение заключённых</h3>
-        <p>
-          Если заключённый непричастный к саботажным действиям и вне игр погибает, по каким-то причинам, например на Шахтах наступил на мину, то Шериф определяет то, стоит ли лечить пострадавшего заключённого. Помните: хороший Шериф будет отправлять лечить незатейливых заключённых, ведь это его игроки.
-        </p>
-      </div>
-    </div>
   </div>
 </section>
+
+
+
 
 <div id="rule-table">
   **Описание и правила игры режима ТВР**
