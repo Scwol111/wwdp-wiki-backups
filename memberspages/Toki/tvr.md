@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-02-23T16:46:06.910Z
+date: 2025-02-23T16:48:24.223Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -190,7 +190,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       <div class="card-header">Смотритель тюрьмы</div>
       <div class="card-body">
         <div class="image-container">
-          <img src="warden32.png">
+          <img src="/fun-prison/warden32.png">
         </div>
         <div class="text-content">
           <p>Личный состав Шерифа, обязаны следить за порядком, также конвоируют заключённых между локациями и ловят сбежавших саботажников из тюрьмы. В более редких случаях останавливают вооружённое восстание.</p>
@@ -201,7 +201,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       <div class="card-header">Шериф</div>
       <div class="card-body">
         <div class="image-container">
-          <img src="sherif32.png">
+          <img src="/fun-prison/sherif32.png">
         </div>
         <div class="text-content">
           <p>Глава тюрьмы, он устанавливает порядок дня, в котором выбираются игры. За счёт этих игр выбывают заключённые до того момента, пока их не останется вовсе.</p>
@@ -212,7 +212,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       <div class="card-header">Заключённый</div>
       <div class="card-body">
         <div class="image-container">
-          <img src="prisoner32.png">
+          <img src="/fun-prison/prisoner32.png">
         </div>
         <div class="text-content">
           <p>Играют в игры. Заключённые с ролью “Саботажник” могут пытаться устроить вооружённое восстание. Примечание: Смотрители тюрьмы и Шериф знают, что у Саботажников есть имплант подкожного хранилища.</p>
@@ -226,7 +226,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
 		  <div class="role-header">Доктор</div>
 		  <div class="role-body">
 			<div class="role-image">
-			  <img src="doctor.png" alt="Doctor">
+			  <img src="/roles/doctor.png" alt="Doctor">
 			</div>
 		  </div>
 		</div>
@@ -236,7 +236,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
 		  <div class="role-header">Бармен</div>
 		  <div class="role-body">
 			<div class="role-image">
-			  <img src="bartender.png" alt="Bartender">
+			  <img src="/roles/barman.png" alt="Bartender">
 			</div>
 		  </div>
 		</div>
@@ -246,7 +246,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
 		  <div class="role-header">Повар</div>
 		  <div class="role-body">
 			<div class="role-image">
-			  <img src="cook.png" alt="Cook">
+			  <img src="/roles/chef.png" alt="Cook">
 			</div>
 		  </div>
 		</div>
@@ -256,7 +256,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
 		  <div class="role-header">Ботаник</div>
 		  <div class="role-body">
 			<div class="role-image">
-			  <img src="botanist.png" alt="Botanist">
+			  <img src="/roles/botanist.png" alt="Botanist">
 			</div>
 		  </div>
 		</div>
