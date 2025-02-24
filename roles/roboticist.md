@@ -2,7 +2,7 @@
 title: Псионический Мантис
 description: 
 published: true
-date: 2025-02-24T07:37:10.602Z
+date: 2025-02-24T07:37:57.605Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T07:35:01.174Z
@@ -18,7 +18,7 @@ dateCreated: 2025-02-24T07:35:01.174Z
     <p><strong>Сложность:</strong> Средняя</p>
     <strong>Обязанности:</strong> Роботехник создаёт и чинит киборгов, мехи, работает с механизмами и фабрикаторами.. <br>
     <b>Руководители</b>: <a href="/roles/researchdirector">Научный Руководитель</a><br>
-    <b>Руководства</b>: <a href="/guides/psionics">Псионика</a> • <a href="/guides/oracle">Оракул</a> • <a href="/guides/glimmer">Мерцание
+    <b>Руководства</b>: • <a href="/guides/robotics" title="Робототехника">Робототехника</a> • <a href="/guides/bots" title="Боты">Боты</a> • <a href="/guides/borgcreating" title="Боргостроение">Боргостроение</a> • <a href="/guides/exosuits" title="Экзокостюмы">Экзокостюмы</a>
 </a>
   </div></div>
   </div>
