@@ -2,7 +2,7 @@
 title: Псионический Мантис
 description: 
 published: true
-date: 2025-02-24T07:35:46.575Z
+date: 2025-02-24T07:37:10.602Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T07:35:01.174Z
@@ -14,9 +14,9 @@ dateCreated: 2025-02-24T07:35:01.174Z
   <div>
     <div><div><img src="/roles/mantis.png"></div></div>
   <div><div>
-    <h1>Мантис</h1>
-    <p><strong>Сложность:</strong> Сложная</p>
-    <strong>Обязанности:</strong> Разгадывать тайны. Выслеживать псиоников. Разрушать разум псиоников при белом коде. <br>
+    <h1>Роботехник</h1>
+    <p><strong>Сложность:</strong> Средняя</p>
+    <strong>Обязанности:</strong> Роботехник создаёт и чинит киборгов, мехи, работает с механизмами и фабрикаторами.. <br>
     <b>Руководители</b>: <a href="/roles/researchdirector">Научный Руководитель</a><br>
     <b>Руководства</b>: <a href="/guides/psionics">Псионика</a> • <a href="/guides/oracle">Оракул</a> • <a href="/guides/glimmer">Мерцание
 </a>
