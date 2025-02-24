@@ -2,7 +2,7 @@
 title: Синий Щит
 description: 
 published: true
-date: 2025-02-24T20:10:00.128Z
+date: 2025-02-24T20:10:09.912Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T20:07:34.309Z
@@ -22,8 +22,6 @@ dateCreated: 2025-02-24T20:07:34.309Z
           <b>Руководства</b>: <a href="/guides/hierarchyofcommand" class="is-internal-link is-valid-page">Иерархия Командования</a> • <a href="/spacelaw" class="is-internal-link is-valid-page">Космический Закон</a> • <a href="/roles/securityservicedepartment/tencodes" title="Инвентарь службы безопасности" class="is-internal-link is-valid-page">Десятичные коды</a>
         </div>
         <div id="tb2" style="display:none;">
-
-Синий Щит (Blue Shield) — элитный телохранитель, отвечающий за защиту главы персонала (HoP), главы службы безопасности (HoS), главного инженера (CE), главного врача (CMO) и научного руководителя (RD). Это роль, требующая внимательности, тактики и умения быстро реагировать на угрозы.
 
 
 <div class="table"></div></div>
