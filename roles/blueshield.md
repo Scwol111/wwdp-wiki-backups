@@ -2,7 +2,7 @@
 title: Синий Щит
 description: 
 published: true
-date: 2025-02-24T20:18:54.844Z
+date: 2025-02-24T20:21:12.727Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T20:07:34.309Z
