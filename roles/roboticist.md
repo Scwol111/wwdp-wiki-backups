@@ -2,7 +2,7 @@
 title: Псионический Мантис
 description: 
 published: true
-date: 2025-02-24T07:58:45.525Z
+date: 2025-02-24T08:03:21.098Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T07:35:01.174Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-24T07:35:01.174Z
 <div class="roles-passport rnd">
   <div class="title rnd "><a href="/roles/scientificdepartment">Научный отдел</a></div>
   <div>
-    <div><div><img src="/roles/mantis.png"></div></div>
+    <div><div><img src="/roles/roboticist.png"></div></div>
   <div><div>
     <h1>Роботехник</h1>
     <p><strong>Сложность:</strong> Средняя</p>
