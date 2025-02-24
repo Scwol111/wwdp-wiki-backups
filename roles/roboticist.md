@@ -1,8 +1,8 @@
 ---
-title: Псионический Мантис
+title: Роботехник
 description: 
 published: true
-date: 2025-02-24T08:03:21.098Z
+date: 2025-02-24T08:08:45.637Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T07:35:01.174Z
