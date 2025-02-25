@@ -2,7 +2,7 @@
 title: Синий Щит
 description: 
 published: true
-date: 2025-02-25T07:05:53.755Z
+date: 2025-02-25T07:05:59.805Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T20:07:34.309Z
@@ -47,6 +47,7 @@ dateCreated: 2025-02-24T20:07:34.309Z
 * Флеш, наручники и дубинку для контроля ситуации.
 * Медицинский набор для экстренной помощи.
 * Расширенный доступ в кабинеты глав и стратегически важные зоны.
+  
   <h2 id="полезные-советы" class="toc-header">
    <a class="toc-anchor" href="#полезные-советы">¶</a> 
    <center><img src="/roles/captain/light.png" class="png1"><span class="up">Полезные советы</span></center>
