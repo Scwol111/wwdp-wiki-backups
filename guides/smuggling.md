@@ -2,8 +2,8 @@
 title: Контрабанда
 description: Определение, какой предмет является контрабандой, а какой нет.
 published: true
-date: 2024-10-20T12:11:57.646Z
-tags: сб, руководство
+date: 2025-02-28T08:34:24.634Z
+tags: руководство, сб
 editor: markdown
 dateCreated: 2024-09-10T19:08:02.955Z
 ---
@@ -180,11 +180,11 @@ dateCreated: 2024-09-10T19:08:02.955Z
   <!--<div>
     <img src="/guides/smuggling/syndieholster.png" alt="syndieholster.png" />
     <div>Кобура синдиката</div>
-  </div>-->
+  </div>
   <div>
     <img src="/guides/smuggling/objects-vehicles-syndicatesegway.png" alt="objects-vehicles-syndicatesegway.png" />
     <div>Сигвей Синдиката</div>
-  </div>
+  </div>-->
   <div>
     <img src="/guides/smuggling/syn_jaws.gif" alt="syn_jaws.gif" />
     <div>Челюсти жизни синдиката</div>
@@ -432,7 +432,7 @@ dateCreated: 2024-09-10T19:08:02.955Z
   	<div>Гатфрукт</div>
   </div>
   <div>
-    <img src="/guides/smuggling/c20r.png" alt="c20r.png" />
+    <img src="/guides/uplinknew/bulldog.png" alt="c20r.png" />
   	<div>Крупнокалиберное оружие</div>
   </div>
   <div>
