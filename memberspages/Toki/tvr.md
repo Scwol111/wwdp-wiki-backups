@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-02-28T17:49:27.730Z
+date: 2025-02-28T17:55:12.271Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -282,54 +282,6 @@ dateCreated: 2025-02-07T17:23:54.686Z
         <p class="slide-description">Краткое описание первого слайда</p>
       </div>
     </div>
-     <div class="slide">
-      <img src="https://picsum.photos/1200/800?random=1" class="slide-img">
-      <div class="slide-content">
-        <p class="slide-title">Заголовок 1</p>
-        <p class="slide-description">Краткое описание первого слайда</p>
-      </div>
-    </div>
-     <div class="slide">
-      <img src="https://picsum.photos/1200/800?random=1" class="slide-img">
-      <div class="slide-content">
-        <p class="slide-title">Заголовок 1</p>
-        <p class="slide-description">Краткое описание первого слайда</p>
-      </div>
-    </div>
-     <div class="slide">
-      <img src="https://picsum.photos/1200/800?random=1" class="slide-img">
-      <div class="slide-content">
-        <p class="slide-title">Заголовок 1</p>
-        <p class="slide-description">Краткое описание первого слайда</p>
-      </div>
-    </div>
-     <div class="slide">
-      <img src="https://picsum.photos/1200/800?random=1" class="slide-img">
-      <div class="slide-content">
-        <p class="slide-title">Заголовок 1</p>
-        <p class="slide-description">Краткое описание первого слайда</p>
-      </div>
-    </div>
-     <div class="slide">
-      <img src="https://picsum.photos/1200/800?random=1" class="slide-img">
-      <div class="slide-content">
-        <p class="slide-title">Заголовок 1</p>
-        <p class="slide-description">Краткое описание первого слайда</p>
-      </div>
-    </div>
-     <div class="slide">
-      <img src="https://picsum.photos/1200/800?random=1" class="slide-img">
-      <div class="slide-content">
-        <p class="slide-title">Заголовок 1</p>
-        <p class="slide-description">Краткое описание первого слайда</p>
-      </div>
-    </div>
-    <div class="slide">
-      <img src="https://picsum.photos/800/1200?random=2" class="slide-img">
-      <div class="slide-content">
-        <p class="slide-title">Заголовок 2</p>
-        <p class="slide-description">Очень длинное описание второго слайда, которое занимает много места и требует прокрутки.</p>
-      </div>
     </div>
   </div>
 
