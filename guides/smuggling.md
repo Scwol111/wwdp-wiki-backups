@@ -2,7 +2,7 @@
 title: Контрабанда
 description: Определение, какой предмет является контрабандой, а какой нет.
 published: true
-date: 2025-02-28T08:40:16.691Z
+date: 2025-02-28T08:45:09.148Z
 tags: руководство, сб
 editor: markdown
 dateCreated: 2024-09-10T19:08:02.955Z
@@ -310,6 +310,10 @@ dateCreated: 2024-09-10T19:08:02.955Z
     <img src="/guides/smuggling/beegrenade.png" alt="beegrenade.png" />
     <div>Пчелиная граната</div>
   </div>
+  <div>
+    <img src="/guides/uplink/syndicate_bomb.png" alt="beegrenade.png" />
+    <div>Бомба синдиката</div>
+  </div>
   
   <div class="full" style="border-bottom: 1px solid red; border-top: 1px solid red;"><h2>Энергетическое оружие</h2></div>
   <div>
@@ -382,8 +386,8 @@ dateCreated: 2024-09-10T19:08:02.955Z
   	<div>Имплант предсмертных криков</div>
   </div>
   <div>
-    <img src="/guides/smuggling/implanter.png" alt="implanter.png" />
-    <div><a href="/guides/implants/mindslaves">Имплант подчинения</a></div>
+    <a href="/guides/implants/mindslaves"><img src="/guides/smuggling/implanter.png" alt="implanter.png" />
+    <div>Имплант подчинения</a></div>
   </div>
   <div>
     <img src="/guides/smuggling/explosive_implant.png" alt="explosive_implant.png" />
@@ -470,7 +474,7 @@ dateCreated: 2024-09-10T19:08:02.955Z
   	<div>Ноктюрин</div>
   </div>
   <div>
-    <img src="/guides/smuggling/powersink.png" alt="powersink.png" />
+    <img src="/guides/uplinknew/powersink.png" alt="powersink.png" />
   	<div>Энерговысасыватель</div>
   </div>
   <div>
