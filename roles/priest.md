@@ -2,7 +2,7 @@
 title: Священник
 description: 
 published: true
-date: 2024-10-20T13:01:41.505Z
+date: 2025-02-28T08:47:03.036Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T17:10:18.092Z
@@ -70,6 +70,7 @@ dateCreated: 2024-09-25T17:10:18.092Z
 
 Так же вы можете через свою библию призвать своего личного и верного фамильяра <a href="/roles/remilia" class="is-internal-link is-valid-page">"Ремилию"</a>. Вы можете отдавать любые приказы своему фамильяру и он их выполнит, будь то это ударить человека или вовсе умереть (приказы должны быть адекватными и не нарушать правила сервера, вы полностью несёте ответственность за ваши приказы фамильяру).
 
+<!--
 <h2>
   <div class="box">
   <img src="/roles/serv/priest/pylonс.gif" class="png2">Борьба с темными силами<img src="/roles/serv/priest/pylonс.gif"  class="png2">
@@ -252,9 +253,11 @@ dateCreated: 2024-09-25T17:10:18.092Z
 > <strong>Вся эта броня различается лишь визуально</strong>. Шлем снижает тупой и рубящий урон на 20% и проникающий на 5%. Броня снижает тупой и рубящий урон на 50%, проникающий на 10% и тепловой на 50%.
 {.is-info}
 
+-->
+
 <h2>
   <div class="box">
-  <img src="/roles/serv/priest/negronomicon_new.png" class="png1">Священник отступник<img src="/negronomicon_new.png" class="png1">
+  <img src="/roles/serv/priest/negronomicon_new.png" class="png1">Священник отступник<img src="/roles/serv/priest/negronomicon_new.png" class="png1">
   </div>
 </h2>
 
