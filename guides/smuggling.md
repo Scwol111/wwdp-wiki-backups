@@ -2,7 +2,7 @@
 title: Контрабанда
 description: Определение, какой предмет является контрабандой, а какой нет.
 published: true
-date: 2025-02-28T08:34:24.634Z
+date: 2025-02-28T08:40:16.691Z
 tags: руководство, сб
 editor: markdown
 dateCreated: 2024-09-10T19:08:02.955Z
@@ -354,7 +354,7 @@ dateCreated: 2024-09-10T19:08:02.955Z
   	<div>Имплант свободы</div>
   </div>
   <div>
-    <img src="/guides/smuggling/old_radio.png" alt="old_radio.png" />
+    <img src="/guides/uplinknew/nontaradio.png" alt="old_radio.png" />
   	<div>Имплант аплинка</div>
   </div>
   <div>
@@ -462,7 +462,7 @@ dateCreated: 2024-09-10T19:08:02.955Z
   
   <div class="full" style="border-bottom: 1px solid red; border-top: 1px solid red;"><h2>Предметы саботажа</h2></div>
   <div>
-    <img src="/guides/smuggling/emag.png" alt="emag.png" />
+    <img src="/guides/uplink/emag.gif" alt="emag.png" />
   	<div>Криптографический секвенсор</div>
   </div>
   <div>
@@ -492,11 +492,11 @@ dateCreated: 2024-09-10T19:08:02.955Z
   
   <div class="full" style="border-bottom: 1px solid red; border-top: 1px solid red;"><h2>Аплинк</h2></div>
   <div>
-    <img src="/guides/smuggling/old_radio_(1).png" alt="old_radio_(1).png" />
+    <img src="/guides/uplinknew/nontaradio.png" alt="old_radio_(1).png" />
   	<div>Радио подкрепления</div>
   </div>
   <div>
-    <img src="/guides/smuggling/old_radio_(1).png" alt="old_radio_(1).png" />
+    <img src="/guides/uplinknew/nontaradio.png" alt="old_radio_(1).png" />
   	<div>Радио с открым аплинком</div>
   </div>
   <div>
