@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-02-28T17:29:38.022Z
+date: 2025-02-28T17:34:07.984Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -269,35 +269,33 @@ dateCreated: 2025-02-07T17:23:54.686Z
 <div class="slider-container">
   <div class="slides">
     <div class="slide">
-      <img src="https://picsum.photos/1200/800?random=1" class="slide-img" onclick="openModal(this)">
+      <img src="https://picsum.photos/1200/800?random=1" class="slide-img">
       <div class="slide-content">
         <p class="slide-title">Заголовок 1</p>
         <p class="slide-description">Краткое описание первого слайда</p>
       </div>
     </div>
     <div class="slide">
-      <img src="https://picsum.photos/800/1200?random=2" class="slide-img" onclick="openModal(this)">
+      <img src="https://picsum.photos/800/1200?random=2" class="slide-img">
       <div class="slide-content">
         <p class="slide-title">Заголовок 2</p>
-        <p class="slide-description">Суть игры: 4 участника выбирают по одной из сторон и встают на цифру 1. Далее, они берут предмет над цифрой и кидают или стреляют им в кого-то на выбор из остальных заключённых. Далее, каждый из участников по часовой стрелке кидает свой кубик и делает шагов по цифрам столько, сколько у него выпало на кубике. Когда участник доходит до цифры 8, считается, что он сделал 1 круг и он возвращается на цифру 1 и продолжает оставшееся количество шагов по кубику. Как только участник доберётся до цифры своего круга, он сможет взять предмет из окна под этой цифрой и атаковать кого-то из остальных участников. Двигаться не в свой ход нельзя, а большинство предметов необходимо кидать в оппонентов. Пример: У вас 4-ый круг, вы стоите на цифре 2. Вы кидаете кубик и выпадает 7. Вы делаете 6 шагов вперёд до цифры 8 и считается, что вы перешли на 5-ый круг, далее вы делаете ещё 1 шаг, потому что было 7 на кубике и оказываетесь на цифре 1. Как только вы дойдёте до цифры 5 на этом кругу вы сможете взять предмет с окна над цифрой.</p>
+        <p class="slide-description">Очень длинное описание второго слайда, которое занимает много места и требует прокрутки.</p>
       </div>
     </div>
   </div>
 
-  <button class="nav-btn prev" onclick="prevSlide()">&#10094;</button>
-  <button class="nav-btn next" onclick="nextSlide()">&#10095;</button>
+  <button class="nav-btn prev">&#10094;</button>
+  <button class="nav-btn next">&#10095;</button>
 
   <div class="indicators-container">
     <div class="indicators">
-      <div class="indicator active" onclick="goToSlide(0)"></div>
-      <div class="indicator" onclick="goToSlide(1)"></div>
-      <div class="indicator" onclick="goToSlide(1)"></div>
-      <div class="indicator" onclick="goToSlide(1)"></div>
+      <div class="indicator active"></div>
+      <div class="indicator"></div>
     </div>
   </div>
 </div>
-    <div class="modal" id="imageModal">
-  <span class="close-modal" onclick="closeModal()">&times;</span>
+<div class="modal" id="imageModal">
+  <span class="close-modal">&times;</span>
   <div class="modal-content">
     <img class="modal-img" id="modalImg">
   </div>
