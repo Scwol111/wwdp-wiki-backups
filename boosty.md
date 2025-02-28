@@ -2,7 +2,7 @@
 title: Бусти команды
 description: Здесь вы можете поддержать людей из стаффа, которые завели свой бусти.
 published: true
-date: 2025-01-11T19:46:35.674Z
+date: 2025-02-28T08:29:21.548Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -43,11 +43,6 @@ dateCreated: 2024-10-31T07:49:55.557Z
       <td>Mr_darky</td>
       <td><a href="https://boosty.to/mr_darky">boosty.to/mr_darky</a></td>
       <td>Активный маппер еще до раскола, его работы вы можете заметить на карте ДруРок и ВайтБокс.</td>
-    </tr>
-    <tr>
-      <td>Diamantes</td>
-      <td><a href="https://boosty.to/diamantes_00">boosty.to/diamantes</a></td>
-      <td>Маппил Мус и всякое для ивентов.</td>
     </tr>
   </table>
 </div>
