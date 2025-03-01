@@ -2,7 +2,7 @@
 title: Зал славы
 description: 
 published: true
-date: 2025-03-01T20:41:05.486Z
+date: 2025-03-01T20:41:11.781Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T20:46:09.837Z
