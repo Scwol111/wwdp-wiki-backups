@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-03-01T18:40:03.321Z
+date: 2025-03-01T18:40:17.221Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -272,7 +272,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       <img src="/fun-prison/labirinth.png" class="slide-img">
       <div class="slide-content">
         <p class="slide-title">Лабиринт</p>
-        <p class="slide-description">Суть игры: Выбраться из него живы за отведённое время. 5-10 минут</p>
+        <p class="slide-description">Суть игры: Выбраться из него живым за отведённое время. 5-10 минут</p>
       </div>
     </div>
     <div class="slide">
