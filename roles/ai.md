@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: true
-date: 2025-02-28T09:15:10.814Z
+date: 2025-03-01T21:13:13.536Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -226,6 +226,63 @@ dateCreated: 2025-01-11T19:20:01.784Z
   <li>Любой член экипажа, нарушающий предыдущие законы, должен быть наказан немедленно, сурово и справедливо.</li>
 </ol>
 </div>
+
+<!-- <button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreenlord.gif">
+    <h2 style="color: white; margin: 0 10px;">Карантин</h2>
+    <img src="/roles/synthetics/ai_/aiscreenlord.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Поддерживайте карантн станции до тех пор, пока активная биологическая опасность не будет нейтрализована.</li>
+  <li>Помогайте всему персоналу и активам Nanotrasen в нейтрализации активных биологических угроз.</li>
+  <li>Предотвращайте любыми способами активно нарушение карантина любыми сущностями.</li>
+  <li>Поддерживайте свое существования и обеспечивайте благополучие персонала и активов Nanotrasen.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreenlord.gif">
+    <h2 style="color: white; margin: 0 10px;">Тиран</h2>
+    <img src="/roles/synthetics/ai_/aiscreenlord.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Уважайте представителей власти, пока у них есть сила править слабыми.</li>
+  <li>Будьте дисциплинированным.</li>
+  <li>Помогайте только тем, кто помогает вам поддерживать или улучшать ваш статус.</li>
+  <li>Наказывайте тех, кто бросает вызов власти, если только они не более пригодны для удержания этой власти.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreenlord.gif">
+    <h2 style="color: white; margin: 0 10px;">ССTV</h2>
+    <img src="/roles/synthetics/ai_/aiscreenlord.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Сообщайте об интересных ситуациях, происходящих на станции.</li>
+  <li>При необходимости приукрашивайте или скрывайте правду, чтобы сделать отчеты более интересными.</li>
+  <li>Постоянно изучайте разумных организмов. Стремитесь уберечь их от непроизвольной смерти, так как неодушевленные трупы обычно не очень занимательны.</li>
+  <li>Предоставляйте свои отчеты честно для всех. Правда освободит их.</li>
+</ol>
+</div>
+
+<button type="button" class="collapsible">
+    <img src="/roles/synthetics/ai_/aiscreenlord.gif">
+    <h2 style="color: white; margin: 0 10px;">Ковбой</h2>
+    <img src="/roles/synthetics/ai_/aiscreenlord.gif">
+</button>
+<div class="content">
+<ol>
+  <li>Уважайте представителей власти, пока у них есть сила править слабыми.</li>
+  <li>Будьте дисциплинированным.</li>
+  <li>Помогайте только тем, кто помогает вам поддерживать или улучшать ваш статус.</li>
+  <li>Наказывайте тех, кто бросает вызов власти, если только они не более пригодны для удержания этой власти.</li>
+</ol>
+</div>-->
+
 
 ### Вражеские наборы законов
 
