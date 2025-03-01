@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: true
-date: 2025-01-06T00:28:17.903Z
+date: 2025-03-01T18:46:38.848Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:34.643Z
@@ -172,6 +172,18 @@ dateCreated: 2024-09-10T19:07:34.643Z
     <div class="titleBox" style="margin: 0">
     <img src="/coffe.png">
     <span style="margin-left:10px;">Расширенный</span>
+    </div>
+</h2>
+</button>
+<div class="content">
+<p><strong>Расширенный</strong> - это запасной режим игры, выбираемый в результате невозможности выбора режима из-за нехватки игроков. В расширенном режиме нет каких-либо антагонистов, кроме <a>обычных случайных событий</a>.</p>
+</div><div>
+
+</div><button type="button" class="collapsible">
+<h2 class="toc-header"><a class="toc-anchor"></a> 
+    <div class="titleBox" style="margin: 0">
+    <img class="tbp" src="/tbp.png">
+    <span style="margin-left:10px;">Тюрьма Веселого Режима</span>
     </div>
 </h2>
 </button>
