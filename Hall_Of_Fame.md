@@ -2,13 +2,13 @@
 title: Зал славы
 description: 
 published: true
-date: 2025-03-01T19:00:24.364Z
+date: 2025-03-01T20:40:23.246Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T20:46:09.837Z
 ---
 
-<table>
+<table class="slava">
   <thead>
     <tr>
       <th colspan="3"><a href="https://youtu.be/VdphvuyaV_I?si=9X4wihLOxmM8twLr" class="is-external-link">WWDP Legendarique</a></th>
@@ -48,7 +48,7 @@ dateCreated: 2024-10-30T20:46:09.837Z
   </tbody>
 </table>
 
-<table>
+<table class="slava">
   <thead>
     <tr>
       <th colspan="3"><a href="https://www.youtube.com/watch?v=M1Tca7BtH5I" class="is-external-link">Le Cirque du Rêve Blanc</a></th>
@@ -193,7 +193,7 @@ dateCreated: 2024-10-30T20:46:09.837Z
   </tbody>
 </table>
 
-<table>
+<table class="govno">
   <thead>
     <tr>
       <th colspan="3">Провалы</th>
