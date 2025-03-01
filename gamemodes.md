@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: true
-date: 2025-03-01T18:55:26.333Z
+date: 2025-03-01T18:56:43.187Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:34.643Z
@@ -182,17 +182,6 @@ dateCreated: 2024-09-10T19:07:34.643Z
 </div><button type="button" class="collapsible">
 <h2 class="toc-header"><a class="toc-anchor"></a> 
     <div class="titleBox" style="margin: 0">
-    <img class="huy" style="margin-left:30px;  width: 128px;  image-rendering: auto;" src="/tbp.png">
-    </div>
-</h2>
-</button>
-<div class="content">
-<p><strong>Тюрьма Веселого Режима</strong> - Режим тюрьмы, который представляет из себя взаимодействия двух команд. Одна из которых играет роль тюремных надзирателей, а другая отпетых преступников. Играйте на локациях, выживайте в играх.</p>
-</div><div>
-  
-</div><button type="button" class="collapsible">
-<h2 class="toc-header"><a class="toc-anchor"></a> 
-    <div class="titleBox" style="margin: 0">
     <img src="/spade.png">
     <span style="margin-left:10px;">Песочница</span>
     </div>
@@ -201,7 +190,19 @@ dateCreated: 2024-09-10T19:07:34.643Z
 <div class="content">
 <p><strong>Песочница</strong> - это режим, который дает игрокам возможность использовать некоторые инструменты отладки игры, а именно панели <i>spawn entities</i> и <i>spawn tiles</i>, позволяющие создавать все, что вы хотите, используя большое количество объектов, содержащихся в игре. <strong>Не может быть выбрана при обычной игре.</strong></p>
 </div>
+
+</div><button type="button" class="collapsible">
+<h2 class="toc-header"><a class="toc-anchor"></a> 
+    <div class="titleBox" style="margin: 0">
+    <img class="huy" style="margin-left:30px;  width: 128px;  image-rendering: auto;" src="/tbp.png">
+    </div>
+</h2>
+</button>
+<div class="content">
+<p><strong>Тюрьма Веселого Режима</strong> - Это режим, который представляет из себя взаимодействия двух команд. Одна из которых играет роль тюремных надзирателей, а другая отпетых преступников. Играйте на локациях, выживайте в играх.</p>
+</div><div>
 <p></p><div>
+  
 
 </div><h1 class="toc-header"><a class="toc-anchor"></a> Список случайных ивентов</h1><div>
 
