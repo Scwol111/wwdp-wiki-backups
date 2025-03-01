@@ -2,13 +2,13 @@
 title: Зал славы
 description: 
 published: true
-date: 2025-03-01T20:45:18.341Z
+date: 2025-03-01T20:45:28.813Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T20:46:09.837Z
 ---
 
-<table class="slava">
+<center><table class="slava">
   <thead>
     <tr>
       <th colspan="3"><a href="https://youtu.be/VdphvuyaV_I?si=9X4wihLOxmM8twLr" class="is-external-link">WWDP Legendarique</a></th>
