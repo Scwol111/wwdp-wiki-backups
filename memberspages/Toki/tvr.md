@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-02-28T18:00:20.697Z
+date: 2025-03-01T18:14:42.285Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -269,17 +269,143 @@ dateCreated: 2025-02-07T17:23:54.686Z
 <div class="slider-container">
   <div class="slides">
     <div class="slide">
-      <img src="/fun-prison/ctf.png" class="slide-img">
+      <img src="/fun-prison/labirinth.png" class="slide-img">
       <div class="slide-content">
-        <p class="slide-title">Заголовок 1</p>
-        <p class="slide-description">Краткое описание первого слайда</p>
+        <p class="slide-title">Лабиринт</p>
+        <p class="slide-description">Суть игры: Выбраться из него живы за отведённое время. 5-10 минут</p>
       </div>
     </div>
     <div class="slide">
-      <img src="https://picsum.photos/1200/800?random=1" class="slide-img">
+      <img src="/fun-prison/" class="slide-img">
       <div class="slide-content">
-        <p class="slide-title">Заголовок 1</p>
-        <p class="slide-description">Краткое описание первого слайда</p>
+        <p class="slide-title">Энерджи бат</p>
+        <p class="slide-description">Суть игры: Вам выдаётся бита. которая при ударе по оппоненту отталкивает. Нужно победить своего оппонента отправив его в критическое состояние.</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="/fun-prison/SRC.png" class="slide-img">
+      <div class="slide-content">
+        <p class="slide-title">TITLE</p>
+        <p class="slide-description">DESC</p>
       </div>
     </div>
   </div>
