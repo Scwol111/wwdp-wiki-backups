@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: true
-date: 2025-03-01T18:51:47.116Z
+date: 2025-03-01T18:55:26.333Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:34.643Z
@@ -182,8 +182,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
 </div><button type="button" class="collapsible">
 <h2 class="toc-header"><a class="toc-anchor"></a> 
     <div class="titleBox" style="margin: 0">
-    <img class="tbp" src="/tbp.png">
-    <span style="margin-left:10px;">Тюрьма Веселого Режима</span>
+    <img class="huy" style="margin-left:30px;  width: 128px;  image-rendering: auto;" src="/tbp.png">
     </div>
 </h2>
 </button>
