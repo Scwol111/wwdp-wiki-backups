@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-03-02T12:36:26.926Z
+date: 2025-03-02T12:56:30.470Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -22,7 +22,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
   </div>
   <div class="rules-list">
     <div class="rule-item">
-      <div class="rule-icon"><i class="fas fa-rocket"></i></div>
+      <div class="rule-icon"><i class="fas fa-ban"></i></div>
       <div class="rule-content">
         <p class="rule-header">Разгерметизация запрещена</p>
         <p>
@@ -31,7 +31,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       </div>
     </div>
     <div class="rule-item">
-      <div class="rule-icon"><i class="fas fa-brick"></i></div>
+      <div class="rule-icon"><i class="fas fa-shield-alt"></i></div>
       <div class="rule-content">
         <p class="rule-header">Не трогайте стены тюрьмы</p>
         <p>
@@ -49,7 +49,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       </div>
     </div>
     <div class="rule-item">
-      <div class="rule-icon"><i class="fas fa-gamepad"></i></div>
+      <div class="rule-icon"><i class="fas fa-skull-crossbones"></i></div>
       <div class="rule-content">
         <p class="rule-header">Убийство заключённого без причины</p>
         <p>
@@ -58,7 +58,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       </div>
     </div>
     <div class="rule-item">
-      <div class="rule-icon"><i class="fas fa-clipboard-list"></i></div>
+      <div class="rule-icon"><i class="fas fa-dice"></i></div>
       <div class="rule-content">
         <p class="rule-header">Шериф создает игры</p>
         <p>
@@ -85,7 +85,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       </div>
     </div>
     <div class="rule-item">
-      <div class="rule-icon"><i class="fas fa-skull"></i></div>
+      <div class="rule-icon"><i class="fas fa-bomb"></i></div>
       <div class="rule-content">
         <p class="rule-header">Саботажники</p>
         <p>
@@ -139,18 +139,18 @@ dateCreated: 2025-02-07T17:23:54.686Z
       </div>
     </div>
     <div class="rule-item">
-      <div class="rule-icon"><i class="fa-solid fa-shield-halved"></i></div>
+      <div class="rule-icon"><i class="fas fa-sword"></i></div>
       <div class="rule-content">
-        <p class="rule-header">Защита союзников</p>
+        <p class="rule-header">Ограничение на убийство саботажниками</p>
         <p>
           Саботажникам и их помощникам запрещено убивать заключённых, если те явно не пытаются им помешать.
         </p>
       </div>
     </div>
     <div class="rule-item">
-      <div class="rule-icon"><i class="fas fa-road"></i></div>
+      <div class="rule-icon"><i class="fas fa-sword"></i></div>
       <div class="rule-content">
-        <p class="rule-header">Бои на улице</p>
+        <p class="rule-header">Нападение на смотрителей</p>
         <p>
           Саботажники могут нападать на смотрителей тюрьмы во время конвоирования заключённых от одной локации до другой или навязывать бой отдельным патрулям сотрудников тюрьмы, но все бои должны происходить только на улице или в здании тюрьмы. Разрешено сражаться на игровых локациях, где уже прошли игры, но запрещено сражаться на локациях, на которых ещё не играли.<br>
           <i>Учтите, что если при нападении случайно погибнут другие заключённые, то это будет расцениваться, как их убийство, поэтому взрывные подходы лучше не использовать на конвои и в массовом скоплении людей.</i>
@@ -176,7 +176,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       </div>
     </div>
     <div class="rule-item">
-      <div class="rule-icon"><i class="fas fa-heart"></i></div>
+      <div class="rule-icon"><i class="fas fa-medkit"></i></div>
       <div class="rule-content">
         <p class="rule-header">Лечение заключённых</p>
         <p>
