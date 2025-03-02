@@ -1,8 +1,8 @@
 ---
 title: Тюрьма Весёлего Режима - Описание и правила
-description: Описание и правила игры режима ТВР на сервере White Dream
+description: Описание и правила игры режима ТВР на сервере White Dream. Выживании на играх. Играйте на локациях, побеждайте в играх и выживайте.
 published: false
-date: 2025-03-02T15:49:48.041Z
+date: 2025-03-02T16:10:20.736Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -187,6 +187,8 @@ dateCreated: 2025-02-07T17:23:54.686Z
   </div>
 </div>
 
+<h1>Основные роли</h1>
+
 <div class="card-container">
   <div class="card">
     <div class="card-header">Смотритель тюрьмы</div>
@@ -222,6 +224,8 @@ dateCreated: 2025-02-07T17:23:54.686Z
     </div>
   </div>
 </div>
+
+<h1>Дополнительные роли</h1>
 
 <div class="role-grid">
   <a href="/roles/doctor" class="role-link">
@@ -265,6 +269,10 @@ dateCreated: 2025-02-07T17:23:54.686Z
     </div>
   </a>
 </div>
+
+<blockquote class="is-info">
+  <p>Дополнительные роли не могут быть саботажниками или их помощниками.</p>
+</blockquote>
 
 <div class="slider-container">
   <div class="slides">
