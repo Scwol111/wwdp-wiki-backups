@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-03-02T11:43:28.608Z
+date: 2025-03-02T11:44:39.506Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -221,7 +221,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
   </div>
 </div>
 	<div class="role-grid">
-  <a href="#" class="role-link">
+  <a href="/roles/doctor" class="role-link">
     <div class="role-card role-doctor">
       <div class="role-header">Доктор</div>
       <div class="role-body">
@@ -231,7 +231,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       </div>
     </div>
   </a>
-  <a href="#" class="role-link">
+  <a href="/roles/barman" class="role-link">
     <div class="role-card role-bartender">
       <div class="role-header">Бармен</div>
       <div class="role-body">
@@ -241,7 +241,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       </div>
     </div>
   </a>
-  <a href="#" class="role-link">
+  <a href="/roles/chef" class="role-link">
     <div class="role-card role-cook">
       <div class="role-header">Повар</div>
       <div class="role-body">
@@ -251,7 +251,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       </div>
     </div>
   </a>
-  <a href="https://wiki.wwdp.ee" class="role-link">
+  <a href="/roles/botanist" class="role-link">
     <div class="role-card role-botanist">
       <div class="role-header">Ботаник</div>
       <div class="role-body">
