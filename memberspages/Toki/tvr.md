@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream. Выживании на играх. Играйте на локациях, побеждайте в играх и выживайте.
 published: false
-date: 2025-03-02T16:10:20.736Z
+date: 2025-03-02T16:22:49.503Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -233,7 +233,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       <div class="role-header">Доктор</div>
       <div class="role-body">
         <div class="role-image">
-          <img src="/roles/doctor.png" alt="Doctor">
+          <img src="/roles/doctor.png">
         </div>
       </div>
     </div>
@@ -243,7 +243,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       <div class="role-header">Бармен</div>
       <div class="role-body">
         <div class="role-image">
-          <img src="/roles/barman.png" alt="Bartender">
+          <img src="/roles/barman.png">
         </div>
       </div>
     </div>
@@ -253,7 +253,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       <div class="role-header">Повар</div>
       <div class="role-body">
         <div class="role-image">
-          <img src="/roles/chef.png" alt="Cook">
+          <img src="/roles/chef.png">
         </div>
       </div>
     </div>
@@ -263,7 +263,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
       <div class="role-header">Ботаник</div>
       <div class="role-body">
         <div class="role-image">
-          <img src="/roles/botanist.png" alt="Botanist">
+          <img src="/roles/botanist.png">
         </div>
       </div>
     </div>
@@ -273,6 +273,49 @@ dateCreated: 2025-02-07T17:23:54.686Z
 <blockquote class="is-info">
   <p>Дополнительные роли не могут быть саботажниками или их помощниками.</p>
 </blockquote>
+
+<h1>Расписание недели в режиме</h1>
+
+<center>
+  <table class="tb">
+    <thead>
+      <tr>
+        <th colspan="2">В режиме есть разные дни</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Понедельник</td>
+        <td>Обычный день</td>
+      </tr>
+      <tr>
+        <td>Вторник</td>
+        <td>Обычный день</td>
+      </tr>
+      <tr>
+        <td>Среда</td>
+        <td>Обычный день</td>
+      </tr>
+      <tr>
+        <td>Четверг</td>
+        <td>День зомби. Несколько заключённых получают нулевого и могут в любой момент превратиться в зомби.</td>
+      </tr>
+      <tr>
+        <td>Пятница</td>
+        <td>Выпадает рандомный аспект, который есть в игре.</td>
+      </tr>
+      <tr>
+        <td>Суббота</td>
+        <td>Кровавый культ. Несколько заключённых становятся последователями Нар’Си.</td>
+      </tr>
+      <tr>
+        <td>Воскресенье</td>
+        <td>Выходной день. Устанавливается таймер на 25 минут и все заключённые могут свободно ходить по игровым локациям за исключением охраняемых зон. Охраняемые зоны определяет Шериф. Изучайте локации и играйте в игры. Смотрители тюрьмы при желании тоже могут играть в игры. Проигравшие в играх не выбывают из раунда. После 25-ти минут начинается обычный день, как с понедельника по среду.
+</td>
+      </tr>
+    </tbody>
+  </table>
+</center>
 
 <div class="slider-container">
   <div class="slides">
