@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-03-02T12:23:15.778Z
+date: 2025-03-02T12:24:15.434Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -11,7 +11,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
 <div class="rules-section">
   <div class="rules-header">
     <div class="rules-text">
-      <h2 class="rules-title">Правила режима "Тюрьма Весёлого Режима"</h2>
+      <div class="rules-title">Правила режима "Тюрьма Весёлого Режима"</div>
       <p class="rules-description">
         На игровой режим ТВР распространяются все правила сервера White Dream и дополняется ряд новых правил.
       </p>
