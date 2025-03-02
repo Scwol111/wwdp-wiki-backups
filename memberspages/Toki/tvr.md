@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-03-02T11:44:39.506Z
+date: 2025-03-02T11:49:53.868Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -232,7 +232,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
     </div>
   </a>
   <a href="/roles/barman" class="role-link">
-    <div class="role-card role-bartender">
+    <div class="role-card role-barman">
       <div class="role-header">Бармен</div>
       <div class="role-body">
         <div class="role-image">
@@ -242,7 +242,7 @@ dateCreated: 2025-02-07T17:23:54.686Z
     </div>
   </a>
   <a href="/roles/chef" class="role-link">
-    <div class="role-card role-cook">
+    <div class="role-card role-chef">
       <div class="role-header">Повар</div>
       <div class="role-body">
         <div class="role-image">
