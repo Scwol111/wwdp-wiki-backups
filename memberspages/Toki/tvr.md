@@ -2,7 +2,7 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream
 published: false
-date: 2025-03-02T12:56:30.470Z
+date: 2025-03-02T13:12:18.358Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
@@ -182,6 +182,42 @@ dateCreated: 2025-02-07T17:23:54.686Z
         <p>
           Если заключённый непричастный к саботажным действиям и вне игр погибает, по каким-то причинам, например на Шахтах наступил на мину, то Шериф определяет то, стоит ли лечить пострадавшего заключённого. Помните: хороший Шериф будет отправлять лечить незатейливых заключённых, ведь это его игроки.
         </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card-container">
+  <div class="card">
+    <div class="card-header">Смотритель тюрьмы</div>
+    <div class="card-body">
+      <div class="image-container">
+        <img src="/fun-prison/warden32.png">
+      </div>
+      <div class="text-content">
+        <p>Личный состав Шерифа, обязаны следить за порядком, также конвоируют заключённых между локациями и ловят сбежавших саботажников из тюрьмы. В более редких случаях останавливают вооружённое восстание.</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header">Шериф</div>
+    <div class="card-body">
+      <div class="image-container">
+        <img src="/fun-prison/sherif32.png">
+      </div>
+      <div class="text-content">
+        <p>Глава тюрьмы, он устанавливает порядок дня, в котором выбираются игры. За счёт этих игр выбывают заключённые до того момента, пока их не останется вовсе.</p>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header">Заключённый</div>
+    <div class="card-body">
+      <div class="image-container">
+        <img src="/fun-prison/prisoner32.png">
+      </div>
+      <div class="text-content">
+        <p>Играют в игры. Заключённые с ролью “Саботажник” могут пытаться устроить вооружённое восстание. Примечание: Смотрители тюрьмы и Шериф знают, что у Саботажников есть имплант подкожного хранилища.</p>
       </div>
     </div>
   </div>
