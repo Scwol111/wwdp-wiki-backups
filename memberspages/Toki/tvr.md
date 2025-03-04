@@ -2,22 +2,12 @@
 title: Тюрьма Весёлего Режима - Описание и правила
 description: Описание и правила игры режима ТВР на сервере White Dream. Выживании на играх. Играйте на локациях, побеждайте в играх и выживайте.
 published: true
-date: 2025-03-04T09:08:09.878Z
+date: 2025-03-04T09:11:13.549Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-07T17:23:54.686Z
 ---
 
-<div style="
-    height: 100%;
-    width: 100%;
-    position: fixed;
-    /* left: 0; */
-    top: 0;
-    background-image: url(https://wiki.wwdp.ee/fun-prison/ctf.png)!important;
-    opacity: 0.2;
-    filter: blur(1px);
-"></div>
 <div class="rules-section">
   <div class="rules-header">
     <div class="rules-logo">
