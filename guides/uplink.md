@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-03-06T11:36:26.142Z
+date: 2025-03-07T17:48:08.921Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -722,6 +722,17 @@ dateCreated: 2024-09-28T16:46:38.976Z
 <td>Да</td>
     </tr>
     <tr>      
+         <td>
+        <img src="/guides/uplinknew/tact.png">
+        <p>Тактический жилет</p>
+      </td>
+      <td>3 ТК</td>
+      <td>
+        <p>Синтетический бронежилет. У него есть дополнительные ремни из паутины и баллистические пластины.</p>
+      </td>
+<td>Да</td>
+    </tr>
+    <tr>            
       
       
  <!--     <td>
