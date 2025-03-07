@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-03-07T18:21:22.760Z
+date: 2025-03-07T18:55:26.649Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -776,7 +776,41 @@ dateCreated: 2024-09-28T16:46:38.976Z
       </td>
 <td>Да</td>
     </tr>
-    <tr>         
+    <tr>    
+     			<td>
+        <img src="/guides/uplinknew/storagesynd.png">
+        <p>Ящик самурая Синдиката</p>
+      </td>
+      <td>6 ТК</td>
+      <td>
+        <p>Содержит современную реплику полного набора Тусеся-Гусоку.</p>
+      </td>
+<td>Да	</td>
+    </tr>
+    <tr> 
+     			<td>
+        <img src="/guides/uplinknew/gas.png">
+        <p>Голосовая маска</p>
+      </td>
+      <td>6 ТК</td>
+      <td>
+        <p>Противогаз, который позволяет вам подстраивать свой голос под любого, о ком вы только можете подумать.</p>
+      </td>
+<td>Да</td>
+    </tr>
+    <tr> 
+     			<td>
+        <img src="/guides/uplinknew/carpsuit.png">
+        <p>Карпстьюм</p>
+      </td>
+      <td>8 ТК</td>
+      <td>
+        <p>Выглядит как обычный костюм карпа, только космический, и заставляет космических карпов думать что вы один из них.</p>
+      </td>
+<td>Да</td>
+    </tr>
+    <tr>  
+      
       
  <!--     <td>
         <img src="/guides/uplink/nukesnaks.png">
