@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-03-07T18:55:26.649Z
+date: 2025-03-07T18:59:51.300Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -810,6 +810,17 @@ dateCreated: 2024-09-28T16:46:38.976Z
 <td>Да</td>
     </tr>
     <tr>  
+     			<td>
+        <img src="/guides/uplinknew/skafsyndi.png">
+        <p>Скафандр Синдиката</p>
+      </td>
+      <td>8 ТК</td>
+      <td>
+        <p>Хорошо известный броннированный кроваво-красный костюм Синдиката, позволяющий выходить в открытый космос и устойчивый к пулям.</p>
+      </td>
+<td>Да</td>
+    </tr>
+    <tr>        
       
       
  <!--     <td>
