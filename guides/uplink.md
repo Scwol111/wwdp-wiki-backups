@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-03-08T14:59:50.226Z
+date: 2025-03-08T15:03:43.543Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -947,6 +947,17 @@ dateCreated: 2024-09-28T16:46:38.976Z
       </tr>
  <tr>
       <td>
+        <img src="/guides/uplink/dart.png">
+        <p>Гиподротик</p>
+      </td>
+      <td>2 ТК</td>
+      <td>
+        <p>Вмещает в себя 7 унций любого вещества, мгновенно перемещает вещества при попадании</p>
+      </td>
+<td>Да</td>
+    </tr>
+    <tr>
+      <td>
         <img src="/guides/uplinknew/chemicbox.png">
         <p>Набор для химического синтеза</p>
       </td>
@@ -1252,17 +1263,6 @@ dateCreated: 2024-09-28T16:46:38.976Z
       <td>2 ТК</td>
       <td>
         <p>Ящик, содержащий одну стандартную Гондолу. Она просто есть.</p>
-      </td>
-<td>Да</td>
-    </tr>
-    <tr>
-      <td>
-        <img src="/guides/uplink/dart.png">
-        <p>Гиподротик</p>
-      </td>
-      <td>2 ТК</td>
-      <td>
-        <p>Вмещает в себя 7 унций любого вещества, мгновенно перемещает вещества при попадании</p>
       </td>
 <td>Да</td>
     </tr>
