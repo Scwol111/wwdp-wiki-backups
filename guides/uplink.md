@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-03-08T14:51:52.808Z
+date: 2025-03-08T14:52:12.454Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -933,7 +933,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
 
 </thead></table>
 
-<h2 id="надеваемое" class="toc-header"><a class="toc-anchor" href="#надеваемое">¶</a>Bundles</h2>
+<h2 id="надеваемое" class="toc-header"><a class="toc-anchor" href="#надеваемое">¶</a>Химия</h2>
 
 <center>
   <div class="table-wrapper">
