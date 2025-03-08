@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница. Вики SS14, СС14, Космическая станция 14, космическая ебанина 14.
 published: true
-date: 2025-01-26T09:58:33.578Z
+date: 2025-03-08T18:50:18.319Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -85,7 +85,7 @@ dateCreated: 2024-09-10T19:12:06.984Z
                     </p>
                     <center>
                       <div class="community-div-flex">
-                        <a class="fredoka-font" href="https://discord.com/invite/vHQtueFmgu" class="community-link is-external-link">
+                        <a class="fredoka-font" href="https://discord.gg/avwXNAsBgu" class="community-link is-external-link">
                       <div class="community-element">
                         Discord
                       </div>
