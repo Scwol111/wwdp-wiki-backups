@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-03-08T15:20:38.775Z
+date: 2025-03-08T16:12:28.917Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -980,6 +980,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
         <p>Стартовый набор для начинающего химика, включает токсин и вестин для всех ваших преступных нужд!</p>
    <td>Да</td>
     </tr>
+     <tr>
       <td>
         <img src="/guides/uplink/boy_medipen.png">
         <p>Боевой медипен</p>
