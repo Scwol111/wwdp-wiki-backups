@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-03-08T15:16:49.522Z
+date: 2025-03-08T15:18:11.912Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -865,7 +865,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     <tr>       
      			<td>
         <img src="/guides/uplinknew/elite.png">
-        <p>Элитный скафандр Syndikata</p>
+        <p>Элитный скафандр Синдиката</p>
       </td>
       <td>12 ТК</td>
       <td>
