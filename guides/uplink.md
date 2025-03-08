@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-03-07T18:59:51.300Z
+date: 2025-03-08T14:51:52.808Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -820,8 +820,40 @@ dateCreated: 2024-09-28T16:46:38.976Z
       </td>
 <td>Да</td>
     </tr>
-    <tr>        
-      
+    <tr>      
+     			<td>
+        <img src="/guides/uplinknew/cybersansteal.png">
+        <p>CSA-91x "Ègui" tacsuit</p>
+      </td>
+      <td>11 ТК</td>
+      <td>
+        <p>Редкий прототип спортивного костюма с покрытием из метаматериала, который искажает свет вокруг себя, создавая эффект невидимости.</p>
+      </td>
+<td>Да</td>
+    </tr>
+    <tr>    
+     			<td>
+        <img src="/guides/uplinknew/storagesynd.png">
+        <p>Костюм джаггернаута Cybersun</p>
+      </td>
+      <td>12 ТК</td>
+      <td>
+        <p>Сверхпрочная броня из материалов, испытанных в хромосферном комплексе Тау. Единственное, что будет задерживать вас - это сам костюм... и тазеры.</p>
+      </td>
+<td>Да</td>
+    </tr>
+    <tr>       
+     			<td>
+        <img src="/guides/uplinknew/elite.png">
+        <p>Элитный скафандр Syndikata</p>
+      </td>
+      <td>12 ТК</td>
+      <td>
+        <p>Элитная версия кроваво-красного скафандра, отличающаяся повышенной мобильностью и огнеупорностью. Собственность Мародёров Горлекса. Слабее по броне чем костюм джаггернаута.</p>
+      </td>
+<td>Да</td>
+    </tr>
+    <tr>       
       
  <!--     <td>
         <img src="/guides/uplink/nukesnaks.png">
