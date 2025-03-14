@@ -2,7 +2,7 @@
 title: Вор
 description: 
 published: true
-date: 2024-10-20T13:01:41.996Z
+date: 2025-03-14T18:29:36.533Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:25:33.388Z
@@ -48,7 +48,7 @@ dateCreated: 2024-09-25T18:25:33.388Z
       <tr id="canSteal">
         <td><img src="/roles/spiritualisticdepartment/pun_pun1.png"><br>Кража питомца</td>
         <td>От лёгкой до сложной</td>
-        <td>Нужно эвакуироватся вместе с одним из любимцев станции, задание не засчитывается, если животное мертво.</td>
+        <td>Нужно эвакуироваться вместе с одним из любимцев станции, задание не засчитывается, если животное мертво.</td>
       </tr>
       <tr id="canSteal">
         <td><img src="/roles/traitor/adrenalimp.png"><br>Сбежать</td>
