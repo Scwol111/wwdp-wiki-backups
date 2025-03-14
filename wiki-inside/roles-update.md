@@ -2,7 +2,7 @@
 title: Обновление таблицы ролей
 description: 
 published: false
-date: 2025-02-09T08:51:08.038Z
+date: 2025-03-14T16:17:13.779Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-26T14:37:23.458Z
@@ -56,6 +56,7 @@ dateCreated: 2024-12-26T14:37:23.458Z
 
 <div class="table"></div>
 
+<!--
 <details>
    <summary>
       <center>Не забудьте добавить стили CSS</center>
@@ -152,7 +153,7 @@ dateCreated: 2024-12-26T14:37:23.458Z
 </pre>
 
 ![screenshot_53.png](/guides/wiki/screenshot_53.png)
-</details>
+</details>-->
 
 # Изменение, дополнение и обновление таблицы ролей
 
