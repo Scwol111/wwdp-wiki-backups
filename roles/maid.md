@@ -2,7 +2,7 @@
 title: Прислуга
 description: 
 published: true
-date: 2025-03-15T21:38:36.913Z
+date: 2025-03-15T21:39:11.758Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:02:07.061Z
@@ -10,11 +10,11 @@ dateCreated: 2024-09-25T18:02:07.061Z
 
 <div style="display: flex; justify-content: center;">
   <div class="roles-passport comm">
-    <div class="title comm"><a href="/roles">Служанка</a></div>
+    <div class="title comm"><a href="/roles">Командование</a></div>
     <div>
       <div><div><img src="/roles/maid.png" alt="Мурр...~~"></div></div>
       <div><div>
-        <h1>Прислуга</h1>
+        <h1>Служанка</h1>
         <p><strong>Сложность:</strong> Мурчательная</p>
         <strong>Обязанности:</strong> Поддерживать чистоту и порядок, параллельно нявкая на Капитана.<br>
         <b>Руководители</b>: <a href="/roles/captain">Капитан</a><br>
