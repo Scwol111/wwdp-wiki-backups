@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: true
-date: 2025-03-15T20:36:49.285Z
+date: 2025-03-15T21:07:40.115Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -15,7 +15,7 @@ dateCreated: 2025-01-11T19:20:01.784Z
       <div><div><img src="/roles/jobai.gif"></div></div>
       <div>
         <div id="ai-info">
-          <h1 id="пии" class="toc-header"><a></a> Искусственный Интеллект</h1>
+          <h1 id="пии" class="toc-header"><a></a> Станционный Искусственный Интеллект</h1>
           <p><strong>Сложность:</strong> Средняя</p>
           <strong>Обязанности:</strong> Помощь экипажу в выполнении его обязанностей.<br>
           <b>Руководители</b>: Каждый член экипажа, в зависимости от законов.<br>
