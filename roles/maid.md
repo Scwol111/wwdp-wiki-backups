@@ -2,7 +2,7 @@
 title: Служанка
 description: 
 published: true
-date: 2025-03-15T21:40:27.659Z
+date: 2025-03-15T21:41:14.737Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:02:07.061Z
@@ -16,7 +16,7 @@ dateCreated: 2024-09-25T18:02:07.061Z
       <div><div>
         <h1>Служанка</h1>
         <p><strong>Сложность:</strong> Мурчательная</p>
-        <strong>Обязанности:</strong> Поддерживать чистоту и порядок, параллельно нявкая на Капитана.<br>
+        <strong>Обязанности:</strong> Защита капитана, поддержание чистоты на мостике и выполнение приказов командования.<br>
         <b>Руководители</b>: <a href="/roles/captain">Капитан</a><br>
         <b>Руководства</b>: <a href="/guides/hierarchyofcommand">Иерархия командования</a>
         </div></div>
