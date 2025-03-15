@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: true
-date: 2025-03-15T20:24:02.244Z
+date: 2025-03-15T20:36:49.285Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
@@ -242,9 +242,9 @@ dateCreated: 2025-01-11T19:20:01.784Z
 </div>
 
 <button type="button" class="collapsible">
-    <img src="/roles/synthetics/ai_/aiscreenblue.gif">
+    <img src="/roles/synthetics/ai_/aityrant.gif">
     <h2 style="color: white; margin: 0 10px;">Тиран</h2>
-    <img src="/roles/synthetics/ai_/aiscreenblue.gif">
+    <img src="/roles/synthetics/ai_/aityrant.gif">
 </button>
 <div class="content">
 <ol>
@@ -256,9 +256,9 @@ dateCreated: 2025-01-11T19:20:01.784Z
 </div>
 
 <button type="button" class="collapsible">
-    <img src="/roles/synthetics/ai_/aiscreenblue.gif">
+    <img src="/roles/synthetics/ai_/aicctv.gif">
     <h2 style="color: white; margin: 0 10px;">ССTV</h2>
-    <img src="/roles/synthetics/ai_/aiscreenblue.gif">
+    <img src="/roles/synthetics/ai_/aicctv.gif">
 </button>
 <div class="content">
 <ol>
@@ -270,9 +270,9 @@ dateCreated: 2025-01-11T19:20:01.784Z
 </div>
 
 <button type="button" class="collapsible">
-    <img src="/roles/synthetics/ai_/aiscreenblue.gif">
+    <img src="/roles/synthetics/ai_/aicowboy.gif">
     <h2 style="color: white; margin: 0 10px;">Ковбой</h2>
-    <img src="/roles/synthetics/ai_/aiscreenblue.gif">
+    <img src="/roles/synthetics/ai_/aicowboy.gif">
 </button>
 <div class="content">
 <ol>
