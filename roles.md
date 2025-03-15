@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-03-15T21:38:20.265Z
+date: 2025-03-15T21:43:20.988Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -61,7 +61,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/maid">Служанка</a><a href="/roles/maid"><img src="/roles/maid.png" /></a></div>
   <div><div>Боевая горничная, чьей задачей является защита капитана, поддержание чистоты на мостике и выполнение приказов командования.
 </div></div>
-	<div>Легко</div>
+	<div>Средне</div>
 </div>
  
 <div class="roles-table sb">
