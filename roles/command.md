@@ -2,7 +2,7 @@
 title: Командование
 description: 
 published: true
-date: 2024-11-27T19:35:32.799Z
+date: 2025-03-15T21:54:18.793Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:35.091Z
@@ -89,10 +89,10 @@ dateCreated: 2024-10-20T13:01:35.091Z
 </div> 
 
 <div class="role">
-<div class="rolename"><a href="/roles/maid" class="custom-link">Прислуга</a></div>
+<div class="rolename"><a href="/roles/maid" class="custom-link">Служанка</a></div>
 <div class="roleimg"><img src="/roles/maid.png"></div>
 <div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Капитан</div>
+<div class="rolehead">Командование станции</div>
 <div class="roledesclabel">Описание:</div>  
 <div class="roledesc">Прислуга - существует только для того, чтобы выполнять функцию горничной.</div>  
 </div> 
