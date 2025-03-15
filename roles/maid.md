@@ -2,7 +2,7 @@
 title: Прислуга
 description: 
 published: true
-date: 2025-01-05T21:29:40.165Z
+date: 2025-03-15T21:38:36.913Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:02:07.061Z
@@ -10,7 +10,7 @@ dateCreated: 2024-09-25T18:02:07.061Z
 
 <div style="display: flex; justify-content: center;">
   <div class="roles-passport comm">
-    <div class="title comm"><a href="/roles">Командование</a></div>
+    <div class="title comm"><a href="/roles">Служанка</a></div>
     <div>
       <div><div><img src="/roles/maid.png" alt="Мурр...~~"></div></div>
       <div><div>
