@@ -2,8 +2,8 @@
 title: Инженерия
 description: 
 published: true
-date: 2024-10-31T13:21:16.028Z
-tags: 
+date: 2025-03-16T15:29:04.732Z
+tags: руководство, инженерный
 editor: markdown
 dateCreated: 2024-09-29T18:19:26.495Z
 ---
