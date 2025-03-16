@@ -2,8 +2,8 @@
 title: Имплант подчинения
 description: 
 published: true
-date: 2024-10-20T12:12:24.706Z
-tags: 
+date: 2025-03-16T15:48:23.091Z
+tags: антагонистам, правила
 editor: markdown
 dateCreated: 2024-09-10T19:08:38.039Z
 ---
