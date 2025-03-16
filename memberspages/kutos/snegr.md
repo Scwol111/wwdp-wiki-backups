@@ -2,11 +2,18 @@
 title: Снегр
 description: 
 published: false
-date: 2025-03-16T13:15:28.552Z
+date: 2025-03-16T13:22:16.546Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T17:40:53.995Z
 ---
+
+<center>
+<div class="warning-banner-teal">
+  <h2> Статья в процессе написания</h2>
+  <p>В данный момент статья активно дополняется, обновляется и редактируется. И еще не совсем готова.</p><p>
+</div>
+</center>
 
 <div style="display: flex; justify-content: center;">
   <div class="roles-passport comm">
