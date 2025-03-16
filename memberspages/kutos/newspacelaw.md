@@ -2,7 +2,7 @@
 title: Кз кутоса
 description: 
 published: true
-date: 2025-03-16T18:45:43.969Z
+date: 2025-03-16T18:49:09.161Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -509,15 +509,15 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s308">308</th>
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
         <th style="background-color:#b8863b; color:white;"><b>Диверсия</b></th>
-        <th style="background-color:#b8863b; color:white;"></th>
-        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;"></th>
+        <th style="background-color:#b8863b; color:white;">Нанесение вреда работе станции, например, повреждение проводки и боргов.</th>
+        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Клоун, услышавший отказ от борга, пропустить себя в отдел, разобрал борга ударами гаечного ключа.</th>
       </tr>
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s408">408</th>
         <th style="background-color:#b0653a;"><img src="" alt=""></th>
         <th style="background-color:#b0653a; color:white;"><b>Террористический акт</b></th>
-        <th style="background-color:#b0653a; color:white;"></th>
-        <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;"></th>
+        <th style="background-color:#b0653a; color:white;">Насенение существенного вреда работе станции.</th>
+        <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;">Клоун угрожал ХоПу взорвать его кабинет, если тот не выдаст расширенный доступ. В ответ на отказ клоун взорвал несколько топливных резервуаров, вызвав разгермитизацию.</th>
       </tr>
     </tbody>
 </table></div>
