@@ -2,8 +2,8 @@
 title: Щиткурити
 description: 
 published: true
-date: 2024-10-20T13:01:41.996Z
-tags: 
+date: 2025-03-16T15:26:05.561Z
+tags: сб, снаряжение, руко
 editor: markdown
 dateCreated: 2024-09-13T15:21:31.283Z
 ---
