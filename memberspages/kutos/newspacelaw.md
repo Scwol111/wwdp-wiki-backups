@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T21:24:16.767Z
+date: 2025-03-16T21:25:58.208Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -445,13 +445,6 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#171717; width:30%;">Пример</th>
       </tr>
       <tr>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s106">106</th>
-        <th style="background-color:#698f43;"><img src="" alt=""></th>
-        <th style="background-color:#698f43; color:white;"><b>Вандализм</b></th>
-        <th style="background-color:#698f43; color:white;">Умышленное причинение незначительного ущерба имуществу станции. Животные также считаются имуществом станции.</th>
-        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Клоун разбил все бокалы в баре в отместку за отказ бармена приготовить ему "Бахус".</th>
-      </tr>
-      <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s206">206</th>
         <th style="background-color:#a69b38;"><img src="" alt=""></th>
         <th style="background-color:#a69b38; color:white;"><b>Неисполнение приказа главы</b></th>
@@ -523,17 +516,24 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#171717; width:30%;">Пример</th>
       </tr>
       <tr>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s106">108</th>
+        <th style="background-color:#698f43;"><img src="" alt=""></th>
+        <th style="background-color:#698f43; color:white;"><b>Вандализм</b></th>
+        <th style="background-color:#698f43; color:white;">Умышленное причинение незначительного ущерба имуществу станции. Сюда входит незначительные повреждение боргов. Животные также считаются имуществом станции.</th>
+        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Клоун разбил все бокалы в баре в отместку за отказ бармена приготовить ему "Бахус".</th>
+      </tr>
+      <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s208">208</th>
         <th style="background-color:#a69b38;"><img src="" alt=""></th>
         <th style="background-color:#a69b38; color:white;"><b>Саботаж</b></th>
-        <th style="background-color:#a69b38; color:white;">Не критический вывод из строя не критической (или любой) инфраструктуры/отсека станции, не повлекший за собой гибель членов экипажа или материальный ущерб (поломка АПЦ в Дормах, обесточивание шлюзов и т.д.)</th>
+        <th style="background-color:#a69b38; color:white;">Не критический вывод из строя не критической (или любой) инфраструктуры/отсека станции, не повлекший за собой гибель членов экипажа или материальный ущерб (поломка АПЦ в Дормах, обесточивание шлюзов и т.д.).</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Клоун был впереди красноперых на пять шагов и, прежде чем воплотить свой план в жизнь, заварил двери в бриге, чтобы сотрудники Службы Безопасности не могли покинуть отдел.</th>
       </tr>
             <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s308">308</th>
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
         <th style="background-color:#b8863b; color:white;"><b>Диверсия</b></th>
-        <th style="background-color:#b8863b; color:white;">	Действия, которые серьезно повлияли на работу отдела или всей станции. Сюда входят выведение из строя узла энергосети откручиванием подстанции.</th>
+        <th style="background-color:#b8863b; color:white;">	Действия, которые серьезно повлияли на работу отдела или всей станции. Сюда входят выведение из строя узла энергосети откручиванием подстанции, а так же уничтожение боргов.</th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Клоун пошел дальше, и открутил подстанцию СБ.</th>
       </tr>
       <tr>
