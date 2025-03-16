@@ -2,7 +2,7 @@
 title: Кз кутоса
 description: 
 published: true
-date: 2025-03-16T17:43:14.314Z
+date: 2025-03-16T17:46:47.864Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -43,58 +43,58 @@ dateCreated: 2025-03-16T16:25:54.653Z
             </tr>
             <tr>
                 <th class="code">02</th>
-                <th class="minor" style=" height: 75px;"><a href="#s103" style="color:#c5e7fa;">Непристойное обнажение</a></th>
-                <th class="mild"><a href="#s207" style="color:#c5e7fa;">Домогательство</a></th>
+                <th class="minor" style=" height: 75px;"><a href="#s102" style="color:#c5e7fa;">Непристойное обнажение</a></th>
+                <th class="mild"><a href="#s202" style="color:#c5e7fa;">Домогательство</a></th>
                 <th class="grave"></th>
-                <th class="critical"><a href="#s403" style="color:#c5e7fa;">Незаконный контакт</a></th>
+                <th class="critical"><a href="#s402" style="color:#c5e7fa;">Незаконный контакт</a></th>
             </tr>
             <tr>
                 <th class="code">03</th>
-                <th class="minor"><a href="#s102" style="color:#c5e7fa;">Незаконное хранение,<br>производство или<br>транспортировка<br>наркотических средств</a></th>
+                <th class="minor"><a href="#s103" style="color:#c5e7fa;">Незаконное хранение,<br>производство или<br>транспортировка<br>наркотических средств</a></th>
                 <th class="mild"><a href="#s203" style="color:#c5e7fa;">Распространение или<br>продажа наркотиков</a></th>
-                <th class="grave"><a href="#s304" style="color:#c5e7fa;">Хищение или незаконное<br>владение боевым оружием<br>или взрывчаткой</a></th>
-                <th class="critical"><a href="#s407" style="color:#c5e7fa;">Враг корпорации</a>
+                <th class="grave"><a href="#s303" style="color:#c5e7fa;">Хищение или незаконное<br>владение боевым оружием<br>или взрывчаткой</a></th>
+                <th class="critical"><a href="#s403" style="color:#c5e7fa;">Враг корпорации</a>
             </tr>
             <tr>
                 <th class="code">04</th>
                  <th class="minor" ></th>
-                <th class="mild"><a href="#s206" style="color:#c5e7fa;">Мелкая кража у сотрудника</a></th>
-                <th class="grave"><a href="#s306" style="color:#c5e7fa;">Кража ценного имущества</a></th>
-                <th class="critical"><a href="#s406" style="color:#c5e7fa;">Кража особо ценного<br>имущества</a></th>
+                <th class="mild"><a href="#s204" style="color:#c5e7fa;">Мелкая кража у сотрудника</a></th>
+                <th class="grave"><a href="#s304" style="color:#c5e7fa;">Кража ценного имущества</a></th>
+                <th class="critical"><a href="#s404" style="color:#c5e7fa;">Кража особо ценного<br>имущества</a></th>
             </tr>
            <tr>
                 <th class="code">05</th>
                 <th class="minor"><a href="#s105" style="color:#c5e7fa;">Незаконное проникновение</a></th>
                 <th class="mild"><a href="#s205" style="color:#c5e7fa;">Проникновение со взломом</a></th>
                  <th class="grave"><a href="#s305" style="color:#c5e7fa;">Проникновение со<br>взломом в отсек особой<br>важности</a></th>
-                <th class="critical"><a href="#s305" style="color:#c5e7fa;">Проникновение со<br>взломом в отсек особой<br>важности</a></th>
+                <th class="critical"><a href="#s405" style="color:#c5e7fa;">Проникновение со<br>взломом в отсек особой<br>важности</a></th>
             </tr>
           <tr>
                 <th class="code">06</th>
-                  <th class="minor"><a href="#s109" style="color:#c5e7fa;">Вандализм</a></th>
-                  <th class="mild"><a href="#s209" style="color:#c5e7fa;">Неисполнение приказа главы</a></th>
-                  <th class="grave"><a href="#s309" style="color:#c5e7fa;">Призыв к мятежу</a></th>
-                  <th class="critical"><a href="#s404" style="color:#c5e7fa;">Вооружённый мятеж</a></th>
+                  <th class="minor"><a href="#s106" style="color:#c5e7fa;">Вандализм</a></th>
+                  <th class="mild"><a href="#s206" style="color:#c5e7fa;">Неисполнение приказа главы</a></th>
+                  <th class="grave"><a href="#s306" style="color:#c5e7fa;">Призыв к мятежу</a></th>
+                  <th class="critical"><a href="#s406" style="color:#c5e7fa;">Вооружённый мятеж</a></th>
               </tr>
             <tr>
                 <th class="code">07</th>
-                <th class="minor"><a href="#s101" style="color:#c5e7fa;">Сопротивление аресту</a></th>
+                <th class="minor"><a href="#s107" style="color:#c5e7fa;">Сопротивление аресту</a></th>
                 <th class="mild"></th>
-              <th class="grave"><a href="#s404" style="color:#c5e7fa;">Нападение на сотрудника СБ<br> или главу отдела</a></th>
-                <th class="critical"><a href="#s404" style="color:#c5e7fa;">Нападение на<br> Представителя<br> Nanotrazen</a></th>
+              <th class="grave"><a href="#s307" style="color:#c5e7fa;">Нападение на сотрудника СБ<br> или главу отдела</a></th>
+                <th class="critical"><a href="#s407" style="color:#c5e7fa;">Нападение на<br> Представителя<br> Nanotrazen</a></th>
             </tr>
            <tr>
               <th class="code">08</th>
               <th class="minor"></th>
-              <th class="mild"><a href="#s207" style="color:#c5e7fa;">Хранение подручного<br>оружия</a></th>
-              <th class="grave"><a href="#s306" style="color:#c5e7fa;">Диверсия</a></th>
-               <th class="critical"><a href="#s405" style="color:#c5e7fa;">Террористический акт</a></th>
+              <th class="mild"><a href="#s208" style="color:#c5e7fa;">Хранение подручного<br>оружия</a></th>
+              <th class="grave"><a href="#s308" style="color:#c5e7fa;">Диверсия</a></th>
+               <th class="critical"><a href="#s408" style="color:#c5e7fa;">Террористический акт</a></th>
             </tr>
            <tr>
               <th class="code">09</th>
-              <th class="minor"><a href="#s106" style="color:#c5e7fa;">Хулиганство</a></th>
-              <th class="mild"><a href="#s204" style="color:#c5e7fa;">Халатность</a></th>
-              <th class="grave"><a href="#s306" style="color:#c5e7fa;">Убийство сотрудника, <br> совершенное по<br> неосторожности</a></th>
+              <th class="minor"><a href="#s109" style="color:#c5e7fa;">Хулиганство</a></th>
+              <th class="mild"><a href="#s209" style="color:#c5e7fa;">Халатность</a></th>
+              <th class="grave"><a href="#s309" style="color:#c5e7fa;">Убийство сотрудника, <br> совершенное по<br> неосторожности</a></th>
                <th class="critical"></th>
             </tr>
         </tbody>
