@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T20:16:25.484Z
+date: 2025-03-16T20:16:59.558Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -507,13 +507,6 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#171717; width:15%;">Преступление</th>
         <th style="background-color:#171717; width:35%;">Описание</th>
         <th style="background-color:#171717; width:30%;">Пример</th>
-      </tr>
-      <tr>
-        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s208">208</th>
-        <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Хранение подручного<br>оружия</b></th>
-        <th style="background-color:#a69b38; color:white;">Владение холодным или нелетальным оружием без соответствующего разрешения. Сюда включаются холодное оружие, предназначенное для нанесения серьезных увечий, а также любое другое оружие и приспособления для временного усмирения.</th>
-        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;"></th>
       </tr>
             <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s308">308</th>
