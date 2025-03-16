@@ -2,7 +2,7 @@
 title: Кз кутоса
 description: 
 published: true
-date: 2025-03-16T17:05:03.457Z
+date: 2025-03-16T17:13:08.628Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -39,7 +39,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
                 <th class="minor" style="height: 75px; color:#aad6f0;"><a href="#s101" style="color:#c5e7fa;">Драка</a></th>
                 <th class="mild"><a href="#s201" style="color:#c5e7fa;">Умышленное причинение<br>легкого/среднего вреда<br>здоровью сотрудника</a></th>
                 <th class="grave"><a href="#s301" style="color:#c5e7fa;">Нападение с применением<br>смертельного оружия</a></th>
-                <th class="critical"><a href="#s401" style="color:#c5e7fa;">Покушение на убийство/убийство сотрудника</a></th>
+                <th class="critical"><a href="#s401" style="color:#c5e7fa;">Покушение на убийство/<br>убийство сотрудника</a></th>
             </tr>
             <tr>
                 <th class="code">02</th>
