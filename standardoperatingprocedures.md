@@ -2,8 +2,8 @@
 title: Стандартные процедуры
 description: 
 published: true
-date: 2025-03-16T15:44:57.955Z
-tags: командование, руководство, юстиция
+date: 2025-03-16T15:45:25.244Z
+tags: командование, юстиция
 editor: markdown
 dateCreated: 2024-10-12T09:44:15.165Z
 ---
