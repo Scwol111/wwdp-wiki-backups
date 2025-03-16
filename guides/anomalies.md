@@ -2,8 +2,8 @@
 title: Аномалии
 description: 
 published: true
-date: 2024-10-20T13:01:39.057Z
-tags: 
+date: 2025-03-16T15:35:01.876Z
+tags: научный отдел, руководство
 editor: markdown
 dateCreated: 2024-09-28T02:08:35.014Z
 ---
