@@ -2,7 +2,7 @@
 title: Снегр
 description: 
 published: false
-date: 2025-03-16T10:02:18.675Z
+date: 2025-03-16T10:09:39.633Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T17:40:53.995Z
@@ -52,19 +52,19 @@ dateCreated: 2024-12-17T17:40:53.995Z
         <td>Дорогой и надежный пистолет с приличными наступательными возможностями. Использует патроны .45 magnum.</td>
         <td>6</td>
       </tr>
-      <tr>
-        <td><img src="/roles/command/maid/sheath-sabre.png"><br>Ножны катаны</td>
-        <td>Прекрасный пояс, который объединяет катану и вакидзаси. <br>Вакидзаси наносит: 12 единиц рубящего урона.<br>Катана наносит: 15 единиц рубящего урона.</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td><img src="/roles/command/maid/icon.png"><br>Клеймор</td>
-        <td>Древний воинский мечь. Наносит: <br> 19 единиц рубящего урона. <br> 1 единиц тупого урона.</td>
-        <td>5</td>
-      </tr>
+<tr>
+  <td><img src="/roles/command/maid/sheath-sabre.png"><br>Ножны катаны</td>
+  <td>Прекрасный пояс, который объединяет катану и вакидзаси. <br>Вакидзаси наносит: <span style="color: red;">12</span> единиц <span style="color: yellow;">рубящего</span> урона.<br>Катана наносит: <span style="color: red;">15</span> единиц <span style="color: yellow;">рубящего</span> урона.</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td><img src="/roles/command/maid/icon.png"><br>Клеймор</td>
+  <td>Древний воинский мечь. Наносит: <br> <span style="color: red;">19</span> единиц <span style="color: yellow;">рубящего</span> урона. <br> <span style="color: red;">1</span> единиц <span style="color: yellow;">тупого</span> урона.</td>
+  <td>5</td>
+</tr>
       <tr>
         <td><img src="/roles/command/maid/blackkit.png"><br>Боевая аптечка</td>
-        <td>Аптечка, предназначенная для экстренного врачебного ухода в горячих точках. Содержит:<br>15 медикаментозный шов <br> 1 экстренный медипенtd>
+        <td>Аптечка, предназначенная для экстренного врачебного ухода в горячих точках. Содержит:<br>15 медикаментозный шов <br>15 регенеративная сетка <br> 1 экстренный медипен <br> 1 brute auto-injector <br>1 burn auto-injector <br>1 шприц эфедрина </td>
         <td>3</td>
       </tr>
       <tr>
@@ -112,16 +112,16 @@ dateCreated: 2024-12-17T17:40:53.995Z
         <td>Оружие охоты или бесконечной окопной войны. К стволу приклеплен штык. Использует патроны калибра .30 винтовочный.</td>
         <td>2</td>
       </tr>
-      <tr>
-        <td><img src="/roles/command/maid/tstar.png"><br>Сюрикэн</td>
-        <td>Это оружие, известное с древних времён, до сих пор остаётся актуальным благодаря своей способности легко проникать в тело жертвы.</td>
-        <td>2</td>
-      </tr>
-      <tr>
-        <td><img src="/roles/command/maid/combat_knife.png"><br>Боевой нож</td>
-        <td>Нож, предназначенный для рукопашных схваток.</td>
-        <td>1</td>
-      </tr>
+<tr>
+  <td><img src="/roles/command/maid/tstar.png"><br>Сюрикэн</td>
+  <td>Это оружие, известное с древних времён, до сих пор остаётся актуальным благодаря своей способности легко проникать в тело жертвы. Наносит при броске: <br> <span style="color: red;">8</span> единиц <span style="color: yellow;">рубящего</span> урона. <br> <span style="color: red;">10</span> единиц <span style="color: yellow;">проникающего</span> урона.</td>
+  <td>2</td>
+</tr>
+<tr>
+  <td><img src="/roles/command/maid/combat_knife.png"><br>Боевой нож</td>
+  <td>Нож, предназначенный для рукопашных схваток. Наносит: <br> <span style="color: red;">14.4</span> <span style="color: yellow;">рубящего</span> урона</td>
+  <td>1</td>
+</tr>
     </tbody>
   </table>
 </center>
