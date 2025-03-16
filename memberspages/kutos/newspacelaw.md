@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T21:23:33.957Z
+date: 2025-03-16T21:24:16.767Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -534,7 +534,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
         <th style="background-color:#b8863b; color:white;"><b>Диверсия</b></th>
         <th style="background-color:#b8863b; color:white;">	Действия, которые серьезно повлияли на работу отдела или всей станции. Сюда входят выведение из строя узла энергосети откручиванием подстанции.</th>
-        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Клоун, услышавший отказ от борга, пропустить себя в отдел, разобрал борга ударами гаечного ключа.</th>
+        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Клоун пошел дальше, и открутил подстанцию СБ.</th>
       </tr>
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s408">408</th>
