@@ -2,8 +2,8 @@
 title: Емаг
 description: 
 published: true
-date: 2025-01-11T18:46:13.405Z
-tags: 
+date: 2025-03-16T15:47:26.563Z
+tags: антагонистам, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:19:12.273Z
 ---
