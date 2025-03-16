@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T21:00:51.416Z
+date: 2025-03-16T21:06:20.014Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -526,7 +526,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s308">308</th>
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
         <th style="background-color:#b8863b; color:white;"><b>Диверсия</b></th>
-        <th style="background-color:#b8863b; color:white;">Нанесение вреда работе станции, например, повреждение проводки и боргов.</th>
+        <th style="background-color:#b8863b; color:white;">не критический вывод из строя не критической (или любой) инфраструктуры/отсека станции, не повлекший за собой гибель членов экипажа или материальный ущерб (поломка АПЦ в Дормах, поломка боргов, обесточивание шлюзов и т.д.)</th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Клоун, услышавший отказ от борга, пропустить себя в отдел, разобрал борга ударами гаечного ключа.</th>
       </tr>
       <tr>
