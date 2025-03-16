@@ -2,7 +2,7 @@
 title: Кз кутоса
 description: 
 published: true
-date: 2025-03-16T17:13:08.628Z
+date: 2025-03-16T17:28:15.619Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -46,7 +46,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
                 <th class="minor" style=" height: 75px;"><a href="#s103" style="color:#c5e7fa;">Непристойное обнажение</a></th>
                 <th class="mild"><a href="#s207" style="color:#c5e7fa;">Домогательство</a></th>
                 <th class="grave"></th>
-                <th class="critical"><a href="#s403" style="color:#c5e7fa;">Изнасилование<br>сотрудника</a></th>
+                <th class="critical"><a href="#s403" style="color:#c5e7fa;">Незаконный контакт</a></th>
             </tr>
             <tr>
                 <th class="code">03</th>
@@ -67,7 +67,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
                 <th class="minor"><a href="#s105" style="color:#c5e7fa;">Незаконное проникновение</a></th>
                 <th class="mild"><a href="#s205" style="color:#c5e7fa;">Проникновение со взломом</a></th>
                  <th class="grave"><a href="#s305" style="color:#c5e7fa;">Проникновение со<br>взломом в отсек особой<br>важности</a></th>
-                <th class="critical"></th>
+                <th class="critical"><a href="#s305" style="color:#c5e7fa;">Проникновение со<br>взломом в отсек особой<br>важности</a></th>
             </tr>
           <tr>
                 <th class="code">06</th>
