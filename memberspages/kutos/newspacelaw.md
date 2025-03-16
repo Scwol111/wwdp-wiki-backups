@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T20:51:39.884Z
+date: 2025-03-16T20:55:00.076Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -183,6 +183,11 @@ dateCreated: 2025-03-16T16:25:54.653Z
       <th style="background-color:#698f43; color:white; text-align: justify;">В самооборону входит не только защита себя, но и защита своих коллег и своего рабочего места. Убедитесь, что человек не намеренно вступил в драку, а вынуждено принял в ней участие. Его действия не должны привести к более значительному ущербу, чем могло быть нанесено сотруднику, и также запрещается намеренное устранение цели, которая больше не представляет угрозы.</th>
       <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Немедленное освобождение.</th>
     </tr> 
+    <tr>
+      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><b>Примерное поведение</b></th>
+      <th style="background-color:#698f43; color:white; text-align: justify;">Хорошее поведение, без выкриков, с сохранением нервных клеток персоналу службы безопасности.(Не все способны так себя вести).</th>
+      <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">-20% от срока</th>
+    </tr>
     <tr>
       <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><b>Сотрудничество с СБ</b></th>
       <th style="background-color:#698f43; color:white; text-align: justify;">Сообщение службе безопасности о сообщниках преступления, информации о которых нет. Ожидание ареста на месте преступления.</th>
