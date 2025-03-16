@@ -2,8 +2,8 @@
 title: Оракул
 description: 
 published: true
-date: 2024-10-20T12:12:49.694Z
-tags: 
+date: 2025-03-16T15:36:31.929Z
+tags: научный отдел, псионика
 editor: markdown
 dateCreated: 2024-09-21T17:26:09.472Z
 ---
