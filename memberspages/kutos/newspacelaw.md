@@ -2,7 +2,7 @@
 title: Кз кутоса
 description: 
 published: true
-date: 2025-03-16T18:55:59.097Z
+date: 2025-03-16T19:07:08.102Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -52,7 +52,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
                 <th class="code">03</th>
                 <th class="minor"><a href="#s103" style="color:#c5e7fa;">Незаконное хранение,<br>производство или<br>транспортировка<br>наркотических средств</a></th>
                 <th class="mild"><a href="#s203" style="color:#c5e7fa;">Распространение или<br>продажа наркотиков</a></th>
-                <th class="grave"><a href="#s303" style="color:#c5e7fa;">Хищение или незаконное<br>владение боевым оружием<br>или взрывчаткой</a></th>
+                <th class="grave"><a href="#s303" style="color:#c5e7fa;">Хранение или<br> использование контрабанды</a></th>
                 <th class="critical"><a href="#s403" style="color:#c5e7fa;">Враг корпорации</a>
             </tr>
             <tr>
