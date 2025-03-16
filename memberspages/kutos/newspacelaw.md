@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T20:55:00.076Z
+date: 2025-03-16T20:55:45.935Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -102,7 +102,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
               <th class="code">10</th>
               <th class="minor"><a href="#s110" style="color:#c5e7fa;">Изготовление или<br> владение самодельным оружием</a></th>
               <th class="mild"><a href="#s210" style="color:#c5e7fa;">Незаконное владение<br> холодным или<br> нелетальным оружием</a></th>
-              <th class="grave"><a href="#s310" style="color:#c5e7fa;">Владение огнестрельным оружием</a></th>
+              <th class="grave"><a href="#s310" style="color:#c5e7fa;">Владение<br> огнестрельным<br> оружием</a></th>
                <th class="critical"></th>
             </tr>
         </tbody>
