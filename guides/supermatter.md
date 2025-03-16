@@ -2,8 +2,8 @@
 title: Суперматерия
 description: 
 published: true
-date: 2025-01-10T15:52:44.582Z
-tags: 
+date: 2025-03-16T15:30:33.808Z
+tags: инженерный, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:19:33.222Z
 ---
