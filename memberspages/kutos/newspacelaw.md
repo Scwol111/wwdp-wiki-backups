@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T19:49:23.433Z
+date: 2025-03-16T19:53:50.774Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -241,23 +241,26 @@ dateCreated: 2025-03-16T16:25:54.653Z
       <tr>
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s101">101</th>
         <th style="background-color:#698f43;"><img src="" alt=""></th>
-        <th style="background-color:#698f43; color:white;"><b>Драка</b></th>
-        <th style="background-color:#698f43; color:white;">Двусторонняя потасовка без явной виновной стороны и/или нанесение несерьезного ущерба для здоровья, до 25 урона включительно.</th>
+        <th style="background-color:#698f43; color:white;"><b>Побои</b></th>
+        <th style="background-color:#698f43; color:white;">Нанесение минимальных повреждений сотруднику. Если нет возможности определить степень повреждений, то применяется данная статья.
+Повреждение: 5-24.</th>
         <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Мим и уборщик вступили в драку из-за того, что уборщик смыл с пола рисунки мима, где оба обменялись парой ударов.</th>
       </tr>
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s201">201</th>
         <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Умышленное причинение<br>легкого/среднего вреда<br>здоровью сотрудника</b></th>
-        <th style="background-color:#a69b38; color:white;">Нанесение ущерба здоровью сотруднику любыми методами до критического состояния.</th>
-        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Мим в порыве ярости, схватив огнетушитель со стены, накинулся на уборщика, введя того в критическое состояние.</th>
+        <th style="background-color:#a69b38; color:white;"><b>Легкие телесные<br> повреждения</b></th>
+        <th style="background-color:#a69b38; color:white;">Нанесение легких повреждений сотруднику.
+Повреждение: 25-79</th>
+        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Мим в порыве ярости, схватив огнетушитель со стены, накинулся на уборщика, разбив ему лицо.</th>
       </tr>
       <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s301">301</th>
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
-        <th style="background-color:#b8863b; color:white;"><b>Нападение с применением<br>смертельного оружия</b></th>
-        <th style="background-color:#b8863b; color:white;">Нанесение ущерба здоровью сотруднику с применением смертельного оружия. </th>
-        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Затаив обиду, Мим раздобыл пистолет и устроил засаду на уборщика.</th>
+        <th style="background-color:#b8863b; color:white;"><b>Тяжкие телесные<br> повреждения</b></th>
+        <th style="background-color:#b8863b; color:white;">Нанесение тяжких повреждений сотруднику.
+Повреждение: 80-100 </th>
+        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Мим также решил продемонстрировать свои творческие способности, доведя уборщика до такого состояния, что тот едва стоял на ногах.</th>
       </tr>
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s401">401</th>
