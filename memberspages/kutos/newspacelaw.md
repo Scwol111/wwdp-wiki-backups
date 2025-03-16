@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T20:50:06.310Z
+date: 2025-03-16T20:51:39.884Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -411,7 +411,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Клоун после этого отправился в карго, где выломал окно, чтобы через консоль заказать 20 цистерн кваса.</th>
       </tr>
       <tr>
-        <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s305">305<th>
+        <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s305">305</th>
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
         <th style="background-color:#b8863b; color:white;"><b>Незаконное проникновение<br>
 в защищенный отсек</b></th>
@@ -420,6 +420,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
       </tr>
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s405">405</th>
+        <th style="background-color:#b0653a;"><img src="" alt=""></th>
         <th style="background-color:#b0653a; color:white;"><b>Проникновение в отсек<br> особой важности</b></th>
         <th style="background-color:#b0653a; color:white;">Проникновение в особо защищенные отсеки станции, такие как: Оружейная, Атмосферный отдел, Ядро ИИ, Хранилище плат, Хранилище ядерной боеголовки. </th>
         <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;">Завершить свой поход клоун решил походом в оружейную, где его расстрелял варден.</th>
