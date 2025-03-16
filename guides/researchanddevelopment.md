@@ -2,8 +2,8 @@
 title: Исследование и Разработка
 description: 
 published: true
-date: 2024-12-04T14:57:41.992Z
-tags: 
+date: 2025-03-16T15:35:46.439Z
+tags: научный отдел, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:19:43.980Z
 ---
