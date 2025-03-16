@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T20:17:31.634Z
+date: 2025-03-16T20:29:15.157Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -66,7 +66,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
                 <th class="code">05</th>
                 <th class="minor"><a href="#s105" style="color:#c5e7fa;">Незаконное проникновение</a></th>
                 <th class="mild"><a href="#s205" style="color:#c5e7fa;">Проникновение со взломом</a></th>
-                 <th class="grave"><a href="#s305" style="color:#c5e7fa;">Проникновение со<br>взломом в отсек особой<br>важности</a></th>
+                 <th class="grave"></th>
                 <th class="critical"><a href="#s405" style="color:#c5e7fa;">Проникновение со<br>взломом в отсек особой<br>важности</a></th>
             </tr>
           <tr>
