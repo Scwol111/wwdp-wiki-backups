@@ -2,8 +2,8 @@
 title: Настроение
 description: 
 published: true
-date: 2025-01-25T19:42:08.078Z
-tags: 
+date: 2025-03-16T15:24:54.999Z
+tags: руководство
 editor: markdown
 dateCreated: 2024-09-10T19:08:00.247Z
 ---
