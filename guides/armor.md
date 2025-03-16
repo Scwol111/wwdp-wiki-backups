@@ -2,8 +2,8 @@
 title: Броня
 description: 
 published: true
-date: 2024-10-20T12:12:32.304Z
-tags: 
+date: 2025-03-16T15:48:51.810Z
+tags: руководство, снаряжение
 editor: markdown
 dateCreated: 2024-09-11T19:18:36.680Z
 ---
