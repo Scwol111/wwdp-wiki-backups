@@ -2,7 +2,7 @@
 title: Кз кутоса
 description: 
 published: true
-date: 2025-03-16T18:40:33.241Z
+date: 2025-03-16T18:45:43.969Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -481,7 +481,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#b0653a;"><img src="" alt=""></th>
         <th style="background-color:#b0653a; color:white;"><b>Нападение на<br> Представителя<br> Nanotrasen</b></th>
         <th style="background-color:#b0653a; color:white;">Нападение на прямых представителей компании Нанотрейзен. Сюда входят ОБР, Магистрат, Представитель Центрального Командования.</th>
-        <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;">Затаивший обиду за низкую запрлату уборщик, напал со шваброй на Представителя Центрального Командования.</th>
+        <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;">Сжигаемый обидой за мизерную зарплату, уборщик набросился на Представителя Центрального Командования, вооружившись шваброй. Бравая свита в лице ОБР расстреляла уборщика еще когда он замахнулся шваброй.</th>
       </tr>
     </tbody>
 </table></div>
@@ -502,7 +502,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s208">208</th>
         <th style="background-color:#a69b38;"><img src="" alt=""></th>
         <th style="background-color:#a69b38; color:white;"><b>Хранение подручного<br>оружия</b></th>
-        <th style="background-color:#a69b38; color:white;"></th>
+        <th style="background-color:#a69b38; color:white;">Владение холодным или нелетальным оружием без соответствующего разрешения. Сюда включаются холодное оружие, предназначенное для нанесения серьезных увечий, а также любое другое оружие и приспособления для временного усмирения.</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;"></th>
       </tr>
             <tr>
