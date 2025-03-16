@@ -2,7 +2,7 @@
 title: Кз кутоса
 description: 
 published: true
-date: 2025-03-16T17:52:38.706Z
+date: 2025-03-16T17:53:40.216Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -339,7 +339,6 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#b0653a; color:white;"></th>
         <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;"></th>
       </tr>
-
     </tbody>
 </table></div>
 
