@@ -2,8 +2,8 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-03-08T16:12:28.917Z
-tags: 
+date: 2025-03-16T15:47:09.353Z
+tags: руководство, антагонистам
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
 ---
