@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2025-03-16T10:31:49.104Z
+date: 2025-03-16T10:39:42.049Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T13:46:14.888Z
@@ -16,7 +16,7 @@ dateCreated: 2024-11-13T13:46:14.888Z
     <div class="wrapper">
       <div class="dep-wrapper" style="background:rgb(25, 100, 165, 0.2);">
         <div class="dep-title" style="background:rgb(25, 100, 165, 0.7);">
-          <strong>Командование</strong>
+          <strong><a href="/roles/command">Командование</a></strong>
         </div>
         <div class="roles" id="com">
           <a href="/roles/captain">Капитан</a>
@@ -33,7 +33,7 @@ dateCreated: 2024-11-13T13:46:14.888Z
       </div>
       <div class="dep-wrapper" style="background:rgb(20, 130, 45, 0.2);">
         <div class="dep-title" style="background:rgb(20, 130, 45, 0.7);">
-          <strong>Центральное Командование</strong>
+          <strong><a href="/roles/centralcommand">Центральное Командование</a></strong>
         </div>
         <div class="roles" id="cencom">
           <a href="/roles/representativeofcc">Представитель ЦК</a>
@@ -42,7 +42,7 @@ dateCreated: 2024-11-13T13:46:14.888Z
       </div>
       <div class="dep-wrapper" style="background:rgb(155, 0, 0, 0.2);">
         <div class="dep-title" style="background:rgb(155, 0, 0, 0.7);">
-          <strong>Служба безопасности</strong>
+          <strong><a href="/roles/securityservicedepartment">Служба безопасности</a></strong>
         </div>
         <div class="roles" id="sec">
           <a href="/roles/headofsecurity">Глава Службы Безопасности</a>
@@ -56,7 +56,7 @@ dateCreated: 2024-11-13T13:46:14.888Z
       </div>
       <div class="dep-wrapper" style="background:rgb(255, 140, 40, 0.2);">
         <div class="dep-title" style="background:rgb(255, 140, 40, 0.7);">
-          <strong>Инженерный отдел</strong>
+         <strong><a href="/roles/engineeringdepartment">Инженерный отдел</a></strong>
         </div>
         <div class="roles" id="eng">
           <a href="/roles/chiefengineer">Старший Инженер</a>
@@ -67,7 +67,7 @@ dateCreated: 2024-11-13T13:46:14.888Z
       </div>
       <div class="dep-wrapper" style="background:rgb(205, 95, 190, 0.2);">
         <div class="dep-title" style="background:rgb(205, 95, 190, 0.8);">
-          <strong>Отдел Исследований</strong>
+          <strong><a href="/roles/scientificdepartment">Отдел Исследований</a></strong>
         </div>
         <div class="roles" id="rnd">
           <a href="/roles/researchdirector">Научный Руководитель</a>
@@ -79,7 +79,7 @@ dateCreated: 2024-11-13T13:46:14.888Z
       </div>
       <div class="dep-wrapper" style="background:rgb(90, 150, 190, 0.2);">
         <div class="dep-title" style="background:rgb(90, 150, 190, 0.8);;">
-          <strong>Медицинский отдел</strong>
+          <strong><a href="/roles/medicaldepartment">Медицинский отдел</a></strong>
         </div>
         <div class="roles" id="med">
           <a href="/roles/chiefmedicalofficer">Старший Медицинский Офицер</a>
@@ -92,7 +92,7 @@ dateCreated: 2024-11-13T13:46:14.888Z
       </div>
       <div class="dep-wrapper" style="background:rgb(180, 130, 65, 0.2);">
         <div class="dep-title" style="background:rgb(180, 130, 65, 0.7);">
-          <strong>Отдел снабжения</strong>
+          <strong><a href="/roles/supplydepartment">Отдел снабжения</a></strong>
         </div>
         <div class="roles" id="sup">
           <a href="/roles/quartermaster">Квартирмейстер</a>
@@ -104,7 +104,7 @@ dateCreated: 2024-11-13T13:46:14.888Z
       </div>
       <div class="dep-wrapper" style="background:rgb(110, 10, 0, 0.2);">
         <div class="dep-title" style="background:rgb(110, 10, 0, 0.7);">
-          <strong>Отдел юстиции</strong>
+          <strong><a href="/roles/justicedepartment">Отдел юстиции</a></strong>
         </div>
         <div class="roles">
           <a href="/roles/chief_justice">Главный судья</a>
@@ -116,7 +116,7 @@ dateCreated: 2024-11-13T13:46:14.888Z
       </div>
       <div class="dep-wrapper" style="background:rgb(95, 175, 5, 0.2);">
         <div class="dep-title" style="background:rgb(95, 175, 5, 0.8);">
-          <strong>Сервисный отдел</strong>
+          <strong><a href="/roles/servicedepartment">Сервисный отдел</a></strong>
         </div>
         <div class="roles" id="ser">
           <a href="/roles/headofpersonnel">Глава персонала</a>
@@ -142,7 +142,7 @@ dateCreated: 2024-11-13T13:46:14.888Z
       </div>
       <div class="dep-wrapper" style="background:rgb(125, 130, 125, 0.2);">
         <div class="dep-title" style="background:rgb(125, 130, 125, 0.8);">
-          <strong>Спиритический отдел</strong>
+         <strong><a href="/roles/spiritualisticdepartment">Спиритический отдел</a></strong>
         </div>
         <div class="roles" id="ghost">
           <a href="/roles/ghost">Призрак</a>
@@ -156,7 +156,7 @@ dateCreated: 2024-11-13T13:46:14.888Z
       </div>
       <div class="dep-wrapper" style="background:rgb(112, 144, 138, 0.2);">
         <div class="dep-title" style="background:rgb(112, 144, 138, 0.8);">
-          <strong>Синтетики</strong>
+          <strong><a href="/roles/synthetics">Синтетики</a></strong>
         </div>
         <div class="roles" id="syn">
           <a href="/roles/cyborgs">Киборг</a>
@@ -167,7 +167,7 @@ dateCreated: 2024-11-13T13:46:14.888Z
       </div>
       <div class="dep-wrapper" style="background:rgb(80, 20, 10, 0.2);">
         <div class="dep-title" style="background:rgb(80, 20, 10, 0.7);">
-          <strong>Антагонисты</strong>
+          <strong><a href="/roles/antagonists">Антагонисты</a></strong>
         </div>
         <div class="roles" id="ant">
           <a href="/roles/traitor">Предатель</a>
