@@ -2,7 +2,7 @@
 title: Служанка
 description: 
 published: true
-date: 2025-03-16T13:22:56.716Z
+date: 2025-03-16T15:06:18.756Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:02:07.061Z
@@ -84,7 +84,7 @@ dateCreated: 2024-09-25T18:02:07.061Z
 </tr>
 <tr>
   <td><img src="/roles/command/maid/icon.png"><br>Клеймор</td>
-  <td>Древний воинский мечь. Наносит: <br> <span style="color: red;">19</span> единиц <span style="color: yellow;">рубящего</span> урона. <br> <span style="color: red;">1</span> единиц <span style="color: yellow;">тупого</span> урона.</td>
+  <td>Древний воинский меч. Наносит: <br> <span style="color: red;">19</span> единиц <span style="color: yellow;">рубящего</span> урона. <br> <span style="color: red;">1</span> единиц <span style="color: yellow;">тупого</span> урона.</td>
   <td>5</td>
 </tr>
       <tr>
