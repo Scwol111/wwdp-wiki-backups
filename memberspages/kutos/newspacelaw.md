@@ -2,7 +2,7 @@
 title: Кз кутоса
 description: 
 published: true
-date: 2025-03-16T17:54:20.617Z
+date: 2025-03-16T17:57:21.540Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -242,14 +242,14 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s201">201</th>
         <th style="background-color:#a69b38;"><img src="" alt=""></th>
         <th style="background-color:#a69b38; color:white;"><b>Умышленное причинение<br>легкого/среднего вреда<br>здоровью сотрудника</b></th>
-        <th style="background-color:#a69b38; color:white;"></th>
+        <th style="background-color:#a69b38; color:white;">Нанесение ущерба здоровью сотруднику любыми методами.</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;"></th>
       </tr>
       <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s301">301</th>
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
         <th style="background-color:#b8863b; color:white;"><b>Нападение с применением<br>смертельного оружия</b></th>
-        <th style="background-color:#b8863b; color:white;"></th>
+        <th style="background-color:#b8863b; color:white;">Нанесение ущерба здоровью сотруднику любыми методами.</th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;"></th>
       </tr>
       <tr>
