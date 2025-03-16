@@ -2,8 +2,8 @@
 title: Ксеноархеология
 description: 
 published: true
-date: 2024-10-20T13:01:40.198Z
-tags: 
+date: 2025-03-16T15:34:37.732Z
+tags: научный отдел, руководство
 editor: markdown
 dateCreated: 2024-09-28T01:54:05.135Z
 ---
