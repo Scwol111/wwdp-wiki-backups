@@ -2,7 +2,7 @@
 title: Кз кутоса
 description: 
 published: true
-date: 2025-03-16T19:07:08.102Z
+date: 2025-03-16T19:08:43.732Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -325,7 +325,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
             <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s303">303</th>
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
-        <th style="background-color:#b8863b; color:white;"><b>Хищение или незаконное<br>владение боевым оружием<br>или взрывчаткой</b></th>
+        <th style="background-color:#b8863b; color:white;"><b>Хранение или использование контрабанды</b></th>
         <th style="background-color:#b8863b; color:white;">Хранение или использование вещей, включенных в список контрабанды.</th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Химик решил не сдаваться во время облавы службы безопасности и, достав пистолет Кобра, открыл ответный огонь.</th>
       </tr>
