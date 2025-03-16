@@ -2,8 +2,8 @@
 title: Инвентарь отдела снабжения
 description: 
 published: true
-date: 2025-01-02T17:37:04.495Z
-tags: 
+date: 2025-03-16T15:37:40.777Z
+tags: руководство, карго
 editor: markdown
 dateCreated: 2024-09-29T18:19:45.854Z
 ---
