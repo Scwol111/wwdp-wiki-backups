@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T21:28:54.916Z
+date: 2025-03-16T21:31:24.918Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -553,8 +553,8 @@ dateCreated: 2025-03-16T16:25:54.653Z
     </tbody>
 </table></div>
 <div>
-</div><h3 id="х09-халатность-и-хулиганство" class="toc-header"><a class="toc-anchor" href="#х09-халатность-и-хулиганство">¶</a> Х09 - Халатность и хулиганство</h3>
-<p>Халатность и хулиганство - статьи, описывающие халатность и хулиганство.</p>
+</div><h3 id="х09-халатность-и-хулиганство" class="toc-header"><a class="toc-anchor" href="#х09-халатность-и-хулиганство">¶</a> Х09 - Нанесение вреда без умысла</h3>
+<p>Нанесение вреда без умысла</p>
 <div class="table-container"><table style="text-align:center;">
     <tbody>
       <tr>
