@@ -2,7 +2,7 @@
 title: Снегр
 description: 
 published: false
-date: 2025-03-16T09:56:55.938Z
+date: 2025-03-16T09:57:16.821Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T17:40:53.995Z
@@ -43,7 +43,7 @@ dateCreated: 2024-12-17T17:40:53.995Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/roles/command/maid/manual_nt.png"><br>Нанотрейзен CQC мануал</td>
+        <td><img src="/roles/command/maid/manual_nt.png"><br>Nanotrasen CQC Manual</td>
         <td>Небольшое синее руководство. Внутри нарисованы инструкции по тактическому рукопашному бою.</td>
         <td>6</td>
       </tr>
