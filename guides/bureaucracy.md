@@ -2,8 +2,8 @@
 title: Бумажная работа
 description: 
 published: true
-date: 2024-10-30T07:26:31.325Z
-tags: 
+date: 2025-03-16T15:46:22.309Z
+tags: командование, руководство, юстиция
 editor: markdown
 dateCreated: 2024-09-29T18:19:41.028Z
 ---
