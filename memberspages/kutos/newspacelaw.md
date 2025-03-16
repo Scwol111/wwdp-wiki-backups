@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T21:15:57.860Z
+date: 2025-03-16T21:17:01.657Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -609,11 +609,11 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Но все технологии казались слишком устаревшими или слабыми. Тогда он взял все в свои руки и создал лазерную пушку. Теперь у него было средство для компенсации недостатков.</th>
       </tr>
             <tr>
-        <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s4">410</th>
+        <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s410">410</th>
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
-        <th style="background-color:#b8863b; color:white;"><b>Незаконное владение<br> летальным оружием</b></th>
-        <th style="background-color:#b8863b; color:white;">Владение огнестрельным и летальным энергетическим без соответствующего разрешения. Изначально лицензию на владение имеют только сотрудники отдела СБ, Капитан, Глава Персонала и Бармен в пределах бара.</th>
-        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Но все технологии казались слишком устаревшими или слабыми. Тогда он взял все в свои руки и создал лазерную пушку. Теперь у него было средство для компенсации недостатков.</th>
+        <th style="background-color:#b8863b; color:white;"><b>Незаконный оборот<br> огнестрельным оружием</b></th>
+        <th style="background-color:#b8863b; color:white;">Вооружение других сотрудников огнестрельным оружием. Разрешение на данное действие имеет только Капитан и Глава Службы Безопасности, либо сотрудник с разрешением указанных ранее глав.</th>
+        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Он осознал гениальность данного изобретения и решил вооружить всех сотрудников РНД этой технологией, чтобы не было никакой большой угрозы для них..</th>
       </tr>
     </tbody>
 </table></div>
