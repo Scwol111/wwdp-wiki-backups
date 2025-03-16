@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T21:17:01.657Z
+date: 2025-03-16T21:23:33.957Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -522,18 +522,25 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#171717; width:35%;">Описание</th>
         <th style="background-color:#171717; width:30%;">Пример</th>
       </tr>
+      <tr>
+        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s208">208</th>
+        <th style="background-color:#a69b38;"><img src="" alt=""></th>
+        <th style="background-color:#a69b38; color:white;"><b>Саботаж</b></th>
+        <th style="background-color:#a69b38; color:white;">Не критический вывод из строя не критической (или любой) инфраструктуры/отсека станции, не повлекший за собой гибель членов экипажа или материальный ущерб (поломка АПЦ в Дормах, обесточивание шлюзов и т.д.)</th>
+        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Клоун был впереди красноперых на пять шагов и, прежде чем воплотить свой план в жизнь, заварил двери в бриге, чтобы сотрудники Службы Безопасности не могли покинуть отдел.</th>
+      </tr>
             <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s308">308</th>
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
         <th style="background-color:#b8863b; color:white;"><b>Диверсия</b></th>
-        <th style="background-color:#b8863b; color:white;">не критический вывод из строя не критической (или любой) инфраструктуры/отсека станции, не повлекший за собой гибель членов экипажа или материальный ущерб (поломка АПЦ в Дормах, поломка боргов, обесточивание шлюзов и т.д.)</th>
+        <th style="background-color:#b8863b; color:white;">	Действия, которые серьезно повлияли на работу отдела или всей станции. Сюда входят выведение из строя узла энергосети откручиванием подстанции.</th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Клоун, услышавший отказ от борга, пропустить себя в отдел, разобрал борга ударами гаечного ключа.</th>
       </tr>
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s408">408</th>
         <th style="background-color:#b0653a;"><img src="" alt=""></th>
         <th style="background-color:#b0653a; color:white;"><b>Террористический акт</b></th>
-        <th style="background-color:#b0653a; color:white;">Насенение существенного вреда работе станции.</th>
+        <th style="background-color:#b0653a; color:white;">Нанесение существенного вреда работе станции, в результате которого могли быть смертельные исходы, или, если на устранение неполадок уйдет долгое время.</th>
         <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;">Клоун угрожал ХоПу взорвать его кабинет, если тот не выдаст расширенный доступ. В ответ на отказ клоун взорвал несколько топливных резервуаров, вызвав разгермитизацию.</th>
       </tr>
     </tbody>
@@ -549,13 +556,6 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#171717; width:15%;">Преступление</th>
         <th style="background-color:#171717; width:35%;">Описание</th>
         <th style="background-color:#171717; width:30%;">Пример</th>
-      </tr>
-      <tr>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s109">109</th>
-        <th style="background-color:#698f43;"><img src="" alt=""></th>
-        <th style="background-color:#698f43; color:white;"><b>Хулиганство</b></th>
-        <th style="background-color:#698f43; color:white;">Нарушение правил общественного порядка. Сюда включаются действия, которые вызывают недовольство у группы лиц.</th>
-        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Научный руководитель залез на стол в баре и начал кричать, что все боги фальшивы, а те, кто верят в них, просто дураки.</th>
       </tr>
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s209">209</th>
