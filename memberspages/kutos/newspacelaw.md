@@ -2,7 +2,7 @@
 title: Кз кутоса
 description: 
 published: true
-date: 2025-03-16T17:28:15.619Z
+date: 2025-03-16T17:31:26.846Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -80,7 +80,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
                 <th class="code">07</th>
                 <th class="minor"><a href="#s101" style="color:#c5e7fa;">Сопротивление аресту</a></th>
                 <th class="mild"></th>
-              <th class="grave"><a href="#s404" style="color:#c5e7fa;">Нападение на сотрудника СБ или главу отдела</a></th>
+              <th class="grave"><a href="#s404" style="color:#c5e7fa;">Нападение на сотрудника СБ<br> или главу отдела</a></th>
                 <th class="critical"><a href="#s404" style="color:#c5e7fa;">Нападение на<br> Представителя<br> Nanotrazen</a></th>
             </tr>
            <tr>
