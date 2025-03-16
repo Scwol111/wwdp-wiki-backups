@@ -2,8 +2,8 @@
 title: Судебные заседания
 description: 
 published: true
-date: 2025-03-15T20:48:33.420Z
-tags: 
+date: 2025-03-16T15:46:42.759Z
+tags: руководство, юстиция
 editor: markdown
 dateCreated: 2025-01-06T11:49:19.027Z
 ---
