@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T20:37:17.071Z
+date: 2025-03-16T20:46:49.315Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -411,11 +411,12 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Клоун после этого отправился в карго, где выломал окно, чтобы через консоль заказать 20 цистерн кваса.</th>
       </tr>
       <tr>
-        <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s305">305<h>
+        <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s305">305<th>
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
-        <th style="background-color:#b8863b; color:white;"><b>Кража ценного имущества</b></th>
-        <th style="background-color:#b8863b; color:white;">Кража вещей из отделов или других объектов, которые имеют какую-либо ценность. Сюда входят, например, сумма свыше 2000$, инструменты, оборудование, транспорт, ПДА и другие предметы, принадлежащие определенным отделам.</th>
-        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Проходя мимо брига, сервисный сотрудник увидел открытую дверь и сумел украсть секвей службы безопасности, не привлекая внимания.</th>
+        <th style="background-color:#b8863b; color:white;"><b>Незаконное проникновение<br>
+в защищенный отсек</b></th>
+        <th style="background-color:#b8863b; color:white;">Намеренное проникновение в защищенные отсеки, к которым подозреваемый не имеет доступа. К защищеным отсекам относятся: Бриг(та часть, к которой у адвокатов нету доступа); Кабинеты глав; Мостик; Атмос; Ядро ИИ; Хранилище ядерной боеголовки; Хранилище плат законов ИИ. </th>
+        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">После этого клоун изменив трубопровод, решил подшутить над капитаном, проникнув на мостик через мусорку.</th>
       </tr>
       <tr>
         <th style="background-color:#b0653a; color:white; border-top-left-radius: 0px;" id="s405">405</th>
