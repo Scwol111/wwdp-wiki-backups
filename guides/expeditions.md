@@ -2,8 +2,8 @@
 title: Экспедиции
 description: 
 published: true
-date: 2025-01-02T17:55:58.458Z
-tags: 
+date: 2025-03-16T15:38:27.691Z
+tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:18:33.220Z
 ---
