@@ -2,7 +2,7 @@
 title: Космический Закон
 description: Правила нахождения персонала на станции. КЗ, Космический закон.
 published: true
-date: 2025-03-15T22:26:58.389Z
+date: 2025-03-16T16:05:32.098Z
 tags: сб
 editor: markdown
 dateCreated: 2024-09-10T19:07:45.005Z
@@ -179,7 +179,7 @@ dateCreated: 2024-09-10T19:07:45.005Z
     </tr>
     <tr>
       <th style="background-color:#963535; color:white; border-top-left-radius: 0px;">5XX - Сверх тяжкие нарушения</th>
-      <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Увольнение с должности. Заключение в камерe бессрочного содержания.</th>
+      <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Увольнение с должности. Заключение на 25 минут или камера бессрочного содержания - пермабриг.</th>
     </tr>
     <tr>
       <th style="background-color:#242424; color:white; border-top-left-radius: 0px;">6XX - Критические нарушения</th>
