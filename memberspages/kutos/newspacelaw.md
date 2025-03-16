@@ -2,7 +2,7 @@
 title: Кз кутоса
 description: 
 published: true
-date: 2025-03-16T18:49:09.161Z
+date: 2025-03-16T18:52:22.059Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -537,22 +537,22 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s109">109</th>
         <th style="background-color:#698f43;"><img src="" alt=""></th>
         <th style="background-color:#698f43; color:white;"><b>Хулиганство</b></th>
-        <th style="background-color:#698f43; color:white;"></th>
-        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;"></th>
+        <th style="background-color:#698f43; color:white;">Нарушение правил общественного порядка. Сюда включаются действия, которые вызывают недовольство у группы лиц.</th>
+        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Научный руководитель залез на стол в баре и начал кричать, что все боги фальшивы, а те, кто верят в них, просто дураки.</th>
       </tr>
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s209">209</th>
         <th style="background-color:#a69b38;"><img src="" alt=""></th>
         <th style="background-color:#a69b38; color:white;"><b>Халатность</b></th>
-        <th style="background-color:#a69b38; color:white;"></th>
-        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;"></th>
+        <th style="background-color:#a69b38; color:white;">	Создание ситуаций, потенциально опасных для экипажа или станции из-за небрежных или безответственных, но не умышленных действий. Нарушение процедур, которое глава отдела может квалифицировать как халатность, подпадает под эту статью даже в случае, если нарушение не оказало негативного влияния на работу отдела и/или станции.</th>
+        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Глава Персонала не закрыла окно перед уходом и оставила ID-карту в консоли, что позволило преступнику завладеть её доступом.</th>
       </tr>
             <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s309">309</th>
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
         <th style="background-color:#b8863b; color:white;"><b>Убийство сотрудника, <br> совершенное по<br> неосторожности</b></th>
-        <th style="background-color:#b8863b; color:white;"></th>
-        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;"></th>
+        <th style="background-color:#b8863b; color:white;">Причинение смерти другому лицу в результате небрежного, халатного или безрассудного поведения, без явного умысла на убийство.</th>
+        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">В результате несоблюдения техники безопасности при проведении эксперимента в лаборатории произошла утечка токсичного газа. Один из находившихся в помещении ученых получил смертельное отравление. </th>
       </tr>
     </tbody>
 </table></div><div>
