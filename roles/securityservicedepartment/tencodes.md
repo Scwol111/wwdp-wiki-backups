@@ -2,8 +2,8 @@
 title: Десятичные коды
 description: 
 published: true
-date: 2024-10-20T12:12:39.100Z
-tags: 
+date: 2025-03-16T15:28:26.162Z
+tags: сб
 editor: markdown
 dateCreated: 2024-09-20T19:19:47.382Z
 ---
