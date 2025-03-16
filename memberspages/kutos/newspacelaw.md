@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T19:53:50.774Z
+date: 2025-03-16T20:16:25.484Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -565,4 +565,43 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">В результате несоблюдения техники безопасности при проведении эксперимента в лаборатории произошла утечка токсичного газа. Один из находившихся в помещении ученых получил смертельное отравление. </th>
       </tr>
     </tbody>
-</table></div><div>
+</table></div>
+<h3 id="х09-халатность-и-хулиганство" class="toc-header"><a class="toc-anchor" href="#х09-халатность-и-хулиганство">¶</a> Х10 - Хранение оружия</h3>
+<p>Статьи, описывающие хранения оружия.</p>
+<div class="table-container"><table style="text-align:center;">
+    <tbody>
+      <tr>
+        <th style="background-color:#171717; width:5%;">Код</th>
+        <th style="background-color:#171717; width:15%;">Скриншот</th>
+        <th style="background-color:#171717; width:15%;">Преступление</th>
+        <th style="background-color:#171717; width:35%;">Описание</th>
+        <th style="background-color:#171717; width:30%;">Пример</th>
+      </tr>
+      <tr>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s110">110</th>
+        <th style="background-color:#698f43;"><img src="" alt=""></th>
+        <th style="background-color:#698f43; color:white;"><b>Изготовление или<br>
+владение самодельным<br> оружием</b></th>
+        <th style="background-color:#698f43; color:white;">Изготовление или хранение самодельного оружия.</th>
+        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">	У ученого была жажда создать идеальное оружие. Его первой мыслью было создать длинное оружие, которое не позволило бы тварям подойти на близкое расстояние. И, таким образом, он создал копье.</th>
+      </tr>
+      <tr>
+        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s210">210</th>
+        <th style="background-color:#a69b38;"><img src="" alt=""></th>
+        <th style="background-color:#a69b38; color:white;"><b>Незаконное владение<br>
+холодным или<br>
+нелетальным оружием</b></th>
+        <th style="background-color:#a69b38; color:white;">Владение холодным или нелетальным оружием без соответствующего разрешения. Сюда включаются холодное оружие, предназначенное для нанесения серьезных увечий, а также любое другое оружие и приспособления для временного усмирения.</th>
+        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">После нескольких драк он понял, что сила проявляется в дальнем бою. Ученый смог выторговать у офицера дизейблер за незначительную побрякушку.</th>
+      </tr>
+            <tr>
+        <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s309">310</th>
+        <th style="background-color:#b8863b;"><img src="" alt=""></th>
+        <th style="background-color:#b8863b; color:white;"><b>Незаконное владение<br> летальным оружием</b></th>
+        <th style="background-color:#b8863b; color:white;">Владение огнестрельным и летальным энергетическим без соответствующего разрешения. Изначально лицензию на владение имеют только сотрудники отдела СБ, Капитан, Глава Персонала и Бармен в пределах бара.</th>
+        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Но все технологии казались слишком устаревшими или слабыми. Тогда он взял все в свои руки и создал лазерную пушку. Теперь у него было средство для компенсации недостатков.</th>
+      </tr>
+    </tbody>
+</table></div>
+
+<div>
