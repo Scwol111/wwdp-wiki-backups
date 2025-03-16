@@ -1,8 +1,8 @@
 ---
-title: Кз кутоса
+title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T19:08:43.732Z
+date: 2025-03-16T19:17:34.815Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
