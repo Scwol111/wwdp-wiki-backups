@@ -2,7 +2,7 @@
 title: Кз кутоса
 description: 
 published: true
-date: 2025-03-16T17:53:40.216Z
+date: 2025-03-16T17:54:20.617Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -219,7 +219,6 @@ dateCreated: 2025-03-16T16:25:54.653Z
 </table></center><div>
 </div><h2 id="классификация-законов" class="toc-header"><a class="toc-anchor" href="#классификация-законов">¶</a> <center>Классификация законов</center></h2>
 <br>
-
 <div>
 </div><h3 id="х01-физическое-насилие" class="toc-header"><a class="toc-anchor" href="#х01-физическое-насилие">¶</a> Х01 - Физическое насилие</h3>
 <p>Физическое насилие - предусматривает статьи о физическом насилии над сотрудниками станции.</p>
@@ -262,7 +261,6 @@ dateCreated: 2025-03-16T16:25:54.653Z
       </tr>
     </tbody>
 </table></div>
-
 <div>
 </div><h3 id="х02-непристойное-поведение" class="toc-header"><a class="toc-anchor" href="#х02-непристойное-поведение">¶</a> Х02 - Непристойное поведение</h3>
 <p>Непристойное поведение - статьи, описывающие непристойное поведение.</p>
@@ -298,7 +296,6 @@ dateCreated: 2025-03-16T16:25:54.653Z
       </tr>
     </tbody>
 </table></div>
-
 <div>
 </div><h3 id="х03-оборот-запрещенных-веществ-и-оружия" class="toc-header"><a class="toc-anchor" href="#х03-оборот-запрещенных-веществ-и-оружия">¶</a> Х03 - Оборот запрещенных веществ и оружия</h3>
 <p>Оборот запрещенных веществ и оружия -  оборот запрещённых веществ и оружия на станции.</p>
@@ -341,7 +338,6 @@ dateCreated: 2025-03-16T16:25:54.653Z
       </tr>
     </tbody>
 </table></div>
-
 <div>
 </div><h3 id="х04-кража" class="toc-header"><a class="toc-anchor" href="#х04-кража">¶</a> Х04 - Кража</h3>
 <p>Кража -  статьи, регулирующие кражу имущества.</p>
@@ -361,7 +357,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white;"></th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;"></th>
       </tr>
-            <tr>
+      <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s304">304</th>
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
         <th style="background-color:#b8863b; color:white;"><b>Кража ценного имущества</b></th>
@@ -375,10 +371,8 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#b0653a; color:white;"></th>
         <th style="background-color:#b0653a; color:white; border-top-right-radius: 0px;"></th>
       </tr>
-
     </tbody>
 </table></div>
-
 <div>
 </div><h3 id="х05-незаконное-проникновение" class="toc-header"><a class="toc-anchor" href="#х05-незаконное-проникновение">¶</a> Х05 - Незаконное проникновение</h3>
 <p>Незаконное проникновение - статьи о проникновении на охраняемую территорию.</p>
@@ -463,7 +457,6 @@ dateCreated: 2025-03-16T16:25:54.653Z
       </tr>
     </tbody>
 </table></div>
-
 <div>
 </div><h3 id="х07-неподчинение-офицеру-сб" class="toc-header"><a class="toc-anchor" href="#х07-неподчинение-офицеру-сб">¶</a> Х07 - Неподчинение офицеру СБ</h3>
 <p>Неподчинение офицеру СБ - статьи о неподчинении офицеру СБ.</p>
