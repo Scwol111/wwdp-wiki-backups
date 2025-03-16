@@ -2,8 +2,8 @@
 title: Химия
 description: 
 published: true
-date: 2025-03-16T15:31:37.995Z
-tags: руководство, медицина
+date: 2025-03-16T15:32:45.560Z
+tags: медицинский, руководство
 editor: markdown
 dateCreated: 2024-09-17T17:16:16.611Z
 ---
