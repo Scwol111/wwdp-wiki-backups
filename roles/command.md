@@ -2,7 +2,7 @@
 title: Командование
 description: 
 published: true
-date: 2025-03-16T10:14:02.855Z
+date: 2025-03-16T10:16:22.482Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:35.091Z
@@ -13,89 +13,89 @@ dateCreated: 2024-10-20T13:01:35.091Z
 <p>
 <div class="rolescontainer">
 
-<div class="role">
-<div class="rolename"><a href="/roles/captain" class="custom-link">Капитан</a></div>
-<div class="roleimg"><img src="/roles/captain.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">ЦентКом</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Глава объекта. Занимается руководством всей станции, главные его помощники это главы отделов.</div>  
-</div>
+  <div class="role">
+    <div class="rolename"><a href="/roles/captain" class="custom-link">Капитан</a></div>
+    <div class="roleimg"><a href="/roles/captain"><img src="/roles/captain.png"></a></div>
+    <div class="roleheadlabel">Подчиняется:</div>
+    <div class="rolehead">ЦентКом</div>
+    <div class="roledesclabel">Описание:</div>
+    <div class="roledesc">Глава объекта. Занимается руководством всей станции, главные его помощники это главы отделов.</div>
+  </div>
 </div>
 
 <div class="rolescontainer">
 
-<div class="role">
-<div class="rolename"><a href="/roles/headofpersonnel" class="custom-link">Глава персонала</a></div>
-<div class="roleimg"><img src="/roles/headofpersonnel.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Капитан</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Руководит отделом Сервиса. Принимает и увольняет работников, редактирует доступ ID-карт.</div>  
-</div>    
+  <div class="role">
+    <div class="rolename"><a href="/roles/headofpersonnel" class="custom-link">Глава персонала</a></div>
+    <div class="roleimg"><a href="/roles/headofpersonnel"><img src="/roles/headofpersonnel.png"></a></div>
+    <div class="roleheadlabel">Подчиняется:</div>
+    <div class="rolehead">Капитан</div>
+    <div class="roledesclabel">Описание:</div>
+    <div class="roledesc">Руководит отделом Сервиса. Принимает и увольняет работников, редактирует доступ ID-карт.</div>
+  </div>
 
-<div class="role">
-<div class="rolename"><a href="/roles/headofsecurity" class="custom-link">Глава Службы Безопасности</a></div>
-<div class="roleimg"><img src="/roles/headofsecurity.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Капитан</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Управляет отделом жалких породий на клоуна. Хранит диск за капитана.</div>  
-</div>
+  <div class="role">
+    <div class="rolename"><a href="/roles/headofsecurity" class="custom-link">Глава Службы Безопасности</a></div>
+    <div class="roleimg"><a href="/roles/headofsecurity"><img src="/roles/headofsecurity.png"></a></div>
+    <div class="roleheadlabel">Подчиняется:</div>
+    <div class="rolehead">Капитан</div>
+    <div class="roledesclabel">Описание:</div>
+    <div class="roledesc">Управляет отделом жалких породий на клоуна. Хранит диск за капитана.</div>
+  </div>
 
-<div class="role">
-<div class="rolename"><a href="/roles/chiefengineer" class="custom-link">Старший Инженер</a></div>
-<div class="roleimg"><img src="/roles/chiefengineer.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Капитан</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Управляет инженерным отделом и следит за сохранностью станции.</div>  
-</div>
+  <div class="role">
+    <div class="rolename"><a href="/roles/chiefengineer" class="custom-link">Старший Инженер</a></div>
+    <div class="roleimg"><a href="/roles/chiefengineer"><img src="/roles/chiefengineer.png"></a></div>
+    <div class="roleheadlabel">Подчиняется:</div>
+    <div class="rolehead">Капитан</div>
+    <div class="roledesclabel">Описание:</div>
+    <div class="roledesc">Управляет инженерным отделом и следит за сохранностью станции.</div>
+  </div>
 
-<div class="role">
-<div class="rolename"><a href="/roles/researchdirector" class="custom-link">Мистагог</a></div>
-<div class="roleimg"><img src="/roles/researchdirector.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Капитан</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Глава исследований и разработки. Следит за работой отдела, а также за выполнением их задач.</div>
-</div>  
+  <div class="role">
+    <div class="rolename"><a href="/roles/researchdirector" class="custom-link">Мистагог</a></div>
+    <div class="roleimg"><a href="/roles/researchdirector"><img src="/roles/researchdirector.png"></a></div>
+    <div class="roleheadlabel">Подчиняется:</div>
+    <div class="rolehead">Капитан</div>
+    <div class="roledesclabel">Описание:</div>
+    <div class="roledesc">Глава исследований и разработки. Следит за работой отдела, а также за выполнением их задач.</div>
+  </div>
 
-<div class="role">
-<div class="rolename"><a href="/roles/chiefmedicalofficer" class="custom-link">Старший Медицинский Офицер</a></div>
-<div class="roleimg"><img src="/roles/chiefmedicalofficer.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Капитан</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">В начале смены отдыхает, а к концу пытается избавиться от трупов на полу, вместе со всем мед отделом.</div>  
-</div> 
+  <div class="role">
+    <div class="rolename"><a href="/roles/chiefmedicalofficer" class="custom-link">Старший Медицинский Офицер</a></div>
+    <div class="roleimg"><a href="/roles/chiefmedicalofficer"><img src="/roles/chiefmedicalofficer.png"></a></div>
+    <div class="roleheadlabel">Подчиняется:</div>
+    <div class="rolehead">Капитан</div>
+    <div class="roledesclabel">Описание:</div>
+    <div class="roledesc">В начале смены отдыхает, а к концу пытается избавиться от трупов на полу, вместе со всем мед отделом.</div>
+  </div>
 
-<div class="role">
-<div class="rolename"><a href="/roles/quartermaster" class="custom-link">Квартирмейстер</a></div>
-<div class="roleimg"><img src="/roles/quartermaster.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Капитан</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Следит за работой отдела, несет ответственность за шаттл карго, а также должен одобрять или отклонять запросы.</div>  
-</div> 
+  <div class="role">
+    <div class="rolename"><a href="/roles/quartermaster" class="custom-link">Квартирмейстер</a></div>
+    <div class="roleimg"><a href="/roles/quartermaster"><img src="/roles/quartermaster.png"></a></div>
+    <div class="roleheadlabel">Подчиняется:</div>
+    <div class="rolehead">Капитан</div>
+    <div class="roledesclabel">Описание:</div>
+    <div class="roledesc">Следит за работой отдела, несет ответственность за шаттл карго, а также должен одобрять или отклонять запросы.</div>
+  </div>
 
-<div class="role">
-<div class="rolename"><a href="/roles/chief_justice" class="custom-link">Главный судья</a></div>
-<div class="roleimg"><img src="/roles/chief_justice.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Капитан</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Руководитель отдела юстиции. Гарант порядка и справедливости в суде. Строгий начальник и беспристрастный судья в одном лице.</div>  
-</div> 
+  <div class="role">
+    <div class="rolename"><a href="/roles/chief_justice" class="custom-link">Главный судья</a></div>
+    <div class="roleimg"><a href="/roles/chief_justice"><img src="/roles/chief_justice.png"></a></div>
+    <div class="roleheadlabel">Подчиняется:</div>
+    <div class="rolehead">Капитан</div>
+    <div class="roledesclabel">Описание:</div>
+    <div class="roledesc">Руководитель отдела юстиции. Гарант порядка и справедливости в суде. Строгий начальник и беспристрастный судья в одном лице.</div>
+  </div>
 
-<div class="role">
-<div class="rolename"><a href="/roles/maid" class="custom-link">Служанка</a></div>
-<div class="roleimg"><img src="/roles/maid.png"></div>
-<div class="roleheadlabel">Подчиняется:</div>
-<div class="rolehead">Командование станции</div>
-<div class="roledesclabel">Описание:</div>  
-<div class="roledesc">Прислуга - существует только для того, чтобы выполнять функцию горничной.</div>  
-</div> 
+  <div class="role">
+    <div class="rolename"><a href="/roles/maid" class="custom-link">Служанка</a></div>
+    <div class="roleimg"><a href="/roles/maid"><img src="/roles/maid.png"></a></div>
+    <div class="roleheadlabel">Подчиняется:</div>
+    <div class="rolehead">Командование станции</div>
+    <div class="roledesclabel">Описание:</div>
+    <div class="roledesc">Боевая горничная, чьей задачей является защита капитана, поддержание чистоты на мостике и выполнение приказов командования.</div>
+  </div>
 
 </div>
 
