@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T21:25:58.208Z
+date: 2025-03-16T21:27:23.215Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -365,6 +365,13 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#171717; width:15%;">Преступление</th>
         <th style="background-color:#171717; width:35%;">Описание</th>
         <th style="background-color:#171717; width:30%;">Пример</th>
+      </tr>
+      <tr>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s103">104</th>
+        <th style="background-color:#698f43;"><img src="" alt=""></th>
+        <th style="background-color:#698f43; color:white;"><b>Мошенничество</b></th>
+        <th style="background-color:#698f43; color:white;">Намеренное введение сотрудника в заблуждение и невыполнение своей части ранее согласованной сделки. Эти действия направлены на получение выгоды путем обмана второй стороны.</th>
+        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Ассистент и священник заключили договор о проведении частной службы за 400 кредитов, заверив его у юриста. После проведения службы ассистент пропал, не оплатив услугу.</th>
       </tr>
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s204">204</th>
