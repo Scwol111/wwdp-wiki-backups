@@ -2,8 +2,8 @@
 title: Робототехника
 description: 
 published: true
-date: 2024-10-20T12:14:41.619Z
-tags: 
+date: 2025-03-16T15:35:24.556Z
+tags: научный отдел, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:19:45.176Z
 ---
