@@ -2,8 +2,8 @@
 title: Готовка
 description: 
 published: true
-date: 2024-10-20T12:14:47.043Z
-tags: 
+date: 2025-03-16T15:39:33.474Z
+tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-29T18:20:37.366Z
 ---
