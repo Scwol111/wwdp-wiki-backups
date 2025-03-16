@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T21:06:20.014Z
+date: 2025-03-16T21:15:57.860Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -58,7 +58,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
             </tr>
             <tr>
                 <th class="code">04</th>
-                 <th class="minor" ></th>
+                 <th class="minor"><a href="#s104" style="color:#c5e7fa;">Мошенничество</a></th>
                 <th class="mild"><a href="#s204" style="color:#c5e7fa;">Мелкая кража у сотрудника</a></th>
                 <th class="grave"><a href="#s304" style="color:#c5e7fa;">Кража ценного имущества</a></th>
                 <th class="critical"><a href="#s404" style="color:#c5e7fa;">Кража особо ценного<br>имущества</a></th>
@@ -72,7 +72,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
             </tr>
           <tr>
                 <th class="code">06</th>
-                  <th class="minor"><a href="#s106" style="color:#c5e7fa;">Вандализм</a></th>
+                  <th class="minor"><a href="#s106" style="color:#c5e7fa;">Хулиганство</a></th>
                   <th class="mild"><a href="#s206" style="color:#c5e7fa;">Неисполнение приказа главы</a></th>
                   <th class="grave"><a href="#s306" style="color:#c5e7fa;">Призыв к мятежу</a></th>
                   <th class="critical"><a href="#s406" style="color:#c5e7fa;">Вооружённый мятеж</a></th>
@@ -86,14 +86,14 @@ dateCreated: 2025-03-16T16:25:54.653Z
             </tr>
            <tr>
               <th class="code">08</th>
-              <th class="minor"></th>
-              <th class="mild"></th>
+              <th class="minor"><a href="#s108" style="color:#c5e7fa;">Вандализм</a></th>
+              <th class="mild"><a href="#s208" style="color:#c5e7fa;">Саботаж</a></th>
               <th class="grave"><a href="#s308" style="color:#c5e7fa;">Диверсия</a></th>
                <th class="critical"><a href="#s408" style="color:#c5e7fa;">Террористический акт</a></th>
             </tr>
            <tr>
               <th class="code">09</th>
-              <th class="minor"><a href="#s109" style="color:#c5e7fa;">Хулиганство</a></th>
+              <th class="minor"></th>
               <th class="mild"><a href="#s209" style="color:#c5e7fa;">Халатность</a></th>
               <th class="grave"><a href="#s309" style="color:#c5e7fa;">Убийство сотрудника, <br> совершенное по<br> неосторожности</a></th>
                <th class="critical"></th>
@@ -103,7 +103,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
               <th class="minor"><a href="#s110" style="color:#c5e7fa;">Изготовление или<br> владение самодельным оружием</a></th>
               <th class="mild"><a href="#s210" style="color:#c5e7fa;">Незаконное владение<br> холодным или<br> нелетальным оружием</a></th>
               <th class="grave"><a href="#s310" style="color:#c5e7fa;">Владение<br> огнестрельным<br> оружием</a></th>
-               <th class="critical"></th>
+               <th class="critical"><a href="#s410" style="color:#c5e7fa;">Незаконный оборот<br> огнестрельным оружием</a></th>
             </tr>
         </tbody>
     </table>
@@ -603,6 +603,13 @@ dateCreated: 2025-03-16T16:25:54.653Z
       </tr>
             <tr>
         <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s310">310</th>
+        <th style="background-color:#b8863b;"><img src="" alt=""></th>
+        <th style="background-color:#b8863b; color:white;"><b>Незаконное владение<br> летальным оружием</b></th>
+        <th style="background-color:#b8863b; color:white;">Владение огнестрельным и летальным энергетическим без соответствующего разрешения. Изначально лицензию на владение имеют только сотрудники отдела СБ, Капитан, Глава Персонала и Бармен в пределах бара.</th>
+        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Но все технологии казались слишком устаревшими или слабыми. Тогда он взял все в свои руки и создал лазерную пушку. Теперь у него было средство для компенсации недостатков.</th>
+      </tr>
+            <tr>
+        <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s4">410</th>
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
         <th style="background-color:#b8863b; color:white;"><b>Незаконное владение<br> летальным оружием</b></th>
         <th style="background-color:#b8863b; color:white;">Владение огнестрельным и летальным энергетическим без соответствующего разрешения. Изначально лицензию на владение имеют только сотрудники отдела СБ, Капитан, Глава Персонала и Бармен в пределах бара.</th>
