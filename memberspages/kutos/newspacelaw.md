@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T20:16:59.558Z
+date: 2025-03-16T20:17:31.634Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -588,7 +588,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">После нескольких драк он понял, что сила проявляется в дальнем бою. Ученый смог выторговать у офицера дизейблер за незначительную побрякушку.</th>
       </tr>
             <tr>
-        <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s309">310</th>
+        <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s310">310</th>
         <th style="background-color:#b8863b;"><img src="" alt=""></th>
         <th style="background-color:#b8863b; color:white;"><b>Незаконное владение<br> летальным оружием</b></th>
         <th style="background-color:#b8863b; color:white;">Владение огнестрельным и летальным энергетическим без соответствующего разрешения. Изначально лицензию на владение имеют только сотрудники отдела СБ, Капитан, Глава Персонала и Бармен в пределах бара.</th>
