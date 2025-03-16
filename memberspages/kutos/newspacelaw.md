@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T19:43:27.425Z
+date: 2025-03-16T19:49:23.433Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -36,9 +36,9 @@ dateCreated: 2025-03-16T16:25:54.653Z
             </tr>
             <tr>
                 <th class="code">01</th>
-                <th class="minor" style="height: 75px; color:#aad6f0;"><a href="#s101" style="color:#c5e7fa;">Драка</a></th>
-                <th class="mild"><a href="#s201" style="color:#c5e7fa;">Умышленное причинение<br>легкого/среднего вреда<br>здоровью сотрудника</a></th>
-                <th class="grave"><a href="#s301" style="color:#c5e7fa;">Нападение с применением<br>смертельного оружия</a></th>
+                <th class="minor" style="height: 75px; color:#aad6f0;"><a href="#s101" style="color:#c5e7fa;">Побои</a></th>
+                <th class="mild"><a href="#s201" style="color:#c5e7fa;">Легкие телесные<br> повреждения</a></th>
+                <th class="grave"><a href="#s301" style="color:#c5e7fa;">Тяжкие телесные<br> повреждения</a></th>
                 <th class="critical"><a href="#s401" style="color:#c5e7fa;">Покушение на убийство/<br>убийство сотрудника</a></th>
             </tr>
             <tr>
@@ -80,13 +80,13 @@ dateCreated: 2025-03-16T16:25:54.653Z
                 <th class="code">07</th>
                 <th class="minor"><a href="#s107" style="color:#c5e7fa;">Сопротивление</a></th>
                 <th class="mild"></th>
-              <th class="grave"><a href="#s307" style="color:#c5e7fa;">Нападение на сотрудника СБ<br> или главу отдела</a></th>
+              <th class="grave"><a href="#s307" style="color:#c5e7fa;">Нападение на<br> сотрудника СБ<br> или главу отдела</a></th>
                 <th class="critical"><a href="#s407" style="color:#c5e7fa;">Нападение на<br> Представителя<br> Nanotrazen</a></th>
             </tr>
            <tr>
               <th class="code">08</th>
               <th class="minor"></th>
-              <th class="mild"><a href="#s208" style="color:#c5e7fa;">Хранение подручного<br>оружия</a></th>
+              <th class="mild"></th>
               <th class="grave"><a href="#s308" style="color:#c5e7fa;">Диверсия</a></th>
                <th class="critical"><a href="#s408" style="color:#c5e7fa;">Террористический акт</a></th>
             </tr>
@@ -95,6 +95,13 @@ dateCreated: 2025-03-16T16:25:54.653Z
               <th class="minor"><a href="#s109" style="color:#c5e7fa;">Хулиганство</a></th>
               <th class="mild"><a href="#s209" style="color:#c5e7fa;">Халатность</a></th>
               <th class="grave"><a href="#s309" style="color:#c5e7fa;">Убийство сотрудника, <br> совершенное по<br> неосторожности</a></th>
+               <th class="critical"></th>
+            </tr>
+           <tr>
+              <th class="code">10</th>
+              <th class="minor"><a href="#s110" style="color:#c5e7fa;">Изготовление или<br> владение самодельным оружием</a></th>
+              <th class="mild"><a href="#s210" style="color:#c5e7fa;">Незаконное владение<br> холодным или<br> нелетальным оружием</a></th>
+              <th class="grave"><a href="#s310" style="color:#c5e7fa;">Владение огнестрельным оружием</a></th>
                <th class="critical"></th>
             </tr>
         </tbody>
