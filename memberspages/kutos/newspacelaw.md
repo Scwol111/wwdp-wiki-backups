@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T19:17:34.815Z
+date: 2025-03-16T19:43:27.425Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -186,14 +186,14 @@ dateCreated: 2025-03-16T16:25:54.653Z
       <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">-30% от срока</th>
     </tr>
     <tr>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><b>Непосредственная угроза заключенному</b></th>
-      <th style="background-color:#698f43; color:white; text-align: justify;">Непосредственная угроза бригу и жизни заключенных. Исключение в случае, если сотрудник больше не является членом ОПЧК.</th>
-      <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Немедленное освобождение, его следует доставить в безопасное место.</th>
+      <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;"><b>Непосредственная угроза заключенному</b></th>
+      <th style="background-color:#a69b38; color:white; text-align: justify;">Непосредственная угроза бригу и жизни заключенных. Исключение в случае, если сотрудник больше не является членом ОПЧК.</th>
+      <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Немедленное освобождение, его следует доставить в безопасное место.</th>
     </tr>
     <tr>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><b>Медицинские причины</b></th>
-      <th style="background-color:#698f43; color:white; text-align: justify;">Заключенному требуется неотложная медицинская помощь. Если сотрудник сам довел себя до подобной ситуации, то после первой помощи данный модификатор не обязателен.</th>
-      <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Сотруднику должна быть предоставлена неотложная медицинская помощь.</th>
+      <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;"><b>Медицинские причины</b></th>
+      <th style="background-color:#a69b38; color:white; text-align: justify;">Заключенному требуется неотложная медицинская помощь. Если сотрудник сам довел себя до подобной ситуации, то после первой помощи данный модификатор не обязателен.</th>
+      <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Сотруднику должна быть предоставлена неотложная медицинская помощь.</th>
     </tr>
     <tr>
       <th style="background-color:#963535; color:white; border-top-left-radius: 0px;"><b>Рецидив</b></th>
