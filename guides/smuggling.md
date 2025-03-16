@@ -2,7 +2,7 @@
 title: Контрабанда
 description: Определение, какой предмет является контрабандой, а какой нет.
 published: true
-date: 2025-02-28T08:45:09.148Z
+date: 2025-03-16T15:16:55.541Z
 tags: руководство, сб
 editor: markdown
 dateCreated: 2024-09-10T19:08:02.955Z
@@ -164,6 +164,10 @@ dateCreated: 2024-09-10T19:08:02.955Z
     <img src="/guides/smuggling/weaponlasercarbine.png" alt="weaponlasercarbine.png" />
     <div>Тренировочный лазерный карабин</div>
   </div>
+  <div>
+    <img src="/guides/smuggling/manual.png" />
+    <div>Мануал CQC</div>
+  </div>
 </div>
 
 <div class="flex-table">
@@ -213,6 +217,10 @@ dateCreated: 2024-09-10T19:08:02.955Z
     <img src="/guides/smuggling/doorjack.png" alt="doorjack.png" />
     <div>Взломщик замков</div>
   </div>
+  <div>
+    <img src="/guides/smuggling/homerunbat.png" alt="doorjack.png" />
+    <div>Хоумран бита</div>
+  </div>
 </div>
 
 <div class="flex-table">
@@ -227,6 +235,10 @@ dateCreated: 2024-09-10T19:08:02.955Z
   <div>
     <img src="/guides/smuggling/item_pen.png" alt="item_pen.png" />
     <div>Гипоручка</div>
+  </div>
+  <div>
+    <img src="/guides/smuggling/dart.png" alt="dart.png" />
+    <div>Гиподротик</div>
   </div>
   <div>
     <img src="/guides/smuggling/gas_mask.png" alt="gas_mask.png" />
@@ -255,6 +267,15 @@ dateCreated: 2024-09-10T19:08:02.955Z
   <div>
     <img src="/guides/smuggling/monkey_box.png" alt="monkey_box.png" />
     <div>Губки с агрессивной фауной</div>
+  </div>
+  <div>
+    <img src="/guides/smuggling/cybersunstealth.gif" alt="cybersunstealth.gif" />
+    <div>CSA-91x</div>
+  </div>
+  <div>
+    <img src="/guides/smuggling/flashlight.png" alt="	
+flashlight.png" />
+    <div>Электромагнитный фонарик</div>
   </div>
   
   <div class="full" style="border-bottom: 1px solid red; border-top: 1px solid red;"><h2>Взрывчатка</h2></div>
@@ -366,6 +387,10 @@ dateCreated: 2024-09-10T19:08:02.955Z
   	<div>ЭМИ-имплантат</div>
   </div>
   <div>
+    <img src="/guides/smuggling/neurostab.png" alt="neurostab.png" />
+  	<div>Имплант нейростабилизации</div>
+  </div>
+  <div>
     <img src="/guides/smuggling/smoke_new.png" alt="tear-gas-grenade.png" />
   	<div>Имплант дыма</div>
   </div>
@@ -400,6 +425,10 @@ dateCreated: 2024-09-10T19:08:02.955Z
   
   <div class="full" style="border-bottom: 1px solid red; border-top: 1px solid red;"><h2 id="equipment">Вражеское снаряжение</h2></div>
   <div>
+    <img src="/guides/smuggling/blackgygax.gif" alt="blackgygax.gif" />
+  	<div>Темный Гигакс</div>
+  </div>
+  <div>
     <img src="/guides/smuggling/jag_suit.png" alt="jag_suit.png" />
   	<div>Костюм джаггернаута</div>
   </div>
@@ -411,6 +440,10 @@ dateCreated: 2024-09-10T19:08:02.955Z
     <img src="/guides/smuggling/magboots-syndicate.png" alt="magboots-syndicate.png" />
   	<div>Кроваво-красные магнитные ботинки</div>
   </div>-->
+  <div>
+    <img src="/guides/smuggling/clothingouterhardsuitsyndieelite.png" alt="clothingouterhardsuitsyndieelite.png" />
+  	<div>Скафандр элиты синдиката</div>
+  </div>
   <div>
     <img src="/guides/smuggling/syndicateeva.png" alt="syndicateeva.png" />
   	<div>ЕВА синдиката</div>
@@ -438,10 +471,6 @@ dateCreated: 2024-09-10T19:08:02.955Z
   <div>
     <img src="/guides/uplinknew/bulldog.png" alt="c20r.png" />
   	<div>Крупнокалиберное оружие</div>
-  </div>
-  <div>
-    <img src="/guides/smuggling/clothingouterhardsuitsyndieelite.png" alt="clothingouterhardsuitsyndieelite.png" />
-  	<div>Скафандр элиты синдиката</div>
   </div>
   <div>
     <img src="/guides/smuggling/clothingheadhelmetsyndicate.png" alt="clothingheadhelmetsyndicate.png" />
@@ -478,8 +507,12 @@ dateCreated: 2024-09-10T19:08:02.955Z
   	<div>Энерговысасыватель</div>
   </div>
   <div>
-    <img src="/guides/smuggling/syndicate1.png" alt="syndicate.png" />
+    <img src="/guides/smuggling/syndicate1.png" alt="syndicate1.png" />
   	<div>Оружейный модуль борга</div>
+  </div>
+  <div>
+    <img src="/guides/smuggling/syndicateborgbomb.png" alt="syndicateborgbomb.png" />
+  	<div>Взрывной модуль борга</div>
   </div>
   <div>
     <img src="/guides/smuggling/singularitybeacon.gif" alt="singularitybeacon.gif" />
