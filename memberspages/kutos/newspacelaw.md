@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T21:28:42.673Z
+date: 2025-03-16T21:28:54.916Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -367,7 +367,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#171717; width:30%;">Пример</th>
       </tr>
       <tr>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s103">104</th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s104">104</th>
         <th style="background-color:#698f43;"><img src="" alt=""></th>
         <th style="background-color:#698f43; color:white;"><b>Мошенничество</b></th>
         <th style="background-color:#698f43; color:white;">Намеренное введение сотрудника в заблуждение и невыполнение своей части ранее согласованной сделки. Эти действия направлены на получение выгоды путем обмана второй стороны. Если сумма убытков равна или превышает 2000 кредитов, применяется статья 204.</th>
