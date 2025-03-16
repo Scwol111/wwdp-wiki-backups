@@ -2,8 +2,8 @@
 title: Самодельное оружие
 description: 
 published: true
-date: 2025-03-01T07:47:45.359Z
-tags: 
+date: 2025-03-16T15:48:02.775Z
+tags: руководство
 editor: markdown
 dateCreated: 2024-09-19T20:20:38.412Z
 ---
