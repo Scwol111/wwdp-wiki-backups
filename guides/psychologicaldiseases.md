@@ -2,8 +2,8 @@
 title: Распространенные психологические заболевания
 description: 
 published: true
-date: 2025-02-18T09:16:21.931Z
-tags: 
+date: 2025-03-16T15:32:16.555Z
+tags: медицинский
 editor: markdown
 dateCreated: 2024-09-29T18:19:41.899Z
 ---
