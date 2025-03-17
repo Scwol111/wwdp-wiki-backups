@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-17T11:12:10.830Z
+date: 2025-03-17T16:57:07.157Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -272,7 +272,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color: rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s401">401</th>
         <th style="background-color: rgb(36, 36, 36);"><img src="" alt=""></th>
         <th style="background-color: rgb(36, 36, 36); color:white;"><b>Покушение на убийство/<br>убийство сотрудника</b></th>
-        <th style="background-color: rgb(36, 36, 36); color:white;"></th>
+        <th style="background-color: rgb(36, 36, 36); color:white;">Действия, напрямую приведшие к смерти сотрудника, или действия, имевшие целью лишение жизни сотрудника, но не приведшие к смерти по независящим от преступника обстоятельствам.th>
         <th style="background-color: rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">Уборщик уже был введен в критическое состояние, умолял о пощаде, но Мим, охваченный яростью, продолжал жестоко избивать его.</th>
       </tr>
     </tbody>
