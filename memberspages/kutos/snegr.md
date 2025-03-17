@@ -2,7 +2,7 @@
 title: Снегр
 description: 
 published: false
-date: 2025-03-17T12:44:05.938Z
+date: 2025-03-17T12:44:38.420Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T17:40:53.995Z
@@ -77,7 +77,7 @@ dateCreated: 2024-12-17T17:40:53.995Z
                     <p style="text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;">
                       <strong>Помогите! Я не могу найти руководство по X!</strong>
                     </p>
-                    <p>Скорее всего, его еще не существует! Вики SS14, как и большинство вики, заполняется энтузиастами из нашего Discord. Если у вас есть время и желание помогать, возьмите роль СС14 и обратитесь к нашим Главным Редакторам.</p>
+                    <p style="text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;">Скорее всего, его еще не существует! Вики SS14, как и большинство вики, заполняется энтузиастами из нашего Discord. Если у вас есть время и желание помогать, возьмите роль СС14 и обратитесь к нашим Главным Редакторам.</p>
                   </div>
                   <div class="communitydesc" style="padding-bottom: 2px; width: 100%; text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;">
                     <p style="font-size: 20px; padding: 0px; margin: 0px;">
