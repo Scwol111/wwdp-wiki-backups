@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-16T21:31:24.918Z
+date: 2025-03-17T10:50:54.569Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -47,7 +47,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
                 <th class="minor" style=" height: 75px;"><a href="#s102" style="color:#c5e7fa;">Непристойное обнажение</a></th>
                 <th class="mild"><a href="#s202" style="color:#c5e7fa;">Домогательство</a></th>
                 <th class="grave"></th>
-                <th class="critical"><a href="#s402" style="color:#c5e7fa;">Незаконный контакт</a></th>
+                <th class="critical"><a href="#s402" style="color:#c5e7fa;">Нарушение <br>директивы 014</a></th>
             </tr>
             <tr>
                 <th class="code">03</th>
@@ -96,7 +96,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
               <th class="minor"></th>
               <th class="mild"><a href="#s209" style="color:#c5e7fa;">Халатность</a></th>
               <th class="grave"><a href="#s309" style="color:#c5e7fa;">Убийство сотрудника, <br> совершенное по<br> неосторожности</a></th>
-               <th class="critical"></th>
+               <th class="critical"><a href="#s409" style="color:#c5e7fa;">Грубая халатность</a></th>
             </tr>
            <tr>
               <th class="code">10</th>
@@ -578,6 +578,13 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#b8863b; color:white;">Причинение смерти другому лицу в результате небрежного, халатного или безрассудного поведения, без явного умысла на убийство.</th>
         <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">В результате несоблюдения техники безопасности при проведении эксперимента в лаборатории произошла утечка токсичного газа. Один из находившихся в помещении ученых получил смертельное отравление. </th>
       </tr>
+      <tr>
+        <th style="background-color:#b8863b; color:white; border-top-left-radius: 0px;" id="s409">409</th>
+        <th style="background-color:#b8863b;"><img src="" alt=""></th>
+        <th style="background-color:#b8863b; color:white;"><b>Грубая халатность</b></th>
+        <th style="background-color:#b8863b; color:white;"> Действия или бездействие члена экипажа, демонстрирующие вопиющее пренебрежение безопасностью станции, ее персонала или ценного имущества Корпорации, повлекшие за собой катастрофические последствия, включая, но не ограничиваясь: массовую гибель людей, невосполнимый ущерб станции.</th>
+        <th style="background-color:#b8863b; color:white; border-top-right-radius: 0px;">Старший инженер запустил сингулярность, но не счёл нужным контролировать её сохранность.</th>
+     </tr>
     </tbody>
 </table></div>
 <h3 id="х09-халатность-и-хулиганство" class="toc-header"><a class="toc-anchor" href="#х09-халатность-и-хулиганство">¶</a> Х10 - Хранение оружия</h3>
