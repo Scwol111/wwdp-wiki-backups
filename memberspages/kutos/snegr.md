@@ -2,7 +2,7 @@
 title: Снегр
 description: 
 published: false
-date: 2025-03-17T12:43:47.935Z
+date: 2025-03-17T12:44:05.938Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T17:40:53.995Z
@@ -122,7 +122,7 @@ dateCreated: 2024-12-17T17:40:53.995Z
               <hr>
               <div class="containerextra">
                 <div class="servermenu">
-                  <div style="text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;">🏳️Medusa RU</div>
+                  <div style="text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;">🏳️PonyStation RU</div>
                   <div>
                     <a class="is-external-link-r"><span id="copy">ss14://37.27.69.246:1212<span id="opov-copy">Скопировано</span></span></a>
                   </div>
