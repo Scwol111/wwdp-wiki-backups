@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-17T11:07:31.516Z
+date: 2025-03-17T11:10:48.807Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -261,12 +261,12 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Мим в порыве ярости, схватив огнетушитель со стены, накинулся на уборщика, разбив ему лицо.</th>
       </tr>
       <tr>
-        <th style="background-color:#662424; color:white; border-top-left-radius: 0px;" id="s301">301</th>
-        <th style="background-color:#662424;"><img src="" alt=""></th>
-        <th style="background-color:#662424; color:white;"><b>Тяжкие телесные<br> повреждения</b></th>
-        <th style="background-color:#662424; color:white;">Нанесение тяжких повреждений сотруднику.
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s301">301</th>
+        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Тяжкие телесные<br> повреждения</b></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;">Нанесение тяжких повреждений сотруднику.
 Повреждение: 80-100 </th>
-        <th style="background-color:#662424; color:white; border-top-right-radius: 0px;">Мим также решил продемонстрировать свои творческие способности, доведя уборщика до такого состояния, что тот едва стоял на ногах.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Мим также решил продемонстрировать свои творческие способности, доведя уборщика до такого состояния, что тот едва стоял на ногах.</th>
       </tr>
       <tr>
         <th style="background-color: rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s401">401</th>
@@ -340,11 +340,11 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Химик произвел чистый и уникальный продукт, решил продавать его. </th>
       </tr>
             <tr>
-        <th style="background-color:#662424; color:white; border-top-left-radius: 0px;" id="s303">303</th>
-        <th style="background-color:#662424;"><img src="" alt=""></th>
-        <th style="background-color:#662424; color:white;"><b>Хранение или использование контрабанды</b></th>
-        <th style="background-color:#662424; color:white;">Хранение или использование вещей, включенных в список контрабанды.</th>
-        <th style="background-color:#662424; color:white; border-top-right-radius: 0px;">Химик решил не сдаваться во время облавы службы безопасности и, достав пистолет Кобра, открыл ответный огонь.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s303">303</th>
+        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Хранение или использование контрабанды</b></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;">Хранение или использование вещей, включенных в список контрабанды.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Химик решил не сдаваться во время облавы службы безопасности и, достав пистолет Кобра, открыл ответный огонь.</th>
       </tr>
       <tr>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s403">403</th>
@@ -382,11 +382,11 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Сервисный работник с клептоманией решил снять очки со спящего юриста.</th>
       </tr>
       <tr>
-        <th style="background-color:#662424; color:white; border-top-left-radius: 0px;" id="s304">304</th>
-        <th style="background-color:#662424;"><img src="" alt=""></th>
-        <th style="background-color:#662424; color:white;"><b>Кража ценного имущества</b></th>
-        <th style="background-color:#662424; color:white;">Кража вещей из отделов или других объектов, которые имеют какую-либо ценность. Сюда входят, например, сумма свыше 2000$, инструменты, оборудование, транспорт, ПДА и другие предметы, принадлежащие определенным отделам.</th>
-        <th style="background-color:#662424; color:white; border-top-right-radius: 0px;">Проходя мимо брига, сервисный сотрудник увидел открытую дверь и сумел украсть секвей службы безопасности, не привлекая внимания.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s304">304</th>
+        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Кража ценного имущества</b></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;">Кража вещей из отделов или других объектов, которые имеют какую-либо ценность. Сюда входят, например, сумма свыше 2000$, инструменты, оборудование, транспорт, ПДА и другие предметы, принадлежащие определенным отделам.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Проходя мимо брига, сервисный сотрудник увидел открытую дверь и сумел украсть секвей службы безопасности, не привлекая внимания.</th>
       </tr>
       <tr>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s404">404</th>
@@ -424,12 +424,12 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Клоун после этого отправился в карго, где выломал окно, чтобы через консоль заказать 20 цистерн кваса.</th>
       </tr>
       <tr>
-        <th style="background-color:#662424; color:white; border-top-left-radius: 0px;" id="s305">305</th>
-        <th style="background-color:#662424;"><img src="" alt=""></th>
-        <th style="background-color:#662424; color:white;"><b>Незаконное проникновение<br>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s305">305</th>
+        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Незаконное проникновение<br>
 в защищенный отсек</b></th>
-        <th style="background-color:#662424; color:white;">Намеренное проникновение в защищенные отсеки, к которым подозреваемый не имеет доступа. К защищеным отсекам относятся: Бриг(та часть, к которой у адвокатов нету доступа); Кабинеты глав; Мостик; Атмос; Ядро ИИ; Хранилище ядерной боеголовки. </th>
-        <th style="background-color:#662424; color:white; border-top-right-radius: 0px;">После этого клоун изменив трубопровод, решил подшутить над капитаном, проникнув на мостик через мусорку.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white;">Намеренное проникновение в защищенные отсеки, к которым подозреваемый не имеет доступа. К защищеным отсекам относятся: Бриг(та часть, к которой у адвокатов нету доступа); Кабинеты глав; Мостик; Атмос; Ядро ИИ; Хранилище ядерной боеголовки. </th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">После этого клоун изменив трубопровод, решил подшутить над капитаном, проникнув на мостик через мусорку.</th>
       </tr>
       <tr>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s405">405</th>
@@ -460,11 +460,11 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Повар отказался приготовить борщ по приказу капитана.</th>
       </tr>
             <tr>
-        <th style="background-color:#662424; color:white; border-top-left-radius: 0px;" id="s306">306</th>
-        <th style="background-color:#662424;"><img src="" alt=""></th>
-        <th style="background-color:#662424; color:white;"><b>Призыв к мятежу</b></th>
-        <th style="background-color:#662424; color:white;">Подстрекательство членов экипажа к действиям против командования или порядка на станции с использованием силы.</th>
-        <th style="background-color:#662424; color:white; border-top-right-radius: 0px;">Грузчик подстрекает каргонцев к восстанию против глав, после того как Квартирмейстер запретил им заказывать квас.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s306">306</th>
+        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Призыв к мятежу</b></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;">Подстрекательство членов экипажа к действиям против командования или порядка на станции с использованием силы.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Грузчик подстрекает каргонцев к восстанию против глав, после того как Квартирмейстер запретил им заказывать квас.</th>
       </tr>
       <tr>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s406">406</th>
@@ -495,11 +495,11 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Офицер приказал боксеру, который ранее избил репортера, остановиться, но тот сбежал.</th>
       </tr>
       <tr>
-        <th style="background-color:#662424; color:white; border-top-left-radius: 0px;" id="s307">307</th>
-        <th style="background-color:#662424;"><img src="" alt=""></th>
-        <th style="background-color:#662424; color:white;"><b>Нападение на сотрудника СБ<br> или главу отдела</b></th>
-        <th style="background-color:#662424; color:white;">Нападение на законных представителей власти.</th>
-        <th style="background-color:#662424; color:white; border-top-right-radius: 0px;">После приказа офицера остановиться, боксер решил отработать по офицеру несколько приемов, чтобы сбежать.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s307">307</th>
+        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Нападение на сотрудника СБ<br> или главу отдела</b></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;">Нападение на законных представителей власти.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">После приказа офицера остановиться, боксер решил отработать по офицеру несколько приемов, чтобы сбежать.</th>
       </tr>
       <tr>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s407">407</th>
@@ -539,11 +539,11 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Клоун был впереди красноперых на пять шагов и, прежде чем воплотить свой план в жизнь, заварил двери в бриге, чтобы сотрудники Службы Безопасности не могли покинуть отдел.</th>
       </tr>
             <tr>
-        <th style="background-color:#662424; color:white; border-top-left-radius: 0px;" id="s308">308</th>
-        <th style="background-color:#662424;"><img src="" alt=""></th>
-        <th style="background-color:#662424; color:white;"><b>Диверсия</b></th>
-        <th style="background-color:#662424; color:white;">	Действия, которые серьезно повлияли на работу отдела или всей станции. Сюда входят выведение из строя узла энергосети откручиванием подстанции, а так же уничтожение боргов.</th>
-        <th style="background-color:#662424; color:white; border-top-right-radius: 0px;">Клоун пошел дальше, и открутил подстанцию СБ.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s308">308</th>
+        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Диверсия</b></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;">	Действия, которые серьезно повлияли на работу отдела или всей станции. Сюда входят выведение из строя узла энергосети откручиванием подстанции, а так же уничтожение боргов.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Клоун пошел дальше, и открутил подстанцию СБ.</th>
       </tr>
       <tr>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s408">408</th>
@@ -574,11 +574,11 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Глава Персонала не закрыла окно перед уходом и оставила ID-карту в консоли, что позволило преступнику завладеть её доступом.</th>
       </tr>
             <tr>
-        <th style="background-color:#662424; color:white; border-top-left-radius: 0px;" id="s309">309</th>
-        <th style="background-color:#662424;"><img src="" alt=""></th>
-        <th style="background-color:#662424; color:white;"><b>Убийство сотрудника, <br> совершенное по<br> неосторожности</b></th>
-        <th style="background-color:#662424; color:white;">Причинение смерти другому лицу в результате небрежного, халатного или безрассудного поведения, без явного умысла на убийство.</th>
-        <th style="background-color:#662424; color:white; border-top-right-radius: 0px;">В результате несоблюдения техники безопасности при проведении эксперимента в лаборатории произошла утечка токсичного газа. Один из находившихся в помещении ученых получил смертельное отравление. </th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s309">309</th>
+        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Убийство сотрудника, <br> совершенное по<br> неосторожности</b></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;">Причинение смерти другому лицу в результате небрежного, халатного или безрассудного поведения, без явного умысла на убийство.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">В результате несоблюдения техники безопасности при проведении эксперимента в лаборатории произошла утечка токсичного газа. Один из находившихся в помещении ученых получил смертельное отравление. </th>
       </tr>
       <tr>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s409">409</th>
@@ -618,11 +618,11 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">После нескольких драк он понял, что сила проявляется в дальнем бою. Ученый смог выторговать у офицера дизейблер за незначительную побрякушку.</th>
       </tr>
             <tr>
-        <th style="background-color:#662424; color:white; border-top-left-radius: 0px;" id="s310">310</th>
-        <th style="background-color:#662424;"><img src="" alt=""></th>
-        <th style="background-color:#662424; color:white;"><b>Незаконное владение<br> летальным оружием</b></th>
-        <th style="background-color:#662424; color:white;">Владение огнестрельным и летальным энергетическим без соответствующего разрешения. Изначально лицензию на владение имеют только сотрудники отдела СБ, Капитан, Глава Персонала и Бармен в пределах бара.</th>
-        <th style="background-color:#662424; color:white; border-top-right-radius: 0px;">Но все технологии казались слишком устаревшими или слабыми. Тогда он взял все в свои руки и создал лазерную пушку. Теперь у него было средство для компенсации недостатков.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s310">310</th>
+        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Незаконное владение<br> летальным оружием</b></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;">Владение огнестрельным и летальным энергетическим без соответствующего разрешения. Изначально лицензию на владение имеют только сотрудники отдела СБ, Капитан, Глава Персонала и Бармен в пределах бара.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Но все технологии казались слишком устаревшими или слабыми. Тогда он взял все в свои руки и создал лазерную пушку. Теперь у него было средство для компенсации недостатков.</th>
       </tr>
             <tr>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s410">410</th>
