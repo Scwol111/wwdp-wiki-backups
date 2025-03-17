@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-17T11:10:48.807Z
+date: 2025-03-17T11:12:10.830Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
