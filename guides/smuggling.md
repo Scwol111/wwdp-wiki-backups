@@ -2,7 +2,7 @@
 title: Контрабанда
 description: Определение, какой предмет является контрабандой, а какой нет.
 published: true
-date: 2025-03-16T15:16:55.541Z
+date: 2025-03-17T19:58:58.411Z
 tags: руководство, сб
 editor: markdown
 dateCreated: 2024-09-10T19:08:02.955Z
@@ -216,10 +216,6 @@ dateCreated: 2024-09-10T19:08:02.955Z
   <div>
     <img src="/guides/smuggling/doorjack.png" alt="doorjack.png" />
     <div>Взломщик замков</div>
-  </div>
-  <div>
-    <img src="/guides/smuggling/homerunbat.png" alt="doorjack.png" />
-    <div>Хоумран бита</div>
   </div>
 </div>
 
@@ -491,6 +487,10 @@ flashlight.png" />
   <div>
     <img src="/guides/smuggling/syndi_teleporter.gif" />
   	<div>Эксперементальный телепортер</div>
+  </div>
+  <div>
+    <img src="/guides/smuggling/homerunbat.png" alt="doorjack.png" />
+    <div>Хоумран бита</div>
   </div>
   
   <div class="full" style="border-bottom: 1px solid red; border-top: 1px solid red;"><h2>Предметы саботажа</h2></div>
