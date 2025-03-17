@@ -2,7 +2,7 @@
 title: Закон Дружбы
 description: 
 published: false
-date: 2025-03-17T11:45:33.698Z
+date: 2025-03-17T11:47:52.408Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-17T11:38:54.649Z
@@ -124,478 +124,74 @@ dateCreated: 2025-03-17T11:38:54.649Z
 </tr>
 </tbody>
 </table></center><div>
-</div><h2 id="суммирование-статей" class="toc-header"><a class="toc-anchor" href="#суммирование-статей">¶</a> Суммирование статей</h2>
-<p>Суммирование статей возможно при наличии разных категорий. Например, если сотруднику предъявлены следующие статьи: 107, 102, 202 и 307, учитываются только две статьи: самая высокая статья из категории XX2 и самая высокая статья из категории XX7, в данном случае это 202 и 307. Время суммируется следующим образом: время от самой высокой статьи и по 5 минут дополнительно за каждую статью другой категории. Кроме того, одну и ту же статью нельзя учитывать несколько раз. Например, если сотрудник ударил кулаком троих пассажиров во время драки, то учитывается только статья 101 один раз.</p>
+</div><h2 id="суммирование-статей" class="toc-header"><a class="toc-anchor" href="#суммирование-статей">¶</a> Сложение Заклинаний (Подсчёт Времени Раздумий)</h2>
+<p>Складывать заклинания можно, если они относятся к разным видам шалостей. Например, если пони предъявлены заклинания: 107, 102, 202 и 307, то в расчёт идут только два: самое сильное заклинание из серии XX2 и самое сильное из серии XX7, то есть 202 и 307. Время Раздумий складывается так: берём время от самого сильного заклинания и добавляем по 5 минуток за каждое другое заклинание из *другой* серии. И ещё: одно и то же заклинание нельзя использовать несколько раз! Например, если пони толкнула копытцем троих пассажиров во время потасовки, то считаем только заклинание 101, и только один раз.</p>
 <ol>
-  <li>Учитываются статьи только разного типа.</li>
-  <li>Одну и ту же статью нельзя учитывать несколько раз.</li>
-  <li>Время от самой высокой статьи и по +5 минут за каждую другую статью.</li>
-  <li>Если время заключения <b>равно</b> 20-25 минутам, то сотрудника <b>можно</b> перевести в ПермаБриг при наличии разрешения от Капитана или согласия самого сотрудника, находящегося под стражей.
-  <li>Если время заключения <b>превышает</b> 25 минут, то сотрудника нужно перевести в ПермаБриг.</li>
+<li>Считаем только заклинания *разных* видов.</li>
+<li>Одно и то же заклинание не используем дважды.</li>
+<li>Берём время от самого сильного заклинания и добавляем по +5 минуток за каждое другое.</li>
+<li>Если Время Раздумий <b>ровно</b> 20-25 минуток, то пони <b>можно</b> отправить в Вечное Заточение (с разрешения Принцессы-Капитана или если сама пони не против).
+<li>Если Время Раздумий <b>больше</b> 25 минуток, то пони *нужно* отправить в Вечное Заточение.</li>
 </ol>
 <br><div>
-</div><h2 id="модификаторы-и-особые-ситуации" class="toc-header"><a class="toc-anchor" href="#модификаторы-и-особые-ситуации">¶</a> <center>Модификаторы и Особые ситуации</center></h2><div>
+</div><h2 id="модификаторы-и-особые-ситуации" class="toc-header"><a class="toc-anchor" href="#модификаторы-и-особые-ситуации">¶</a> <center>Волшебные Обстоятельства и Особые Случаи</center></h2><div>
 </div><center><table style="text-align:center; width: 80%;">
-  <tbody>
-    <tr>
-      <th style="background-color:#171717; width: 30%;">Ситуация</th>
-      <th style="background-color:#171717; width: 45%;">Описание</th>
-      <th style="background-color:#171717; width: 25%;">Модификатор</th>
-    </tr>
-    <tr>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><b>Самооборона</b></th>
-      <th style="background-color:#698f43; color:white; text-align: justify;">В самооборону входит не только защита себя, но и защита своих коллег и своего рабочего места. Убедитесь, что человек не намеренно вступил в драку, а вынуждено принял в ней участие. Его действия не должны привести к более значительному ущербу, чем могло быть нанесено сотруднику, и также запрещается намеренное устранение цели, которая больше не представляет угрозы.</th>
-      <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Немедленное освобождение.</th>
-    </tr> 
-    <tr>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><b>Примерное поведение</b></th>
-      <th style="background-color:#698f43; color:white; text-align: justify;">Хорошее поведение, без выкриков, с сохранением нервных клеток персоналу службы безопасности.(Не все способны так себя вести).</th>
-      <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">-20% от срока</th>
-    </tr>
-    <tr>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><b>Сотрудничество с СБ</b></th>
-      <th style="background-color:#698f43; color:white; text-align: justify;">Сообщение службе безопасности о сообщниках преступления, информации о которых нет. Ожидание ареста на месте преступления.</th>
-      <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">-20% от срока</th>
-    </tr>
-    <tr>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><b>Добровольная сдача</b></th>
-      <th style="background-color:#698f43; color:white; text-align: justify;">Если преступник пришел в бриг, готовый принять наказание.</th>
-      <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">-30% от срока</th>
-    </tr>
-    <tr>
-      <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;"><b>Непосредственная угроза заключенному</b></th>
-      <th style="background-color:#a69b38; color:white; text-align: justify;">Непосредственная угроза бригу и жизни заключенных. Исключение в случае, если сотрудник больше не является членом ОПЧК.</th>
-      <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Немедленное освобождение, его следует доставить в безопасное место.</th>
-    </tr>
-    <tr>
-      <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;"><b>Медицинские причины</b></th>
-      <th style="background-color:#a69b38; color:white; text-align: justify;">Заключенному требуется неотложная медицинская помощь. Если сотрудник сам довел себя до подобной ситуации, то после первой помощи данный модификатор не обязателен.</th>
-      <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Сотруднику должна быть предоставлена неотложная медицинская помощь.</th>
-    </tr>
-    <tr>
-      <th style="background-color:#963535; color:white; border-top-left-radius: 0px;"><b>Рецидив</b></th>
-      <th style="background-color:#963535; color:white; text-align: justify;">Нарушения той же статьи, за которую данный преступник уже ранее находился в бриге.</th>
-      <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Впредь до удвоения длительности срока. Рецидивы могут суммироваться.</th>
-    </tr>
-    <tr>
-      <th style="background-color:#963535; color:white; border-top-left-radius: 0px;"><b>Побег из брига</b></th>
-      <th style="background-color:#963535; color:white; text-align: justify;">Если заключенный покинет камеру или бриг до окончания срока.</th>
-      <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Сбросить срок заключения к исходному значению. За попытку побега из ПермаБрига можно провести казнь с разрешения капитана.</th>
-    </tr>
-    <tr>
-      <th style="background-color:#963535; color:white; border-top-left-radius: 0px;"><b>Помощь и подстрекательство</b></th>
-      <th style="background-color:#963535; color:white; text-align: justify;">Сознательная помощь преступнику - преступление. Попытка помешать аресту, выкрасть заключенного из брига и так далее.</th>
-      <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Сообщник получает такие же статьи.</th>
-    </tr>
-    <tr>
-      <th style="background-color:#963535; color:white; border-top-left-radius: 0px;"><b>Буйство</b></th>
-      <th style="background-color:#963535; color:white; text-align: justify;">Намеренное повреждение камеры, в которой содержится преступник.</th>
-      <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Добавление от 1 до 5 минут к текущему времени.</th>
-    </tr>
-  </tbody>
+<tbody>
+<tr>
+<th style="background-color:#171717; width: 30%;">Случай</th>
+<th style="background-color:#171717; width: 45%;">Что это значит</th>
+<th style="background-color:#171717; width: 25%;">Как меняется Время Раздумий</th>
+</tr>
+<tr>
+<th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><b>Защита Друзей!</b></th>
+<th style="background-color:#698f43; color:white; text-align: justify;">Это когда пони защищает не только себя, но и своих друзей и любимую работу! Главное, чтобы пони не сама начала потасовку, а была вынуждена в ней участвовать. Её действия не должны причинить больше вреда, чем могла бы получить сама пони, и нельзя специально избавляться от пони, которая уже не представляет опасности.</th>
+<th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Можно сразу лететь на волю!</th>
+</tr>
+<tr>
+<th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><b>Хорошее Поведение</b></th>
+<th style="background-color:#698f43; color:white; text-align: justify;">Вести себя тихо, не кричать, беречь нервы Стражей Кристальной Империи. (Не все пони на такое способны!).</th>
+<th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">-20% от Времени Раздумий</th>
+</tr>
+<tr>
+<th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><b>Помощь Стражам</b></th>
+<th style="background-color:#698f43; color:white; text-align: justify;">Рассказать Стражам о друзьях-проказниках, о которых они ещё не знают. Спокойно ждать ареста прямо на месте шалости.</th>
+<th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">-20% от Времени Раздумий</th>
+</tr>
+<tr>
+<th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><b>Добровольная явка</b></th>
+<th style="background-color:#698f43; color:white; text-align: justify;">Если проказница сама пришла в Комнату Раздумий и готова понести наказание.</th>
+<th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">-30% от Времени Раздумий</th>
+</tr>
+<tr>
+<th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;"><b>Прямая угроза для пони</b></th>
+<th style="background-color:#a69b38; color:white; text-align: justify;">Если Комнате Раздумий и жизни других пони что-то сильно угрожает. Кроме случаев, когда пони больше не под защитой Великой Хартии.</th>
+<th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Немедленно выпустить на волю и отправить в безопасное место!</th>
+</tr>
+<tr>
+<th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;"><b>Нужна помощь целителя!</b></th>
+<th style="background-color:#a69b38; color:white; text-align: justify;">Пони срочно нужна помощь целителя! Если пони сама довела себя до такого состояния, то после первой помощи это правило может и не действовать.</th>
+<th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Пони нужно немедленно оказать помощь!</th>
+</tr>
+<tr>
+<th style="background-color:#963535; color:white; border-top-left-radius: 0px;"><b>Снова-здорово! (Рецидив)</b></th>
+<th style="background-color:#963535; color:white; text-align: justify;">Пони снова проказничает точно так же, как и раньше, когда уже сидела в Комнате Раздумий.</th>
+<th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Время Раздумий может стать вдвое больше! И так каждый раз!</th>
+</tr>
+<tr>
+<th style="background-color:#963535; color:white; border-top-left-radius: 0px;"><b>Побег из Комнаты Раздумий</b></th>
+<th style="background-color:#963535; color:white; text-align: justify;">Если пони покинет Комнату Раздумий или всё отделение раньше срока.</th>
+<th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Обнулить Время Раздумий и начать отсчёт заново. За попытку сбежать из Вечного Заточения Принцесса-Капитан может отправить в Вечное Забвение!</th>
+</tr>
+<tr>
+<th style="background-color:#963535; color:white; border-top-left-radius: 0px;"><b>Помощь проказникам и подстрекательство</b></th>
+<th style="background-color:#963535; color:white; text-align: justify;">Специально помогать проказнику – тоже шалость! Пытаться помешать аресту, выкрасть пони из Комнаты Раздумий и всё такое.</th>
+<th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Друг проказника получает такие же заклинания!</th>
+</tr>
+<tr>
+<th style="background-color:#963535; color:white; border-top-left-radius: 0px;"><b>Шалости в Комнате Раздумий</b></th>
+<th style="background-color:#963535; color:white; text-align: justify;">Специально портить Комнату Раздумий, в которой сидит проказница.</th>
+<th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Добавить от 1 до 5 минуток к текущему Времени.</th>
+</tr>
+</tbody>
 </table></center><div>
-</div><h2 id="классификация-законов" class="toc-header"><a class="toc-anchor" href="#классификация-законов">¶</a> <center>Классификация законов</center></h2>
-<br>
-<div>
-</div><h3 id="х01-физическое-насилие" class="toc-header"><a class="toc-anchor" href="#х01-физическое-насилие">¶</a> Х01 - Физическое насилие</h3>
-<p>Физическое насилие - предусматривает статьи о физическом насилии над сотрудниками станции.</p>
-<div class="table-container"><table style="text-align:center;">
-    <tbody>
-      <tr>
-        <th style="background-color:#171717; width:5%;">Код</th>
-        <th style="background-color:#171717; width:15%;">Скриншот</th>
-        <th style="background-color:#171717; width:15%;">Преступление</th>
-        <th style="background-color:#171717; width:35%;">Описание</th>
-        <th style="background-color:#171717; width:30%;">Пример</th>
-      </tr>
-      <tr>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s101">101</th>
-        <th style="background-color:#698f43;"><img src="" alt=""></th>
-        <th style="background-color:#698f43; color:white;"><b>Побои</b></th>
-        <th style="background-color:#698f43; color:white;">Нанесение минимальных повреждений сотруднику. Если нет возможности определить степень повреждений, то применяется данная статья.
-Повреждение: 5-24.</th>
-        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Мим и уборщик вступили в драку из-за того, что уборщик смыл с пола рисунки мима, где оба обменялись парой ударов.</th>
-      </tr>
-      <tr>
-        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s201">201</th>
-        <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Легкие телесные<br> повреждения</b></th>
-        <th style="background-color:#a69b38; color:white;">Нанесение легких повреждений сотруднику.
-Повреждение: 25-79</th>
-        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Мим в порыве ярости, схватив огнетушитель со стены, накинулся на уборщика, разбив ему лицо.</th>
-      </tr>
-      <tr>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s301">301</th>
-        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Тяжкие телесные<br> повреждения</b></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;">Нанесение тяжких повреждений сотруднику.
-Повреждение: 80-100 </th>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Мим также решил продемонстрировать свои творческие способности, доведя уборщика до такого состояния, что тот едва стоял на ногах.</th>
-      </tr>
-      <tr>
-        <th style="background-color: rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s401">401</th>
-        <th style="background-color: rgb(36, 36, 36);"><img src="" alt=""></th>
-        <th style="background-color: rgb(36, 36, 36); color:white;"><b>Покушение на убийство/<br>убийство сотрудника</b></th>
-        <th style="background-color: rgb(36, 36, 36); color:white;"></th>
-        <th style="background-color: rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">Уборщик уже был введен в критическое состояние, умолял о пощаде, но Мим, охваченный яростью, продолжал жестоко избивать его.</th>
-      </tr>
-    </tbody>
-</table></div>
-<div>
-</div><h3 id="х02-непристойное-поведение" class="toc-header"><a class="toc-anchor" href="#х02-непристойное-поведение">¶</a> Х02 - Непристойное поведение</h3>
-<p>Непристойное поведение - статьи, описывающие непристойное поведение.</p>
-<div class="table-container"><table style="text-align:center;">
-    <tbody>
-      <tr>
-        <th style="background-color:#171717; width:5%;">Код</th>
-        <th style="background-color:#171717; width:15%;">Скриншот</th>
-        <th style="background-color:#171717; width:15%;">Преступление</th>
-        <th style="background-color:#171717; width:35%;">Описание</th>
-        <th style="background-color:#171717; width:30%;">Пример</th>
-      </tr>
-      <tr>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s102">102</th>
-        <th style="background-color:#698f43;"><img src="" alt=""></th>
-        <th style="background-color:#698f43; color:white;"><b>Непристойное обнажение</b></th>
-        <th style="background-color:#698f43; color:white;">Действия, нарушающие общественную нравственность, связанные с обнажением интимных частей тела. </th>
-        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">	Научный Руководитель проиграл клоуну в споре и пробежал 3 круга вокруг мостика голым. </th>
-      </tr>
-      <tr>
-        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s202">202</th>
-        <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Домогательство</b></th>
-        <th style="background-color:#a69b38; color:white;">Домогательство к членам экипажа и приставание к сотруднику, явно выражающему своё нежелание подобных действий.</th>
-        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">На замечания бармена научный руководитель начал произносить похабные шутки о ней и попытался установить физический контакт.</th>
-      </tr>
-      <tr>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s402">402</th>
-        <th style="background-color:rgb(36, 36, 36);"><img src="" alt=""></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;"><b>Нарушение
-директивы 014</b></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;">Любые формы полового акта, а также действия, направленные на стимуляцию полового возбуждения, между любыми живыми существами на борту станций и в прилегающем космосе, контролируемом NanoTrasen.</th>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">	Научный руководитель был неудержим и завершил то, что он ранее намеревался сделать с барменом.</th>
-      </tr>
-    </tbody>
-</table></div>
-<div>
-</div><h3 id="х03-оборот-запрещенных-веществ-и-оружия" class="toc-header"><a class="toc-anchor" href="#х03-оборот-запрещенных-веществ-и-оружия">¶</a> Х03 - Контрабанда</h3>
-<p>Оборот запрещенных веществ и оружия -  оборот запрещённых веществ и оружия на станции.</p>
-<div class="table-container"><table style="text-align:center;">
-    <tbody>
-      <tr>
-        <th style="background-color:#171717; width:5%;">Код</th>
-        <th style="background-color:#171717; width:15%;">Скриншот</th>
-        <th style="background-color:#171717; width:15%;">Преступление</th>
-        <th style="background-color:#171717; width:35%;">Описание</th>
-        <th style="background-color:#171717; width:30%;">Пример</th>
-      </tr>
-      <tr>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s103">103</th>
-        <th style="background-color:#698f43;"><img src="" alt=""></th>
-        <th style="background-color:#698f43; color:white;"><b>Незаконное хранение,<br>производство или<br>транспортировка<br>наркотических средств</b></th>
-        <th style="background-color:#698f43; color:white;">Незаконное хранение, производство, транспортировка наркотических средств или их употребление. Для хранения и производства наркотических средств требуется медицинский рецепт. Стимуляторы попадают под наркотические средства.</th>
-        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Музыкант взял несколько сомнительных таблеток, чтобы найти себе вдохновление.</th>
-      </tr>
-      <tr>
-        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s203">203</th>
-        <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Распространение или<br>продажа наркотиков</b></th>
-        <th style="background-color:#a69b38; color:white;">Распространение наркотиков. Даже если у вас есть разрешение на их хранение, вам не разрешено распространять в отношении лиц, у которых такого разрешения нет.</th>
-        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Химик произвел чистый и уникальный продукт, решил продавать его. </th>
-      </tr>
-            <tr>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s303">303</th>
-        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Хранение или использование контрабанды</b></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;">Хранение или использование вещей, включенных в список контрабанды.</th>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Химик решил не сдаваться во время облавы службы безопасности и, достав пистолет Кобра, открыл ответный огонь.</th>
-      </tr>
-      <tr>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s403">403</th>
-        <th style="background-color:rgb(36, 36, 36);"><img src="" alt=""></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;"><b>Враг корпорации</b></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;">	Наличие стороннего ПО в ПДА, хранение вражеского снаряжения или участие во вражеских группировках подпадает под данную статью. Сюда включается вся амуниция, которая считается вражеской, а также принадлежность к корпорациям-врагам.</th>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">После расследования выяснилось, что химик является участником вражеской группировки, цель которой - свергнуть власть на данной станции.</th>
-      </tr>
-    </tbody>
-</table></div>
-<div>
-</div><h3 id="х04-кража" class="toc-header"><a class="toc-anchor" href="#х04-кража">¶</a> Х04 - Кража</h3>
-<p>Кража -  статьи, регулирующие кражу имущества.</p>
-<div class="table-container"><table style="text-align:center;">
-    <tbody>
-      <tr>
-        <th style="background-color:#171717; width:5%;">Код</th>
-        <th style="background-color:#171717; width:15%;">Скриншот</th>
-        <th style="background-color:#171717; width:15%;">Преступление</th>
-        <th style="background-color:#171717; width:35%;">Описание</th>
-        <th style="background-color:#171717; width:30%;">Пример</th>
-      </tr>
-      <tr>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s104">104</th>
-        <th style="background-color:#698f43;"><img src="" alt=""></th>
-        <th style="background-color:#698f43; color:white;"><b>Мошенничество</b></th>
-        <th style="background-color:#698f43; color:white;">Намеренное введение сотрудника в заблуждение и невыполнение своей части ранее согласованной сделки. Эти действия направлены на получение выгоды путем обмана второй стороны. Если сумма убытков равна или превышает 2000 кредитов, применяется статья 204.</th>
-        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Ассистент и священник заключили договор о проведении частной службы за 400 кредитов, заверив его у юриста. После проведения службы ассистент пропал, не оплатив услугу.</th>
-      </tr>
-      <tr>
-        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s204">204</th>
-        <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Мелкая кража у сотрудника</b></th>
-        <th style="background-color:#a69b38; color:white;">	Кража личных, не ценных для станции, вещей, таких как: пища, сумма ниже 2000$, одежда, гарнитура и подобные мелочи.</th>
-        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Сервисный работник с клептоманией решил снять очки со спящего юриста.</th>
-      </tr>
-      <tr>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s304">304</th>
-        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Кража ценного имущества</b></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;">Кража вещей из отделов или других объектов, которые имеют какую-либо ценность. Сюда входят, например, сумма свыше 2000$, инструменты, оборудование, транспорт, ПДА и другие предметы, принадлежащие определенным отделам.</th>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Проходя мимо брига, сервисный сотрудник увидел открытую дверь и сумел украсть секвей службы безопасности, не привлекая внимания.</th>
-      </tr>
-      <tr>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s404">404</th>
-        <th style="background-color:rgb(36, 36, 36);"><img src="" alt=""></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;"><b>Кража особо ценного<br>имущества</b></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;">Кража ключевых предметов глав, счётов отделов или станции, скафандры глав, ID карта главы персонала и ID карта капитана, а также вещи, которые представляют особую ценность для НаноТрайзен или самой станции, включаются в данную статью</th>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">С помощью системы труб и неких махинаций, сервисный сотрудник сумел проникнуть в комнату главы службы безопасности, где украл её скафандр</th>
-      </tr>
-    </tbody>
-</table></div>
-<div>
-</div><h3 id="х05-незаконное-проникновение" class="toc-header"><a class="toc-anchor" href="#х05-незаконное-проникновение">¶</a> Х05 - Незаконное проникновение</h3>
-<p>Незаконное проникновение - статьи о проникновении на охраняемую территорию.</p>
-<div class="table-container"><table style="text-align:center;">
-    <tbody>
-      <tr>
-        <th style="background-color:#171717; width:5%;">Код</th>
-        <th style="background-color:#171717; width:15%;">Скриншот</th>
-        <th style="background-color:#171717; width:15%;">Преступление</th>
-        <th style="background-color:#171717; width:35%;">Описание</th>
-        <th style="background-color:#171717; width:30%;">Пример</th>
-      </tr>
-      <tr>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s105">105</th>
-        <th style="background-color:#698f43;"><img src="" alt=""></th>
-        <th style="background-color:#698f43; color:white;"><b>Незаконное проникновение</b></th>
-        <th style="background-color:#698f43; color:white;">	Проникновение в отсек, к которому нет доступа по ID, или без полученного разрешения от владельца отсека. Отказ выйти мирным путем.</th>
-        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Клоун, возомнив себя экскурсантом, без спроса вломился в вотчину Старшего Инженера - его служебный отдел. На вежливые (и не очень) просьбы инженеров покинуть помещение он не реагировал, игнорируя законных обитателей отсека.</th>
-      </tr>
-      <tr>
-        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s205">205</th>
-        <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Проникновение со взломом</b></th>
-        <th style="background-color:#a69b38; color:white;">Намеренное проникновение в отсеки, к которым подозреваемый не имеет доступа, с использованием инструментов или других методов для проникновения. В данную статью также включается изменение труб для проникновения.</th>
-        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Клоун после этого отправился в карго, где выломал окно, чтобы через консоль заказать 20 цистерн кваса.</th>
-      </tr>
-      <tr>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s305">305</th>
-        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Незаконное проникновение<br>
-в защищенный отсек</b></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;">Намеренное проникновение в защищенные отсеки, к которым подозреваемый не имеет доступа. К защищеным отсекам относятся: Бриг(та часть, к которой у адвокатов нету доступа); Кабинеты глав; Мостик; Атмос; Ядро ИИ; Хранилище ядерной боеголовки. </th>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">После этого клоун изменив трубопровод, решил подшутить над капитаном, проникнув на мостик через мусорку.</th>
-      </tr>
-      <tr>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s405">405</th>
-        <th style="background-color:rgb(36, 36, 36);"><img src="" alt=""></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;"><b>Проникновение в отсек<br> особой важности</b></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;">Проникновение в особо защищенные отсеки станции, такие как: Оружейная, Атмосферный отдел, Ядро ИИ, Хранилище плат, Хранилище ядерной боеголовки. </th>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">Завершить свой поход клоун решил походом в оружейную, где его расстрелял варден.</th>
-      </tr>
-    </tbody>
-</table></div>
-<div>
-</div><h3 id="х06-нарушение-субординации-и-мятеж" class="toc-header"><a class="toc-anchor" href="#х06-нарушение-субординации-и-мятеж">¶</a> Х06 - Нарушение субординации и мятеж</h3>
-<p>Нарушение субординации и мятеж - статьи о нарушении субординации и мятеже.</p>
-<div class="table-container"><table style="text-align:center;">
-    <tbody>
-      <tr>
-        <th style="background-color:#171717; width:5%;">Код</th>
-        <th style="background-color:#171717; width:15%;">Скриншот</th>
-        <th style="background-color:#171717; width:15%;">Преступление</th>
-        <th style="background-color:#171717; width:35%;">Описание</th>
-        <th style="background-color:#171717; width:30%;">Пример</th>
-      </tr>
-      <tr>
-        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s206">206</th>
-        <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Неисполнение приказа главы</b></th>
-        <th style="background-color:#a69b38; color:white;">Неисполнение приказа, отданного руководителем. Исключение - приказ нарушает космический закон.</th>
-        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Повар отказался приготовить борщ по приказу капитана.</th>
-      </tr>
-            <tr>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s306">306</th>
-        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Призыв к мятежу</b></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;">Подстрекательство членов экипажа к действиям против командования или порядка на станции с использованием силы.</th>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Грузчик подстрекает каргонцев к восстанию против глав, после того как Квартирмейстер запретил им заказывать квас.</th>
-      </tr>
-      <tr>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s406">406</th>
-        <th style="background-color:rgb(36, 36, 36);"><img src="" alt=""></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;"><b>Вооружённый мятеж</b></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;">	Действия группы вооруженных лиц, направленные против интересов командования станции, корпорации NanoTrasen или Центрального Командования.</th>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">Когда капитан угрожал тюрьмой свободной каргонии, они взяли оружие и отправились на мостик с криками "viva la revolution!" в поисках справедливости.</th>
-      </tr>
-    </tbody>
-</table></div>
-<div>
-</div><h3 id="х07-неподчинение-офицеру-сб" class="toc-header"><a class="toc-anchor" href="#х07-неподчинение-офицеру-сб">¶</a> Х07 - Неподчинение офицеру СБ</h3>
-<p>Неподчинение офицеру СБ - статьи о неподчинении офицеру СБ.</p>
-<div class="table-container"><table style="text-align:center;">
-    <tbody>
-      <tr>
-        <th style="background-color:#171717; width:5%;">Код</th>
-        <th style="background-color:#171717; width:15%;">Скриншот</th>
-        <th style="background-color:#171717; width:15%;">Преступление</th>
-        <th style="background-color:#171717; width:35%;">Описание</th>
-        <th style="background-color:#171717; width:30%;">Пример</th>
-      </tr>
-      <tr>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s107">107</th>
-        <th style="background-color:#698f43;"><img src="" alt=""></th>
-        <th style="background-color:#698f43; color:white;"><b>Сопротивление</b></th>
-        <th style="background-color:#698f43; color:white;">Побег от службы безопасности во время обыска или ареста. Применяется в случае, если сотрудник службы безопасности полностью соблюдал процедуры.</th>
-        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Офицер приказал боксеру, который ранее избил репортера, остановиться, но тот сбежал.</th>
-      </tr>
-      <tr>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s307">307</th>
-        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Нападение на сотрудника СБ<br> или главу отдела</b></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;">Нападение на законных представителей власти.</th>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">После приказа офицера остановиться, боксер решил отработать по офицеру несколько приемов, чтобы сбежать.</th>
-      </tr>
-      <tr>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s407">407</th>
-        <th style="background-color:rgb(36, 36, 36);"><img src="" alt=""></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;"><b>Нападение на<br> Представителя<br> Nanotrasen</b></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;">Нападение на прямых представителей компании Нанотрейзен. Сюда входят ОБР, Магистрат, Представитель Центрального Командования.</th>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">Сжигаемый обидой за мизерную зарплату, уборщик набросился на Представителя Центрального Командования, вооружившись шваброй. Бравая свита в лице ОБР расстреляла уборщика еще когда он замахнулся шваброй.</th>
-      </tr>
-    </tbody>
-</table></div>
-
-
-<div>
-</div><h3 id="х08-саботаж-и-терроризм" class="toc-header"><a class="toc-anchor" href="#х08-саботаж-и-терроризм">¶</a> Х08 - Саботаж и терроризм</h3>
-<p>Саботаж и терроризм - статьи, описывающие саботаж и терроризм.</p>
-<div class="table-container"><table style="text-align:center;">
-    <tbody>
-      <tr>
-        <th style="background-color:#171717; width:5%;">Код</th>
-        <th style="background-color:#171717; width:15%;">Скриншот</th>
-        <th style="background-color:#171717; width:15%;">Преступление</th>
-        <th style="background-color:#171717; width:35%;">Описание</th>
-        <th style="background-color:#171717; width:30%;">Пример</th>
-      </tr>
-      <tr>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s106">108</th>
-        <th style="background-color:#698f43;"><img src="" alt=""></th>
-        <th style="background-color:#698f43; color:white;"><b>Вандализм</b></th>
-        <th style="background-color:#698f43; color:white;">Умышленное причинение незначительного ущерба имуществу станции. Сюда входит незначительные повреждение боргов. Животные также считаются имуществом станции.</th>
-        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Клоун разбил все бокалы в баре в отместку за отказ бармена приготовить ему "Бахус".</th>
-      </tr>
-      <tr>
-        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s208">208</th>
-        <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Саботаж</b></th>
-        <th style="background-color:#a69b38; color:white;">Не критический вывод из строя не критической (или любой) инфраструктуры/отсека станции, не повлекший за собой гибель членов экипажа или материальный ущерб (поломка АПЦ в Дормах, обесточивание шлюзов и т.д.).</th>
-        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Клоун был впереди красноперых на пять шагов и, прежде чем воплотить свой план в жизнь, заварил двери в бриге, чтобы сотрудники Службы Безопасности не могли покинуть отдел.</th>
-      </tr>
-            <tr>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s308">308</th>
-        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Диверсия</b></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;">	Действия, которые серьезно повлияли на работу отдела или всей станции. Сюда входят выведение из строя узла энергосети откручиванием подстанции, а так же уничтожение боргов.</th>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Клоун пошел дальше, и открутил подстанцию СБ.</th>
-      </tr>
-      <tr>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s408">408</th>
-        <th style="background-color:rgb(36, 36, 36);"><img src="" alt=""></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;"><b>Террористический акт</b></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;">Нанесение существенного вреда работе станции, в результате которого могли быть смертельные исходы, или, если на устранение неполадок уйдет долгое время.</th>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">Клоун угрожал ХоПу взорвать его кабинет, если тот не выдаст расширенный доступ. В ответ на отказ клоун взорвал несколько топливных резервуаров, вызвав разгермитизацию.</th>
-      </tr>
-    </tbody>
-</table></div>
-<div>
-</div><h3 id="х09-халатность-и-хулиганство" class="toc-header"><a class="toc-anchor" href="#х09-халатность-и-хулиганство">¶</a> Х09 - Нанесение вреда без умысла</h3>
-<p>Нанесение вреда без умысла</p>
-<div class="table-container"><table style="text-align:center;">
-    <tbody>
-      <tr>
-        <th style="background-color:#171717; width:5%;">Код</th>
-        <th style="background-color:#171717; width:15%;">Скриншот</th>
-        <th style="background-color:#171717; width:15%;">Преступление</th>
-        <th style="background-color:#171717; width:35%;">Описание</th>
-        <th style="background-color:#171717; width:30%;">Пример</th>
-      </tr>
-      <tr>
-        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s209">209</th>
-        <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Халатность</b></th>
-        <th style="background-color:#a69b38; color:white;">	Создание ситуаций, потенциально опасных для экипажа или станции из-за небрежных или безответственных, но не умышленных действий. Нарушение процедур, которое глава отдела может квалифицировать как халатность, подпадает под эту статью даже в случае, если нарушение не оказало негативного влияния на работу отдела и/или станции.</th>
-        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Глава Персонала не закрыла окно перед уходом и оставила ID-карту в консоли, что позволило преступнику завладеть её доступом.</th>
-      </tr>
-            <tr>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s309">309</th>
-        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Убийство сотрудника, <br> совершенное по<br> неосторожности</b></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;">Причинение смерти другому лицу в результате небрежного, халатного или безрассудного поведения, без явного умысла на убийство.</th>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">В результате несоблюдения техники безопасности при проведении эксперимента в лаборатории произошла утечка токсичного газа. Один из находившихся в помещении ученых получил смертельное отравление. </th>
-      </tr>
-      <tr>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s409">409</th>
-        <th style="background-color:rgb(36, 36, 36);"><img src="" alt=""></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;"><b>Грубая халатность</b></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;"> Действия или бездействие члена экипажа, демонстрирующие вопиющее пренебрежение безопасностью станции, ее персонала или ценного имущества Корпорации, повлекшие за собой катастрофические последствия, включая, но не ограничиваясь: массовую гибель людей, невосполнимый ущерб станции.</th>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">Старший инженер запустил сингулярность, но не счёл нужным контролировать её сохранность.</th>
-     </tr>
-    </tbody>
-</table></div>
-<h3 id="х09-халатность-и-хулиганство" class="toc-header"><a class="toc-anchor" href="#х09-халатность-и-хулиганство">¶</a> Х10 - Хранение оружия</h3>
-<p>Статьи, описывающие хранения оружия.</p>
-<div class="table-container"><table style="text-align:center;">
-    <tbody>
-      <tr>
-        <th style="background-color:#171717; width:5%;">Код</th>
-        <th style="background-color:#171717; width:15%;">Скриншот</th>
-        <th style="background-color:#171717; width:15%;">Преступление</th>
-        <th style="background-color:#171717; width:35%;">Описание</th>
-        <th style="background-color:#171717; width:30%;">Пример</th>
-      </tr>
-      <tr>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s110">110</th>
-        <th style="background-color:#698f43;"><img src="" alt=""></th>
-        <th style="background-color:#698f43; color:white;"><b>Изготовление или<br>
-владение самодельным<br> оружием</b></th>
-        <th style="background-color:#698f43; color:white;">Изготовление или хранение самодельного оружия.</th>
-        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">	У ученого была жажда создать идеальное оружие. Его первой мыслью было создать длинное оружие, которое не позволило бы тварям подойти на близкое расстояние. И, таким образом, он создал копье.</th>
-      </tr>
-      <tr>
-        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s210">210</th>
-        <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Незаконное владение<br>
-холодным или<br>
-нелетальным оружием</b></th>
-        <th style="background-color:#a69b38; color:white;">Владение холодным или нелетальным оружием без соответствующего разрешения. Сюда включаются холодное оружие, предназначенное для нанесения серьезных увечий, а также любое другое оружие и приспособления для временного усмирения.</th>
-        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">После нескольких драк он понял, что сила проявляется в дальнем бою. Ученый смог выторговать у офицера дизейблер за незначительную побрякушку.</th>
-      </tr>
-            <tr>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s310">310</th>
-        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Незаконное владение<br> летальным оружием</b></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;">Владение огнестрельным и летальным энергетическим без соответствующего разрешения. Изначально лицензию на владение имеют только сотрудники отдела СБ, Капитан, Глава Персонала и Бармен в пределах бара.</th>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Но все технологии казались слишком устаревшими или слабыми. Тогда он взял все в свои руки и создал лазерную пушку. Теперь у него было средство для компенсации недостатков.</th>
-      </tr>
-            <tr>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s410">410</th>
-        <th style="background-color:rgb(36, 36, 36);"><img src="" alt=""></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;"><b>Незаконный оборот<br> огнестрельным оружием</b></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;">Вооружение других сотрудников огнестрельным оружием. Разрешение на данное действие имеет только Капитан и Глава Службы Безопасности, либо сотрудник с разрешением указанных ранее глав.</th>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">Он осознал гениальность данного изобретения и решил вооружить всех сотрудников РНД этой технологией, чтобы не было никакой большой угрозы для них..</th>
-      </tr>
-    </tbody>
-</table></div>
-
-<div>
+</div>
