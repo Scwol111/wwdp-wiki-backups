@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-03-17T20:08:57.048Z
+date: 2025-03-17T20:11:25.726Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -285,7 +285,7 @@ antipsi_knife.png"><p><strong>Анти-псионический нож<p></stron
     </tr>
     <tr>
       <td><img class="big" height="100px" width="100px" src="/guides/science/researchanddevelopment/protolathe.png"><p><strong>Протолат</strong><p></td>
-      <td>Машина дающая реализовать ваши исследования!</td>
+      <td>Машина позволяющая реализовать ваши исследования!</td>
       <td>Протолат - продвинутая версия автолата, хотя она уже не позволяет печатать обычные предметы, зато она может напечатать труды ваших исследований.</td>
     </tr>
     <tr>
@@ -309,7 +309,7 @@ anomaly-vessel.png"><p><strong>Сосуд аномалии<p></strong></td>
       <td><img class="big" height="170px" width="100px" src="/guides/science/anomalies/	
 experimental-anomaly-vessel.png"><p><strong>Экспериментальный сосуд аномалии<p></strong></td>
       <td>Улучшенная версия обычного сосуда!</td>
-      <td>Выполняет те же функции что и обычный сосуд аномалии, но выдает вдвое больше очков исследования и выделяет радиацию при работе. <p> <span style="color: red;">Все так же взрывается вслед за аномалией</span> </td>
+      <td>Выполняет те же функции, что и обычный сосуд аномалии, но выдает вдвое больше очков исследования и выделяет радиацию при работе. <p> <span style="color: red;">Все так же взрывается вслед за аномалией</span> </td>
     </tr>
     <tr>
       <td><img class="big" height="100px" width="100px" src="/guides/xenoarcheology/analyzator.png"><p><strong>Анализатор артефактов</strong><p></td>
@@ -421,7 +421,7 @@ rdhead.png"></td>
       <td>10%</td>
       <td>-</td>
       <td>-</td>
-      <td>- Шкаф взрывозащитного снаряжения</td>
+      <td>- Шкаф взрывозащенного снаряжения</td>
     </tr>
     <tr>
       <td><strong>Сапёрный костюм</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/bombsuit.png"></td>
@@ -434,7 +434,7 @@ rdhead.png"></td>
       <td>85%</td>
       <td>Шаблон</td>
       <td>- Понижает вашу скорость на <span style="color: yellow ;">20%</span> </td>
-      <td>- Шкаф взрывозащитного снаряжения</td>
+      <td>- Шкаф взрывозащенного снаряжения</td>
     </tr>
     <tr>
       <td><strong>Зимнее пальто учёного</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/scicoat.png"></td>
@@ -672,7 +672,7 @@ dresser.png"><p>Комод [Научный руководитель]</strong></t
     <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/inst_belt.png"><p>Пояс для инструментов</strong></td>
       <td>Пояс для хранения разных вещей. </td>
-      <td>Пояс который может хранить инструменты и некоторые приборы. </td>
+      <td>Пояс, который может хранить инструменты и некоторые приборы. </td>
     </tr>
     <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/drill_bolt.png"><p>Электродрель</strong></td>
@@ -691,13 +691,13 @@ dresser.png"><p>Комод [Научный руководитель]</strong></t
     </tr>
     <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/geiger_base.png"><p>Счётчик гейгера</strong></td>
-      <td>Старый и надежный детектер радиации!</td>
+      <td>Старый и надежный детектор радиации!</td>
       <td>При активации показывает текущий уровень радиации в клетке.</td>
     </tr>
     <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/signaller.png"><p>Передатчик сигналов</strong></td>
       <td>Пульт со встроенной антенной!</td>
-      <td>При привязке передатчика сигналов к чему либо дает воможность создавать и передавать сигнал, невероятно, правда?</td>
+      <td>При привязке передатчика сигналов к чему либо дает возможность создавать и передавать сигнал, невероятно, правда?</td>
     </tr>
   </thead>
   <tbody>
@@ -728,8 +728,8 @@ dresser.png"><p>Комод [Научный руководитель]</strong></t
     </tr>
     <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/comp.gif"><p>Компоненты</strong></td>
-      <td>Части чего то большего.</td>
-      <td>Компоненты нужны для создания разных машин или крафта чего либо.</td>
+      <td>Части чего-то большего.</td>
+      <td>Компоненты нужны для создания разных машин или крафта чего-либо.</td>
     </tr>
     <tr>
       <td><strong><img width="100" class="big" height="100 "src="/guides/science/other/triggers.gif"><p>Триггеры</strong></td>
