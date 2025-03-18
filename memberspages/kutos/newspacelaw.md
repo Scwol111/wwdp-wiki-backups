@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-17T16:57:20.769Z
+date: 2025-03-18T10:56:37.692Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -44,7 +44,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
             </tr>
             <tr>
                 <th class="code">02</th>
-                <th class="minor" style=" height: 75px;"><a href="#s102" style="color:#c5e7fa;">Непристойное обнажение</a></th>
+                <th class="minor" style=" height: 75px;"><a href="#s102" style="color:#c5e7fa;">Антиобщественные<br> действия</a></th>
                 <th class="mild"><a href="#s202" style="color:#c5e7fa;">Домогательство</a></th>
                 <th class="grave"></th>
                 <th class="critical"><a href="#s402" style="color:#c5e7fa;">Нарушение <br>директивы 014</a></th>
@@ -72,7 +72,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
             </tr>
           <tr>
                 <th class="code">06</th>
-                  <th class="minor"><a href="#s106" style="color:#c5e7fa;">Хулиганство</a></th>
+                  <th class="minor"></th>
                   <th class="mild"><a href="#s206" style="color:#c5e7fa;">Неисполнение приказа главы</a></th>
                   <th class="grave"><a href="#s306" style="color:#c5e7fa;">Призыв к мятежу</a></th>
                   <th class="critical"><a href="#s406" style="color:#c5e7fa;">Вооружённый мятеж</a></th>
@@ -265,7 +265,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
         <th style="background-color:rgb(150, 53, 53); color:white;"><b>Тяжкие телесные<br> повреждения</b></th>
         <th style="background-color:rgb(150, 53, 53); color:white;">Нанесение тяжких повреждений сотруднику.
-Повреждение: 80-100 </th>
+Повреждение: больше 80-ти </th>
         <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Мим также решил продемонстрировать свои творческие способности, доведя уборщика до такого состояния, что тот едва стоял на ногах.</th>
       </tr>
       <tr>
@@ -292,8 +292,9 @@ dateCreated: 2025-03-16T16:25:54.653Z
       <tr>
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s102">102</th>
         <th style="background-color:#698f43;"><img src="" alt=""></th>
-        <th style="background-color:#698f43; color:white;"><b>Непристойное обнажение</b></th>
-        <th style="background-color:#698f43; color:white;">Действия, нарушающие общественную нравственность, связанные с обнажением интимных частей тела. </th>
+        <th style="background-color:#698f43; color:white;"><b>	Антиобщественные
+действия</b></th>
+        <th style="background-color:#698f43; color:white;">Нарушение правил общественного порядка. Сюда включаются действия, которые вызывают недовольство у группы лиц, а так же намеренное оголение в публичных местах.</th>
         <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">	Научный Руководитель проиграл клоуну в споре и пробежал 3 круга вокруг мостика голым. </th>
       </tr>
       <tr>
@@ -302,6 +303,12 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white;"><b>Домогательство</b></th>
         <th style="background-color:#a69b38; color:white;">Домогательство к членам экипажа и приставание к сотруднику, явно выражающему своё нежелание подобных действий.</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">На замечания бармена научный руководитель начал произносить похабные шутки о ней и попытался установить физический контакт.</th>
+      </tr>
+      <tr>
+        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s302">302</th>
+        <th style="background-color:#a69b38;"><img src="" alt=""></th>
+        <th style="background-color:#a69b38; color:white;"><b>Похищение</b></th>
+        <th style="background-color:#a69b38; color:white;">Похищение сотрудника с применением средств ограничения свободы (наручники, стяжки и т.д.). В данную статью можно включить попытку скрыть похищенное лицо.</th>
       </tr>
       <tr>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s402">402</th>
@@ -370,30 +377,30 @@ dateCreated: 2025-03-16T16:25:54.653Z
       <tr>
         <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s104">104</th>
         <th style="background-color:#698f43;"><img src="" alt=""></th>
-        <th style="background-color:#698f43; color:white;"><b>Мошенничество</b></th>
-        <th style="background-color:#698f43; color:white;">Намеренное введение сотрудника в заблуждение и невыполнение своей части ранее согласованной сделки. Эти действия направлены на получение выгоды путем обмана второй стороны. Если сумма убытков равна или превышает 2000 кредитов, применяется статья 204.</th>
-        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Ассистент и священник заключили договор о проведении частной службы за 400 кредитов, заверив его у юриста. После проведения службы ассистент пропал, не оплатив услугу.</th>
+        <th style="background-color:#698f43; color:white;"><b>Мелкая кража у сотрудника</b></th>
+        <th style="background-color:#698f43; color:white;">Кража личных, не ценных для станции, вещей, таких как: пища, одежда, гарнитура и подобные мелочи.</th>
+        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Сервисный работник с клептоманией решил снять очки со спящего юриста.</th>
       </tr>
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s204">204</th>
         <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Мелкая кража у сотрудника</b></th>
-        <th style="background-color:#a69b38; color:white;">	Кража личных, не ценных для станции, вещей, таких как: пища, сумма ниже 2000$, одежда, гарнитура и подобные мелочи.</th>
-        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Сервисный работник с клептоманией решил снять очки со спящего юриста.</th>
+        <th style="background-color:#a69b38; color:white;"><b>Кража</b></th>
+        <th style="background-color:#a69b38; color:white;">	Кража вещей из отделов или других объектов, которые имеют какую-либо ценность. Сюда входят, например, сумма свыше 2000$, инструменты, оборудование, транспорт, ПДА и другие предметы, принадлежащие определенным отделам.</th>
+        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Сервисный работник забежал в инженерный и своровал оттуда изолирующие перчатки.</th>
       </tr>
       <tr>
         <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s304">304</th>
         <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Кража ценного имущества</b></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;">Кража вещей из отделов или других объектов, которые имеют какую-либо ценность. Сюда входят, например, сумма свыше 2000$, инструменты, оборудование, транспорт, ПДА и другие предметы, принадлежащие определенным отделам.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Кража ценного имущества или в особо крупных масштабах</b></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;">Кража ценного имущества включает в себя все, что при пропаже может повлиять на работу отдела, или находится в закрытых шкафах. Также в ценное имущество входят ID карты глав и смотрителя, терминалы оплаты отделов. Кроме того, кража в особо крупных масштабах означает кражу 4 и более вещей, или же кражу на сумму свыше.</th>
         <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Проходя мимо брига, сервисный сотрудник увидел открытую дверь и сумел украсть секвей службы безопасности, не привлекая внимания.</th>
       </tr>
       <tr>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s404">404</th>
         <th style="background-color:rgb(36, 36, 36);"><img src="" alt=""></th>
         <th style="background-color:rgb(36, 36, 36); color:white;"><b>Кража особо ценного<br>имущества</b></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;">Кража ключевых предметов глав, счётов отделов или станции, скафандры глав, ID карта главы персонала и ID карта капитана, а также вещи, которые представляют особую ценность для НаноТрайзен или самой станции, включаются в данную статью</th>
-        <th style="background-color:rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">С помощью системы труб и неких махинаций, сервисный сотрудник сумел проникнуть в комнату главы службы безопасности, где украл её скафандр</th>
+        <th style="background-color:rgb(36, 36, 36); color:white;">Кража ключевых предметов глав, счётов отделов или станции, ID карта главы персонала и ID карта капитана, а также вещи, которые представляют особую ценность для НаноТрайзен или самой станции, включаются в <a href="/guides/especiallyvaluableitems">данную статью</a></th>
+        <th style="background-color:rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">С помощью системы труб и неких махинаций, сервисный сотрудник сумел проникнуть в комнату де украл её скафандр</th>
       </tr>
     </tbody>
 </table></div>
@@ -525,7 +532,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#171717; width:30%;">Пример</th>
       </tr>
       <tr>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s106">108</th>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s108">108</th>
         <th style="background-color:#698f43;"><img src="" alt=""></th>
         <th style="background-color:#698f43; color:white;"><b>Вандализм</b></th>
         <th style="background-color:#698f43; color:white;">Умышленное причинение незначительного ущерба имуществу станции. Сюда входит незначительные повреждение боргов. Животные также считаются имуществом станции.</th>
