@@ -2,8 +2,8 @@
 title: Космический Закон
 description: 
 published: true
-date: 2025-03-18T21:05:17.423Z
-tags: 
+date: 2025-03-18T21:05:37.636Z
+tags: сб
 editor: markdown
 dateCreated: 2025-03-18T21:05:17.423Z
 ---
