@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-03-15T21:43:20.988Z
+date: 2025-03-18T22:39:49.293Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -52,9 +52,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/quartermaster">Квартирмейстер</a><a href="/roles/quartermaster"><img src="/roles/quartermaster.png" /></a></div>
   <div><div>Руководитель <a href="/roles#отдел-снабжения">отдела снабжения</a>. Контролирует обеспечение станции всем необходимым. По итогу снабжает свой отдел чем вздумается ему и угоняет шаттл отдела снабжения, объявляя независимость "Каргонии".</div></div>
 	<div>Средне, но со сложностями</div>
- <div><a href="/roles/chief_justice">Главный судья</a><a href="/roles/chief_justice"><img src="/roles/chief_justice.png" /></a></div>
+ <!--<div><a href="/roles/chief_justice">Главный судья</a><a href="/roles/chief_justice"><img src="/roles/chief_justice.png" /></a></div>
   <div><div>Руководитель <a href="/roles#отдел-юстиции">отдела юстиции</a>. Гарант порядка и справедливости в суде. Строгий начальник и беспристрастный судья в одном лице. Попал в переплёт с законом? Молись, чтобы Судья был на твоей стороне. Но помни, даже он не всесилен перед коррупцией.</div></div>
-	<div>Сложно</div>
+	<div>Сложно</div>-->
 <!--  <div><a href="/roles/inspector">Инспектор</a><a href="/roles/inspector"><img src="/roles/inspector.png" /></a></div>
   <div><div>Руководитель <a href="/roles#отдел-юстиции">отдела юстиции</a>. Контролирует выполнение целей стации. В любой момент он может нагрянуть в ваш отдел с проверкой. Будьте готовы подписывать отчёты и объясняться, почему же вы сидите в баре за офицера, пока в соседнем коридоре убивают капитана.</div></div>
 	<div>Сложно</div> -->
@@ -194,17 +194,15 @@ dateCreated: 2024-09-10T19:07:41.779Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-
-  <div><a href="/roles/prosecutor">Прокурор</a><a href="/roles/prosecutor"><img src="/roles/prosecutor.png" /></a></div>
+  <!--<div><a href="/roles/prosecutor">Прокурор</a><a href="/roles/prosecutor"><img src="/roles/prosecutor.png" /></a></div>
   <div><div>Ходячее воплощение закона на станции. Он решает, кого судить, какие обвинения предъявить и сам может вершить правосудие. Бумаги, прения и суровый взгляд - его будни. Вам нужен виновный? Прокурор его найдет.</div></div>
-
-  <div>Средне</div>
-  <div><a href="/roles/lawyer">Юрист</a><a href="/roles/lawyer"><img src="/roles/lawyer.png" /></a></div>
+  <div>Средне</div>-->
+  <div><a href="/roles/lawyer">Адвокат</a><a href="/roles/lawyer"><img src="/roles/lawyer.png" /></a></div>
   <div><div>Защищает ваши права, если какой-нибудь кадет сделал что-то противоправное. Хороший юрист может ограничить СБ от неположенной власти. К сожалению, он не поможет вам избежать оплаты вашей ипотеки или избежать наказания в случае, если вы уничтожили пол станции.</div></div>
   <div>Средне</div>
-  <div><a href="/roles/clerk">Клерк</a><a href="/roles/clerk"><img src="/roles/clerk.png" /></a></div>
+  <!--<div><a href="/roles/clerk">Клерк</a><a href="/roles/clerk"><img src="/roles/clerk.png" /></a></div>
   <div><div>Этого человека вы найдете за стопкой бумаг выше, чем он сам. Законы, правила, постановления - он знает их все наизусть, и горе тому, кто попытается найти в них лазейку.</div></div>
-  <div>Легко</div>
+  <div>Легко</div>-->
 </div>
 
 </div>
