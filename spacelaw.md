@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: true
-date: 2025-03-18T21:05:37.636Z
+date: 2025-03-18T22:26:06.546Z
 tags: сб
 editor: markdown
 dateCreated: 2025-03-18T21:05:17.423Z
@@ -158,7 +158,7 @@ dateCreated: 2025-03-18T21:05:17.423Z
     <tr>
       <th style="background-color:#242424; color:white; border-top-left-radius: 0px;">4XX - особо тяжкие
 преступления</th>
-      <th style="background-color:#242424; color:white; border-top-right-radius: 0px;">Увольнение с должности. Заключение в камерe бессрочного содержания(срок этой для тяжести 30 минут) или казнь. Лишение прав ОПЧК.</th>
+      <th style="background-color:#242424; color:white; border-top-right-radius: 0px;">Увольнение с должности. Заключение в камерe бессрочного содержания или казнь. Лишение прав ОПЧК.</th>
     </tr>
   </tbody>
 </table></center><div>
