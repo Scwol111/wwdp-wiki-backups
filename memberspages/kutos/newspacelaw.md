@@ -1,9 +1,9 @@
 ---
-title: ЗК - Законы Кутоса
-description: 
+title: Космический Закон
+description: Правила нахождения персонала на станции. КЗ, Космический закон.
 published: true
-date: 2025-03-18T14:07:28.963Z
-tags: 
+date: 2025-03-18T21:03:45.042Z
+tags: сб
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
 ---
