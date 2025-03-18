@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-18T11:28:21.473Z
+date: 2025-03-18T11:30:07.205Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -58,7 +58,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
             </tr>
             <tr>
                 <th class="code">04</th>
-                 <th class="minor"><a href="#s104" style="color:#c5e7fa;">Мелкая<br> кража у<br> сотрудника</a></th>
+                 <th class="minor"><a href="#s104" style="color:#c5e7fa;">Мелкая кража<br> у сотрудника</a></th>
                 <th class="mild"><a href="#s204" style="color:#c5e7fa;">Кража</a></th>
                 <th class="grave"><a href="#s304" style="color:#c5e7fa;">Кража ценного<br> имущества или<br> в особо крупных<br> масштабах имущества</a></th>
                 <th class="critical"><a href="#s404" style="color:#c5e7fa;">Кража особо ценного<br>имущества</a></th>
