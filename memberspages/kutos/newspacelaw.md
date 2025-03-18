@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-18T11:03:19.722Z
+date: 2025-03-18T11:08:40.154Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -133,7 +133,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
 </div><h2 id="санкционирование-казни" class="toc-header"><a class="toc-anchor" href="#санкционирование-казни">¶</a> Санкционирование казни</h2>
 <p>Казнь сотрудника является последней мерой и разрешена только в отношении заключенных, которые нарушили статью 4XX степени и больше не входят в ОПЧК исключительно по разрешению Капитана. В таком случае, вся ответственность за последствия лежит на Капитане.</p>
 <p>В критических ситуациях, например, когда преступник пытается сбежать из ПермаБрига, или мятежники пытаются его освободить, Глава Службы Безопасности или Смотритель могут принять решение о казни сотрудника, находящегося в ПермаБриге.</p>
-<p>Казнь сотрудников, получивших срок до 40 минут по различным статьям, можно проводить только с разрешения Центрального Командования или после проведения суда в соответствии со всеми нормами закона.</p>
+<p>Казнь сотрудников, получивших срок до 30 минут по различным статьям, можно проводить только с разрешения Центрального Командования или после проведения суда в соответствии со всеми нормами закона.</p>
 <br><div>
 </div><center><table style="text-align:left; width: 50%">
   <tbody>
@@ -143,11 +143,11 @@ dateCreated: 2025-03-16T16:25:54.653Z
     </tr>
     <tr>
       <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">1XX - Малые нарушения</th>
-      <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Понижение по усмотрению. Предупреждение или заключение на 5 минуты</th>
+      <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Понижение по усмотрению. Предупреждение или заключение на 5 минуты.</th>
     </tr>
     <tr>
       <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;">2XX - Легкие нарушения</th>
-      <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Понижение по усмотрению. Заключение на 10 минут</th>
+      <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Понижение по усмотрению. Заключение на 10 минут.</th>
    </tr>
     <tr>
       <th style="background-color:#963535; color:white; border-top-left-radius: 0px;">3XX - Тяжкие нарушения</th>
@@ -216,7 +216,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
     <tr>
       <th style="background-color:#963535; color:white; border-top-left-radius: 0px;"><b>Побег из брига</b></th>
       <th style="background-color:#963535; color:white; text-align: justify;">Если заключенный покинет камеру или бриг до окончания срока.</th>
-      <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Сбросить срок заключения к исходному значению. За попытку побега из ПермаБрига можно провести казнь с разрешения капитана.</th>
+      <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Сбросить срок заключения к исходному значению. За попытку побега из ПермаБрига можно провести казнь с разрешения Главы Службы Безопасности или Смотрителя.</th>
     </tr>
     <tr>
       <th style="background-color:#963535; color:white; border-top-left-radius: 0px;"><b>Помощь и подстрекательство</b></th>
