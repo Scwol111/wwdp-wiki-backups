@@ -2,12 +2,18 @@
 title: Прокурор
 description: 
 published: true
-date: 2024-11-26T13:30:55.126Z
+date: 2025-03-18T22:49:11.550Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T08:11:10.945Z
 ---
 
+<center>
+<div class="warning-banner">
+  <h2> Архив </h2>
+  <p>Эта статья посвящена игровым механикам, которые уже не используются в текущей версии билда. Она отправляется в архив, чтобы сохранить воспоминания о них.</p><p>
+</div>
+</center>
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport just">
   <div class="title just"><a href="/roles/justicedepartment">Отдел Юстиции</a></div>
