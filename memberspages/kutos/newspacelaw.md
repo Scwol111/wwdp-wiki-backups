@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-18T11:00:04.632Z
+date: 2025-03-18T11:03:19.722Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -305,10 +305,11 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">На замечания бармена научный руководитель начал произносить похабные шутки о ней и попытался установить физический контакт.</th>
       </tr>
       <tr>
-        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s302">302</th>
-        <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Похищение</b></th>
-        <th style="background-color:#a69b38; color:white;">Похищение сотрудника с применением средств ограничения свободы (наручники, стяжки и т.д.). В данную статью можно включить попытку скрыть похищенное лицо.</th>
+        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s302">302</th>
+        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Похищение</b></th>
+        <th style="background-color:rgb(150, 53, 53); color:white;">Похищение сотрудника с применением средств ограничения свободы (наручники, стяжки и т.д.). В данную статью можно включить попытку скрыть похищенное лицо.</th>
+<th style="background-color:rgb(150, 53, 53); color:white;">Научный руководитель заставил бармена поскользнуться, после чего надел на неё наручники и потащил в технические помещения.</th>
       </tr>
       <tr>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s402">402</th>
