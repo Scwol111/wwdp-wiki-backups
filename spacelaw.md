@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: true
-date: 2025-03-18T22:35:59.986Z
+date: 2025-03-18T22:37:02.310Z
 tags: сб
 editor: markdown
 dateCreated: 2025-03-18T21:05:17.423Z
@@ -202,7 +202,7 @@ dateCreated: 2025-03-18T21:05:17.423Z
     </tr>
     <tr>
       <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;"><b>Непосредственная угроза заключенному</b></th>
-      <th style="background-color:#a69b38; color:white; text-align: justify;">Непосредственная угроза бригу и жизни заключенных. Исключение в случае, если сотрудник больше не является членом ОПЧК.</th>
+      <th style="background-color:#a69b38; color:white; text-align: justify;">Непосредственная угроза бригу и жизни заключенных. Исключение в случае, если сотрудник больше не защищен ОПЧК.</th>
       <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Немедленное освобождение, его следует доставить в безопасное место.</th>
     </tr>
     <tr>
