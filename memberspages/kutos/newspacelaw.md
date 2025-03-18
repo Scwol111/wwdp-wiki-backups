@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-18T14:06:43.448Z
+date: 2025-03-18T14:07:28.963Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -142,11 +142,13 @@ dateCreated: 2025-03-16T16:25:54.653Z
       <th style="background-color:#171717; width: 60%; text-align:center;">Степень наказания</th>
     </tr>
     <tr>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">1XX - Малые нарушения</th>
+      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">1XX - незначительные
+преступления</th>
       <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Понижение по усмотрению. Предупреждение или заключение на 5 минуты.</th>
     </tr>
     <tr>
-      <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;">2XX - Легкие нарушения</th>
+      <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;">2XX - преступления
+средней тяжести</th>
       <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Понижение по усмотрению. Заключение на 10 минут.</th>
    </tr>
     <tr>
