@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-18T11:57:39.858Z
+date: 2025-03-18T12:13:16.810Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -265,7 +265,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
         <th style="background-color:rgb(150, 53, 53); color:white;"><b>Тяжкие телесные<br> повреждения</b></th>
         <th style="background-color:rgb(150, 53, 53); color:white;">Нанесение тяжких повреждений сотруднику.
-Повреждение: больше 80-ти </th>
+Повреждение: больше 80-ти. </th>
         <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Мим также решил продемонстрировать свои творческие способности, доведя уборщика до такого состояния, что тот едва стоял на ногах.</th>
       </tr>
       <tr>
