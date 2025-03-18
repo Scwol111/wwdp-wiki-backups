@@ -2,11 +2,18 @@
 title: Клерк
 description: 
 published: true
-date: 2024-12-26T16:16:40.563Z
+date: 2025-03-18T22:49:33.492Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T18:10:43.248Z
 ---
+
+<center>
+<div class="warning-banner">
+  <h2> Архив </h2>
+  <p>Эта статья посвящена игровым механикам, которые уже не используются в текущей версии билда. Она отправляется в архив, чтобы сохранить воспоминания о них.</p><p>
+</div>
+</center>
 
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport just">
