@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: true
-date: 2025-03-18T22:37:02.310Z
+date: 2025-03-18T23:08:24.754Z
 tags: сб
 editor: markdown
 dateCreated: 2025-03-18T21:05:17.423Z
@@ -72,14 +72,14 @@ dateCreated: 2025-03-18T21:05:17.423Z
             </tr>
           <tr>
                 <th class="code">06</th>
-                  <th class="minor"></th>
+                  <th class="minor"><a href="#s106" style="color:#c5e7fa;">Сопротивление</a></th>
                   <th class="mild"><a href="#s206" style="color:#c5e7fa;">Неисполнение приказа главы</a></th>
                   <th class="grave"><a href="#s306" style="color:#c5e7fa;">Призыв к мятежу</a></th>
                   <th class="critical"><a href="#s406" style="color:#c5e7fa;">Вооружённый мятеж</a></th>
               </tr>
             <tr>
                 <th class="code">07</th>
-                <th class="minor"><a href="#s107" style="color:#c5e7fa;">Сопротивление</a></th>
+                <th class="minor"></th>
                 <th class="mild"></th>
               <th class="grave"><a href="#s307" style="color:#c5e7fa;">Нападение на<br> сотрудника СБ<br> или главу отдела</a></th>
                 <th class="critical"><a href="#s407" style="color:#c5e7fa;">Нападение на<br> Представителя<br> NanoTrasen</a></th>
@@ -463,6 +463,13 @@ dateCreated: 2025-03-18T21:05:17.423Z
         <th style="background-color:#171717; width:30%;">Пример</th>
       </tr>
       <tr>
+        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s106">106</th>
+        <th style="background-color:#698f43;"><img src="" alt=""></th>
+        <th style="background-color:#698f43; color:white;"><b>Сопротивление</b></th>
+        <th style="background-color:#698f43; color:white;">Побег от службы безопасности во время обыска или ареста. Применяется в случае, если сотрудник службы безопасности полностью соблюдал процедуры.</th>
+        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Офицер приказал боксеру, который ранее избил репортера, остановиться, но тот сбежал.</th>
+      </tr>
+      <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s206">206</th>
         <th style="background-color:#a69b38;"><img src="" alt=""></th>
         <th style="background-color:#a69b38; color:white;"><b>Неисполнение приказа главы</b></th>
@@ -486,8 +493,8 @@ dateCreated: 2025-03-18T21:05:17.423Z
     </tbody>
 </table></div>
 <div>
-</div><h3 id="х07-неподчинение-офицеру-сб" class="toc-header"><a class="toc-anchor" href="#х07-неподчинение-офицеру-сб">¶</a> Х07 - Подрывная деятельность против власти</h3>
-<p>Подрывная деятельность - предусматривает статьи о действиях, направленных против командования станции, корпорации NanoTrasen или Центрального Командования.</p>
+</div><h3 id="х07-неподчинение-офицеру-сб" class="toc-header"><a class="toc-anchor" href="#х07-неподчинение-офицеру-сб">¶</a> Х07 - Нападение на представителей власти</h3>
+<p>В этом разделе собраны статьи, описывающие нападения на сотрудников службы безопасности, командования и представителей интересов НаноТрейзен.</p>
 <div class="table-container"><table style="text-align:center;">
     <tbody>
       <tr>
@@ -496,13 +503,6 @@ dateCreated: 2025-03-18T21:05:17.423Z
         <th style="background-color:#171717; width:15%;">Преступление</th>
         <th style="background-color:#171717; width:35%;">Описание</th>
         <th style="background-color:#171717; width:30%;">Пример</th>
-      </tr>
-      <tr>
-        <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;" id="s107">107</th>
-        <th style="background-color:#698f43;"><img src="" alt=""></th>
-        <th style="background-color:#698f43; color:white;"><b>Сопротивление</b></th>
-        <th style="background-color:#698f43; color:white;">Побег от службы безопасности во время обыска или ареста. Применяется в случае, если сотрудник службы безопасности полностью соблюдал процедуры.</th>
-        <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Офицер приказал боксеру, который ранее избил репортера, остановиться, но тот сбежал.</th>
       </tr>
       <tr>
         <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s307">307</th>
