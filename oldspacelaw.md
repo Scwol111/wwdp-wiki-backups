@@ -2,12 +2,18 @@
 title: Космический Закон(старый)
 description: Правила нахождения персонала на станции. КЗ, Космический закон.
 published: true
-date: 2025-03-18T21:05:54.190Z
+date: 2025-03-18T21:08:31.490Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-10T19:07:45.005Z
 ---
 
+<center>
+<div class="warning-banner">
+  <h2> Архив  </h2>
+  <p>Это старая версия космического закона, перемещенная в архив, <a href="/spacelaw">клик для перехода на актуальную версию</a>.</p><p>
+</div>
+</center>
 <center><div><h1 id="космический-закон" class="toc-header"><a class="toc-anchor" href="#космический-закон">¶</a> Космический Закон</h1>
 <div class="table-container"><table style="background-color:transparent;border-bottom:5px;border-left:5px;border-right:5px;border-top:5px;">
     <tbody>
