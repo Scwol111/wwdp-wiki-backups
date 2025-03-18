@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-18T11:56:04.461Z
+date: 2025-03-18T11:57:39.858Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -436,14 +436,14 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
         <th style="background-color:rgb(150, 53, 53); color:white;"><b>Незаконное проникновение<br>
 в защищенный отсек</b></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;">Намеренное проникновение в защищенные отсеки, к которым подозреваемый не имеет доступа. К защищеным отсекам относятся: Бриг(та часть, к которой у адвокатов нету доступа); Кабинеты глав; Мостик; Атмос; Ядро ИИ; Хранилище ядерной боеголовки. </th>
+        <th style="background-color:rgb(150, 53, 53); color:white;">Намеренное проникновение в защищенные отсеки, к которым подозреваемый не имеет доступа. К защищеным отсекам относятся: Бриг(та часть, к которой у адвокатов нету доступа); Кабинеты глав; Мостик; Атмосферный отдел; Хранилище ядерной боеголовки. </th>
         <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">После этого клоун изменив трубопровод, решил подшутить над капитаном, проникнув на мостик через мусорку.</th>
       </tr>
       <tr>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s405">405</th>
         <th style="background-color:rgb(36, 36, 36);"><img src="" alt=""></th>
         <th style="background-color:rgb(36, 36, 36); color:white;"><b>Проникновение в отсек<br> особой важности</b></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;">Проникновение в особо защищенные отсеки станции, такие как: Оружейная, Атмосферный отдел, Ядро ИИ, Хранилище плат, Хранилище ядерной боеголовки. </th>
+        <th style="background-color:rgb(36, 36, 36); color:white;">Проникновение в особо защищенные отсеки станции, такие как: Оружейная, Ядро ИИ.</th>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">Завершить свой поход клоун решил походом в оружейную, где его расстрелял варден.</th>
       </tr>
     </tbody>
