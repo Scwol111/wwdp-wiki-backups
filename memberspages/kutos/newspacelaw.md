@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-18T11:30:07.205Z
+date: 2025-03-18T11:30:58.953Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -400,7 +400,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s404">404</th>
         <th style="background-color:rgb(36, 36, 36);"><img src="" alt=""></th>
         <th style="background-color:rgb(36, 36, 36); color:white;"><b>Кража особо ценного<br>имущества</b></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;">Кража ключевых предметов глав, счётов отделов или станции, ID карта главы персонала и ID карта капитана, а также вещи, которые представляют особую ценность для НаноТрайзен или самой станции, включаются в <a href="/guides/especiallyvaluableitems">данную статью</a></th>
+        <th style="background-color:rgb(36, 36, 36); color:white;">Кража ключевых предметов глав, счётов отделов или станции, ID карта главы персонала и ID карта капитана, а также вещи, которые представляют особую ценность для НаноТрайзен или самой станции, включаются в <a href="/guides/especiallyvaluableitems">данную статью.</a></th>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">С помощью системы труб и неких махинаций, сервисный сотрудник сумел проникнуть в комнату капитана, где украл его скафандр.</th>
       </tr>
     </tbody>
