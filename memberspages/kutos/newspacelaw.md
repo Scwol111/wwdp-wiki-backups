@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-18T10:58:55.938Z
+date: 2025-03-18T11:00:04.632Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -46,7 +46,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
                 <th class="code">02</th>
                 <th class="minor" style=" height: 75px;"><a href="#s102" style="color:#c5e7fa;">Антиобщественные<br> действия</a></th>
                 <th class="mild"><a href="#s202" style="color:#c5e7fa;">Домогательство</a></th>
-                <th class="grave"></th>
+                <th class="grave"><a href="#s302" style="color:#c5e7fa;">Похищение</a></th>
                 <th class="critical"><a href="#s402" style="color:#c5e7fa;">Нарушение <br>директивы 014</a></th>
             </tr>
             <tr>
