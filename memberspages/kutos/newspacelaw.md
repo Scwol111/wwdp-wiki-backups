@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-18T11:09:31.594Z
+date: 2025-03-18T11:10:48.138Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -82,7 +82,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
                 <th class="minor"><a href="#s107" style="color:#c5e7fa;">Сопротивление</a></th>
                 <th class="mild"></th>
               <th class="grave"><a href="#s307" style="color:#c5e7fa;">Нападение на<br> сотрудника СБ<br> или главу отдела</a></th>
-                <th class="critical"><a href="#s407" style="color:#c5e7fa;">Нападение на<br> Представителя<br> Nanotrasen</a></th>
+                <th class="critical"><a href="#s407" style="color:#c5e7fa;">Нападение на<br> Представителя<br> NanoTrasen</a></th>
             </tr>
            <tr>
               <th class="code">08</th>
