@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-18T11:10:48.138Z
+date: 2025-03-18T11:26:50.970Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -156,7 +156,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
     <tr>
       <th style="background-color:#242424; color:white; border-top-left-radius: 0px;">4XX - особо тяжкие
 преступления</th>
-      <th style="background-color:#242424; color:white; border-top-right-radius: 0px;">Увольнение с должности. Заключение в камерe бессрочного содержания или казнь. Лишение прав ОПЧК.</th>
+      <th style="background-color:#242424; color:white; border-top-right-radius: 0px;">Увольнение с должности. Заключение в камерe бессрочного содержания(срок этой для тяжести 30 минут) или казнь. Лишение прав ОПЧК.</th>
     </tr>
   </tbody>
 </table></center><div>
@@ -171,7 +171,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
 </ol>
 <br><div>
 </div><h2 id="модификаторы-и-особые-ситуации" class="toc-header"><a class="toc-anchor" href="#модификаторы-и-особые-ситуации">¶</a> <center>Модификаторы и Особые ситуации</center></h2><div>
-</div><center><table style="text-align:center; width: 80%;">
+</div>При смягчающих обстоятельств на тяжесть 4xx, следует вычитать время из отметки 30 минут. Например: Ассистент получил статью 401, и должен сесть в тюрьму, однако, сдался службе безопасности и снизил свой срок до 21 минуты.<center><table style="text-align:center; width: 80%;">
   <tbody>
     <tr>
       <th style="background-color:#171717; width: 30%;">Ситуация</th>
@@ -185,7 +185,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
     </tr> 
     <tr>
       <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><b>Примерное поведение</b></th>
-      <th style="background-color:#698f43; color:white; text-align: justify;">Хорошее поведение, без выкриков, с сохранением нервных клеток персоналу службы безопасности.(Не все способны так себя вести).</th>
+      <th style="background-color:#698f43; color:white; text-align: justify;">Хорошее поведение, без выкриков, с сохранением нервных клеток персоналу службы безопасности.(Не все способны так себя вести). Не применяется к статьям 4xx тяжести.</th>
       <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">-20% от срока</th>
     </tr>
     <tr>
