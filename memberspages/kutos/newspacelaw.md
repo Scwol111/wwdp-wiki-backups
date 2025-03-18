@@ -2,7 +2,7 @@
 title: ЗК - Законы Кутоса
 description: 
 published: true
-date: 2025-03-18T11:32:46.571Z
+date: 2025-03-18T11:33:14.360Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-16T16:25:54.653Z
@@ -195,7 +195,7 @@ dateCreated: 2025-03-16T16:25:54.653Z
     </tr>
     <tr>
       <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;"><b>Добровольная сдача</b></th>
-      <th style="background-color:#698f43; color:white; text-align: justify;">Если преступник пришел в бриг, готовый принять наказание.</th>
+      <th style="background-color:#698f43; color:white; text-align: justify;">Если преступник пришел в бриг, готовый принять наказание. Не применяется к рецидивистам.</th>
       <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">-30% от срока</th>
     </tr>
     <tr>
