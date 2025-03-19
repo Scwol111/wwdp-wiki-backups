@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: true
-date: 2025-03-18T23:08:24.754Z
+date: 2025-03-19T17:43:51.670Z
 tags: сб
 editor: markdown
 dateCreated: 2025-03-18T21:05:17.423Z
@@ -80,8 +80,8 @@ dateCreated: 2025-03-18T21:05:17.423Z
             <tr>
                 <th class="code">07</th>
                 <th class="minor"></th>
-                <th class="mild"></th>
-              <th class="grave"><a href="#s307" style="color:#c5e7fa;">Нападение на<br> сотрудника СБ<br> или главу отдела</a></th>
+                <th class="mild"><a href="#s207" style="color:#c5e7fa;">Нападение на<br> сотрудника СБ<br> или главу отдела</a></th>
+              <th class="grave"></th>
                 <th class="critical"><a href="#s407" style="color:#c5e7fa;">Нападение на<br> Представителя<br> NanoTrasen</a></th>
             </tr>
            <tr>
@@ -505,11 +505,11 @@ dateCreated: 2025-03-18T21:05:17.423Z
         <th style="background-color:#171717; width:30%;">Пример</th>
       </tr>
       <tr>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s307">307</th>
-        <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;"><b>Нападение на сотрудника СБ<br> или главу отдела</b></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;">Нападение на законных представителей власти.</th>
-        <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">После приказа офицера остановиться, боксер решил отработать по офицеру несколько приемов, чтобы сбежать.</th>
+        <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s207">207</th>
+        <th style="background-color:#a69b38;"><img src="" alt=""></th>
+        <th style="background-color:#a69b38; color:white;"><b>Нападение на<br> должностное лицо</b></th>
+        <th style="background-color:#a69b38; color:white;">Нападение, нанесение физического ущерба должностному лицу (сотрудникам службы безопасности, руководителям станции), попытки ареста или активные попытки опрокидывания толканиями.</th>
+        <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">После приказа офицера остановиться, боксер решил отработать по офицеру несколько приемов, чтобы сбежать.</th>
       </tr>
       <tr>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s407">407</th>
