@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: true
-date: 2025-03-21T18:37:05.637Z
+date: 2025-03-21T18:37:53.009Z
 tags: сб
 editor: markdown
 dateCreated: 2025-03-18T21:05:17.423Z
@@ -39,7 +39,7 @@ dateCreated: 2025-03-18T21:05:17.423Z
                 <th class="code">01</th>
                 <th class="minor" style="height: 75px; color:#aad6f0;"><a href="#s101" style="color:#c5e7fa;">Побои</a></th>
                 <th class="mild"><a href="#s201" style="color:#c5e7fa;">Легкие телесные<br> повреждения</a></th>
-                <th class="grave"><a href="#s301" style="color:#c5e7fa;">Тяжкие телесные<br> повреждения</a></th>
+                <th class="grave"><a href="#s301" style="color:#c5e7fa;">Средние телесные<br> повреждения</a></th>
                 <th class="critical"><a href="#s401" style="color:#c5e7fa;">Покушение на убийство/<br>убийство сотрудника</a></th>
             </tr>
             <tr>
@@ -257,7 +257,7 @@ dateCreated: 2025-03-18T21:05:17.423Z
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s201">201</th>
         <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Легкие телесные<br> повреждения</b></th>
+        <th style="background-color:#a69b38; color:white;"><b>Средние телесные<br> повреждения</b></th>
         <th style="background-color:#a69b38; color:white;">Нанесение легких повреждений сотруднику.
 Повреждение: 25-79</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Мим в порыве ярости, схватив огнетушитель со стены, накинулся на уборщика, разбив ему лицо.</th>
