@@ -2,7 +2,7 @@
 title: Снегр
 description: 
 published: false
-date: 2025-03-21T20:13:26.919Z
+date: 2025-03-21T20:14:38.510Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T17:40:53.995Z
@@ -17,14 +17,14 @@ dateCreated: 2024-12-17T17:40:53.995Z
               </center>
               <div class="maincontainer">
                 <div class="buttoncontainer">
-                  <div>
+                  <!--<div>
                     <a href="/beginnersguide" class="icon-link is-internal-link is-valid-page">
                       <img src="https://wiki.ss14.su/main_page_icons/forbeginners_icon.png">
                       <b>Новичкам</b>
                     </a>
-                  </div>
+                  </div>-->
                   <div>
-                    <a href="/rules" class="icon-link is-internal-link is-valid-page">
+                    <a href="/ponystation/rules" class="icon-link is-internal-link is-valid-page">
                       <img src="https://wiki.ss14.su/main_page_icons/rule_icon.png">
                       <b>Правила</b>
                     </a>
@@ -54,15 +54,15 @@ dateCreated: 2024-12-17T17:40:53.995Z
                     </a>
                   </div>
                   <div>
-                    <a href="/backstory" class="icon-link is-internal-link is-valid-page">
+                    <a href="/ponystation/backstory" class="icon-link is-internal-link is-valid-page">
                       <img src="https://wiki.ss14.su/main_page_icons/nt_icon.png">
-                      <b>Лор</b>
+                      <b>Лор поней</b>
                     </a>
                   </div>
                   <div>
-                    <a href="/maps" class="icon-link is-external-link">
+                    <a href="/ponystation/maps" class="icon-link is-external-link">
                       <img src="https://wiki.ss14.su/main_page_icons/maps_icon.png">
-                      <b>Карты</b>
+                      <b>Понитаун</b>
                     </a>
                   </div>
                 </div>
