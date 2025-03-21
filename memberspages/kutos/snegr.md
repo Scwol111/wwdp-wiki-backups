@@ -2,7 +2,7 @@
 title: Снегр
 description: 
 published: false
-date: 2025-03-17T12:44:38.420Z
+date: 2025-03-21T20:13:26.919Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T17:40:53.995Z
@@ -30,9 +30,9 @@ dateCreated: 2024-12-17T17:40:53.995Z
                     </a>
                   </div>
                   <div>
-                    <a href="/roles" class="icon-link is-internal-link is-valid-page">
+                    <a href="/ponystation/roles" class="icon-link is-internal-link is-valid-page">
                       <img src="https://wiki.ss14.su/main_page_icons/roles_icon.png">
-                      <b>Роли</b>
+                      <b>Пони</b>
                     </a>
                   </div>
                   <div>
