@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: true
-date: 2025-03-21T18:53:35.481Z
+date: 2025-03-21T19:31:11.067Z
 tags: сб
 editor: markdown
 dateCreated: 2025-03-18T21:05:17.423Z
@@ -142,12 +142,12 @@ dateCreated: 2025-03-18T21:05:17.423Z
       <th style="background-color:#171717; width: 60%; text-align:center;">Степень наказания</th>
     </tr>
     <tr>
-      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">1XX - незначительные
+      <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">1XX - Незначительные
 преступления</th>
       <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Понижение по усмотрению. Предупреждение или заключение на 5 минуты.</th>
     </tr>
     <tr>
-      <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;">2XX - преступления
+      <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;">2XX - Преступления
 средней тяжести</th>
       <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Понижение по усмотрению. Заключение на 10 минут.</th>
    </tr>
@@ -156,7 +156,7 @@ dateCreated: 2025-03-18T21:05:17.423Z
       <th style="background-color:#963535; color:white; border-top-right-radius: 0px;">Увольнение с должности. Заключение на 15 минут.</th>
     </tr>
     <tr>
-      <th style="background-color:#242424; color:white; border-top-left-radius: 0px;">4XX - особо тяжкие
+      <th style="background-color:#242424; color:white; border-top-left-radius: 0px;">4XX - Особо тяжкие
 преступления</th>
       <th style="background-color:#242424; color:white; border-top-right-radius: 0px;">Увольнение с должности. Заключение в камерe бессрочного содержания или казнь. Лишение прав ОПЧК.</th>
     </tr>
