@@ -2,7 +2,7 @@
 title: Снегр
 description: 
 published: false
-date: 2025-03-21T20:14:38.510Z
+date: 2025-03-21T20:15:03.571Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T17:40:53.995Z
@@ -47,12 +47,12 @@ dateCreated: 2024-12-17T17:40:53.995Z
                       <b>Закон Дружбы</b>
                     </a>
                   </div>
-                  <div>
+                  <!--<div>
                     <a href="/gamemodes" class="icon-link is-internal-link is-valid-page">
                       <img src="https://wiki.ss14.su/main_page_icons/gamemodes_icon.png">
                       <b>Игровые режимы</b>
                     </a>
-                  </div>
+                  </div>-->
                   <div>
                     <a href="/ponystation/backstory" class="icon-link is-internal-link is-valid-page">
                       <img src="https://wiki.ss14.su/main_page_icons/nt_icon.png">
