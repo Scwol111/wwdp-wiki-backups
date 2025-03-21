@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: true
-date: 2025-03-21T18:35:01.041Z
+date: 2025-03-21T18:36:06.893Z
 tags: сб
 editor: markdown
 dateCreated: 2025-03-18T21:05:17.423Z
@@ -52,7 +52,7 @@ dateCreated: 2025-03-18T21:05:17.423Z
             <tr>
                 <th class="code">03</th>
                 <th class="minor"><a href="#s103" style="color:#c5e7fa;">Незаконное хранение,<br>производство или<br>транспортировка<br>наркотических средств</a></th>
-                <th class="mild"><a href="#s203" style="color:#c5e7fa;">Распространение или<br>продажа наркотиков</a></th>
+                <th class="mild"><a href="#s203" style="color:#c5e7fa;">Распространение продажа наркотиков</a></th>
                 <th class="grave"><a href="#s303" style="color:#c5e7fa;">Хранение или<br> использование контрабанды</a></th>
                 <th class="critical"><a href="#s403" style="color:#c5e7fa;">Враг корпорации</a>
             </tr>
@@ -345,7 +345,7 @@ dateCreated: 2025-03-18T21:05:17.423Z
       <tr>
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s203">203</th>
         <th style="background-color:#a69b38;"><img src="" alt=""></th>
-        <th style="background-color:#a69b38; color:white;"><b>Распространение или<br>продажа наркотиков</b></th>
+        <th style="background-color:#a69b38; color:white;"><b>Распространение наркотиков</b></th>
         <th style="background-color:#a69b38; color:white;">Распространение наркотиков. Даже если у вас есть разрешение на их хранение, вам не разрешено распространять в отношении лиц, у которых такого разрешения нет.</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Химик произвел чистый и уникальный продукт, решил продавать его. </th>
       </tr>
