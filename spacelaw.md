@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: true
-date: 2025-03-21T21:44:06.321Z
+date: 2025-03-21T21:44:33.692Z
 tags: сб
 editor: markdown
 dateCreated: 2025-03-18T21:05:17.423Z
@@ -52,7 +52,7 @@ dateCreated: 2025-03-18T21:05:17.423Z
             <tr>
                 <th class="code">03</th>
                 <th class="minor"><a href="#s103" style="color:#c5e7fa;">Незаконное хранение,<br>производство или<br>транспортировка<br>наркотических средств</a></th>
-                <th class="mild"><a href="#s203" style="color:#c5e7fa;">Распространение наркотиков</a></th>
+                <th class="mild"><a href="#s203" style="color:#c5e7fa;">Распространение<br> наркотиков</a></th>
                 <th class="grave"><a href="#s303" style="color:#c5e7fa;">Хранение или<br> использование контрабанды</a></th>
                 <th class="critical"><a href="#s403" style="color:#c5e7fa;">Враг корпорации</a>
             </tr>
