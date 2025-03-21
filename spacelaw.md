@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: true
-date: 2025-03-21T18:36:06.893Z
+date: 2025-03-21T18:37:05.637Z
 tags: сб
 editor: markdown
 dateCreated: 2025-03-18T21:05:17.423Z
@@ -266,8 +266,7 @@ dateCreated: 2025-03-18T21:05:17.423Z
         <th style="background-color:rgb(150, 53, 53); color:white; border-top-left-radius: 0px;" id="s301">301</th>
         <th style="background-color:rgb(150, 53, 53);"><img src="" alt=""></th>
         <th style="background-color:rgb(150, 53, 53); color:white;"><b>Тяжкие телесные<br> повреждения</b></th>
-        <th style="background-color:rgb(150, 53, 53); color:white;">Нанесение тяжких повреждений сотруднику.
-Повреждение: больше 80-ти. </th>
+        <th style="background-color:rgb(150, 53, 53); color:white;">Нанесение тяжких повреждений сотруднику. Введение в критическое состояние. </th>
         <th style="background-color:rgb(150, 53, 53); color:white; border-top-right-radius: 0px;">Мим также решил продемонстрировать свои творческие способности, доведя уборщика до такого состояния, что тот едва стоял на ногах.</th>
       </tr>
       <tr>
