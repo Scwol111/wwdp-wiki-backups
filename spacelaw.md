@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: true
-date: 2025-03-21T18:33:14.015Z
+date: 2025-03-21T18:35:01.041Z
 tags: сб
 editor: markdown
 dateCreated: 2025-03-18T21:05:17.423Z
@@ -445,7 +445,7 @@ dateCreated: 2025-03-18T21:05:17.423Z
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-left-radius: 0px;" id="s405">405</th>
         <th style="background-color:rgb(36, 36, 36);"><img src="" alt=""></th>
         <th style="background-color:rgb(36, 36, 36); color:white;"><b>Проникновение в отсек<br> особой важности</b></th>
-        <th style="background-color:rgb(36, 36, 36); color:white;">Проникновение в особо защищенные отсеки станции, такие как: Оружейная, Ядро ИИ.</th>
+        <th style="background-color:rgb(36, 36, 36); color:white;">Проникновение без надлежащего допуска в особо охраняемые зоны, такие как оружейная и ядро ИИ.</th>
         <th style="background-color:rgb(36, 36, 36); color:white; border-top-right-radius: 0px;">Завершить свой поход клоун решил походом в оружейную, где его расстрелял варден.</th>
       </tr>
     </tbody>
