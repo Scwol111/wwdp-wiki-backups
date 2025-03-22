@@ -2,7 +2,7 @@
 title: ПониСтейшон
 description: 
 published: false
-date: 2025-03-22T20:04:07.771Z
+date: 2025-03-22T20:10:10.089Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T17:40:53.995Z
@@ -101,7 +101,7 @@ dateCreated: 2024-12-17T17:40:53.995Z
                         Forum
                       </div>
                         </a>
-                      <a class="fredoka-font" href="/boosty" class="community-link is-external-link"><div class="community-element">
+                      <a class="fredoka-font" href="/ponystation/boosty" class="community-link is-external-link"><div class="community-element">
                         PonyBoosty
                       </div>
                         </a>
