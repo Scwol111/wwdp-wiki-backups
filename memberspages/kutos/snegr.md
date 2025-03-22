@@ -2,7 +2,7 @@
 title: ПониСтейшон
 description: 
 published: false
-date: 2025-03-21T20:17:39.701Z
+date: 2025-03-22T19:55:55.817Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T17:40:53.995Z
@@ -25,13 +25,13 @@ dateCreated: 2024-12-17T17:40:53.995Z
                   </div>-->
                   <div>
                     <a href="/ponystation/rules" class="icon-link is-internal-link is-valid-page">
-                      <img src="https://wiki.ss14.su/main_page_icons/rule_icon.png">
+                      <img src="/p4.png">
                       <b>Правила</b>
                     </a>
                   </div>
                   <div>
                     <a href="/ponystation/roles" class="icon-link is-internal-link is-valid-page">
-                      <img src="https://wiki.ss14.su/main_page_icons/roles_icon.png">
+                      <img src="/p3.png">
                       <b>Пони</b>
                     </a>
                   </div>
@@ -43,7 +43,7 @@ dateCreated: 2024-12-17T17:40:53.995Z
                   </div>
                   <div>
                     <a href="https://wiki.wwdp.ee/ru/ponystation/ponylaw" class="icon-link is-internal-link is-valid-page">
-                      <img src="https://wiki.ss14.su/main_page_icons/space_law_icon.png">
+                      <img src="/p1.png">
                       <b>Закон Дружбы</b>
                     </a>
                   </div>
@@ -55,13 +55,13 @@ dateCreated: 2024-12-17T17:40:53.995Z
                   </div>-->
                   <div>
                     <a href="/ponystation/backstory" class="icon-link is-internal-link is-valid-page">
-                      <img src="https://wiki.ss14.su/main_page_icons/nt_icon.png">
+                      <img src="/p2.png">
                       <b>Лор поней</b>
                     </a>
                   </div>
                   <div>
                     <a href="/ponystation/maps" class="icon-link is-external-link">
-                      <img src="https://wiki.ss14.su/main_page_icons/maps_icon.png">
+                      <img src="/p5.png">
                       <b>Понитаун</b>
                     </a>
                   </div>
