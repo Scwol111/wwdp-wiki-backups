@@ -2,7 +2,7 @@
 title: ПониСтейшон
 description: 
 published: false
-date: 2025-03-22T19:55:55.817Z
+date: 2025-03-22T20:04:07.771Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-17T17:40:53.995Z
@@ -102,7 +102,7 @@ dateCreated: 2024-12-17T17:40:53.995Z
                       </div>
                         </a>
                       <a class="fredoka-font" href="/boosty" class="community-link is-external-link"><div class="community-element">
-                        Boosty
+                        PonyBoosty
                       </div>
                         </a>
                       </div>
