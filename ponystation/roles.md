@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-21T21:32:48.250Z
+date: 2025-03-24T13:15:34.891Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -31,7 +31,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/captain">Мэр понитауна</a><a href="/roles/captain"><img src="/roles/captain.png" /></a></div>
+  <div><a href="/roles/captain">Мэр понитауна</a><a href="/roles/captain"><img src="/ponies/command/" /></a></div>
   <div><div>Возглавляет понитаун, направляя всех на путь дружбы и согласия. Иногда она странно исчезает, но Мэр остаётся бдительной и всегда защищает своих друзей!
 </div></div>
   <div>Сияюще!</div>
