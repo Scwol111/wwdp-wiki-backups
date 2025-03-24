@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-24T23:16:03.510Z
+date: 2025-03-24T23:27:28.603Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -451,6 +451,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
         Ваш браузер не поддерживает элемент <code>video</code>.
     </video>
 </body>
-
+<p>
+<img height=300 width=100% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
 
 
