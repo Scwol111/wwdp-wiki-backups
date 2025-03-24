@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-24T23:49:10.410Z
+date: 2025-03-24T23:51:59.814Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -69,7 +69,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
 <div class="roles-table sb">
   <div class="title sb-title">
     <div class="link"><h2>💂💂‍♀️Стражи гармонии💂‍♀️💂</h2></div>
@@ -99,7 +99,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
 <div class="roles-table med">
   <div class="title med-title">
     <div class="link"><h2>🩹🩺Больница🩺🩹</h2></div>
@@ -126,7 +126,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
 <div class="roles-table rnd">
   <div class="title rnd-title">
     <div class="link"><h2>🌌🧑‍🏫Университет🧑‍🏫🌌</h2></div>
@@ -150,7 +150,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
 <div class="roles-table eng">
   <div class="title eng-title">
     <div class="link"><h2>🔨🔮Инженерный отдел🔮🔨</h2></div>
@@ -173,7 +173,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
 <div class="roles-table cargo">
   <div class="title cargo-title">
     <div class="link"><h2>🎁📦Отдел Снабжения📦🎁</h2></div>
@@ -193,7 +193,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
 <div class="roles-table just">
   <div class="title just-title">
     <div class="link"><h2>🫶👨‍⚖️Отдел по решению споров👨‍⚖️🫶</h2></div>
@@ -207,7 +207,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
 <div class="roles-table serv">
   <div class="title serv-title">
     <div class="link"><h2>🧑‍🍼💗Отдел Радужной Заботы💗🧑‍🍼</h2></div>
@@ -272,7 +272,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+<p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
 
 <div class="roles-table antag">
   <div class="title antag-title">
@@ -362,7 +362,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
  
 <div class="roles-table ceco">
   <div class="title ceco-title">
-    <div class="link"><h2><a href="/roles/centralcommand" class="ceco-color">Центральное Командование</a></h2></div>
+    <div class="link"><h2><a href="/roles/centralcommand" class="ceco-color">🍋‍🟩🪲Центральное Командование🪲🍋‍🟩</a></h2></div>
   	<div>Роль</div>
   	<div>Описание</div>
   	<div>Сложность</div>
@@ -380,7 +380,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 
 <div class="roles-table sint">
   <div class="title sint-title">
-    <div class="link"><h2><a href="/roles/synthetics" class="sint-color">Синтетики</a></h2></div>
+    <div class="link"><h2><a href="/roles/synthetics" class="sint-color">🦾🤖Синтетики🤖🦾</a></h2></div>
   	<div>Роль</div>
   	<div>Описание</div>
   	<div>Сложность</div>
@@ -401,7 +401,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 
 <div class="roles-table sp">
   <div class="title sp-title">
-    <div class="link"><h2><a href="/roles/spiritualisticdepartment" class="sp-color">Спиритический Отдел</a></h2></div>
+    <div class="link"><h2><a href="/roles/spiritualisticdepartment" class="sp-color">😱👻Спиритический Отдел👻😱</a></h2></div>
   	<div>Роль</div>
   	<div>Описание</div>
   	<div>Сложность</div>
