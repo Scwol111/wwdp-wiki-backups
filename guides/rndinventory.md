@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-03-24T07:52:10.210Z
+date: 2025-03-24T11:22:45.269Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -494,7 +494,7 @@ rnd_headset.png"></td>
 
 ## <p><span style="color: #f7ccff ;">Контейнеры и раздатчики </span> </p> 
 ### <p><span style="color: #C9A8CE ;">Раздатчики </span> </p> 
-<div class="table-name"><table>
+<div class="table-name tab"><table>
   <thead>
     <tr>
       <th>Раздатчик</th>
@@ -579,7 +579,7 @@ coatrobo.png">Зимнее пальто робототехника [2]</li>
 
 ### <p><span style="color: #C9A8CE ;">Контейнеры </span> </p> 
 
-<div class="table-name"><table>
+<div class="table-name tab"><table>
   <thead>
     <tr>
       <th>Контейнер</th>
