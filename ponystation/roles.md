@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-24T15:27:55.026Z
+date: 2025-03-24T23:10:05.380Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -420,4 +420,33 @@ dateCreated: 2025-03-21T20:11:50.968Z
   <div><div>Существо, которое можно купить в <a href="/ru/guides/uplink">аплинке</a> </div></div>
   <div>Легко</div> -->
 </div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Video</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        video {
+            max-width: 100%;
+            height: auto;
+            border: 2px solid #ccc;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <video controls>
+        <source src="https://cdn.discordapp.com/attachments/1233121527092744212/1353867110316507343/milo2.mp4?ex=67e33680&is=67e1e500&hm=86bdc1312097906ac85f74d0c42b762838e25722dd4341b80ad0988e45675837&" type="video/mp4">
+        Ваш браузер не поддерживает элемент <code>video</code>.
+    </video>
+</body>
+
+
 
