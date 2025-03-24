@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-24T14:12:07.452Z
+date: 2025-03-24T14:15:41.184Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -16,7 +16,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 
 ## Это полезно!
 
--   [Космический Закон](/spacelaw)
+-   [Космический Закон](/ponylaw)
 -   [Руководство по отыгрышу](/guides/roleplayingguide)
 -   [Иерархия Командования](/guides/hierarchyofcommand)
 -   [Руководства](/guides)
