@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-24T23:38:21.857Z
+date: 2025-03-24T23:41:30.567Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -32,7 +32,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 <span style="color: black;">
 <div class="roles-table comm">
   <div class="title comm-title">
-    <div class="link"><h2>Совет Дружбы</h2></div>
+    <div class="link"><h2>🌟✨Совет Дружбы✨🌟</h2></div>
   	<div>Работа</div>
   	<div>Описание</div>
   	<div>Сложность</div>
@@ -70,7 +70,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
  
 <div class="roles-table sb">
   <div class="title sb-title">
-    <div class="link"><h2>Стражи гармонии</h2></div>
+    <div class="link"><h2>💂💂‍♀️Стражи гармонии💂‍♀️💂</h2></div>
   	<div>Роль</div>
   	<div>Описание</div>
   	<div>Сложность</div>
@@ -98,7 +98,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 
 <div class="roles-table med">
   <div class="title med-title">
-    <div class="link"><h2>Больница</h2></div>
+    <div class="link"><h2>🩹🩺Больница🩺🩹</h2></div>
   	<div>Роль</div>
   	<div>Описание</div>
   	<div>Сложность</div>
@@ -123,7 +123,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 
 <div class="roles-table rnd">
   <div class="title rnd-title">
-    <div class="link"><h2>Университет</h2></div>
+    <div class="link"><h2>🌌🧑‍🏫Университет🧑‍🏫🌌</h2></div>
   	<div>Роль</div>
   	<div>Описание</div>
   	<div>Сложность</div>
@@ -145,7 +145,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 
 <div class="roles-table eng">
   <div class="title eng-title">
-    <div class="link"><h2>Инженерный отдел</h2></div>
+    <div class="link"><h2>🔨🔮Инженерный отдел🔮🔨</h2></div>
   	<div>Роль</div>
   	<div>Описание</div>
   	<div>Сложность</div>
