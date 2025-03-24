@@ -2,12 +2,16 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-02-21T11:21:42.061Z
+date: 2025-03-24T12:09:51.208Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
 ---
 
+<!--
+Ya yebal eto govno, suka!!!
+Muka soso
+-->
 <div class="headtext">
 	<center>Local_Server_Setup.txt - NotePad</center>
 </div>
