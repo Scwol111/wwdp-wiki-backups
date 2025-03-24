@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-24T15:27:14.784Z
+date: 2025-03-24T15:27:55.026Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -271,7 +271,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
   <div><a href="/roles/nuclearoperative">Храбрец Ба-Бам
 </a><a href="/ponies/traitor.png"><img src="/ponies/traitor.png" /></a></div>
   <div><div>"Отважные" магические наёмники-синдикаты. Всегда стараются быть героями, но не могут отличить лечебный зелье от лимонада, а порой путают магические палочки с бананами. ПОНИ-ОПЕРАТИВНИКИ, ВПЕРЁД! БА-БА-БУМ!</div></div>
-  <div><a href="https://www.youtube.com/watch?v=KMB6jqALLt8">БАБАХ!</a></div>
+  <div>БАБАХ!</div>
   <!--<div><a href="/roles/corticalBorer">Мозговой червь</a><a href="/roles/corticalBorer"><img src="/roles/borer.png" /></a></div>
   <div><div>Мозговые черви — идеальные паразиты, которые способны проникнуть через ухо к мозгу гуманоида. Черви способны к общению со своей жертвой из-за частичного захвата мозга и центра мыслительных процессов.</div></div>
   <div>Легко</div> -->
