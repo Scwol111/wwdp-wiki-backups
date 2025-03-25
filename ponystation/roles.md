@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-25T00:42:13.204Z
+date: 2025-03-25T00:44:11.966Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -445,7 +445,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
     <title>Image with Sound</title>
 </head>
 <body>
-    <audio id="button-sound" src="https://cdn.discordapp.com/attachments/1233121527092744212/1353891381197799497/digital-button-click-pop-davies-aguirre-1-1-00-00.mp3"></audio>
+    <audio id="button-sound" src="https://drive.google.com/file/d/1ignLJjrhJOBWqnLznYzBB8VeU6lZPh6d/view?usp=sharing"></audio>
     <img src="https://media.discordapp.net/attachments/1233121527092744212/1353889642310664304/pony.png?ex=67e34b7c&is=67e1f9fc&hm=e65b38db5f50d4f70baa971a9eb9283e6d8f0129d6dbda4acdbb0525d2f85904&=&quality=lossless" alt="Кнопка" style="cursor: pointer; width: 300px; height: auto;" onclick="playSound()">
     <script>
         function playSound() {
