@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-25T11:32:44.518Z
+date: 2025-03-25T11:40:00.031Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -76,7 +76,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>5 химикатов <br> <br> 0 Очков эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/sting_extractdna.png"><br>Поглощение ДНК</td>
+        <td><img src="/roles/antagonists/changeling/absorb_dna.png"><br>Поглощение ДНК</td>
         <td>Генокрад может поглотить цель для получения ДНК. Человека после этого нельзя будет клонировать. Помогает генокраду достичь своей цели на поглощение образцов ДНК. В случае поглощения  другого генокрада даст вам 5 дополнительных очков эволюции.</td>
         <td>0 химикатов <br> <br> 0 Очков эволюции</td>
       </tr>
@@ -104,12 +104,12 @@ dateCreated: 2024-09-25T18:36:25.247Z
     </thead>
     <tbody>
       <tr>
-         <td><img src="/roles/antagonists/changeling/sting_extract.png"><br>Извлечение ДНК</td>
+         <td><img src="/roles/antagonists/changeling/sting_extractdna.png"><br>Извлечение ДНК</td>
         <td>Бесшумно и безопасно извлекает ДНК из цели.</td>
         <td>25 химикатов <br> <br> 0 Очков эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/sting_hallucination.png"><br>Жало Галлюцинации</td>
+        <td><img src="/roles/antagonists/changeling/sting_lethargic.png"><br>Жало Галлюцинации</td>
         <td>Генокрад вкалывает большую дозу галлюциногенных препаратов в жертву. Эффект длится 30 секунд.</td>
         <td>5 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
@@ -154,7 +154,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/roles/antagonists/changeling/changeling_armor.png"><br>Хитиновая Броня</td>
+        <td><img src="/roles/antagonists/changeling/chitinous_armor.png"><br>Хитиновая Броня</td>
         <td>Генокрад покрывает себя хитиновой броней замедляющей его на <span style="color: yellow;">10%</span>. Её поддержание замедляет регенерацию химикатов на 25%.    
     <div class="table-item">
       Защита хитиновой брони:
@@ -174,12 +174,12 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>20 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/ling_organic_suit_hud.png"><br>Пустотная адаптация</td>
+        <td><img src="/roles/antagonists/changeling/space_adaptation.png"><br>Пустотная адаптация</td>
         <td>Наделяет пассивной способностью, позволяющей сопротивляться холоду, низкому давлению и потребности в кислороде. При использовании замедляет генерацию химикатов на 25%.</td>
         <td>0 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/changeling_shield.png"><br>Органический Щит</td>
+        <td><img src="/roles/antagonists/changeling/organic_shield.png"><br>Органический Щит</td>
         <td>Превращает одну из рук генокрада в большой щит из плоти. Он блокирует <span class="percent">50%</span> входящего урона и: 
     <p><span>- Отнимает <b class="percent">80%</b> <b style="color: yellow;">Тупой</b> урона</span></p>
     <p><span>- Отнимает <b class="percent">80%</b> <b style="color: yellow;">Проникающий</b> урона</span></p>   
@@ -187,7 +187,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>20 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/arm_blade.png"><br>Рука-клинок</td>
+        <td><img src="/roles/antagonists/changeling/armblade.png"><br>Рука-клинок</td>
         <td>Превращает одну из рук генокрада в клинок, сделанный из костей и плоти. Считается оружием ближнего боя. Наносит следующие повреждения(ближний бой): 
     <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">рубящего</b> урона</span></p>
     <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">проникающего</b> урона</span></p>
@@ -196,7 +196,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>20 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/tentacle_arm.png"><br>Рука-щупальце</td>
+        <td><img src="/roles/antagonists/changeling/claw.png"><br>Рука-щупальце</td>
         <td>Превращает одну из рук генокрада в щупальце. Это щупальце может быть выстрелено в сторону цели, обладая двумя эффектами - падение/притягивание.  Щупальце имеет задержку перед следующим выстрелом после использования. Считается дальнобойным оружием. Для надежного притягивания щупальцем к вам ваша цель должна стоять неподвижно.</td>
         <td>10 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
@@ -240,7 +240,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>20 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/adrenaline_sacs.png"><br>Мешки с адреналином</td>
+        <td><img src="/roles/antagonists/changeling/epinephrine_overdose.png"><br>Мешки с адреналином</td>
         <td>Впрыскивает в себя 5 единиц стимулятора, что немного подлечит и ускорит Генокрада на небольшой срок. Дает защиту от оглушения.</td>
         <td>30 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
@@ -250,12 +250,12 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>30 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/ling_krik.png"><br>Диссонирующий Вопль</td>
+        <td><img src="/roles/antagonists/changeling/shriek_dissonant.png"><br>Диссонирующий Вопль</td>
         <td>Генокрад испускает ЭМИ, который нарушает работу всего электронного оборудования вокруг. Радиус способности 5 тайлов.</td>
         <td>20 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/ling_augmented_eyesight_hud.png"><br>Аугментация Зрения</td>
+        <td><img src="/roles/antagonists/changeling/augmented_eyesight.png"><br>Аугментация Зрения</td>
         <td>Генокрад развивает дополнительные функции своих глаз, получая переключаемое ночное и термальное зрение. Генокрад уязвим к вспышкам и слепоте от сварки, пока способность активна. Когда способность неактивна, защищает вас от вспышек и сварки.</td>
         <td>0 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
