@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-25T19:54:51.133Z
+date: 2025-03-25T19:57:34.599Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -206,15 +206,16 @@ dateCreated: 2024-09-25T18:36:25.247Z
       <tr>
         <td><img src="/roles/antagonists/changeling/armblade.png"><br>Рука-клинок</td>
         <td>Превращает одну из рук генокрада в клинок, сделанный из костей и плоти. Считается оружием ближнего боя. Наносит следующие повреждения(ближний бой): 
-    <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">рубящего</b> урона</span></p>
-    <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">проникающего</b> урона</span></p>
-    <p><span> - <b style="color: red;">45</b> единиц <b style="color: yellow;">структурного </b> урона</span></p>        
+    <p><span> - <b style="color: red;">15</b> единиц <b style="color: yellow;">рубящего</b> урона</span></p>
+    <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">структурного </b> урона</span></p>        
         </td>
         <td>15 химикатов <br> <br> 4 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/claw.png"><br>Рука-щупальце</td>
-        <td>Превращает одну из рук генокрада в щупальце. Это щупальце может быть выстрелено в сторону цели, обладая двумя эффектами - падение/притягивание.  Щупальце имеет задержку перед следующим выстрелом после использования. Считается дальнобойным оружием. Для надежного притягивания щупальцем к вам ваша цель должна стоять неподвижно.</td>
+        <td><img src="/roles/antagonists/changeling/claw.png"><br>Рука-коготь</td>
+        <td>Превращает одну из рук генокрада в коготь.</td>
+    <p><span> - <b style="color: red;">15</b> единиц <b style="color: yellow;">рубящего</b> урона</span></p>
+    <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">структурного </b> урона</span></p>   
         <td>10 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
