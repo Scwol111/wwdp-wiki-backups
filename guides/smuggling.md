@@ -2,7 +2,7 @@
 title: Контрабанда
 description: Определение, какой предмет является контрабандой, а какой нет.
 published: true
-date: 2025-03-25T15:27:40.342Z
+date: 2025-03-25T15:28:14.718Z
 tags: руководство, сб
 editor: markdown
 dateCreated: 2024-09-10T19:08:02.955Z
@@ -172,7 +172,7 @@ dateCreated: 2024-09-10T19:08:02.955Z
 
 <div class="flex-table">
   <div class="title" style="background-color:#7C6C03;"><h1>Контрабанда</h1></div>
-  <div class="full">Нелегальные предметы, регулирующиеся по 402 статье <a href="/spacelaw">Космического Закона</a>.</div>
+  <div class="full">Нелегальные предметы, регулирующиеся по 303 статье <a href="/spacelaw">Космического Закона</a>.</div>
   <div>
     <img src="/guides/smuggling/lead_boxing_gloves.png" alt="lead_boxing_gloves.png" />
     <div>Свинцовые боксёрские перчатки</div>
