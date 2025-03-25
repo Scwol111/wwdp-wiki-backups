@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-25T20:19:28.438Z
+date: 2025-03-25T21:13:04.141Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -116,7 +116,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
       <tr>
         <td><img src="/roles/antagonists/changeling/sting_blind.png"><br>Жало Слепоты</td>
         <td>Генокрад скрытно жалит цель, полностью ослепляя ее на 25 секунд.</td>
-        <td>20 химикатов <br> <br> 2 Очка эволюции</td>
+        <td>20 химикатов <br> <br> 1 Очка эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/sting_mute.png"><br>Жало Безмолвия</td>
@@ -206,7 +206,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
       <tr>
         <td><img src="/roles/antagonists/changeling/armblade.png"><br>Рука-клинок</td>
         <td>Превращает одну из рук генокрада в клинок, сделанный из костей и плоти. Считается оружием ближнего боя. Наносит следующие повреждения(ближний бой): 
-    <p><span> - <b style="color: red;">15</b> единиц <b style="color: yellow;">Рубящего</b> урона</span></p>
+    <p><span> - <b style="color: red;">25</b> единиц <b style="color: yellow;">Рубящего</b> урона</span></p>
     <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">Структурного </b> урона</span></p>        
         </td>
         <td>15 химикатов <br> <br> 4 Очка эволюции</td>
