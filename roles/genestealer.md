@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-25T11:52:37.650Z
+date: 2025-03-25T12:14:36.885Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -131,8 +131,11 @@ dateCreated: 2024-09-25T18:36:25.247Z
       <tr>
         <td><img src="/roles/antagonists/changeling/sting_cryo.png"><br>Жало заморозки</td>
         <td>Генокрад вкалывает жертве смесь химикатов, которая начинает превращать ее кровь в лед. Жертва будет ходить медленнее и получать урон пока не согреется. Способность охлаждает человека на 200°C. </td>
-        <td>15 химикатов <br> <br> 2 Очка эволюции</td>
+        <td>20 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
+<td><img src="/roles/antagonists/changeling/sting_armblade.png"><br>Жало клинка</td>
+        <td>Хитроумный инструмент генокрада, позволяющий создать иллюзию клинка. При вонзении оно не только проникает в тело жертвы, но и на короткое время превращает её руку в клинок — бесполезную подделку. </td>
+      <td>50 химикатов <br> <br> 4 Очка эволюции</td>
     </tbody>
   </table>
 </center>      
@@ -155,20 +158,22 @@ dateCreated: 2024-09-25T18:36:25.247Z
     <tbody>
       <tr>
         <td><img src="/roles/antagonists/changeling/chitinous_armor.png"><br>Хитиновая Броня</td>
-        <td>Генокрад покрывает себя хитиновой броней замедляющей его на <span style="color: yellow;">10%</span>. Её поддержание замедляет регенерацию химикатов на 25%.    
+        <td>Генокрад покрывает себя хитиновой броней замедляющей его на <span style="color: yellow;">15%</span>. Её поддержание замедляет регенерацию химикатов на 25%.    
     <div class="table-item">
       Защита хитиновой брони:
     <p><span> - <b style="color: yellow;">Тупой</b> урон снижается на <b class="percent">50%</b></span></p>
     <p><span> - <b style="color: yellow;">Рубящий</b> урон снижается на <b class="percent">50%</b></span></p>
-    <p><span> - <b style="color: yellow;">Проникающий</b> урон снижается на <b class="percent">40%</b></span></p>
+    <p><span> - <b style="color: yellow;">Проникающий</b> урон снижается на <b class="percent">50%</b></span></p>
     <p><span> - <b style="color: yellow;">Тепловой</b> урон снижается на <b class="percent">50%</b></span></p>
+    <p><span> - <b style="color: yellow;">Радиационный</b> урон снижается на <b class="percent">50%</b></span></p>
+    <p><span> - <b style="color: yellow;">Кислотный</b> урон снижается на <b class="percent">50%</b></span></p>
     <p><span> - <b class="type bang">Взрывной</b> урон снижается на <b class="percent">50%</b></span></p>
       <p> </p>
       Защита хитинового шлема:
-    <p><span> - <b style="color: yellow;">Тупой</b> урон снижается на <b class="percent">20%</b></span></p>
-    <p><span> - <b style="color: yellow;">Рубящий</b> урон снижается на <b class="percent">20%</b></span></p>
-    <p><span> - <b style="color: yellow;">Проникающий</b> урон снижается на <b class="percent">15%</b></span></p>
-    <p><span> - <b style="color: yellow;">Тепловой</b> урон снижается на <b class="percent">20%</b></span></p>
+    <p><span> - <b style="color: yellow;">Тупой</b> урон снижается на <b class="percent">10%</b></span></p>
+    <p><span> - <b style="color: yellow;">Рубящий</b> урон снижается на <b class="percent">10%</b></span></p>
+    <p><span> - <b style="color: yellow;">Проникающий</b> урон снижается на <b class="percent">10%</b></span></p>
+    <p><span> - <b style="color: yellow;">Тепловой</b> урон снижается на <b class="percent">10%</b></span></p>
     </div>
         </td>
         <td>25 химикатов <br> <br> 4 Очко эволюции</td>
