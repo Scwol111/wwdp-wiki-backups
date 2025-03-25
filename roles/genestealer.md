@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-25T21:15:39.051Z
+date: 2025-03-25T21:27:46.723Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -176,7 +176,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
     <p><span> - <b style="color: yellow;">Тепловой</b> урон снижается на <b class="percent">10%</b></span></p>
     </div>
         </td>
-        <td>25 химикатов <br> <br> 4 Очко эволюции</td>
+        <td>25 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/space_adaptation.png"><br>Пустотная адаптация</td>
@@ -196,7 +196,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
     <p><span> - <b style="color: yellow;">Тепловой</b> урон снижается на <b class="percent">10%</b></span></p>
     <p><span> - <b style="color: yellow;">Радиационный</b> урон снижается на <b class="percent">75%</b></span></p>
     </div>
-        <td>20 химикатов <br> <br> 4 Очка эволюции</td>
+        <td>20 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/organic_shield.png"><br>Органический Щит</td>
@@ -217,6 +217,13 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>15 химикатов <br> <br> 4 Очка эволюции</td>
       </tr>
       <tr>
+        <td><img src="/roles/antagonists/changeling/hammer.png"><br>Рука-молот</td>
+        <td>Одна из рук Генокрада превращается в массивный молот из костей и плоти, способный отбросить цель назад мощным ударом.
+    <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">Тупого</b> урона</span></p>
+    <p><span> - <b style="color: red;">50</b> единиц <b style="color: yellow;">Структурного </b> урона</span></p>   
+        <td>15 химикатов <br> <br> 2 Очка эволюции</td>
+      </tr>
+      <tr>
         <td><img src="/roles/antagonists/changeling/claw.png"><br>Рука-коготь</td>
         <td>Превращает одну из рук генокрада в коготь.
     <p><span> - <b style="color: red;">5</b> единиц <b style="color: yellow;">Рубящего</b> урона</span></p>
@@ -230,13 +237,14 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>20 химикатов <br> <br> 2 Очко эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/hive_head.png"><br>Голова улья</td>
-        <td>Надевает на вас Голову Улья. Когда голова даёт вам возможность призвать 4 агрессивных пчёл, которые игнорируют других генокрадов и пропадут через 25 секунд после призыва. Урона пчелы за укус: <b style="color: green;">1</b> ядов и <b style="color: red;">0.5</b> уколов. Также даёт следующую защиту:
-    <p><span> - <b style="color: yellow;">Тупой</b> урон снижается на <b class="percent">10%</b></span></p>
-    <p><span> - <b style="color: yellow;">Рубящий</b> урон снижается на <b class="percent">10%</b></span></p>
-    <p><span> - <b style="color: yellow;">Проникающий</b> урон снижается на <b class="percent">10%</b></span></p>
-    <p><span> - <b style="color: yellow;">Тепловой</b> урон снижается на <b class="percent">10%</b></span></p>         
-        <td>15 химикатов <br> <br> 2 Очка эволюции</td>
+        <td><img src="/roles/antagonists/changeling/shriek_resonant.png"><br>Резонансный визг</td>
+        <td>Генокрад испускает высокочастотный звук, вызывая глухоту и дезориентацию в окружающей области, а также ослепляя всех поблизости.</td>
+        <td>30 химикатов <br> <br> 1 Очко эволюции</td>
+      </tr>
+      <tr>
+        <td><img src="/roles/antagonists/changeling/shriek_dissonant.png"><br>Диссонирующий Вопль</td>
+        <td>Генокрад испускает ЭМИ, который нарушает работу всего электронного оборудования вокруг. Радиус способности 5 тайлов.</td>
+        <td>20 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
     </tbody>
   </table>
@@ -272,11 +280,6 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td><img src="/roles/antagonists/changeling/biodegrade.png"><br>Биоразложение</td>
         <td>Растворяет наручники и другие объекты, ограничивающие движение.</td>
         <td>30 химикатов <br> <br> 2 Очка эволюции</td>
-      </tr>
-      <tr>
-        <td><img src="/roles/antagonists/changeling/shriek_dissonant.png"><br>Диссонирующий Вопль</td>
-        <td>Генокрад испускает ЭМИ, который нарушает работу всего электронного оборудования вокруг. Радиус способности 5 тайлов.</td>
-        <td>20 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/augmented_eyesight.png"><br>Аугментация Зрения</td>
