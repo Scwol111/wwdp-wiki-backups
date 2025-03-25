@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-25T11:31:44.942Z
+date: 2025-03-25T11:32:44.518Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -76,12 +76,12 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>5 химикатов <br> <br> 0 Очков эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/ling_absorb.png"><br>Поглощение ДНК</td>
+        <td><img src="/roles/antagonists/changeling/sting_extractdna.png"><br>Поглощение ДНК</td>
         <td>Генокрад может поглотить цель для получения ДНК. Человека после этого нельзя будет клонировать. Помогает генокраду достичь своей цели на поглощение образцов ДНК. В случае поглощения  другого генокрада даст вам 5 дополнительных очков эволюции.</td>
         <td>0 химикатов <br> <br> 0 Очков эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/shop.png"><br>Эволюции</td>
+        <td><img src="/roles/antagonists/changeling/evolution_menu.png"><br>Эволюции</td>
         <td>Открывает ваш уникальный магазин, где вы можете покупать себе эволюции, изначально вам доступно 10 очков эволюции.</td>
         <td>0 химикатов <br> <br> 0 Очков эволюции</td>
       </tr>
