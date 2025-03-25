@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-03-25T21:47:28.998Z
+date: 2025-03-25T21:49:41.039Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -320,7 +320,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/guardian">Хранитель</a><a href="/roles/guardian"><img src="/roles/guardian.png" /></a></div>
   <div><div>Звучит полезно.. хотя обычно им почему-то не пользуются.</div></div>
   <div>Сложно</div>
- <div><a href="/roles/changeling" class="goida"></a><a href="/roles/genestealer"><img src="/roles/changeling.gif" /></a></div>
+ <div><a href="/roles/changeling" class="goida"></a><a href="/roles/changeling"><img src="/roles/changeling.gif" /></a></div>
 <div><div>Высокоинтеллектуальный инопланетный хищник, обладающий способностью менять свой облик, чтобы выглядеть в точности как человек.. Способен создавать из своих конечностей оружие и жала с ядом."</div></div>
   <div>Сложно</div>
   <div><a href="/roles/terminator">Терминатор</a><a href="/roles/terminator"><img src="/roles/terminator.png" /></a></div>
