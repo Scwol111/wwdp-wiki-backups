@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-25T19:57:34.599Z
+date: 2025-03-25T20:19:28.438Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -206,22 +206,23 @@ dateCreated: 2024-09-25T18:36:25.247Z
       <tr>
         <td><img src="/roles/antagonists/changeling/armblade.png"><br>Рука-клинок</td>
         <td>Превращает одну из рук генокрада в клинок, сделанный из костей и плоти. Считается оружием ближнего боя. Наносит следующие повреждения(ближний бой): 
-    <p><span> - <b style="color: red;">15</b> единиц <b style="color: yellow;">рубящего</b> урона</span></p>
-    <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">структурного </b> урона</span></p>        
+    <p><span> - <b style="color: red;">15</b> единиц <b style="color: yellow;">Рубящего</b> урона</span></p>
+    <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">Структурного </b> урона</span></p>        
         </td>
         <td>15 химикатов <br> <br> 4 Очка эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/claw.png"><br>Рука-коготь</td>
-        <td>Превращает одну из рук генокрада в коготь.</td>
-    <p><span> - <b style="color: red;">15</b> единиц <b style="color: yellow;">рубящего</b> урона</span></p>
-    <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">структурного </b> урона</span></p>   
-        <td>10 химикатов <br> <br> 2 Очка эволюции</td>
+        <td>Превращает одну из рук генокрада в коготь.
+    <p><span> - <b style="color: red;">5</b> единиц <b style="color: yellow;">Рубящего</b> урона</span></p>
+    <p><span> - <b style="color: red;">15</b> единиц <b style="color: yellow;">Проникающего</b> урона</span></p>
+    <p><span> - <b style="color: red;">10</b> единиц <b style="color: yellow;">Структурного </b> урона</span></p>   
+        <td>15 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/lesser_form.png"><br>Примитивная форма</td>
         <td>Генокрад мгновенно превращается в обезьяну роняя все снаряжение на пол, в том числе и надетые на него наручники. В форме обезьяны можно использовать жала и входить в стазис. Затем генокрад может вернуться в человеческую форму, используя "Превращения". В форме обезьяны у вас заметно снижается запас здоровья.</td>
-        <td>5 химикатов <br> <br> 1 Очко эволюции</td>
+        <td>20 химикатов <br> <br> 2 Очко эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/hive_head.png"><br>Голова улья</td>
@@ -263,7 +264,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>30 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/ling_biodegrade_hud.png"><br>Биоразложение</td>
+        <td><img src="/roles/antagonists/changeling/biodegrade.png"><br>Биоразложение</td>
         <td>Растворяет наручники и другие объекты, ограничивающие движение.</td>
         <td>30 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
