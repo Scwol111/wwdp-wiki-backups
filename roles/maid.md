@@ -2,18 +2,13 @@
 title: Служанка
 description: 
 published: true
-date: 2025-03-16T15:06:18.756Z
+date: 2025-03-25T21:45:34.218Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:02:07.061Z
 ---
 
-<center>
-<div class="warning-banner-teal">
-  <h2> Статья в процессе написания</h2>
-  <p>В данный момент статья активно дополняется, обновляется и редактируется. И еще не совсем готова.</p><p>
-</div>
-</center>
+
 
 <div style="display: flex; justify-content: center;">
   <div class="roles-passport comm">
