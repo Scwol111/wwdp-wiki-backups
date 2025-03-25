@@ -2,7 +2,7 @@
 title: Администрация
 description: Стафф, педали, команда проекта.
 published: true
-date: 2024-12-10T18:17:07.098Z
+date: 2025-03-25T20:10:19.494Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:30.491Z
@@ -31,7 +31,7 @@ dateCreated: 2024-09-10T19:07:30.491Z
 </ul>
 <p>Ниже представлены текущие лидеры серверов:</p>
 <ul>
-<li><strong>Medusa</strong> - Warete <font color="#4E59E0">D</font><font color="5662F6">S</font>: <font color="818AF9">warete</font></li>
+<li><strong>Medusa</strong> - ONIKS <font color="#4E59E0">D</font><font color="5662F6">S</font>: <font color="818AF9">oniks</font></li>
 </ul>
 <h2 id="другие-игровые-ранги" class="toc-header"><a class="toc-anchor" href="#другие-игровые-ранги">¶</a> Другие игровые ранги</h2>
 <p>Обычно держатся такой же политики разделения по серверам, однако бывают<br>
