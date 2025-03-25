@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-25T19:52:15.292Z
+date: 2025-03-25T19:54:51.133Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -191,15 +191,17 @@ dateCreated: 2024-09-25T18:36:25.247Z
     <p><span> - <b style="color: yellow;">Тепловой</b> урон снижается на <b class="percent">10%</b></span></p>
     <p><span> - <b style="color: yellow;">Радиационный</b> урон снижается на <b class="percent">75%</b></span></p>
     </div>
-        <td>0 химикатов <br> <br> 4 Очка эволюции</td>
+        <td>20 химикатов <br> <br> 4 Очка эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/organic_shield.png"><br>Органический Щит</td>
         <td>Превращает одну из рук генокрада в большой щит из плоти. Он блокирует <span class="percent">50%</span> входящего урона и: 
-    <p><span>- Отнимает <b class="percent">80%</b> <b style="color: yellow;">Тупой</b> урона</span></p>
-    <p><span>- Отнимает <b class="percent">80%</b> <b style="color: yellow;">Проникающий</b> урона</span></p>   
+    <p><span>- Отнимает <b class="percent">90%</b> <b style="color: yellow;">Тупой</b> урона</span></p>
+    <p><span>- Отнимает <b class="percent">90%</b> <b style="color: yellow;">Рубящий</b> урона</span></p>  
+    <p><span>- Отнимает <b class="percent">90%</b> <b style="color: yellow;">Проникающий</b> урона</span></p>
+    <p><span>- Отнимает <b class="percent">90%</b> <b style="color: yellow;">Тепловой</b> урона</span></p>  
         </td>
-        <td>20 химикатов <br> <br> 1 Очко эволюции</td>
+        <td>20 химикатов <br> <br> 2 Очко эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/armblade.png"><br>Рука-клинок</td>
