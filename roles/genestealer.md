@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-25T11:40:00.031Z
+date: 2025-03-25T11:52:37.650Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -78,11 +78,11 @@ dateCreated: 2024-09-25T18:36:25.247Z
       <tr>
         <td><img src="/roles/antagonists/changeling/absorb_dna.png"><br>Поглощение ДНК</td>
         <td>Генокрад может поглотить цель для получения ДНК. Человека после этого нельзя будет клонировать. Помогает генокраду достичь своей цели на поглощение образцов ДНК. В случае поглощения  другого генокрада даст вам 5 дополнительных очков эволюции.</td>
-        <td>0 химикатов <br> <br> 0 Очков эволюции</td>
+        <td>25 химикатов <br> <br> 0 Очков эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/evolution_menu.png"><br>Эволюции</td>
-        <td>Открывает ваш уникальный магазин, где вы можете покупать себе эволюции, изначально вам доступно 10 очков эволюции.</td>
+        <td>Открывает ваш уникальный магазин, где вы можете покупать себе эволюции, изначально вам доступно 16 очков эволюции.</td>
         <td>0 химикатов <br> <br> 0 Очков эволюции</td>
       </tr>
     </tbody>
@@ -111,7 +111,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
       <tr>
         <td><img src="/roles/antagonists/changeling/sting_lethargic.png"><br>Жало Галлюцинации</td>
         <td>Генокрад вкалывает большую дозу галлюциногенных препаратов в жертву. Эффект длится 30 секунд.</td>
-        <td>5 химикатов <br> <br> 1 Очко эволюции</td>
+        <td>30 химикатов <br> <br> 3 Очко эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/sting_blind.png"><br>Жало Слепоты</td>
@@ -171,7 +171,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
     <p><span> - <b style="color: yellow;">Тепловой</b> урон снижается на <b class="percent">20%</b></span></p>
     </div>
         </td>
-        <td>20 химикатов <br> <br> 1 Очко эволюции</td>
+        <td>25 химикатов <br> <br> 4 Очко эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/space_adaptation.png"><br>Пустотная адаптация</td>
@@ -193,7 +193,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
     <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">проникающего</b> урона</span></p>
     <p><span> - <b style="color: red;">45</b> единиц <b style="color: yellow;">структурного </b> урона</span></p>        
         </td>
-        <td>20 химикатов <br> <br> 2 Очка эволюции</td>
+        <td>15 химикатов <br> <br> 4 Очка эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/claw.png"><br>Рука-щупальце</td>
