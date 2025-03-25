@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-25T19:52:09.741Z
+date: 2025-03-25T19:52:15.292Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -184,7 +184,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
     <p><span> - <b style="color: yellow;">Тепловой</b> урон снижается на <b class="percent">50%</b></span></p>
     <p><span> - <b class="type bang">Взрывной</b> урон снижается на <b class="percent">80%</b></span></p>
       <p> </p>
-      Защита хитинового шлема:
+      Защита органического шлема:
     <p><span> - <b style="color: yellow;">Тупой</b> урон снижается на <b class="percent">10%</b></span></p>
     <p><span> - <b style="color: yellow;">Рубящий</b> урон снижается на <b class="percent">10%</b></span></p>
     <p><span> - <b style="color: yellow;">Проникающий</b> урон снижается на <b class="percent">5%</b></span></p>
