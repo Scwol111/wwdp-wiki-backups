@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-24T23:51:59.814Z
+date: 2025-03-25T00:05:50.604Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -69,7 +69,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
+<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353879374574784614/e05b896f12e9624289624e5562170d8f.png?ex=67e341ec&is=67e1f06c&hm=37f1467ee72a67a491e18aa8e1d8594f11873df0246f6518ac2e99dff5e38ee3&=&quality=lossless">
 <div class="roles-table sb">
   <div class="title sb-title">
     <div class="link"><h2>💂💂‍♀️Стражи гармонии💂‍♀️💂</h2></div>
@@ -99,7 +99,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
+<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353879374574784614/e05b896f12e9624289624e5562170d8f.png?ex=67e341ec&is=67e1f06c&hm=37f1467ee72a67a491e18aa8e1d8594f11873df0246f6518ac2e99dff5e38ee3&=&quality=lossless">
 <div class="roles-table med">
   <div class="title med-title">
     <div class="link"><h2>🩹🩺Больница🩺🩹</h2></div>
@@ -126,7 +126,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
+<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353879374574784614/e05b896f12e9624289624e5562170d8f.png?ex=67e341ec&is=67e1f06c&hm=37f1467ee72a67a491e18aa8e1d8594f11873df0246f6518ac2e99dff5e38ee3&=&quality=lossless">
 <div class="roles-table rnd">
   <div class="title rnd-title">
     <div class="link"><h2>🌌🧑‍🏫Университет🧑‍🏫🌌</h2></div>
@@ -150,7 +150,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
+<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353879374574784614/e05b896f12e9624289624e5562170d8f.png?ex=67e341ec&is=67e1f06c&hm=37f1467ee72a67a491e18aa8e1d8594f11873df0246f6518ac2e99dff5e38ee3&=&quality=lossless">
 <div class="roles-table eng">
   <div class="title eng-title">
     <div class="link"><h2>🔨🔮Инженерный отдел🔮🔨</h2></div>
@@ -173,7 +173,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
+<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353879374574784614/e05b896f12e9624289624e5562170d8f.png?ex=67e341ec&is=67e1f06c&hm=37f1467ee72a67a491e18aa8e1d8594f11873df0246f6518ac2e99dff5e38ee3&=&quality=lossless">
 <div class="roles-table cargo">
   <div class="title cargo-title">
     <div class="link"><h2>🎁📦Отдел Снабжения📦🎁</h2></div>
@@ -193,7 +193,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
+<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353879374574784614/e05b896f12e9624289624e5562170d8f.png?ex=67e341ec&is=67e1f06c&hm=37f1467ee72a67a491e18aa8e1d8594f11873df0246f6518ac2e99dff5e38ee3&=&quality=lossless">
 <div class="roles-table just">
   <div class="title just-title">
     <div class="link"><h2>🫶👨‍⚖️Отдел по решению споров👨‍⚖️🫶</h2></div>
@@ -207,7 +207,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
+<p><p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353879374574784614/e05b896f12e9624289624e5562170d8f.png?ex=67e341ec&is=67e1f06c&hm=37f1467ee72a67a491e18aa8e1d8594f11873df0246f6518ac2e99dff5e38ee3&=&quality=lossless">
 <div class="roles-table serv">
   <div class="title serv-title">
     <div class="link"><h2>🧑‍🍼💗Отдел Радужной Заботы💗🧑‍🍼</h2></div>
@@ -233,7 +233,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
   <div>Страж Чистоты и Уюта<img src="/ponies/service/janitor.png" /></div>
   <div><div>Отвечает за порядок и чистоту, используя магическую тряпку, которая может сделать станцию блестящей. С радостью выполняет свою миссию, даже если иногда ей приходится иметь дело с самым неожиданным беспорядком.</div></div>
   <div>Легко</div>
-  <div>Мастер Забав и Шуток<img src="/ponies/service/clown.png" /></div>
+  <div>Мастер Забав и Шуток<img height="100px" width="100px"src="/ponies/service/clowncreepy.png" /></div>
   <div><div>Постоянный источник смеха и радости в понитауне. Использует свои таланты, чтобы организовать шоу и поднять настроение всем окружающим. Иногда превращает обычный день в настоящее представление.</div></div>
   <div>ХОНК!</div>
   <div>Загадочный Мим<img src="/ponies/service/mime.png" /></div>
@@ -272,7 +272,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p>
 <p>
-<p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
+<p><img height=15 width=300% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353879374574784614/e05b896f12e9624289624e5562170d8f.png?ex=67e341ec&is=67e1f06c&hm=37f1467ee72a67a491e18aa8e1d8594f11873df0246f6518ac2e99dff5e38ee3&=&quality=lossless">
 
 <div class="roles-table antag">
   <div class="title antag-title">
