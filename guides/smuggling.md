@@ -2,7 +2,7 @@
 title: Контрабанда
 description: Определение, какой предмет является контрабандой, а какой нет.
 published: true
-date: 2025-03-17T19:58:58.411Z
+date: 2025-03-25T15:27:40.342Z
 tags: руководство, сб
 editor: markdown
 dateCreated: 2024-09-10T19:08:02.955Z
@@ -208,10 +208,6 @@ dateCreated: 2024-09-10T19:08:02.955Z
   <div>
     <img src="/guides/smuggling/robust_nukie.png" alt="robust_nukie.png" />
     <div>Нюка Робаст</div>
-  </div>
-  <div>
-    <img src="/guides/smuggling/viper.png" alt="viper.png" />
-    <div>Мелкокалиберное оружие</div>
   </div>
   <div>
     <img src="/guides/smuggling/doorjack.png" alt="doorjack.png" />
