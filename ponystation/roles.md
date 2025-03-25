@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-25T00:05:50.604Z
+date: 2025-03-25T00:42:13.204Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -24,7 +24,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 
 -   [Законы дружбы!](/ponylaw)
 -   [Руководство по обнимашкам!](/guides/roleplayingguide)
--   [Взаимоотношения друзей!](/guides/hierarchyofcommand)
+-   [Взаимоотношения друзей!](/guides/hierarchyofcommand)                     
 -   [Книжки помощи!](/guides)
 -   [Карта понитауна](https://wwdp.ee/maps)
 
@@ -438,6 +438,23 @@ dateCreated: 2025-03-21T20:11:50.968Z
   <div>Легко</div> -->
 </div>
 <p><img height=300 width=100% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
+  
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image with Sound</title>
+</head>
+<body>
+    <audio id="button-sound" src="https://cdn.discordapp.com/attachments/1233121527092744212/1353891381197799497/digital-button-click-pop-davies-aguirre-1-1-00-00.mp3"></audio>
+    <img src="https://media.discordapp.net/attachments/1233121527092744212/1353889642310664304/pony.png?ex=67e34b7c&is=67e1f9fc&hm=e65b38db5f50d4f70baa971a9eb9283e6d8f0129d6dbda4acdbb0525d2f85904&=&quality=lossless" alt="Кнопка" style="cursor: pointer; width: 300px; height: auto;" onclick="playSound()">
+    <script>
+        function playSound() {
+            const sound = document.getElementById('button-sound');
+            sound.play();
+        }
+    </script>
+</body>
+
 
 <head>
     <meta charset="UTF-8">
