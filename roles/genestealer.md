@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-25T19:47:00.656Z
+date: 2025-03-25T19:52:09.741Z
 tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -116,7 +116,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
       <tr>
         <td><img src="/roles/antagonists/changeling/sting_blind.png"><br>Жало Слепоты</td>
         <td>Генокрад скрытно жалит цель, полностью ослепляя ее на 25 секунд.</td>
-        <td>25 химикатов <br> <br> 1 Очка эволюции</td>
+        <td>20 химикатов <br> <br> 2 Очка эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/sting_mute.png"><br>Жало Безмолвия</td>
@@ -175,8 +175,23 @@ dateCreated: 2024-09-25T18:36:25.247Z
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/space_adaptation.png"><br>Пустотная адаптация</td>
-        <td>Наделяет пассивной способностью, позволяющей сопротивляться холоду, низкому давлению и потребности в кислороде. При использовании замедляет генерацию химикатов на 25%.</td>
-        <td>0 химикатов <br> <br> 2 Очка эволюции</td>
+        <td>Генокрад покрывает себя органическим костюмом. 
+    <div class="table-item">
+      Защита органического костюма:
+    <p><span> - <b style="color: yellow;">Тупой</b> урон снижается на <b class="percent">5%</b></span></p>
+    <p><span> - <b style="color: yellow;">Рубящий</b> урон снижается на <b class="percent">5%</b></span></p>
+    <p><span> - <b style="color: yellow;">Проникающий</b> урон снижается на <b class="percent">0%</b></span></p>
+    <p><span> - <b style="color: yellow;">Тепловой</b> урон снижается на <b class="percent">50%</b></span></p>
+    <p><span> - <b class="type bang">Взрывной</b> урон снижается на <b class="percent">80%</b></span></p>
+      <p> </p>
+      Защита хитинового шлема:
+    <p><span> - <b style="color: yellow;">Тупой</b> урон снижается на <b class="percent">10%</b></span></p>
+    <p><span> - <b style="color: yellow;">Рубящий</b> урон снижается на <b class="percent">10%</b></span></p>
+    <p><span> - <b style="color: yellow;">Проникающий</b> урон снижается на <b class="percent">5%</b></span></p>
+    <p><span> - <b style="color: yellow;">Тепловой</b> урон снижается на <b class="percent">10%</b></span></p>
+    <p><span> - <b style="color: yellow;">Радиационный</b> урон снижается на <b class="percent">75%</b></span></p>
+    </div>
+        <td>0 химикатов <br> <br> 4 Очка эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/organic_shield.png"><br>Органический Щит</td>
