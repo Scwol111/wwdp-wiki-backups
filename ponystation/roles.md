@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-25T00:54:19.599Z
+date: 2025-03-26T08:25:05.866Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -437,7 +437,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
   <div><div>Существо, которое можно купить в <a href="/ru/guides/uplink">аплинке</a> </div></div>
   <div>Легко</div> -->
 </div>
-<p><img height=300 width=100% class="big" src="https://media.discordapp.net/attachments/1233121527092744212/1353872508885139516/Princess-Celestia-PNG-File.png?ex=67e33b87&is=67e1ea07&hm=1bbe99ebb62976bad9dc6084db90dc57f20244200556a2120be231fb3d354c38&=&quality=lossless">
+<p><img height=300 width=100% class="big" src="ru/ponies/meme/princess-celestia-png-file.png">
 
 <head>
     <meta charset="UTF-8">
@@ -462,13 +462,8 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </head>
 <body>
     <video controls>
-        <source src="https://cdn.discordapp.com/attachments/1233121527092744212/1353867110316507343/milo2.mp4?ex=67e33680&is=67e1e500&hm=86bdc1312097906ac85f74d0c42b762838e25722dd4341b80ad0988e45675837&" type="video/mp4">
+        <source src="ru/ponies/meme/milo.mp4" type="video/mp4">
         Ваш браузер не поддерживает элемент <code>video</code>.
-    </video>
-    <p><video controls>
-        <source src="https://cdn.discordapp.com/attachments/1233121527092744212/1353867111298109513/milo.mp4?ex=67e33680&is=67e1e500&hm=7b714ba477d3a451259949a4521f849e42a1a3f3c12b6215de6a78e86567494a&" type="video/mp4">
-        Ваш браузер не поддерживает элемент <code>video</code>.
-    </video>
 </body>
 <p>
 
