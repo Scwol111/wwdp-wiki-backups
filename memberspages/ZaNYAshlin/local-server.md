@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-03-26T07:43:56.935Z
+date: 2025-03-26T07:44:45.860Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -21,12 +21,6 @@ Muka soso
 <div class="term">
 <h1><center>Запуск локального сервера</center></h1>
 В этом руководстве вы научитесь развёртывать локальный сервер любого проекта с открытым билдом на базе Einstein Engines, в том числе WWDP.
-  
-<button onclick="displayText()">Click Me!</button>
-
-<div id="textField" style="display: none;">
-  This is the text that appears when you click the button.
-</div>
 
   
 <h2><center>Cборка через скрипт</center></h2>
