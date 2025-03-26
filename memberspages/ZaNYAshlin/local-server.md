@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-03-26T08:02:32.338Z
+date: 2025-03-26T08:03:15.949Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -23,18 +23,8 @@ Muka soso
 В этом руководстве вы научитесь развёртывать локальный сервер любого проекта с открытым билдом на базе Einstein Engines, в том числе WWDP.
 
 <!--govno_start-->
-  <button onclick='toggleVisibility()'>Показать/Скрыть</button>
+<button onclick='toggleVisibility()'>Показать/Скрыть</button>
 <div id='hiddenDiv' style='display:none'>Скрытый текст</div>
-<script>
-function toggleVisibility() {
-    let element = document.getElementById('hiddenDiv');
-    if (element.style.display === 'none') {
-        element.style.display = 'block';
-    } else {
-        element.style.display = 'none';
-    }
-}
-</script>
 <!--govno_end-->
   
   
