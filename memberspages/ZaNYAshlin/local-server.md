@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-03-26T08:04:15.791Z
+date: 2025-03-26T08:04:43.763Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -12,12 +12,6 @@ dateCreated: 2025-01-13T15:10:02.822Z
 Ya yebal eto govno, suka!!!
 Muka soso
 -->
-
-<!--govno_start-->
-<button onclick='toggleVisibility()'>Показать/Скрыть</button>
-<div id='hiddenDiv' style='display:none'>Скрытый текст</div>
-<!--govno_end-->
-
 <div class="buttons">
   <label class="butt">⎯⠀❐⠀⤬</label>
 </div>
