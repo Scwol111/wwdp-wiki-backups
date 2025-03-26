@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-26T14:03:01.043Z
+date: 2025-03-26T14:44:13.499Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -467,4 +467,60 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </body>
 <p>
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Фиксированное окно с видео</title>
+    <style>
+        /* Стили для фиксированного окна */
+        .video-popup {
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+            width: 300px;
+            height: 170px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            z-index: 1000;
+            overflow: hidden;
+        }
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        .close-btn {
+            position: absolute;
+            top: 5px;
+            right: 5px;
+            background: red;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            font-size: 14px;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <!-- Фиксированное видео -->
+    <div class="video-popup" id="videoPopup">
+        <button class="close-btn" onclick="closePopup()">×</button>
+        <iframe src="/ponies/meme/milo.mp4" allow="autoplay"></iframe>
+    </div>
+
+    <script>
+        // Функция для скрытия видео
+        function closePopup() {
+            document.getElementById('videoPopup').style.display = 'none';
+        }
+    </script>
+</body>
 
