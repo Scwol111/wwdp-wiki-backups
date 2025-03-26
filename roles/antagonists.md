@@ -2,7 +2,7 @@
 title: Антагонисты
 description: 
 published: true
-date: 2025-03-25T21:48:05.518Z
+date: 2025-03-26T08:43:18.955Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-20T13:01:40.598Z
@@ -135,7 +135,7 @@ dateCreated: 2024-10-20T13:01:40.598Z
 
 <div class="role">
 <div class="rolename"><a href="/roles/changeling" class="custom-link">Генокрад</a></div>
-<div class="roleimg"><img src="/roles/changeling.gif"></div>
+<div class="roleimg"><a href="/roles/changeling" class="custom-link"><img src="/roles/changeling.gif"></a></div>
 <div class="roleheadlabel">Подчиняется:</div>
 <div class="rolehead">Синдикату, вероятнее всего </div>
 <div class="roledesclabel">Описание:</div>  
