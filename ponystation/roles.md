@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-26T16:25:27.891Z
+date: 2025-03-26T16:27:30.662Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -282,42 +282,42 @@ dateCreated: 2025-03-21T20:11:50.968Z
   	<div>Сложность</div>
   </div>
   <div><a href="/roles/traitor">Тенистая Искра
-</a><a href="/roles/traitor"><img src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
+</a><a href="/roles/traitor"><img width height="100px" src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
   <div><div>Скрытная пони с загадочным взглядом и капюшоном. Говорят, она освободила магическую сингулярность, вызвала взрывные дожди и исчезла на своем понитаун-шаттле, оставляя лишь загадки.</div></div>
   <div>Сложно</div>
   <div><a href="/roles/nuclearoperative">Храбрец Ба-Бам
-</a><a href="/ponies/traitor.png"><img src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
+</a><a href="/ponies/traitor.png"><img width height="100px" src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
   <div><div>"Отважные" магические наёмники-синдикаты. Всегда стараются быть героями, но не могут отличить лечебный зелье от лимонада, а порой путают магические палочки с бананами. ПОНИ-ОПЕРАТИВНИКИ, ВПЕРЁД! БА-БА-БУМ!</div></div>
   <div>БАБАХ!</div>
   <!--<div><a href="/roles/corticalBorer">Мозговой червь</a><a href="/roles/corticalBorer"><img src="/roles/borer.png" /></a></div>
   <div><div>Мозговые черви — идеальные паразиты, которые способны проникнуть через ухо к мозгу гуманоида. Черви способны к общению со своей жертвой из-за частичного захвата мозга и центра мыслительных процессов.</div></div>
   <div>Легко</div> -->
   <div><a href="/roles/thief">Прыткая Лапка
-</a><a href="/roles/thief"><img src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
+</a><a href="/roles/thief"><img width height="100px" src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
   <div><div>Весёлая пони с быстрыми копытами. Прежде чем ты оглянешься, твоя ценная подкова или любимая шляпа уже исчезли! "Я? Конечно, нет!"</div></div>
   <div>Средне</div>
   <div><a href="/roles/cultist">Руна Сумерек
-</a><a href="/roles/cultist"><img src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
+</a><a href="/roles/cultist"><img width height="100px" src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
   <div><div>Загадочная пони с кроваво-красной гривой и сияющими рунами на боку. Она заходит в кафе в поисках мистического эликсира и подмигивает, говоря: "То, что доктор прописал!"</div></div>
   <div>Сложно</div>
   <div><a href="/roles/revolution">Свободная Гривка
-</a><a href="/roles/revolution"><img src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
+</a><a href="/roles/revolution"><img width height="100px" src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
   <div><div>Восторженная пони с магическим фонариком, способным запустить пламенные речи и пони-корпорации. Она вдохновляет других, крича: "За свободу и летающие бублики!"</div></div>
   <div>Средне</div>
   <div><a href="/roles/patientzero">Маазгия Мозг
-</a><a href="/roles/patientzero"><img src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
+</a><a href="/roles/patientzero"><img width height="100px" src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
   <div><div>"Приветствую, дружище! О, нет! Ааааааааа!" – эта пони быстро превращается в "Маазгия-пони" и становится звездой всех ночных сказок. Так что держись подальше, если ты не уверен в её здоровье!</div></div>
   <div>Мааазги...</div>
   <div><a href="/roles/spaceninja">Зелёная Тень
-</a><a href="/roles/spaceninja"><img src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
+</a><a href="/roles/spaceninja"><img width height="100px" src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
   <div><div>Тенистая пони с ярко-зелёным хвостом, всегда на шаг впереди (если её магическая батарея не разрядится в самый неподходящий момент!). Настоящий мастер искусства исчезновения.</div></div>
   <div>Сложно</div>
   <div><a href="/roles/pirate">Сердце Грабителя
-</a><a href="/roles/pirate"><img src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
+</a><a href="/roles/pirate"><img width height="100px" src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
   <div><div>Шармующая пони с пиратской шляпой, способная украсть не только сундуки с сокровищами, но и твое сердце! "Покажите мне сундук! Или любовное письмо!"</div></div>
   <div>Сложно</div>
   <div><a href="/roles/revenant">Призрачная Пони
-</a><a href="/roles/revenant"><img src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
+</a><a href="/roles/revenant"><img width height="100px" src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
   <div><div>Призрачная пони, появляющаяся из тумана. Говорят, если услышишь её призрачное ржание, лучше собраться в компании друзей, чтобы не стать частью её игры в прятки.</div></div>
   <div>Средне</div>
   <div><a href="/roles/skeletonfromcloset">Шкафик Бу
@@ -341,18 +341,18 @@ dateCreated: 2025-03-21T20:11:50.968Z
   <div>Сложно</div>
 -->
   <div><a href="/roles/terminator">Техно-Копыто
-</a><a href="/roles/terminator"><img src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
+</a><a href="/roles/terminator"><img width height="100px" src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
   <div><div>Суперсовременная пони-робот, которая выглядит грозно, но иногда её можно уговорить на матч пони-баскетбола вместо битвы.</div></div>
   <div>Легко</div>
  <!-- <div><a href="/roles/wizard">Маг</a><a href="/roles/wizard"><img src="/roles/wizard_real.png" /></a></div>
   <div><div>FORTI GY AMA!! Заставьте всех ненавидеть вас за убийство всей станции. HONK FOR ME!!! Превратите весь экипаж в клоунов. ONI SOMA!!! Умрите от клоуна с жезлом нулификации.</div></div>
   <div>Очень сложно</div>-->
   <div><a href="/roles/paradox-anomaly" class="is-internal-link is-valid-page">Копытная Загадка
-</a><a href="/roles/paradox-anomaly"><img src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
+</a><a href="/roles/paradox-anomaly"><img width height="100px" src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
   <div><div>Пони-загадка, которая стремится подружиться со своим зеркальным клоном. Вместе они создают шоу "Двойное чудо дружбы!"</div></div>
   <div>Достаточно сложно</div>
   <div><a href="/roles/listening_post_operative" class="is-internal-link is-valid-page">Тихий Слушатель
-</a><a href="/roles/listening_post_operative"><img src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
+</a><a href="/roles/listening_post_operative"><img width height="100px" src="/ponies/meme/pinkie_pie_exe.png" /></a></div>
   <div><div>Тихая пони с огромными ушами и невидимой записью. Она знает всё о тайных разговорах, особенно о том, кто съел последний пончик в кафе!</div></div>
   <div>Легко</div>
   <div><a href="/roles/headcrabs" class="is-internal-link is-valid-page">Прыгающие Проказники</a><a href="/roles/headcrabs"><img src="/roles/headcrabs.png" /></a></div>
