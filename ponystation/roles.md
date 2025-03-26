@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-26T14:51:19.102Z
+date: 2025-03-26T14:56:38.199Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -472,28 +472,25 @@ dateCreated: 2025-03-21T20:11:50.968Z
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Фиксированное окно с видео</title>
     <style>
-        /* Фиксированное окно */
+        /* Стили для фиксированного окна */
         .video-popup {
             position: fixed;
-            bottom: 20px; /* Расстояние от нижнего края */
-            right: 20px; /* Расстояние от правого края */
-            width: 320px; /* Ширина окна */
-            height: 180px; /* Высота окна */
-            background-color: #fff; /* Цвет фона */
-            border: 1px solid #ccc; /* Рамка */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Тень */
-            border-radius: 10px; /* Скругление углов */
-            overflow: hidden; /* Обрезка содержимого */
-            z-index: 1000; /* Приоритет */
+            bottom: 10px;
+            right: 10px;
+            width: 300px;
+            height: 170px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            z-index: 1000;
+            overflow: hidden;
         }
-
         iframe {
             width: 100%;
             height: 100%;
-            border: none; /* Без рамки */
+            border: none;
         }
-
-        /* Кнопка закрытия */
         .close-btn {
             position: absolute;
             top: 5px;
@@ -518,14 +515,6 @@ dateCreated: 2025-03-21T20:11:50.968Z
         <button class="close-btn" onclick="closePopup()">×</button>
         <iframe src="https://www.youtube.com/embed/R9RC2MkCj0M?autoplay=1" allow="autoplay"></iframe>
     </div>
-
-    <script>
-        // Функция для закрытия окна
-        function closePopup() {
-            const videoPopup = document.getElementById('videoPopup');
-            videoPopup.style.display = 'none';
-        }
-    </script>
 </body>
 
 
