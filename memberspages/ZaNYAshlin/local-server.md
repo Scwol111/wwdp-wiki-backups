@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-03-24T12:44:26.168Z
+date: 2025-03-26T07:31:13.448Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -13,7 +13,7 @@ Ya yebal eto govno, suka!!!
 Muka soso
 -->
 <div class="buttons">
-  <label class="butt">BUTTON BUTTON BUTTON</label>
+  <label class="butt">⎯⠀❐⠀⤬</label>
 </div>
 <div class="headtext">
   <label>Local_Server_Setup.txt - NotePad</label>
