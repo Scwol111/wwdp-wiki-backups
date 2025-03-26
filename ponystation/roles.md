@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-26T14:45:48.417Z
+date: 2025-03-26T14:49:25.436Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -513,7 +513,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
     <!-- Фиксированное видео -->
     <div class="video-popup" id="videoPopup">
         <button class="close-btn" onclick="closePopup()">×</button>
-        <iframe src="https://www.youtube.com/watch?v=R9RC2MkCj0M&ab_channel=SoapYulyaASMR" allow="autoplay"></iframe>
+        <iframe src="https://www.youtube.com/embed/R9RC2MkCj0M?autoplay=1" allow="autoplay"></iframe>
     </div>
 
     <script>
@@ -523,4 +523,5 @@ dateCreated: 2025-03-21T20:11:50.968Z
         }
     </script>
 </body>
+
 
