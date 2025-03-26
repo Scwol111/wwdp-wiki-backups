@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-26T14:49:25.436Z
+date: 2025-03-26T14:49:31.593Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -515,13 +515,6 @@ dateCreated: 2025-03-21T20:11:50.968Z
         <button class="close-btn" onclick="closePopup()">×</button>
         <iframe src="https://www.youtube.com/embed/R9RC2MkCj0M?autoplay=1" allow="autoplay"></iframe>
     </div>
-
-    <script>
-        // Функция для скрытия видео
-        function closePopup() {
-            document.getElementById('videoPopup').style.display = 'none';
-        }
-    </script>
 </body>
 
 
