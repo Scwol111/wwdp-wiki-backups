@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-26T14:56:38.199Z
+date: 2025-03-26T14:57:38.801Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -476,9 +476,9 @@ dateCreated: 2025-03-21T20:11:50.968Z
         .video-popup {
             position: fixed;
             bottom: 10px;
-            right: 10px;
-            width: 300px;
-            height: 170px;
+            right: 1px;
+            width: 100%;
+            height: 150px;
             background-color: #fff;
             border: 1px solid #ccc;
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
