@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-26T08:22:54.311Z
+date: 2025-03-26T08:28:04.335Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -307,6 +307,11 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td><img src="/roles/antagonists/changeling/biodegrade.png"><br>Биоразложение</td>
         <td>Растворяет наручники и другие объекты, ограничивающие движение.</td>
         <td>30 химикатов <br> <br> 2 Очка эволюции</td>
+      </tr>
+      <tr>
+        <td><img src="/roles/antagonists/changeling/last_resort.png"><br>Последний шанс</td>
+        <td>Растворяет наручники и другие объекты, ограничивающие движение.</td>
+        <td>20 химикатов <br> <br> 1 Очка эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/augmented_eyesight.png"><br>Аугментация Зрения</td>
