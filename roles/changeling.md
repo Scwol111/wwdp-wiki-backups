@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-26T08:38:55.890Z
+date: 2025-03-26T08:44:39.733Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -352,7 +352,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>Нужно будет убить одного из членов экипажа и добиться того, чтобы до конца раунда он был мёртв.</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/ling_absorb.png"><br>Поглотить ДНК</td>
+        <td><img src="/roles/antagonists/changeling/brain.png"><br>Поглотить ДНК</td>
         <td>Средняя</td>
         <td>Нужно, используя способность "Поглощение ДНК", поглотить N-ное количество людей.</td>
       </tr>
