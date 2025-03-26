@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-26T08:44:39.733Z
+date: 2025-03-26T08:52:21.342Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -372,7 +372,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>Вы должны улететь со станции на шаттле, будучи живым и не скованным в наручники.</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/transform.png"><br>Сбежать с чужой личностью</td>
+        <td><img src="/roles/antagonists/changeling/blink.png"><br>Сбежать с чужой личностью</td>
         <td>Средняя</td>
         <td>Необходимо улететь со станции на шаттле, используя личность своей цели.</td>
       </tr>
