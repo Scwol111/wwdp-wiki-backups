@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-26T14:57:38.801Z
+date: 2025-03-26T15:03:19.568Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -439,7 +439,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </div>
 <p><img height=300 width=100% class="big" src="/ponies/meme/princess-celestia-png-file.png">
 
-<head>
+<head >
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Centered Video</title>
@@ -460,11 +460,12 @@ dateCreated: 2025-03-21T20:11:50.968Z
         }
     </style>
 </head>
-<body>
+    <div class="video-popup" id="videoPopup">
     <video controls>
         <source src="/ponies/meme/milo.mp4" type="video/mp4">
         Ваш браузер не поддерживает элемент <code>video</code>.
-</body>
+ </div>
+
 <p>
 
 <head>
@@ -476,9 +477,9 @@ dateCreated: 2025-03-21T20:11:50.968Z
         .video-popup {
             position: fixed;
             bottom: 10px;
-            right: 1px;
-            width: 100%;
-            height: 150px;
+            right: 32,5% ;
+            width: 35%;
+            height: 20%;
             background-color: #fff;
             border: 1px solid #ccc;
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
@@ -509,12 +510,22 @@ dateCreated: 2025-03-21T20:11:50.968Z
         }
     </style>
 </head>
-<body>
-    <!-- Фиксированное видео -->
-    <div class="video-popup" id="videoPopup">
-        <button class="close-btn" onclick="closePopup()">×</button>
-        <iframe src="https://www.youtube.com/embed/R9RC2MkCj0M?autoplay=1" allow="autoplay"></iframe>
-    </div>
-</body>
 
-
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
