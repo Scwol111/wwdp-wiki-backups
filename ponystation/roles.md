@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: false
-date: 2025-03-26T08:25:05.866Z
+date: 2025-03-26T08:25:58.406Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -437,7 +437,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
   <div><div>Существо, которое можно купить в <a href="/ru/guides/uplink">аплинке</a> </div></div>
   <div>Легко</div> -->
 </div>
-<p><img height=300 width=100% class="big" src="ru/ponies/meme/princess-celestia-png-file.png">
+<p><img height=300 width=100% class="big" src="ponies/meme/princess-celestia-png-file.png">
 
 <head>
     <meta charset="UTF-8">
@@ -462,7 +462,7 @@ dateCreated: 2025-03-21T20:11:50.968Z
 </head>
 <body>
     <video controls>
-        <source src="ru/ponies/meme/milo.mp4" type="video/mp4">
+        <source src="ponies/meme/milo.mp4" type="video/mp4">
         Ваш браузер не поддерживает элемент <code>video</code>.
 </body>
 <p>
