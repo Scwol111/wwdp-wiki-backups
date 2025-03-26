@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-26T08:52:21.342Z
+date: 2025-03-26T08:56:29.442Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -342,34 +342,9 @@ dateCreated: 2024-09-25T18:36:25.247Z
     </thead>
     <tbody>
       <tr>
-        <td><img src="/roles/traitor/black_gloves.png"><br>Кража особо ценного предмета</td>
-        <td>От средней до сложной</td>
-        <td>Нужно украсть один из <a href="/guides/especiallyvaluableitems">особо ценных предметов</a>.</td>
-      </tr>
-      <tr>
-        <td><img src="/roles/antagonists/changeling/reviving_stasis.png"><br>Убийство</td>
-        <td>От средней до сложной</td>
-        <td>Нужно будет убить одного из членов экипажа и добиться того, чтобы до конца раунда он был мёртв.</td>
-      </tr>
-      <tr>
         <td><img src="/roles/antagonists/changeling/brain.png"><br>Поглотить ДНК</td>
         <td>Средняя</td>
         <td>Нужно, используя способность "Поглощение ДНК", поглотить N-ное количество людей.</td>
-      </tr>
-      <tr>
-        <td><img src="/roles/antagonists/changeling/dohuadnk.png"><br>Поглотить как можно больше ДНК</td>
-        <td>От средней до сложной</td>
-        <td>Нужно, используя способность "Поглощение ДНК", поглотить больше людей, чем остальные члены роя.</td>
-      </tr>
-      <tr>
-        <td><img src="/roles/antagonists/changeling/tentacle_arm.png"><br>Поглотить другого генокрада</td>
-        <td>Сложная</td>
-        <td>Найти и поглотить другого генокрада.</td>
-      </tr>
-      <tr>
-        <td><img src="/roles/traitor/adrenalimp.png"><br>Сбежать</td>
-        <td>Средняя</td>
-        <td>Вы должны улететь со станции на шаттле, будучи живым и не скованным в наручники.</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/blink.png"><br>Сбежать с чужой личностью</td>
