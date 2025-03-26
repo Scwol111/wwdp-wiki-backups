@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-03-26T08:56:29.442Z
+date: 2025-03-26T09:03:40.659Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -341,6 +341,16 @@ dateCreated: 2024-09-25T18:36:25.247Z
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td><img src="/roles/antagonists/changeling/stasis_exit.png"><br>Выжить</td>
+        <td>Средняя</td>
+        <td>Вы должны выжить, не смотря ни на что.</td>
+      </tr>
+      <tr>
+        <td><img src="/roles/antagonists/changeling/dead.png"><br>А</td>
+        <td>Средняя</td>
+        <td></td>
+      </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/brain.png"><br>Поглотить ДНК</td>
         <td>Средняя</td>
