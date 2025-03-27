@@ -2,7 +2,7 @@
 title: Пони правила
 description: 
 published: false
-date: 2025-03-27T20:31:01.713Z
+date: 2025-03-27T20:31:47.470Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:21:25.321Z
@@ -146,6 +146,7 @@ dateCreated: 2025-03-21T20:21:25.321Z
 
 Ибо лишь через эротический ролевой отыгрыш вы сможете достичь истинного безумия и познать всю глубину Бездны! <span class="t-red">Да будет так!</span>
     <p id="hiddenText" style="display: none;">Этот текст скрыт</p>
+<button onclick="document.getElementById('hiddenText').style.display='block'">Показать текст</button>
   </ul>
 </ol>
   </div>
