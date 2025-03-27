@@ -2,7 +2,7 @@
 title: Пони правила
 description: 
 published: false
-date: 2025-03-27T20:31:47.470Z
+date: 2025-03-27T20:34:10.550Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:21:25.321Z
@@ -145,8 +145,23 @@ dateCreated: 2025-03-21T20:21:25.321Z
 Пусть ваши тела сплетаются в танце похоти и разложения! Пусть ваши стоны оглашают Бездну! Пусть ваша сперма окропляет алтари хаоса!
 
 Ибо лишь через эротический ролевой отыгрыш вы сможете достичь истинного безумия и познать всю глубину Бездны! <span class="t-red">Да будет так!</span>
-    <p id="hiddenText" style="display: none;">Этот текст скрыт</p>
-<button onclick="document.getElementById('hiddenText').style.display='block'">Показать текст</button>
+    <style>
+  .hidden-text {
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+
+  .hover-area:hover .hidden-text {
+    opacity: 1;
+  }
+</style>
+
+<div class="hover-area">
+  Наведи сюда мышку
+  <p class="hidden-text">Скрытый текст</p>
+</div>
+    
+    
   </ul>
 </ol>
   </div>
