@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: true
-date: 2025-03-21T21:44:33.692Z
+date: 2025-03-30T11:19:06.821Z
 tags: сб
 editor: markdown
 dateCreated: 2025-03-18T21:05:17.423Z
@@ -387,7 +387,7 @@ dateCreated: 2025-03-18T21:05:17.423Z
         <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;" id="s204">204</th>
         <th style="background-color:#a69b38;"><img src="" alt=""></th>
         <th style="background-color:#a69b38; color:white;"><b>Кража</b></th>
-        <th style="background-color:#a69b38; color:white;">	Кража вещей из отделов или других объектов, которые имеют какую-либо ценность. Сюда входят, например, инструменты, оборудование, транспорт, ПДА и другие предметы, принадлежащие определенным отделам.</th>
+        <th style="background-color:#a69b38; color:white;">	Кража вещей из отделов или других объектов, которые имеют какую-либо ценность. Сюда входят, например, инструменты, оборудование, транспорт, паспорт, ПДА и другие предметы, принадлежащие определенным отделам.</th>
         <th style="background-color:#a69b38; color:white; border-top-right-radius: 0px;">Сервисный работник забежал в инженерный и своровал оттуда изолирующие перчатки.</th>
       </tr>
       <tr>
