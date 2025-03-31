@@ -2,7 +2,7 @@
 title: Закон Дружбы
 description: 
 published: true
-date: 2025-03-31T21:10:50.911Z
+date: 2025-03-31T23:30:37.978Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-17T11:38:54.649Z
@@ -53,7 +53,7 @@ dateCreated: 2025-03-17T11:38:54.649Z
                 <th class="code">03</th>
                 <th class="minor" style="height: 75px; color:#aad6f0;"><a href="#s103" style="color:#c5e7fa;">Невыполнение<br> мелких поручений</a></th>
                 <th class="mild"><a href="#s203" style="color:#c5e7fa;">Отказ выполнять<br> приказы Королевской Гвардии</a></th>
-                <th class="grave"><a href="#s303" style="color:#c5e7fa;">Gодстрекательство<br> к неповиновению<br> власти</a></th>
+                <th class="grave"><a href="#s303" style="color:#c5e7fa;">Подстрекательство<br> к неповиновению<br> власти</a></th>
                 <th class="critical"><a href="#s403" style="color:#c5e7fa;">Мятеж</a></th>
             </tr>
             <tr>
