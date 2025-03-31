@@ -1,8 +1,8 @@
 ---
 title: Пони правила
 description: 
-published: false
-date: 2025-03-27T20:38:51.017Z
+published: true
+date: 2025-03-31T21:11:42.880Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:21:25.321Z
