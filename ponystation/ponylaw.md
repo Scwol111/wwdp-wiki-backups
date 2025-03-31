@@ -1,8 +1,8 @@
 ---
 title: Закон Дружбы
 description: 
-published: false
-date: 2025-03-17T11:47:52.408Z
+published: true
+date: 2025-03-31T21:10:50.911Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-17T11:38:54.649Z
