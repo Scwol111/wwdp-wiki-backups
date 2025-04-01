@@ -2,11 +2,19 @@
 title: Пони правила
 description: 
 published: true
-date: 2025-03-31T21:11:42.880Z
-tags: 
+date: 2025-04-01T19:10:37.953Z
+tags: 1 апреля 2025, архив
 editor: markdown
 dateCreated: 2025-03-21T20:21:25.321Z
 ---
+
+<center>
+<div class="warning-banner">
+  <h2> Статья перемещена в архив  </h2>
+  <p>Тсс... Не шумите здесь...</p><p>
+</div>
+</center>
+
 
 <table id="info-table">
   
