@@ -2,7 +2,7 @@
 title: Поняшки 
 description: 
 published: true
-date: 2025-04-01T19:11:20.184Z
+date: 2025-04-01T19:12:54.598Z
 tags: 1 апреля 2025, архив
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
@@ -10,11 +10,10 @@ dateCreated: 2025-03-21T20:11:50.968Z
 
 <center>
 <div class="warning-banner">
-  <h2> Статья перемещена в архив  </h2>
-  <p>Тсс... Не шумите здесь...</p><p>
+  <h2 style="text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;"> Статья перемещена в архив  </h2>
+  <p style="text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;">Тсс... Не шумите здесь...</p>
 </div>
 </center>
-
 
 <span style="color: black;">
 <strong><span style="color: #792b82">Приветствуем в "Руководстве по ролевым приключениям" Понитауна!</span></strong>
