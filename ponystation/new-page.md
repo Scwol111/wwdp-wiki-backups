@@ -2,11 +2,19 @@
 title: ПониСтанция
 description: 
 published: true
-date: 2025-04-01T19:08:06.832Z
-tags: архив, 1 апреля 2025
+date: 2025-04-01T19:12:06.619Z
+tags: 1 апреля 2025, архив
 editor: markdown
 dateCreated: 2025-04-01T19:08:06.832Z
 ---
+
+<center>
+<div class="warning-banner">
+  <h2> Статья перемещена в архив  </h2>
+  <p>Тсс... Не шумите здесь...</p><p>
+</div>
+</center>
+
 
 <div class="">
         <div class="flex page-col-content xs12 lg9 xl10 order-xs1">
