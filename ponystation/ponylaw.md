@@ -2,11 +2,19 @@
 title: Закон Дружбы
 description: 
 published: true
-date: 2025-03-31T23:30:37.978Z
+date: 2025-04-01T19:13:22.452Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-17T11:38:54.649Z
 ---
+
+<center>
+<div class="warning-banner">
+  <h2> Статья перемещена в архив  </h2>
+  <p>Тсс... Не шумите здесь...</p><p>
+</div>
+</center>
+
 
 <center><div><h1 id="космический-закон" class="toc-header"><a class="toc-anchor" href="#космический-закон">¶</a>Сверкающий Свод Гармонии Эквестрии</h1>
 <div class="table-container"><table style="background-color:transparent;border-bottom:5px;border-left:5px;border-right:5px;border-top:5px;">
