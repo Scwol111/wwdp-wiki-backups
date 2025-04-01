@@ -2,11 +2,19 @@
 title: Поняшки 
 description: 
 published: true
-date: 2025-03-31T21:12:04.217Z
+date: 2025-04-01T19:11:09.371Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-21T20:11:50.968Z
 ---
+
+<center>
+<div class="warning-banner">
+  <h2> Статья перемещена в архив  </h2>
+  <p>Тсс... Не шумите здесь...</p><p>
+</div>
+</center>
+
 
 <span style="color: black;">
 <strong><span style="color: #792b82">Приветствуем в "Руководстве по ролевым приключениям" Понитауна!</span></strong>
