@@ -2,7 +2,7 @@
 title: ПониСтанция
 description: 
 published: true
-date: 2025-04-01T19:12:06.619Z
+date: 2025-04-01T19:12:44.053Z
 tags: 1 апреля 2025, архив
 editor: markdown
 dateCreated: 2025-04-01T19:08:06.832Z
@@ -10,8 +10,8 @@ dateCreated: 2025-04-01T19:08:06.832Z
 
 <center>
 <div class="warning-banner">
-  <h2> Статья перемещена в архив  </h2>
-  <p>Тсс... Не шумите здесь...</p><p>
+  <h2 style="text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;"> Статья перемещена в архив  </h2>
+  <p style="text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;">Тсс... Не шумите здесь...</p>
 </div>
 </center>
 
