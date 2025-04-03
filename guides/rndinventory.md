@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-04-02T21:03:37.800Z
+date: 2025-04-03T14:36:19.403Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -66,7 +66,7 @@ skaner_uslov.gif"><p><strong>Сканер узлов</strong><p> </td>
       <td><img height="100px" width="100px" class="big" src="/guides/xenoarcheology/	
 random_artifact.gif"><p><strong>Артефакты</strong></td>
       <td>Артефакты - источник знаний и веселья для вашего отдела. Только с ними вы можете создать сингулярность c помощью броска или взрыв из капли крови!</td>
-      <td>Артефакты нужны ученым для извлечения из них очков исследований путем исследования узлов артефакта. На большинстве станций вы можете встретить по 2 артефакта на отдел. <p> <a href="/ru/guides/listofproducts"><span style="color: #7D512D;">Могут быть заказаны в <p style="text-decoration: underline; text-decoration-color: brown;">карго.</p></span></a></td>
+      <td>Артефакты нужны ученым для извлечения из них очков исследований путем исследования узлов артефакта. На большинстве станций вы можете встретить по 2 артефакта на отдел. <p> <span style="color: #7D512D;">Могут быть заказаны в <a class="carg" href="/ru/guides/listofproducts" ><span style="color: #AE815C;"> карго.</span></a></span></td>
     </tr>
   </tbody>
 </table>
@@ -494,7 +494,7 @@ rnd_headset.png"></td>
 </table>
 
 ## <p><span style="color: #f7ccff ;">Контейнеры и раздатчики </span> </p> 
-### <p><span style="color: #C9A8CE ;">Раздатчики </span> </p> 
+## <p><span style="color: #C9A8CE ;">Раздатчики </span> </p> 
 <div class="table-name tab cont"><table>
   <thead>
     <tr>
@@ -578,7 +578,7 @@ coatrobo.png">Зимнее пальто робототехника [2]</li>
 
 
 
-### <p><span style="color: #C9A8CE ;">Контейнеры </span> </p> 
+## <p><span style="color: #C9A8CE ;">Контейнеры </span> </p> 
 
 <div class="table-name tab cont"><table>
   <thead>
