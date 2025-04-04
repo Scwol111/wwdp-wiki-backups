@@ -2,7 +2,7 @@
 title: Бусти команды
 description: Здесь вы можете поддержать людей из стаффа, которые завели свой бусти.
 published: true
-date: 2025-02-28T08:29:21.548Z
+date: 2025-04-04T12:50:30.103Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -55,6 +55,11 @@ dateCreated: 2024-10-31T07:49:55.557Z
     <tr>
       <td>IzeRibak</td>
       <td><a href="https://boosty.to/wdwikiwod">boosty.to/wdwikiwod</a></td>
+      <td>Второй глава викиводов, самый старый из сохранившихся викиводов.</td>
+    </tr>
+    <tr>
+      <td>Gavrik</td>
+      <td><a href="https://boosty.to/ddecard">boosty.to/ddecard</a></td>
       <td>Второй глава викиводов, самый старый из сохранившихся викиводов.</td>
     </tr>
   </table>
