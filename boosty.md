@@ -2,7 +2,7 @@
 title: Бусти команды
 description: Здесь вы можете поддержать людей из стаффа, которые завели свой бусти.
 published: true
-date: 2025-04-04T12:50:30.103Z
+date: 2025-04-04T12:52:17.351Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -60,7 +60,7 @@ dateCreated: 2024-10-31T07:49:55.557Z
     <tr>
       <td>Gavrik</td>
       <td><a href="https://boosty.to/ddecard">boosty.to/ddecard</a></td>
-      <td>Второй глава викиводов, самый старый из сохранившихся викиводов.</td>
+      <td>Один из старейших викиводов. Начинал во времена, когда движком вики был mediawiki.</td>
     </tr>
   </table>
 </div>
