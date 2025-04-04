@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-03-25T21:49:41.039Z
+date: 2025-04-04T13:05:52.868Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -336,6 +336,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><div>Занимается прослушиванием и слежкой за деятельностью станции НаноТрейзен на своём аванпосте.</div></div>
   <div>Легко</div>
   <div><a href="/roles/headcrabs" class="is-internal-link is-valid-page">Хедкрабы</a><a href="/roles/headcrabs"><img src="/roles/headcrabs.png" /></a></div>
+  <div><div>Паразитические инопланетные существа, которые прыгают на головы своих жертв, высасывая их мозги.</div></div>
+  <div>Легко</div>
+  <div><a href="/roles/bingles" class="is-internal-link is-valid-page">Бинглы</a><a href="/roles/bingles"><img src="/roles/bingle.gif" /></a></div>
   <div><div>Паразитические инопланетные существа, которые прыгают на головы своих жертв, высасывая их мозги.</div></div>
   <div>Легко</div>
 </div>
