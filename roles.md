@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-04-04T13:05:52.868Z
+date: 2025-04-04T13:07:30.602Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -339,8 +339,8 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><div>Паразитические инопланетные существа, которые прыгают на головы своих жертв, высасывая их мозги.</div></div>
   <div>Легко</div>
   <div><a href="/roles/bingles" class="is-internal-link is-valid-page">Бинглы</a><a href="/roles/bingles"><img src="/roles/bingle.gif" /></a></div>
-  <div><div>Паразитические инопланетные существа, которые прыгают на головы своих жертв, высасывая их мозги.</div></div>
-  <div>Легко</div>
+  <div><div>Эти загадочные существа тащат в свою бингл-яму всё, что не прикручено.</div></div>
+  <div>Bingle!</div>
 </div>
  
 <div class="roles-table ceco">
