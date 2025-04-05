@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-04-05T20:43:39.867Z
+date: 2025-04-05T21:09:26.421Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -382,7 +382,7 @@ clothingmaskweldinggas.png"></td>
       <td>-</td>
       <td>-</td>
       <td>- Защищает глаза от увечий во время сварочных работ</td>
-      <td>- Создается на протолате после исследования</td>
+      <td>- Исследования</td>
     </tr>
     <tr>
       <td><strong>Шлем скафандра научного руководителя</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/	
@@ -475,6 +475,19 @@ rdhead.png"></td>
       <td>-</td>
       <td>-</td>
       <td>- Научшкаф</td>
+    </tr>
+    <tr>
+      <td><strong>Speed boots</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/speedboots.png"></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>- При выключенном состоянии:<p> - <p> При включенном состоянии: <p> - Повышают вашу скорость на <span style="color: yellow ;">50%</span><p> Используют батарейки как источник питания</td>
+      <td>- Исследования</td>
     </tr>
     <tr>
       <td><strong>Научная гарнитура</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/	
