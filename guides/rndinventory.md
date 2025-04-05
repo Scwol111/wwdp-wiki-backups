@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-04-05T20:37:58.053Z
+date: 2025-04-05T20:42:52.927Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -18,11 +18,11 @@ h1 {
 
 # Научный инвентарь
   В игре существует несколько отделов, каждый из которых выполняет свою роль в функционировании станции. Одним из таких отделов является РНД, или же <a class="link" href="ru/roles/scientificdepartment">отдел исследований</a>. Его инвентарь можно разделить на несколько отраслей: 
-1. <a href="/ru/guides/xenoarcheology">Ксеноархеология</a>. Наука об артефактах и все, что с ними связано.
-2. <a href="/ru/guides/anomalies">Аномалии</a>. Наука о разных видах аномалий, их исследовании и ликвидации при опасности для экипажа.
-3. <a href="/ru/guides/robotics">Робототехника</a>. Роботы, импланты и все другое. Самое настоящее будущее!
-4. <a href="/ru/guides/psionics">Псионика</a>. Наука о пси способностях, получении выгоды из них и их ликвидации при опасности для экипажа.
-5. <a href="/ru/guides/researchanddevelopment">Исследования</a>. Цель всего отдела! Получайте очки из различных источников и используйте их в <p><span style="color: red;">Н</span><span style="color: orange;">а</span><span style="color: yellow;">У</span><span style="color: green;">ч</span><span style="color: blue;">Н</span><span style="color: purple;">ы</span><span style="color: red;">Х</span> </p> целях!
+1. <a class="link" href="/ru/guides/xenoarcheology">Ксеноархеология</a>. Наука об артефактах и все, что с ними связано.
+2. <a class="link" href="/ru/guides/anomalies">Аномалии</a>. Наука о разных видах аномалий, их исследовании и ликвидации при опасности для экипажа.
+3. <a class="link" href="/ru/guides/robotics">Робототехника</a>. Роботы, импланты и все другое. Самое настоящее будущее!
+4. <a class="link" href="/ru/guides/psionics">Псионика</a>. Наука о пси способностях, получении выгоды из них и их ликвидации при опасности для экипажа.
+5. <a class="link" href="/ru/guides/researchanddevelopment">Исследования</a>. Цель всего отдела! Получайте очки из различных источников и используйте их в <p><span style="color: red;">Н</span><span style="color: orange;">а</span><span style="color: yellow;">У</span><span style="color: green;">ч</span><span style="color: blue;">Н</span><span style="color: purple;">ы</span><span style="color: red;">Х</span> </p> целях!
 6. Другое. Контейнеры, раздатчики, снаряжение и прочее.
 
 Каждая часть РНД из списка очень важна для функционирования не только отдела, но и всей станции, а если точнее, ее целостности. Но для их работы может понадобиться парочка предметов⬇️⬇️⬇️ЧИТАТЬ НИЖЕ⤵️⤵️⤵️
@@ -66,7 +66,7 @@ skaner_uslov.gif"><p><strong>Сканер узлов</strong><p> </td>
       <td><img height="100px" width="100px" class="big" src="/guides/xenoarcheology/	
 random_artifact.gif"><p><strong>Артефакты</strong></td>
       <td>Артефакты - источник знаний и веселья для вашего отдела. Только с ними вы можете создать сингулярность c помощью броска или взрыв из капли крови!</td>
-      <td>Артефакты нужны ученым для извлечения из них очков исследований путем исследования узлов артефакта. На большинстве станций вы можете встретить по 2 артефакта на отдел. <p> <span style="color: #7D512D;">Могут быть заказаны в <a class="carg" href="/ru/guides/listofproducts" ><span style="color: #AE815C;"> карго.</span></a></span></td>
+      <td>Артефакты нужны ученым для извлечения из них очков исследований путем исследования узлов артефакта. На большинстве станций вы можете встретить по 2 артефакта на отдел. <p> <span style="color: #7D512D;">Могут быть заказаны в <a class="link carglink" href="/ru/guides/listofproducts" ><span style="color: #AE815C;"> карго</span></a>.</span></td>
     </tr>
   </tbody>
 </table>
