@@ -2,7 +2,7 @@
 title: Бумажная работа
 description: 
 published: true
-date: 2025-04-09T08:14:54.707Z
+date: 2025-04-09T08:16:11.416Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T06:29:47.063Z
@@ -560,7 +560,7 @@ dateCreated: 2025-04-09T06:29:47.063Z
 
 Ответственность, возлагаемую на себя осознаю.
 
-                        Время: [italic]00:00:00[/italic]
+                    1    Время: [italic]00:00:00[/italic]
                         Подпись: [italic]X[/italic]
 
 
