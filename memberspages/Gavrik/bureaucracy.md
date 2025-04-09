@@ -2,7 +2,7 @@
 title: Бумажная работа
 description: 
 published: true
-date: 2025-04-09T08:09:03.726Z
+date: 2025-04-09T08:09:11.289Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T06:29:47.063Z
@@ -564,7 +564,7 @@ dateCreated: 2025-04-09T06:29:47.063Z
                         Подпись: [italic]X[/italic]
 
 
-            <Место для печатей>[/mono]
+            <Место для печатей/>[/mono]
         </code>
         <button class="copyButton">&#9112;</button>
     </div>
