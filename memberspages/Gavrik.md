@@ -2,7 +2,7 @@
 title: Gavrik
 description: 
 published: false
-date: 2025-02-05T16:25:36.417Z
+date: 2025-04-09T07:56:48.904Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-07T18:47:48.919Z
@@ -30,5 +30,5 @@ dateCreated: 2024-11-07T18:47:48.919Z
     	<li><a href="/memberspages/Gavrik/home/guides">Руководства</a></li>
     </ul>
   </li>
-  
+  <li><a href="/memberspages/Gavrik/bureaucracy">Бумажечки</a>
 </ul>
