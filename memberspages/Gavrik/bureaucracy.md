@@ -2,7 +2,7 @@
 title: Бумажная работа
 description: 
 published: true
-date: 2025-04-09T08:06:00.056Z
+date: 2025-04-09T08:06:36.852Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T06:29:47.063Z
@@ -544,7 +544,27 @@ dateCreated: 2025-04-09T06:29:47.063Z
     <button type="button" class="collapsible"><div>Повышение</div></button>
     <div class="content">
         <div class="text">
-            text
+            [mono]                        [italic](Должность адрессата)[/italic]
+                        [italic](ФИ адрессата)[/italic]
+                        [italic](XX-000)[/italic]
+                        от: [italic](ФИО)[/italic]
+
+╒═══════════════════════════════════════════╕
+            ЗАЯВЛЕНИЕ О ПОВЫШЕНИИ
+╘═══════════════════════════════════════════╛
+Будучи в должности [italic](Должность)[/italic], прошу повысить меня до должности [italic](Желаемая должность)[/italic] в [italic](Отдел)[/italic] отделе.
+
+Причина: [italic](Причина)[/italic].
+
+Со стандартными операционными процедурами должности, на которую претендую и политикой NanoTrasen ознакомлен и полностью принимаю.
+
+Ответственность, возлагаемую на себя осознаю.
+
+                        Время: [italic]00:00:00[/italic]
+                        Подпись: [italic]X[/italic]
+
+
+            <Место для печатей>[/mono]
         </div>
         <button class="copyButton">&#9112;</button>
     </div>
