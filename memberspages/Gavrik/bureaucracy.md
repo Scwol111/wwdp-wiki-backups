@@ -2,7 +2,7 @@
 title: Бумажная работа
 description: 
 published: true
-date: 2025-04-09T08:10:20.561Z
+date: 2025-04-09T08:14:54.707Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T06:29:47.063Z
@@ -543,7 +543,7 @@ dateCreated: 2025-04-09T06:29:47.063Z
     <!--  -->
     <button type="button" class="collapsible"><div>Повышение</div></button>
     <div class="content">
-        <div class="text">
+        <pre class="text">
             [mono]                        [italic](Должность адрессата)[/italic]
                         [italic](ФИ адрессата)[/italic]
                         [italic](XX-000)[/italic]
@@ -565,7 +565,7 @@ dateCreated: 2025-04-09T06:29:47.063Z
 
 
             <Место для печатей/>[/mono]
-        </div>
+        </pre>
         <button class="copyButton">&#9112;</button>
     </div>
 </div>
