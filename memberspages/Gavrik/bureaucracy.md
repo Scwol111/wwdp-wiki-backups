@@ -2,7 +2,7 @@
 title: Бумажная работа
 description: 
 published: true
-date: 2025-04-09T08:06:36.852Z
+date: 2025-04-09T08:09:03.726Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T06:29:47.063Z
@@ -543,7 +543,7 @@ dateCreated: 2025-04-09T06:29:47.063Z
     <!--  -->
     <button type="button" class="collapsible"><div>Повышение</div></button>
     <div class="content">
-        <div class="text">
+        <code class="text">
             [mono]                        [italic](Должность адрессата)[/italic]
                         [italic](ФИ адрессата)[/italic]
                         [italic](XX-000)[/italic]
@@ -565,19 +565,7 @@ dateCreated: 2025-04-09T06:29:47.063Z
 
 
             <Место для печатей>[/mono]
-        </div>
+        </code>
         <button class="copyButton">&#9112;</button>
     </div>
 </div>
-<h2>Примечание</h2>
-<ol>
-    <li id="note1" href="id1">
-        <p>Штат сотрудников <a href="/roles/centralcommand">Центрального Командования</a> включает себя такие должности
-            как: Офицер ЦентКом, <a href="/roles/representativeofcc">Представитель ЦентКом</a>, Дипломат NanoTrasen и
-            представителей военно-космического флота NanoTrasen. Составляйте документ с учетом специфики вашей ситуации.
-        </p>
-    </li>
-    <li id="note1" href="id2">
-        <p>Инженерный ОБР, Военный ОБР, ОБР уборщиков.</p>
-    </li>
-</ol>
