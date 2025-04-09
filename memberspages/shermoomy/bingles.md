@@ -2,7 +2,7 @@
 title: bingles
 description: bingles
 published: false
-date: 2025-04-07T12:17:44.495Z
+date: 2025-04-09T13:49:16.123Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-07T12:04:18.963Z
