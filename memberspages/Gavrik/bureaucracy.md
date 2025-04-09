@@ -2,7 +2,7 @@
 title: Бумажная работа
 description: 
 published: true
-date: 2025-04-09T06:29:47.063Z
+date: 2025-04-09T06:30:18.208Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-09T06:29:47.063Z
