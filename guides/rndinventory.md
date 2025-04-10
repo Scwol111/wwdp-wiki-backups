@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: false
-date: 2025-04-10T12:05:39.096Z
+date: 2025-04-10T12:20:09.122Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -19,7 +19,7 @@ h1 {
 # Научный инвентарь
   В игре существует несколько отделов, каждый из которых выполняет свою роль в функционировании станции. Одним из таких отделов является РНД, или же <a class="link" href="https://wiki.wwdp.ee/ru/roles/scientificdepartment">отдел исследований</a>. Его инвентарь можно разделить на несколько отраслей: 
 1. <a class="link" href="/ru/guides/xenoarcheology">Ксеноархеология</a>. Наука об артефактах и все, что с ними связано.
-2. <a class="link" href="/ru/guides/anomalies">Аномалии</a>. Наука о разных видах аномалий, их исследовании и ликвидации при опасности для экипажа.
+2. <a class="link" href="/guides/anomalies">Аномалии</a>. Наука о разных видах аномалий, их исследовании и ликвидации при опасности для экипажа.
 3. <a class="link" href="/ru/guides/robotics">Робототехника</a>. Роботы, импланты и все другое. Самое настоящее будущее!
 4. <a class="link" href="/ru/guides/psionics">Псионика</a>. Наука о пси способностях, получении выгоды из них и их ликвидации при опасности для экипажа.
 5. <a class="link" href="/ru/guides/researchanddevelopment">Исследования</a>. Цель всего отдела! Получайте очки из различных источников и используйте их в <p><span style="color: red;">Н</span><span style="color: orange;">а</span><span style="color: yellow;">У</span><span style="color: green;">ч</span><span style="color: blue;">Н</span><span style="color: purple;">ы</span><span style="color: red;">Х</span> </p> целях!
