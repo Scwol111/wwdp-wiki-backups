@@ -2,14 +2,14 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-03-26T08:05:18.697Z
+date: 2025-04-11T14:32:13.457Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
 ---
 
 <!--
-Ya yebal eto govno, suka!!!
+Ya yebal eto govno, suka blyat!!!
 Muka soso
 -->
 <div class="buttons">
