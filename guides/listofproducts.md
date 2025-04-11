@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-11T22:01:53.996Z
+date: 2025-04-11T22:02:11.708Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -373,7 +373,7 @@ weapon.png" alt="secure_weapon_case.png" />
       <p><img src="/guides/supply/listofproducts/emergency/protivogas.png" alt="protivogas.png" />Противогаз x2</p>
     </div>
         <div>
-      <img src="/guides/supply/listofproduct_2/containers/2.png" alt="o2.png" />
+      <img src="/guides/supply/listofproduct_2/containers/o2.png" alt="o2.png" />
       <p>Ящик аварийного снаряжения (Большой)</p>
     </div>
     <div>
@@ -387,7 +387,7 @@ weapon.png" alt="secure_weapon_case.png" />
       <p><img src="/guides/supply/listofproducts/emergency/mask.png" alt="mask.png" />Дыхательная маска x6</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/emergency/crates/crate_02.png" alt="o2.png" />
+      <img src="/guides/supply/listofproduct_2/containers/o2.png" alt="o2.png" />
       <p>Ящик жизнеобеспечения слаймолюда</p>
     </div>
     <div>
