@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-11T21:50:18.632Z
+date: 2025-04-11T21:52:55.916Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -202,14 +202,14 @@ weapon.png" alt="secure_weapon_case.png" />
   <div>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
+    <img src="/guides/supply/listofproduct_2/containers/white.png" alt="plastic_box.png" />
     <p>Ящик пополнения газовых баллонов</p>
   </div>
   <div>
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/atmos/gas_cylinders_refill_kit.png" alt="gas_cylinders_refill_kit.png" />Набор пополнения газовых баллонов</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/gas_cylinders_refill_kit.png" alt="gas_cylinders_refill_kit.png" />Набор пополнения газовых баллонов</p>
   </div>
     <div>
     <img src="/guides/supply/listofproducts/atmos/carbon_dioxide_canister.png" alt="carbon_dioxide_canister.png" />
