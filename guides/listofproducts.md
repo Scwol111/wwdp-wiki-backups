@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-11T21:58:13.466Z
+date: 2025-04-11T22:00:13.995Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -294,7 +294,7 @@ weapon.png" alt="secure_weapon_case.png" />
   <h3>Чрезвычайные ситуации</h3>
   <div class="custom-table">
      <div>
-      <img src="/guides/supply/listofproducts/emergency/crates/crate_02.png" alt="o2.png" />
+      <img src="/guides/supply/listofproduct_2/containers/o2.png" alt="o2.png" />
       <p>Ящик аварийного снаряжения</p>
     </div>
     <div>
@@ -308,17 +308,17 @@ weapon.png" alt="secure_weapon_case.png" />
       <p><img src="/guides/supply/listofproducts/emergency/mask.png" alt="mask.png" />Дыхательная маска x3</p>
     </div>
      <div>
-      <img src="/guides/supply/listofproducts/emergency/crates/plastic.png" alt="plastic.png" />
+      <img src="/guides/supply/listofproduct_2/containers/white.png" alt="plastic.png" />
       <p>Ящик надувных стен</p>
     </div>
     <div>
       <p>500$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/emergency/nadyvnyie_steny.png" alt="nadyvnyie_steny.png" />Коробка надувных стен x1</p>
+      <p><img src="/guides/supply/listofproduct_2/containers/gray.png" alt="nadyvnyie_steny.png" />Коробка надувных стен x1</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/emergency/crates/steel.png" alt="steel.png" />
+      <img src="/guides/supply/listofproduct_2/containers/gray.png" alt="steel.png" />
       <p>Ящик пожарного снаряжения</p>
     </div>
     <div>
