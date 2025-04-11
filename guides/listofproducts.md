@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-11T21:53:44.610Z
+date: 2025-04-11T21:56:55.838Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -247,17 +247,17 @@ weapon.png" alt="secure_weapon_case.png" />
   <h3>Карго</h3>
   <div class="custom-table">
         <div>
-      <img src="/guides/supply/listofproducts/fun/crates/pirate_chest.png" alt="pirate_chest.png" />
+      <img src="/guides/supply/listofproduct_2/containers/treasure.png" alt="pirate_chest.png" />
       <p>luxury mining hardsuit crate</p>
     </div>
     <div>
       <p>15000$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/cargo/luxury.png" alt="luxury.png" />luxury mining hardsuit</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/suits/luxury.png" alt="luxury.png" />luxury mining hardsuit</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/cargo/orebox.png" alt="orebox.png" />
+      <img src="/guides/supply/listofproduct_2/containers/orebox.png" alt="orebox.png" />
       <p>ore box</p>
     </div>
     <div>
