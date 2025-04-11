@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-11T22:15:16.119Z
+date: 2025-04-11T22:15:25.675Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -358,7 +358,7 @@ weapon.png" alt="secure_weapon_case.png" />
       <p><img src="/guides/supply/listofproduct_2/clothes/masks/protivogas.png" alt="protivogas.png" />Противогаз x1</p>
       <p><img src="/guides/supply/listofproduct_2/other/instrument/multi.png" alt="multitool.png" />Мультитул x1</p>
       <p><img src="/guides/supply/listofproduct_2/other/instrument/kusa4ki.png" alt="kusa4ki.png" />Кусачки x1</p>
-      <p><img src="/guides/supply/listofproducts/emergency/otvertka.png" alt="otvertka.png" />Отвёртка x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/instrument/otvertka.png" alt="otvertka.png" />Отвёртка x1</p>
     </div>
     <div>
       <img src="/guides/supply/listofproduct_2/containers/white.png" alt="plastic.png" />
