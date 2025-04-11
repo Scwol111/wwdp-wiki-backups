@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-11T21:52:55.916Z
+date: 2025-04-11T21:53:44.610Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -212,7 +212,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p><img src="/guides/supply/listofproduct_2/other/vend/gas_cylinders_refill_kit.png" alt="gas_cylinders_refill_kit.png" />Набор пополнения газовых баллонов</p>
   </div>
     <div>
-    <img src="/guides/supply/listofproducts/atmos/carbon_dioxide_canister.png" alt="carbon_dioxide_canister.png" />
+    <img src="/guides/supply/listofproduct_2/canisters/carbon_dioxide_canister.png" alt="carbon_dioxide_canister.png" />
     <p>Liquid carbon dioxide canister</p>
   </div>
   <div>
@@ -221,7 +221,7 @@ weapon.png" alt="secure_weapon_case.png" />
   <div>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/atmos/nitrogen_canister.png" alt="nitrogen_canister.png" />
+    <img src="/guides/supply/listofproduct_2/canisters/nitrogen_canister.png" alt="nitrogen_canister.png" />
     <p>Liquid nitrogen canister</p>
   </div>
   <div>
@@ -230,7 +230,7 @@ weapon.png" alt="secure_weapon_case.png" />
   <div>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/atmos/oxygen_canister.png" alt="air_canister.png" />
+    <img src="/guides/supply/listofproduct_2/canisters/oxygen_canister.png" alt="air_canister.png" />
     <p>Liquid oxygen canister</p>
   </div>
   <div>
