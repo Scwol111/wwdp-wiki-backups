@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-03-16T15:38:11.169Z
+date: 2025-04-11T21:50:11.494Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -35,77 +35,84 @@ dateCreated: 2024-09-29T18:20:06.170Z
   <h3>Оружие</h3>
 <div class="custom-table" >
     <div>
-    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_weapon_case.png" />
+    <img src="/guides/supply/listofproduct_2/containers/	
+weapon.png" alt="secure_weapon_case.png" />
     <p>Ящик с дробовиками</p>
   </div>
   <div>
     <p>7000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/weapon/silov.png" alt="silovik.png" />Силовик x2</p>
-    <p><img src="/guides/supply/listofproducts/weapon/box_of_shotgun_cartridges_(lethal).png.png" alt="box_of_shotgun_cartridges_(lethal).png.png" />Коробка ружейных патронов (летальных) x3</p>
+    <p><img src="/guides/supply/listofproduct_2/weapons/gun/silov.png" alt="silovik.png" />Силовик x2</p>
+    <p><img src="/guides/supply/listofproduct_2/weapons/ammo/box_of_shotgun_cartridges.png" alt="box_of_shotgun_cartridges_(lethal).png" />Коробка ружейных патронов (летальных) x3</p>
   </div>
    <div>
-    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_weapon_case.png" />
+    <img src="/guides/supply/listofproduct_2/containers/	
+weapon.png" alt="secure_weapon_case.png" />
     <p>Ящик лазеров</p>
   </div>
   <div>
     <p>4800$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/weapon/laser_gun.png" alt="laser_gun.png" /> Лазерная винтовка x3</p>
+    <p><img src="/guides/supply/listofproduct_2/weapons/gun/laser_gun.png" alt="laser_gun.png" /> Лазерная винтовка x3</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_weapon_case.png" />
+    <img src="/guides/supply/listofproduct_2/containers/	
+weapon.png" alt="secure_weapon_case.png" />
     <p>Ящик пистолетов-пулемётов</p>
   </div>
   <div>
     <p>9000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/weapon/wt5501.png" alt="wt550.png" />WT550 x2</p>
-    <p><img src="/guides/supply/listofproducts/weapon/wt550magazine.png" alt="32px-ammo1.png" />Магазин WT550 (.35 авто) x4</p>
+    <p><img src="/guides/supply/listofproduct_2/weapons/gun/wt5501.png" alt="wt550.png" />WT550 x2</p>
+    <p><img src="/guides/supply/listofproduct_2/weapons/ammo/wt550magazine.png" alt="32px-ammo1.png" />Магазин WT550 (.35 авто) x4</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_weapon_case.png" />
+    <img src="/guides/supply/listofproduct_2/containers/	
+weapon.png" alt="secure_weapon_case.png" />
     <p>Ящик имплантов трекера</p>
   </div>
   <div>
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/implanter0.png" alt="implanter0.png" /> Имплант трекер 5х</p>
+    <p><img src="/guides/supply/listofproduct_2/weapons/implanter0.png" alt="implanter0.png" /> Имплант трекер 5х</p>
   </div>
   <div> 
-    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_weapon_case.png" />
+    <img src="/guides/supply/listofproduct_2/containers/	
+weapon.png" alt="secure_weapon_case.png" />
     <p>Ящик с энергетическими винтовками</p>
   </div>
   <div>
     <p>5500$</p>
   </div>
    <div>
-    <p><img src="/guides/supply/listofproducts/weapon/egun.png" alt="implanter0.png" /> Еган 3х</p>
+    <p><img src="/guides/supply/listofproduct_2/weapons/gun/egun.png" alt="implanter0.png" /> Еган 3х</p>
   </div>
   <div> 
-    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_weapon_case.png" />
+    <img src="/guides/supply/listofproduct_2/containers/	
+weapon.png" alt="secure_weapon_case.png" />
     <p>Ящик с пистолетами</p>
   </div>
   <div>
     <p>5200$</p>
   </div>
    <div>
-    <p><img src="/guides/supply/listofproducts/weapon/mk_58.png" alt="mk_58.png" />MK 58 x2</p>
-    <p><img src="/guides/supply/listofproducts/weapon/35mag.png" alt="35mag.png" />Стандартный магазин (.35 авто) x4</p>
+    <p><img src="/guides/supply/listofproduct_2/weapons/gun/mk_58.png" alt="mk_58.png" />MK 58 x2</p>
+    <p><img src="/guides/supply/listofproduct_2/weapons/ammo/35mag.png" alt="35mag.png" />Стандартный магазин (.35 авто) x4</p>
   </div>  
   <div>
-    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_weapon_case.png" />
+    <img src="/guides/supply/listofproduct_2/containers/	
+weapon.png" alt="secure_weapon_case.png" />
     <p>Ящик учебных бомб</p>
   </div>
   <div>
     <p>3000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/weapon/bomb.png" alt="bomb.png" />Учебная бомба 3х</p>
+    <p><img src="/guides/supply/listofproduct_2/weapons/bomb.png" alt="bomb.png" />Учебная бомба 3х</p>
   </div>
 </div>
 </div>
@@ -114,7 +121,7 @@ dateCreated: 2024-09-29T18:20:06.170Z
   <h3>Атмос</h3>
 <div class="custom-table">
  <div>
-    <img src="/guides/supply/listofproducts/atmos/nitrogen_canister.png" alt="nitrogen_canister.png" />
+    <img src="/guides/supply/listofproduct_2/canisters/nitrogen_canister.png" alt="nitrogen_canister.png" />
     <p>Канистра азота</p>
   </div>
   <div>
@@ -123,7 +130,7 @@ dateCreated: 2024-09-29T18:20:06.170Z
   <div>
   </div>
     <div>
-    <img src="/guides/supply/listofproducts/atmos/bs.png" alt="bs.png" />
+    <img src="/guides/supply/listofproduct_2/canisters/bs_canister.png" alt="bs.png" />
     <p>Канистра БЗ</p>
   </div>
   <div>
@@ -132,7 +139,7 @@ dateCreated: 2024-09-29T18:20:06.170Z
   <div>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/atmos/air_canister.png" alt="air_canister.png" />
+    <img src="/guides/supply/listofproduct_2/canisters/air_canister.png" alt="air_canister.png" />
     <p>Канистра воздуха</p>
   </div>
   <div>
@@ -141,7 +148,7 @@ dateCreated: 2024-09-29T18:20:06.170Z
   <div>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/atmos/storage.png" alt="air_canister.png" />
+    <img src="/guides/supply/listofproduct_2/canisters/storage_canister.png" alt="air_canister.png" />
     <p>Канистра для хранения</p>
   </div>
   <div>
@@ -150,7 +157,7 @@ dateCreated: 2024-09-29T18:20:06.170Z
   <div>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/atmos/oxygen_canister.png" alt="oxygen_canister.png" />
+    <img src="/guides/supply/listofproduct_2/canisters/oxygen_canister.png" alt="oxygen_canister.png" />
     <p>Канистра кислорода</p>
   </div>
   <div>
@@ -159,7 +166,7 @@ dateCreated: 2024-09-29T18:20:06.170Z
   <div>
   </div>
    <div>
-    <img src="/guides/supply/listofproducts/atmos/oksidazota.png" alt="oksidazota.png" />
+    <img src="/guides/supply/listofproduct_2/canisters/oa_canister.png" alt="oa_canister.png" />
     <p>Канистра оксида азота</p>
   </div>
   <div>
@@ -168,7 +175,7 @@ dateCreated: 2024-09-29T18:20:06.170Z
   <div>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/atmos/plasma.png" alt="pluoks.png" />
+    <img src="/guides/supply/listofproduct_2/canisters/plasm_canister.png" alt="pluoks.png" />
     <p>Канистра плазмы</p>
   </div>
   <div>
@@ -177,7 +184,7 @@ dateCreated: 2024-09-29T18:20:06.170Z
   <div>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/atmos/pluoks.png" alt="pluoks.png" />
+    <img src="/guides/supply/listofproduct_2/canisters/pluoks_canister.png" alt="pluoks.png" />
     <p>Канистра плюоксиума</p>
   </div>
   <div>
