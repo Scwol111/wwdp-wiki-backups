@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-11T22:15:25.675Z
+date: 2025-04-11T22:26:29.698Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -368,9 +368,9 @@ weapon.png" alt="secure_weapon_case.png" />
       <p>800$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/emergency/hood_bio.png" alt="hood_bio.png" />Капюшон биозащитного костюма x2</p>
-      <p><img src="/guides/supply/listofproducts/emergency/bio_costume.png" alt="bio_costume.png" />Биозащитный костюм x2</p> 
-      <p><img src="/guides/supply/listofproducts/emergency/protivogas.png" alt="protivogas.png" />Противогаз x2</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/hats/hood_bio.png" alt="hood_bio.png" />Капюшон биозащитного костюма x2</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/suits/bio_costume.png" alt="bio_costume.png" />Биозащитный костюм x2</p> 
+      <p><img src="/guides/supply/listofproduct_2/clothes/masks/protivogas.png" alt="protivogas.png" />Противогаз x2</p>
     </div>
         <div>
       <img src="/guides/supply/listofproduct_2/containers/o2.png" alt="o2.png" />
@@ -380,11 +380,11 @@ weapon.png" alt="secure_weapon_case.png" />
       <p>2000$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/emergency/emergency_costume.png" alt="emergency_costume.png" />Аварийный костюм x6</p>
-      <p><img src="/guides/supply/listofproducts/emergency/oxygen.png" alt="oxygen.png" />Кислородный баллон x6</p>
-      <p><img src="/guides/supply/listofproducts/emergency/azot.png" alt="azot.png" />Баллон азота x6</p>
-      <p><img src="/guides/supply/listofproducts/emergency/protivogas.png" alt="protivogas.png" />Противогаз x6</p>
-      <p><img src="/guides/supply/listofproducts/emergency/mask.png" alt="mask.png" />Дыхательная маска x6</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/suits/emergency_costume.png" alt="emergency_costume.png" />Аварийный костюм x6</p>
+      <p><img src="/guides/supply/listofproduct_2/other/ballon/oxygen.png" alt="oxygen.png" />Кислородный баллон x6</p>
+      <p><img src="/guides/supply/listofproduct_2/other/ballon/azot.png" alt="azot.png" />Баллон азота x6</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/masks/protivogas.png" alt="protivogas.png" />Противогаз x6</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/masks/mask.png" alt="mask.png" />Дыхательная маска x6</p>
     </div>
     <div>
       <img src="/guides/supply/listofproduct_2/containers/o2.png" alt="o2.png" />
@@ -394,9 +394,9 @@ weapon.png" alt="secure_weapon_case.png" />
       <p>300$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/emergency/azot.png" alt="azot.png" />Баллон азота x4</p>
-      <p><img src="/guides/supply/listofproducts/emergency/mask.png" alt="mask.png" />Дыхательная маска x2</p>
-      <p><img src="/guides/supply/listofproducts/emergency/protivogas.png" alt="protivogas.png" />Противогаз x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/ballon/azot.png" alt="azot.png" />Баллон азота x4</p>
+      <p><img src="/guides/supply/listofproduct_2/other/ballon/mask.png" alt="mask.png" />Дыхательная маска x2</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/masks/protivogas.png" alt="protivogas.png" />Противогаз x2</p>
     </div>
   </div>
 </div>
