@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-11T21:57:01.561Z
+date: 2025-04-11T21:58:13.466Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -274,15 +274,15 @@ weapon.png" alt="secure_weapon_case.png" />
   <h3>Платы</h3>
   <div class="custom-table">
     <div>
-      <img src="/guides/supply/listofproducts/board/console_monitoring_exploit_paid.png" />
+      <img src="/guides/supply/listofproduct_2/plates/console.png" />
       <p>Платы мониторинга экипажа</p>
     </div>
     <div>
       <p>2000$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/board/console_monitoring_exploit_paid.png" />Консоль мониторинга экипажа (Машинная плата) x2</p>
-      <p><img src="/guides/supply/listofproducts/board/tracking server_expload_paid.png" />Сервер отслеживания экипажа (Машинная плата) x2</p>
+      <p><img src="/guides/supply/listofproduct_2/plates/console.png" />Консоль мониторинга экипажа (Машинная плата) x2</p>
+      <p><img src="/guides/supply/listofproduct_2/plates/machine.png" />Сервер отслеживания экипажа (Машинная плата) x2</p>
     </div>
   </div>
 </div>
