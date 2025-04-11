@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-11T22:00:13.995Z
+date: 2025-04-11T22:01:53.996Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -333,7 +333,7 @@ weapon.png" alt="secure_weapon_case.png" />
       <p><img src="/guides/supply/listofproducts/emergency/flashlight.png" alt="flashlight.png" />Фонарик x2</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/emergency/crates/crate_radiation.png" alt="radiation.png" />
+      <img src="/guides/supply/listofproduct_2/containers/rad.png" alt="radiation.png" />
       <p>Ящик противорадиационного снаряжения</p>
     </div>
     <div>
@@ -346,7 +346,7 @@ weapon.png" alt="secure_weapon_case.png" />
       <p><img src="/guides/supply/listofproducts/emergency/stopka.png" alt="stopka.png" />Стопка x2</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/security/crate_sec_new.png" alt="armored.png" />
+      <img src="/guides/supply/listofproduct_2/containers/sec.png" alt="armored.png" />
       <p>Ящик сапёрного снаряжения</p>
     </div>
     <div>
@@ -361,7 +361,7 @@ weapon.png" alt="secure_weapon_case.png" />
       <p><img src="/guides/supply/listofproducts/emergency/otvertka.png" alt="otvertka.png" />Отвёртка x1</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/emergency/crates/plastic.png" alt="plastic.png" />
+      <img src="/guides/supply/listofproduct_2/containers/white.png" alt="plastic.png" />
       <p>Ящик аварийных биокостюмов</p>
     </div>
     <div>
@@ -373,7 +373,7 @@ weapon.png" alt="secure_weapon_case.png" />
       <p><img src="/guides/supply/listofproducts/emergency/protivogas.png" alt="protivogas.png" />Противогаз x2</p>
     </div>
         <div>
-      <img src="/guides/supply/listofproducts/emergency/crates/crate_02.png" alt="o2.png" />
+      <img src="/guides/supply/listofproduct_2/containers/2.png" alt="o2.png" />
       <p>Ящик аварийного снаряжения (Большой)</p>
     </div>
     <div>
