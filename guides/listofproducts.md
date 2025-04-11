@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-11T22:02:11.708Z
+date: 2025-04-11T22:13:23.504Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -301,11 +301,11 @@ weapon.png" alt="secure_weapon_case.png" />
       <p>500$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/emergency/emergency_costume.png" alt="emergency_costume.png" />Аварийный костюм x3</p>
-      <p><img src="/guides/supply/listofproducts/emergency/oxygen.png" alt="oxygen.png" />Кислородный баллон x3</p>
-      <p><img src="/guides/supply/listofproducts/emergency/azot.png" alt="azot.png" />Баллон азота x3</p>
-      <p><img src="/guides/supply/listofproducts/emergency/protivogas.png" alt="protivogas.png" />Противогаз x3</p>
-      <p><img src="/guides/supply/listofproducts/emergency/mask.png" alt="mask.png" />Дыхательная маска x3</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/suits/emergency_costume.png" alt="emergency_costume.png" />Аварийный костюм x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/ballon/oxygen.png" alt="oxygen.png" />Кислородный баллон x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/ballon/azot.png" alt="azot.png" />Баллон азота x3</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/masks/protivogas.png" alt="protivogas.png" />Противогаз x3</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/masks/mask.png" alt="mask.png" />Дыхательная маска x3</p>
     </div>
      <div>
       <img src="/guides/supply/listofproduct_2/containers/white.png" alt="plastic.png" />
@@ -325,12 +325,12 @@ weapon.png" alt="secure_weapon_case.png" />
       <p>1600$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/emergency/kaska.png" alt="kaska.png" />Красная рабочая каска x2</p>
-      <p><img src="/guides/supply/listofproducts/emergency/protivogas.png" alt="protivogas.png" />Противогаз x2</p>
-      <p><img src="/guides/supply/listofproducts/emergency/fire_costume.png" alt="fire_costume.png" />Пожарный костюм x2</p>
-      <p><img src="/guides/supply/listofproducts/emergency/yellow_oxygen.png" alt="yellow_oxygen.png" />Кислородный баллон x2</p>
-      <p><img src="/guides/supply/listofproducts/emergency/ognetyshitel.png" alt="ognetyshitel.png" />Огнетушитель x2</p>
-      <p><img src="/guides/supply/listofproducts/emergency/flashlight.png" alt="flashlight.png" />Фонарик x2</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/hats/red_cask.png" alt="kaska.png" />Красная рабочая каска x2</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/masks/protivogas.png" alt="protivogas.png" />Противогаз x2</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/suits/fire_costume.png" alt="fire_costume.png" />Пожарный костюм x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/ballon/yellow_oxygen.png" alt="yellow_oxygen.png" />Кислородный баллон x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/ballon/ognetyshitel.png" alt="ognetyshitel.png" />Огнетушитель x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/instrument/flashlight.png" alt="flashlight.png" />Фонарик x2</p>
     </div>
     <div>
       <img src="/guides/supply/listofproduct_2/containers/rad.png" alt="radiation.png" />
@@ -340,10 +340,10 @@ weapon.png" alt="secure_weapon_case.png" />
       <p>1100$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/emergency/rad_costume.png" alt="rad_costume.png" />Противорадиационный костюм x2</p>
-      <p><img src="/guides/supply/listofproducts/emergency/gayger.png" alt="gayger.png" />Счётчик Гейгера x2</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/suits/rad_costume.png" alt="rad_costume.png" />Противорадиационный костюм x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/instrument/gayger.png" alt="gayger.png" />Счётчик Гейгера x2</p>
       <p><img src="/guides/supply/listofproducts/emergency/vodka.png" alt="vodka.png" />Бутылка водки x1</p>
-      <p><img src="/guides/supply/listofproducts/emergency/stopka.png" alt="stopka.png" />Стопка x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/empty_cont/stopka.png" alt="stopka.png" />Стопка x2</p>
     </div>
     <div>
       <img src="/guides/supply/listofproduct_2/containers/sec.png" alt="armored.png" />
