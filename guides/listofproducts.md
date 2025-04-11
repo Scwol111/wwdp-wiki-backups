@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-11T21:56:55.838Z
+date: 2025-04-11T21:57:01.561Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -257,7 +257,7 @@ weapon.png" alt="secure_weapon_case.png" />
       <p><img src="/guides/supply/listofproduct_2/clothes/suits/luxury.png" alt="luxury.png" />luxury mining hardsuit</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproduct_2/containers/orebox.png" alt="orebox.png" />
+      <img src="/guides/supply/listofproduct_2/containers/ore.png" alt="orebox.png" />
       <p>ore box</p>
     </div>
     <div>
