@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-11T21:50:11.494Z
+date: 2025-04-11T21:50:18.632Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -193,7 +193,7 @@ weapon.png" alt="secure_weapon_case.png" />
   <div>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/atmos/carbon_dioxide_canister.png" alt="carbon_dioxide_canister.png" />
+    <img src="/guides/supply/listofproduct_2/canisters/carbon_dioxide_canister.png" alt="carbon_dioxide_canister.png" />
     <p>Канистра углекислого газа</p>
   </div>
   <div>
