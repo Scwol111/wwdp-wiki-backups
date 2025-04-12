@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница. Вики SS14, СС14, Космическая станция 14, космическая ебанина 14, ВД, Вайт Дрим, WD, White Dream, WWDP, ВВДП.
 published: true
-date: 2025-04-12T18:44:03.235Z
+date: 2025-04-12T18:50:19.056Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -13,7 +13,7 @@ dateCreated: 2024-09-10T19:12:06.984Z
           <div class="contents">
             <div>
               <center>
-                <img src="/main_page_icons/wwdpwikilogo228.png" class="try-cock">
+                <img src="/wwdpwikilogomoth.png" class="try-cock">
               </center>
               <div class="maincontainer">
                 <div class="buttoncontainer">
