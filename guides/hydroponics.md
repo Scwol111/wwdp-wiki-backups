@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-14T15:51:31.485Z
+date: 2025-04-14T15:59:54.159Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -314,7 +314,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         <td style="background-color:#42662E;">Лимон</td>
         <td style="background-color:#42662E;">Производит лимоны. Лимоны используются в различных кулинарных рецептах. Они также помогают предотвратить цингу.</td>
         <td><img src="/guides/hydroshit/lemon_tree.png"></td>
-        <td><img src="/guides/hydroshit/plants/lemon.png"></td>
+        <td><img src="/guides/hydroshit/lemon.png"></td>
       </tr>
       <tr>
         <td style="background-color:#42662E;">Лайм</td>
