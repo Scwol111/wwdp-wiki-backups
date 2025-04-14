@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-14T16:16:14.966Z
+date: 2025-04-14T16:19:51.914Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -546,7 +546,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
     </tr>
     <tr>
       <td>
-      	<figure class="image"><img src="/guides/hydroshit/hydro_tray_alert.gif"></figure>
+      	<img src="/guides/hydroshit/hydro_tray_alert.gif">
       </td>
       <td>Условия содержания растения нарушены.</td>
       <td>Множество проблем заключены в одном индикаторе. Рассмотрим каждый.
@@ -559,14 +559,14 @@ dateCreated: 2024-09-10T19:07:56.088Z
     </tr>
     <tr>
     	<td>
-        <figure class="image"><img src="/guides/hydroshit/xxx.png">(4-й индикатор)</figure>
+        <img src="/guides/hydroshit/hydro_tray_nutri.gif">
       </td>
       <td>В лотке недостаточно питательных веществ.</td>
       <td>Накормите лоток питательными веществами любым доступным вам способом. <del><i>Ходят слухи, что если залить в коноплю ТГК, то она будет расти быстрее...</i></del></td>
     </tr>
     <tr>
       <td>
-        <figure class="image"><img src="/guides/hydroshit/xxx.png">(5-й индикатор)</figure>
+        <img src="/guides/hydroshit/hydro_tray_nutri.gif">(5-й индикатор)
       </td>
       <td>В лотке недостаточно воды.</td>
       <td>Напоите лоток водой любым доступным вам способом. <del><i>Мне тут святоша подсказал, если залить в растение святую воду вместо обычной, то оно никогда не будет стареть...</i></del></td>
