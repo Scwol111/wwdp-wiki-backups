@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-14T15:59:54.159Z
+date: 2025-04-14T16:16:14.966Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -505,7 +505,6 @@ dateCreated: 2024-09-10T19:07:56.088Z
   </table>
 
   <h2>Гидропонный лоток</h2>
-<p style="text-align:right;">&nbsp;</p>
 <p style="text-align:left;">Гидропонный лоток - лоток, в котором наши растения будут расти без почвы. Волшебно... Чтобы начать процесс выращивания растения, нужно: 
   <ol>
     <li style="text-align:left;">Взять пакет семян в руку и кликнуть на лоток.</li>
@@ -547,7 +546,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
     </tr>
     <tr>
       <td>
-      	<figure class="image"><img src="/guides/hydroshit/xxx.png">(3-й индикатор)</figure>
+      	<figure class="image"><img src="/guides/hydroshit/hydro_tray_alert.gif"></figure>
       </td>
       <td>Условия содержания растения нарушены.</td>
       <td>Множество проблем заключены в одном индикаторе. Рассмотрим каждый.
