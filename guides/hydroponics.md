@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-14T16:32:48.641Z
+date: 2025-04-15T09:49:55.959Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -566,7 +566,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/hydroshit/hydro_tray_nutri.gif">
+        <img src="/guides/hydroshit/Hydro_tray_nutri.gif">
       </td>
       <td>В лотке недостаточно воды.</td>
       <td>Напоите лоток водой любым доступным вам способом. <del><i>Мне тут святоша подсказал, если залить в растение святую воду вместо обычной, то оно никогда не будет стареть...</i></del></td>
