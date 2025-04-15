@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-15T09:49:55.959Z
+date: 2025-04-15T09:54:42.668Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -525,14 +525,14 @@ dateCreated: 2024-09-10T19:07:56.088Z
   <tbody>
     <tr>
       <td>
-        <img src = "/guides/hydroshit/xxx.png">(1-й индикатор)
+        <img src = "/guides/hydroshit/hydro_tray_harvest.gif">
       </td>
       <td>Растение вырасло и плоды готовы к сбору.</td>
       <td>Ты молодец. Собирай плоды и используй их по назначению.</td>
     </tr>
     <tr>
       <td>
-      	<img src="/guides/hydroshit/xxx.png">
+      	<img src="/guides/hydroshit/hydro_tray_health.gif">
       </td>
       <td>Растение мертво.</td>
       <td>Это досадно. Выделяют 3 основные причины смерти растения.
@@ -566,7 +566,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
     </tr>
     <tr>
       <td>
-        <img src="/guides/hydroshit/Hydro_tray_nutri.gif">
+        <img src="/guides/hydroshit/hydro_tray_water.gif">
       </td>
       <td>В лотке недостаточно воды.</td>
       <td>Напоите лоток водой любым доступным вам способом. <del><i>Мне тут святоша подсказал, если залить в растение святую воду вместо обычной, то оно никогда не будет стареть...</i></del></td>
