@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-15T14:44:58.819Z
+date: 2025-04-15T14:52:11.715Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -784,7 +784,35 @@ dateCreated: 2024-09-10T19:07:56.088Z
       <td>
         <img src="/guides/hydroshit/xxx.png">
       </td>
-       <td>Не настоящий капфрут (Гатфрут)</td>
+      <td>Не настоящий капфрут (Гатфрут)</td>
+      <td>При поедании плода даёт игрушечный пистолетик с <b>БОЕВЫМИ БРОНЕБОЙНЫМИ ПАТРОНАМИ!</b></td>
+    </tr>
+     <tr>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">
+      </td>
+      <td>Смешной горошек (Горох)</td>
+       <td>Содержит в себе <i>смех</i> и сахар.</td>
+    </tr>
+     <tr>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">
+      </td>
+      <td>Мировой горох (Смешной горошек)</td>
+       <td>Содержит в себе токсин немоты, пакс и <i>счастье</i>.</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">
+      </td>
+      <td>Радужная конопля (Конопля)</td>
+      <td>Содержит в себе космический мираж, токсин майндюрекер, лилоципид, <i>псикодин и счастье</i></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">
+      </td>
+      <td>Пирохлопок (Хлопок)</td>
       <td></td>
     </tr>
   </tbody>
