@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-15T16:38:18.378Z
+date: 2025-04-16T15:38:06.262Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -703,186 +703,262 @@ dateCreated: 2024-09-10T19:07:56.088Z
 <table class="ser">
   <thead>
     <tr>
-      <th>Изображение
-     	<th>Название
-      <th>Свойства
+      <th>Название
+     	<th>Свойства
+      <th>Изображение растения
+      <th>Изображение плода
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>
-        <img src = "/guides/hydroshit/xxx.png">
-      </td>
       <td>Амброзия Деус (Амброзия Вульгарис)</td>
       <td>Содержит в себе омнизин и космические наркотики.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-      	<img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Кровавый томат (Томат)</td>
       <td>Содержит кровь.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Томат-убийца (Кровавый томат)</td>
       <td>При сборе появляются юниты (томаты-убийцы), которые не будут атаковать ближайшего игрока к лотку. Будучи призраком за них можно зайти. Живут 5 минут без опрыскивания обычной водой. После смерти через минуту их тела разложатся и оставят после себя ломтики огромного помидора (как и при разделке). Содержат непрожаренные животные протеины и жир.</td>
-    </tr>
-    <tr>
-    	<td>
+      <td>
         <img src="/guides/hydroshit/xxx.png">
       </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">
+      </td>
+    </tr>
+    <tr>
       <td>Смертокрапива (Крапива)</td>
       <td>Содержит серную и фторную кислоту. Наносит примерно 17 урона (без учёта ядов)</td>
+			<td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Лилун (Лимон)</td>
       <td>При измельчении даёт молоко, а при выжимне - сакэ.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Миман (Банан)</td>
       <td>Содержит токсин немоты.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Сталешляпник (Грибошляпник)</td>
       <td>При переработке даёт сталь.</td>
+      			<td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Чи<b>лл</b>и (Чи<b>л</b>и)</td>
       <td>Содержит фризиум.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Коибобы (Соевые бобы)</td>
       <td>Содержит карпотоксин.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
      <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Капфрут (Гатфрут)</td>
       <td>При поедании плода даёт игрушечный пистолетик с пистонами.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+       <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
      <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Не настоящий капфрут (Гатфрут)</td>
       <td>При поедании плода даёт игрушечный пистолетик с <b>БОЕВЫМИ БРОНЕБОЙНЫМИ ПАТРОНАМИ!</b></td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+       <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
      <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Смешной горошек (Горох)</td>
        <td>Содержит в себе <i>смех</i> и сахар.</td>
+       <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+       <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
      <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Мировой горох (Смешной горошек)</td>
-       <td>Содержит в себе токсин немоты, пакс и <i>счастье</i>.</td>
+      <td>Содержит в себе токсин немоты, пакс и <i>счастье</i>.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Радужная конопля (Конопля)</td>
-      <td>Содержит в себе космический мираж, токсин майндюрекер, лилоципид, <i>псикодин и счастье.</i></td>
+      <td>Содержит в себе космический мираж, токсин майндюрекер, лилоципид, псикодин и <i>счастье.</i></td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Пирохлопок (Хлопок)</td>
       <td>Содержит волокно и флогистон.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Лилия (Мак)</td>
       <td>Содержит бикаридин.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Космонавтская трубка (Она же фиалка) (Лилия)</td>
       <td>Содержит олигомеры полипирилия, за счет чего является мощным лекарством против любого механического урона.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Бумажный тростник (Сахарный тростник)</td>
       <td>Его можно разрубить на бумагу.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Стеклополох (Галакточертополох)</td>
       <td>Содержит бритвиум. Является хрупким, при разбивании оставляет после себя осколок стекла.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Синяя тыква (Тыква)</td>
       <td>Содержит аммиак, хлор и витамины.</td>
-    </tr>
-    <tr>
       <td>
         <img src="/guides/hydroshit/xxx.png">
       </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">
+      </td>
+    </tr>
+    <tr>
       <td>Синий томат (Томат)</td>
       <td>Содержит космическую смазку.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Золотое яблоко (Яблоко)</td>
       <td>Содержит <del>косметику</del> трикордразин и витамины. </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Мясопшеница (Пшеница)</td>
       <td>Содержит непрожаренные животные протеины.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Святой арбуз (Арбуз)</td>
       <td>Содержит в себе святую воду и витамины. При выжимании даёт вино. При разделке даёт ломтики святого арбуза и арбузный ореол (нимб) в виде аксесуара.</td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
     <tr>
-      <td>
-        <img src="/guides/hydroshit/xxx.png">
-      </td>
       <td>Внермерный апельсин (Апельсин)</td>
       <td>Содержит галоперидол и витамины. <i>По сути, апельсин, но с иным составом и побольше.</i></td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
+      <td>
+        <img src="/guides/hydroshit/xxx.png">.
+      </td>
     </tr>
   </tbody>
 </table>
