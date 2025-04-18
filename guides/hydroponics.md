@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-17T16:01:23.363Z
+date: 2025-04-18T14:31:44.962Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -817,47 +817,47 @@ dateCreated: 2024-09-10T19:07:56.088Z
         <img src="/guides/hydroshit/harvest-world-pea.png">
       </td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/produce-world-pea.png">
       </td>
     </tr>
     <tr>
       <td>Радужная конопля (Конопля)</td>
       <td>Содержит в себе космический мираж, токсин майндюрекер, лилоципид, псикодин и <i>счастье.</i></td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/harvest-rainbow-cannabis.png">
       </td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/produce-rainbow-cannabis.png">
       </td>
     </tr>
     <tr>
       <td>Пирохлопок (Хлопок)</td>
       <td>Содержит волокно и флогистон.</td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/harvest-pyrotton.png">
       </td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/produce-pyrotton.png">
       </td>
     </tr>
     <tr>
       <td>Лилия (Мак)</td>
       <td>Содержит бикаридин.</td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/harvest-lily.png">
       </td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/produce-lily.png">
       </td>
     </tr>
     <tr>
       <td>Космонавтская трубка (Она же фиалка) (Лилия)</td>
       <td>Содержит олигомеры полипирилия, за счет чего является мощным лекарством против любого механического урона.</td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/harvest-spacemans-trumpet.png">
       </td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/produce-spacemans-trumpet.png">
       </td>
     </tr>
     <tr>
