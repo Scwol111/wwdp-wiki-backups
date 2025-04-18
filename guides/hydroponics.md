@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-18T14:31:44.962Z
+date: 2025-04-18T14:49:32.281Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -864,70 +864,70 @@ dateCreated: 2024-09-10T19:07:56.088Z
       <td>Бумажный тростник (Сахарный тростник)</td>
       <td>Его можно разрубить на бумагу.</td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/harvest-papercane.png">
       </td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/produce-papercane.png">
       </td>
     </tr>
     <tr>
       <td>Стеклополох (Галакточертополох)</td>
       <td>Содержит бритвиум. Является хрупким, при разбивании оставляет после себя осколок стекла.</td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/harvest-glasstle.png">
       </td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/produce-glasstle.png">
       </td>
     </tr>
     <tr>
       <td>Синий томат (Томат)</td>
       <td>Содержит космическую смазку.</td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/harvest-blue-tomato.png">
       </td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/produce-blue-tomato.png">
       </td>
     </tr>
     <tr>
       <td>Золотое яблоко (Яблоко)</td>
       <td>Содержит <del>косметику</del> трикордразин и витамины. </td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/harvest-golden-apple.png">
       </td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/produce-golden-apple.png">
       </td>
     </tr>
     <tr>
       <td>Мясопшеница (Пшеница)</td>
       <td>Содержит непрожаренные животные протеины.</td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/harvest-meatwheat.png">
       </td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">
+        <img src="/guides/hydroshit/produce-meatwheat.png">
       </td>
     </tr>
     <tr>
       <td>Святой арбуз (Арбуз)</td>
       <td>Содержит в себе святую воду и витамины. При выжимании даёт вино. При разделке даёт ломтики святого арбуза и арбузный ореол (нимб) в виде аксесуара.</td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">.
+        <img src="/guides/hydroshit/harvest-holymelon.png">
       </td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">.
+        <img src="/guides/hydroshit/produce-holymelon.png">
       </td>
     </tr>
     <tr>
       <td>Внермерный апельсин (Апельсин)</td>
       <td>Содержит галоперидол и витамины. <i>По сути, апельсин, но с иным составом и побольше.</i></td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">.
+        <img src="/guides/hydroshit/harvest-extradimensional-orange.png">
       </td>
       <td>
-        <img src="/guides/hydroshit/xxx.png">.
+        <img src="/guides/hydroshit/produce-extradimensional-orange.png">
       </td>
     </tr>
   </tbody>
