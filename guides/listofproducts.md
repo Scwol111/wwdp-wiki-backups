@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-19T23:11:45.354Z
+date: 2025-04-19T23:14:42.982Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
