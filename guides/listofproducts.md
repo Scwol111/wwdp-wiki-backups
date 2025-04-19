@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-19T10:24:34.910Z
+date: 2025-04-19T10:31:48.086Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -745,10 +745,10 @@ weapon.png" alt="secure_weapon_case.png" />
     <p><img src="/guides/supply/listofproduct_2/other/food/tomato_juise.png" alt="tomato_juise.png" />Томатный сок x2</p>
     <p><img src="/guides/supply/listofproduct_2/other/food/orange_juise.png" alt="orange_juise.png" />Апельсиновый сок x2</p>
     <p><img src="/guides/supply/listofproduct_2/other/food/bottle_of_water.png" alt="bottle_of_water.png" />Бутылка воды x2</p>
-    <p><img src="/guides/supply//food/soda_can.png" alt="soda_can.png" />Банка содовой x2</p>
-    <p><img src="/guides/supply//food/shaker.png" alt="shaker.png" />Шейкер x2</p>
-    <p><img src="/guides/supply//food/stakan.png" alt="stakan.png" />Питьевой стакан x5</p>
-    <p><img src="/guides/supply//food/stopka.png" alt="stopka.png" />Стопка x5</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/soda_can.png" alt="soda_can.png" />Банка содовой x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/shaker.png" alt="shaker.png" />Шейкер x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/stakan.png" alt="stakan.png" />Питьевой стакан x5</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/stopka.png" alt="stopka.png" />Стопка x5</p>
   </div>  
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -758,8 +758,8 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1800$</p>
   </div>
   <div>
-    <p><img src="/guides/supply//food/pizza_box.png" alt="pizza_box.png" /> Коробка пиццы x16</p>
-    <p><img src="/guides/supply/listofproducts/food/plastikoviy_nozh.png" alt="plastikoviy_nozh.png" />Пластиковый нож x4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/pizza_box.png" alt="pizza_box.png" /> Коробка пиццы x16</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/plastikoviy_nozh.png" alt="plastikoviy_nozh.png" />Пластиковый нож x4</p>
   </div>  
 <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -787,12 +787,12 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2400$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproduct_2/other/food/cans/4teenloko.png" alt="4teenloko.png" />Фауртин Локо x4</p>
-    <p><img src="/guides/supply/listofproduct_2/other/food/cans/vinogradnayagazirovka.png" alt="vinogradnayagazirovka.png" />Банка виноградной газировки x4</p>
-<p><img src="/guides/supply/listofproduct_2/other/food/cans/limon-laim.png" alt="limon-laim.png" />Банка лимон-лайма x4</p>
-    <p><img src="/guides/supply/listofproduct_2/other/food/cans/rootbeer.png" alt="rootbeer.png" />Банка рутбира x4</p>
-<p><img src="/guides/supply/listofproduct_2/other/food/cans/coldtea.png" alt="coldtea.png" />Банка холодного чая x4</p>
-    <p><img src="/guides/supply/listofproduct_2/other/food/cans/cosmocola.png" alt="cosmocola.png" />Космическая кола x8</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/4teenloko.png" alt="4teenloko.png" />Фауртин Локо x4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/vinogradnayagazirovka.png" alt="vinogradnayagazirovka.png"/>Банка виноградной газировки x4</p>
+<p><img src="/guides/supply/listofproduct_2/other/food/limon-laim.png" alt="limon-laim.png" />Банка лимон-лайма x4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/rootbeer.png" alt="rootbeer.png" />Банка рутбира x4</p>
+<p><img src="/guides/supply/listofproduct_2/other/food/coldtea.png" alt="coldtea.png" />Банка холодного чая x4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/cosmocola.png" alt="cosmocola.png" />Космическая кола x8</p>
   </div>
     <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -802,12 +802,12 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1200$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/food/cans/4teenloko.png" alt="4teenloko.png" />Фауртин Локо x2</p>
-    <p><img src="/guides/supply/listofproducts/food/cans/vinogradnayagazirovka.png" alt="vinogradnayagazirovka.png" />Банка виноградной газировки x2</p>
-<p><img src="/guides/supply/listofproducts/food/cans/limon-laim.png" alt="limon-laim.png" />Банка лимон-лайма x2</p>
-    <p><img src="/guides/supply/listofproducts/food/cans/rootbeer.png" alt="rootbeer.png" />Банка рутбира x2</p>
-<p><img src="/guides/supply/listofproducts/food/cans/coldtea.png" alt="coldtea.png" />Банка холодного чая x2</p>
-    <p><img src="/guides/supply/listofproducts/food/cans/cosmocola.png" alt="cosmocola.png" />Космическая кола x4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/4teenloko.png" alt="4teenloko.png" />Фауртин Локо x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/vinogradnayagazirovka.png" alt="vinogradnayagazirovka.png" />Банка виноградной газировки x2</p>
+<p><img src="/guides/supply/listofproduct_2/other/food/limon-laim.png" alt="limon-laim.png" />Банка лимон-лайма x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/rootbeer.png" alt="rootbeer.png" />Банка рутбира x2</p>
+<p><img src="/guides/supply/listofproduct_2/other/food/coldtea.png" alt="coldtea.png" />Банка холодного чая x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/cosmocola.png" alt="cosmocola.png" />Космическая кола x4</p>
   </div>  
 </div>
 </div>
@@ -823,14 +823,14 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/party/cake.png" alt="cake.png" />Именинный торт</p>
-    <p><img src="/guides/supply/listofproducts/fun/party/lin.png" alt="lin.png" />Лин х4</p>
-    <p><img src="/guides/supply/listofproducts/fun/party/knife.png" alt="knife.png" />Пластиковый нож</p>
-    <p><img src="/guides/supply/listofproducts/fun/party/himsvet.png" alt="himsvet.png" />Красный химсвет x2</p>
-    <p><img src="/guides/supply/listofproducts/fun/party/himsvet.png" alt="himsvet.png" />Жёлтый химсвет x2</p>
-    <p><img src="/guides/supply/listofproducts/fun/party/himsvet.png" alt="himsvet.png" />Зелёный химсвет x2</p>
-    <p><img src="/guides/supply/listofproducts/fun/party/himsvet.png" alt="himsvet.png" />Синий химсвет x2</p>
-    <p><img src="/guides/supply/listofproducts/fun/party/himsvet.png" alt="himsvet.png" />Фиолетовый химсвет x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/cake.png" alt="cake.png" />Именинный торт</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/lin.png" alt="lin.png" />Лин х4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/plastikoviy_nozh.png" alt="knife.png" />Пластиковый нож</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/himsvet.png" alt="himsvet.png" />Красный химсвет x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/himsvet.png" alt="himsvet.png" />Жёлтый химсвет x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/himsvet.png" alt="himsvet.png" />Зелёный химсвет x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/himsvet.png" alt="himsvet.png" />Синий химсвет x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/himsvet.png" alt="himsvet.png" />Фиолетовый химсвет x2</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
@@ -840,8 +840,8 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/art/melki.png" alt="melki.png" />Коробка для мелков</p>
-    <p><img src="/guides/supply/listofproducts/fun/art/melok.png" alt="melok.png" />Белый мелок</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/melki.png" alt="melki.png" />Коробка для мелков</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/melok.png" alt="melok.png" />Белый мелок</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
@@ -851,8 +851,8 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/toys/plushie_spacelizard.png" alt="plushie_spacelizard.png" />Плюшевый космический ящер x2</p>
-    <p><img src="/guides/supply/listofproducts/fun/toys/plushie_lizard.png" alt="plushie_lizard.png" />Плюшевый ящер x3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/plushie_spacelizard.png" alt="plushie_spacelizard.png" />Плюшевый космический ящер x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/plushie_lizard.png" alt="plushie_lizard.png" />Плюшевый ящер x3</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
@@ -862,11 +862,11 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/tablegames/cube.png" alt="cube.png" />d6 x4</p>
-    <p><img src="/guides/supply/listofproducts/fun/tablegames/nardy.png" alt="nardy.png" /> Доска для нард</p>
-    <p><img src="/guides/supply/listofproducts/fun/tablegames/parchis.png" alt="parchis.png" /> Доска для парчис</p>
-    <p><img src="/guides/supply/listofproducts/fun/tablegames/chess.png" alt="chess.png" /> Шахматная доска</p>
-    <p><img src="/guides/supply/listofproducts/fun/tablegames/chess.png" alt="chess.png" /> Шашечная доска</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/cube.png" alt="cube.png" />d6 x4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/nardy.png" alt="nardy.png" /> Доска для нард</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/parchis.png" alt="parchis.png" /> Доска для парчис</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/chess.png" alt="chess.png" /> Шахматная доска</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/chess.png" alt="chess.png" /> Шашечная доска</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
@@ -876,11 +876,11 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/plushies/hampter.png" alt="hampter.png" />Плюшевый хамптер</p>
-    <p><img src="/guides/supply/listofproducts/plushies/ksemo.png" alt="ksemo.png" />Плюшевый ксено</p>
-    <p><img src="/guides/supply/listofproducts/plushies/diona.png" alt="diona.png" />Плюшевая диона</p>
-    <p><img src="/guides/supply/listofproducts/plushies/snake.png" alt="snake.png" />Плюшевая змея</p>
-    <p><img src="/guides/supply/listofproducts/plushies/nasri.png" alt="nasri.png" />Плюшевая нар'си</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/hampter.png" alt="hampter.png" />Плюшевый хамптер</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/ksemo.png" alt="ksemo.png" />Плюшевый ксено</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/diona.png" alt="diona.png" />Плюшевая диона</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/snake.png" alt="snake.png" />Плюшевая змея</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/nasri.png" alt="nasri.png" />Плюшевая нар'си</p>
     <p><img src="/guides/supply/listofproducts/plushies/bee.png" alt="bee.png" />Плюшевая пчела</p>
     <p><img src="/guides/supply/listofproducts/plushies/atmos.png" alt="atmos.png" />Плюшевый атмосферник</p>
     <p><img src="/guides/supply/listofproducts/plushies/voks.png" alt="voks.png" />Плюшевый вокс</p>
