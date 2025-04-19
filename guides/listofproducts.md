@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-19T10:17:44.234Z
+date: 2025-04-19T10:24:34.910Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -713,7 +713,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/food/irp.png" alt="irp.png" />И.Р.П. x6</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/irp.png" alt="irp.png" />И.Р.П. x6</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -723,14 +723,14 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>750$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/food/egg_box.png" alt="egg_box.png" />Картонная упаковка яиц x2</p>
-    <p><img src="/guides/supply/listofproducts/food/myka_meow_meow_uwu.png" alt="myka_meow_meow_uwu.png" />Мешок муки x3</p>
-    <p><img src="/guides/supply/listofproducts/food/meshok_risa.png" alt="meshok_risa.png" />Мешок риса x3</p>
-    <p><img src="/guides/supply/listofproducts/food/meshok_sugar.png" alt="meshok_sugar.png" />Мешок сахара x2</p>
-    <p><img src="/guides/supply/listofproducts/food/femboy_milk.png" alt="femboy_milk.png" />Молоко x4</p>
-    <p><img src="/guides/supply/listofproducts/food/soy_milk.png" alt="soy_milk.png" />Соевое молоко x2</p>
-    <p><img src="/guides/supply/listofproducts/food/universal_ferment.png" alt="universal_ferment.png" />Универсальный фермент x2</p>
-    <p><img src="/guides/supply/listofproducts/food/salt.png" alt="salt.png" />Соль x3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/egg_box.png" alt="egg_box.png" />Картонная упаковка яиц x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/myka_meow_meow_uwu.png" alt="myka_meow_meow_uwu.png" />Мешок муки x3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/meshok_risa.png" alt="meshok_risa.png" />Мешок риса x3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/meshok_sugar.png" alt="meshok_sugar.png" />Мешок сахара x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/femboy_milk.png" alt="femboy_milk.png" />Молоко x4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/soy_milk.png" alt="soy_milk.png" />Соевое молоко x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/universal_ferment.png" alt="universal_ferment.png" />Универсальный фермент x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/salt.png" alt="salt.png" />Соль x3</p>
   </div>  
 <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -740,15 +740,15 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>750$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/food/lime_juise.png" alt="lime_juise.png" />Лаймовый сок x2</p>
-    <p><img src="/guides/supply/listofproducts/food/milk_slivki.png" alt="milk_slivki.png" />Молочные сливки x2</p>
-    <p><img src="/guides/supply/listofproducts/food/tomato_juise.png" alt="tomato_juise.png" />Томатный сок x2</p>
-    <p><img src="/guides/supply/listofproducts/food/orange_juise.png" alt="orange_juise.png" />Апельсиновый сок x2</p>
-    <p><img src="/guides/supply/listofproducts/food/bottle_of_water.png" alt="bottle_of_water.png" />Бутылка воды x2</p>
-    <p><img src="/guides/supply/listofproducts/food/soda_can.png" alt="soda_can.png" />Банка содовой x2</p>
-    <p><img src="/guides/supply/listofproducts/food/shaker.png" alt="shaker.png" />Шейкер x2</p>
-    <p><img src="/guides/supply/listofproducts/food/stakan.png" alt="stakan.png" />Питьевой стакан x5</p>
-    <p><img src="/guides/supply/listofproducts/food/stopka.png" alt="stopka.png" />Стопка x5</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/lime_juise.png" alt="lime_juise.png" />Лаймовый сок x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/milk_slivki.png" alt="milk_slivki.png" />Молочные сливки x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/tomato_juise.png" alt="tomato_juise.png" />Томатный сок x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/orange_juise.png" alt="orange_juise.png" />Апельсиновый сок x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/bottle_of_water.png" alt="bottle_of_water.png" />Бутылка воды x2</p>
+    <p><img src="/guides/supply//food/soda_can.png" alt="soda_can.png" />Банка содовой x2</p>
+    <p><img src="/guides/supply//food/shaker.png" alt="shaker.png" />Шейкер x2</p>
+    <p><img src="/guides/supply//food/stakan.png" alt="stakan.png" />Питьевой стакан x5</p>
+    <p><img src="/guides/supply//food/stopka.png" alt="stopka.png" />Стопка x5</p>
   </div>  
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -758,7 +758,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1800$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/food/pizza_box.png" alt="pizza_box.png" /> Коробка пиццы x16</p>
+    <p><img src="/guides/supply//food/pizza_box.png" alt="pizza_box.png" /> Коробка пиццы x16</p>
     <p><img src="/guides/supply/listofproducts/food/plastikoviy_nozh.png" alt="plastikoviy_nozh.png" />Пластиковый нож x4</p>
   </div>  
 <div>
@@ -769,15 +769,15 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>750$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/food/knife.png" alt="knife.png" />Кухонный нож</p>
-    <p><img src="/guides/supply/listofproducts/food/fork.png" alt="fork.png" />Вилка х2</p>
-    <p><img src="/guides/supply/listofproducts/food/spoon.png" alt="spoon.png" />Ложка х2</p>
-    <p><img src="/guides/supply/listofproducts/food/shampur.png" alt="shampur.png" />Шампур х4</p>
-    <p><img src="/guides/supply/listofproducts/food/bowl.png" alt="bowl.png" />Миска х4</p>
-    <p><img src="/guides/supply/listofproducts/food/big_plate.png" alt="big_plate.png" />Большая тарелка х4</p>
-    <p><img src="/guides/supply/listofproducts/food/small_plate.png" alt="small_plate.png" />Маленькая тарелка х4</p>
-    <p><img src="/guides/supply/listofproducts/food/stakan.png" alt="stakan.png" />Питьевой стакан х4</p>
-    <p><img src="/guides/supply/listofproducts/food/formo4ka_for_pie.png" alt="formo4ka_for_pie.png" />Формочка для пирога х4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/knife.png" alt="knife.png" />Кухонный нож</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/fork.png" alt="fork.png" />Вилка х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/spoon.png" alt="spoon.png" />Ложка х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/shampur.png" alt="shampur.png" />Шампур х4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/bowl.png" alt="bowl.png" />Миска х4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/big_plate.png" alt="big_plate.png" />Большая тарелка х4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/small_plate.png" alt="small_plate.png" />Маленькая тарелка х4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/stakan.png" alt="stakan.png" />Питьевой стакан х4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/formo4ka_for_pie.png" alt="formo4ka_for_pie.png" />Формочка для пирога х4</p>
   </div>  
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -787,12 +787,12 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2400$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/food/cans/4teenloko.png" alt="4teenloko.png" />Фауртин Локо x4</p>
-    <p><img src="/guides/supply/listofproducts/food/cans/vinogradnayagazirovka.png" alt="vinogradnayagazirovka.png" />Банка виноградной газировки x4</p>
-<p><img src="/guides/supply/listofproducts/food/cans/limon-laim.png" alt="limon-laim.png" />Банка лимон-лайма x4</p>
-    <p><img src="/guides/supply/listofproducts/food/cans/rootbeer.png" alt="rootbeer.png" />Банка рутбира x4</p>
-<p><img src="/guides/supply/listofproducts/food/cans/coldtea.png" alt="coldtea.png" />Банка холодного чая x4</p>
-    <p><img src="/guides/supply/listofproducts/food/cans/cosmocola.png" alt="cosmocola.png" />Космическая кола x8</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/cans/4teenloko.png" alt="4teenloko.png" />Фауртин Локо x4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/cans/vinogradnayagazirovka.png" alt="vinogradnayagazirovka.png" />Банка виноградной газировки x4</p>
+<p><img src="/guides/supply/listofproduct_2/other/food/cans/limon-laim.png" alt="limon-laim.png" />Банка лимон-лайма x4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/cans/rootbeer.png" alt="rootbeer.png" />Банка рутбира x4</p>
+<p><img src="/guides/supply/listofproduct_2/other/food/cans/coldtea.png" alt="coldtea.png" />Банка холодного чая x4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/cans/cosmocola.png" alt="cosmocola.png" />Космическая кола x8</p>
   </div>
     <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
