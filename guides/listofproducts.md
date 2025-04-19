@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-19T10:39:46.651Z
+date: 2025-04-19T10:45:33.570Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -959,11 +959,11 @@ weapon.png" alt="secure_weapon_case.png" />
   <div>
     <p><img src="/guides/supply/listofproduct_2/other/toys/volynka.png" alt="volynka.png" />Волынка</p>
     <p><img src="/guides/supply/listofproduct_2/other/toys/block.png" alt="block.png" />Блокфлейта х2</p>
-    <p><img src="/guides/supply/listofproduct_2/other/toys/derevyannie/clarnet.png" alt="clarnet.png" />Кларнет</p>
-    <p><img src="/guides/supply/listofproduct_2/other/toys/derevyannie/flute.png" alt="flute.png" />Флейта</p>
-    <p><img src="/guides/supply/listofproducts/fun/derevyannie/garmoshka.png" alt="garmoshka.png" />Губная гармошка х2</p>
-    <p><img src="/guides/supply/listofproducts/fun/derevyannie/pana.png" alt="pana.png" />Флейта Пана</p>
-    <p><img src="/guides/supply/listofproducts/fun/derevyannie/okarina.png" alt="okarina.png" />Окарина</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/clarnet.png" alt="clarnet.png" />Кларнет</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/flute.png" alt="flute.png" />Флейта</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/garmoshka.png" alt="garmoshka.png" />Губная гармошка х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/pana.png" alt="pana.png" />Флейта Пана</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/okarina.png" alt="okarina.png" />Окарина</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/plastic_crate.png" alt="plastic_crate.png" />
@@ -973,22 +973,22 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>4000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/fig_box.png" alt="fig_box.png" /> Коробка с минифигурками таинственных космонавтов х10</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/fig_box.png" alt="fig_box.png" /> Коробка с минифигурками таинственных космонавтов х10</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/fun/crates/pirate_chest.png" alt="pirate_chest.png" />
+    <img src="/guides/supply/listofproduct_2/containers/treasure.png" alt="pirate_chest.png" />
     <p>Пиратский сундук</p>
   </div>
   <div>
     <p>400$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/pirate/1.png" alt="1.png" />Пенопластовая сабля x2</p>
-    <p><img src="/guides/supply/listofproducts/fun/pirate/2.png" alt="2.png" />Пиратская шляпа</p>
-    <p><img src="/guides/supply/listofproducts/fun/pirate/3.png" alt="3.png" />Одежда пирата</p>
-    <p><img src="/guides/supply/listofproducts/fun/pirate/4.png" alt="4.png" />Красная бандана</p>
-    <p><img src="/guides/supply/listofproducts/fun/pirate/5.png" alt="5.png" />Пиратская рубашка x2</p>
-    <p><img src="/guides/supply/listofproducts/fun/pirate/6.png" alt="6.png" />Шнурованные туфли x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/1.png" alt="1.png" />Пенопластовая сабля x2</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/hats/2.png" alt="2.png" />Пиратская шляпа</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/suits/3.png" alt="3.png" />Одежда пирата</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/hats/red_bandana.png" alt="4.png" />Красная бандана</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/suits/5.png" alt="5.png" />Пиратская рубашка x2</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/boots/pirat_boots.png" alt="6.png" />Шнурованные туфли x2</p>
   </div>
   
   
@@ -1000,8 +1000,8 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>750$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/waterpistols/waterblaster.png" alt="waterblaster.png" />Водяной бластер x2</p>
-    <p><img src="/guides/supply/listofproducts/fun/waterpistols/waterpistol.png" alt="waterpistol.png" />Водяной пистолет x4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/waterblaster.png" alt="waterblaster.png" />Водяной бластер x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/waterpistols/waterpistol.png" alt="waterpistol.png" />Водяной пистолет x4</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
