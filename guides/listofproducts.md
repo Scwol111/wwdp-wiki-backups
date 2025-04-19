@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-19T22:25:28.367Z
+date: 2025-04-19T22:33:57.601Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -1260,230 +1260,232 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2800$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/hampter.png" alt="hampter.png" />Хомяк x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/hampter.png" alt="hampter.png" />Хомяк x1</p>
   </div>
    <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик гусей</p>
   </div>
   <div>
     <p>2100$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/goose.png" alt="goose.png" />Гусь х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/goose.png" alt="goose.png" />Гусь х2</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик змей</p>
   </div>
   <div>
     <p>3000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/snake.png" alt="snake.png" />Змея х3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/snake.png" alt="snake.png" />Змея х3</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик с корги</p>
   </div>
   <div>
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/corgi.png" alt="corgi.png" />Корги x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/corgi.png" alt="corgi.png" />Корги x1</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик кур</p>
   </div>
   <div>
     <p>4000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/cock.png" alt="cock.png" />Курица х4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/cock.png" alt="cock.png" />Курица х4</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик мышей</p>
   </div>
   <div>
     <p>4400$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/mouse.png" alt="mouse.png" />Мышь х5</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/mouse.png" alt="mouse.png" />Мышь х5</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/steel_crate.png" alt="steel_crate.png" />
+    <img src="/guides/supply/listofproduct_2/containers/gray.png" alt="steel_crate.png" />
     <p>Ящик обезьяньих кубиков</p>
   </div>
   <div>
     <p>2000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproduct_2/containers/gray.png" alt="monkey_box.png" />Коробка кубиков обезьян x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/monkey_box.png" alt="monkey_box.png" />Коробка кубиков обезьян x1</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик пингвинов</p>
   </div>
   <div>
     <p>2100$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/penguin.png" alt="penguin.png" />Пингвин х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/penguin.png" alt="penguin.png" />Пингвин х2</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик попугаев</p>
   </div>
   <div>
     <p>3000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/parrot.png" alt="parrot.png" />Попугай х3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/parrot.png" alt="parrot.png" />Попугай х3</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик с бабочками</p>
   </div>
   <div>
     <p>4400$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/butterfly.png" alt="butterfly.png" />Бабочка х5</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/butterfly.png" alt="butterfly.png" />Бабочка х5</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик с гориллой</p>
   </div>
   <div>
     <p>1100$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/gorilla.png" style="height: 64px" alt="gorilla.png">Горилла x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/gorilla.png" style="height: 64px" alt="gorilla.png">Горилла x1</p>
   </div>
     <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик с козой</p>
   </div>
   <div>
     <p>1200$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/kosa.png" alt="kosa.png" />Коза x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/kosa.png" alt="kosa.png" />Коза x1</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик с коровой</p>
   </div>
   <div>
     <p>3200$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/cow.png" alt="cow.png" />Корова x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/cow.png" alt="cow.png" />Корова x1</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик с кошкой</p>
   </div>
   <div>
     <p>1200$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/cat.png" alt="cat.png" />Кошка x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/cat.png" alt="cat.png" />Кошка x1</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик с пчёлами</p>
   </div>
   <div>
     <p>7000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/bee.png" alt="bee.png" />Пчела х8</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/bee.png" alt="bee.png" />Пчела х8</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик со свиньёй</p>
   </div>
   <div>
     <p>1100$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/pig.png" alt="pig.png" />Свинья x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/pig.png" alt="pig.png" />Свинья x1</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик уток</p>
   </div>
   <div>
     <p>4000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/duck.png" alt="duck.png" />Утка х6</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/duck.png" alt="duck.png" />Утка х6</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик крабов</p>
   </div>
   <div>
     <p>3000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/crab.png" alt="crab.png" />Краб х3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/crab.png" alt="crab.png" />Краб х3</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик тараканомоли</p>
   </div>
   <div>
     <p>5000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/motroach.png" alt="motroach.png" />Тараканомоль х4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/motroach.png" alt="motroach.png" />Тараканомоль х4</p>
   </div>  
   <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик кенгуру</p>
   </div>
   <div>
     <p>2800$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/canguroo.png" alt="canguroo.png" />Кенгуру x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/canguroo.png" alt="canguroo.png" />Кенгуру x1</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/animals/steel_crate.png" alt="steel_crate.png" />
+    <img src="/guides/supply/listofproduct_2/containers/gray.png" alt="steel_crate.png" />
     <p>Ящик кобольтовых кубиков</p>
   </div>
   <div>
     <p>2000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/box_kobold.png" alt="box_kobold.png" />Коробка кубиков кобольда x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/box_kobold.png" alt="box_kobold.png" />Коробка кубиков кобольда x1</p>
   </div>
 <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик ящериц</p>
   </div>
   <div>
     <p>1100$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/lizard.png" alt="lizard.png" />Ящерица x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/lizard.png" alt="lizard.png" />Ящерица x1</p>
   </div>  
 <div>
-    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <img src="/guides/supply/listofproduct_2/other/animsl/wooden_crate.png" alt="wooden_crate.png" />
     <p>Ящик с щенком корги</p>
   </div>
   <div>
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/animals/puppy.png" alt="corgi.png" />Щенок корги x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/animsl/puppy.png" alt="corgi.png" />Щенок корги x1</p>
   </div>  
 </div>
 </div>
+
+
 
 
 
@@ -1491,7 +1493,7 @@ weapon.png" alt="secure_weapon_case.png" />
   <h3>Материалы</h3>
   <div class="custom-table">
     <div>
-      <img src="/guides/supply/listofproducts/materials/watertank.png" alt="water_reservoir.png" />
+      <img src="/guides/supply/listofproduct_2/smth/water.png" alt="water_reservoir.png" />
       <p>Водяной резервуар</p>
     </div>
     <div>
@@ -1500,7 +1502,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <div>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/materials/fueltank.png" alt="fuel_tank.png" />
+      <img src="/guides/supply/listofproduct_2/smth/fuel.png" alt="fuel_tank.png" />
       <p>Топливный резервуар</p>
     </div>
     <div>
@@ -1509,139 +1511,140 @@ weapon.png" alt="secure_weapon_case.png" />
    <div>
     </div>
       <div>
-      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <img src="/guides/supply/listofproduct_2/containers/gray.png" alt="crate.png" />
       <p>Ящик бумаги</p>
     </div>
     <div>
       <p>1000$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/materials/paper_3.png" alt="cardboard.png" /> Бумага(30) x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/material/paper_3.png" alt="cardboard.png" /> Бумага(30) x3</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <img src="/guides/supply/listofproduct_2/other/material/crate.png" alt="crate.png" />
       <p>Ящик листов пластали</p>
     </div>
     <div>
       <p>3000$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/materials/plasteel.png" alt="plasteel.png" />Пласталь(30) x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/material/plasteel.png" alt="plasteel.png" />Пласталь(30) x3</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <img src="/guides/supply/listofproduct_2/other/material/crate.png" alt="crate.png" />
       <p>Ящик листов пластика</p>
     </div>
     <div>
       <p>1500$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/materials/plastic.png" alt="plastic.png" />Пластик(30) x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/material/plastic.png" alt="plastic.png" />Пластик(30) x3</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <img src="/guides/supply/listofproduct_2/other/material/crate.png" alt="crate.png" />
       <p>Ящик листов стали</p>
     </div>
     <div>
       <p>1000$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/materials/steel.png" alt="steel.png" />Сталь(30) x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/material/steel.png" alt="steel.png" />Сталь(30) x3</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <img src="/guides/supply/listofproduct_2/other/material/crate.png" alt="crate.png" />
       <p>Ящик листов стекла</p>
     </div>
     <div>
       <p>1000$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/materials/glass.png" alt="glass.png" />Стекло(30) x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/material/glass.png" alt="glass.png" />Стекло(30) x3</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <img src="/guides/supply/listofproduct_2/other/material/crate.png" alt="crate.png" />
       <p>Ящик с бананиумом</p>
     </div>
     <div>
       <p>35000$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/materials/bananium.png" alt="glass.png" />Бананиум(10) x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/material/bananium.png" alt="glass.png" />Бананиум(10) x3</p>
     </div>
       <div>
-      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <img src="/guides/supply/listofproduct_2/other/material/crate.png" alt="crate.png" />
       <p>Ящик с золотом</p>
     </div>
     <div>
       <p>17000$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/materials/gold_3.png" alt="glass.png" />Золото(30) x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/material/gold_3.png" alt="glass.png" />Золото(30) x1</p>
     </div>
         <div>
-      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <img src="/guides/supply/listofproduct_2/other/material/crate.png" alt="crate.png" />
       <p>Ящик с серебром</p>
     </div>
     <div>
       <p>12000$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/materials/silver_3.png" alt="glass.png" />Серебро(30) x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/material/silver_3.png" alt="glass.png" />Серебро(30) x1</p>
     </div>
       <div>
-      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <img src="/guides/supply/listofproduct_2/other/material/crate.png" alt="crate.png" />
       <p>Ящик с ураном</p>
     </div>
     <div>
       <p>23000$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/materials/uranium_3.png" alt="glass.png" />Уран(30) x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/material/uranium_3.png" alt="glass.png" />Уран(30) x1</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <img src="/guides/supply/listofproduct_2/other/material/crate.png" alt="crate.png" />
       <p>Ящик твёрдой плазмы</p>
     </div>
     <div>
       <p>2000$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/materials/plasma.png" alt="plasma.png" />Плазма(30) x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/material/plasma.png" alt="plasma.png" />Плазма(30) x3</p>
     </div>  
     <div>
-      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <img src="/guides/supply/listofproduct_2/other/material/crate.png" alt="crate.png" />
       <p>Ящик латуни</p>
     </div>
     <div>
       <p>2500$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/materials/brass_3.png" alt="plasma.png" />Латунь(30) x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/material/brass_3.png" alt="plasma.png" />Латунь(30) x3</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <img src="/guides/supply/listofproduct_2/other/material/crate.png" alt="crate.png" />
       <p>Ящик картона</p>
     </div>
     <div>
       <p>750$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/materials/cardboard.png" alt="cardboard.png" /> Картон(30) x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/material/cardboard.png" alt="cardboard.png" /> Картон(30) x2</p>
     </div> 
     <div>
-      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <img src="/guides/supply/listofproduct_2/other/material/crate.png" alt="crate.png" />
       <p>Ящик ткани</p>
     </div>
     <div>
       <p>1000$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/materials/fabric.png" alt="fabric.png" /> Ткань(30) x2</p>
-      <p><img src="/guides/supply/listofproducts/materials/duratan.png" alt="duratan.png" />Дюраткань(30) x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/material/fabric.png" alt="fabric.png" /> Ткань(30) x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/material/duratan.png" alt="duratan.png" />Дюраткань(30) x1</p>
     </div>
    
   </div>
 </div>
+
 
 
 
