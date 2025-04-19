@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-19T06:09:10.990Z
+date: 2025-04-19T06:26:18.749Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -933,7 +933,8 @@ dateCreated: 2024-09-10T19:07:56.088Z
   </tbody>
 </table>
 <h2>Обычные мутации</h2>
-<table class="ser">
+
+<p><table class="ser">
   <thead>
     <th>Название
     <th>Шанс возникновения
