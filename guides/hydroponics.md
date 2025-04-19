@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-19T06:26:18.749Z
+date: 2025-04-19T06:54:03.353Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -501,6 +501,13 @@ dateCreated: 2024-09-10T19:07:56.088Z
         <td>
           <img src="/guides/hydroshit/gnome.png">
         </td>
+      </tr>
+      <tr>
+        <td><a href = "https://wiki.wwdp.ee/ru/guides/anomalies">Аномалия флоры</a>
+        <td>Да, её тоже можно посадить. Семечком к этому чудному растению является ядро аномалии. После созревания даёт цветок, что она генерировала будучи аномалией. При добыче цветка даёт вообще любое растение. При измельчении даёт артифексиум - реагент, который активирует артефакты не смотря на требования.
+        <td><img src="/guides/hydroshit/.png">
+        <td><img src="/guides/hydroshit/bulb.png">
+      </tr>
     </tbody>
   </table><p>
 
