@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-19T10:03:51.497Z
+date: 2025-04-19T10:03:58.913Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -553,8 +553,8 @@ weapon.png" alt="secure_weapon_case.png" />
     <p><img src="/guides/supply/listofproduct_2/plates/golden_plate.png" alt="golden_plate.png" />Топливная камера УЧ (машинная плата) x1</p>
     <p><img src="/guides/supply/listofproduct_2/plates/golden_plate.png" alt="golden_plate.png" />Блок питания УЧ (машинная плата) x1</p>
     <p><img src="/guides/supply/listofproduct_2/plates/golden_plate.png" alt="golden_plate.png" />Передняя панель излучателя УЧ (машинная плата) x1</p>
-    <p><img src="/guides/supply/listofproducts/engineering/golden_plate.png" alt="golden_plate.png" />Правая панель излучателя УЧ (машинная плата) x1</p>
-    <p><img src="/guides/supply/listofproducts/engineering/golden_plate.png" alt="golden_plate.png" />Левая панель излучателя УЧ (машинная плата) x1</p>
+    <p><img src="/guides/supply/listofproduct_2/plates/golden_plate.png" alt="golden_plate.png" />Правая панель излучателя УЧ (машинная плата) x1</p>
+    <p><img src="/guides/supply/listofproduct_2/plates/golden_plate.png" alt="golden_plate.png" />Левая панель излучателя УЧ (машинная плата) x1</p>
   </div>
     <div>
     <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="engineer_box.png" />
