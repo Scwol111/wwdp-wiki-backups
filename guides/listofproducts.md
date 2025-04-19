@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-19T10:31:48.086Z
+date: 2025-04-19T10:39:46.651Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -881,17 +881,17 @@ weapon.png" alt="secure_weapon_case.png" />
     <p><img src="/guides/supply/listofproduct_2/other/toys/diona.png" alt="diona.png" />Плюшевая диона</p>
     <p><img src="/guides/supply/listofproduct_2/other/toys/snake.png" alt="snake.png" />Плюшевая змея</p>
     <p><img src="/guides/supply/listofproduct_2/other/toys/nasri.png" alt="nasri.png" />Плюшевая нар'си</p>
-    <p><img src="/guides/supply/listofproducts/plushies/bee.png" alt="bee.png" />Плюшевая пчела</p>
-    <p><img src="/guides/supply/listofproducts/plushies/atmos.png" alt="atmos.png" />Плюшевый атмосферник</p>
-    <p><img src="/guides/supply/listofproducts/plushies/voks.png" alt="voks.png" />Плюшевый вокс</p>
-    <p><img src="/guides/supply/listofproducts/plushies/carp.png" alt="carp.png" />Плюшевый карп</p>
-    <p><img src="/guides/supply/listofproducts/plushies/comoliz.png" alt="comoliz.png" />Плюшевый космический ящер</p>
-    <p><img src="/guides/supply/listofproducts/plushies/nuker.png" alt="nuker.png" />Плюшевый нюкер</p>
-    <p><img src="/guides/supply/listofproducts/plushies/ratvar.png" alt="ratvar.png" /> Плюшевый ратвар</p>
-    <p><img src="/guides/supply/listofproducts/plushies/runi.png" alt="runi.png" />Плюшевый руни</p>
-    <p><img src="/guides/supply/listofproducts/plushies/slime.png" alt="slime.png" />Плюшевый слайм</p>
-    <p><img src="/guides/supply/listofproducts/plushies/lizard.png" alt="lizard.png" />Плюшевый ящер</p>
-    <p><img src="/guides/supply/listofproducts/plushies/shark.png" alt="shark.png" /> Синяя плюшевая акула</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/bee.png" alt="bee.png" />Плюшевая пчела</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/atmos.png" alt="atmos.png" />Плюшевый атмосферник</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/voks.png" alt="voks.png" />Плюшевый вокс</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/carp.png" alt="carp.png" />Плюшевый карп</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/comoliz.png" alt="comoliz.png" />Плюшевый космический ящер</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/nuker.png" alt="nuker.png" />Плюшевый нюкер</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/ratvar.png" alt="ratvar.png" /> Плюшевый ратвар</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/runi.png" alt="runi.png" />Плюшевый руни</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/slime.png" alt="slime.png" />Плюшевый слайм</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/plushie_lizard.png" alt="lizard.png" />Плюшевый ящер</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/shark.png" alt="shark.png" /> Синяя плюшевая акула</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
@@ -901,7 +901,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/implanter0.png" alt="implanter0.png" /> Имплантер Грустный тромбон x3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/other/implanter0.png" alt="implanter0.png" /> Имплантер Грустный тромбон x3</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
@@ -911,7 +911,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/implanter0.png" alt="implanter0.png" /> Имплантер Свет x3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/other/implanter0.png" alt="implanter0.png" /> Имплантер Свет x3</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
@@ -921,7 +921,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/implanter0.png" alt="implanter0.png" /> Имплантер Гудка x3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/other/implanter0.png" alt="implanter0.png" /> Имплантер Гудка x3</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
@@ -931,12 +931,12 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/box/shorty.png" alt="shorty.png" />Боксёрские шорты x3</p>
-    <p><img src="/guides/supply/listofproducts/fun/box/shortystopom.png" alt="shortystopom.png" />Боксёрские шорты с топом x3</p>
-    <p><img src="/guides/supply/listofproducts/fun/box/redgloves.png" alt="redgloves.png" />Красные боксёрские перчатки</p>
-    <p><img src="/guides/supply/listofproducts/fun/box/bluegloves.png" alt="bluegloves.png" />Синие боксёрские перчатки</p>
-    <p><img src="/guides/supply/listofproducts/fun/box/greengloves.png" alt="greengloves.png" />Зелёные боксёрские перчатки</p>
-    <p><img src="/guides/supply/listofproducts/fun/box/yellowgloves.png" alt="yellowgloves.png" />Жёлтые боксёрские перчатки</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/suits/shorty.png" alt="shorty.png" />Боксёрские шорты x3</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/suits/shortystopom.png" alt="shortystopom.png" />Боксёрские шорты с топом x3</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/gloves/redgloves.png" alt="redgloves.png" />Красные боксёрские перчатки</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/gloves/bluegloves.png" alt="bluegloves.png" />Синие боксёрские перчатки</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/gloves/greengloves.png" alt="greengloves.png" />Зелёные боксёрские перчатки</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/gloves/yellowgloves.png" alt="yellowgloves.png" />Жёлтые боксёрские перчатки</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
@@ -946,8 +946,8 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/target_dart.png" alt="target_dart.png" /> Dartboard</p>
-    <p><img src="/guides/supply/listofproducts/fun/darts.png" alt="darts.png" /> Darts box x3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/target_dart.png" alt="target_dart.png" /> Dartboard</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/darts.png" alt="darts.png" /> Darts box x3</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
@@ -957,10 +957,10 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/derevyannie/volynka.png" alt="volynka.png" />Волынка</p>
-    <p><img src="/guides/supply/listofproducts/fun/derevyannie/block.png" alt="block.png" />Блокфлейта х2</p>
-    <p><img src="/guides/supply/listofproducts/fun/derevyannie/clarnet.png" alt="clarnet.png" />Кларнет</p>
-    <p><img src="/guides/supply/listofproducts/fun/derevyannie/flute.png" alt="flute.png" />Флейта</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/volynka.png" alt="volynka.png" />Волынка</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/block.png" alt="block.png" />Блокфлейта х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/derevyannie/clarnet.png" alt="clarnet.png" />Кларнет</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/derevyannie/flute.png" alt="flute.png" />Флейта</p>
     <p><img src="/guides/supply/listofproducts/fun/derevyannie/garmoshka.png" alt="garmoshka.png" />Губная гармошка х2</p>
     <p><img src="/guides/supply/listofproducts/fun/derevyannie/pana.png" alt="pana.png" />Флейта Пана</p>
     <p><img src="/guides/supply/listofproducts/fun/derevyannie/okarina.png" alt="okarina.png" />Окарина</p>
