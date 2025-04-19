@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-19T10:49:21.498Z
+date: 2025-04-19T22:25:28.367Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -1137,11 +1137,799 @@ weapon.png" alt="secure_weapon_case.png" />
       <p>500$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/aloe.png" alt="aloe.png" />Пакет семян алоэ x3</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/ambrozia.png" alt="ambrozia.png" />Пакет семян амброзии вульгарис x3</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/galakto.png" alt="galakto.png" />Пакет семян галакточертополоха x3</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/mak.png" alt="mak.png" />Пакет семян мака x3</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/linchzhy.png" alt="linchzhy.png" /> Пакет спор линчжи x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/aloe.png" alt="aloe.png" />Пакет семян алоэ x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/ambrozia.png" alt="ambrozia.png" />Пакет семян амброзии вульгарис x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/galakto.png" alt="galakto.png" />Пакет семян галакточертополоха x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/mak.png" alt="mak.png" />Пакет семян мака x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/linchzhy.png" alt="linchzhy.png" /> Пакет спор линчжи x3</p>
+    </div>
+    <div>
+      <img src="/guides/supply/listofproducts/gidroponika/crate_box_lock.png" alt="zash_yashik.png" />
+      <p>Ящик пополнения БотаМакс
+      </p>
+    </div>
+    <div>
+      <p>2400$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproduct_2/other/vend/botmaks.png" alt="botmaks.png" />Набор пополнения БотаМакс</p>
+    </div>
+    <div>
+      <img src="/guides/supply/listofproducts/gidroponika/crate_box_lock.png" alt="zash_yashik.png" />
+      <p>Ящик пополнения МегаРаздатчик Семян
+      </p>
+    </div>
+    <div>
+      <p>3600$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproduct_2/other/vend/botmaks.png" alt="megarazdatchik.png" />Набор пополнения МегаРаздатчик Семян</p>
+    </div>
+    <div>
+      <img src="/guides/supply/listofproducts/gidroponika/crate_box.png" alt="yashik.png" />
+      <p>Ящик семян</p>
+    </div>
+    <div>
+      <p>550$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/vinograd.png" alt="vinograd.png" />Пакет семян винограда x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/arbuz.png" alt="arbuz.png" />Пакет семян арбуза x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/apelsin.png" alt="apelsin.png" />Пакет семян апельсина x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/baklazhan.png" alt="baklazhan.png" />Пакет семян баклажана x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/kapusta.png" alt="kapusta.png" />Пакет семян капусты x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/potato.png" alt="potato.png" />Пакет семян картофеля x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/redonion.png" alt="redonion.png" />Пакет семян красного лука x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/cucuruza.png" alt="cucuruza.png" />Пакет семян кукурузы x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/lime.png" alt="lime.png" />Пакет семян лайма x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/lemon.png" alt="lemon.png" />Пакет семян лимона x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/onion.png" alt="onion.png" />Пакет семян лука x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/carrot.png" alt="carrot.png" />Пакет семян моркови x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/oves.png" alt="oves.png" />Пакет семян овса x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/wheat.png" alt="wheat.png" />Пакет семян пшеницы x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/rice.png" alt="rice.png" />Пакет семян риса x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/sugar_trostnik.png" alt="sugar_trostnik.png" />Пакет семян сахарного тростника x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/soy.png" alt="soy.png" />Пакет семян сои x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/tomato.png" alt="tomato.png" />Пакет семян томата x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/chesnok.png" alt="chesnok.png" />Пакет семян чеснока x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/chili.png" alt="chili.png" />Пакет семян чили x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/sporylisichki.png" alt="sporylisichki.png" /> Пакет спор лисичек x1</p>
+    </div>
+    <div>
+      <img src="/guides/supply/listofproducts/gidroponika/crate_box.png" alt="yashik.png" />
+      <p>Ящик снаряжения для гидропоники
+      </p>
+    </div>
+    <div>
+      <p>500$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproduct_2/other/instrument/kosa.png" alt="kosa.png" />Коса x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/instrument/axe.png" alt="axe.png" />Топорик x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/instrument/tapka.png" alt="tapka.png" />Маленькая тапка x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/instrument/spatula.png" alt="tapka.png" />Лопатка x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/instrument/wire_cutters.png" alt="tapka.png" />Кусачки для растений x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/other/fartuh.png" alt="fartuh.png" />Фартук x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/other/gloves.png" alt="gloves.png" />Кожаные перчатки ботаника x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/liquid/bottle.png" alt="gloves.png" />EZ бутылочка с питательными веществами x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/liquid/plant-be-gone.png" alt="plant-be-gone.png" />Plant-Be-Gone x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/liquid/otvrediteley.png" alt="otvrediteley.png" />Спрей от вредителей x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/liquid/otsornyakov.png" alt="otsornyakov.png" />Спрей от сорняков x1</p>
+    </div>
+    <div>
+      <img src="/guides/supply/listofproducts/gidroponika/crate_box_lock.png" alt="zash_yashik.png" />
+      <p>Ящик экзотических семян</p>
+    </div>
+    <div>
+      <p>1000$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/ananas.png" alt="ananas.png" />Пакет семян ананаса x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/banana.png" alt="banana.png" />Пакет семян банана x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/konoplya.png" alt="konoplya.png" />Пакет семян конопли x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/krapiva.png" alt="krapiva.png" />Пакет семян крапивы x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/tabak.png" alt="tabak.png" />Пакет семян табака x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/tabak.png" alt="tabak.png" />Пакет семян бунго x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/eggfruit.png" alt="eggfruit.png" />Пакет семян яйцефрукта x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/gribhead.png" alt="gribhead.png" /> Пакет спор грибошляпника x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/muhomor.png" alt="muhomor.png" /> Пакет спор мухомора x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/gnome.png" alt="muhomor.png" /> Пакет семян гнома x1</p>
+    </div>
+    <div>
+      <img src="/guides/supply/listofproduct_2/containers/gray.png" alt="zash_yashik.png" />
+      <p>Большой ящик Plant-B-Gone</p>
+    </div>
+    <div>
+      <p>750$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproduct_2/other/liquid/jug.png" alt="plant-be-gone.png"/>Кувшин Plant-B-Gone x5</p>
+    </div>    
+  </div>
+</div>
+
+
+<div id="animals" class="tablepage"> 
+  <h3>Животные</h3>
+<div class="custom-table">
+  <div>
+    <img src="/guides/supply/listofproduct_2/containers/hampter.png" alt="hampter_crate.png" />
+    <p>Хомячья клетка</p>
+  </div>
+  <div>
+    <p>2800$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/hampter.png" alt="hampter.png" />Хомяк x1</p>
+  </div>
+   <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик гусей</p>
+  </div>
+  <div>
+    <p>2100$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/goose.png" alt="goose.png" />Гусь х2</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик змей</p>
+  </div>
+  <div>
+    <p>3000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/snake.png" alt="snake.png" />Змея х3</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик с корги</p>
+  </div>
+  <div>
+    <p>1000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/corgi.png" alt="corgi.png" />Корги x1</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик кур</p>
+  </div>
+  <div>
+    <p>4000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/cock.png" alt="cock.png" />Курица х4</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик мышей</p>
+  </div>
+  <div>
+    <p>4400$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/mouse.png" alt="mouse.png" />Мышь х5</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/steel_crate.png" alt="steel_crate.png" />
+    <p>Ящик обезьяньих кубиков</p>
+  </div>
+  <div>
+    <p>2000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproduct_2/containers/gray.png" alt="monkey_box.png" />Коробка кубиков обезьян x1</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик пингвинов</p>
+  </div>
+  <div>
+    <p>2100$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/penguin.png" alt="penguin.png" />Пингвин х2</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик попугаев</p>
+  </div>
+  <div>
+    <p>3000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/parrot.png" alt="parrot.png" />Попугай х3</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик с бабочками</p>
+  </div>
+  <div>
+    <p>4400$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/butterfly.png" alt="butterfly.png" />Бабочка х5</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик с гориллой</p>
+  </div>
+  <div>
+    <p>1100$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/gorilla.png" style="height: 64px" alt="gorilla.png">Горилла x1</p>
+  </div>
+    <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик с козой</p>
+  </div>
+  <div>
+    <p>1200$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/kosa.png" alt="kosa.png" />Коза x1</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик с коровой</p>
+  </div>
+  <div>
+    <p>3200$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/cow.png" alt="cow.png" />Корова x1</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик с кошкой</p>
+  </div>
+  <div>
+    <p>1200$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/cat.png" alt="cat.png" />Кошка x1</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик с пчёлами</p>
+  </div>
+  <div>
+    <p>7000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/bee.png" alt="bee.png" />Пчела х8</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик со свиньёй</p>
+  </div>
+  <div>
+    <p>1100$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/pig.png" alt="pig.png" />Свинья x1</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик уток</p>
+  </div>
+  <div>
+    <p>4000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/duck.png" alt="duck.png" />Утка х6</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик крабов</p>
+  </div>
+  <div>
+    <p>3000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/crab.png" alt="crab.png" />Краб х3</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик тараканомоли</p>
+  </div>
+  <div>
+    <p>5000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/motroach.png" alt="motroach.png" />Тараканомоль х4</p>
+  </div>  
+  <div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик кенгуру</p>
+  </div>
+  <div>
+    <p>2800$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/canguroo.png" alt="canguroo.png" />Кенгуру x1</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/animals/steel_crate.png" alt="steel_crate.png" />
+    <p>Ящик кобольтовых кубиков</p>
+  </div>
+  <div>
+    <p>2000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/box_kobold.png" alt="box_kobold.png" />Коробка кубиков кобольда x1</p>
+  </div>
+<div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик ящериц</p>
+  </div>
+  <div>
+    <p>1100$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/lizard.png" alt="lizard.png" />Ящерица x1</p>
+  </div>  
+<div>
+    <img src="/guides/supply/listofproducts/animals/wooden_crate.png" alt="wooden_crate.png" />
+    <p>Ящик с щенком корги</p>
+  </div>
+  <div>
+    <p>1000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/animals/puppy.png" alt="corgi.png" />Щенок корги x1</p>
+  </div>  
+</div>
+</div>
+
+
+
+<div id="materials" class="tablepage">
+  <h3>Материалы</h3>
+  <div class="custom-table">
+    <div>
+      <img src="/guides/supply/listofproducts/materials/watertank.png" alt="water_reservoir.png" />
+      <p>Водяной резервуар</p>
+    </div>
+    <div>
+      <p>1000$</p>
+    </div>
+    <div>
+    </div>
+    <div>
+      <img src="/guides/supply/listofproducts/materials/fueltank.png" alt="fuel_tank.png" />
+      <p>Топливный резервуар</p>
+    </div>
+    <div>
+      <p>1500$</p>
+    </div>
+   <div>
+    </div>
+      <div>
+      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <p>Ящик бумаги</p>
+    </div>
+    <div>
+      <p>1000$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproducts/materials/paper_3.png" alt="cardboard.png" /> Бумага(30) x3</p>
+    </div>
+    <div>
+      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <p>Ящик листов пластали</p>
+    </div>
+    <div>
+      <p>3000$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproducts/materials/plasteel.png" alt="plasteel.png" />Пласталь(30) x3</p>
+    </div>
+    <div>
+      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <p>Ящик листов пластика</p>
+    </div>
+    <div>
+      <p>1500$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproducts/materials/plastic.png" alt="plastic.png" />Пластик(30) x3</p>
+    </div>
+    <div>
+      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <p>Ящик листов стали</p>
+    </div>
+    <div>
+      <p>1000$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproducts/materials/steel.png" alt="steel.png" />Сталь(30) x3</p>
+    </div>
+    <div>
+      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <p>Ящик листов стекла</p>
+    </div>
+    <div>
+      <p>1000$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproducts/materials/glass.png" alt="glass.png" />Стекло(30) x3</p>
+    </div>
+    <div>
+      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <p>Ящик с бананиумом</p>
+    </div>
+    <div>
+      <p>35000$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproducts/materials/bananium.png" alt="glass.png" />Бананиум(10) x3</p>
+    </div>
+      <div>
+      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <p>Ящик с золотом</p>
+    </div>
+    <div>
+      <p>17000$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproducts/materials/gold_3.png" alt="glass.png" />Золото(30) x1</p>
+    </div>
+        <div>
+      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <p>Ящик с серебром</p>
+    </div>
+    <div>
+      <p>12000$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproducts/materials/silver_3.png" alt="glass.png" />Серебро(30) x1</p>
+    </div>
+      <div>
+      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <p>Ящик с ураном</p>
+    </div>
+    <div>
+      <p>23000$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproducts/materials/uranium_3.png" alt="glass.png" />Уран(30) x1</p>
+    </div>
+    <div>
+      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <p>Ящик твёрдой плазмы</p>
+    </div>
+    <div>
+      <p>2000$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproducts/materials/plasma.png" alt="plasma.png" />Плазма(30) x3</p>
+    </div>  
+    <div>
+      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <p>Ящик латуни</p>
+    </div>
+    <div>
+      <p>2500$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproducts/materials/brass_3.png" alt="plasma.png" />Латунь(30) x3</p>
+    </div>
+    <div>
+      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <p>Ящик картона</p>
+    </div>
+    <div>
+      <p>750$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproducts/materials/cardboard.png" alt="cardboard.png" /> Картон(30) x2</p>
+    </div> 
+    <div>
+      <img src="/guides/supply/listofproducts/materials/crate.png" alt="crate.png" />
+      <p>Ящик ткани</p>
+    </div>
+    <div>
+      <p>1000$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproducts/materials/fabric.png" alt="fabric.png" /> Ткань(30) x2</p>
+      <p><img src="/guides/supply/listofproducts/materials/duratan.png" alt="duratan.png" />Дюраткань(30) x1</p>
+    </div>
+   
+  </div>
+</div>
+
+
+
+<div id="security" class="tablepage">
+  <h3>Охрана</h3>
+<div class="custom-table">
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Коробки с дробью для дробовика</p>
+  </div>
+  <div>
+    <p>2000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/pellets.png" alt="bioprotective_suit_sb.png" />Барабан (.50 дробь) x4</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Коробки с травамитческими патронами для дробовика</p>
+  </div>
+  <div>
+    <p>1000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/beanbag.png" alt="bioprotective_suit_sb.png" />Барабан (.50 травматические) x4</p>
+  </div>  
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Пачки патронов .20</p>
+  </div>
+  <div>
+    <p>2500$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/20magazin_box.png" alt="bioprotective_suit_sb.png" />Коробка патронов (20. винтовочные) x2</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/security/barrier.png" alt="secure_case_sb.png" />
+    <p>Развёртываемый барьер</p>
+  </div>
+  <div>
+    <p>1000$</p>
+  </div>
+  <div>
+  </div>  
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик магазинов для Лектора</p>
+  </div>
+  <div>
+    <p>2500$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/20.vint_red.png" alt="bioprotective_suit_sb.png" />Магазин (.20 винтовочные) x2</p>
+  </div>  
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик магазинов для пистолетов</p>
+  </div>
+  <div>
+    <p>1000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/red-icon_pistol.png" alt="bioprotective_suit_sb.png" />Пистолетный магазин (.35 авто ) x3</p>
+  </div> 
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик магазинов для ПП</p>
+  </div>
+  <div>
+    <p>2500$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/pistolet_pp.png" alt="bioprotective_suit_sb.png" />Магазин ПП (.35 авто ) x3</p>
+  </div>   
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик магазинов для CV-47</p>
+  </div>
+  <div>
+    <p>2500$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/red_cv47.png" alt="bioprotective_suit_sb.png" />Магазин (.30 винтовочные) x2</p>
+  </div>   
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик магазинов для WT-550</p>
+  </div>
+  <div>
+    <p>2500$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/wt550_magazine.png" alt="bioprotective_suit_sb.png" />Магазин WT550 (.35 авто) x2</p>
+  </div>   
+  <div>
+    <img src="/guides/supply/listofproducts/security/crate_sec_new.png" alt="secure_case_sb.png" />
+    <p>Ящик наручников</p>
+  </div>
+  <div>
+    <p>1000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/handcuff_box.png" alt="handcuff_box.png" />Коробка наручников x2</p>
+    <p><img src="/guides/supply/listofproducts/security/box_of_restraints.png" alt="box_of_restraints.png" />Коробка стяжек x2</p>
+  </div>
+    <div>
+    <img src="/guides/supply/listofproducts/security/crate_sec_new.png" alt="secure_case_sb.png" />
+    <p>Ящик нелетального снаряжения</p>
+  </div>
+  <div>
+    <p>4000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/disabler.png" alt="disabler.png" />Дизейблер x3</p>
+    <p><img src="/guides/supply/listofproducts/security/stunbaton_off.png" alt="stunbaton_off.png" />Дубинка-шокер x3</p>
+    <p><img src="/guides/supply/listofproducts/security/flash.png" alt="flash.png" />Вспышка x3</p>
+    <p><img src="/guides/supply/listofproducts/security/box_of_flashbang_grenades.png" alt="box_of_flashbang_grenades.png" />Коробка светошумовых гранат x1</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик нелетальных магазинов для лектора</p>
+  </div>
+  <div>
+    <p>500$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/box_magazine.png" alt="bioprotective_suit_sb.png" />Коробка магазинов с .20 винтовочными (резиновые) x1</p>
+  </div>  
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик нелетальных магазинов для пистолетов</p>
+  </div>
+  <div>
+    <p>300$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/box_magazine.png" alt="bioprotective_suit_sb.png" />Коробка магазинов с пистолетных .35 (резиновые) x1</p>
+  </div>  
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик нелетальных магазинов для ПП</p>
+  </div>
+  <div>
+    <p>400$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/box_magazine.png" alt="bioprotective_suit_sb.png" />Коробка магазинов для ПП .35 авто (резиновые) x1</p>
+  </div>  
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик нелетальных магазинов для CV-47</p>
+  </div>
+  <div>
+    <p>600$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/box_magazine.png" alt="bioprotective_suit_sb.png" />Коробка магазинов с .30 винтовочными (резиновые) x1</p>
+  </div>  
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик патронов .30</p>
+  </div>
+  <div>
+    <p>2500$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/30_box_vint.png" alt="bioprotective_suit_sb.png" />Коробка патронов (.30 винтовочные) x2</p>
+  </div>  
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик патронов .35 авто</p>
+  </div>
+  <div>
+    <p>2500$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/35_box.png" alt="bioprotective_suit_sb.png" />Коробка патронов (.35 авто) x2</p>
+  </div> 
+    <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик патронов .40 магнум</p>
+  </div>
+  <div>
+    <p>3000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/45_magnum.png" alt="bioprotective_suit_sb.png" />Коробка патронов (.45 магнум) x1</p>
+  </div> 
+  <div>
+    <img src="/guides/supply/listofproducts/security/crate_sec_new.png" alt="secure_case_sb.png" />
+    <p>Ящик пополнения СБТех</p>
+  </div>
+  <div>
+    <p>2200$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/sbtex_refill_kit.png.png" alt="sbtex_refill_kit.png.png" />Набор пополнения СБТех x1</p>
+  </div>
+  <div>
+    <img src="/guides/supply/listofproducts/security/crate_sec_new.png" alt="secure_case_sb.png" />
+    <p>Ящик припасов СБ</p>
+  </div>
+  <div>
+    <p>500$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/box_of_sb_goggles.png" alt="box_of_sb_goggles.png" />Коробка СБ очков x1</p>
+    <p><img src="/guides/supply/listofproducts/security/handcuff_box.png" alt="handcuff_box.png" />Коробка наручников x1</p>
+  </div>
+    <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик с большой коробкой патроонов .20</p>
+  </div>
+  <div>
+    <p>3500$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/20_box_big.png" alt="bioprotective_suit_sb.png" />Ящик патронов (.20 винтовочные) x1</p>
+  </div>   
+    <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик с большой коробкой патроонов .30</p>
+  </div>
+  <div>
+    <p>3500$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/30_box_big.png" alt="bioprotective_suit_sb.png" />Ящик патронов (.30 винтовочные) x1</p>
+  </div>   
+   <div>
+    <img src="/guides/supply/listofproducts/security/crate_sec_new.png" alt="secure_case_sb.png" />
+    <p>Ящик с бронёй</p>
+  </div>
+  <div>
+    <p>750$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/bulletproof_vest.png" alt="bulletproof_vest.png" />Пуленепробиваемый бронежилет x3</p>
+  </div>  
+    <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик с винтовками Мосина</p>
+  </div>
+  <div>
+    <p>3000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/uplink/weapons/mosin.png" alt="bioprotective_suit_sb.png" />Карандашев-Мосин x2</p>
+  </div>  
+    <div>
+    <img src="/guides/supply/listofproducts/materials/crate.png" alt="secure_case_sb.png" />
+    <p>Ящик с диктофонами</p>
+  </div>
+  <div>
+    <p>1000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/dictaphone.png" alt="bioprotective_suit_sb.png" />Диктофон x4</p>
+  </div>   
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик с дробовиками Каммерер</p>
+  </div>
+  <div>
+    <p>5000$</p>
+  </div>
+  <div>
+    <p><img src="/guides/supply/listofproducts/security/kammer.png" alt="bioprotective_suit_sb.png" />Каммерер x2</p>
+  </div>  
+  <div>
+    <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
+    <p>Ящик с Лектером</p><div id="hydro" class="tablepage">
+  <h3>Гидропоника</h3>
+  <div class="custom-table">
+    <div>
+      <img src="/guides/supply/listofproducts/gidroponika/crate_box_lock.png" alt="zash_yashik.png" />
+      <p>Ящик лекарственных семян</p>
+    </div>
+    <div>
+      <p>500$</p>
+    </div>
+    <div>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/aloe.png" alt="aloe.png" />Пакет семян алоэ x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/ambrozia.png" alt="ambrozia.png" />Пакет семян амброзии вульгарис x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/galakto.png" alt="galakto.png" />Пакет семян галакточертополоха x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/mak.png" alt="mak.png" />Пакет семян мака x3</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/linchzhy.png" alt="linchzhy.png" /> Пакет спор линчжи x3</p>
     </div>
     <div>
       <img src="/guides/supply/listofproducts/gidroponika/crate_box_lock.png" alt="zash_yashik.png" />
@@ -1173,27 +1961,27 @@ weapon.png" alt="secure_weapon_case.png" />
       <p>550$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/vinograd.png" alt="vinograd.png" />Пакет семян винограда x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/arbuz.png" alt="arbuz.png" />Пакет семян арбуза x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/apelsin.png" alt="apelsin.png" />Пакет семян апельсина x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/baklazhan.png" alt="baklazhan.png" />Пакет семян баклажана x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/kapusta.png" alt="kapusta.png" />Пакет семян капусты x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/potato.png" alt="potato.png" />Пакет семян картофеля x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/redonion.png" alt="redonion.png" />Пакет семян красного лука x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/cucuruza.png" alt="cucuruza.png" />Пакет семян кукурузы x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/lime.png" alt="lime.png" />Пакет семян лайма x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/lemon.png" alt="lemon.png" />Пакет семян лимона x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/onion.png" alt="onion.png" />Пакет семян лука x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/carrot.png" alt="carrot.png" />Пакет семян моркови x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/oves.png" alt="oves.png" />Пакет семян овса x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/wheat.png" alt="wheat.png" />Пакет семян пшеницы x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/rice.png" alt="rice.png" />Пакет семян риса x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/sugar_trostnik.png" alt="sugar_trostnik.png" />Пакет семян сахарного тростника x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/soy.png" alt="soy.png" />Пакет семян сои x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/tomato.png" alt="tomato.png" />Пакет семян томата x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/chesnok.png" alt="chesnok.png" />Пакет семян чеснока x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/chili.png" alt="chili.png" />Пакет семян чили x1</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/sporylisichki.png" alt="sporylisichki.png" /> Пакет спор лисичек x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/vinograd.png" alt="vinograd.png" />Пакет семян винограда x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/arbuz.png" alt="arbuz.png" />Пакет семян арбуза x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/apelsin.png" alt="apelsin.png" />Пакет семян апельсина x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/baklazhan.png" alt="baklazhan.png" />Пакет семян баклажана x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/kapusta.png" alt="kapusta.png" />Пакет семян капусты x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/potato.png" alt="potato.png" />Пакет семян картофеля x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/redonion.png" alt="redonion.png" />Пакет семян красного лука x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/cucuruza.png" alt="cucuruza.png" />Пакет семян кукурузы x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/lime.png" alt="lime.png" />Пакет семян лайма x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/lemon.png" alt="lemon.png" />Пакет семян лимона x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/onion.png" alt="onion.png" />Пакет семян лука x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/carrot.png" alt="carrot.png" />Пакет семян моркови x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/oves.png" alt="oves.png" />Пакет семян овса x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/wheat.png" alt="wheat.png" />Пакет семян пшеницы x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/rice.png" alt="rice.png" />Пакет семян риса x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/sugar_trostnik.png" alt="sugar_trostnik.png" />Пакет семян сахарного тростника x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/soy.png" alt="soy.png" />Пакет семян сои x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/tomato.png" alt="tomato.png" />Пакет семян томата x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/chesnok.png" alt="chesnok.png" />Пакет семян чеснока x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/chili.png" alt="chili.png" />Пакет семян чили x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/sporylisichki.png" alt="sporylisichki.png" /> Пакет спор лисичек x1</p>
     </div>
     <div>
       <img src="/guides/supply/listofproducts/gidroponika/crate_box.png" alt="yashik.png" />
@@ -1224,19 +2012,19 @@ weapon.png" alt="secure_weapon_case.png" />
       <p>1000$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/ananas.png" alt="ananas.png" />Пакет семян ананаса x2</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/banana.png" alt="banana.png" />Пакет семян банана x2</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/konoplya.png" alt="konoplya.png" />Пакет семян конопли x2</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/krapiva.png" alt="krapiva.png" />Пакет семян крапивы x2</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/tabak.png" alt="tabak.png" />Пакет семян табака x2</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/tabak.png" alt="tabak.png" />Пакет семян бунго x2</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/eggfruit.png" alt="eggfruit.png" />Пакет семян яйцефрукта x2</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/gribhead.png" alt="gribhead.png" /> Пакет спор грибошляпника x2</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/muhomor.png" alt="muhomor.png" /> Пакет спор мухомора x2</p>
-      <p><img src="/guides/supply/listofproducts/gidroponika/seme4ki/gnome.png" alt="muhomor.png" /> Пакет семян гнома x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/ananas.png" alt="ananas.png" />Пакет семян ананаса x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/banana.png" alt="banana.png" />Пакет семян банана x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/konoplya.png" alt="konoplya.png" />Пакет семян конопли x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/krapiva.png" alt="krapiva.png" />Пакет семян крапивы x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/tabak.png" alt="tabak.png" />Пакет семян табака x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/tabak.png" alt="tabak.png" />Пакет семян бунго x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/eggfruit.png" alt="eggfruit.png" />Пакет семян яйцефрукта x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/gribhead.png" alt="gribhead.png" /> Пакет спор грибошляпника x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/muhomor.png" alt="muhomor.png" /> Пакет спор мухомора x2</p>
+      <p><img src="/guides/supply/listofproduct_2/other/seed/gnome.png" alt="muhomor.png" /> Пакет семян гнома x1</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/emergency/crates/steel.png" alt="zash_yashik.png" />
+      <img src="/guides/supply/listofproduct_2/containers/gray.png" alt="zash_yashik.png" />
       <p>Большой ящик Plant-B-Gone</p>
     </div>
     <div>
@@ -1915,6 +2703,11 @@ weapon.png" alt="secure_weapon_case.png" />
   <div>
     <img src="/guides/supply/listofproducts/security/weapon_box_new.png" alt="secure_case_sb.png" />
     <p>Ящик с Лектером</p>
+  </div>
+  <div>
+    <p>7000$</p>
+  </div>
+  <div>
   </div>
   <div>
     <p>7000$</p>
