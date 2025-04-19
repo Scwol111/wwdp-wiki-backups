@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-19T10:12:04.123Z
+date: 2025-04-19T10:17:44.234Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -686,7 +686,7 @@ weapon.png" alt="secure_weapon_case.png" />
   <h3>Еда</h3>
 <div class="custom-table">
    <div>
-    <img src="/guides/supply/listofproducts/food/kvas.png" alt="kvas.png" />
+    <img src="/guides/supply/listofproduct_2/smth/kvas.png" alt="kvas.png" />
     <p>Квас</p>
   </div>
   <div>
@@ -695,15 +695,15 @@ weapon.png" alt="secure_weapon_case.png" />
 <div>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
+    <img src="/guides/supply/listofproduct_2/containers/white.png" alt="plastic_box.png" />
     <p>Экстренная доставка пиццы</p>
   </div>
   <div>
     <p>450$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/food/pizza_box.png" alt="pizza_box.png" /> Коробка пиццы x4</p>
-    <p><img src="/guides/supply/listofproducts/food/plastikoviy_nozh.png" alt="plastikoviy_nozh.png" />Пластиковый нож</p>
+    <p><img src="/guides/supply/listofproduct_2/other/food/pizza_box.png" alt="pizza_box.png" /> Коробка пиццы x4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/plastikoviy_nozh.png" alt="plastikoviy_nozh.png" />Пластиковый нож</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
