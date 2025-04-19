@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-11T22:27:54.662Z
+date: 2025-04-19T10:03:51.497Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -406,14 +406,14 @@ weapon.png" alt="secure_weapon_case.png" />
   <h3>Инженерия</h3>
 <div class="custom-table">
    <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_lock.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
     <p>Ящик антиматериевого топлива</p>
   </div>
   <div>
     <p>2000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/dam_tank.png" alt="fuel_tank_dam.png" />Топливный бак ДАМ x3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/ballon/dam_tank.png" alt="fuel_tank_dam.png" />Топливный бак ДАМ x3</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/engineering/crate.png" alt="crate.png" />
@@ -423,61 +423,61 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/jetpack.png" alt="jetpack.png" />Джетпак x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/ballon/jetpack.png" alt="jetpack.png" />Джетпак x2</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_wires.png" alt="electrical_engineer_box.png" />
+    <img src="/guides/supply/listofproduct_2/containers/elc.png" alt="electrical_engineer_box.png" />
     <p>Ящик кабеля ВВ</p>
   </div>
   <div>
     <p>300$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/coil_vv.png" alt="coil_vv.png" />Моток ВВ проводов x3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/eng/coil_vv.png" alt="coil_vv.png" />Моток ВВ проводов x3</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_wires.png" alt="electrical_engineer_box.png" />
+    <img src="/guides/supply/listofproduct_2/containers/elc.png" alt="electrical_engineer_box.png" />
     <p>Ящик кабеля НВ</p>
   </div>
   <div>
     <p>300$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/coil_nv.png" alt="coil_nv.png" />Моток НВ проводов x3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/eng/coil_nv.png" alt="coil_nv.png" />Моток НВ проводов x3</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_wires.png" alt="electrical_engineer_box.png" />
+    <img src="/guides/supply/listofproduct_2/containers/elc.png" alt="electrical_engineer_box.png" />
     <p>Ящик кабеля различного вольтажа</p>
   </div>
   <div>
     <p>750$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/coil_nv.png" alt="coil_nv.png" />Моток НВ проводов x2</p>
-    <p><img src="/guides/supply/listofproducts/engineering/coil_sv.png" alt="coil_sv.png" />Моток СВ проводов x2</p>
-    <p><img src="/guides/supply/listofproducts/engineering/coil_vv.png" alt="coil_vv.png" />Моток ВВ проводов x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/eng/coil_nv.png" alt="coil_nv.png" />Моток НВ проводов x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/eng/coil_sv.png" alt="coil_sv.png" />Моток СВ проводов x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/eng/coil_vv.png" alt="coil_vv.png" />Моток ВВ проводов x2</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_wires.png" alt="electrical_engineer_box.png" />
+    <img src="/guides/supply/listofproduct_2/containers/elc.png" alt="electrical_engineer_box.png" />
     <p>Ящик кабеля СВ</p>
   </div>
   <div>
     <p>300$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/coil_sv.png" alt="coil_sv.png" />Моток СВ проводов x3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/eng/coil_sv.png" alt="coil_sv.png" />Моток СВ проводов x3</p>
   </div>
    <div>
-    <img src="/guides/supply/listofproducts/engineering/crate.png" alt="crate.png" />
+    <img src="/guides/supply/listofproduct_2/containers/gray.png" alt="crate.png" />
     <p>Ящик компонентов шлюза</p>
   </div>
   <div>
     <p>1100$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/gateway_microchip.png" alt="gateway_microchip.png" />Микросхема шлюза x6</p>
-    <p><img src="/guides/supply/listofproducts/engineering/coil_nv.png" alt="coil_nv.png" />Моток НВ проводов x1</p>
-    <p><img src="/guides/supply/listofproducts/engineering/steel.png" alt="steel.png" />Сталь(30) x1</p>
+    <p><img src="/guides/supply/listofproduct_2/plates/microchip.png" alt="gateway_microchip.png" />Микросхема шлюза x6</p>
+    <p><img src="/guides/supply/listofproduct_2/other/eng/coil_nv.png" alt="coil_nv.png" />Моток НВ проводов x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/material/steel.png" alt="steel.png" />Сталь(30) x1</p>
   </div>
    <div>
     <img src="/guides/supply/listofproducts/engineering/crate.png" alt="crate.png" />
@@ -487,17 +487,17 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>750$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/mini_jetpack.png" alt="mini_jetpack.png" />Мини джетпак x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/ballon/mini_jetpack.png" alt="mini_jetpack.png" />Мини джетпак x2</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_lock.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
     <p>Ящик пополнения ИнжеШкаф</p>
   </div>
   <div>
     <p>3200$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/engineercabinet_refill_kit.png" alt="engineercabinet_refill_kit.png" />Набор пополнения ИнжеШкаф x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/engineercabinet_refill_kit.png" alt="engineercabinet_refill_kit.png" />Набор пополнения ИнжеШкаф x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/engineering/crate.png" alt="crate.png" />
@@ -507,57 +507,57 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/ultimug_refill_kit.png" alt="ultimug_refill_kit.png" />Набор пополнения Ультимаг x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/ultimug_refill_kit.png" alt="ultimug_refill_kit.png" />Набор пополнения Ультимаг x1</p>
   </div>
    <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_lock.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
     <p>Ящик с генератором сдерживающего поля</p>
   </div>
   <div>
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/containment-field-generator.png" alt="containment_field_generator.png" />Упакованный генератор сдерживающего поля x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/containment-field-generator.png" alt="containment_field_generator.png" />Упакованный генератор сдерживающего поля x1</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_lock.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
     <p>Ящик с генератором сингулярности</p>
   </div>
   <div>
     <p>4000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/singularity-generator.png" alt="gravitational_singularity_generator.png" />Упакованный генератор гравитационной сингулярности x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/singularity-generator.png" alt="gravitational_singularity_generator.png" />Упакованный генератор гравитационной сингулярности x1</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_lock.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
     <p>Ящик с коллектором радиации</p>
   </div>
   <div>
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/radiation-collector.png" alt="radiation_accumulator.png" />Упакованный накопитель радиации x1</p>
-    <p><img src="/guides/supply/listofproducts/engineering/plasma_tamk.png" alt="radiation_accumulator.png" />Баллон плазмы(полный) x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/radiation-collector.png" alt="radiation_accumulator.png" />Упакованный накопитель радиации x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/ballon/plasma_tamk.png" alt="radiation_accumulator.png" />Баллон плазмы(полный) x1</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_lock.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
     <p>Ящик с ускорителем частиц</p>
   </div>
   <div>
     <p>2000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/golden_plate.png" alt="golden_plate.png" />Консоль управления УЧ (машинная плата) x1</p>
-    <p><img src="/guides/supply/listofproducts/engineering/golden_plate.png" alt="golden_plate.png" />Торцевая заглушка УЧ (машинная плата) x1</p>
-    <p><img src="/guides/supply/listofproducts/engineering/golden_plate.png" alt="golden_plate.png" />Топливная камера УЧ (машинная плата) x1</p>
-    <p><img src="/guides/supply/listofproducts/engineering/golden_plate.png" alt="golden_plate.png" />Блок питания УЧ (машинная плата) x1</p>
-    <p><img src="/guides/supply/listofproducts/engineering/golden_plate.png" alt="golden_plate.png" />Передняя панель излучателя УЧ (машинная плата) x1</p>
+    <p><img src="/guides/supply/listofproduct_2/plates/golden_plate.png" alt="golden_plate.png" />Консоль управления УЧ (машинная плата) x1</p>
+    <p><img src="/guides/supply/listofproduct_2/plates/golden_plate.png" alt="golden_plate.png" />Торцевая заглушка УЧ (машинная плата) x1</p>
+    <p><img src="/guides/supply/listofproduct_2/plates/golden_plate.png" alt="golden_plate.png" />Топливная камера УЧ (машинная плата) x1</p>
+    <p><img src="/guides/supply/listofproduct_2/plates/golden_plate.png" alt="golden_plate.png" />Блок питания УЧ (машинная плата) x1</p>
+    <p><img src="/guides/supply/listofproduct_2/plates/golden_plate.png" alt="golden_plate.png" />Передняя панель излучателя УЧ (машинная плата) x1</p>
     <p><img src="/guides/supply/listofproducts/engineering/golden_plate.png" alt="golden_plate.png" />Правая панель излучателя УЧ (машинная плата) x1</p>
     <p><img src="/guides/supply/listofproducts/engineering/golden_plate.png" alt="golden_plate.png" />Левая панель излучателя УЧ (машинная плата) x1</p>
   </div>
     <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_lock.png" alt="engineer_box.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="engineer_box.png" />
     <p>Ящик с эмиттером</p>
   </div>
   <div>
@@ -567,7 +567,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p><img src="/guides/supply/listofproducts/engineering/emitter1.png" alt="solar_panel_component.png" />Эмиттер x1</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box.png" alt="engineer_box.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="engineer_box.png" />
     <p>Ящик сборных солнечных панелей</p>
   </div>
   <div>
@@ -577,7 +577,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p><img src="/guides/supply/listofproducts/engineering/solar_panel_component.png" alt="solar_panel_component.png" />Упакованная деталь солнечной панели x6</p>
   </div>
    <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_wires.png" alt="electrical_engineer_box.png" />
+    <img src="/guides/supply/listofproduct_2/containers/elc.png" alt="electrical_engineer_box.png" />
     <p>Ящик электромонтажного снаряжения</p>
   </div>
   <div>
@@ -588,7 +588,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p><img src="/guides/supply/listofproducts/engineering/electrician_toolbox.png" alt="electrician_toolbox.png" />Ящик для инструментов электрика x2</p>
   </div>
     <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_lock.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
     <p><!-- compressed matter crate --> Ящик с зарядами РЦД</p>
   </div>
   <div>
@@ -609,7 +609,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p><img src="/guides/supply/listofproducts/engineering/eva_suit.png" alt="grounding_rod.png" />Скафандр EVA x2</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_lock.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
     <p><!-- particle decelerators crate --> Ящик с портативными замедлителями частиц</p>
   </div>
   <div>
@@ -619,7 +619,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p><img src="/guides/supply/listofproducts/engineering/decelerator.png" alt="decelerator.png" /> портативный замедлитель частиц x3</p>
     </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_lock.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
     <p><!-- RCD crate --> Ящик с РЦД</p>
   </div>
   <div>
@@ -638,7 +638,7 @@ weapon.png" alt="secure_weapon_case.png" />
   <div>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_lock.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
     <p><!-- station beacon bundle --> Комплект радиомаяков станции</p>
   </div>
   <div>
@@ -648,7 +648,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p><img src="/guides/supply/listofproducts/engineering/beacon.png" alt="beacon.png" />Упакованый станционный радиомаяк x5</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_lock.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
     <p><!-- tesla coil crate --> Ящик катушки теслы</p>
   </div>
   <div>
@@ -658,7 +658,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p><img src="/guides/supply/listofproducts/engineering/tesla-coil.png" alt="coil.png" />Упакованная катушка теслы x1</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_lock.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
     <p><!-- tesla generator crate --> Ящик генератора теслы</p>
   </div>
   <div>
@@ -668,7 +668,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p><img src="/guides/supply/listofproducts/engineering/tesla-generator.png" alt="tesla_generator.png" />Упакованный генератор теслы x1</p>
   </div>  
   <div>
-    <img src="/guides/supply/listofproducts/engineering/crate_box_lock.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
     <p><!-- tesla grounding rod crate --> Ящик заземления теслы</p>
   </div>
   <div>
