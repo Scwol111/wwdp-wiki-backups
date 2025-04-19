@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-19T10:03:58.913Z
+date: 2025-04-19T10:12:04.123Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -564,7 +564,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>3000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/emitter1.png" alt="solar_panel_component.png" />Эмиттер x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/eng/emitter1.png" alt="solar_panel_component.png" />Эмиттер x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="engineer_box.png" />
@@ -574,7 +574,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/solar_panel_component.png" alt="solar_panel_component.png" />Упакованная деталь солнечной панели x6</p>
+    <p><img src="/guides/supply/listofproduct_2/other/eng/solar_panel_component.png" alt="solar_panel_component.png" />Упакованная деталь солнечной панели x6</p>
   </div>
    <div>
     <img src="/guides/supply/listofproduct_2/containers/elc.png" alt="electrical_engineer_box.png" />
@@ -585,7 +585,7 @@ weapon.png" alt="secure_weapon_case.png" />
   </div>
   <div>
     <p><img src="/guides/supply/listofproducts/engineering/insulated_gloves.png" alt="insulated_gloves.png" />Изолированные перчатки x2</p>
-    <p><img src="/guides/supply/listofproducts/engineering/electrician_toolbox.png" alt="electrician_toolbox.png" />Ящик для инструментов электрика x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/electrician_toolbox.png" alt="electrician_toolbox.png" />Ящик для инструментов электрика x2</p>
   </div>
     <div>
     <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
@@ -595,18 +595,18 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/pcd_pack.png" alt="grounding_rod.png" />Картридж РЦД x3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/pcd_pack.png" alt="grounding-rod.png" />Картридж РЦД x3</p>
   </div>
       <div>
-    <img src="/guides/supply/listofproducts/engineering/comand_box.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/containers/nt.png" alt="protected_box_eng.png" />
     <p><!-- EVA kit --> Ящик скафандров EVA</p>
   </div>
   <div>
     <p>5000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/eva_head.png" alt="grounding_rod.png" />Шлем EVA x2</p>
-    <p><img src="/guides/supply/listofproducts/engineering/eva_suit.png" alt="grounding_rod.png" />Скафандр EVA x2</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/hats/eva_head.png" alt="grounding_rod.png" />Шлем EVA x2</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/suits/eva_suit.png" alt="grounding_rod.png" />Скафандр EVA x2</p>
   </div>
   <div>
     <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
@@ -616,7 +616,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>15000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/decelerator.png" alt="decelerator.png" /> портативный замедлитель частиц x3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/decelerator.png" alt="decelerator.png" /> портативный замедлитель частиц x3</p>
     </div>
   <div>
     <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
@@ -626,10 +626,10 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>800$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/rcd.png" alt="rcd.png" />РЦД</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/rcd.png" alt="rcd.png" />РЦД</p>
   </div>
     <div>
-    <img src="/guides/supply/listofproducts/engineering/sheateroff.png" alt="protected_box_eng.png" />
+    <img src="/guides/supply/listofproduct_2/mechanisms/heater.png" alt="protected_box_eng.png" />
     <p><!-- space heater --> Обогреватель</p>
   </div>
   <div>
@@ -645,7 +645,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/beacon.png" alt="beacon.png" />Упакованый станционный радиомаяк x5</p>
+    <p><img src="/guides/supply/listofproduct_2/other/eng/beacon.png" alt="beacon.png" />Упакованый станционный радиомаяк x5</p>
   </div>
   <div>
     <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
@@ -655,7 +655,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1200$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/tesla-coil.png" alt="coil.png" />Упакованная катушка теслы x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/eng/tesla-coil.png" alt="coil.png" />Упакованная катушка теслы x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
@@ -665,7 +665,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>4000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/tesla-generator.png" alt="tesla_generator.png" />Упакованный генератор теслы x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/eng/tesla-generator.png" alt="tesla_generator.png" />Упакованный генератор теслы x1</p>
   </div>  
   <div>
     <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="protected_box_eng.png" />
@@ -675,7 +675,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>400$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/engineering/grounding-rod.png" alt="grounding_rod.png" />Упакованное заземление теслы x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/eng/grounding-rod.png" alt="grounding_rod.png" />Упакованное заземление теслы x1</p>
   </div>
 </div>
 </div>
