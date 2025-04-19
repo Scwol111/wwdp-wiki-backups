@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-19T10:45:33.570Z
+date: 2025-04-19T10:49:21.498Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -1001,7 +1001,7 @@ weapon.png" alt="secure_weapon_case.png" />
   </div>
   <div>
     <p><img src="/guides/supply/listofproduct_2/other/toys/waterblaster.png" alt="waterblaster.png" />Водяной бластер x2</p>
-    <p><img src="/guides/supply/listofproduct_2/other/toys/waterpistols/waterpistol.png" alt="waterpistol.png" />Водяной пистолет x4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/waterpistol.png" alt="waterpistol.png" />Водяной пистолет x4</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
@@ -1011,29 +1011,29 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>10000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/cash.png" alt="cash.png" /> ??? х?</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/cash.png" alt="cash.png" /> ??? х?</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/fun/crates/toy_crate.png" alt="toy_crate.png" />
+    <img src="/guides/supply/listofproduct_2/containers/toy.png" alt="toy_crate.png" />
     <p>Ящик игрушек</p>
   </div>
   <div>
     <p>900$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/toys/hammer.png" alt="hammer.png" />Резиновый молоток</p>
-    <p><img src="/guides/supply/listofproducts/fun/toys/piston.png" alt="piston.png" />Пистон</p>
-    <p><img src="/guides/supply/listofproducts/fun/toys/fart.png" alt="fart.png" />Подушка-пердушка</p>
-    <p><img src="/guides/supply/listofproducts/fun/toys/cylynder.png" alt="cylynder.png" />Цилиндр фокусника</p>
-    <p><img src="/guides/supply/listofproducts/fun/toys/clown_tufli.png" alt="clown_tufli.png" />Большие клоунские туфли</p>
-    <p><img src="/guides/supply/listofproducts/fun/toys/glue.png" alt="glue.png" />Безумный клей</p>
-    <p><img src="/guides/supply/listofproducts/fun/toys/chips.png" alt="chips.png" />Мистер Чипс</p>
-    <p><img src="/guides/supply/listofproducts/fun/toys/dips.png" alt="dips.png" />Мистер Дипс</p>
-    <p><img src="/guides/supply/listofproducts/fun/toys/banana.png" alt="banana.png" />Банан (пластиковый)</p>
-    <p><img src="/guides/supply/listofproducts/fun/toys/monocycle.png" alt="monocycle.png" />Моноцикл</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/hammer.png" alt="hammer.png" />Резиновый молоток</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/piston.png" alt="piston.png" />Пистон</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/fart.png" alt="fart.png" />Подушка-пердушка</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/cylynder.png" alt="cylynder.png" />Цилиндр фокусника</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/clown_tufli.png" alt="clown_tufli.png" />Большие клоунские туфли</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/glue.png" alt="glue.png" />Безумный клей</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/chips.png" alt="chips.png" />Мистер Чипс</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/dips.png" alt="dips.png" />Мистер Дипс</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/banana.png" alt="banana.png" />Банан (пластиковый)</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/monocycle.png" alt="monocycle.png" />Моноцикл</p>
     <p>nanotrasen baloon</p>
-    <p><img src="/guides/supply/listofproducts/fun/spbox.png" alt="spbox.png" /> snap pop box</p>
-    <p><img src="/guides/supply/listofproducts/fun/crazyglue.png" alt="crazyglue.png" />сумасшедший клей х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/spbox.png" alt="spbox.png" /> snap pop box</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/glue.png" alt="crazyglue.png" />сумасшедший клей х2</p>
   </div>
   
   <div>
@@ -1044,13 +1044,13 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/raznoobraznyie/akkordeon.png" alt="akkordeon.png" /> Аккордеон</p>
-    <p><img src="/guides/supply/listofproducts/fun/raznoobraznyie/guitar.png" alt="guitar.png" />Акустическая гитара</p>
-    <p><img src="/guides/supply/listofproducts/fun/raznoobraznyie/flute.png" alt="flute.png" />Блокфейта</p>
-    <p><img src="/guides/supply/listofproducts/fun/raznoobraznyie/gloken.png" alt="gloken.png" />Глокеншпиль</p>
-    <p><img src="/guides/supply/listofproducts/fun/raznoobraznyie/garmoshka.png" alt="garmoshka.png" />Губная гармошка</p>
-    <p><img src="/guides/supply/listofproducts/fun/raznoobraznyie/synth.png" alt="synth.png" />Синтезатор</p>
-    <p><img src="/guides/supply/listofproducts/fun/raznoobraznyie/truba.png" alt="truba.png" />Труба</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/akkordeon.png" alt="akkordeon.png" /> Аккордеон</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/guitar.png" alt="guitar.png" />Акустическая гитара</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/flute.png" alt="flute.png" />Блокфейта</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/gloken.png" alt="gloken.png" />Глокеншпиль</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/garmoshka.png" alt="garmoshka.png" />Губная гармошка</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/synth.png" alt="synth.png" />Синтезатор</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/truba.png" alt="truba.png" />Труба</p>
   </div>
   
   <div>
@@ -1061,12 +1061,12 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/dyxovie/tuba.png" alt="tuba.png" />Туба</p>
-    <p><img src="/guides/supply/listofproducts/fun/dyxovie/sax.png" alt="sax.png" />Саксофон х2</p>
-    <p><img src="/guides/supply/listofproducts/fun/dyxovie/valt.png" alt="valt.png" />Валторна х2</p>
-    <p><img src="/guides/supply/listofproducts/fun/dyxovie/tromb.png" alt="tromb.png" />Тромбон х2</p>
-    <p><img src="/guides/supply/listofproducts/fun/dyxovie/truba.png" alt="truba.png" />Труба х2</p>
-    <p><img src="/guides/supply/listofproducts/fun/dyxovie/eyfonium.png" alt="eyfonium.png" />Эуфониум</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/tuba.png" alt="tuba.png" />Туба</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/sax.png" alt="sax.png" />Саксофон х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/valt.png" alt="valt.png" />Валторна х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/tromb.png" alt="tromb.png" />Тромбон х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/truba.png" alt="truba.png" />Труба х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/eyfonium.png" alt="eyfonium.png" />Эуфониум</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
@@ -1076,12 +1076,12 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/klavishniye/akkordeon.png" alt="akkordeon.png" /> Аккордеон х2</p>
-    <p><img src="/guides/supply/listofproducts/fun/klavishniye/vibrafon.png" alt="vibrafon.png" />Вибрафон </p>
-    <p><img src="/guides/supply/listofproducts/fun/klavishniye/gloken.png" alt="gloken.png" />Глокеншпиль х2</p>
-    <p><img src="/guides/supply/listofproducts/fun/klavishniye/synth.png" alt="synth.png" />Синтезатор х2</p>
-    <p><img src="/guides/supply/listofproducts/fun/klavishniye/calimba.png" alt="calimba.png" />Калимба х2</p>
-    <p><img src="/guides/supply/listofproducts/fun/klavishniye/korobka.png" alt="korobka.png" />Коробочка</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/akkordeon.png" alt="akkordeon.png" /> Аккордеон х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/vibrafon.png" alt="vibrafon.png" />Вибрафон </p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/gloken.png" alt="gloken.png" />Глокеншпиль х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/synth.png" alt="synth.png" />Синтезатор х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/calimba.png" alt="calimba.png" />Калимба х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/korobka.png" alt="korobka.png" />Коробочка</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
@@ -1091,15 +1091,15 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/strynnie/arfa.png" alt="arfa.png" />Арфа</p>
-    <p><img src="/guides/supply/listofproducts/fun/strynnie/banjo.png" alt="banjo.png" />Банджо</p>
-    <p><img src="/guides/supply/listofproducts/fun/strynnie/rock.png" alt="rock.png" />Рок-гитара</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/arfa.png" alt="arfa.png" />Арфа</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/banjo.png" alt="banjo.png" />Банджо</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/rock.png" alt="rock.png" />Рок-гитара</p>
     <p><img src="/guides/supply/listofproducts/fun/strynnie/acustic.png" alt="acustic.png" />Акустическая гитара</p>
-    <p><img src="/guides/supply/listofproducts/fun/strynnie/bass.png" alt="bass.png" />Бас-гитара</p>
-    <p><img src="/guides/supply/listofproducts/fun/strynnie/electro.png" alt="electro.png" />Электрогитара</p>
-    <p><img src="/guides/supply/listofproducts/fun/strynnie/violo.png" alt="violo.png" />Виолончель</p>
-    <p><img src="/guides/supply/listofproducts/fun/strynnie/skripka.png" alt="skripka.png" />Скрипка</p>
-    <p><img src="/guides/supply/listofproducts/fun/strynnie/viola.png" alt="viola.png" />Виола</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/bass.png" alt="bass.png" />Бас-гитара</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/electro.png" alt="electro.png" />Электрогитара</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/violo.png" alt="violo.png" />Виолончель</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/skripka.png" alt="skripka.png" />Скрипка</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/viola.png" alt="viola.png" />Виола</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/fun/crates/steel_crate.png" alt="steel_crate.png" />
@@ -1109,16 +1109,16 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>10000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/osobie/vertolet.png" alt="vertolet.png" />Игрушечный вертолёт</p>
-    <p><img src="/guides/supply/listofproducts/fun/osobie/ksilo.png" alt="ksilo.png" /> Ксилофон</p>
-        <p><img src="/guides/supply/listofproducts/fun/osobie/micro.png" alt="micro.png" />Микрофон</p>
-    <p><img src="/guides/supply/listofproducts/fun/osobie/skatulka.png" alt="skatulka.png" /> Музыкальная шкатулка</p>
-    <p><img src="/guides/supply/listofproducts/fun/osobie/legkoe.png" alt="legkoe.png" />Музыкальное лёгкое</p>
-    <p><img src="/guides/supply/listofproducts/fun/osobie/pisoliet.png" alt="pisoliet.png" />Пистольлет</p>
-    <p><img src="/guides/supply/listofproducts/fun/osobie/klakson.png" alt="klakson.png" />Позолоченный велосипедный клаксон</p>
-    <p><img src="/guides/supply/listofproducts/fun/osobie/bird.png" alt="bird.png" />Птичий свист</p>
-    <p><img src="/guides/supply/listofproducts/fun/osobie/rakushka.png" alt="rakushka.png" /> Ракушка</p>
-    <p><img src="/guides/supply/listofproducts/fun/osobie/reverse.png" alt="reverse.png" />Реверс-цимбалы</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/vertolet.png" alt="vertolet.png" />Игрушечный вертолёт</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/ksilo.png" alt="ksilo.png" /> Ксилофон</p>
+        <p><img src="/guides/supply/listofproduct_2/other/toys/micro.png" alt="micro.png" />Микрофон</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/skatulka.png" alt="skatulka.png" /> Музыкальная шкатулка</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/legkoe.png" alt="legkoe.png" />Музыкальное лёгкое</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/pisoliet.png" alt="pisoliet.png" />Пистольлет</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/klakson.png" alt="klakson.png" />Позолоченный велосипедный клаксон</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/bird.png" alt="bird.png" />Птичий свист</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/rakushka.png" alt="rakushka.png" /> Ракушка</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/reverse.png" alt="reverse.png" />Реверс-цимбалы</p>
   </div>
 </div>
 </div>
