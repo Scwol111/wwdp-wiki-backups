@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-20T18:06:34.254Z
+date: 2025-04-20T18:21:54.176Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -2025,7 +2025,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>600$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/medicine/nabor_radiation.png" alt="nabor_radiation.png" />Набор выведения радиации x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/nabor_radiation.png" alt="nabor_radiation.png" />Набор выведения радиации x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/medicine/med_box.png" />
@@ -2035,7 +2035,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>600$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/medicine/o2kit.png" alt="nabor_radiation.png" />Набор для лечения кислородного голодания x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/o2kit.png" alt="nabor_radiation.png" />Набор для лечения кислородного голодания x1</p>
   </div><div>
     <img src="/guides/supply/listofproducts/medicine/med_box.png" />
     <center><p>Аварийный набор для лечения механических травм</p></center><br>
@@ -2044,7 +2044,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>600$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/medicine/brutekit.png" />Набор для лечения физических травм x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/brutekit.png" />Набор для лечения физических травм x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/medicine/med_box.png" />
@@ -2054,7 +2054,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>600$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/medicine/tox.png" />Набор для лечения токсинов x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/tox.png" />Набор для лечения токсинов x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/medicine/med_box.png" />
@@ -2064,7 +2064,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>700$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/medicine/burns.png" />Набор для лечения физических травм x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/burns.png" />Набор для лечения физических травм x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/medicine/med_box.png" />
@@ -2074,7 +2074,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1200$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/medicine/advkit.png" />Продвинутая аптечка первой помощи x1 </p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/advkit.png" />Продвинутая аптечка первой помощи x1 </p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/medicine/med_box_lock.png" />
@@ -2084,9 +2084,9 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>800$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/medicine/bio_head.png" alt="hood_bio.png" />Капюшон биозащитного костюма x2</p>
-    <p><img src="/guides/supply/listofproducts/medicine/bio_suit.png" alt="costume_bio.png" />Биозащитный костюм x2</p>
-    <p><img src="/guides/supply/listofproducts/security/sterile_mask.png" alt="sterile_mask.png" />Стерильная маска x2</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/hats/hood_bio.png" alt="hood_bio.png" />Капюшон биозащитного костюма x2</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/suits/bio_suit.png" alt="costume_bio.png" />Биозащитный костюм x2</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/masks/sterile_mask.png" alt="sterile_mask.png" />Стерильная маска x2</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/medicine/med_box_lock.png" />
@@ -2096,7 +2096,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>3820$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/medicine/himmat.png" alt="himmat.png" />Набор пополнения ХимВенд x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/himmat.png" alt="himmat.png" />Набор пополнения ХимВенд x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/medicine/med_box.png" />
@@ -2106,7 +2106,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>3000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/fun/implanter0.png" alt="implanter0.png" />Имплантер(Имплант защиты разума) х3</p>
+    <p><img src="/guides/supply/listofproduct_2/smth/implanter0.png" alt="implanter0.png" />Имплантер(Имплант защиты разума) х3</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/medicine/med_box.png" />
@@ -2116,12 +2116,12 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2400$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/medicine/firstaid.png" alt="firstaid.png" />Аптечка первой помощи x2</p>
-    <p><img src="/guides/supply/listofproducts/medicine/bloodpack.png" alt="blood_bag.png" />Пакет с кровью x2</p>
-    <p><img src="/guides/supply/listofproducts/medicine/marlya.png" alt="marlya.png" />Марлевый бинт x2</p>
-    <p><img src="/guides/supply/listofproducts/medicine/latex_gloves.png" alt="latex_gloves.png" />Коробка латексных перчаток x1</p>
-    <p><img src="/guides/supply/listofproducts/medicine/box_masks.png" alt="box_masks.png" />Коробка медицинских масок x1</p>
-    <p><img src="/guides/supply/listofproducts/medicine/box_sticks.png" alt="box_sticks.png" />Коробка стерильных палочек x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/firstaid.png" alt="firstaid.png" />Аптечка первой помощи x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/bloodpack.png" alt="blood_bag.png" />Пакет с кровью x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/marlya.png" alt="marlya.png" />Марлевый бинт x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/latex_gloves.png" alt="latex_gloves.png" />Коробка латексных перчаток x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/box_masks.png" alt="box_masks.png" />Коробка медицинских масок x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/box_sticks.png" alt="box_sticks.png" />Коробка стерильных палочек x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/medicine/med_box.png" />
@@ -2131,7 +2131,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>700$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/medicine/box_of_body_bags.png" />Коробка мешков для тел x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/box_of_body_bags.png" />Коробка мешков для тел x2</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/medicine/med_box_lock.png" />
@@ -2141,7 +2141,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2200$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/medicine/nanomed.png" alt="nanomed.png" />Набор пополнения НаноМед x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/himmat.png" alt="nanomed.png" />Набор пополнения НаноМед x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/medicine/chemical_box.png" />
@@ -2198,7 +2198,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/medicine/vials.png" />Коробка пробирок x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/vials.png" />Коробка пробирок x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/medicine/med_box.png" />
@@ -2208,11 +2208,11 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>750$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/medicine/pipetka.png" alt="pipetka.png" />Пипетка x2</p>
-    <p><img src="/guides/supply/listofproducts/medicine/korobka_butilo4ek.png" alt="korobka_butilo4ek.png" />Коробка бутылочек x2</p>
-    <p><img src="/guides/supply/listofproducts/medicine/korobka_bano4ek_tabletok.png" alt="korobka_bano4ek_tabletok.png" />Коробка баночек для таблеток x1</p>
-    <p><img src="/guides/supply/listofproducts/medicine/korobka_menzurok.png" alt="korobka_menzurok.png" />Коробка мензурок x1</p>
-    <p><img src="/guides/supply/listofproducts/medicine/korobka_sprizov.png" alt="korobka_sprizov.png" />Коробка шприцов x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/pipetka.png" alt="pipetka.png" />Пипетка x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/korobka_butilo4ek.png" alt="korobka_butilo4ek.png" />Коробка бутылочек x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/korobka_bano4ek_tabletok.png" alt="korobka_bano4ek_tabletok.png" />Коробка баночек для таблеток x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/korobka_menzurok.png" alt="korobka_menzurok.png" />Коробка мензурок x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/korobka_sprizov.png" alt="korobka_sprizov.png" />Коробка шприцов x1</p>
   </div>
  </div>
 </div>
