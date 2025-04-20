@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-20T18:23:26.297Z
+date: 2025-04-20T18:34:52.654Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -2222,7 +2222,7 @@ weapon.png" alt="secure_weapon_case.png" />
   <h3>Наука</h3>
   <div class="custom-table">
     <div>
-      <img src="/guides/supply/listofproducts/science/artifact_container.png" alt="artifact_container.png" />
+      <img src="/guides/xenoarcheology/art_container.png" alt="artifact_container.png" />
       <p>Контейнер артефактов</p>
     </div>
     <div>
@@ -2231,7 +2231,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <div>
     </div>
         <div>
-      <img src="/guides/supply/listofproducts/science/random_artifact1.gif" alt="random_artifact1.gif" />
+      <img src="/guides/xenoarcheology/random_artifact.gif" alt="random_artifact1.gif" />
       <p>Случайный артефакт</p>
     </div>
     <div>
@@ -2240,26 +2240,26 @@ weapon.png" alt="secure_weapon_case.png" />
     <div>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/science/science_box_lock.png" alt="protected_box_rnd.png" />
+      <img src="/guides/supply/listofproduct_2/containers/science_lock.png" alt="protected_box_rnd.png" />
       <p>Ящик научных биозащитных костюмов</p>
     </div>
     <div>
       <p>800$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/science/hood_of_biohazard_suit_rnd.png" alt="hood_of_biohazard_suit_rnd.png" />Капюшон биозащитного костюма x2</p>
-      <p><img src="/guides/supply/listofproducts/science/biohazard_suit_rnd.png" alt="biohazard_suit_rnd.png" />Биозащитный костюм x2</p>
-      <p><img src="/guides/supply/listofproducts/science/sterile_mask.png" alt="sterile_mask.png" />Стерильная маска x2</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/hats/hood_of_biohazard_suit_rnd.png" alt="hood_of_biohazard_suit_rnd.png" />Капюшон биозащитного костюма x2</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/suits/bio_suit1.png" alt="biohazard_suit_rnd.png" />Биозащитный костюм x2</p>
+      <p><img src="/guides/supply/listofproduct_2/clothes/masks/sterile_mask.png" alt="sterile_mask.png" />Стерильная маска x2</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/science/science_box_lock.png" alt="protected_box_rnd.png" />
+      <img src="/guides/supply/listofproduct_2/containers/science_lock.png" alt="protected_box_rnd.png" />
       <p>Ящик для пополнения запасов Роботех Делюкс</p>
     </div>
     <div>
       <p>1800$</p>
     </div>
     <div>
-      <p><img src="/guides/supply/listofproducts/science/robotech_deluxe_refill_kit.png" alt="robotech_deluxe_refill_kit.png" />Набор пополнения Роботех Делюкса x1</p>
+      <p><img src="/guides/supply/listofproduct_2/other/vend/robotech_deluxe_refill_kit.png" alt="robotech_deluxe_refill_kit.png" />Набор пополнения Роботех Делюкса x1</p>
     </div>
   </div>
 </div>
