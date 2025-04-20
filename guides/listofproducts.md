@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-19T23:14:42.982Z
+date: 2025-04-20T18:06:34.254Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -1991,24 +1991,24 @@ weapon.png" alt="secure_weapon_case.png" />
   <h3>Шаттл</h3>
   <div class="custom-table">
     <div>
-      <img src="/guides/supply/listofproducts/shuttle_construction/engineringbox.png" alt="gyroscope.png" />
+      <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="gyroscope.png" />
       <p>Ящик с гироскопом</p>
     </div>
     <div>
       <p>4000$</p>
     </div>
     <div>
-  <p><img src="/guides/supply/listofproducts/shuttle_construction/flatpack.png" alt="helmet.png" />Упакованный гироскоп x1</p>
+  <p><img src="/guides/supply/listofproduct_2/other/box/flatpack.png" alt="helmet.png" />Упакованный гироскоп x1</p>
     </div>
     <div>
-      <img src="/guides/supply/listofproducts/shuttle_construction/engineringbox.png" alt="rocket_engine.png" />
+      <img src="/guides/supply/listofproduct_2/containers/eng.png" alt="rocket_engine.png" />
       <p>Ящик с ракетным двигателем</p>
     </div>
     <div>
       <p>1500$</p>
     </div>
     <div>
-  <p><img src="/guides/supply/listofproducts/shuttle_construction/flatpack.png" alt="helmet.png" />Упакованный ракетный двигатель x1</p>
+  <p><img src="/guides/supply/listofproduct_2/other/box/flatpack.png" alt="helmet.png" />Упакованный ракетный двигатель x1</p>
     </div>
   </div>
 </div>
