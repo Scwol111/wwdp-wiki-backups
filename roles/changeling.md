@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-04-20T13:29:16.648Z
+date: 2025-04-20T13:33:07.209Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
