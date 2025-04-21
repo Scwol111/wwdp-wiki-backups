@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-19T10:37:03.979Z
+date: 2025-04-21T15:29:34.514Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -208,7 +208,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
     <tbody>
       <tr>
         <td style="background-color:#42662E;">Алоэ</td>
-        <td style="background-color:#42662E;">Производит алоэ, которое можно использовать для приготовления крема из алоэ. Он полезен при лечении ожогов.</td>
+        <td>Производит алоэ, которое можно использовать для приготовления крема из алоэ. Он полезен при лечении ожогов.</td>
         <td>
           <figure class="image"><img src="/guides/hydroshit/aloe-harvest.png"></figure>
         </td>
