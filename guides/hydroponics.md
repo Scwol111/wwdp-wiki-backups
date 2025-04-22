@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-22T16:09:28.523Z
+date: 2025-04-22T16:13:29.915Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -701,7 +701,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
 <p>Растения, обработанные нестабильным мутагеном, будут подвергаться случайным генетическим мутациям. Чем больше нестабильного мутагена, тем больше мутаций может возникнуть у растения, но тем выше вероятность того, что растение погибнет до сбора урожая. Поскольку многие гены необходимы для выживания растения, их случайная мутация с высокой вероятностью приведет к гибели растения. Однако мутация это единственный способ получить некоторые гены для растения.</p>
 <p>Рассмотрим каждую мутацию поподробнее. Из подразделяют на уникальные мутации (т.е. те мутации, которые в результате дают новое растение) и обычные мутации. Рассмотрим каждую.</p>
 <h2>Уникальные мутации</h2>
-<p><table class="ser" style="text-shadow: 1px 1px 0 black, -1px 1px 0 black, 1px -1px 0 black, -1px -1px 0 black;">
+<p><table class="ser" style="text-shadow: 1px 1px 1px black, -1px 1px 1px black, 1px -1px 1px black, -1px -1px 1px black;">
   <thead>
     <tr>
       <th style="text-shadow: none"><big>Название
@@ -935,7 +935,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
 </table>
 <h2>Обычные мутации</h2>
 
-<p><table class="ser" style="text-shadow: 1px 1px 0 black, -1px 1px 0 black, 1px -1px 0 black, -1px -1px 0 black;">
+<p><table class="ser" style="text-shadow: 1px 1px 1px black, -1px 1px 1px black, 1px -1px 1px black, -1px -1px 1px black;">
   <thead>
     <th style="text-shadow: none"><big>Название
     <th style="text-shadow: none"><big>Шанс возникновения
