@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-22T15:02:57.665Z
+date: 2025-04-22T15:03:59.547Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
