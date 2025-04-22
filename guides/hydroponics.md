@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-22T16:01:40.900Z
+date: 2025-04-22T16:09:28.523Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -196,7 +196,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
 
 <h2>Список растений и их продуктов</h2>
 
- <p><table class="ser2" style="text-shadow: 1px 1px 0 black, -1px 1px 0 black, 1px -1px 0 black, -1px -1px 0 black;">
+ <p><table class="ser2" style="text-shadow: 1px 1px 1px black, -1px 1px 1px black, 1px -1px 1px black, -1px -1px 1px black;">
     <thead>
       <tr>
         <th style="background-color:#161a1e; text-shadow: none"><big>Название растения</th>
