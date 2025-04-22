@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-22T15:39:09.202Z
+date: 2025-04-22T15:43:48.458Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -207,7 +207,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
     </thead>
     <tbody>
       <tr>
-        <td style="background-color:#42662E;">Алоэ</td>
+        <td style="background-color:#42662E;"><b>Алоэ</td>
         <td>Производит алоэ, которое можно использовать для приготовления крема из алоэ. Он полезен при лечении ожогов.</td>
         <td>
           <figure class="image"><img src="/guides/hydroshit/aloe-harvest.png"></figure>
@@ -217,7 +217,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Амброзия вульгарис</td>
+        <td style="background-color:#42662E;"><b>Амброзия вульгарис</td>
         <td style="background-color:#42662E;">Производит амброзию вульгарис, из неё можно получить метамфетамин и некоторые лекарства</td>
         <td>
           <figure class="image"><img src="/guides/hydroshit/ambrosia-harvest.png"></figure>
@@ -227,7 +227,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Яблоко</td>
+        <td style="background-color:#42662E;"><b>Яблоко</td>
         <td style="background-color:#42662E;">Производит яблоки, которые можно есть для утоления голода. Они также используются в различных кулинарных рецептах.</td>
         <td>
           <figure class="image"><img src="/guides/hydroshit/apple-harvest.png"></figure>
@@ -237,7 +237,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Виноград</td>
+        <td style="background-color:#42662E;"><b>Виноград</td>
         <td style="background-color:#42662E;">Производит виноград. Большая гроздь с кучей стручков. Используется для приготовления вина.</td>
         <td>
           <figure class="image"><img src="/guides/hydroshit/grape-tree.png"></figure>
@@ -247,7 +247,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Банан</td>
+        <td style="background-color:#42662E;"><b>Банан</td>
         <td style="background-color:#42662E;">Производит бананы, которые можно есть для утоления голода. Они также используются для приготовления бананового хлеба. Их кожура заставляет людей поскользнуться. Измельчённая банановая кожура помогает от кровотечения.</td>
         <td>
           <figure class="image"><img src="/guides/hydroshit/banana-harvest.png"></figure>
@@ -257,103 +257,103 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Конопля</td>
+        <td style="background-color:#42662E;"><b>Конопля</td>
         <td style="background-color:#42662E;">Производит листья конопли, из которых можно делать самокрутки.</td>
         <td><img src="/guides/hydroshit/cannabis-harvest.png"></td>
         <td><img src="/guides/hydroshit/canabis.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Морковка</td>
+        <td style="background-color:#42662E;"><b>Морковка</td>
         <td style="background-color:#42662E;">Производит морковку, из которой можно сделать разные блюда.</td>
         <td><img src="/guides/hydroshit/carrots-harvest.png"></td>
         <td><img src="/guides/hydroshit/carrot.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Лисичка</td>
+        <td style="background-color:#42662E;"><b>Лисичка</td>
         <td style="background-color:#42662E;">Производит грибы лисички, которые можно есть для утоления голода. Они также используются для приготовления грибной пиццы.</td>
         <td><img src="/guides/hydroshit/chanterelle-harvest.png"></td>
         <td><img src="/guides/hydroshit/chanterelle.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Перец чили</td>
+        <td style="background-color:#42662E;"><b>Перец чили</td>
         <td style="background-color:#42662E;">Производит перец чили, который можно есть для утоления голода и повышения температуры. Они также используются для приготовления миски с чили, энчиладас и кесо.</td>
         <td><img src="/guides/hydroshit/chilis-harvest.png"></td>
         <td><img src="/guides/hydroshit/chili.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Кукуруза</td>
+        <td style="background-color:#42662E;"><b>Кукуруза</td>
         <td style="background-color:#42662E;">Производит кукурузу которую можно есть. Используется для создания попкорна и энчиладас.</td>
         <td><img src="/guides/hydroshit/corn-harvest.png"></td>
         <td><img src="/guides/hydroshit/corn.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Кабачок</td>
+        <td style="background-color:#42662E;"><b>Кабачок</td>
         <td style="background-color:#42662E;">Производит кабачки, которые можно есть. Используются для создания овощной пиццы.</td>
         <td><img src="/guides/hydroshit/backlaganeplant-harvest.png"></td>
         <td><img src="/guides/hydroshit/backlagane.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Яйцефрут</td>
+        <td style="background-color:#42662E;"><b>Яйцефрут</td>
         <td style="background-color:#42662E;">Производит яйца, которые используются при приготовлении многих видов блюд, например тортов или блинов.</td>
         <td><img src="/guides/hydroshit/eggyplant-harvest.png"></td>
         <td><img src="/guides/hydroshit/eggyplant-produce.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Галакточертополох</td>
+        <td style="background-color:#42662E;"><b>Галакточертополох</td>
         <td style="background-color:#42662E;">Производит галакточертополох, из которого можно получить стеллибинин, сильнодействующий антитоксин.</td>
         <td><img src="/guides/hydroshit/galaxy-thistle-harvest.png"></td>
         <td><img src="/guides/hydroshit/galaxy_thistle.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Гатфрукт</td>
+        <td style="background-color:#42662E;"><b>Гатфрукт</td>
         <td style="background-color:#42662E;">Производит гатфрукт, при использовании даёт пистолет (спавнится на обломках, в ящике припасов синдиката и аплинке ботаника)</td>
         <td><img src="/guides/hydroshit/gatfruit-harvest.png"></td>
         <td><img src="/guides/hydroshit/gatfruit.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Лимон</td>
+        <td style="background-color:#42662E;"><b>Лимон</td>
         <td style="background-color:#42662E;">Производит лимоны. Лимоны используются в различных кулинарных рецептах. Они также помогают предотвратить цингу.</td>
         <td><img src="/guides/hydroshit/lemon_tree.png"></td>
         <td><img src="/guides/hydroshit/lemon.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Лайм</td>
+        <td style="background-color:#42662E;"><b>Лайм</td>
         <td style="background-color:#42662E;">Производит лайм. Это цитрусовое растение, которое используют в приготовлении разных напитков.</td>
         <td><img src="/guides/hydroshit/lime-tree.png"></td>
         <td><img src="/guides/hydroshit/lime.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Апельсин</td>
+        <td style="background-color:#42662E;"><b>Апельсин</td>
         <td style="background-color:#42662E;">Производит апельсины, которые вкусны в обычном и выжатом в стакан виде.</td>
         <td><img src="/guides/hydroshit/orange-tree.png"></td>
         <td><img src="/guides/hydroshit/orange.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Линчжи</td>
+        <td style="background-color:#42662E;"><b>Линчжи</td>
         <td style="background-color:#42662E;">Производит гриб линчжи, из которого получают эпинефрин и ультраваскулин.</td>
         <td><img src="/guides/hydroshit/lingzhi-harvest.png"></td>
         <td><img src="/guides/hydroshit/lingzhi.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Крапива</td>
+        <td style="background-color:#42662E;"><b>Крапива</td>
         <td style="background-color:#42662E;">Производит крапиву, из которой можно приготовить суп с крапивой. Можно использовать в качестве оружия.</td>
         <td><img src="/guides/hydroshit/nettle-bush.png"></td>
         <td><img src="/guides/hydroshit/nettle.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Овёс</td>
+        <td style="background-color:#42662E;"><b>Овёс</td>
         <td style="background-color:#42662E;">Производит бушель овса, из которых можно приготовить разные блюда.</td>
         <td><img src="/guides/hydroshit/oats.png"></td>
         <td><img src="/guides/hydroshit/oats_produce.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Лук</td>
+        <td style="background-color:#42662E;"><b>Лук</td>
         <td style="background-color:#42662E;">Производит лук, который можно есть. Их можно использовать с ножом, чтобы сделать луковые ломтики, которые используются для приготовления миски с чили.</td>
         <td><img src="/guides/hydroshit/onion-plant.png"></td>
         <td><img src="/guides/hydroshit/onion.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Чеснок</td>
+        <td style="background-color:#42662E;"><b>Чеснок</td>
         <td style="background-color:#42662E;">Производит чеснок, после которого сильно воняет из рта.</td>
         <td>
           <img src="/guides/hydroshit/garlic-tree.png">
@@ -363,7 +363,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Красный лук</td>
+        <td style="background-color:#42662E;"><b>Красный лук</td>
         <td style="background-color:#42662E;">Производит красный лук.</td>
         <td>
           <img src="/guides/hydroshit/redonion-plant.png">
@@ -373,7 +373,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Ананас</td>
+        <td style="background-color:#42662E;"><b>Ананас</td>
         <td style="background-color:#42662E;">Производит ананасы, которые можно нарезать на кольца и подавать на прилавок. Используются в некоторых рецептах.</td>
         <td>
           <img src="/guides/hydroshit/pineapple-bush.png">
@@ -383,7 +383,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Арбуз</td>
+        <td style="background-color:#42662E;"><b>Арбуз</td>
         <td style="background-color:#42662E;">Производит арбуз. Это большая ягода, которую можно нарезать на дольки или измельчить в миксере для сока.</td>
         <td>
           <img src="/guides/hydroshit/melonbush.png">
@@ -393,7 +393,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Мак</td>
+        <td style="background-color:#42662E;"><b>Мак</td>
         <td style="background-color:#42662E;">Производит мак, из которого можно сделать бикаридин.</td>
         <td>
           <img src="/guides/hydroshit/poppy-flower.png">
@@ -403,7 +403,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Картофель</td>
+        <td style="background-color:#42662E;"><b>Картофель</td>
         <td style="background-color:#42662E;">Производит картофель, который можно нафаршировать. Используется в некоторых рецептах.</td>
         <td>
           <img src="/guides/hydroshit/potato_plant.png">
@@ -413,7 +413,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Космический табак</td>
+        <td style="background-color:#42662E;"><b>Космический табак</td>
         <td style="background-color:#42662E;">Производит космический табак.</td>
         <td>
           <img src="/guides/hydroshit/spacetobacco_plant.png">
@@ -423,7 +423,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Сахарный тростник</td>
+        <td style="background-color:#42662E;"><b>Сахарный тростник</td>
         <td style="background-color:#42662E;">Производит тростник, из которого можно сделать сахар использующийся в рецептах.</td>
         <td>
           <img src="/guides/hydroshit/sugarcane_plant.png">
@@ -433,7 +433,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Табак</td>
+        <td style="background-color:#42662E;"><b>Табак</td>
         <td style="background-color:#42662E;">Производит листья табака из которых можно делать самокрутки.</td>
         <td>
           <img src="/guides/hydroshit/tobacco_plant.png">
@@ -443,7 +443,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Капуста</td>
+        <td style="background-color:#42662E;"><b>Капуста</td>
         <td style="background-color:#42662E;">Производит капусту. Лепестковый овощ, который используется в рецептах салатов.</td>
         <td>
           <img src="/guides/hydroshit/cabbage-bush.png">
@@ -453,7 +453,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Помидор</td>
+        <td style="background-color:#42662E;"><b>Помидор</td>
         <td style="background-color:#42662E;">Производит помидоры, из которых можно сделать пиццу, спагетти и другие рецепты. Можно кидать в неугодных вам людей.</td>
         <td>
           <img src="/guides/hydroshit/tomato_plant.png">
@@ -463,7 +463,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Грибошляпник</td>
+        <td style="background-color:#42662E;"><b>Грибошляпник</td>
         <td style="background-color:#42662E;">Производит брёвна, которые можно нарубить для получения древесины.</td>
         <td>
           <img src="/guides/hydroshit/towercap_plant.png">
@@ -473,7 +473,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Пшеница</td>
+        <td style="background-color:#42662E;"><b>Пшеница</td>
         <td style="background-color:#42662E;">Производит бушели пшеницы, из которых можно сделать муку, которая нужна для создания хлеба и других рецептов.</td>
         <td>
           <img src="/guides/hydroshit/wheat_plant.png">
@@ -483,7 +483,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Мухомор</td>
+        <td style="background-color:#42662E;"><b>Мухомор</td>
         <td style="background-color:#42662E;">Токсичный гриб, в котором содержится опасный яд <a href="/guides/chemistry#chem_amatoxin">аматоксин</a>.</td>
         <td>
           <img src="/guides/hydroshit/fly-amanita-harvest.png">
@@ -493,7 +493,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;">Гном</td>
+        <td style="background-color:#42662E;"><b>Гном</td>
         <td style="background-color:#42662E;">После созревания, растение превращается в живого садового <a href="../roles/gnome">гнома</a>.</td>
         <td>
           <img src="/guides/hydroshit/gnome-stage-2.png"/>
@@ -712,7 +712,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
   </thead>
   <tbody>
     <tr>
-      <td>Амброзия Деус (Амброзия Вульгарис)</td>
+      <td><b>Амброзия Деус (Амброзия Вульгарис)</td>
       <td>Содержит в себе омнизин и космические наркотики.</td>
       <td>
         <img src="/guides/hydroshit/harvest-ambrosia-deus.png">
@@ -722,7 +722,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Кровавый томат (Томат)</td>
+      <td><b>Кровавый томат (Томат)</td>
       <td>Содержит кровь.</td>
       <td>
         <img src="/guides/hydroshit/harvest-blood-tomato.png">
@@ -732,7 +732,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Смертокрапива (Крапива)</td>
+      <td><b>Смертокрапива (Крапива)</td>
       <td>Содержит серную и фторную кислоту. Наносит примерно 17 урона (без учёта ядов)</td>
 			<td>
         <img src="/guides/hydroshit/harvest-death-nettle.png">
@@ -742,7 +742,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Лилун (Лимон)</td>
+      <td><b>Лилун (Лимон)</td>
       <td>При измельчении даёт молоко, а при выжимне - сакэ.</td>
       <td>
         <img src="/guides/hydroshit/harvest-lemoon.png">
@@ -752,7 +752,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Миман (Банан)</td>
+      <td><b>Миман (Банан)</td>
       <td>Содержит токсин немоты.</td>
       <td>
         <img src="/guides/hydroshit/harvest-mimana.png">
@@ -762,7 +762,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Сталешляпник (Грибошляпник)</td>
+      <td><b>Сталешляпник (Грибошляпник)</td>
       <td>При переработке даёт сталь.</td>
       			<td>
         <img src="/guides/hydroshit/harvest-glasstle.png">
@@ -772,7 +772,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Чи<b>лл</b>и (Чи<b>л</b>и)</td>
+      <td><b>Чи<b>лл</b>и (Чи<b>л</b>и)</td>
       <td>Содержит фризиум.</td>
       <td>
         <img src="/guides/hydroshit/harvest-chilly.png">
@@ -782,7 +782,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Коибобы (Соевые бобы)</td>
+      <td><b>Коибобы (Соевые бобы)</td>
       <td>Содержит карпотоксин.</td>
       <td>
         <img src="/guides/hydroshit/harvest-koibean.png">
@@ -792,7 +792,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
      <tr>
-      <td>Капфрут (Гатфрут)</td>
+      <td><b>Капфрут (Гатфрут)</td>
       <td>При поедании плода даёт игрушечный пистолетик с <b>БОЕВЫМИ БРОНЕБОЙНЫМИ ПАТРОНАМИ!</b></td>
       <td>
         <img src="/guides/hydroshit/harvest-capfruit.png">
@@ -802,7 +802,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
      <tr>
-      <td>Смешной горошек (Горох)</td>
+      <td><b>Смешной горошек (Горох)</td>
        <td>Содержит в себе <i>смех</i> и сахар.</td>
        <td>
         <img src="/guides/hydroshit/harvest-laugchin-pea.png">
@@ -812,7 +812,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
      <tr>
-      <td>Мировой горох (Смешной горошек)</td>
+      <td><b>Мировой горох (Смешной горошек)</td>
       <td>Содержит в себе токсин немоты, пакс и <i>счастье</i>.</td>
       <td>
         <img src="/guides/hydroshit/harvest-world-pea.png">
@@ -822,7 +822,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Радужная конопля (Конопля)</td>
+      <td><b>Радужная конопля (Конопля)</td>
       <td>Содержит в себе космический мираж, токсин майндюрекер, лилоципид, псикодин и <i>счастье.</i></td>
       <td>
         <img src="/guides/hydroshit/harvest-rainbow-cannabis.png">
@@ -832,7 +832,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Пирохлопок (Хлопок)</td>
+      <td><b>Пирохлопок (Хлопок)</td>
       <td>Содержит волокно и флогистон.</td>
       <td>
         <img src="/guides/hydroshit/harvest-pyrotton.png">
@@ -842,7 +842,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Лилия (Мак)</td>
+      <td><b>Лилия (Мак)</td>
       <td>Содержит бикаридин.</td>
       <td>
         <img src="/guides/hydroshit/harvest-lily.png">
@@ -852,7 +852,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Космонавтская трубка (Она же фиалка) (Лилия)</td>
+      <td><b>Космонавтская трубка (Она же фиалка) (Лилия)</td>
       <td>Содержит олигомеры полипирилия, за счет чего является мощным лекарством против любого механического урона.</td>
       <td>
         <img src="/guides/hydroshit/harvest-spacemans-trumpet.png">
@@ -862,7 +862,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Бумажный тростник (Сахарный тростник)</td>
+      <td><b>Бумажный тростник (Сахарный тростник)</td>
       <td>Его можно разрубить на бумагу.</td>
       <td>
         <img src="/guides/hydroshit/harvest-papercane.png">
@@ -872,7 +872,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Стеклополох (Галакточертополох)</td>
+      <td><b>Стеклополох (Галакточертополох)</td>
       <td>Содержит бритвиум. Является хрупким, при разбивании оставляет после себя осколок стекла.</td>
       <td>
         <img src="/guides/hydroshit/harvest-glasstle.png">
@@ -882,7 +882,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Синий томат (Томат)</td>
+      <td><b>Синий томат (Томат)</td>
       <td>Содержит космическую смазку.</td>
       <td>
         <img src="/guides/hydroshit/harvest-blue-tomato.png">
@@ -892,7 +892,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Золотое яблоко (Яблоко)</td>
+      <td><b>Золотое яблоко (Яблоко)</td>
       <td>Содержит <del>косметику</del> трикордразин и витамины. </td>
       <td>
         <img src="/guides/hydroshit/harvest-golden-apple.png">
@@ -902,7 +902,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Мясопшеница (Пшеница)</td>
+      <td><b>Мясопшеница (Пшеница)</td>
       <td>Содержит непрожаренные животные протеины.</td>
       <td>
         <img src="/guides/hydroshit/harvest-meatwheat.png">
@@ -912,7 +912,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Святой арбуз (Арбуз)</td>
+      <td><b>Святой арбуз (Арбуз)</td>
       <td>Содержит в себе святую воду и витамины. При выжимании даёт вино. При разделке даёт ломтики святого арбуза и арбузный ореол (нимб) в виде аксесуара.</td>
       <td>
         <img src="/guides/hydroshit/harvest-holymelon.png">
@@ -922,7 +922,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td>Внермерный апельсин (Апельсин)</td>
+      <td><b>Внермерный апельсин (Апельсин)</td>
       <td>Содержит галоперидол и витамины. <i>По сути, апельсин, но с иным составом и побольше.</i></td>
       <td>
         <img src="/guides/hydroshit/harvest-extradimensional-orange.png">
@@ -943,132 +943,132 @@ dateCreated: 2024-09-10T19:07:56.088Z
   </thead>
   <tbody>
     <tr>
-      <td>Нежизнеспособность
+      <td><b>Нежизнеспособность
       <td>10,9%
       <td>Растение постепенно умирает. Всё равно, что старение, но ускоренное. 
     </tr>
     <tr>
-      <td>Изменение химикатов
+      <td><b>Изменение химикатов
       <td>7,2%
       <td>Изменение химического состава плода вплоть до добавления сложнодобываемых химикатов в состав.
     </tr>
     <tr>
-      <td>Древянистость
+      <td><b>Древянистость
       <td>3,6%
       <td>Требует для добычи плода острые инструменты, например топорик или косу.
     </tr>
     <tr>
-      <td>Изменение вида
+      <td><b>Изменение вида
       <td>3,6%
       <td>Даёт растениям уникальную мутацию (расписано выше).
     </tr>
     <tr>
-      <td>Крик
+      <td><b>Крик
       <td>3,6%
       <td>При сборе плода растение кричит... И всё. Это не влияет на что-либо, оно просто орёт... <del>не возникало-ли у вас мысли, что ему больно?</del>
     </tr>
     <tr>
-      <td>Кудзу
+      <td><b>Кудзу
       <td>3,6%
       <td>Растение заражается кудзу - сорняком, который будет постоянно регенерироваться, и если за ним не уследить, то оно выйдет наружу из лотка и начнёт плести лианы. Так как он является геном, лучше всего избавиться от него методом селекции.
     </tr>
     <tr>
-      <td>Отсутствие семян
+      <td><b>Отсутствие семян
       <td>3,6%
       <td>Плоды не дают семян в экстракторе семян. <del>у моего отца та же фигня</del>
     </tr>
     <tr>
-      <td>Потенция
+      <td><b>Потенция
       <td>3,6%
       <td>Изменение размеров плода, соотвектственно, и объёма веществ в нём. (Мин. значение - 30, Макс. - 100)
     </tr>
     <tr>
-      <td>Продолжительность жизни
+      <td><b>Продолжительность жизни
       <td>3,6%
       <td>Изменение длительности жизни. (Мин значение - 10 мин. , Макс - 80 мин.)
     </tr>
     <tr>
-      <td>Серийность
+      <td><b>Серийность
       <td>3,6%
       <td>Изменение количества циклов сбора урожая. Позволяет собирать плоды несколько раз. (Мин. значение - 1, макс. - 10)
     </tr>
     <tr>
-      <td>Скользкость
+      <td><b>Скользкость
       <td>3,6%
       <td>Растение становится скользким, как банановая кожура.
     </tr>
     <tr>
-      <td>Созревание
+      <td><b>Созревание
       <td>3,6%
       <td>Изменение времени на созревание. (Мин. значение - 3 мин., макс. - 10 мин.)
     </tr>
     <tr>
-      <td>Урожайность
+      <td><b>Урожайность
       <td>3,6%
       <td>Изменение количества плодов, получаемых при сборе урожая. (Мин. значение - 3, макс. - 10)
     </tr>
     <tr>
-      <td>Выносливость
+      <td><b>Выносливость
       <td>1,8%
       <td>Измненеие уровня выносливости растения. (Мин. значение - 50, макс. - 150)
     </tr>
     <tr>
-      <td>Идеальная температура
+      <td><b>Идеальная температура
       <td>1,8%
       <td>Изменение уровня идеальной температуры для растения. (Мин. значение - 263 К, макс. - 323 К)
     </tr>
     <tr>
-      <td>Потребление воды
+      <td><b>Потребление воды
       <td>1,8%
       <td>Изменение уровня потребления воды. (Мин. значение - 0.3, макс. - 0.9)
     </tr>
     <tr>
-      <td>Потребление питательных веществ
+      <td><b>Потребление питательных веществ
       <td>1,8%
       <td>Изменение уровня потребления питательных веществ. (Мин. значение - 0.05, макс. - 1.2)
     </tr>
     <tr>
-      <td>Стойкость к высокому давлению
+      <td><b>Стойкость к высокому давлению
       <td>1,8%
       <td>Изменение устойчивости к высокому давлению. (Мин. значение - 100 кПа, макс. - 140 кПа)
     </tr>
     <tr>
-      <td>Стойкость к низкому давлению
+      <td><b>Стойкость к низкому давлению
       <td>1,8%
       <td>Изменение устойчивости к низкому давлению. (Мин. значение - 60 кПа, макс. - 100 кПа)
     </tr>
     <tr>
-      <td>Стойкость к пестицидам
+      <td><b>Стойкость к пестицидам
       <td>1,8%
       <td>Изменение к стойкости к пестицидам. (Мин. значение - 0, макс. - 15)
     </tr>
     <tr>
-      <td>Стойкость к сорнякам
+      <td><b>Стойкость к сорнякам
       <td>1,8%
       <td>Изменение устойчивости к сорнякам. (Мин. значение - 0, макс. - 15)
     </tr>
     <tr>
-      <td>Теплостойкость
+      <td><b>Теплостойкость
       <td>1,8%
       <td>Изменение устойчивости к сорнякам. (Мин. значение - 2, макс. - 25)
     </tr>
     <tr>
-      <td>Ядостойкость
+      <td><b>Ядостойкость
       <td>1,8%
       <td>Изменение устойчивости к сорнякам. (Мин. значение - 1, макс. - 10)
     </tr>
     <tr>
-      <td>Выпуск газов
+      <td><b>Выпуск газов
       <td>1,45%
       <td>Растение начинает выпускать случайный газ.
     </tr>
     <tr>
-      <td>Разумность
+      <td><b>Разумность
       <td>0,72%
       <td>Лоток, получившее растение с этой мутацией становится разумным. Лоток становится гост-ролью, за которую может зайти любой игрок.
     </tr>
     <tr>
-      <td>Потребление газов
+      <td><b>Потребление газов
       <td>0,36%
       <td>Растение требует случайный газ для комфортного роста.
     </tr>
