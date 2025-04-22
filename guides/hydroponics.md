@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-22T15:24:52.859Z
+date: 2025-04-22T15:32:11.507Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -196,13 +196,13 @@ dateCreated: 2024-09-10T19:07:56.088Z
 
 <h2>Список растений и их продуктов</h2>
 
- <p><table class="ser2" style="text-shadow: 1px 0 0 black, 0 1px 0 black, -1px 0 0 black, 0 -1px 0 black;">
+ <p><table class="ser2" style="text-shadow: 1px 0 0 black, 0 1px 0 black, -1px 0 0 black, 0 -1px 0 black; th {text-shadow: none};">
     <thead>
       <tr>
-        <th style="background-color:#161a1e;">Название растения</th>
-        <th style="background-color:#161a1e;">Описание</th>
-        <th style="background-color:#161a1e;">Изображение растения</th>
-        <th style="background-color:#161a1e;">Изображение плода</th>
+        <th style="background-color:#161a1e; text-shadow: none">Название растения</th>
+        <th style="background-color:#161a1e; text-shadow: none">Описание</th>
+        <th style="background-color:#161a1e; text-shadow: none">Изображение растения</th>
+        <th style="background-color:#161a1e; text-shadow: none">Изображение плода</th>
       </tr>
     </thead>
     <tbody>
@@ -579,7 +579,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
 <p style="text-align:right;">&nbsp;</p>
 <p>Сырое растение можно употреблять в пищу для получения небольшого лечебного эффекта или отравления. Этот эффект может быть усилен, если растение было выращено с высоким потенциалом. В качестве альтернативы растение можно переработать в более мощное лекарство.</p>
 
-  <p><table class="ser" style="text-shadow: 1px 0 0 black, 0 1px 0 black, -1px 0 0 black, 0 -1px 0 black;">
+  <p><table class="ser">
     <thead>
       <tr>
         <th>Изображение</th>
@@ -704,10 +704,10 @@ dateCreated: 2024-09-10T19:07:56.088Z
 <p><table class="ser" style="text-shadow: 1px 0 0 black, 0 1px 0 black, -1px 0 0 black, 0 -1px 0 black;">
   <thead>
     <tr>
-      <th>Название
-     	<th>Свойства
-      <th>Изображение растения
-      <th>Изображение плода
+      <th style="text-shadow: none">Название
+     	<th style="text-shadow: none">Свойства
+      <th style="text-shadow: none">Изображение растения
+      <th style="text-shadow: none">Изображение плода
     </tr>
   </thead>
   <tbody>
@@ -937,9 +937,9 @@ dateCreated: 2024-09-10T19:07:56.088Z
 
 <p><table class="ser" style="text-shadow: 1px 0 0 black, 0 1px 0 black, -1px 0 0 black, 0 -1px 0 black;">
   <thead>
-    <th>Название
-    <th>Шанс возникновения
-    <th>Описание
+    <th style="text-shadow: none">Название
+    <th style="text-shadow: none">Шанс возникновения
+    <th style="text-shadow: none">Описание
   </thead>
   <tbody>
     <tr>
