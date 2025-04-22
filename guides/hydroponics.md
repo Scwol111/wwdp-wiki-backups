@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-22T15:32:11.507Z
+date: 2025-04-22T15:39:09.202Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -17,9 +17,9 @@ dateCreated: 2024-09-10T19:07:56.088Z
   <p><table class="ser">
     <thead>
       <tr>
-        <th>Изображение</th>
-        <th>Название</th>
-        <th>Описание</th>
+        <th><big>Изображение</th>
+        <th><big>Название</th>
+        <th><big>Описание</th>
       </tr>
     </thead>
     <tbody>
@@ -199,10 +199,10 @@ dateCreated: 2024-09-10T19:07:56.088Z
  <p><table class="ser2" style="text-shadow: 1px 0 0 black, 0 1px 0 black, -1px 0 0 black, 0 -1px 0 black; th {text-shadow: none};">
     <thead>
       <tr>
-        <th style="background-color:#161a1e; text-shadow: none">Название растения</th>
-        <th style="background-color:#161a1e; text-shadow: none">Описание</th>
-        <th style="background-color:#161a1e; text-shadow: none">Изображение растения</th>
-        <th style="background-color:#161a1e; text-shadow: none">Изображение плода</th>
+        <th style="background-color:#161a1e; text-shadow: none"><big>Название растения</th>
+        <th style="background-color:#161a1e; text-shadow: none"><big>Описание</th>
+        <th style="background-color:#161a1e; text-shadow: none"><big>Изображение растения</th>
+        <th style="background-color:#161a1e; text-shadow: none"><big>Изображение плода</th>
       </tr>
     </thead>
     <tbody>
@@ -518,9 +518,9 @@ dateCreated: 2024-09-10T19:07:56.088Z
 <p><table class="ser">
   <thead>
     <tr>
-      <th>Изображение
-     	<th>Значение индикатора
-      <th>Причины возникновения и решение
+      <th><big>Изображение
+     	<th><big>Значение индикатора
+      <th><big>Причины возникновения и решение
     </tr>
   </thead>
   <tbody>
@@ -582,10 +582,10 @@ dateCreated: 2024-09-10T19:07:56.088Z
   <p><table class="ser">
     <thead>
       <tr>
-        <th>Изображение</th>
-        <th>Название</th>
-        <th>Свойство</th>
-        <th>Описание</th>
+        <th><big>Изображение</th>
+        <th><big>Название</th>
+        <th><big>Свойство</th>
+        <th><big>Описание</th>
       </tr>
     </thead>
     <tbody>
@@ -704,10 +704,10 @@ dateCreated: 2024-09-10T19:07:56.088Z
 <p><table class="ser" style="text-shadow: 1px 0 0 black, 0 1px 0 black, -1px 0 0 black, 0 -1px 0 black;">
   <thead>
     <tr>
-      <th style="text-shadow: none">Название
-     	<th style="text-shadow: none">Свойства
-      <th style="text-shadow: none">Изображение растения
-      <th style="text-shadow: none">Изображение плода
+      <th style="text-shadow: none"><big>Название
+     	<th style="text-shadow: none"><big>Свойства
+      <th style="text-shadow: none"><big>Изображение растения
+      <th style="text-shadow: none"><big>Изображение плода
     </tr>
   </thead>
   <tbody>
@@ -937,9 +937,9 @@ dateCreated: 2024-09-10T19:07:56.088Z
 
 <p><table class="ser" style="text-shadow: 1px 0 0 black, 0 1px 0 black, -1px 0 0 black, 0 -1px 0 black;">
   <thead>
-    <th style="text-shadow: none">Название
-    <th style="text-shadow: none">Шанс возникновения
-    <th style="text-shadow: none">Описание
+    <th style="text-shadow: none"><big>Название
+    <th style="text-shadow: none"><big>Шанс возникновения
+    <th style="text-shadow: none"><big>Описание
   </thead>
   <tbody>
     <tr>
