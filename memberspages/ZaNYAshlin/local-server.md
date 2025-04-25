@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-04-25T18:00:07.364Z
+date: 2025-04-25T18:06:38.389Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -19,15 +19,13 @@ Muka soso
   <label>cmd - type local_server.txt</label>
 </div>
 <div class="term">
-<h1><center>Запуск локального сервера</center></h1>
 
-<!--выровнять всё говно-->
-  
 NT DOS [Version 6.1]
 (c) NanoTrasen Corporation. All rights reserved.
 N:\>cd guides
 N:\guides>cd contribution
 N:\guides\contribution>type local_server.txt
+<h1><center>Запуск локального сервера</center></h1>
 В этом руководстве вы научитесь развёртывать локальный сервер любого проекта с открытым билдом на базе Einstein Engines, в том числе WWDP.
   
   
