@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-25T16:03:01.586Z
+date: 2025-04-25T16:04:00.767Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -77,7 +77,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
           <img src="/guides/hydroshit/syringe.png">
         </td>
         <td>Шприц</td>
-        <td>Удерживая шприц, нажмите Z, чтобы сменить режим иежду "Вытягивать" или "Вводить". Можно вводить <a href="/guides/chemistry">реагенты</a> в растения или <a href="/guides/chemistry">наркотики</a> в себя.</td>
+        <td>Держа в руке шприц, нажмите Z, чтобы сменить режим между "Вытягивать" или "Вводить". Можно вводить <a href="/guides/chemistry">реагенты</a> в растения или <a href="/guides/chemistry">наркотики</a> в себя.</td>
       </tr>
       <tr>
         <td>
