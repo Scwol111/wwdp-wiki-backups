@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-25T16:15:03.384Z
+date: 2025-04-25T16:28:04.081Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -424,7 +424,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </tr>
       <tr>
         <td style="background-color:#42662E;"><b>Сахарный тростник</td>
-        <td style="background-color:#42662E;">Производит тростник, из которого можно сделать сахар использующийся в рецептах.</td>
+        <td style="background-color:#42662E;">Производит тростник, из которого можно сделать сахар, использующийся в рецептах.</td>
         <td>
           <img src="/guides/hydroshit/sugarcane_plant.png">
         </td>
@@ -434,7 +434,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </tr>
       <tr>
         <td style="background-color:#42662E;"><b>Табак</td>
-        <td style="background-color:#42662E;">Производит листья табака из которых можно делать самокрутки.</td>
+        <td style="background-color:#42662E;">Производит листья табака, из которых можно делать самокрутки.</td>
         <td>
           <img src="/guides/hydroshit/tobacco_plant.png">
         </td>
@@ -454,7 +454,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </tr>
       <tr>
         <td style="background-color:#42662E;"><b>Помидор</td>
-        <td style="background-color:#42662E;">Производит помидоры, из которых можно сделать пиццу, спагетти и другие рецепты. Можно кидать в неугодных вам людей.</td>
+        <td style="background-color:#42662E;">Производит помидоры, из которых можно сделать пиццу, спагетти и другие блюда. Можно кидать в неугодных вам людей.</td>
         <td>
           <img src="/guides/hydroshit/tomato_plant.png">
         </td>
@@ -474,7 +474,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </tr>
       <tr>
         <td style="background-color:#42662E;"><b>Пшеница</td>
-        <td style="background-color:#42662E;">Производит бушели пшеницы, из которых можно сделать муку, которая нужна для создания хлеба и других рецептов.</td>
+        <td style="background-color:#42662E;">Производит бушели пшеницы, из которых можно сделать муку, которая нужна для создания хлеба и других продуктов питания.</td>
         <td>
           <img src="/guides/hydroshit/wheat_plant.png">
         </td>
@@ -506,7 +506,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
   </table><p>
 
   <h3>Гидропонный лоток</h3>
-<p style="text-align:left;">Гидропонный лоток - лоток, в котором наши растения будут расти без почвы. Волшебно... Чтобы начать процесс выращивания растения, нужно: 
+<p style="text-align:left;">Гидропонный лоток - лоток, в котором наши растения будут расти без почвы. Чтобы начать процесс выращивания растения, нужно: 
   <ol>
     <li style="text-align:left;">Взять пакет семян в руку и кликнуть на лоток.</li>
     <li style="text-align:left;">Ждать....</li>
