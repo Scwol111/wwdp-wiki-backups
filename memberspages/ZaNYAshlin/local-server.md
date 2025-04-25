@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-04-25T17:43:06.490Z
+date: 2025-04-25T17:55:08.751Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -27,7 +27,7 @@ NT DOS [Version 6.1]
 (c) NanoTrasen Corporation. All rights reserved.
 <div class="pentagon">
 <div class="ahui">ahui></div>
-<div class="cursor"></div>
+<div class="cursor">_</div>
 </div>
 В этом руководстве вы научитесь развёртывать локальный сервер любого проекта с открытым билдом на базе Einstein Engines, в том числе WWDP.
   
