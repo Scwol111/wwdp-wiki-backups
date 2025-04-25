@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-04-25T17:57:33.002Z
+date: 2025-04-25T18:00:07.364Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -25,7 +25,9 @@ Muka soso
   
 NT DOS [Version 6.1]
 (c) NanoTrasen Corporation. All rights reserved.
-N:\>type local_server.txt
+N:\>cd guides
+N:\guides>cd contribution
+N:\guides\contribution>type local_server.txt
 В этом руководстве вы научитесь развёртывать локальный сервер любого проекта с открытым билдом на базе Einstein Engines, в том числе WWDP.
   
   
@@ -86,7 +88,7 @@ git submodule update --init --recursive
 
 7. Подключитесь через клиент к локальному серверу, нажав ```Прямое подключение``` в меню, и играйте.
 <div class="pentagon">
-<div class="ahui">N:\></div>
+<div class="ahui">N:\guides\contribution></div>
 <div class="cursor">_</div>
 </div>
 </div>
