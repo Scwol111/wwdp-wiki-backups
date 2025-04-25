@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-25T16:04:00.767Z
+date: 2025-04-25T16:04:14.598Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -84,7 +84,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
           <img src="/guides/hydroshit/mini_hoe.png">
         </td>
         <td>Тяпка</td>
-        <td>Удаляет сорняки из гидропонного лотка</td>
+        <td>Удаляет сорняки из гидропонного лотка.</td>
       </tr>
       <tr>
         <td>
