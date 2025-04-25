@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-04-25T17:33:41.050Z
+date: 2025-04-25T17:36:26.810Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -20,6 +20,8 @@ Muka soso
 </div>
 <div class="term">
 <h1><center>Запуск локального сервера</center></h1>
+
+<!--выровнять всё говно-->
   
 NT DOS [Version 6.1]
 (c) NanoTrasen Corporation. All rights reserved.
