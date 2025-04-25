@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-25T16:05:10.324Z
+date: 2025-04-25T16:15:03.384Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -218,7 +218,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </tr>
       <tr>
         <td style="background-color:#42662E;"><b>Амброзия вульгарис</td>
-        <td style="background-color:#42662E;">Производит амброзию вульгарис, из неё можно получить метамфетамин и некоторые лекарства</td>
+        <td style="background-color:#42662E;">Производит амброзию вульгарис, из неё можно получить метамфетамин и некоторые лекарства.</td>
         <td>
           <figure class="image"><img src="/guides/hydroshit/ambrosia-harvest.png"></figure>
         </td>
@@ -306,7 +306,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </tr>
       <tr>
         <td style="background-color:#42662E;"><b>Гатфрукт</td>
-        <td style="background-color:#42662E;">Производит гатфрукт, при использовании даёт пистолет (спавнится на обломках, в ящике припасов синдиката и аплинке ботаника)</td>
+        <td style="background-color:#42662E;">Производит гатфрукт, при использовании даёт пистолет (спавнится на обломках, в ящике припасов синдиката и аплинке ботаника).</td>
         <td><img src="/guides/hydroshit/gatfruit-harvest.png"></td>
         <td><img src="/guides/hydroshit/gatfruit.png"></td>
       </tr>
