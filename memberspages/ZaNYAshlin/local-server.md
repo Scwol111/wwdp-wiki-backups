@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-04-28T17:01:45.196Z
+date: 2025-04-28T17:07:16.092Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -90,6 +90,7 @@ Muka soso
   7. Подключитесь через клиент к локальному серверу, нажав ```Прямое подключение``` в меню, и играйте.
   <div class="pentagon">
   <div class="ahui">N:\guides\contribution></div>
+  <input id="enter">
   <div class="cursor"></div>
   </div>
   </div>
