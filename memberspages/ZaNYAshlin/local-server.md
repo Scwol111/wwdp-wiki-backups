@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-04-28T15:05:42.773Z
+date: 2025-04-28T15:16:13.357Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -87,7 +87,7 @@ git submodule update --init --recursive
 7. Подключитесь через клиент к локальному серверу, нажав ```Прямое подключение``` в меню, и играйте.
 <div class="pentagon">
 <div class="ahui">N:\guides\contribution></div>
-<div class="cursor">_</div>
+<div class="cursor">|</div>
 </div>
 </div>
 </div>
