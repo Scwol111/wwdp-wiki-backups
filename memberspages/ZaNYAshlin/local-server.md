@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-04-29T17:09:10.001Z
+date: 2025-04-29T17:23:13.025Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -94,5 +94,3 @@ Muka soso
   <div class="cursor"></div>
   </div>
   </div>
-  </div>
-</div>
