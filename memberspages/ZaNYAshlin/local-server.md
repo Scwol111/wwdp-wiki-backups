@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-05-02T07:41:14.485Z
+date: 2025-05-02T07:43:50.235Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -22,7 +22,7 @@ Muka soso
       <div id="closee">⤬</div>
     </div>
 	</div>
-  <div class="term" style="overflow: hidden">
+  <div class="term" style="resize: none; overflow: none; display: block; width: 100%; height: 100%;">
 
   NT DOS [Version 6.1]
   (c) NanoTrasen Corporation. All rights reserved.
