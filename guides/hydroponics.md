@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-05-03T09:06:30.890Z
+date: 2025-05-03T09:19:47.599Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -211,7 +211,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </tr>
       <tr>
         <td style="background-color:#42662E;"><b>Амброзия вульгарис</td>
-        <td>Производит амброзию вульгарис, из неё можно получить метамфетамин и некоторые лекарства.</td>
+        <td>Производит амброзию вульгарис. Из неё можно получить метамфетамин и некоторые лекарства.</td>
         <td>
           <figure class="image"><img src="/guides/hydroshit/ambrosia-harvest.png"></figure>
         </td>
@@ -269,13 +269,13 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </tr>
       <tr>
         <td style="background-color:#42662E;"><b>Перец чили</td>
-        <td style="background-color:#42662E;">Производит перец чили, который можно есть для утоления голода и повышения температуры. Они также используются для приготовления миски с чили, энчиладас и кесо.</td>
+        <td style="background-color:#42662E;">Производит перец чили, который можно есть для утоления голода и повышения температуры тела. Они также используются для приготовления миски с чили, энчиладас и кесо.</td>
         <td><img src="/guides/hydroshit/chilis-harvest.png"></td>
         <td><img src="/guides/hydroshit/chili.png"></td>
       </tr>
       <tr>
         <td style="background-color:#42662E;"><b>Кукуруза</td>
-        <td style="background-color:#42662E;">Производит кукурузу которую можно есть. Используется для создания попкорна и энчиладас.</td>
+        <td style="background-color:#42662E;">Производит кукурузу, которую можно есть. Используется для создания попкорна и энчиладас.</td>
         <td><img src="/guides/hydroshit/corn-harvest.png"></td>
         <td><img src="/guides/hydroshit/corn.png"></td>
       </tr>
@@ -299,7 +299,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </tr>
       <tr>
         <td style="background-color:#42662E;"><b>Гатфрукт</td>
-        <td style="background-color:#42662E;">Производит гатфрукт, при использовании даёт пистолет (спавнится на обломках, в ящике припасов синдиката и аплинке ботаника).</td>
+        <td style="background-color:#42662E;">Производит гатфрукт. При поедании плода даёт револьвер Питон с боевыми патронами (спавнится на обломках, в ящике припасов синдиката и аплинке ботаника).</td>
         <td><img src="/guides/hydroshit/gatfruit-harvest.png"></td>
         <td><img src="/guides/hydroshit/gatfruit.png"></td>
       </tr>
@@ -786,7 +786,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
     </tr>
      <tr>
       <td><b>Капфрут (Гатфрут)</td>
-      <td>При поедании плода даёт игрушечный пистолетик с <b>БОЕВЫМИ БРОНЕБОЙНЫМИ ПАТРОНАМИ!</b></td>
+      <td>При поедании плода даёт игрушечный револьвер на пистонах.</td>
       <td>
         <img src="/guides/hydroshit/harvest-capfruit.png">
       </td>
