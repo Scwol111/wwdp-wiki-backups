@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-05-03T09:32:33.765Z
+date: 2025-05-03T10:11:08.727Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -726,7 +726,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
     </tr>
     <tr>
       <td><b>Смертокрапива (Крапива)</td>
-      <td style="text-shadow: none">Содержит серную и фторную кислоту. Наносит примерно 17 урона (без учёта ядов)</td>
+      <td style="text-shadow: none">Содержит серную и фторную кислоту. Наносит 17 урона (без учёта ядов).</td>
 			<td>
         <img src="/guides/hydroshit/harvest-death-nettle.png">
       </td>
@@ -786,7 +786,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
     </tr>
      <tr>
       <td><b>Капфрут (Гатфрут)</td>
-      <td style="text-shadow: none">При поедании плода даёт игрушечный револьвер на пистонах.</td>
+      <td style="text-shadow: none">При поедании плода даёт игрушечный револьвер.</td>
       <td>
         <img src="/guides/hydroshit/harvest-capfruit.png">
       </td>
