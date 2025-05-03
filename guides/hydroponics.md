@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2025-04-30T14:35:17.183Z
+date: 2025-05-03T08:51:35.456Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -154,7 +154,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         <img src="/guides/hydroshit/pest-spray.png">
     </td>
     <td>Спрей от вредителей</td>
-    <td>Убивает вредителей но не <a href="/roles/securityservicedepartment">этих</a>. Токсичен для Дион</td>
+    <td>Убивает вредителей но не <a href="/roles/securityservicedepartment">этих</a>. Токсичен для Дион.</td>
 </tr>
 <tr>
     <td>
