@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-05-04T12:42:59.322Z
+date: 2025-05-04T12:51:58.031Z
 tags: антагонистам, руководство
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -194,6 +194,22 @@ dateCreated: 2024-09-28T16:46:38.976Z
 <td>Да</td>
     </tr>
     <tr>
+                  <td>
+        <img src="/guides/uplink/naborduet.png">
+        <p>Набор Дуэт</p>
+      </td>
+      <td>10 ТК</td>
+      <td>
+        <p>Поставляется с 2 пистолетами
+Дуэт, 2 магазинами для
+автоматических пистолетов,
+боевыми перчатками, костюмом
+нуар, детективным плащом и
+туфлями на шнуровке.</p>
+      </td>
+<td>Да</td>
+    </tr>
+  <tr>
       <td>
         <img src="/guides/uplink/blood_dogger.gif" alt="blood_dogger.gif">
         <p>Кинжал жажды</p>
