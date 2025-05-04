@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-05-04T19:11:11.723Z
+date: 2025-05-04T19:29:34.830Z
 tags: антагонистам, руководство
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -542,6 +542,15 @@ dateCreated: 2024-09-28T16:46:38.976Z
       <td>3 ТК</td>
       <td>Короб со 100 патронами .30 винтовочные. Совместим с L6 SAW.</td>
     </tr>-->
+    <tr>
+      <td>
+        <img src="/guides/uplink/max.png">
+        <p>Магазин повышенной емкости для пистолета .35</p>
+      </td>
+      <td>1 ТК</td>
+      <td>Пистолетный магазин повышенной ёмкости вмещает 4 дополнительных патрона, всего 16 патронов.</td>
+      <td>Да</td>
+    </tr>
     <tr>
       <td>
         <img src="/guides/uplink/magazine_pistol.png">
