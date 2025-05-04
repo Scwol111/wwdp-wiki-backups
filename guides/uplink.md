@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-05-04T12:55:09.004Z
+date: 2025-05-04T18:33:27.364Z
 tags: антагонистам, руководство
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -116,6 +116,17 @@ dateCreated: 2024-09-28T16:46:38.976Z
       <td>
         <p>При покупке появляется коробка, в которой содержится 4 метательных ножа.</p>
         <p>Каждый нож при броске наносит <b style="color: red;">15</b> единиц <b style="color: yellow;">проникающего</b> и <b style="color: red;">10</b> единиц <b style="color: yellow;">рубящего</b> урона</p>
+      </td>
+<td>Да</td>
+    </tr>
+  <tr>
+    <td>
+        <img src="/guides/uplink/duelt.png">
+        <p>Дуэт</p>
+      </td>
+      <td>6 ТК</td>
+      <td>
+        <p>Два пистолета марки "Дуэт" по выгодной цене.</p>
       </td>
 <td>Да</td>
     </tr>
