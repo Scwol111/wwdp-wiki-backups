@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-05-04T12:40:49.120Z
+date: 2025-05-04T12:42:59.322Z
 tags: антагонистам, руководство
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -167,7 +167,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
     </tr>
     <tr>
             <td>
-        <img src="/guides/uplink/glovesofthenorthstar.png">
+        <img src="/guides/uplink/anaconda.png">
         <p>Анаконда</p>
       </td>
       <td>8 ТК</td>
