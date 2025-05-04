@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-05-04T19:03:02.924Z
+date: 2025-05-04T19:04:46.958Z
 tags: антагонистам, руководство
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -376,7 +376,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
         <tr>
           <td>
         <img src="/guides/uplink/ak-220.png">
-        <p>Световой лук</p>
+        <p>AK-220</p>
       </td>
       <td>16 ТК</td>
       <td>
