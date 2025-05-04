@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-05-04T08:37:07.847Z
+date: 2025-05-04T12:40:49.120Z
 tags: антагонистам, руководство
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -166,6 +166,21 @@ dateCreated: 2024-09-28T16:46:38.976Z
 <td>Да</td>
     </tr>
     <tr>
+            <td>
+        <img src="/guides/uplink/glovesofthenorthstar.png">
+        <p>Анаконда</p>
+      </td>
+      <td>8 ТК</td>
+      <td>
+        <p>Гордость Cybersun, этот тяжелый
+пистолет предназначен для
+самообеспечения благодаря
+встроенному фабрикатору.</p>
+        <p>Сам пополняет патроны каждые 4 секуды</p>
+      </td>
+<td>Да</td>
+    </tr>
+  <tr>
       <td>
         <img src="/guides/uplinknew/python.png">
         <p>Питон</p>
