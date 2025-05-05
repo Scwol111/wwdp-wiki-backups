@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-04-20T19:10:13.606Z
+date: 2025-05-05T20:09:21.555Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -2270,7 +2270,7 @@ weapon.png" alt="secure_weapon_case.png" />
   <h3>Сервис</h3>
 <div class="custom-table">
   <div>
-    <img src="/guides/supply/listofproducts/service/pet_carrier_base.png" alt="pet_carrier_base.png" />
+    <img src="/guides/supply/listofproduct_2/containers/pet_carrier_base.png" alt="pet_carrier_base.png" />
     <p>Большая переноска для животных</p>
   </div>
   <div>
