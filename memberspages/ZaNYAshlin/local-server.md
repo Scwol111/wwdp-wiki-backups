@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-05-02T11:57:41.782Z
+date: 2025-05-09T07:21:30.612Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -12,7 +12,7 @@ dateCreated: 2025-01-13T15:10:02.822Z
 Ya yebal eto govno, suka blyat!!!
 Muka soso
 -->
-<div class="gol" id="windows" style="resize: none; overflow: none; display: block; width: 100%; height: 100%; position: relative; z-index: 0">
+<div class="gol" id="windows" style="display: block; width: 100%; height: 100%; position: relative; z-index: 0">
 <div>
   <div class="header headtext">
     <div id="grabZone"></div>
