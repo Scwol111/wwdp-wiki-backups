@@ -1,8 +1,8 @@
 ---
 title: Хирургия
 description: 
-published: false
-date: 2025-05-22T10:25:52.713Z
+published: true
+date: 2025-05-22T10:25:57.853Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
