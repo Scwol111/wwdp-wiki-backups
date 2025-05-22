@@ -1,8 +1,8 @@
 ---
 title: Автодок
 description: 
-published: false
-date: 2025-05-22T12:53:23.048Z
+published: true
+date: 2025-05-22T12:53:40.336Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T10:48:37.042Z
