@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: false
-date: 2025-02-08T08:10:58.308Z
+date: 2025-05-22T10:16:47.563Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -173,8 +173,6 @@ dateCreated: 2024-11-21T13:23:17.560Z
 </div>
 
   <div style="text-align: center;">У <a href="/roles/chiefmedicalofficer">главного врача</a> есть плата биофабриктора. <br>Позволяет печатать конечности и органы. <br>Для работы использует биомассу.</div>
-
-## Анатомия 
 
 ## Операции
 <p>
