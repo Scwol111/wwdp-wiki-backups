@@ -2,7 +2,7 @@
 title: Хирургия
 description: 
 published: true
-date: 2025-05-22T10:25:57.853Z
+date: 2025-05-22T21:27:07.797Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-21T13:23:17.560Z
@@ -135,7 +135,7 @@ dateCreated: 2024-11-21T13:23:17.560Z
       </tr>
       <tr>
         <td><img src="/guides/medicine/surgery/organs/kidneys.png" class="png1"><br><b>Почки</b></td>
-        <td>Не имеет механик. Разработке...<p>
+        <td>Не имеет механик. В разработке...<p>
         </td>
       </tr>
       <tr>
