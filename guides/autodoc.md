@@ -2,7 +2,7 @@
 title: Автодок
 description: 
 published: false
-date: 2025-05-22T12:16:56.957Z
+date: 2025-05-22T12:17:44.234Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T10:48:37.042Z
