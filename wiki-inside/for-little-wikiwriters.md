@@ -2,7 +2,7 @@
 title: Руководства для маленьких викиводов
 description: 
 published: false
-date: 2024-12-26T22:12:18.223Z
+date: 2025-05-23T10:41:25.761Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T09:02:33.879Z
@@ -12,6 +12,7 @@ dateCreated: 2024-11-12T09:02:33.879Z
   <div class="buttoncontainer">
     <button id="buttonbas"><img src="/guides/passenger.png">Основы</button>
     <button id="buttonadvanced"><img src="/guides/warden's_icon.png">Для смешариков</button>             <button id="buttontemplates"><img src="/guides/passenger.png">Шаблоны</button>
+      <button id="buttonarchives"><img src="/guides/libranian's_icon.png">Архивы</button>
   </div>
   <div class="content-container">
     <div class="content-table" id="bas">
@@ -27,14 +28,16 @@ dateCreated: 2024-11-12T09:02:33.879Z
       <p>Базовый гайд по html.</p>
     </div>
     <div class="content-table" id="templates">
-      <a href="/wiki-inside/templates/role-passport"><img src="https://wiki.ss14.su/main_page_icons/roles_icon.png" alt="shitcur.png" class="zoom"/>Паспорт роли</a>
-      <p>Шаблон, используемый на страницах ролей.(НЕАКТУАЛЬНО)</p>
       <a href="/memberspages/Gavrik/InfoBoxes"><img src="/guides/screenshot_94.png" alt="shitcur.png" class="zoom"/>Инфобоксы</a>
       <p>Инфобоксы, для всякой информации.</p>
       <a href="/memberspages/Gavrik/tables"><img src="/guides/screenshot_35.png" alt="shitcur.png" class="zoom"/>Адаптивные таблицы</a>
       <p>Таблицы, которые удобно адаптируются под телефоны.  НЕ ДОДЕЛАНО!!</p>
       <a href="/wiki-inside/tags"><img src="/guides/wiki/icon_pentagramm.png" alt="shitcur.png" class="zoom"/>Быстрые шаблоны</a>
       <p>Теги быстрых шаблонов.</p>
+    </div>
+    <div class="content-table" id="archives">
+      <a href="/wiki-inside/templates/role-passport"><img src="https://wiki.ss14.su/main_page_icons/roles_icon.png" alt="shitcur.png" class="zoom"/>Паспорт роли</a>
+      <p>Шаблон, используемый на страницах ролей.(НЕАКТУАЛЬНО)</p>
     </div>
    </div>
   </div>
