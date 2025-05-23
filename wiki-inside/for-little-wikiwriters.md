@@ -2,7 +2,7 @@
 title: Руководства для маленьких викиводов
 description: 
 published: false
-date: 2025-05-23T10:41:25.761Z
+date: 2025-05-23T10:42:31.067Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T09:02:33.879Z
@@ -11,7 +11,7 @@ dateCreated: 2024-11-12T09:02:33.879Z
 <div class="maincontainer">
   <div class="buttoncontainer">
     <button id="buttonbas"><img src="/guides/passenger.png">Основы</button>
-    <button id="buttonadvanced"><img src="/guides/warden's_icon.png">Для смешариков</button>             <button id="buttontemplates"><img src="/guides/passenger.png">Шаблоны</button>
+    <button id="buttonadvanced"><img src="/guides/warden's_icon.png">База</button>             <button id="buttontemplates"><img src="/guides/passenger.png">Шаблоны</button>
       <button id="buttonarchives"><img src="/guides/libranian's_icon.png">Архивы</button>
   </div>
   <div class="content-container">
