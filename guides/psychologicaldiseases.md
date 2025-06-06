@@ -2,13 +2,13 @@
 title: Распространенные психологические заболевания
 description: 
 published: true
-date: 2025-06-06T18:25:16.342Z
+date: 2025-06-06T18:25:46.193Z
 tags: медицинский
 editor: markdown
 dateCreated: 2024-09-29T18:19:41.899Z
 ---
 
-<iframe src="https://fixitdik.github.io/SpiderSolitaire/demo.html" title="description"></iframe>
+<iframe src="https://fixitdik.github.io/SpiderSolitaire/demo.html" title="description" width="100%" height="100%"></iframe>
 <h2>Болезни</h2>
 <h3><strong>Космическое Безумие</strong></h3>
 <p><strong>Полное название: </strong>Шизоаффективное расстройство на почве обострения вакуумной болезни</p>
