@@ -2,13 +2,13 @@
 title: Распространенные психологические заболевания
 description: 
 published: true
-date: 2025-06-06T17:36:16.186Z
+date: 2025-06-06T17:38:15.224Z
 tags: медицинский
 editor: markdown
 dateCreated: 2024-09-29T18:19:41.899Z
 ---
 
-   <div class="container">
+   <div class="container2">
 
   <div id="score">
     <div class="timer">
@@ -71,7 +71,7 @@ dateCreated: 2024-09-29T18:19:41.899Z
 
    <canvas id="confetti"></canvas>
 
-   <ul class="template">
+   <ul class="template2">
   <li data-rank="2">
     <div class="two {{suit}}">
       <div class="corner top">
