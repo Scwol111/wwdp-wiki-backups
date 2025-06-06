@@ -2,12 +2,19 @@
 title: Распространенные психологические заболевания
 description: 
 published: true
-date: 2025-06-06T18:38:54.506Z
+date: 2025-06-06T18:50:09.920Z
 tags: медицинский
 editor: markdown
 dateCreated: 2024-09-29T18:19:41.899Z
 ---
 
+<iframe 
+    src="https://wiki-pasyans.alwaysdata.net/" 
+    width="800" 
+    height="600" 
+    frameborder="0"
+    style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);">
+</iframe>
 <h2>Болезни</h2>
 <h3><strong>Космическое Безумие</strong></h3>
 <p><strong>Полное название: </strong>Шизоаффективное расстройство на почве обострения вакуумной болезни</p>
