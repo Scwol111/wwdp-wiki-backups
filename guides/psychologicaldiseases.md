@@ -2,7 +2,7 @@
 title: Распространенные психологические заболевания
 description: 
 published: true
-date: 2025-06-06T18:31:02.655Z
+date: 2025-06-06T18:37:49.873Z
 tags: медицинский
 editor: markdown
 dateCreated: 2024-09-29T18:19:41.899Z
@@ -50,6 +50,7 @@ dateCreated: 2024-09-29T18:19:41.899Z
   <button class="new-game-btn" onclick="newGame()">Новая игра</button>
 </div>
 <div class="fireworks" id="fireworks"></div>
+
 <h2>Болезни</h2>
 <h3><strong>Космическое Безумие</strong></h3>
 <p><strong>Полное название: </strong>Шизоаффективное расстройство на почве обострения вакуумной болезни</p>
