@@ -2,13 +2,14 @@
 title: Распространенные психологические заболевания
 description: 
 published: true
-date: 2025-06-06T17:43:15.931Z
+date: 2025-06-06T17:59:31.208Z
 tags: медицинский
 editor: markdown
 dateCreated: 2024-09-29T18:19:41.899Z
 ---
 
-   <div class="container2">
+<!-- partial:index.partial.html -->
+  <div class="container2">
   <div id="score">
     <div class="timer">
       <button id="play-pause">
@@ -39,28 +40,51 @@ dateCreated: 2024-09-29T18:19:41.899Z
         <ul></ul>
       </div>
       <ul id="fnd" class="fnd">
-        <li id="spades" class="spades pile" data-pile="spades" data-empty="true"><ul></ul></li>
-        <li id="hearts" class="hearts pile" data-pile="hearts" data-empty="true"><ul></ul></li>
-        <li id="diamonds" class="diamonds pile" data-pile="diamonds" data-empty="true"><ul></ul></li>
-        <li id="clubs" class="clubs pile" data-pile="clubs" data-empty="true"><ul></ul></li>
+        <li id="spades" class="spades pile" data-pile="spades" data-empty="true">
+          <ul></ul>
+        </li>
+        <li id="hearts" class="hearts pile" data-pile="hearts" data-empty="true">
+          <ul></ul>
+        </li>
+        <li id="diamonds" class="diamonds pile" data-pile="diamonds" data-empty="true">
+          <ul></ul>
+        </li>
+        <li id="clubs" class="clubs pile" data-pile="clubs" data-empty="true">
+          <ul></ul>
+        </li>
       </ul>
     </div>
     <div class="lower-row">
       <ul id="tab" class="tab">
-        <li class="pile" data-pile="1"><ul></ul></li>
-        <li class="pile" data-pile="2"><ul></ul></li>
-        <li class="pile" data-pile="3"><ul></ul></li>
-        <li class="pile" data-pile="4"><ul></ul></li>
-        <li class="pile" data-pile="5"><ul></ul></li>
-        <li class="pile" data-pile="6"><ul></ul></li>
-        <li class="pile" data-pile="7"><ul></ul></li>
+        <li class="pile" data-pile="1">
+          <ul></ul>
+        </li>
+        <li class="pile" data-pile="2">
+          <ul></ul>
+        </li>
+        <li class="pile" data-pile="3">
+          <ul></ul>
+        </li>
+        <li class="pile" data-pile="4">
+          <ul></ul>
+        </li>
+        <li class="pile" data-pile="5">
+          <ul></ul>
+        </li>
+        <li class="pile" data-pile="6">
+          <ul></ul>
+        </li>
+        <li class="pile" data-pile="7">
+          <ul></ul>
+        </li>
       </ul>
     </div>
   </div>
-</div><!-- /.container -->
-   <button id="auto-win">Auto Win</button>
-   <canvas id="confetti"></canvas>
-   <ul class="template2">
+</div>
+  <!-- /.container2 -->
+  <button id="auto-win">Auto Win</button>
+  <canvas id="confetti"></canvas>
+  <ul class="template">
   <li data-rank="2">
     <div class="two {{suit}}">
       <div class="corner top">
@@ -275,7 +299,9 @@ dateCreated: 2024-09-29T18:19:41.899Z
       </div>
     </div>
   </li>
-</ul><!-- /.templates -->
+</ul>
+  <!-- /.templates -->
+  <!-- partial -->
 <h2>Болезни</h2>
 <h3><strong>Космическое Безумие</strong></h3>
 <p><strong>Полное название: </strong>Шизоаффективное расстройство на почве обострения вакуумной болезни</p>
