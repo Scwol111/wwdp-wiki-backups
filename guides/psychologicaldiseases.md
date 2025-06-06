@@ -2,14 +2,13 @@
 title: Распространенные психологические заболевания
 description: 
 published: true
-date: 2025-06-06T17:39:51.917Z
+date: 2025-06-06T17:43:15.931Z
 tags: медицинский
 editor: markdown
 dateCreated: 2024-09-29T18:19:41.899Z
 ---
 
    <div class="container2">
-
   <div id="score">
     <div class="timer">
       <button id="play-pause">
@@ -28,9 +27,7 @@ dateCreated: 2024-09-29T18:19:41.899Z
       <span>0</span>
     </div>
   </div>
-
   <div id="table">
-
     <div class="upper-row">
       <div id="stock" class="stock pile" data-pile="stock">
         <i class="reload-icon" data-action="reload">
@@ -38,11 +35,9 @@ dateCreated: 2024-09-29T18:19:41.899Z
         </i>
         <ul></ul>
       </div>
-
       <div id="waste" class="waste pile" data-pile="waste">
         <ul></ul>
       </div>
-
       <ul id="fnd" class="fnd">
         <li id="spades" class="spades pile" data-pile="spades" data-empty="true"><ul></ul></li>
         <li id="hearts" class="hearts pile" data-pile="hearts" data-empty="true"><ul></ul></li>
@@ -50,7 +45,6 @@ dateCreated: 2024-09-29T18:19:41.899Z
         <li id="clubs" class="clubs pile" data-pile="clubs" data-empty="true"><ul></ul></li>
       </ul>
     </div>
-
     <div class="lower-row">
       <ul id="tab" class="tab">
         <li class="pile" data-pile="1"><ul></ul></li>
@@ -62,15 +56,10 @@ dateCreated: 2024-09-29T18:19:41.899Z
         <li class="pile" data-pile="7"><ul></ul></li>
       </ul>
     </div>
-
   </div>
-
 </div><!-- /.container -->
-
    <button id="auto-win">Auto Win</button>
-
    <canvas id="confetti"></canvas>
-
    <ul class="template2">
   <li data-rank="2">
     <div class="two {{suit}}">
