@@ -2,54 +2,11 @@
 title: Распространенные психологические заболевания
 description: 
 published: true
-date: 2025-06-06T18:37:49.873Z
+date: 2025-06-06T18:38:54.506Z
 tags: медицинский
 editor: markdown
 dateCreated: 2024-09-29T18:19:41.899Z
 ---
-
-<div class="game-container">
-  <div class="header">
-    <h1>🃏 Пасьянс Клондайк</h1>
-    <div class="game-stats">
-      <div class="stat">Ходы: <span id="moves">0</span></div>
-      <div class="stat">Время: <span id="time">00:00</span></div>
-      <button class="new-game-btn" onclick="newGame()">Новая игра</button>
-    </div>
-  </div>
-  <div class="game-board">
-    <div class="top-row">
-      <div class="waste-deck">
-        <div class="pile stock" id="stock" onclick="drawCard()"></div>
-        <div class="pile" id="waste"></div>
-      </div>
-      <div></div>
-      <div class="foundations">
-        <div class="pile foundation" id="foundation-0"></div>
-        <div class="pile foundation" id="foundation-1"></div>
-        <div class="pile foundation" id="foundation-2"></div>
-        <div class="pile foundation" id="foundation-3"></div>
-      </div>
-    </div>
-    <div class="tableau">
-      <div class="pile tableau-pile" id="tableau-0"></div>
-      <div class="pile tableau-pile" id="tableau-1"></div>
-      <div class="pile tableau-pile" id="tableau-2"></div>
-      <div class="pile tableau-pile" id="tableau-3"></div>
-      <div class="pile tableau-pile" id="tableau-4"></div>
-      <div class="pile tableau-pile" id="tableau-5"></div>
-      <div class="pile tableau-pile" id="tableau-6"></div>
-    </div>
-  </div>
-</div>
-    <div class="win-message" id="winMessage">
-  <h2>🎉 Поздравляем!</h2>
-  <p>Вы выиграли пасьянс!</p>
-  <p>Ходов: <span id="finalMoves"></span></p>
-  <p>Время: <span id="finalTime"></span></p>
-  <button class="new-game-btn" onclick="newGame()">Новая игра</button>
-</div>
-<div class="fireworks" id="fireworks"></div>
 
 <h2>Болезни</h2>
 <h3><strong>Космическое Безумие</strong></h3>
