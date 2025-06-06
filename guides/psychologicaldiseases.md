@@ -2,12 +2,291 @@
 title: Распространенные психологические заболевания
 description: 
 published: true
-date: 2025-03-16T15:32:16.555Z
+date: 2025-06-06T17:36:16.186Z
 tags: медицинский
 editor: markdown
 dateCreated: 2024-09-29T18:19:41.899Z
 ---
 
+   <div class="container">
+
+  <div id="score">
+    <div class="timer">
+      <button id="play-pause">
+        <i id="play">Play</i>
+        <i id="pause">Pause</i>
+      </button>
+      <label>Timer:</label>
+      <span>00:00</span>
+    </div>
+    <div class="move-count" data-moves="0">
+      <label>Moves:</label>
+      <span>0</span>
+    </div>
+    <div class="score" data-score="0">
+      <label>Score:</label>
+      <span>0</span>
+    </div>
+  </div>
+
+  <div id="table">
+
+    <div class="upper-row">
+      <div id="stock" class="stock pile" data-pile="stock">
+        <i class="reload-icon" data-action="reload">
+          <span></span>
+        </i>
+        <ul></ul>
+      </div>
+
+      <div id="waste" class="waste pile" data-pile="waste">
+        <ul></ul>
+      </div>
+
+      <ul id="fnd" class="fnd">
+        <li id="spades" class="spades pile" data-pile="spades" data-empty="true"><ul></ul></li>
+        <li id="hearts" class="hearts pile" data-pile="hearts" data-empty="true"><ul></ul></li>
+        <li id="diamonds" class="diamonds pile" data-pile="diamonds" data-empty="true"><ul></ul></li>
+        <li id="clubs" class="clubs pile" data-pile="clubs" data-empty="true"><ul></ul></li>
+      </ul>
+    </div>
+
+    <div class="lower-row">
+      <ul id="tab" class="tab">
+        <li class="pile" data-pile="1"><ul></ul></li>
+        <li class="pile" data-pile="2"><ul></ul></li>
+        <li class="pile" data-pile="3"><ul></ul></li>
+        <li class="pile" data-pile="4"><ul></ul></li>
+        <li class="pile" data-pile="5"><ul></ul></li>
+        <li class="pile" data-pile="6"><ul></ul></li>
+        <li class="pile" data-pile="7"><ul></ul></li>
+      </ul>
+    </div>
+
+  </div>
+
+</div><!-- /.container -->
+
+   <button id="auto-win">Auto Win</button>
+
+   <canvas id="confetti"></canvas>
+
+   <ul class="template">
+  <li data-rank="2">
+    <div class="two {{suit}}">
+      <div class="corner top">
+        <span class="rank">2</span>
+        <span class="suit"></span>
+      </div>
+      <span class="suit top_center"></span>
+      <span class="suit bottom_center"></span>
+      <div class="corner bottom">
+        <span class="rank">2</span>
+        <span class="suit"></span>
+      </div>
+    </div>
+  </li>
+  <li data-rank="3">
+    <div class="three {{suit}}">
+      <div class="corner top">
+        <span class="rank">3</span>
+        <span class="suit"></span>
+      </div>
+      <span class="suit top_center"></span>
+      <span class="suit middle_center"></span>
+      <span class="suit bottom_center"></span>
+      <div class="corner bottom">
+        <span class="rank">3</span>
+        <span class="suit"></span>
+      </div>
+    </div>
+  </li>
+  <li data-rank="4">
+    <div class="four {{suit}}">
+      <div class="corner top">
+        <span class="rank">4</span>
+        <span class="suit"></span>
+      </div>
+      <span class="suit top_left"></span>
+      <span class="suit top_right"></span>
+      <span class="suit bottom_left"></span>
+      <span class="suit bottom_right"></span>
+      <div class="corner bottom">
+        <span class="rank">4</span>
+        <span class="suit"></span>
+      </div>
+    </div>
+  </li>
+  <li data-rank="5">
+    <div class="five {{suit}}">
+      <div class="corner top">
+        <span class="rank">5</span>
+        <span class="suit"></span>
+      </div>
+      <span class="suit top_left"></span>
+      <span class="suit top_right"></span>
+      <span class="suit middle_center"></span>
+      <span class="suit bottom_left"></span>
+      <span class="suit bottom_right"></span>
+      <div class="corner bottom">
+        <span class="rank">5</span>
+        <span class="suit"></span>
+      </div>
+    </div>
+  </li>
+  <li data-rank="6">
+    <div class="six {{suit}}">
+      <div class="corner top">
+        <span class="rank">6</span>
+        <span class="suit"></span>
+      </div>
+      <span class="suit top_left"></span>
+      <span class="suit top_right"></span>
+      <span class="suit middle_left"></span>
+      <span class="suit middle_right"></span>
+      <span class="suit bottom_left"></span>
+      <span class="suit bottom_right"></span>
+      <div class="corner bottom">
+        <span class="rank">6</span>
+        <span class="suit"></span>
+      </div>
+    </div>
+  </li>
+  <li data-rank="7">
+    <div class="seven {{suit}}">
+      <div class="corner top">
+        <span class="rank">7</span>
+        <span class="suit"></span>
+      </div>
+      <span class="suit top_left"></span>
+      <span class="suit top_right"></span>
+      <span class="suit middle_left"></span>
+      <span class="suit middle_top"></span>
+      <span class="suit middle_right"></span>
+      <span class="suit bottom_left"></span>
+      <span class="suit bottom_right"></span>
+      <div class="corner bottom">
+        <span class="rank">7</span>
+        <span class="suit"></span>
+      </div>
+    </div>
+  </li>
+  <li data-rank="8">
+    <div class="eight {{suit}}">
+      <div class="corner top">
+        <span class="rank">8</span>
+        <span class="suit"></span>
+      </div>
+      <span class="suit top_left"></span>
+      <span class="suit top_right"></span>
+      <span class="suit middle_left"></span>
+      <span class="suit middle_top_center"></span>
+      <span class="suit middle_right"></span>
+      <span class="suit middle_bottom_center"></span>
+      <span class="suit bottom_left"></span>
+      <span class="suit bottom_right"></span>
+      <div class="corner bottom">
+        <span class="rank">8</span>
+        <span class="suit"></span>
+      </div>
+    </div>
+  </li>
+  <li data-rank="9">
+    <div class="nine {{suit}}">
+      <div class="corner top">
+        <span class="rank">9</span>
+        <span class="suit"></span>
+      </div>
+      <span class="suit top_left"></span>
+      <span class="suit top_right"></span>
+      <span class="suit middle_top_left"></span>
+      <span class="suit middle_center"></span>
+      <span class="suit middle_top_right"></span>
+      <span class="suit bottom_left"></span>
+      <span class="suit bottom_right"></span>
+      <span class="suit middle_bottom_left"></span>
+      <span class="suit middle_bottom_right"></span>
+      <div class="corner bottom">
+        <span class="rank">9</span>
+        <span class="suit"></span>
+      </div>
+    </div>
+  </li>
+  <li data-rank="10">
+    <div class="ten {{suit}}">
+      <div class="corner top">
+        <span class="rank">10</span>
+        <span class="suit"></span>
+      </div>
+      <span class="suit top_left"></span>
+      <span class="suit top_right"></span>
+      <span class="suit middle_top_left"></span>
+      <span class="suit middle_top_center"></span>
+      <span class="suit middle_top_right"></span>
+      <span class="suit bottom_left"></span>
+      <span class="suit bottom_right"></span>
+      <span class="suit middle_bottom_center"></span>
+      <span class="suit middle_bottom_left"></span>
+      <span class="suit middle_bottom_right"></span>
+      <div class="corner bottom">
+        <span class="rank">10</span>
+        <span class="suit"></span>
+      </div>
+    </div>
+  </li>
+  <li data-rank="J">
+    <div class="jack {{suit}}">
+      <div class="corner top">
+        <span class="rank">J</span>
+        <span class="suit"></span>
+      </div>
+      <span class="face middle_center"></span>
+      <div class="corner bottom">
+        <span class="rank">J</span>
+        <span class="suit"></span>
+      </div>
+    </div>
+  </li>
+  <li data-rank="Q">
+    <div class="queen {{suit}}">
+      <div class="corner top">
+        <span class="rank">Q</span>
+        <span class="suit"></span>
+      </div>
+      <span class="face middle_center"></span>
+      <div class="corner bottom">
+        <span class="rank">Q</span>
+        <span class="suit"></span>
+      </div>
+    </div>
+  </li>
+  <li data-rank="K">
+    <div class="king {{suit}}">
+      <div class="corner top">
+        <span class="rank">K</span>
+        <span class="suit"></span>
+      </div>
+      <span class="face middle_center"></span>
+      <div class="corner bottom">
+        <span class="rank">K</span>
+        <span class="suit"></span>
+      </div>
+    </div>
+  </li>
+  <li data-rank="A">
+    <div class="ace {{suit}}">
+      <div class="corner top">
+        <span class="rank">A</span>
+        <span class="suit"></span>
+      </div>
+      <span class="suit middle_center"></span>
+      <div class="corner bottom">
+        <span class="rank">A</span>
+        <span class="suit"></span>
+      </div>
+    </div>
+  </li>
+</ul><!-- /.templates -->
 <h2>Болезни</h2>
 <h3><strong>Космическое Безумие</strong></h3>
 <p><strong>Полное название: </strong>Шизоаффективное расстройство на почве обострения вакуумной болезни</p>
@@ -55,7 +334,7 @@ dateCreated: 2024-09-29T18:19:41.899Z
   <li><i>Моторная</i> - нарушение способности произносить слова и фразы. Речь и смысл слов окружающих понимаются правильно;
   <li><i>Сенсорная</i> - нарушение понимания устной речи; 
   <li><i>Амнестическая</i> - больной забывает, как называются знакомые ему предметы;
-	<li><i>Семантическая</i> - больному трудно понимать речь, если в ней используются сложные грамматические конструкции. Речь больного, как парвило, содержит только простые слова, а при попытке использовать сложные слова неизбежно появляются грамматические ошибки.
+  <li><i>Семантическая</i> - больному трудно понимать речь, если в ней используются сложные грамматические конструкции. Речь больного, как парвило, содержит только простые слова, а при попытке использовать сложные слова неизбежно появляются грамматические ошибки.
 </ul>
 </p>
 
@@ -77,7 +356,7 @@ dateCreated: 2024-09-29T18:19:41.899Z
 <p><strong>Проявления и развитие синдрома:</strong></p>
 <p>Мнимый болевой синдром обычно является последствием стрессовых ситуаций и может сопровождаться повышенной тревожностью и паническими атаками. Чаще всего подобные болевые ощущения возникают в области головы, спины, желудка и сердца. При этом пациенты не способны дать чёткую характеристику боли. 
 
-Причины психалгии: низкий уровень стрессоустойчивости, депрессия, неврозы, шизофрения, паническое расстройство, посттравматический синдром.</p>
+  Причины психалгии: низкий уровень стрессоустойчивости, депрессия, неврозы, шизофрения, паническое расстройство, посттравматический синдром.</p>
 
 <p><strong>Лечение:</strong></p>
 <p>Лечение психалгии включает психотерапию, медикаментозную терапию (при необходимости), изменение образа жизни (упражнения, релаксация, сон, питание) и, в некоторых случаях, физиотерапию.</p>
@@ -104,14 +383,14 @@ dateCreated: 2024-09-29T18:19:41.899Z
 <p>Мания величия – это не просто чрезмерная самоуверенность или тщеславие. Это психиатрический симптом, обычно связанный с определенными психическими расстройствами. Он характеризуется иррациональной и устойчивой верой человека в свои исключительные способности, талант, власть, богатство или значимость. Важно понимать, что люди с манией величия искренне верят в свои утверждения, даже если они явно не соответствуют реальности.</p>
 
 <p>Мания величия чаще всего встречается при следующих психических расстройствах:
-  <ul>
-    <li>Биполярное расстройство</li>
-    <li>Шизофрения</li>
-    <li>Бредовое расстройство</li>
-    <li>Нарциссическое расстройство личности</li>
-    <li>Органические поражения головного мозга</li>
-    <li><i>Вещества</i></li>
-  </ul>
+<ul>
+  <li>Биполярное расстройство</li>
+  <li>Шизофрения</li>
+  <li>Бредовое расстройство</li>
+  <li>Нарциссическое расстройство личности</li>
+  <li>Органические поражения головного мозга</li>
+  <li><i>Вещества</i></li>
+</ul>
 </p>
 
 <p><strong>Лечение:</strong></p>
@@ -124,7 +403,7 @@ dateCreated: 2024-09-29T18:19:41.899Z
 
 <p><strong>Проявления синдрома:</strong></p>
 <p>Синдром Ван Гога — это нанесение психически больным человеком калечащего повреждения самому себе (отрезание части тела, нанесение глубоких порезов) или настойчивое требование произвести ему хирургическое вмешательство.
-Синдром обусловлен наличием <b>ипохондрического бреда</b>, <b>галлюцинаций</b>, <b>импульсивных влечений</b>. </p>
+  Синдром обусловлен наличием <b>ипохондрического бреда</b>, <b>галлюцинаций</b>, <b>импульсивных влечений</b>. </p>
 
 <p><strong>Лечение:</strong></p>
 <p>Лечение должно быть индивидуальным, в зависимости от конкретных симптомов и диагноза. Основной метод лечения - <b>психотерапия</b>. Также, в зависимости от степени тяжести и решения психолога, назначается <b>медикаментозная терапия</b>.</p>
