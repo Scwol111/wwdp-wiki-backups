@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-05-05T20:09:21.555Z
+date: 2025-06-07T17:32:56.757Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -2270,7 +2270,7 @@ weapon.png" alt="secure_weapon_case.png" />
   <h3>Сервис</h3>
 <div class="custom-table">
   <div>
-    <img src="/guides/supply/listofproduct_2/containers/pet_carrier_base.png" alt="pet_carrier_base.png" />
+    <img src="/guides/supply/listofproduct_2/containers/pet_carrier.png" alt="pet_carrier_base.png" />
     <p>Большая переноска для животных</p>
   </div>
   <div>
@@ -2280,7 +2280,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p></p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/service/icon-hot.png" alt="icon-hot.png" />
+    <img src="/guides/supply/listofproduct_2/smth/hot_cart.png" alt="icon-hot.png" />
     <p>Тележка горячей еды</p>
   </div>
   <div>
@@ -2290,7 +2290,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p></p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/service/cleaner_trolley.png" alt="icon-hot.png" />
+    <img src="/guides/supply/listofproduct_2/smth/jan_cart.png" alt="icon-hot.png" />
     <p>Тележка уборщика</p>
   </div>
   <div>
@@ -2307,9 +2307,9 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>800$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/kapushon_bio_suit.png" alt="kapushon_bio_suit.png" />Капюшон биозащитного костюма x2</p>
-    <p><img src="/guides/supply/listofproducts/service/bio_suit.png" alt="bio_suit.png" />Биозащитный костюм x2</p>
-    <p><img src="/guides/supply/listofproducts/service/sterilnaya_maska.png" alt="sterilnaya_maska.png" />Стерильная маска x2</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/hats/kapushon_bio_suit.png" alt="kapushon_bio_suit.png" />Капюшон биозащитного костюма x2</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/suits/bio_suit1.png" alt="bio_suit.png" />Биозащитный костюм x2</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/masks/sterile_mask.png" alt="sterilnaya_maska.png" />Стерильная маска x2</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/engineering/crate.png" alt="crate.png" />
@@ -2319,25 +2319,25 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/ru4noy_etikirovshik.png" alt="ru4noy_etikirovshik.png" />Ручной этикетировщик x1</p>
-    <p><img src="/guides/supply/listofproducts/service/paper.png" alt="paper.png" />Бумага х15</p>
-    <p><img src="/guides/supply/listofproducts/service/ru4ka.png" alt="ru4ka.png" />Ручка х2</p>
-    <p><img src="/guides/supply/listofproducts/service/papka_red.png" alt="papka_red.png" />Папка x1</p>
-    <p><img src="/guides/supply/listofproducts/service/papka_blue.png" alt="papka_blue.png" />Папка x1</p>
-    <p><img src="/guides/supply/listofproducts/service/papka_yellow.png" alt="papka_yellow.png" />Папка x1</p>
-    <p><img src="/guides/supply/listofproducts/service/clipboard11.png" alt="papka_yellow.png" />Планшет x2</p>
-    <p><img src="/guides/supply/listofproducts/service/neowtan.png" alt="papka_yellow.png" />Колыбель Ньютона x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/ru4noy_etikirovshik.png" alt="ru4noy_etikirovshik.png" />Ручной этикетировщик x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/paper.png" alt="paper.png" />Бумага х15</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/ru4ka.png" alt="ru4ka.png" />Ручка х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/papka_red.png" alt="papka_red.png" />Папка x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/papka_blue.png" alt="papka_blue.png" />Папка x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/papka_yellow.png" alt="papka_yellow.png" />Папка x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/clipboard11.png" alt="papka_yellow.png" />Планшет x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/other/neowtan.png" alt="papka_yellow.png" />Колыбель Ньютона x2</p>
   </div>
   <div>
-    <img src="/guides/supply/listofproducts/engineering/comand_box.png" alt="crate.png" />
+    <img src="/guides/supply/listofproduct_2/containers/nt.png" alt="crate.png" />
     <p>Ящик для найма персонала</p>
   </div>
   <div>
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/box/pda_box.png" alt="pda_box.png" />Коробка ПДА x1</p>
-    <p><img src="/guides/supply/listofproducts/service/box/pda_box.png" alt="pda_box.png" />Коробка ID Карт x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/pda_box.png" alt="pda_box.png" />Коробка ПДА x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/pda_box.png" alt="pda_box.png" />Коробка ID Карт x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2347,7 +2347,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/nabor_poplneniya/nabor_poplneniya_zapasov_getmore.png" alt="nabor_poplneniya_zapasov_getmore.png" />Набор пополнения GetMore Chocolate x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/nabor_poplneniya_zapasov_getmore.png" alt="nabor_poplneniya_zapasov_getmore.png" />Набор пополнения GetMore Chocolate x2</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2357,7 +2357,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/nabor_poplneniya/nabor_poplneniya_discounter_den.png" alt="nabor_poplneniya_discounter_den.png" />Набор пополнения Discount Dan x2</p> 
+    <p><img src="/guides/supply/listofproduct_2/other/vend/nabor_poplneniya_discounter_den.png" alt="nabor_poplneniya_discounter_den.png" />Набор пополнения Discount Dan x2</p> 
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2367,7 +2367,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/nabor_poplneniya/nabor_poplneniya_mister_chank.png" alt="nabor_poplneniya_mister_chank.png" />Набор пополнения Mr. Chang x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/nabor_poplneniya_mister_chank.png" alt="nabor_poplneniya_mister_chank.png" />Набор пополнения Mr. Chang x2</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2377,7 +2377,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/nabor_poplneniya/nabor_poplneniya_monkins_donuts.png" alt="nabor_poplneniya_monkins_donuts.png" />Набор пополнения Robust Donuts x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend//nabor_poplneniya_monkins_donuts.png" alt="nabor_poplneniya_monkins_donuts.png" />Набор пополнения Robust Donuts x2</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2387,7 +2387,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2100$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/nabor_poplneniya/nabor_poplneniya_happy_honk_meal.png" alt="nabor_poplneniya_happy_honk_meal.png" />Набор для пополнения Хэппи Хонк Мил x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/nabor_poplneniya_happy_honk_meal.png" alt="nabor_poplneniya_happy_honk_meal.png" />Набор для пополнения Хэппи Хонк Мил x2</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/engineering/crate.png" alt="crate.png" />
@@ -2397,8 +2397,8 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>600$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/box/lampo4ka_box.png" alt="lampo4ka_box.png" />Коробка лампочек x1</p>
-    <p><img src="/guides/supply/listofproducts/service/box/lampo4ki_trubo4ki_box.png" alt="lampo4ki_trubo4ki_box.png" />Коробка лампочек-трубочек x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/lampo4ka_box.png" alt="lampo4ka_box.png" />Коробка лампочек x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/lampo4ki_trubo4ki_box.png" alt="lampo4ki_trubo4ki_box.png" />Коробка лампочек-трубочек x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/engineering/crate.png" alt="crate.png" />
@@ -2408,7 +2408,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/book.png" alt="book.png" />Книга(разные) х10</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/book.png" alt="book.png" />Книга(разные) х10</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2418,7 +2418,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>400$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/box/carton_box.png" alt="carton_box.png" />Картонная коробка x6</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/carton_box.png" alt="carton_box.png" />Картонная коробка x6</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/engineering/crate.png" alt="crate.png" />
@@ -2428,7 +2428,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/box/mishelovka_box.png" alt="mishelovka_box.png" />Коробка мышеловок x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/mishelovka_box.png" alt="mishelovka_box.png" />Коробка мышеловок x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2438,7 +2438,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>750$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/nabor_poplneniya/nabor_poplneniya_bezobidnie_razvle4enija.png" alt="nabor_poplneniya_bezobidnie_razvle4enija.png" />Набор пополнения Безобидные развлечения x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/nabor_poplneniya_bezobidnie_razvle4enija.png" alt="nabor_poplneniya_bezobidnie_razvle4enija.png" />Набор пополнения Безобидные развлечения x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2448,7 +2448,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1200$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/nabor_poplneniya/nabor__poplneniya_vendomant.png" alt="nabor__poplneniya_vendomant.png" />Набор пополнения Вендомат x1</p>  
+    <p><img src="/guides/supply/listofproduct_2/other/vend/nabor__poplneniya_vendomant.png" alt="nabor__poplneniya_vendomant.png" />Набор пополнения Вендомат x1</p>  
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2458,7 +2458,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/nabor_poplneniya/nabor_poplneniya_best_sunsystem_drinks.png" alt="nabor_poplneniya_best_sunsystem_drinks.png" />Набор пополнения Лучшие горячие напитки Солнечной x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/nabor_poplneniya_best_sunsystem_drinks.png" alt="nabor_poplneniya_best_sunsystem_drinks.png" />Набор пополнения Лучшие горячие напитки Солнечной x2</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2468,7 +2468,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>14000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/nabor_poplneniya/nabor_poplneniya_odezdomat.png" alt="nabor_poplneniya_odezdomat.png" />Набор пополнения ОдеждоМат x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/nabor_poplneniya_odezdomat.png" alt="nabor_poplneniya_odezdomat.png" />Набор пополнения ОдеждоМат x1</p>
   </div>
     <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2478,7 +2478,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/refill_dinner.png" alt="nabor_poplneniya_odezdomat.png" />Набор пополнения ПосудоМат x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/refill_dinner.png" alt="nabor_poplneniya_odezdomat.png" />Набор пополнения ПосудоМат x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2488,7 +2488,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1200$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/nabor_poplneniya/nabor_poplneniya_ptech.png" alt="nabor_poplneniya_ptech.png" />Набор пополнения ПТех x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/nabor_poplneniya_ptech.png" alt="nabor_poplneniya_ptech.png" />Набор пополнения ПТех x1</p>
   </div>
     <div>
     <img src="/guides/supply/listofproducts/engineering/crate.png" alt="plastic_box.png" />
@@ -2498,18 +2498,18 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>750$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon1.png" alt="alcohol.png" />Особое двухбородатое вино x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon2.png" alt="alcohol.png" />Особый запас дядюшки Гита x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon3.png" alt="alcohol.png" />Бутылка водки x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon4.png" alt="alcohol.png" />Бутылка вермута Золотой глаз x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon5.png" alt="alcohol.png" />Бутылка текилы Каккаво x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon6.png" alt="alcohol.png" />Кубинский пряный ром каптана Пита x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon7.png" alt="alcohol.png" />Кувшин медовухи x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon8.png" alt="alcohol.png" />Джин Гриффитер x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon9.png" alt="alcohol.png" />Бутылка коньяка x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon10.png" alt="alcohol.png" />Бутылка кофейного ликёра x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon11.png" alt="alcohol.png" />Бочонок пива x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon12.png" alt="alcohol.png" />Бочонок магма-эля x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon1.png" alt="alcohol.png" />Особое двухбородатое вино x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon2.png" alt="alcohol.png" />Особый запас дядюшки Гита x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon3.png" alt="alcohol.png" />Бутылка водки x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon4.png" alt="alcohol.png" />Бутылка вермута Золотой глаз x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon5.png" alt="alcohol.png" />Бутылка текилы Каккаво x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon6.png" alt="alcohol.png" />Кубинский пряный ром каптана Пита x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon7.png" alt="alcohol.png" />Кувшин медовухи x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon8.png" alt="alcohol.png" />Джин Гриффитер x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon9.png" alt="alcohol.png" />Бутылка коньяка x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon10.png" alt="alcohol.png" />Бутылка кофейного ликёра x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon11.png" alt="alcohol.png" />Бочонок пива x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon12.png" alt="alcohol.png" />Бочонок магма-эля x1</p>
   </div>
       <div>
     <img src="/guides/supply/listofproducts/engineering/crate.png" alt="plastic_box.png" />
@@ -2519,24 +2519,24 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>850$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon7.png" alt="alcohol.png" />Кувшин зелёного чая x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon7.png" alt="alcohol.png" />Кувшин льда x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon7.png" alt="alcohol.png" />Кувшин Доктора Гибба x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon7.png" alt="alcohol.png" />Кувшин Ред Булеан x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon7.png" alt="alcohol.png" />Кувшин сахара x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon7.png" alt="alcohol.png" />Кувшин арбузного сока x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon7.png" alt="alcohol.png" />Кувшин лимон-лайма x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon7.png" alt="alcohol.png" />Кувшин чая x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon7.png" alt="alcohol.png" />Кувшин рутбира x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon7.png" alt="alcohol.png" />Кувшин кофе x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon13.png" alt="alcohol.png" />Кувшин бутылка космической колы x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon14.png" alt="alcohol.png" />Молочные сливки XL x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon15.png" alt="alcohol.png" />Бутылка спейс-ап x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon16.png" alt="alcohol.png" />Лаймовый сок XL x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon17.png" alt="alcohol.png" />Бутылка космического маунтин винда x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon18.png" alt="alcohol.png" />Апельсиновый сок XL x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon19.png" alt="alcohol.png" />Бутылка газированной воды x1</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/icon19.png" alt="alcohol.png" />Бутылка тоника x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon7.png" alt="alcohol.png" />Кувшин зелёного чая x1</p>
+    <p><img src="/guides/supply/listofproductv_2/other/liquid/icon7.png" alt="alcohol.png" />Кувшин льда x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon7.png" alt="alcohol.png" />Кувшин Доктора Гибба x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon7.png" alt="alcohol.png" />Кувшин Ред Булеан x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon7.png" alt="alcohol.png" />Кувшин сахара x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon7.png" alt="alcohol.png" />Кувшин арбузного сока x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon7.png" alt="alcohol.png" />Кувшин лимон-лайма x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon7.png" alt="alcohol.png" />Кувшин чая x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon7.png" alt="alcohol.png" />Кувшин рутбира x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon7.png" alt="alcohol.png" />Кувшин кофе x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon13.png" alt="alcohol.png" />Кувшин бутылка космической колы x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon14.png" alt="alcohol.png" />Молочные сливки XL x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon15.png" alt="alcohol.png" />Бутылка спейс-ап x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon16.png" alt="alcohol.png" />Лаймовый сок XL x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon17.png" alt="alcohol.png" />Бутылка космического маунтин винда x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/orange_juise.png" alt="alcohol.png" />Апельсиновый сок XL x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon19.png" alt="alcohol.png" />Бутылка газированной воды x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/liquid/icon19.png" alt="alcohol.png" />Бутылка тоника x1</p>
   </div>
    <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2546,7 +2546,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1200$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/nabor_poplneniya/nabor_poplneniya_teatroshkaf.png" alt="nabor_poplneniya_teatroshkaf.png" />Набор пополнения ТеатроШкаф x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/nabor_poplneniya_teatroshkaf.png" alt="nabor_poplneniya_teatroshkaf.png" />Набор пополнения ТеатроШкаф x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2556,7 +2556,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/nabor_poplneniya/nabor_poplneniya_robust_drink.png" alt="nabor_poplneniya_robust_drink.png" />Набор пополнения напитков x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/nabor_poplneniya_robust_drink.png" alt="nabor_poplneniya_robust_drink.png" />Набор пополнения напитков x2</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2566,7 +2566,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/nabor_poplneniya/nabor_poplneniya_shadycig_deluxe.png" alt="nabor_poplneniya_shadycig_deluxe.png" />Набор пополнения ShadyCigs x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/nabor_poplneniya_shadycig_deluxe.png" alt="nabor_poplneniya_shadycig_deluxe.png" />Набор пополнения ShadyCigs x2</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/engineering/crate.png" alt="crate.png" />
@@ -2576,19 +2576,19 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1300$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/books/book_security.png" alt="book_security.png" />Безопасность 101 x1</p>
-    <p><img src="/guides/supply/listofproducts/service/books/book0.png" alt="book0.png" />Как бить камни x1</p>    
-    <p><img src="/guides/supply/listofproducts/service/books/book_engineering.png" alt="book_engineering.png" />Как выжить x1</p>
-    <p><img src="/guides/supply/listofproducts/service/books/book0.png" alt="book0.png" />Как содержать станцию в чистоте x1</p>
-    <p><img src="/guides/supply/listofproducts/service/books/book7.png" alt="book7.png" />Книга контроля x1</p>
-    <p><img src="/guides/supply/listofproducts/service/books/book0.png" alt="book0.png" />Космическая энциклопедия x1</p>
-    <p><img src="/guides/supply/listofproducts/service/books/book_medical.png" alt="book_medical.png" />Медицинский справочник x1</p>
-    <p><img src="/guides/supply/listofproducts/service/books/book_science.png" alt="book_science.png" />Путеводитель ученого x1</p>
-    <p><img src="/guides/supply/listofproducts/service/books/book_bar.png" alt="book_bar.png" />Руководство бармена x1</p>
-    <p><img src="/guides/supply/listofproducts/service/books/book_hydroponics_pod_people.png" alt="book_hydroponics_pod_people.png" />Секрет любовника листьев x1</p>
-    <p><img src="/guides/supply/listofproducts/service/books/book_engineering.png" alt="book_engineering.png" />Справочник инженера x1</p>
-    <p><img src="/guides/supply/listofproducts/service/books/book_chemistry.png" alt="book_chemistry.png" />Химпендиум x1</p>
-    <p><img src="/guides/supply/listofproducts/service/books/book_cooking.png" alt="book_cooking.png" />Шеф-Повар игрок x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/book_security.png" alt="book_security.png" />Безопасность 101 x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/book0.png" alt="book0.png" />Как бить камни x1</p>    
+    <p><img src="/guides/supply/listofproduct_2/other/book/book_engineering.png" alt="book_engineering.png" />Как выжить x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/book0.png" alt="book0.png" />Как содержать станцию в чистоте x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/book7.png" alt="book7.png" />Книга контроля x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/book0.png" alt="book0.png" />Космическая энциклопедия x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/book_medical.png" alt="book_medical.png" />Медицинский справочник x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/book_science.png" alt="book_science.png" />Путеводитель ученого x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/book_bar.png" alt="book_bar.png" />Руководство бармена x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/book_hydroponics_pod_people.png" alt="book_hydroponics_pod_people.png" />Секрет любовника листьев x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/book_engineering.png" alt="book_engineering.png" />Справочник инженера x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/book_chemistry.png" alt="book_chemistry.png" />Химпендиум x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/book/book_cooking.png" alt="book_cooking.png" />Шеф-Повар игрок x1</p>
   </div>
    <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2598,15 +2598,15 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/shvabra.png" alt="shvabra.png" />Швабра x1</p>
-    <p><img src="/guides/supply/listofproducts/service/vedro_for_shvabra.png" alt="vedro_for_shvabra.png" />Ведро для швабры x1</p>
-    <p><img src="/guides/supply/listofproducts/service/vedro.png" alt="vedro.png" />Ведро х3</p>
-    <p><img src="/guides/supply/listofproducts/service/cosmo_cleaner.png" alt="cosmo_cleaner.png" />Космический очиститель х2</p>
-    <p><img src="/guides/supply/listofproducts/service/meshok_for_musor.png" alt="meshok_for_musor.png" />Мешок для мусора х2</p>
-    <p><img src="/guides/supply/listofproducts/service/soap.png" alt="soap.png" />Мыло x1</p>
-    <p><img src="/guides/supply/listofproducts/service/wetfloorsign.png" alt="wetfloorsign.png" />Знак "мокрый пол" x2</p>
-    <p><img src="/guides/supply/listofproducts/service/alcohol/plunger.png" alt="wetfloorsign.png" />Вантуз x2</p>
-    <p><img src="/guides/supply/listofproducts/service/box.png" alt="wetfloorsign.png" />Коробка чистящих гранат x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/shvabra.png" alt="shvabra.png" />Швабра x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/other/vedro_for_shvabra.png" alt="vedro_for_shvabra.png" />Ведро для швабры x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/vedro.png" alt="vedro.png" />Ведро х3</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/cosmo_cleaner.png" alt="cosmo_cleaner.png" />Космический очиститель х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/meshok_for_musor.png" alt="meshok_for_musor.png" />Мешок для мусора х2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/soap.png" alt="soap.png" />Мыло x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/other/wetfloorsign.png" alt="wetfloorsign.png" />Знак "мокрый пол" x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/plunger.png" alt="wetfloorsign.png" />Вантуз x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/box.png" alt="wetfloorsign.png" />Коробка чистящих гранат x1</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/engineering/crate.png" alt="crate.png" />
@@ -2616,10 +2616,10 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/blok_sigaret_dromedaryco.png" alt="blok_sigaret_dromedaryco.png" />Блок сигарет DromedaryCo x1</p>
-    <p><img src="/guides/supply/listofproducts/service/blok_sigaret_nomads.png" alt="blok_sigaret_nomads.png" />Блок сигарет Nomads x1</p>    
-    <p><img src="/guides/supply/listofproducts/service/portsigar.png" alt="portsigar.png" />Портсигар x1</p>
-    <p><img src="/guides/supply/listofproducts/service/spi4ki.png" alt="spi4ki.png" />Спичечный коробок x2</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/blok_sigaret_dromedaryco.png" alt="blok_sigaret_dromedaryco.png" />Блок сигарет DromedaryCo x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/blok_sigaret_nomads.png" alt="blok_sigaret_nomads.png" />Блок сигарет Nomads x1</p>    
+    <p><img src="/guides/supply/listofproduct_2/other/box/portsigar.png" alt="portsigar.png" />Портсигар x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/spi4ki.png" alt="spi4ki.png" />Спичечный коробок x2</p>
   </div>
   <div>
     <img src="/guides/supply/listofproducts/engineering/crate.png" alt="crate.png" />
@@ -2629,11 +2629,11 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/kuritelnaya_trubka.png" alt="kuritelnaya_trubka.png" />Курительная трубка x1</p>
-    <p><img src="/guides/supply/listofproducts/service/spi4ki.png" alt="spi4ki.png" />Спичечный коробок x1</p>
-    <p><img src="/guides/supply/listofproducts/service/kuritelnaya_paper.png" alt="kuritelnaya_paper.png" />Пачка сигаретной бумаги x1</p>
-    <p><img src="/guides/supply/listofproducts/service/dust_tabak.png" alt="dust_tabak.png" />Измельчённый табак x4</p>
-    <p><img src="/guides/supply/listofproducts/service/sigaretniy_filtr.png" alt="sigaretniy_filtr.png" />Сигаретный фильтр x8</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/kuritelnaya_trubka.png" alt="kuritelnaya_trubka.png" />Курительная трубка x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/spi4ki.png" alt="spi4ki.png" />Спичечный коробок x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/box/kuritelnaya_paper.png" alt="kuritelnaya_paper.png" />Пачка сигаретной бумаги x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/other/dust_tabak.png" alt="dust_tabak.png" />Измельчённый табак x4</p>
+    <p><img src="/guides/supply/listofproduct_2/other/other/sigaretniy_filtr.png" alt="sigaretniy_filtr.png" />Сигаретный фильтр x8</p>
   </div>
  <div>
     <img src="/guides/supply/listofproducts/engineering/crate.png" alt="crate.png" />
@@ -2643,18 +2643,18 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>1800$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/molli_cape.png" alt="molli_cape.png" />Плащ моли x1</p>
-    <p><img src="/guides/supply/listofproducts/service/obezyana_shapka.png" alt="obezyana_shapka.png" />Обезьянья шапка x1</p>
-    <p><img src="/guides/supply/listofproducts/service/monkey_suit.png" alt="monkey_suit.png" />Костюм обезьяны x1</p>
-    <p><img src="/guides/supply/listofproducts/service/yubka_kombinezon_artista.png" alt="yubka_kombinezon_artista.png" />Юбка-комбинезон артиста x1</p> 
-    <p><img src="/guides/supply/listofproducts/service/botinki_atista.png" alt="botinki_atista.png" />Ботинки артиста x1</p>
-    <p><img src="/guides/supply/listofproducts/service/clown_mask2.png" alt="clown_mask2.png" />Маска и парик клоуна x1</p>  
-    <p><img src="/guides/supply/listofproducts/service/clown_tufli.png" alt="clown_tufli.png" />Клоунские туфли x1</p>
-    <p><img src="/guides/supply/listofproducts/service/mime_mask2.png" alt="mime_mask2.png" />Маска мима x1</p>   
-    <p><img src="/guides/supply/listofproducts/service/forma_gornichnoy.png" alt="forma_gornichnoy.png" />Форма горничной x1</p>
-    <p><img src="/guides/supply/listofproducts/service/piston.png" alt="piston.png" />Пистон x1</p>
-    <p><img src="/guides/supply/listofproducts/service/scissors.png" alt="scissors.png" />Парикмахерские ножницы x1</p>
-    <p><img src="/guides/supply/listofproducts/service/void.png" alt="void.png" />Плаш пустоты x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/molli_cape.png" alt="molli_cape.png" />Плащ моли x1</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/hats/obezyana_shapka.png" alt="obezyana_shapka.png" />Обезьянья шапка x1</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/suits/monkey_suit.png" alt="monkey_suit.png" />Костюм обезьяны x1</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/suits/yubka_kombinezon_artista.png" alt="yubka_kombinezon_artista.png" />Юбка-комбинезон артиста x1</p> 
+    <p><img src="/guides/supply/listofproduct_2/clothes/boots/botinki_atista.png" alt="botinki_atista.png" />Ботинки артиста x1</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/masks/clown_mask2.png" alt="clown_mask2.png" />Маска и парик клоуна x1</p>  
+    <p><img src="/guides/supply/listofproduct_2/clothes/boots/clown_tufli.png" alt="clown_tufli.png" />Клоунские туфли x1</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/masks/mime_mask2.png" alt="mime_mask2.png" />Маска мима x1</p>   
+    <p><img src="/guides/supply/listofproduct_2/clothes/suits/forma_gornichnoy.png" alt="forma_gornichnoy.png" />Форма горничной x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/toys/piston.png" alt="piston.png" />Пистон x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/instrument/scissors.png" alt="scissors.png" />Парикмахерские ножницы x1</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/backs/void.png" alt="void.png" />Плаш пустоты x1</p>
   </div>  
   <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2664,7 +2664,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/base_vending.png" alt="nabor_poplneniya_kuhonaya_utvar.png" />Набор пополнения ШефВенд x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/base_vending.png" alt="nabor_poplneniya_kuhonaya_utvar.png" />Набор пополнения ШефВенд x1</p>
   </div>
     <div>
     <img src="/guides/supply/listofproducts/atmos/plastic_box.png" alt="plastic_box.png" />
@@ -2674,7 +2674,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>2000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/base_vending.png" alt="nabor_poplneniya_kuhonaya_utvar.png" />Набор пополнения Островок соусов x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/base_vending.png" alt="nabor_poplneniya_kuhonaya_utvar.png" />Набор пополнения Островок соусов x1</p>
   </div>
   
   
@@ -2700,7 +2700,7 @@ weapon.png" alt="secure_weapon_case.png" />
  
   
   <div>
-    <img src="/guides/supply/listofproducts/service/icon-cold.png" alt="icon-cold.png" />
+    <img src="/guides/supply/listofproduct_2/smth/cold_cart.png" alt="icon-cold.png" />
     <p>cold food cart</p>
   </div>
   <div>
@@ -2711,15 +2711,15 @@ weapon.png" alt="secure_weapon_case.png" />
   </div>
   
   <div>
-    <img src="/guides/supply/listofproducts/service/janitor_bomb.png" alt="plastic_box.png" />
+    <img src="/guides/supply/listofproduct_2/containers/janitor_bomb.png" alt="plastic_box.png" />
     <p>Ящик сапёрского костюма уборщика</p>
   </div>
   <div>
     <p>1000$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/head_bomb_suit.png" alt="nabor_poplneniya_alkomat.png" />Сапёрный шлем уборщика x1</p>
-    <p><img src="/guides/supply/listofproducts/service/suit_nomb.png" alt="nabor_poplneniya_alkomat.png" />Сапёрный костюм уборщика x1</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/hats/head_bomb_suit.png" alt="nabor_poplneniya_alkomat.png" />Сапёрный шлем уборщика x1</p>
+    <p><img src="/guides/supply/listofproduct_2/clothes/suits/suit_nomb.png" alt="nabor_poplneniya_alkomat.png" />Сапёрный костюм уборщика x1</p>
   </div>
  
  <div>
@@ -2730,7 +2730,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>3500$</p>
   </div>
   <div>
-    <p><img src="/guides/supply/listofproducts/service/nabor_poplneniya/nabor_poplneniya_alkomat.png" alt="nabor_poplneniya_alkomat.png" />Набор пополнения АлкоМат x1</p>
+    <p><img src="/guides/supply/listofproduct_2/other/vend/nabor_poplneniya_alkomat.png" alt="nabor_poplneniya_alkomat.png" />Набор пополнения АлкоМат x1</p>
   </div>
 
 </div>
