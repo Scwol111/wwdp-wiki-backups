@@ -2,7 +2,7 @@
 title: Емаг
 description: 
 published: true
-date: 2025-06-08T13:47:10.036Z
+date: 2025-06-08T16:10:03.568Z
 tags: антагонистам, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:19:12.273Z
@@ -238,7 +238,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
           </td>
           <td>Кухня</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/sharpener.png" alt="sharpener.png" />Обезвоженный карп x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/carp.png" alt="carp.png" />Обезвоженный карп x1</p>
           </td>
         </tr>
         <tr>
@@ -248,11 +248,11 @@ dateCreated: 2024-09-29T18:19:12.273Z
           </td>
           <td>Комната священника</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/sheetcult.png" alt="sheetcult.png" />Доспехи аколита x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/sheetcult.png" alt="sheetcult.png" />Шлем культа x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/sheetcult.png" alt="sheetcult.png" />Роба культа x3</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/sheetcult.png" alt="sheetcult.png" />Капюшон культа x3</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/sheetcult.png" alt="sheetcult.png" />Ботинки культа x4</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/cultarmor.png" alt="cultarmor.png" />Доспехи аколита x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/culthelmet.png" alt="culthelmet.png" />Шлем культа x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/cultrobe.png" alt="cultrobe.png" />Роба культа x3</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/culthood.png" alt="culthood.png" />Капюшон культа x3</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/cultshoes.png" alt="cultshoes.png" />Ботинки культа x4</p>
             <p><img class="item_emag" src="/guides/antagonists/emag/sheetcult.png" alt="sheetcult.png" />Одеяло культа x4</p>
             <p><img class="item_emag" src="/guides/antagonists/emag/necronomikon.png" alt="necronomikon.png" />Некрономикон x1</p>
             <p><img class="item_emag" src="/guides/antagonists/emag/black_scarf.png" alt="black_scarf.png" />Полосатый черный шарф x3</p>
@@ -282,8 +282,8 @@ dateCreated: 2024-09-29T18:19:12.273Z
           <td>Бар, старый бар</td>
           <td>
           <p><img class="item_emag" src="/guides/antagonists/emag/poison_wine.png" alt="poison_wine.png" />Бутылка колдовского бархата x2</p>
-          <p><img class="item_emag" src="/guides/antagonists/emag/shaker.png" alt="shaker.png" />Банка кроваво-красного самогона x4</p>
-          <p><img class="item_emag" src="/guides/antagonists/emag/shaker.png" alt="shaker.png" />Банка Жало генокрада x4</p>
+          <p><img class="item_emag" src="/guides/antagonists/emag/nukie_robast.png" alt="nukie_robast.png" />Банка кроваво-красного самогона x4</p>
+          <p><img class="item_emag" src="/guides/antagonists/emag/changeling.png" alt="changeling.png" />Банка Жало генокрада x4</p>
           </td>
         </tr>
         <tr>
@@ -314,8 +314,8 @@ dateCreated: 2024-09-29T18:19:12.273Z
           </td>
           <td>Отдел службы безопасности</td>
           <td>
-          <p><img class="item_emag" src="/guides/antagonists/emag/grenade.png" alt="grenade.png" />Осколочная граната x1</p>
-          <p><img class="item_emag" src="/guides/antagonists/emag/truncheon.png" alt="truncheon.png" />ЭМИ граната x1</p>
+          <p><img class="item_emag" src="/guides/antagonists/emag/shrapnel.png" alt="shrapnel.png" />Осколочная граната x1</p>
+          <p><img class="item_emag" src="/guides/antagonists/emag/emp.png" alt="emp.png" />ЭМИ граната x1</p>
           </td>
         </tr>
         <tr>
@@ -410,7 +410,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
           <td>Гидропоника, пермабриг, техи</td>
           <td>
             <p><img class="item_emag" src="/guides/antagonists/emag/seed_amanita.png" alt="seed_amanita.png" />Пакет спор мухоморов x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/seed_amanita.png" alt="seed_amanita.png" />Пакет семян крапивы x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/nettle.png" alt="nettle.png" />Пакет семян крапивы x1</p>
           </td>
         </tr>
         <tr>
@@ -453,7 +453,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
           </td>
           <td>Инженерный отдел, комната инструментов.</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/syn_jaws_pry.png" alt="syn_jaws_pry.png" />Изолированные перчатки x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/isoli.png" alt="isoli.png" />Изолированные перчатки x1</p>
             <p><img class="item_emag" src="/guides/antagonists/emag/syn_jaws_pry.png" alt="syn_jaws_pry.png" />Челюсти жизни синдиката x1</p>
           </td>
         </tr>
@@ -476,8 +476,8 @@ dateCreated: 2024-09-29T18:19:12.273Z
           </td>
           <td>Комната главы персонала</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/id_regular.png" alt="id_regular.png" />Печать синдиката x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/id_regular.png" alt="id_regular.png" />ПДА синдиката x2</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/syndie.png" alt="syndie.png" />Печать синдиката x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/syndiepda.png" alt="syndiepda.png" />ПДА синдиката x2</p>
             <p><img class="item_emag" src="/guides/antagonists/emag/syn_cypherkey_new.png" alt="syn_cypherkey_new.png" />Кроваво-красный ключ шифрования x2</p>
           </td>
         </tr>
@@ -488,7 +488,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
            </td>
            <td>Инженерный, комната с инструментами.</td>
            <td>
-             <p><img class="item_emag" src="/guides/antagonists/emag/lantern.png" alt="lantern.png" />Хваталка x1</p>
+             <p><img class="item_emag" src="/guides/antagonists/emag/snatcherprod.png" alt="snatcherprod.png" />Хваталка x1</p>
            </td>
          </tr>
         <tr>
@@ -501,9 +501,9 @@ dateCreated: 2024-09-29T18:19:12.273Z
             <p><img class="item_emag" src="/guides/antagonists/emag/hand_combat.png" alt="hand_combat.png" />Боевые перчатки x1</p>
             <p><img class="item_emag" src="/guides/antagonists/emag/uniform_agent_m.png" alt="uniform_agent_m.png" />Комбинезон оперативника x1</p>
              <p><img class="item_emag" src="/guides/antagonists/emag/rps_army.png" alt="rps_army.png" />Армейская РПС x1</p>
-             <p><img class="item_emag" src="/guides/antagonists/emag/rps_army.png" alt="rps_army.png" />Вещмещок синдиката x1</p>
-             <p><img class="item_emag" src="/guides/antagonists/emag/rps_army.png" alt="rps_army.png" />Полноразмерная гарнитура синдиката x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/uniform_agent_w.png" alt="uniform_agent_w.png" />Армейские ботинки x1</p>
+             <p><img class="item_emag" src="/guides/antagonists/emag/syndieduffel.png" alt="syndieduffel.png" />Вещмещок синдиката x1</p>
+             <p><img class="item_emag" src="/guides/antagonists/emag/syndieheadset.png" alt="syndieheadset.png" />Полноразмерная гарнитура синдиката x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/combatboots.png" alt="combatboots.png" />Армейские ботинки x1</p>
             <p><img class="item_emag" src="/guides/antagonists/emag/gassyndicate.png" alt="gassyndicate.png" />Противогаз синдиката x1</p>
           </td>
         </tr>
@@ -524,9 +524,8 @@ dateCreated: 2024-09-29T18:19:12.273Z
           </td>
           <td>Комната бармена</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/pnv.png" alt="pnv.png" />Питон x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/pnv.png" alt="pnv.png" />Шляпа негодяя x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/pnv.png" alt="pnv.png" />Бронированный плащ синдиката x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/python.png" alt="python.png" />Питон x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/outlaw.png" alt="outlaw.png" />Шляпа негодяя x1</p>
           </td>
         </tr>
         <tr>
@@ -536,9 +535,8 @@ dateCreated: 2024-09-29T18:19:12.273Z
           </td>
           <td>Комната детектива</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/pnv.png" alt="pnv.png" />Двуствольное ружьё x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/pnv.png" alt="pnv.png" />Плечевая кобура синдиката x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/pnv.png" alt="pnv.png" />Бутылка водки x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/db.png" alt="db.png" />Двуствольное ружьё x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/syndieholster.png" alt="syndieholster.png" />Плечевая кобура синдиката x1</p>
           </td>
         </tr>
         <tr>
@@ -548,9 +546,9 @@ dateCreated: 2024-09-29T18:19:12.273Z
           </td>
           <td>Комната уборщика</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/pnv.png" alt="pnv.png" />Тактические перчатки горничной x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/pnv.png" alt="pnv.png" />Тактическая юбка горничной x1</p>
-            <p><img class="item_emag" src="/guides/antagonists/emag/pnv.png" alt="pnv.png" />Тактическая бандана горничной x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/maidgloves.png" alt="maidgloves.png" />Тактические перчатки горничной x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/maidjumpskirt.png" alt="maidjumpskirt.png" />Тактическая юбка горничной x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/maidbandana.png" alt="maidbandana.png" />Тактическая бандана горничной x1</p>
           </td>
         </tr>
         <tr>
@@ -560,7 +558,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
           </td>
           <td>Отдел вирусологии</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/pnv.png" alt="pnv.png" />Имплантер x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/implanter.png" alt="implanter.png" />Имплантер x1</p>
           </td>
         </tr>
         <tr>
@@ -570,7 +568,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
           </td>
           <td>Медицинский отдел</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/pnv.png" alt="pnv.png" />Микроинъектор стимулятора x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/stimpen.png" alt="stimpen.png" />Микроинъектор стимулятора x1</p>
           </td>
         </tr>
         <tr>
@@ -580,7 +578,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
           </td>
           <td>Везде на станции</td>
           <td>
-            <p><img class="item_emag" src="/guides/antagonists/emag/pnv.png" alt="pnv.png" />Вакидзаси x1</p>
+            <p><img class="item_emag" src="/guides/antagonists/emag/wakizashi.png" alt="wakizashi.png" />Вакидзаси x1</p>
           </td>
         </tr>
       </tbody>
