@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-06-08T10:54:49.950Z
+date: 2025-06-08T10:56:26.913Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -14,9 +14,9 @@ Muka soso
 -->
 <div class="gol" id="windows" style="display: block; width: 100%; height: 100%; position: relative; z-index: 0">
 <div>
-  <div id="header" class="headtext" style="display: flex">
+  <div id="header" class="headtext" style="display: flex; cursor: default">
     <div id="grabZone"></div>
-    <div id="name" style="display: flex; cursor: default">>_ <span id="r_icon" display="block">cmd - type local_server.txt</span></div>
+    <div id="name" style="display: flex">>_ <span id="r_icon" display="block">cmd - type local_server.txt</span></div>
     <div id="button" style="display: flex">
       <div id="wrap">⎯</div>
       <div id="wrapWin">❐</div>
