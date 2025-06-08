@@ -2,7 +2,7 @@
 title: Емаг
 description: 
 published: true
-date: 2025-06-08T16:10:03.568Z
+date: 2025-06-08T16:18:26.090Z
 tags: антагонистам, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:19:12.273Z
@@ -519,7 +519,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/scidrobe.gif" alt="scidrobe.gif" /></figure>
+            <figure class="image"><img src="/guides/antagonists/emag/bar.png" alt="bar.png" /></figure>
             <p><strong>Бардероб </strong></p>
           </td>
           <td>Комната бармена</td>
@@ -530,7 +530,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/scidrobe.gif" alt="scidrobe.gif" /></figure>
+            <figure class="image"><img src="/guides/antagonists/emag/detective.png" alt="detective.png" /></figure>
             <p><strong>ДетекШкаф </strong></p>
           </td>
           <td>Комната детектива</td>
@@ -541,7 +541,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/scidrobe.gif" alt="scidrobe.gif" /></figure>
+            <figure class="image"><img src="/guides/antagonists/emag/jani.png" alt="jani.png" /></figure>
             <p><strong>УборШкаф </strong></p>
           </td>
           <td>Комната уборщика</td>
@@ -553,7 +553,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/scidrobe.gif" alt="scidrobe.gif" /></figure>
+            <figure class="image"><img src="/guides/antagonists/emag/viro.png" alt="viro.png" /></figure>
             <p><strong>ВироШкаф </strong></p>
           </td>
           <td>Отдел вирусологии</td>
@@ -563,7 +563,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/scidrobe.gif" alt="scidrobe.gif" /></figure>
+            <figure class="image"><img src="/guides/antagonists/emag/med.png" alt="med.png" /></figure>
             <p><strong>НаноМед </strong></p>
           </td>
           <td>Медицинский отдел</td>
@@ -573,7 +573,7 @@ dateCreated: 2024-09-29T18:19:12.273Z
         </tr>
         <tr>
           <td>
-            <figure class="image"><img src="/guides/antagonists/emag/scidrobe.gif" alt="scidrobe.gif" /></figure>
+            <figure class="image"><img src="/guides/antagonists/emag/nippon.png" alt="nippon.png" /></figure>
             <p><strong>Nippon-tan </strong></p>
           </td>
           <td>Везде на станции</td>
