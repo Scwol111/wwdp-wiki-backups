@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-04-04T13:07:30.602Z
+date: 2025-06-08T08:15:55.296Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -77,9 +77,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/warden">Смотритель</a><a href="/roles/warden"><img src="/roles/warden.png" /></a></div>
   <div><div>Марает отдел СБ больше всех. Часто покидает пост, потому что скучно, хотя он почти никогда не должен покидать это место. Следит, чтобы ты не ушёл раньше положенного. По итогу засыпает на стойке.</div></div>
   <div>Повышенная</div>
-  <div><a href="/roles/brigmedic">Бригмедик</a><a href="/roles/brigmedic"><img src="/roles/brigmedic3.png" /></a></div>
+<!--  <div><a href="/roles/brigmedic">Бригмедик</a><a href="/roles/brigmedic"><img src="/roles/brigmedic3.png" /></a></div>
   <div><div>Золотая середина между Врачем и Офицером, чьей главной задачей является оказание помощи заключенным и членам службы безопасности при необходимости.</div></div>
-  <div>Средне</div>
+  <div>Средне</div>-->
   <div><a href="/roles/prison-guard">Смотритель Тюрьмы</a><a href="/roles/prison-guard"><img src="/roles/prison-guard.png" /></a></div>
   <div><div>Патрулирует бриг и места содержания заключенных. Следит, чтобы заключенные не сбегали. Обязательно поскользнётся на мыле и попадёт под горячую руку пермобриговцев.</div></div>
   <div>Средне</div>
