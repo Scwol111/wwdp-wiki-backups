@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-06-08T08:15:55.296Z
+date: 2025-06-08T10:02:00.094Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -46,7 +46,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/researchdirector">Мистагог</a><a href="/roles/researchdirector"><img src="/roles/researchdirector.png" /></a></div>
 	<div><div>Руководит одним из самых важных, а также опасных отделов, а именно <a href="/roles#научный-отдел">отделом науки</a>! Обеспечивает контроль того, чтобы у всех было всё новенькое и продвинутое. Вооружает отдел оружием, гранатами, минами, защищает гермозатворами и всем остальным, что под руку попадётся, а затем варит наркотики и умирает из-за того, что научный ассистент ради шутки заварил его в ящике холодильника.</div></div>
 	<div>Средне, но со сложностями</div>
-  <div><a href="/roles/chiefmedicalofficer">Старший Медицинский Офицер</a><a href="/roles/chiefmedicalofficer"><img src="/roles/chiefmedicalofficer.png" /></a></div>
+  <div><a href="/roles/chiefmedicalofficer">Главный Врач</a><a href="/roles/chiefmedicalofficer"><img src="/roles/chiefmedicalofficer.png" /></a></div>
   <div><div>Руководит <a href="/roles#медицинский-отдел">медицинским отделом</a>. Обеспечивает и контролирует обеспечение станции лекарствами и спасением вашей пятой точки. По итогу варит наркотики вместе с химиками и сам ложится на больничную койку ввиду передозировки.</div></div>
 	<div>Сложно</div>
   <div><a href="/roles/quartermaster">Квартирмейстер</a><a href="/roles/quartermaster"><img src="/roles/quartermaster.png" /></a></div>
@@ -80,9 +80,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
 <!--  <div><a href="/roles/brigmedic">Бригмедик</a><a href="/roles/brigmedic"><img src="/roles/brigmedic3.png" /></a></div>
   <div><div>Золотая середина между Врачем и Офицером, чьей главной задачей является оказание помощи заключенным и членам службы безопасности при необходимости.</div></div>
   <div>Средне</div>-->
-  <div><a href="/roles/prison-guard">Смотритель Тюрьмы</a><a href="/roles/prison-guard"><img src="/roles/prison-guard.png" /></a></div>
+  <!--<div><a href="/roles/prison-guard">Смотритель Тюрьмы</a><a href="/roles/prison-guard"><img src="/roles/prison-guard.png" /></a></div>
   <div><div>Патрулирует бриг и места содержания заключенных. Следит, чтобы заключенные не сбегали. Обязательно поскользнётся на мыле и попадёт под горячую руку пермобриговцев.</div></div>
-  <div>Средне</div>
+  <div>Средне</div>-->
   <div><a href="/roles/officer">Офицер</a><a href="/roles/officer"><img src="/roles/officer.png" /></a></div>
   <div><div>	Рядовой член Службы Безопасности, который обеспечивает арест плохих и хороших людей, является боевой единицей, часто не знает до конца законов и ваших прав.</div></div>
   <div>Средне</div>
@@ -168,7 +168,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
 
 <div class="roles-table cargo">
   <div class="title cargo-title">
-    <div class="link"><h2><a href="/roles/supplydepartment" class="cargo-color">Отдел Снабжения</a></h2></div>
+    <div class="link"><h2><a href="/roles/supplydepartment" class="cargo-color">Отдел логистики</a></h2></div>
   	<div>Роль</div>
   	<div>Описание</div>
   	<div>Сложность</div>
@@ -287,9 +287,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <!--<div><a href="/roles/corticalBorer">Мозговой червь</a><a href="/roles/corticalBorer"><img src="/roles/borer.png" /></a></div>
   <div><div>Мозговые черви — идеальные паразиты, которые способны проникнуть через ухо к мозгу гуманоида. Черви способны к общению со своей жертвой из-за частичного захвата мозга и центра мыслительных процессов.</div></div>
   <div>Легко</div> -->
-  <div><a href="/roles/thief">Вор</a><a href="/roles/thief"><img src="/roles/thief32x32.png" /></a></div>
+  <!--<div><a href="/roles/thief">Вор</a><a href="/roles/thief"><img src="/roles/thief32x32.png" /></a></div>
   <div><div>Вор, способный утащить всё, что не прикручено к полу. Остерегайтесь пропажи ваших ценных вещей!</div></div>
-  <div>Средне</div>
+  <div>Средне</div>-->
   <div><a href="/roles/cultist">Культист</a><a href="/roles/cultist"><img src="/roles/cultist.gif" /></a></div>
   <div><div>Заходит в бар безумный фанатик, священник и человек с кроваво-красными глазами и большой руной над головой, а бармен говорит "Тебе как обычно?".</div></div>
   <div>Сложно</div>
