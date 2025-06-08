@@ -2,7 +2,7 @@
 title: Старший Медицинский Офицер
 description: 
 published: true
-date: 2025-01-05T21:25:00.530Z
+date: 2025-06-08T09:56:31.463Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:08:19.723Z
@@ -14,7 +14,7 @@ dateCreated: 2024-09-10T19:08:19.723Z
     <div>
       <div><div><img src="/roles/chiefmedicalofficer.png"></div></div>
       <div><div>
-        <h1>Старший Медицинский Офицер</h1>
+        <h1>Главный Врач</h1>
         <p><strong>Сложность:</strong> Сложная</p>
         <strong>Обязанности:</strong> Координация медицинского персонала.<br>
         <b>Руководители</b>: <a href="/roles/captain" title="Капитан">Капитан</a><br>
