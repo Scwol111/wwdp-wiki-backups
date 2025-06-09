@@ -2,7 +2,7 @@
 title: Искусственный Интеллект
 description: Ох черт, кажется эта штука решила убить нас всех...
 published: true
-date: 2025-06-09T17:45:36.178Z
+date: 2025-06-09T17:49:57.721Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T19:20:01.784Z
