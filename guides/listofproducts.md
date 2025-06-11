@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-06-07T17:32:56.757Z
+date: 2025-06-11T17:24:19.374Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -322,7 +322,7 @@ weapon.png" alt="secure_weapon_case.png" />
       <p>Ящик пожарного снаряжения</p>
     </div>
     <div>
-      <p>1600$</p>
+      <p>1500$</p>
     </div>
     <div>
       <p><img src="/guides/supply/listofproduct_2/clothes/hats/red_cask.png" alt="kaska.png" />Красная рабочая каска x2</p>
@@ -337,7 +337,7 @@ weapon.png" alt="secure_weapon_case.png" />
       <p>Ящик противорадиационного снаряжения</p>
     </div>
     <div>
-      <p>1100$</p>
+      <p>1000$</p>
     </div>
     <div>
       <p><img src="/guides/supply/listofproduct_2/clothes/suits/rad_costume.png" alt="rad_costume.png" />Противорадиационный костюм x2</p>
