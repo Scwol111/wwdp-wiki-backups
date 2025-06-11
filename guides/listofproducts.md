@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2025-06-11T17:24:19.374Z
+date: 2025-06-11T17:25:50.423Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -494,7 +494,7 @@ weapon.png" alt="secure_weapon_case.png" />
     <p>Ящик пополнения ИнжеШкаф</p>
   </div>
   <div>
-    <p>3200$</p>
+    <p>3410$</p>
   </div>
   <div>
     <p><img src="/guides/supply/listofproduct_2/other/vend/engineercabinet_refill_kit.png" alt="engineercabinet_refill_kit.png" />Набор пополнения ИнжеШкаф x1</p>
