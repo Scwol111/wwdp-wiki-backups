@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-06-12T09:55:36.715Z
+date: 2025-06-12T10:01:17.254Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -106,7 +106,7 @@ Muka soso
   <div class="pentagon" id="pentag">
   <div class="ahui">N:\guides\contribution></div>
   <input id="enter" type="text" maxlength="60">
-  <div id="cursor" style="transform: translateX(23ch) translateY(3px);"></div>
+  <div id="cursor" style="transform: translateX(23ch) translateY(3px); position: absolute;"></div>
   </div>
   </div>
 </div>
