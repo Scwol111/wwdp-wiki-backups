@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-06-12T08:52:17.516Z
+date: 2025-06-12T09:11:23.665Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -105,7 +105,7 @@ Muka soso
   ```
   git submodule update --init --recursive
   ```
-  4. Повторно соберите и запустите сервер, начиная с 5 шага
+  4. Повторно соберите и запустите сервер, начиная с 5 шага.
   <div class="pentagon">
   <div class="ahui">N:\guides\contribution></div>
   <input id="enter" type="text" maxlength="60">
