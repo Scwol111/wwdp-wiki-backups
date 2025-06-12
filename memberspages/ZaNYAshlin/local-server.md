@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: Развёртывание локалки билда WWDP
 published: false
-date: 2025-06-12T08:31:47.484Z
+date: 2025-06-12T08:34:05.724Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-13T15:10:02.822Z
@@ -108,7 +108,7 @@ Muka soso
   4. Повторно соберите и запустите сервер, начиная с 5 шага
   <div class="pentagon">
   <div class="ahui">N:\guides\contribution></div>
-  <input id="enter" type="text">
+  <input id="enter" type="text" maxlength="50">
   <div id="cursor" style="transform: translateX(23ch) translateY(3px);"></div>
   </div>
   </div>
