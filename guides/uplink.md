@@ -2,7 +2,7 @@
 title: Аплинк
 description: Аплинк Uplink
 published: false
-date: 2025-06-04T05:37:42.142Z
+date: 2025-06-13T11:31:46.979Z
 tags: антагонистам, руководство
 editor: markdown
 dateCreated: 2024-09-28T16:46:38.976Z
@@ -41,7 +41,7 @@ dateCreated: 2024-09-28T16:46:38.976Z
       <td>1 ТК</td>
       <td>
         <p>Болтовая винтовка, использующая патроны калибра 30.винтовочный.</p>
-        <p>Выстрел наносит <b style="color: red;">28,5</b> единиц <b style="color: yellow;">проникающего</b> урона.</p>
+        <p>Выстрел наносит <b style="color: red;">57</b> единиц <b style="color: yellow;">проникающего</b> урона.</p>
         <p>Скорострельность <b style="color: yellow;">0.8</b> в секунду.</p>
       </td>
       <td>Да</td>
