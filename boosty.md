@@ -2,7 +2,7 @@
 title: Бусти команды
 description: Здесь вы можете поддержать людей из стаффа, которые завели свой бусти.
 published: true
-date: 2025-04-19T06:18:17.067Z
+date: 2025-06-16T18:18:51.921Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -66,6 +66,11 @@ dateCreated: 2024-10-31T07:49:55.557Z
       <td>Gavrik</td>
       <td><a href="https://boosty.to/ddecard">boosty.to/ddecard</a></td>
       <td>Один из старейших викиводов. Начинал во времена, когда движком вики был mediawiki.</td>
+    </tr>
+    <tr>
+      <td>Toki</td>
+      <td><a href="https://boosty.to/tokijumper">https://boosty.to/tokijumper</a></td>
+      <td>Лучший из лучших по мнению его самого.</td>
     </tr>
     <tr>
       <td>Kutos</td>
