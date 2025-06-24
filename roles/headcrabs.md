@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-06-24T18:01:38.710Z
+date: 2025-06-24T18:09:36.334Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -67,7 +67,7 @@ dateCreated: 2024-12-30T16:10:41.153Z
 <img src="/roles/headcrabs/equipped-alive.png" width="100" height="100"> -- живая особь, овладевшая телом. Конечности сложены.
 <img src="/roles/headcrabs/equipped-dead.png" width="100" height="100"> -- мёртвая особь. Конечности расслаблены.
 
-## <img src="/roles/headcrabs/headcrab_helmet-dead.png" width="33" height="33"> <i>АААААА! СНИМИТЕ С МЕНЯ ЭТУ ДРЯНЬ!</i>
+## <img src="/roles/headcrabs/equipped-helmet.png" width="33" height="33"> <i>АААААА! СНИМИТЕ С МЕНЯ ЭТУ ДРЯНЬ!</i>
 <ul>
 	<li>В хедкраба можно вселиться будучи <a href="https://wiki.wwdp.ee/ru/roles/ghost">призраком</a>. Если в краба никто не вселится, он сделает всё сам.
   <li>Возрождать тело с хедкрабом на голове - НЕЛЬЗЯ!
