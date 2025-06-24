@@ -2,7 +2,7 @@
 title: ТЭГ
 description: Трубоёб Виталя
 published: false
-date: 2025-06-24T11:17:29.699Z
+date: 2025-06-24T11:20:46.142Z
 tags: 
 editor: code
 dateCreated: 2025-04-26T18:32:42.626Z
@@ -130,17 +130,61 @@ dateCreated: 2025-04-26T18:32:42.626Z
 <p> В постройке ТЭГа вас почти ничего не ограничивает, если вы совершили ошибку это не страшно в отличие от ошибки в Тесле иди Сингуярности. Экспериментируйте, создавайте и делитесь в сообществе своими не обычными схемами, может быть именно ваша схема станет самой лучшей и популярной.</p> 
 
 
-<div class="console-scheme">
-  <div class="console-screen">
-    <img src="/guides/engineering/teg/example_open.png" alt="Открытая схема ТЭГ" />
+<h2>Примеры рабочих схем</h2>
+
+<div class="scheme-container horizontal">
+  <h3>Открытая схема</h3>
+  <div class="console-display">
+    <div class="console-screen" style="background: linear-gradient(135deg, #0a1a2a 0%, #1a2b3a 100%);">
+      <img src="/guides/engineering/teg/example_open.png" />
+    </div>
+    <div class="console-description">
+      <p>Данная схема имеет открытые контуры обоих газов. Самая лёгкая схема, однако не способна к выработке большого количества энергии.</p>
+      <ol class="steps">
+        <li>Труба подающая горячий газ в левый циркулятор ТЭГа</li>
+        <li>Охлаждение горячего газа</li>
+        <li>Труба подающая холодный газ в правый циркулятор ТЭГа</li>
+      </ol>
+    </div>
   </div>
-  <div class="console-description">
-    <h3>Открытая схема</h3>
-    <p>Данная схема имеет открытые контуры обоих газов. Самая лёгкая схема, однако не способна к выработке большого количества энергии.</p>
-    <ul class="scheme-steps">
-      <li>1. Труба подающая горячий газ в левый циркулятор ТЭГа</li>
-      <li>2. Охлаждение горячего газа</li>
-      <li>3. Труба подающая холодный газ в правый циркулятор ТЭГа</li>
-    </ul>
+</div>
+
+<div class="scheme-container horizontal">
+  <h3>Полузамкнутая схема</h3>
+  <div class="console-display">
+    <div class="console-screen" style="background: linear-gradient(135deg, #1a0e2a 0%, #2a1b3a 100%);">
+      <img src="/guides/engineering/teg/example_one.png" />
+    </div>
+    <div class="console-description">
+      <p>Данная схема имеет замкнутый контур охлаждения, а контур горячего газа выбрасывается сразу в космос.</p>
+      <ol class="steps">
+        <li>Труба, подающая горячий газ в левый циркулятор ТЕГа</li>
+        <li>Сброс отработанного горячего газа (лучше всего в космос)</li>
+        <li>Труба, подающая холодный газ в правый циркулятор ТЭГа</li>
+        <li>Радиатор, охлаждающий газ за счет космического холода</li>
+      </ol>
+    </div>
+  </div>
+</div>
+
+<div class="scheme-container vertical">
+  <h3>Замкнутая схема</h3>
+  <div class="console-display">
+    <div class="console-screen" style="background: linear-gradient(135deg, #0a2a1a 0%, #1a3a2b 100%);">
+      <img src="/guides/engineering/teg/example_close.png" />
+    </div>
+    <div class="console-description">
+      <ol class="steps">
+        <li>Зажигательная смесь подаётся в камеру сгорания</li>
+        <li>Инжектор предотвращает попадание горячих газов в подающую трубу</li>
+        <li>Газы под давлением (100–3000 кПа) поступают во вторую камеру</li>
+        <li>Пассивная вентиляция направляет газы во вторую камеру</li>
+        <li>Насосная система откачивает газы и подаёт их в ТЭГ</li>
+        <li>Левый циркулятор прокачивает газ через контур</li>
+        <li>Инжектор возвращает часть газа обратно в камеру сгорания</li>
+        <li>Правый циркулятор прокачивает охлаждённый газ</li>
+        <li>Радиаторы отводят тепло в космическое пространство</li>
+      </ol>
+    </div>
   </div>
 </div>
