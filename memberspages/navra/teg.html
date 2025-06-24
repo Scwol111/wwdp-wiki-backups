@@ -2,7 +2,7 @@
 title: ТЭГ
 description: Трубоёб Виталя
 published: false
-date: 2025-06-24T11:23:37.590Z
+date: 2025-06-24T11:26:38.831Z
 tags: 
 editor: code
 dateCreated: 2025-04-26T18:32:42.626Z
@@ -135,15 +135,16 @@ dateCreated: 2025-04-26T18:32:42.626Z
 <div class="scheme-container horizontal">
   <h3>Открытая схема</h3>
   <div class="console-display">
-    <div class="console-screen" style="background: linear-gradient(135deg, #0a1a2a 0%, #1a2b3a 100%);">
+    <div class="console-screen" style="background: linear-gradient(135deg, #2a100a 0%, #3a1b15 100%);">
       <img src="/guides/engineering/teg/example_open.png" />
     </div>
+    <div class="divider"></div>
     <div class="console-description">
       <p>Данная схема имеет открытые контуры обоих газов. Самая лёгкая схема, однако не способна к выработке большого количества энергии.</p>
       <ol class="steps">
-        <li>Труба подающая горячий газ в левый циркулятор ТЭГа</li>
-        <li>Охлаждение горячего газа</li>
-        <li>Труба подающая холодный газ в правый циркулятор ТЭГа</li>
+        <li><span class="step-number">1</span> Труба подающая горячий газ в левый циркулятор ТЭГа</li>
+        <li><span class="step-number">2</span> Охлаждение горячего газа</li>
+        <li><span class="step-number">3</span> Труба подающая холодный газ в правый циркулятор ТЭГа</li>
       </ol>
     </div>
   </div>
@@ -152,16 +153,17 @@ dateCreated: 2025-04-26T18:32:42.626Z
 <div class="scheme-container horizontal">
   <h3>Полузамкнутая схема</h3>
   <div class="console-display">
-    <div class="console-screen" style="background: linear-gradient(135deg, #1a0e2a 0%, #2a1b3a 100%);">
+    <div class="console-screen" style="background: linear-gradient(135deg, #2a0a1a 0%, #3a152b 100%);">
       <img src="/guides/engineering/teg/example_one.png" />
     </div>
+    <div class="divider"></div>
     <div class="console-description">
       <p>Данная схема имеет замкнутый контур охлаждения, а контур горячего газа выбрасывается сразу в космос.</p>
       <ol class="steps">
-        <li>Труба, подающая горячий газ в левый циркулятор ТЕГа</li>
-        <li>Сброс отработанного горячего газа (лучше всего в космос)</li>
-        <li>Труба, подающая холодный газ в правый циркулятор ТЭГа</li>
-        <li>Радиатор, охлаждающий газ за счет космического холода</li>
+        <li><span class="step-number">1</span> Труба, подающая горячий газ в левый циркулятор ТЕГа</li>
+        <li><span class="step-number">2</span> Сброс отработанного горячего газа (лучше всего в космос)</li>
+        <li><span class="step-number">3</span> Труба, подающая холодный газ в правый циркулятор ТЭГа</li>
+        <li><span class="step-number">4</span> Радиатор, охлаждающий газ за счет космического холода</li>
       </ol>
     </div>
   </div>
@@ -169,30 +171,22 @@ dateCreated: 2025-04-26T18:32:42.626Z
 
 <div class="scheme-container vertical">
   <h3>Замкнутая схема</h3>
-  <div class="console-display" style="box-shadow: 
-    0 0 0 1px rgba(255,100,100,0.3),
-    0 0 0 3px rgba(200,50,50,0.2),
-    0 0 20px rgba(200,0,0,0.4),
-    inset 0 0 15px rgba(180,0,0,0.3);">
-    <div class="console-screen" style="background: linear-gradient(135deg, #2a0a0a 0%, #3a1a1a 100%);">
+  <div class="console-display">
+    <div class="console-screen" style="background: linear-gradient(135deg, #0a2a1a 0%, #153a2b 100%);">
       <img src="/guides/engineering/teg/example_close.png" />
     </div>
-    <div class="console-description" style="background: linear-gradient(
-      180deg,
-      rgba(20,10,10,0.95) 0%,
-      rgba(35,15,15,0.95) 50%,
-      rgba(20,10,10,0.95) 100%
-    );">
-      <ol class="steps" style="text-shadow: 0 0 5px rgba(255,100,100,0.3);">
-        <li>Зажигательная смесь подаётся в камеру сгорания</li>
-        <li>Инжектор предотвращает попадание горячих газов в подающую трубу</li>
-        <li>Газы под давлением (100–3000 кПа) поступают во вторую камеру</li>
-        <li>Пассивная вентиляция направляет газы во вторую камеру</li>
-        <li>Насосная система откачивает газы и подаёт их в ТЭГ</li>
-        <li>Левый циркулятор прокачивает газ через контур</li>
-        <li>Инжектор возвращает часть газа обратно в камеру сгорания</li>
-        <li>Правый циркулятор прокачивает охлаждённый газ</li>
-        <li>Радиаторы отводят тепло в космическое пространство</li>
+    <div class="divider-vertical"></div>
+    <div class="console-description">
+      <ol class="steps">
+        <li><span class="step-number">1</span> Зажигательная смесь подаётся в камеру сгорания</li>
+        <li><span class="step-number">2</span> Инжектор предотвращает попадание горячих газов в подающую трубу</li>
+        <li><span class="step-number">3</span> Газы под давлением (100–3000 кПа) поступают во вторую камеру</li>
+        <li><span class="step-number">4</span> Пассивная вентиляция направляет газы во вторую камеру</li>
+        <li><span class="step-number">5</span> Насосная система откачивает газы и подаёт их в ТЭГ</li>
+        <li><span class="step-number">6</span> Левый циркулятор прокачивает газ через контур</li>
+        <li><span class="step-number">7</span> Инжектор возвращает часть газа обратно в камеру сгорания</li>
+        <li><span class="step-number">8</span> Правый циркулятор прокачивает охлаждённый газ</li>
+        <li><span class="step-number">9</span> Радиаторы отводят тепло в космическое пространство</li>
       </ol>
     </div>
   </div>
