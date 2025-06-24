@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-06-24T13:32:27.943Z
+date: 2025-06-24T17:16:04.663Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -42,11 +42,25 @@ dateCreated: 2024-12-30T16:10:41.153Z
 
 ## Виды хедкрабов
 Их можно разделить на 3 вида по расцветке: обычные, бледные и чёрные. 
-<ul>
-	<li>Обычные <img src="/roles/headcrabs/headcrab-beautiful.png"> ничем не выделяются от других видов своего рода. Зато они красивые.
-	<li>Бледные <img src="/roles/headcrabs/headcrab-fast.png"> отличаются увеличенной скоростью передвижения благодаря длинным конечностям.
-	<li>Чёрные <img src="/roles/headcrabs/headcrab-poison.png"> являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.
-</ul>
+
+
+
+
+<div class="stupid-crabs" style="display: flex; justify-content: center;" align="center">
+	<div class="stupider-crabs"><img src="/roles/headcrabs/headcrab-beautiful.png" width="300" height="300"></div>
+	<div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-fast.png" width="300" height=""></div>
+  <div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-poison.png" width="" height="300"></div>
+</div>
+<div class="stupid-crabs" style="display: flex; justify-content: center;" align="center">
+  <div class="stupider-crabs">Обычные ничем не выделяются от других видов своего рода. Зато они красивые.</div>
+	<div class="stupider-crabs">Бледные отличаются увеличенной скоростью передвижения благодаря длинным конечностям.</div>
+  <div class="stupider-crabs">Чёрные являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.</div>
+</div>
+  
+
+
+
+
 <hr>
 После смерти хедкраба его труп можно использовать как косметический головной убор. Уж если вам это сильно понравилось, то окей. 
 <p>Но стоит видеть разницу между живым и мёртвым хедкрабами на головах. Их можно отличить по положению конечностей. Рассмотрим на примере обычного хедкраба.<p>
