@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-06-24T17:34:12.907Z
+date: 2025-06-24T17:34:30.886Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -47,7 +47,7 @@ dateCreated: 2024-12-30T16:10:41.153Z
 
 <p></p>
 <div class="stupid-crabs" style="display: flex; justify-content: center;" align="center">
-	<div class="stupider-crabs"><img src="/roles/headcrabs/headcrab-beautiful.png" width="300" height="300"></div>
+	<div class="stupider-crabs"><img src="/roles/headcrabs/headcrab-beautifu.png" width="300" height="300"></div>
 	<div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-fast.png" width="300" height=""></div>
   <div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-poison.png" width="" height="300"></div>
 </div>
