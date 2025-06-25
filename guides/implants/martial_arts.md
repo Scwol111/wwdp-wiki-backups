@@ -2,7 +2,7 @@
 title: Боевые искусства
 description: 
 published: false
-date: 2025-06-25T11:22:26.871Z
+date: 2025-06-25T11:45:13.591Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T12:16:01.117Z
@@ -15,17 +15,17 @@ dateCreated: 2025-03-25T12:16:01.117Z
 В ближнем бою используются разные виды взаимодействия с противником:
 
 <ul class="list">
-  <li><img src="/guides/cqc/harm.png"> - </li>
-  <li><img src="/guides/cqc/disarm.png"> - </li>
-  <li><img src="/guides/cqc/grab.png"> - </li>
-  <li><img src="/guides/cqc/help.png"> - </li>
+  <li><img src="/guides/cqc/harm.png"> — нажание <kbd>ЛКМ</kbd> по противнику в <b>Боевом режиме</b>. Обычный удар.</li>
+  <li><img src="/guides/cqc/disarm.png"> — </li>
+  <li><img src="/guides/cqc/grab.png"> — </li>
+  <li><img src="/guides/cqc/help.png"> — </li>
 </ul>
 
 <span class="span">Иконки, показанные выше, не присутствуют в игре. Они используются в статье для быстрого понимания действия, необходимого для комбо.</span>
 
 <h2><img src="/roles/command/maid/manual_nt.png">Ближний бой (CQC)<img src="/guides/cqc/cqcsyndi.png"></h2>
 
-CQC (Close Quarters Combat) - тактический метод ведения боя в ближнем бою, обычно применяемый в ограниченном пространстве, характеризующийся высокой скоростью и интенсивностью. Для применения "сикуси" приёмов изначально необходимо изучить их при помощи книги <b class="nt">Nanotrasen CQC Manual<img src="/roles/command/maid/manual_nt.png"></b>, которую можно выбрать в снаряжении <a href="">Служанки</a> до начала смены, или <b class="sd">CQC manual <img src="/guides/cqc/cqcsyndi.png"></b>, приобретаемую за 14 ТК в <a href="/guides/uplink">аплинке</a> <a href="/roles/traitor">Агента Синдиката</a> или <a href="/roles/nuclearoperative">Ядерного Оперативника</a>. Также приёмами "сикуси" владеет <a href="/roles/chef">Повар</a>, но только на территории кухни.
+CQC (Close Quarters Combat) - тактический метод ведения боя в ближнем бою, обычно применяемый в ограниченном пространстве, характеризующийся высокой скоростью и интенсивностью. Для применения "сикуси" приёмов изначально необходимо изучить их при помощи книги <b class="nt">Nanotrasen CQC Manual<img src="/roles/command/maid/manual_nt.png"></b>, которую можно выбрать в снаряжении <a href="">Служанки</a> до начала смены, или <b class="sd">CQC Manual <img src="/guides/cqc/cqcsyndi.png"></b>, приобретаемую за 14 ТК в <a href="/guides/uplink">аплинке</a> <a href="/roles/traitor">Агента Синдиката</a> или <a href="/roles/nuclearoperative">Ядерного Оперативника</a>. Также приёмами "сикуси" владеет <a href="/roles/chef">Повар</a>, но только на территории кухни.
 
 <h3>Стандартные приёмы</h3>
 
