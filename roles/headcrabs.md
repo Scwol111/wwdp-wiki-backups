@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-06-25T10:59:46.455Z
+date: 2025-06-25T11:04:52.799Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -47,9 +47,9 @@ dateCreated: 2024-12-30T16:10:41.153Z
 
 <p></p>
 <div class="stupid-crabs" style="display: flex; justify-content: center;" align="center">
-	<div class="stupider-crabs"><img src="/roles/headcrabs/headcrab-beautiful.png" width="300" height="300"></div>
-	<div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-fast.png" width="300" height="300"></div>
-  <div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-poison.png" width="300" height="300"></div>
+	<div class="stupider-crabs"><img src="/roles/headcrabs/headcrab-beautiful.png" width="300" height="300" style="filter: drop-shadow(1px 1px 40px #0F0F0F)"></div>
+	<div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-fast.png" width="300" height="300" style="filter: drop-shadow(1px 1px 40px #0F0F0F)"></div>
+  <div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-poison.png" width="300" height="300" style="filter: drop-shadow(1px 1px 40px #0F0F0F)"></div>
 </div>
 <div class="stupidest-crabs" style="display: flex; justify-content: center;" align="center">
   <div class="stupider-crabs">Обычные: ничем не выделяются от других видов своего рода. Зато они красивые.</div>
