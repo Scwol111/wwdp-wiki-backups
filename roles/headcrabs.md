@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-06-25T09:52:02.982Z
+date: 2025-06-25T09:57:41.515Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -51,7 +51,7 @@ dateCreated: 2024-12-30T16:10:41.153Z
 	<div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-fast.png" width="300" height="300"></div>
   <div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-poison.png" width="300" height="300"></div>
 </div>
-<div class="stupid-crabs" style="display: flex; justify-content: center;" align="center">
+<div class="stupidest-crabs" style="display: flex; justify-content: center;" align="center">
   <div class="stupider-crabs">Обычные: ничем не выделяются от других видов своего рода. Зато они красивые.</div>
 	<div class="stupider-crabs">Бледные: отличаются увеличенной скоростью передвижения благодаря длинным конечностям.</div>
   <div class="stupider-crabs">Чёрные: являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.</div>
