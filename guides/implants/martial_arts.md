@@ -2,7 +2,7 @@
 title: Боевые искусства
 description: 
 published: false
-date: 2025-06-26T21:45:54.826Z
+date: 2025-06-26T22:03:45.259Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T12:16:01.117Z
@@ -60,15 +60,27 @@ CQC (Close Quarters Combat) - тактический метод ведения �
 <th>Описание</th>
 </tr></thead>
 <tr>
-<td><img src="/guides/cqc/legsweep.png"><img src="/guides/cqc/arrow.png"><img src="/guides/cqc/legsweep.png"></td>
+<td><img src="/guides/cqc/grab.png"><img src="/guides/cqc/arrow.png"><img src="/guides/cqc/harm.png"> <br> Slam</td>
 <td>Сбивает противника с ног на 12 секунд, нанося 50 единиц урона выносливости. Действует только на стоящих людей.</td>
 </tr>
 <tr>
-<td><img src="/guides/cqc/lungpunch.png"></td>
+<td><img src="/guides/cqc/harm.png"><img src="/guides/cqc/arrow.png"><img src="/guides/cqc/harm.png"> <br> CQC Kick</td>
 <td>Наносит жертве 10 удушающего урона и не даёт жертве дышать на протяжении 10 секунд.</td>
 </tr>
 <tr>
-<td><img src="/guides/cqc/neckchop.png"></td>
+<td><img src="/guides/cqc/grab.png"><img src="/guides/cqc/arrow.png"><img src="/guides/cqc/grab.png"> <br> Restrain</td>
+<td>Мощный и точный удар, который наносит 5 урона в голову и не позволяет жертве говорить на протяжении 20 секунд.</td>
+</tr>
+<tr>
+<td><img src="/guides/cqc/disarm.png"><img src="/guides/cqc/arrow.png"><img src="/guides/cqc/grab.png"> <br> Pressure</td>
+<td>Мощный и точный удар, который наносит 5 урона в голову и не позволяет жертве говорить на протяжении 20 секунд.</td>
+</tr>
+<tr>
+<td><img src="/guides/cqc/disarm.png"><img src="/guides/cqc/arrow.png"><img src="/guides/cqc/disarm.png"><img src="/guides/cqc/arrow.png"><img src="/guides/cqc/harm.png"> <br> Consecutive CQC</td>
+<td>Мощный и точный удар, который наносит 5 урона в голову и не позволяет жертве говорить на протяжении 20 секунд.</td>
+</tr>
+<tr>
+<td><img src="/guides/cqc/harm.png"> <br> (While crawling or prone) Leg Sweep</td>
 <td>Мощный и точный удар, который наносит 5 урона в голову и не позволяет жертве говорить на протяжении 20 секунд.</td>
 </tr>
 </table></center>
