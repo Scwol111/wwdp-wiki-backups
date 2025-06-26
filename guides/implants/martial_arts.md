@@ -2,7 +2,7 @@
 title: Боевые искусства
 description: 
 published: false
-date: 2025-06-26T22:33:09.739Z
+date: 2025-06-26T22:39:04.977Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T12:16:01.117Z
@@ -85,7 +85,7 @@ CQC (Close Quarters Combat) - тактический метод ведения �
 </tr>
 </table></center>
 
-<h2><img src="/guides/cqc/kravmaga.png">Контактный бой (Krav Maga)<img src="/guides/cqc/kravmaga.png"></h2>
+<h2><img src="/guides/cqc/krma.png">Контактный бой (Krav Maga)<img src="/guides/cqc/krma.png" class="reverse"></h2>
 
 <center>
 <table class="sb">
