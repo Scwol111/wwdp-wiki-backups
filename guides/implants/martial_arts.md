@@ -2,7 +2,7 @@
 title: Боевые искусства
 description: 
 published: false
-date: 2025-06-26T09:20:37.921Z
+date: 2025-06-26T09:56:36.938Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T12:16:01.117Z
@@ -37,16 +37,39 @@ CQC (Close Quarters Combat) - тактический метод ведения �
 <th>Описание</th>
 </tr></thead>
 <tr>
-<td><img src="" width="64" height="64"><br>S</td>
+<td><img src="/guides/cqc/harm.png"></td>
 <td>Е.</td>
 </tr>
 <tr>
-<td><img src="" width="64" height="64"><br>S</td>
+<td><img src="/guides/cqc/disarm.png"></td>
 <td>Е.</td>
 </tr>
 <tr>
-<td><img src="" width="64" height="64"><br>S</td>
+<td><img src="/guides/cqc/grab.png"></td>
 <td>Е.</td>
+</tr>
+</table></center>
+
+<h3>Комбо приёмы</h3>
+
+<center>
+<table class="sb">
+<thead>
+<tr>
+<th>Способность</th>
+<th>Описание</th>
+</tr></thead>
+<tr>
+<td><img src="/guides/cqc/legsweep.png"><img src="/guides/cqc/legsweep.png"><img src="/guides/cqc/legsweep.png"></td>
+<td>Сбивает противника с ног на 12 секунд, нанося 50 единиц урона выносливости. Действует только на стоящих людей.</td>
+</tr>
+<tr>
+<td><img src="/guides/cqc/lungpunch.png"></td>
+<td>Наносит жертве 10 удушающего урона и не даёт жертве дышать на протяжении 10 секунд.</td>
+</tr>
+<tr>
+<td><img src="/guides/cqc/neckchop.png"></td>
+<td>Мощный и точный удар, который наносит 5 урона в голову и не позволяет жертве говорить на протяжении 20 секунд.</td>
 </tr>
 </table></center>
 
