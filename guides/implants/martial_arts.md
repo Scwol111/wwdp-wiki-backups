@@ -2,7 +2,7 @@
 title: Боевые искусства
 description: 
 published: false
-date: 2025-06-26T09:56:36.938Z
+date: 2025-06-26T21:45:54.826Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T12:16:01.117Z
@@ -60,7 +60,7 @@ CQC (Close Quarters Combat) - тактический метод ведения �
 <th>Описание</th>
 </tr></thead>
 <tr>
-<td><img src="/guides/cqc/legsweep.png"><img src="/guides/cqc/legsweep.png"><img src="/guides/cqc/legsweep.png"></td>
+<td><img src="/guides/cqc/legsweep.png"><img src="/guides/cqc/arrow.png"><img src="/guides/cqc/legsweep.png"></td>
 <td>Сбивает противника с ног на 12 секунд, нанося 50 единиц урона выносливости. Действует только на стоящих людей.</td>
 </tr>
 <tr>
