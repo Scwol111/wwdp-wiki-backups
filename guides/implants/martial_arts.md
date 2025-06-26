@@ -2,7 +2,7 @@
 title: Боевые искусства
 description: 
 published: false
-date: 2025-06-25T11:45:13.591Z
+date: 2025-06-26T09:15:21.189Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T12:16:01.117Z
@@ -15,10 +15,10 @@ dateCreated: 2025-03-25T12:16:01.117Z
 В ближнем бою используются разные виды взаимодействия с противником:
 
 <ul class="list">
-  <li><img src="/guides/cqc/harm.png"> — нажание <kbd>ЛКМ</kbd> по противнику в <b>Боевом режиме</b>. Обычный удар.</li>
-  <li><img src="/guides/cqc/disarm.png"> — </li>
-  <li><img src="/guides/cqc/grab.png"> — </li>
-  <li><img src="/guides/cqc/help.png"> — </li>
+  <li><img src="/guides/cqc/harm.png"> — нажатие <kbd>ЛКМ</kbd> по противнику в <b>Боевом режиме</b>. Обычный удар.</li>
+  <li><img src="/guides/cqc/disarm.png"> — нажатие <kbd>ПКМ</kbd> по противнику в <b>Боевом режиме</b>. Толкнуть и обезоружить.</li>
+  <li><img src="/guides/cqc/grab.png"> — нажатие <kbd>CTRL</kbd> + <kbd>ЛКМ</kbd> по противнику в <b>Боевом режиме</b>. Захватить и тащить.</li>
+  <li><img src="/guides/cqc/help.png"> — нажатие <kbd>CTRL</kbd> + <kbd>ЛКМ</kbd> по противнику в <b>Обычном режиме</b>. Захватить и тащить.</li>
 </ul>
 
 <span class="span">Иконки, показанные выше, не присутствуют в игре. Они используются в статье для быстрого понимания действия, необходимого для комбо.</span>
