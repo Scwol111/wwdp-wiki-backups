@@ -2,7 +2,7 @@
 title: Боевые искусства
 description: 
 published: false
-date: 2025-06-26T09:15:21.189Z
+date: 2025-06-26T09:20:37.921Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T12:16:01.117Z
