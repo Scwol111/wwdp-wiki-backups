@@ -2,7 +2,7 @@
 title: Боевые искусства
 description: 
 published: false
-date: 2025-06-26T22:03:45.259Z
+date: 2025-06-26T22:33:09.739Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T12:16:01.117Z
@@ -84,6 +84,8 @@ CQC (Close Quarters Combat) - тактический метод ведения �
 <td>Мощный и точный удар, который наносит 5 урона в голову и не позволяет жертве говорить на протяжении 20 секунд.</td>
 </tr>
 </table></center>
+
+<h2><img src="/guides/cqc/kravmaga.png">Контактный бой (Krav Maga)<img src="/guides/cqc/kravmaga.png"></h2>
 
 <center>
 <table class="sb">
