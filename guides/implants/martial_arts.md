@@ -2,7 +2,7 @@
 title: Боевые искусства
 description: 
 published: false
-date: 2025-06-26T23:08:56.561Z
+date: 2025-06-30T20:21:22.812Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T12:16:01.117Z
@@ -108,8 +108,10 @@ Krav Maga - прагматичный и эклектичный метод сам
 </tr>
 </table></center>
 
+<h3>Комбо приёмы</h3>
+
 <center>
-<table class="sb">
+<table class="sb img64">
 <thead>
 <tr>
 <th>Способность</th>
@@ -125,6 +127,44 @@ Krav Maga - прагматичный и эклектичный метод сам
 </tr>
 <tr>
 <td><img src="/guides/cqc/neckchop.png" width="64" height="64"><br>Neck Chop</td>
+<td>Мощный и точный удар, который наносит 5 урона в голову и не позволяет жертве говорить на протяжении 20 секунд.</td>
+</tr>
+</table></center>
+
+<h2><img src="/guides/cqc/mysteriousscroll.png">Путь спящего карпа<img src="/guides/cqc/carp.gif"></h2>
+
+<center>
+<table class="com">
+<thead>
+<tr>
+<th>Прием</th>
+<th>Описание</th>
+</tr></thead>
+<tr>
+<td><img src="/guides/cqc/harm.png"></td>
+<td>Е.</td>
+</tr>
+</table></center>
+
+<h3>Комбо приёмы</h3>
+
+<center>
+<table class="sb">
+<thead>
+<tr>
+<th>Способность</th>
+<th>Описание</th>
+</tr></thead>
+<tr>
+<td><img src="/guides/cqc/harm.png"><img src="/guides/cqc/arrow.png"><img src="/guides/cqc/harm.png"> <br> Gnashing Teeth</td>
+<td>Если цель не оглушена, оглушает цель на 4 секунды и наносит 5 урона.</td>
+</tr>
+<tr>
+<td><img src="/guides/cqc/harm.png"><img src="/guides/cqc/arrow.png"><img src="/guides/cqc/disarm.png"> <br> Crashing Waves Kick</td>
+<td>Наносит жертве 10 удушающего урона и не даёт жертве дышать на протяжении 10 секунд.</td>
+</tr>
+<tr>
+<td><img src="/guides/cqc/harm.png"><img src="/guides/cqc/arrow.png"><img src="/guides/cqc/grab.png"> <br> Keelhaul</td>
 <td>Мощный и точный удар, который наносит 5 урона в голову и не позволяет жертве говорить на протяжении 20 секунд.</td>
 </tr>
 </table></center>
