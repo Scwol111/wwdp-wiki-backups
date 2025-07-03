@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-03T19:40:39.201Z
+date: 2025-07-03T20:03:38.761Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -41,11 +41,12 @@ dateCreated: 2024-12-30T16:10:41.153Z
 Способен паразитировать на людях, при этом захватывая тела под свой контроль. Они прыгают на голову жертвы, пробивают череп жалом и добираются до нервной системы.
 
 ## Виды хедкрабов
-Хедкрабов можно разделить на 3 вида по расцветке: обычные, бледные и чёрные. 
+Хедкрабов можно разделить на 3 вида по расцветке: обычные, бледные и чёрные. Они-же отличаются друг от друга не только расцветкой.
 
 
 
 <p></p>
+
 <div class="stupid-crabs" style="display: flex; justify-content: center;" align="center">
 	<div class="stupider-crabs"><img src="/roles/headcrabs/headcrab-beautiful.png" width="300" height="300" style="filter: drop-shadow(0 0 40px black)"></div>
 	<div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-fast.png" width="300" height="300" style="filter: drop-shadow(0 0 40px black)"></div>
