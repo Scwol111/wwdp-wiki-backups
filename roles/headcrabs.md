@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-04T08:32:17.901Z
+date: 2025-07-04T08:48:38.861Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -46,22 +46,22 @@ dateCreated: 2024-12-30T16:10:41.153Z
 
 
 <p></p>
-<div style="border-radius: 13px; box-shadow: 1px 1px 40px #0b0b0b,1px 1px 40px #0b0b0b;">
-<div class="stupid-crabs" style="display: flex; justify-content: center; border-radius: 13px;" align="center" width="900">
-	<div class="stupider-crabs"><img src="/roles/headcrabs/headcrab-beautiful.png" width="300" height="300" style="filter: drop-shadow(0 0 40px black)"></div>
-	<div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-fast.png" width="300" height="300" style="filter: drop-shadow(0 0 40px black)"></div>
-  <div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-poison.png" width="300" height="300" style="filter: drop-shadow(0 0 40px black)"></div>
-</div>
-<div class="stupidest-crabs" style="display: flex; justify-content: center;" align="center" width="900">
-<div class="stupider-crabs" width="300">F</div>
-<div class="stupider-crabs" width="300">F</div>
-<div class="stupider-crabs" width="300">F</div>
-</div>
-<div class="stupidest-crabs" style="display: flex; justify-content: center;" align="center" width="900">
-  <div class="stupider-crabs" width="300">Обычные: ничем не выделяются от других видов своего рода. Зато они красивые.</div>
-	<div class="stupider-crabs" width="300">Бледные: отличаются увеличенной скоростью передвижения благодаря длинным конечностям.</div>
-  <div class="stupider-crabs" width="300">Чёрные: являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.</div>
-</div>
+<div style="border-radius: 13px; box-shadow: 1px 1px 40px #0b0b0b,1px 1px 40px #0b0b0b,inset 1px 1px 120px #0b0b0b,inset -1px -1px 120px #0b0b0b;">
+	<div class="stupid-crabs" style="display: flex; justify-content: center; border-radius: 13px;" align="center" width="900">
+		<div class="stupider-crabs"><img src="/roles/headcrabs/headcrab-beautiful.png" width="300" height="300" style="filter: drop-shadow(0 0 40px black)"></div>
+		<div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-fast.png" width="300" height="300" style="filter: drop-shadow(0 0 40px black)"></div>
+  	<div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-poison.png" width="300" height="300" style="filter: drop-shadow(0 0 40px black)"></div>
+	</div>
+	<div class="stupidest-crabs" style="display: flex; justify-content: center;" align="center" width="900">
+		<div class="stupider-crabs" width="300">F</div>
+		<div class="stupider-crabs" width="300">F</div>
+		<div class="stupider-crabs" width="300">F</div>
+	</div>
+	<div class="stupidest-crabs" style="display: flex; justify-content: center;" align="center" width="900">
+  	<div class="stupider-crabs" width="300">Обычные: ничем не выделяются от других видов своего рода. Зато они красивые.</div>
+		<div class="stupider-crabs" width="300">Бледные: отличаются увеличенной скоростью передвижения благодаря длинным конечностям.</div>
+  	<div class="stupider-crabs" width="300">Чёрные: являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.</div>
+	</div>
 </div>
 
 
