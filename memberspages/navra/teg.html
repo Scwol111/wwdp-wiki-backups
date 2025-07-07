@@ -2,175 +2,171 @@
 title: ТЭГ
 description: Трубоёб Виталя
 published: false
-date: 2025-07-06T19:17:45.783Z
+date: 2025-07-07T21:21:24.128Z
 tags: 
 editor: code
 dateCreated: 2025-04-26T18:32:42.626Z
 -->
 
-<div class="teg-guide-container">
-  <h1>Что такое ТЭГ</h1>
+<body>
+    <div class="teg-guide-container">
+        <h1 class="main-title">Что такое ТЭГ</h1>
 
-  <div class="teg-description-box">
-    <div class="teg-border-top-line"></div>
-    <div class="teg-description-inner">
-      <div class="teg-border-left-line"></div>
-      <div class="teg-text-block">
-        <p>ТЭГ — термоэлектрический генератор, один из самых безопасных и мощных источников энергии. Он вырабатывает электричество за счёт разницы температур поступающих в него газов: чем больше разница, тем выше выработка энергии — при этом генератор не сможет производить больше энергии, чем требует её потребители.</p>
-      </div>
-      <div class="teg-border-right-line"></div>
-    </div>
-    <div class="teg-border-bottom-line"></div>
-  </div>
+        <div class="teg-description-box">
+            <div class="teg-border-top-line"></div>
+            <div class="teg-description-inner">
+                <div class="teg-border-left-line"></div>
+                <div class="teg-text-block">
+                    <p>ТЭГ — термоэлектрический генератор, один из самых безопасных и мощных источников энергии. Он вырабатывает электричество за счёт разницы температур поступающих в него газов: чем больше разница, тем выше выработка энергии — при этом генератор не сможет производить больше энергии, чем требует её потребители.</p>
+                </div>
+                <div class="teg-border-right-line"></div>
+            </div>
+            <div class="teg-border-bottom-line"></div>
+        </div>
 
-<div class="blat"> <img class="main" src="/guides/engineering/teg/teg.gif" /> </div>
+        <div class="blat"> <img class="main" src="/guides/engineering/teg/teg.gif" /> </div>
 
-<p>Устройство состоит из двух циркуляторов и одной центральной части (сам ТЭГ). Газы подаются на циркуляторы, и деляться на холодный и горячий контур. </p>
- 
-<h2>Настройка горячего контура</h2>  
-<p>Для максимальной эффективности рекомендуется использовать сгоревшую газовую смесь, состоящую из:</p>
-<ul>
-  <li>95-99% кислорода <span> - (<b class="O2">O₂</b>)</span></li>
-  <li>1-5% плазмы <span> - (<b class="Plasma">Plasma</b>)</span></li>
-</ul>
-<p>Газы следует сжигать в изолированной камере сгорания, после чего подавать нагретую смесь в циркулятор.</p>
+        <p>Устройство состоит из двух циркуляторов и одной центральной части (сам ТЭГ). Газы подаются на циркуляторы, и деляться на холодный и горячий контур. </p>
+        
+        <h2 class="section-title">Настройка горячего контура</h2>  
+        <p>Для максимальной эффективности рекомендуется использовать сгоревшую газовую смесь, состоящую из:</p>
+        <ul class="styled-list">
+            <li>95-99% кислорода <span> - (<b class="O2">O₂</b>)</span></li>
+            <li>1-5% плазмы <span> - (<b class="Plasma">Plasma</b>)</span></li>
+        </ul>
+        <p>Газы следует сжигать в изолированной камере сгорания, после чего подавать нагретую смесь в циркулятор.</p>
 
-<h2>Настройка холодного контура</h2>
-<p>Для холодного контура подходит любой газ, однако чаще всего используют:</p>
-<ul>
-  <li>Азот <span> - (<b class="N2">N₂</b>)</span></li>
-  <li>Диоксид углерода <span> - (<b class="CO2">CO₂</b>)</span></li>
-</ul>
+        <h2 class="section-title">Настройка холодного контура</h2>
+        <p>Для холодного контура подходит любой газ, однако чаще всего используют:</p>
+        <ul class="styled-list">
+            <li>Азот <span> - (<b class="N2">N₂</b>)</span></li>
+            <li>Диоксид углерода <span> - (<b class="CO2">CO₂</b>)</span></li>
+        </ul>
 
-<p>Существует два основных способа организации холодного контура:</p>
-<ol>
-  <li>Использование газодобытчиков с последующим сбросом отработанного газа в космос (открытая система)</li>
-  <li>Применение радиаторов для охлаждения газа в замкнутом контуре (требует предварительной закачки газа)</li>
-</ol>
-
-<h2>Схемы работа ТЭГа</h2>
-
-<p>Схемы работы ТЭГа можно условно поделить на 3 типа:</p>
-<ul>
-  <li>Открытая - все газы покидают систему</li>
-  <li>Полузамкнутая - один из газов покидает систему</li>
-  <li>Замкнутая - газы не покидают систему</li>
-</ul>
-
-<h2>Примеры рабочих схем</h2>
-
-<div class="teg-schemes">
-  <!-- Открытая схема -->
-  <div class="scheme-wrapper">
-    <div class="scheme-header" style="--accent-color: #ff5e5e;">
-      <h3>⎔ ОТКРЫТАЯ СХЕМА</h3>
-      <div class="scheme-type">BASIC</div>
-    </div>
-    
-    <div class="scheme-container">
-      <div class="scheme-visual">
-        <img class="zoomable" src="/guides/engineering/teg/123.png" alt="Открытая схема ТЭГ"/>
-      </div>
-      
-      <div class="scheme-divider"></div>
-      
-      <div class="scheme-info">
-        <ol class="scheme-steps">
-          <li><span>1</span> Труба подачи горячего газа (левый циркулятор)</li>
-          <li><span>2</span> Охлаждение горячего газа</li>
-          <li><span>3</span> Труба подачи холодного газа (правый циркулятор)</li>
+        <p>Существует два основных способа организации холодного контура:</p>
+        <ol class="numbered-list">
+            <li>Использование газодобытчиков с последующим сбросом отработанного газа в космос (открытая система)</li>
+            <li>Применение радиаторов для охлаждения газа в замкнутом контуре (требует предварительной закачки газа)</li>
         </ol>
-      </div>
+
+        <h2 class="section-title">Схемы работы ТЭГа</h2>
+        <p>Схемы работы ТЭГа можно условно поделить на 3 типа:</p>
+        <ul class="styled-list">
+            <li>Открытая - все газы покидают систему</li>
+            <li>Полузамкнутая - один из газов покидает систему</li>
+            <li>Замкнутая - газы не покидают систему</li>
+        </ul>
+
+        <h2 class="section-title">Примеры рабочих схем</h2>
+
+        <div class="teg-schemes">
+            <!-- Открытая схема -->
+            <div class="scheme-wrapper">
+                <div class="scheme-header" style="--accent-color: #ff5e5e;">
+                    <h3>⎔ ОТКРЫТАЯ СХЕМА</h3>
+                    <div class="scheme-type">BASIC</div>
+                </div>
+                
+                <div class="scheme-container">
+                    <div class="scheme-visual">
+                        <img class="zoomable" src="/guides/engineering/teg/123.png" alt="Открытая схема ТЭГ"/>
+                    </div>
+                    
+                    <div class="scheme-divider"></div>
+                    
+                    <div class="scheme-info">
+                        <ol class="scheme-steps">
+                            <li><span>1</span> Труба подачи горячего газа (левый циркулятор)</li>
+                            <li><span>2</span> Охлаждение горячего газа</li>
+                            <li><span>3</span> Труба подачи холодного газа (правый циркулятор)</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Полузамкнутая схема -->
+            <div class="scheme-wrapper">
+                <div class="scheme-header" style="--accent-color: #5e8cff;">
+                    <h3>⎔ ПОЛУЗАМКНУТАЯ СХЕМА</h3>
+                    <div class="scheme-type">ADVANCED</div>
+                </div>
+                
+                <div class="scheme-container">
+                    <div class="scheme-visual">
+                        <img class="zoomable" src="/guides/engineering/teg/12345.png" alt="Полузамкнутая схема ТЭГ"/>
+                    </div>
+                    
+                    <div class="scheme-divider"></div>
+                    
+                    <div class="scheme-info">
+                        <ol class="scheme-steps">
+                            <li><span>1</span> Подача горячего газа</li>
+                            <li><span>2</span> Сброс в космос</li>
+                            <li><span>3</span> Подача холодного газа</li>
+                            <li><span>4</span> Космические радиаторы</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Замкнутая схема -->
+            <div class="scheme-wrapper">
+                <div class="scheme-header" style="--accent-color: #5eff8c;">
+                    <h3>⎔ ЗАМКНУТАЯ СХЕМА</h3>
+                    <div class="scheme-type">EXPERT</div>
+                </div>
+                
+                <div class="scheme-container">
+                    <div class="scheme-visual">
+                        <img class="zoomable" src="/guides/engineering/teg/123456.png" alt="Замкнутая схема ТЭГ" style="max-height: none; height: auto;"/>
+                    </div>
+                    
+                    <div class="scheme-divider"></div>
+                    
+                    <div class="scheme-info">
+                        <ol class="scheme-steps">
+                            <li><span>1</span> Камера сгорания</li>
+                            <li><span>2</span> Защитный инжектор</li>
+                            <li><span>3</span> Вторая камера (100-3000 кПа)</li>
+                            <li><span>4</span> Пассивная вентиляция</li>
+                            <li><span>5</span> Насосная система</li>
+                            <li><span>6</span> Левый циркулятор</li>
+                            <li><span>7</span> Рециркуляция газа</li>
+                            <li><span>8</span> Правый циркулятор</li>
+                            <li><span>9</span> Космические радиаторы</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h2 class="section-title">Возможные проблемы и их решения</h2>
+
+        <div class="issue-box">
+            <h3 class="issue-title">Проблема: ТЭГ даёт мало энергии</h3>
+            <p><strong>Возможные решения:</strong></p>
+            <ol class="numbered-list">
+                <li>Отключите ДАМ или другие источники питания - пока они активны, ТЭГ не будет работать на полную мощность.</li>
+                <li>Проверьте разницу температур с помощью газоанализатора. Если разница недостаточная:
+                    <ul class="styled-list">
+                        <li>Увеличьте нагрев горячего контура</li>
+                        <li>Увеличьте охлаждение холодного контура</li>
+                        <li>Увеличьте подачу газов</li>
+                    </ul>
+                </li>
+            </ol>
+        </div>
+
+        <div class="issue-box">
+            <h3 class="issue-title">Проблема: ТЭГ вообще не даёт энергии</h3>
+            <p><strong>Возможное решение:</strong></p>
+            <ul class="styled-list">
+                <li>Циркулируют ли газы в системе (работают ли насосы)</li>
+                <li>Подключён ли высоковольтный кабель к проводке станции</li>
+            </ul>
+        </div>
+
+        <h2 class="section-title">Итоги</h2>
+        <p class="conclusion-text">В постройке ТЭГа вас почти ничего не ограничивает, если вы совершили ошибку это не страшно в отличие от ошибки в Тесле или Сингулярности. Экспериментируйте, создавайте и делитесь в сообществе своими необычными схемами, может быть именно ваша схема станет самой лучшей и популярной.</p>
     </div>
-  </div>
-
-  <!-- Полузамкнутая схема -->
-  <div class="scheme-wrapper">
-    <div class="scheme-header" style="--accent-color: #5e8cff;">
-      <h3>⎔ ПОЛУЗАМКНУТАЯ СХЕМА</h3>
-      <div class="scheme-type">ADVANCED</div>
-    </div>
-    
-    <div class="scheme-container">
-      <div class="scheme-visual">
-        <img class="zoomable" src="/guides/engineering/teg/12345.png" alt="Полузамкнутая схема ТЭГ"/>
-      </div>
-      
-      <div class="scheme-divider"></div>
-      
-      <div class="scheme-info">
-        <ol class="scheme-steps">
-          <li><span>1</span> Подача горячего газа</li>
-          <li><span>2</span> Сброс в космос</li>
-          <li><span>3</span> Подача холодного газа</li>
-          <li><span>4</span> Космические радиаторы</li>
-        </ol>
-      </div>
-    </div>
-  </div>
-
-  <!-- Замкнутая схема -->
-  <div class="scheme-wrapper">
-    <div class="scheme-header" style="--accent-color: #5eff8c;">
-      <h3>⎔ ЗАМКНУТАЯ СХЕМА</h3>
-      <div class="scheme-type">EXPERT</div>
-    </div>
-    
-    <div class="scheme-container">
-      <div class="scheme-visual">
-        <img class="zoomable" src="/guides/engineering/teg/123456.png" alt="Замкнутая схема ТЭГ" style="max-height: none; height: auto;"/>
-      </div>
-      
-      <div class="scheme-divider"></div>
-      
-      <div class="scheme-info">
-        <ol class="scheme-steps">
-          <li><span>1</span> Камера сгорания</li>
-          <li><span>2</span> Защитный инжектор</li>
-          <li><span>3</span> Вторая камера (100-3000 кПа)</li>
-          <li><span>4</span> Пассивная вентиляция</li>
-          <li><span>5</span> Насосная система</li>
-          <li><span>6</span> Левый циркулятор</li>
-          <li><span>7</span> Рециркуляция газа</li>
-          <li><span>8</span> Правый циркулятор</li>
-          <li><span>9</span> Космические радиаторы</li>
-        </ol>
-      </div>
-    </div>
-  </div>
-</div>
-
-<h2>Возможные проблемы и их решения</h2>
-
-<div class="issue">
-  <h3>Проблема: ТЭГ даёт мало энергии</h3>
-  <p><strong>Возможные решения:</strong></p>
-  <ol>
-    <li>
-      Отключите ДАМ или другие источники питания - пока они активны, ТЭГ не будет работать на полную мощность.
-    </li>
-    <li>
-      Проверьте разницу температур с помощью газоанализатора. Если разница недостаточная:
-      <ul>
-        <li>Увеличьте нагрев горячего контура</li>
-        <li>Увеличьте охлаждение холодного контура</li>
-        <li>Увеличьте подачу газов</li>
-      </ul>
-    </li>
-  </ol>
-</div>
-
-<div class="issue">
-  <h3>Проблема: ТЭГ вообще не даёт энергии</h3>
-  <p><strong>Возможное решение:</strong></p>
-  <ul>
-    <li>Циркулируют ли газы в системе (работают ли насосы)</li>
-    <li>Подключён ли высоковольтный кабель к проводке станции</li>
-  </ul>
-</div>
-
-<h2>Итоги</h2>
-
-<p>В постройке ТЭГа вас почти ничего не ограничивает, если вы совершили ошибку это не страшно в отличие от ошибки в Тесле или Сингулярности. Экспериментируйте, создавайте и делитесь в сообществе своими необычными схемами, может быть именно ваша схема станет самой лучшей и популярной.</p>
-  
-</div>
+</body>
