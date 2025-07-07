@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-07T06:45:50.182Z
+date: 2025-07-07T06:49:51.690Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -53,14 +53,14 @@ dateCreated: 2024-12-30T16:10:41.153Z
   	<div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-poison.png" width="300" height="300" style="filter: drop-shadow(0 0 40px black)"></div>
 	</div>
 	<div class="stupidest-crabs" style="display: flex; justify-content: center;" align="center" width="900">
-		<div class="stupider-crabs" width="300"><strong>Обычный краб</strong></div>
-		<div class="stupider-crabs" width="300"><strong>Быстрый краб</strong></div>
-		<div class="stupider-crabs" width="300"><strong>Ядовитый краб</strong></div>
+		<div class="stupider-crabs" width="300"><strong>Обычный хедкраб</strong></div>
+		<div class="stupider-crabs" width="300"><strong>Быстрый хедкраб</strong></div>
+		<div class="stupider-crabs" width="300"><strong>Ядовитый хедкраб</strong></div>
 	</div>
 	<div class="stupidest-crabs" style="display: flex; justify-content: center;" align="center" width="900">
-  	<div class="stupider-crabs" width="300">Обычные: ничем не выделяются от других видов своего рода. Зато они красивые.</div>
-		<div class="stupider-crabs" width="300">Бледные: отличаются увеличенной скоростью передвижения благодаря длинным конечностям.</div>
-  	<div class="stupider-crabs" width="300">Чёрные: являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.</div>
+  	<div class="stupider-crabs" width="300">Обычные бежевые хедкрабы ничем не выделяются от других видов своего рода. Зато они красивые.</div>
+		<div class="stupider-crabs" width="300">Бледного вида крабы отличаются увеличенной скоростью передвижения благодаря увеличенным конечностям.</div>
+  	<div class="stupider-crabs" width="300">Чёрные хедкрабы являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.</div>
 	</div>
 </div>
 
@@ -74,7 +74,7 @@ dateCreated: 2024-12-30T16:10:41.153Z
 ## <img src="/roles/headcrabs/equipped-helmet.png" width="33" height="33"> <i>АААААА! СНИМИТЕ С МЕНЯ ЭТУ ДРЯНЬ!</i>
 <ul>
 	<li>В хедкраба можно вселиться будучи <a href="https://wiki.wwdp.ee/ru/roles/ghost">призраком</a>. Если в краба никто не вселится, он сделает всё сам.
-  <li>Возрождать тело с хедкрабом на голове - НЕЛЬЗЯ!
+  <li>Возрождать тело с <u>закреплённым</u> хедкрабом на голове - НЕЛЬЗЯ!
 	<li>Никакой	шлем не спасает от захвата хедкраба.
 	<li>Хедкраба нельзя снять с человека, пока тот жив.
 	<li>Человек, подконтрольный крабом, не теряет сознание.
