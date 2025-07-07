@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-07T06:38:41.477Z
+date: 2025-07-07T06:43:04.205Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -41,7 +41,7 @@ dateCreated: 2024-12-30T16:10:41.153Z
 Способен паразитировать на людях, при этом захватывая тела под свой контроль. Они прыгают на голову жертвы, пробивают череп жалом и добираются до нервной системы.
 
 ## Виды хедкрабов
-Хедкрабов можно разделить на 3 вида по расцветке: обычные, бледные и чёрные. Они-же отличаются друг от друга не только расцветкой.
+Хедкрабов можно разделить на 3 вида по расцветке: обычные, бледные и чёрные. Они-же отличаются друг от друга не только расцветкой, но и особенностями.
 
 
 
@@ -53,9 +53,9 @@ dateCreated: 2024-12-30T16:10:41.153Z
   	<div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-poison.png" width="300" height="300" style="filter: drop-shadow(0 0 40px black)"></div>
 	</div>
 	<div class="stupidest-crabs" style="display: flex; justify-content: center;" align="center" width="900">
-		<div class="stupider-crabs" width="300">F</div>
-		<div class="stupider-crabs" width="300">F</div>
-		<div class="stupider-crabs" width="300">F</div>
+		<div class="stupider-crabs" width="300"><strong>Обычный краб</strong></div>
+		<div class="stupider-crabs" width="300"><strong>Быстрый краб</strong></div>
+		<div class="stupider-crabs" width="300"><strong>Ядовитый краб</strong></div>
 	</div>
 	<div class="stupidest-crabs" style="display: flex; justify-content: center;" align="center" width="900">
   	<div class="stupider-crabs" width="300">Обычные: ничем не выделяются от других видов своего рода. Зато они красивые.</div>
