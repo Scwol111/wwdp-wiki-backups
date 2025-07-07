@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-07T09:30:19.579Z
+date: 2025-07-07T09:30:48.073Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -58,9 +58,9 @@ dateCreated: 2024-12-30T16:10:41.153Z
 		<div class="stupider-crabs" width="300"><strong>Ядовитый хедкраб</strong></div>
 	</div>
 	<div class="stupidest-crabs" style="display: flex; justify-content: center;" align="center" width="900">
-  	<div class="stupider-crabs" width="300" style="margin: 2px;">Обычные бежевые хедкрабы ничем не выделяются от других видов своего рода. Зато они красивые.</div>
-		<div class="stupider-crabs" width="300" style="margin: 2px;">Бледного вида крабы отличаются увеличенной скоростью передвижения благодаря увеличенным конечностям.</div>
-  	<div class="stupider-crabs" width="300" style="margin: 2px;">Чёрные хедкрабы являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.</div>
+  	<div class="stupider-crabs" width="300" style="margin: 1px;">Обычные бежевые хедкрабы ничем не выделяются от других видов своего рода. Зато они красивые.</div>
+		<div class="stupider-crabs" width="300" style="margin: 1px;">Бледного вида крабы отличаются увеличенной скоростью передвижения благодаря увеличенным конечностям.</div>
+  	<div class="stupider-crabs" width="300" style="margin: 1px;">Чёрные хедкрабы являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.</div>
 	</div>
 </div>
 
