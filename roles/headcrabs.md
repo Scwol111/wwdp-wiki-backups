@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-10T11:25:36.420Z
+date: 2025-07-10T11:30:34.254Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -48,15 +48,15 @@ dateCreated: 2024-12-30T16:10:41.153Z
 <p></p>
 <div class="main-crab">
 	<div class="stupid-crabs">
-		<div class="def-crab"><img src="/roles/headcrabs/headcrab-beautiful.png"></div>
-		<div class="fast-crab"><img src="/roles/headcrabs/headcrab-fast.png"></div>
-  	<div class="poison-crab"><img src="/roles/headcrabs/headcrab-poison.png"></div>
+		<div id="def-crab"><img src="/roles/headcrabs/headcrab-beautiful.png"></div>
+		<div id="fast-crab"><img src="/roles/headcrabs/headcrab-fast.png"></div>
+  	<div id="poison-crab"><img src="/roles/headcrabs/headcrab-poison.png"></div>
 	</div>
-	<div class="ultra-stupid-crabs">
-    <div class="crabs-info">Нажмите бубубубубу чтобы бубубубубу.</div>
-		<div class="def-crab-text"><strong>Обычный хедкраб</strong>Обычные бежевые хедкрабы ничем не выделяются от других видов своего рода. Зато они красивые.</div>
-		<div class="fast-crab-text"><strong>Быстрый хедкраб</strong>Бледного вида крабы отличаются увеличенной скоростью передвижения благодаря увеличенным конечностям</div>
-		<div class="poison-crab-text"><strong>Ядовитый хедкраб</strong>Чёрные хедкрабы являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.</div>
+	<div id="ultra-stupid-crabs">
+    <div id="crabs-info">Нажмите бубубубубу чтобы бубубубубу.</div>
+		<div id="def-crab-text"><strong>Обычный хедкраб</strong>Обычные бежевые хедкрабы ничем не выделяются от других видов своего рода. Зато они красивые.</div>
+		<div id="fast-crab-text"><strong>Быстрый хедкраб</strong>Бледного вида крабы отличаются увеличенной скоростью передвижения благодаря увеличенным конечностям</div>
+		<div id="poison-crab-text"><strong>Ядовитый хедкраб</strong>Чёрные хедкрабы являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.</div>
 	</div>
 </div>
 
