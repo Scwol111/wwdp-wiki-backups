@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-10T11:30:34.254Z
+date: 2025-07-10T16:28:10.128Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -46,20 +46,14 @@ dateCreated: 2024-12-30T16:10:41.153Z
 
 
 <p></p>
-<div class="main-crab">
-	<div class="stupid-crabs">
-		<div id="def-crab"><img src="/roles/headcrabs/headcrab-beautiful.png"></div>
-		<div id="fast-crab"><img src="/roles/headcrabs/headcrab-fast.png"></div>
-  	<div id="poison-crab"><img src="/roles/headcrabs/headcrab-poison.png"></div>
-	</div>
-	<div id="ultra-stupid-crabs">
-    <div id="crabs-info">Нажмите бубубубубу чтобы бубубубубу.</div>
-		<div id="def-crab-text"><strong>Обычный хедкраб</strong>Обычные бежевые хедкрабы ничем не выделяются от других видов своего рода. Зато они красивые.</div>
-		<div id="fast-crab-text"><strong>Быстрый хедкраб</strong>Бледного вида крабы отличаются увеличенной скоростью передвижения благодаря увеличенным конечностям</div>
-		<div id="poison-crab-text"><strong>Ядовитый хедкраб</strong>Чёрные хедкрабы являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.</div>
-	</div>
+<div class="grid-container">
+  <div class="grid-item">Блок 1</div>
+  <div class="grid-item">Блок 2</div>
+  <div class="grid-item">Блок 3</div>
+  <div class="grid-item">Блок 4</div>
+  <div class="grid-item">Блок 5</div>
+  <div class="grid-item">Блок 6</div>
 </div>
-
 
 <hr>
 После смерти хедкраба его труп можно использовать как косметический головной убор. Уж если вам это сильно понравилось, то окей. 
