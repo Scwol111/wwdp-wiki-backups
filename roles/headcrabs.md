@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-10T10:45:30.428Z
+date: 2025-07-10T11:20:59.642Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -47,20 +47,15 @@ dateCreated: 2024-12-30T16:10:41.153Z
 
 <p></p>
 <div class="main-crab">
-	<div class="stupid-crabs" width="900">
-		<div class="stupider-crabs"><img src="/roles/headcrabs/headcrab-beautiful.png" width="300" height="300"></div>
-		<div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-fast.png" width="300" height="300"></div>
-  	<div  class="stupider-crabs"><img src="/roles/headcrabs/headcrab-poison.png" width="300" height="300"></div>
+	<div class="stupid-crabs">
+		<div class="def-crab"><img src="/roles/headcrabs/headcrab-beautiful.png"></div>
+		<div class="fast-crab"><img src="/roles/headcrabs/headcrab-fast.png"></div>
+  	<div class="poison-crab"><img src="/roles/headcrabs/headcrab-poison.png"></div>
 	</div>
-	<div class="ultra-stupid-crabs" width="900">
-		<div class="stupider-crabs" width="300"><strong>Обычный хедкраб</strong></div>
-		<div class="stupider-crabs" width="300"><strong>Быстрый хедкраб</strong></div>
-		<div class="stupider-crabs" width="300"><strong>Ядовитый хедкраб</strong></div>
-	</div>
-	<div class="stupidest-crabs" align="center" width="900">
-  	<div class="stupider-crabs" width="300">Обычные бежевые хедкрабы ничем не выделяются от других видов своего рода. Зато они красивые.</div>
-		<div class="stupider-crabs" width="300">Бледного вида крабы отличаются увеличенной скоростью передвижения благодаря увеличенным конечностям.</div>
-  	<div class="stupider-crabs" width="300">Чёрные хедкрабы являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.</div>
+	<div class="ultra-stupid-crabs">
+		<div class="def-crab"><strong>Обычный хедкраб</strong>Обычные бежевые хедкрабы ничем не выделяются от других видов своего рода. Зато они красивые.</div>
+		<div class="fast-crab"><strong>Быстрый хедкраб</strong>Бледного вида крабы отличаются увеличенной скоростью передвижения благодаря увеличенным конечностям</div>
+		<div class="poison-crab"><strong>Ядовитый хедкраб</strong>Чёрные хедкрабы являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.</div>
 	</div>
 </div>
 
@@ -71,7 +66,7 @@ dateCreated: 2024-12-30T16:10:41.153Z
 <img src="/roles/headcrabs/equipped-alive.png" width="100" height="100"> -- живая особь, овладевшая телом. Конечности сложены.
 <img src="/roles/headcrabs/equipped-dead.png" width="100" height="100"> -- мёртвая особь. Конечности расслаблены.
 
-## <img src="/roles/headcrabs/equipped-helmet.png" width="33" height="33"> <i>АААААА! СНИМИТЕ С МЕНЯ ЭТУ ДРЯНЬ!</i>
+## <img src="/roles/headcrabs/equipped-helmet.png" width="32" height="32"> <i>АААААА! СНИМИТЕ С МЕНЯ ЭТУ ДРЯНЬ!</i>
 <ul>
 	<li>В хедкраба можно вселиться будучи <a href="https://wiki.wwdp.ee/ru/roles/ghost">призраком</a>. Если в краба никто не вселится, он сделает всё сам.
   <li>Возрождать тело с <u>закреплённым</u> хедкрабом на голове - НЕЛЬЗЯ!
