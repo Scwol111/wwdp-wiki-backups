@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-17T07:14:49.342Z
+date: 2025-07-17T07:19:28.076Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -53,9 +53,9 @@ dateCreated: 2024-12-30T16:10:41.153Z
   	<div id="poison-crab"><img src="/roles/headcrabs/headcrab-poison.png"></div>
   </div>
  	<div id="big-brain-crab">
-  	<div id="def-crab-text">f<p>f</div>
-  	<div id="fast-crab-text">f<p>f</div>
-  	<div id="poison-crab-text">f<p>f</div>
+  	<div id="def-crab-text">Обычный хедкраб<p>Обычные бежевые хедкрабы ничем не выделяются от других видов своего рода. Зато они красивые.</div>
+  	<div id="fast-crab-text">Быстрый хедкраб<p>f</div>
+  	<div id="poison-crab-text">Ядовитый хедкраб<p>f</div>
   </div>
 </div>
 
