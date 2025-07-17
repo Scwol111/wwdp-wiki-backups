@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-17T08:32:46.598Z
+date: 2025-07-17T08:56:04.395Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -53,6 +53,7 @@ dateCreated: 2024-12-30T16:10:41.153Z
   	<div id="poison-crab"><img src="/roles/headcrabs/headcrab-poison.png"></div>
   </div>
  	<div id="big-brain-crab">
+    <div id="crabs-info"><strong>Нажмите на иконку краба, чтобы узнать больше.</strong></div>
     <div id="def-crab-text"><b>Обычный хедкраб</b><p>Обычные бежевые хедкрабы ничем не выделяются от других видов своего рода. Зато они красивые.</div>
   	<div id="fast-crab-text"><b>Быстрый хедкраб</b><p>Бледного вида крабы отличаются увеличенной скоростью передвижения благодаря увеличенным конечностям.</div>
   	<div id="poison-crab-text"><b>Ядовитый хедкраб</b><p>Чёрные хедкрабы являются ядовитыми. Помимо остальных паразитических способностей он наносит урон ядами хозяину.</div>
