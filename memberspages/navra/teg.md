@@ -2,7 +2,7 @@
 title: ТЭГ
 description: Трубоёб Виталя
 published: false
-date: 2025-07-17T06:43:33.483Z
+date: 2025-07-17T07:04:06.295Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-26T18:32:42.626Z
@@ -127,8 +127,11 @@ dateCreated: 2025-04-26T18:32:42.626Z
 <h2 class="section-title">Возможные проблемы и решения</h2>
 
 <div class="issue-box">
+  <div>
   <h3 class="issue-title">ТЭГ даёт мало энергии</h3>
-  <p><strong>Проверьте следующие моменты:</strong></p>
+  </div>
+  <div></div>
+  <div><p><strong>Проверьте следующие моменты:</strong></p>
   <ol class="numbered-list">
     <li>Отключите ДАМ или другие источники питания - пока они активны, ТЭГ не будет работать на полную мощность.</li>
     <li>Проверьте разницу температур с помощью газоанализатора. Если разница недостаточная:
@@ -139,14 +142,20 @@ dateCreated: 2025-04-26T18:32:42.626Z
       </ul>
     </li>
   </ol>
+  </div>
 </div>
 <div class="issue-box">
+  <div>
   <h3 class="issue-title">ТЭГ не даёт энергии</h3>
+  </div>
+  <div></div>
+  <div>
   <p><strong>Проверьте:</strong></p>
   <ul class="styled-list">
     <li>Циркулируют ли газы в системе (работают ли насосы)</li>
     <li>Подключён ли высоковольтный кабель к проводке станции</li>
   </ul>
+    </div>
 </div>
 
 <h2 class="section-title">Итоги</h2>
