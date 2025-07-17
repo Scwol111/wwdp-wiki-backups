@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-17T15:01:20.369Z
+date: 2025-07-17T15:54:15.392Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -70,27 +70,27 @@ dateCreated: 2024-12-30T16:10:41.153Z
 
   
 <div id="who-is-who">
-  <div id="1st-crab">
-    <div id="top-part">
-      <div id="triangle triangle-left">triangle</div>
-      <div id="gif-crab">
+  <div id="first-crab">
+    <div class="top-part">
+      <div class="triangle triangle-left">triangle</div>
+      <div class="gif-crab">
         <img src="/roles/headcrabs/equipped-helmet.png">
       </div>
-      <div id="triangle triangle-right">triangle</div>
+      <div class="triangle triangle-right">triangle</div>
     </div>
-    <div id="bottom-part">
+    <div class="bottom-part">
       <span>crab1</span>
     </div>
   </div>
-  <div id="2nd-crab">
-    <div id="top-part">
-      <div id="triangle triangle-left">triangle</div>
-      <div id="gif-crab">
+  <div id="second-crab">
+    <div class="top-part">
+      <div class="triangle triangle-left">triangle</div>
+      <div class="gif-crab">
         <img src="/roles/headcrabs/equipped-helmet.png">
       </div>
-      <div id="triangle triangle-right">triangle</div>
+      <div class="triangle triangle-right">triangle</div>
     </div>
-    <div id="bottom-part">
+    <div class="bottom-part">
       <span>crab2</span>
     </div>
   </div>
