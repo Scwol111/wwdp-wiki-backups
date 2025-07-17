@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-17T10:55:40.447Z
+date: 2025-07-17T11:13:18.515Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -72,18 +72,21 @@ dateCreated: 2024-12-30T16:10:41.153Z
 <div id="who-is-who">
   <div id="who-is-img">
   	<div id="triangle-left"></div>
-  		<img id="who-is-img" src="/roles/headcrabs/equipped-alive.png" width="100" height="100">
-  	<div id="triangle-right"></div>
-  	<div id="triangle-left"></div>
-  		<img id="who-is-img" src="/roles/headcrabs/equipped-dead.png" width="100" height="100"> 
+  		<img id="who-is-img" src="/roles/headcrabs/equipped-alive.png">
   	<div id="triangle-right"></div>
   </div>
   <div id="who-is-txt">
     <div id="who-is-alive">Живая особь, овладевшая телом. Конечности сложены.</div>
+  </div>
+  <div id="who-is-img">
+  	<div id="triangle-left"></div>
+  		<img id="who-is-img" src="/roles/headcrabs/equipped-dead.png"> 
+  	<div id="triangle-right"></div>
+  </div>
+  <div id="who-is-txt"> 
     <div id="who-is-dead">Мёртвая особь. Конечности расслаблены.</div>
   </div>
 </div>
-
 
 
 ## <img src="/roles/headcrabs/equipped-helmet.png" width="32" height="32"> <i>АААААА! СНИМИТЕ С МЕНЯ ЭТУ ДРЯНЬ!</i>
