@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-17T11:14:44.768Z
+date: 2025-07-17T13:09:31.051Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -74,16 +74,12 @@ dateCreated: 2024-12-30T16:10:41.153Z
   	<div id="triangle triangle-left"></div>
   		<img id="who-is-img" src="/roles/headcrabs/equipped-alive.png">
   	<div id="triangle triangle-right"></div>
-  </div>
-  <div id="who-is-txt">
-    <div id="who-is-alive">Живая особь, овладевшая телом. Конечности сложены.</div>
-  </div>
-  <div id="who-is-img">
   	<div id="triangle triangle-left"></div>
   		<img id="who-is-img" src="/roles/headcrabs/equipped-dead.png"> 
   	<div id="triangle triangle-right"></div>
   </div>
   <div id="who-is-txt"> 
+    <div id="who-is-alive">Живая особь, овладевшая телом. Конечности сложены.</div>
     <div id="who-is-dead">Мёртвая особь. Конечности расслаблены.</div>
   </div>
 </div>
