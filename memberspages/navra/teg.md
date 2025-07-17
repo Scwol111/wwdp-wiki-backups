@@ -2,7 +2,7 @@
 title: ТЭГ
 description: Трубоёб Виталя
 published: false
-date: 2025-07-17T07:13:00.563Z
+date: 2025-07-17T14:36:42.919Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-26T18:32:42.626Z
