@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-17T09:22:46.038Z
+date: 2025-07-17T09:55:29.667Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -65,12 +65,11 @@ dateCreated: 2024-12-30T16:10:41.153Z
 
 После смерти хедкраба его труп можно использовать как косметический головной убор. Уж если вам это сильно понравилось, то окей. 
 <p>Но стоит видеть разницу между живым и мёртвым хедкрабами на головах. Их можно отличить по положению конечностей. Рассмотрим на примере обычного хедкраба.</p>
+<p>
 
 
-
-
-<img src="/roles/headcrabs/equipped-alive.png" width="100" height="100"> -- живая особь, овладевшая телом. Конечности сложены.<img src="/roles/headcrabs/equipped-dead.png" width="100" height="100"> -- мёртвая особь. Конечности расслаблены.
-
+<div id="triangle-left">triangle-l</div><div id="who-is-img">img</div><div id="triangle-right">triangle-r</div>
+<div id="who-is-who-text">txt</div>
 
 
 
