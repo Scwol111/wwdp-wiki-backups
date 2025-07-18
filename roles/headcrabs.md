@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-18T09:44:15.946Z
+date: 2025-07-18T10:01:00.597Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -86,7 +86,7 @@ dateCreated: 2024-12-30T16:10:41.153Z
     <div id="top-part">
       <div class="triangle triangle-left"></div>
       <div id="gif-crab">
-        <img src="/roles/headcrabs/equipped-helmet.png">
+        <img src="/roles/headcrabs/humacrab-dead.gif">
       </div>
       <div class="triangle triangle-right"></div>
     </div>
