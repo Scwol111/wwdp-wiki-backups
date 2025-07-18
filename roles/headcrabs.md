@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-18T18:52:07.250Z
+date: 2025-07-18T19:27:55.485Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -49,7 +49,7 @@ dateCreated: 2024-12-30T16:10:41.153Z
 <div id="main-crab">
   <div id="stupid-crabs">
  		<div class="passive-crab" id="def-crab"><img src="/roles/headcrabs/headcrab-beautiful.png"></div>
-  	<div class="active-crab" id="fast-crab"><img src="/roles/headcrabs/headcrab-fast.png"></div>
+  	<div class="passive-crab" id="fast-crab"><img src="/roles/headcrabs/headcrab-fast.png"></div>
   	<div class="passive-crab" id="poison-crab"><img src="/roles/headcrabs/headcrab-poison.png"></div>
   </div>
  	<div id="big-brain-crab">
