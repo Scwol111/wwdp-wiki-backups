@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-18T11:38:30.674Z
+date: 2025-07-18T12:44:15.676Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -72,11 +72,9 @@ dateCreated: 2024-12-30T16:10:41.153Z
 <div id="who-is-who">
   <div id="first-crab">
     <div id="top-part">
-      <div class="triangle triangle-left"></div>
       <div class="alive-crab" id="gif-crab">
         <img src="/roles/headcrabs/humacrab-alive.gif">
       </div>
-      <div class="triangle triangle-right"></div>
     </div>
     <div class="bottom-part">
       <span>Живая особь. Она овладела телом. Её конечности сжаты и крепко зафиксированы.</span>
@@ -84,11 +82,9 @@ dateCreated: 2024-12-30T16:10:41.153Z
   </div>
   <div id="second-crab">
     <div id="top-part">
-      <div class="triangle triangle-left"></div>
       <div class="dead-crab" id="gif-crab">
         <img src="/roles/headcrabs/humacrab-dead.gif">
       </div>
-      <div class="triangle triangle-right"></div>
     </div>
     <div class="bottom-part">
       <span>Мёртвая особь. Труп краба был надет на голову и телом никто не овладел.</span>
