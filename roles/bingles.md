@@ -1,9 +1,9 @@
 ---
 title: Бинглы
-description: bingle?
+description: Bingle?
 published: true
-date: 2025-07-18T18:51:17.704Z
-tags: 
+date: 2025-07-18T18:52:30.785Z
+tags: антагонистам, роли
 editor: markdown
 dateCreated: 2025-07-18T18:01:15.837Z
 ---
