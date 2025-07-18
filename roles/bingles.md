@@ -2,7 +2,7 @@
 title: Бинглы
 description: bingle?
 published: true
-date: 2025-07-18T18:01:15.837Z
+date: 2025-07-18T18:02:59.526Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-18T18:01:15.837Z
@@ -23,3 +23,5 @@ dateCreated: 2025-07-18T18:01:15.837Z
   </div>
 </div>
 </div>
+
+<div class="table"></div>
