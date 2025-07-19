@@ -2,7 +2,7 @@
 title: Бинглы
 description: Bingle?
 published: true
-date: 2025-07-19T08:21:32.705Z
+date: 2025-07-19T08:32:29.252Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2025-07-18T18:01:15.837Z
@@ -56,7 +56,7 @@ dateCreated: 2025-07-18T18:01:15.837Z
 ## Bingle... Bingle?
 Бинглов также существует три типа, начнём по порядку их появления.
 
-<img src="/roles/antagonists/bingles/bingle.png" decoding="async" width="64" height="64" data-file-width="32" data-file-height="32"> Binglest - Ничем не отличается внешне от обычного бингла. Появляется вместе с дырой.
+<img src="/roles/antagonists/bingles/bingle.png" decoding="async" width="64" height="64" data-file-width="32" data-file-height="32"> Binglest - Ничем не отличается внешне от обычного бингла. Появляется вместе с дырой в единичном экземпляре.
 
 
 <img src="/roles/antagonists/bingles/bingle.png" decoding="async" width="64" height="64" data-file-width="32" data-file-height="32">Bingle - Обычный рядовой Бингл, ничем не примечателен.
