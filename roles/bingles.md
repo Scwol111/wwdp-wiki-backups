@@ -2,7 +2,7 @@
 title: Бинглы
 description: Bingle?
 published: true
-date: 2025-07-19T08:32:29.252Z
+date: 2025-07-19T09:43:04.929Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2025-07-18T18:01:15.837Z
@@ -50,7 +50,7 @@ dateCreated: 2025-07-18T18:01:15.837Z
 
 Также, обычные бинглы смогут полиморфировать в улучшенную версию Бингла, Бинглера, после того как скормят дыре необходимое количество предметов.
   </div>
- <img src="/roles/antagonists/bingles/pit.png"/>
+ <img src="/roles/antagonists/bingles/pitgifz.gif"/>
 </div>
 
 ## Bingle... Bingle?
