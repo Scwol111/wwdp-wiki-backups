@@ -2,7 +2,7 @@
 title: Боевые искусства
 description: 
 published: false
-date: 2025-07-28T20:10:50.019Z
+date: 2025-07-28T20:57:45.336Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T12:16:01.117Z
@@ -101,11 +101,11 @@ Krav Maga - прагматичный и эклектичный метод сам
 </tr></thead>
 <tr>
 <td><img src="/guides/cqc/harm.png"></td>
-<td>Е.</td>
+<td>Наносит противнику 5 механического урона.</td>
 </tr>
 <tr>
 <td><img src="/guides/cqc/disarm.png"></td>
-<td>Е.</td>
+<td>Выхватить оружие из рук противника с вероятностью 60%.</td>
 </tr>
 </table></center>
 
@@ -119,16 +119,16 @@ Krav Maga - прагматичный и эклектичный метод сам
 <th>Описание</th>
 </tr></thead>
 <tr>
-<td><img src="/guides/cqc/legsweep.png" width="64" height="64"><br> Leg Sweep</td>
-<td>Если цель не оглушена, оглушает цель на 4 секунды и наносит 5 урона.</td>
+<td><img src="/guides/cqc/legsweep.png" width="64" height="64"> <br> Размах ногами <br> (Leg Sweep)</td>
+<td>Сбивает цель с ног на 4 секунды и наносит 15 механического урона.</td>
 </tr>
 <tr>
-<td><img src="/guides/cqc/lungpunch.png" width="64" height="64"><br> Lung Punch</td>
-<td>Наносит жертве 10 удушающего урона и не даёт жертве дышать на протяжении 10 секунд.</td>
+<td><img src="/guides/cqc/lungpunch.png" width="64" height="64"><br> Lung Punch <br> (Lung Punch)</td>
+<td>Наносит противнику 5 механического урона, 15 удушающего урона, 40 урона по выносливости и не даёт ему дышать в течение 10 секунд.</td>
 </tr>
 <tr>
-<td><img src="/guides/cqc/neckchop.png" width="64" height="64"><br>Neck Chop</td>
-<td>Мощный и точный удар, который наносит 5 урона в голову и не позволяет жертве говорить на протяжении 20 секунд.</td>
+<td><img src="/guides/cqc/neckchop.png" width="64" height="64"><br> Neck Chop <br> (Neck Chop)</td>
+<td>Наносит противнику 5 механического урона и не даёт цели говорить на протяжении 20-ти секунд.</td>
 </tr>
 </table></center>
 
