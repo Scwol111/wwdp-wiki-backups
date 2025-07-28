@@ -2,7 +2,7 @@
 title: Боевые искусства
 description: 
 published: false
-date: 2025-07-28T20:57:45.336Z
+date: 2025-07-28T20:59:37.820Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-25T12:16:01.117Z
@@ -145,7 +145,7 @@ Krav Maga - прагматичный и эклектичный метод сам
 </tr></thead>
 <tr>
 <td><img src="/guides/cqc/harm.png"></td>
-<td>Е.</td>
+<td>Наносит противнику от 10 до 15 механического урона.</td>
 </tr>
 </table></center>
 
