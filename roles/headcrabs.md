@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-07-30T11:44:17.372Z
+date: 2025-07-30T11:47:38.939Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -73,8 +73,6 @@ dateCreated: 2024-12-30T16:10:41.153Z
       <span>Живая особь. Она овладела телом. Её конечности сжаты и крепко зафиксированы.</span>
     </div>
   </div>
-</div>
-<div id="who-is-who">
   <div id="second-crab">
     <div id="top-part">
       <div class="dead-crab" id="gif-crab">
