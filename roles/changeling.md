@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-08-04T17:58:03.568Z
+date: 2025-08-04T18:24:17.264Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -103,7 +103,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
     
 
 
-<h2 style="text-align: center"> Жала, доступные в Меню Эволюции </h2>
+<h2 style="text-align: center"> Жала</h2>
 <center style="overflow-x: auto">
   <table class="ant">
     <thead>
@@ -152,7 +152,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
 
 
 
-<h2 style="text-align: center"> Способности, доступные в Меню Эволюции </h2>
+<h2 style="text-align: center"> Способности</h2>
 
 <center style="overflow-x: auto">
   <table class="ant">
@@ -187,37 +187,22 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>25 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/space_adaptation.png"><br>Пустотная адаптация</td>
-        <td>Генокрад покрывает себя органическим костюмом. 
-    <div class="table-item">
-      Защита органического костюма:
-    <p><span> - <b style="color: yellow;">Тупой</b> урон снижается на <b class="percent">5%</b></span></p>
-    <p><span> - <b style="color: yellow;">Рубящий</b> урон снижается на <b class="percent">5%</b></span></p>
-    <p><span> - <b style="color: yellow;">Проникающий</b> урон снижается на <b class="percent">0%</b></span></p>
-    <p><span> - <b style="color: yellow;">Тепловой</b> урон снижается на <b class="percent">50%</b></span></p>
-    <p><span> - <b class="type bang">Взрывной</b> урон снижается на <b class="percent">80%</b></span></p>
-      <p> </p>
-      Защита органического шлема:
-    <p><span> - <b style="color: yellow;">Тупой</b> урон снижается на <b class="percent">10%</b></span></p>
-    <p><span> - <b style="color: yellow;">Рубящий</b> урон снижается на <b class="percent">10%</b></span></p>
-    <p><span> - <b style="color: yellow;">Проникающий</b> урон снижается на <b class="percent">5%</b></span></p>
-    <p><span> - <b style="color: yellow;">Тепловой</b> урон снижается на <b class="percent">10%</b></span></p>
-    <p><span> - <b style="color: yellow;">Радиационный</b> урон снижается на <b class="percent">75%</b></span></p>
-    </div>
-        <td>20 химикатов <br> <br> 2 Очка эволюции</td>
-      </tr>
-      <tr>
         <td><img src="/roles/antagonists/changeling/organic_shield.png"><br>Органический Щит</td>
         <td>Превращает одну из рук генокрада в большой щит из плоти. Он блокирует <span class="percent">50%</span> входящего урона и: 
     <p><span>- Отнимает <b class="percent">90%</b> <b style="color: yellow;">Тупой</b> урона</span></p>
     <p><span>- Отнимает <b class="percent">90%</b> <b style="color: yellow;">Рубящий</b> урона</span></p>  
     <p><span>- Отнимает <b class="percent">90%</b> <b style="color: yellow;">Проникающий</b> урона</span></p>
     <p><span>- Отнимает <b class="percent">90%</b> <b style="color: yellow;">Тепловой</b> урона</span></p>  
+          <p>Также вы можете поднять свой щит для блокировки ударов на <span class="percent">100%</span> входящего урона. В таком виде он:</p>
+    <p><span>- Отнимает <b class="percent">80%</b> <b style="color: yellow;">Тупой</b> урона</span></p>
+    <p><span>- Отнимает <b class="percent">80%</b> <b style="color: yellow;">Рубящий</b> урона</span></p>  
+    <p><span>- Отнимает <b class="percent">80%</b> <b style="color: yellow;">Проникающий</b> урона</span></p>
+    <p><span>- Отнимает <b class="percent">80%</b> <b style="color: yellow;">Тепловой</b> урона</span></p>
         </td>
         <td>20 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/armblade.png"><br>Рука-клинок</td>
+        <td><img src="/roles/antagonists/changeling/armblade.png"><br>Лезвие-рука</td>
         <td>Превращает одну из рук генокрада в клинок, сделанный из костей и плоти. Считается оружием ближнего боя. Наносит следующие повреждения(ближний бой): 
     <p><span> - <b style="color: red;">25</b> единиц <b style="color: yellow;">Рубящего</b> урона</span></p>
     <p><span> - <b style="color: red;">20</b> единиц <b style="color: yellow;">Структурного </b> урона</span></p>        
@@ -247,14 +232,9 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>15 химикатов <br> <br> 1 Очка эволюции</td>
       </tr>
 <tr>
-        <td><img src="/roles/antagonists/changeling/dartgun.png"><br>Рука-дротик</td>
+        <td><img src="/roles/antagonists/changeling/dartgun.png"><br>Органический дротикомёт</td>
         <td>Преобразуйте одну из своих рук в дротик, способный стрелять жалами, применяя половину эффекта одного из ваших эволюционировавших реагентных жал.
         <td>15 химикатов <br> <br> 1 Очка эволюции</td>
-      </tr>
-      <tr>
-        <td><img src="/roles/antagonists/changeling/lesser_form.png"><br>Примитивная форма</td>
-        <td>Генокрад мгновенно превращается в обезьяну роняя все снаряжение на пол, в том числе и надетые на него наручники. В форме обезьяны можно использовать жала и входить в стазис. Затем генокрад может вернуться в человеческую форму, используя "Превращения". В форме обезьяны у вас заметно снижается запас здоровья.</td>
-        <td>20 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/shriek_resonant.png"><br>Резонансный визг</td>
@@ -262,7 +242,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>30 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
-        <td><img src="/roles/antagonists/changeling/shriek_dissonant.png"><br>Диссонирующий Вопль</td>
+        <td><img src="/roles/antagonists/changeling/shriek_dissonant.png"><br>Диссонантный визг</td>
         <td>Генокрад испускает ЭМИ, который нарушает работу всего электронного оборудования вокруг. Радиус способности 5 тайлов.</td>
         <td>30 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
@@ -274,7 +254,7 @@ dateCreated: 2024-09-25T18:36:25.247Z
 
 
   
-<h2 style="text-align: center"> Усиления, доступные в Меню Эволюции </h2>
+<h2 style="text-align: center"> Усиления</h2>
 
 <center style="overflow-x: auto">
   <table class="ant">
@@ -315,6 +295,11 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td><img src="/roles/antagonists/changeling/biodegrade.png"><br>Биоразложение</td>
         <td>Растворяет наручники и другие объекты, ограничивающие движение.</td>
         <td>30 химикатов <br> <br> 2 Очка эволюции</td>
+      </tr>
+      <tr>
+        <td><img src="/roles/antagonists/changeling/lesser_form.png"><br>Упрощенная оболочка</td>
+        <td>Генокрад мгновенно превращается в обезьяну роняя все снаряжение на пол, в том числе и надетые на него наручники. В форме обезьяны можно использовать жала и входить в стазис. Затем генокрад может вернуться в человеческую форму, используя "Превращения". В форме обезьяны у вас заметно снижается запас здоровья.</td>
+        <td>20 химикатов <br> <br> 1 Очко эволюции</td>
       </tr>
       <tr>
         <td><img src="/roles/antagonists/changeling/last_resort.png"><br>Последний шанс</td>
