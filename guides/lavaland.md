@@ -2,7 +2,7 @@
 title: Лаваленд
 description:  огромная, случайным образом генерируемая локация, служащая в качестве шахты. Содержит в себе огромное множество различных руд, враждебной фауны, редких предметов, сокровищ и возможные локации для лута.
 published: false
-date: 2025-07-24T14:47:59.550Z
+date: 2025-08-04T15:42:16.412Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2025-03-15T21:03:41.485Z
@@ -62,6 +62,7 @@ dateCreated: 2025-03-15T21:03:41.485Z
         <th><strong>Нож для выживания</strong>
         <th>Малюсенький ножик для битвы с монстрами врукопашную. Нелеп тем фактом, что ранит слабее, чем простой кухонный нож, нанося всего 8 урона. Может использоваться в качестве штыка.</th>
       </tr>
+      <tr>
         <th>
           <figure class="image"><img src="/roles/cargo/pickaxe.png" width="60%"></figure>
         </th>
@@ -106,10 +107,108 @@ dateCreated: 2025-03-15T21:03:41.485Z
 Собравшись в путь, отправляйтесь в свой отдел и ищите шахтёрский шаттл. Совершите Сверхсветовой скачок до Лаваленда.
 
 
-<h2>Шахтёрский инструмент</h2>
-блаблабла виды кинетиков
+## Шахтёрский инструмент
+За годы работы наших сотрудников на рудниках, было создано множество вариаций шахтёрских инструментов, подходящих под задачи каждого сотрудника.
 
-<h2>Руда</h2>
+<div style="overflow-x:auto; margin-top: 3em;">
+<figure class="table" style="text-align:center;">
+  <table style="background-color:#ad5313;">
+    <tbody>
+      <tr>
+        <th style="background-color:#ad5313;">Изображение</th>
+        <th style="background-color:#ad5313;">Название</th>
+        <th style="background-color:#ad5313;">Описание</th>
+      </tr>
+			<tr>
+        <th>
+          <figure class="image"><img src="/roles/cargo/pickaxe.png" width="60%"></figure>
+        </th>
+        <th><strong>Кирка</strong></th>
+        <th>Шахтёрская кирка. Несмотря на сотни поколений старателей, она всё та же.</th>
+      </tr>
+      <tr>
+      <tr>
+        <th>
+          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+        </th>
+        <th><strong>Шахтёрский бур</strong></th>
+        <th>-</th>
+      </tr>
+        <th>
+          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+        </th>
+        <th><strong>Протокинетический ускоритель</strong></th>
+        <th>Базовая вариация протокинетика. Имеет 100 ячеек вместимости.</th>
+      </tr>
+      <tr>
+        <th>
+          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+        </th>
+        <th><strong>Крушитель</strong></th>
+        <th>-</th>
+      </tr>
+      <tr>
+        <th>
+          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+        </th>
+        <th><strong>Глефа-крушитель</strong></th>
+        <th>-</th>
+      </tr>
+      <tr>
+        <th>
+          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+        </th>
+        <th><strong>Кинетический молот</strong></th>
+        <th>-</th>
+      </tr>
+      <tr>
+        <th>
+          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+        </th>
+        <th><strong>Кинетический мачете</strong></th>
+        <th>-</th>
+      </tr>
+      <tr>
+        <th>
+          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+        </th>
+        <th><strong>Кинетическое копьё</strong></th>
+        <th>-</th>
+      </tr>
+      <tr>
+        <th>
+          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+        </th>
+        <th><strong>Кинетические когти</strong></th>
+        <th>-</th>
+      </tr>
+      <tr>
+        <th>
+          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+        </th>
+        <th><strong>Протокинетический пистолет</strong></th>
+        <th>-</th>
+      </tr>
+      <tr>
+        <th>
+          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+        </th>
+        <th><strong>Протокинетическая винтовка</strong></th>
+        <th>-</th>
+      </tr>
+      <tr>
+        <th>
+          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+        </th>
+        <th><strong>Протокинетический дробовик</strong></th>
+        <th>-</th>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+</div>
+
+## Руда
 блаблабла виды руд
 
 
