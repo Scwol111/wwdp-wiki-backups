@@ -2,7 +2,7 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-08-04T17:27:04.291Z
+date: 2025-08-04T17:39:47.081Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
@@ -87,11 +87,16 @@ dateCreated: 2024-09-25T18:36:25.247Z
         <td>25 химикатов</td>
       </tr>
       <tr>
+         <td><img src="/roles/antagonists/changeling/sting_extractdna.png"><br>Укол: кража ДНК</td>
+        <td>Бесшумно и безопасно извлекает ДНК из цели.</td>
+        <td>25 химикатов</td>
+      </tr>     
+      <tr>
         <td><img src="/roles/antagonists/changeling/evolution_menu.png"><br>Эволюции</td>
-        <td>Открывает ваш уникальный магазин, где вы можете покупать себе эволюции, изначально вам доступно 16 очков эволюции.</td>
+        <td>Открывает ваш уникальный магазин, где вы можете покупать себе эволюции, изначально вам доступно 10 очков эволюции.</td>
         <td>0 химикатов</td>
       </tr>
-    </tbody>
+      </tbody>
   </table>
 </center>
  
@@ -110,18 +115,8 @@ dateCreated: 2024-09-25T18:36:25.247Z
     </thead>
     <tbody>
       <tr>
-         <td><img src="/roles/antagonists/changeling/sting_extractdna.png"><br>Извлечение ДНК</td>
-        <td>Бесшумно и безопасно извлекает ДНК из цели.</td>
-        <td>25 химикатов <br> <br> 0 Очков эволюции</td>
-      </tr>
-      <tr>
-        <td><img src="/roles/antagonists/changeling/sting_lethargic.png"><br>Жало Галлюцинации</td>
-        <td>Генокрад вкалывает большую дозу галлюциногенных препаратов в жертву. Эффект длится 30 секунд.</td>
-        <td>30 химикатов <br> <br> 2 Очко эволюции</td>
-      </tr>
-      <tr>
         <td><img src="/roles/antagonists/changeling/sting_blind.png"><br>Жало Слепоты</td>
-        <td>Генокрад скрытно жалит цель, полностью ослепляя ее на 25 секунд.</td>
+        <td>Генокрад скрытно жалит цель, 	полностью ослепляя ее на 25 секунд.</td>
         <td>20 химикатов <br> <br> 1 Очка эволюции</td>
       </tr>
       <tr>
