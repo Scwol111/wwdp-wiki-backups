@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: 
 published: true
-date: 2025-08-04T11:39:26.126Z
+date: 2025-08-04T19:49:23.678Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-04T11:39:26.126Z
