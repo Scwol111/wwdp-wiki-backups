@@ -2,7 +2,7 @@
 title: Запуск локального сервера
 description: 
 published: true
-date: 2025-08-04T20:06:34.215Z
+date: 2025-08-04T20:08:56.442Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-04T11:39:26.126Z
@@ -99,6 +99,7 @@ dateCreated: 2025-08-04T11:39:26.126Z
   git submodule update --init --recursive
   ```
   4. Повторно соберите и запустите сервер, начиная с 5 шага.
+  <br>
   <div class="pentagon" id="pentag">
   <div class="ahui">N:\guides\contribution></div>
   <input id="enter" type="text" maxlength="60">
