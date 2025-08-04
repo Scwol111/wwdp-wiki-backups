@@ -2,7 +2,7 @@
 title: Бинглы
 description: Bingle?
 published: true
-date: 2025-07-19T10:48:21.811Z
+date: 2025-08-04T10:41:16.872Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2025-07-18T18:01:15.837Z
@@ -62,4 +62,8 @@ dateCreated: 2025-07-18T18:01:15.837Z
 
 <img src="/roles/antagonists/bingles/upgraded.png" width="64" height="64"> Bingler - Улучшенный Бингл, внешне отличается белым мхом. В два раза сильнее и немного живучее обычного бингла. 
 
+<div style="width: 100%; margin: 0; padding: 0; position: relative;">
+  <div class="bingle-move" style="position: absolute; top: 0px; left: 0px;">
+  </div>
+</div>
 <div class="table"></div>
