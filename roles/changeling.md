@@ -2,18 +2,11 @@
 title: Генокрад
 description: 
 published: true
-date: 2025-08-04T18:43:00.775Z
+date: 2025-08-04T18:43:23.758Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2024-09-25T18:36:25.247Z
 ---
-
-<center>
-<div class="warning-banner-teal">
-  <h2> Статья в процессе написания</h2>
-  <p>В данный момент статья активно дополняется, обновляется и редактируется. И еще не совсем готова.</p><p>
-</div>
-</center>
 
 </div></div>
 </div>
