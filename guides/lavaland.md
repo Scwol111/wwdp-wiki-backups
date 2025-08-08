@@ -2,7 +2,7 @@
 title: Лаваленд
 description:  огромная, случайным образом генерируемая локация, служащая в качестве шахты. Содержит в себе огромное множество различных руд, враждебной фауны, редких предметов, сокровищ и возможные локации для лута.
 published: false
-date: 2025-08-08T09:20:12.582Z
+date: 2025-08-08T09:23:25.629Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2025-03-15T21:03:41.485Z
@@ -134,6 +134,7 @@ dateCreated: 2025-03-15T21:03:41.485Z
         <th><strong>Шахтёрский бур</strong></th>
         <th>Копает в разы быстрее кирки.</th>
       </tr>
+      <tr>
         <th>
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
@@ -242,3 +243,16 @@ dateCreated: 2025-03-15T21:03:41.485Z
 1. Колдовать X-образную атаку.
 2. Ставить маркер для телепорта.
 3. Телепортироваться на маркер.
+<div style="overflow-x:auto; margin-top: 3em;">
+<figure class="table" style="text-align:center;">
+  <table style="background-color:#ad5313;">
+    <tbody>
+      <tr>
+        <th style="background-color:#ad5313;">Изображение</th>
+        <th style="background-color:#ad5313;">Название</th>
+        <th style="background-color:#ad5313;">Описание</th>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+</div>
