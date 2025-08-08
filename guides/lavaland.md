@@ -2,7 +2,7 @@
 title: Лаваленд
 description:  огромная, случайным образом генерируемая локация, служащая в качестве шахты. Содержит в себе огромное множество различных руд, враждебной фауны, редких предметов, сокровищ и возможные локации для лута.
 published: false
-date: 2025-08-04T15:42:16.412Z
+date: 2025-08-08T09:20:12.582Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2025-03-15T21:03:41.485Z
@@ -129,10 +129,10 @@ dateCreated: 2025-03-15T21:03:41.485Z
       <tr>
       <tr>
         <th>
-          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/utildrill.png" width="60%"></figure>
         </th>
         <th><strong>Шахтёрский бур</strong></th>
-        <th>-</th>
+        <th>Копает в разы быстрее кирки.</th>
       </tr>
         <th>
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
@@ -145,14 +145,14 @@ dateCreated: 2025-03-15T21:03:41.485Z
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
         <th><strong>Крушитель</strong></th>
-        <th>-</th>
+        <th>Ранняя вариация протокинетического ускорителя. Его болты не наносят урона, но накладывают марку, усиливающую атаку с крушителя.</th>
       </tr>
       <tr>
         <th>
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
         <th><strong>Глефа-крушитель</strong></th>
-        <th>-</th>
+        <th>Более тонкая версия крушителя.</th>
       </tr>
       <tr>
         <th>
@@ -180,7 +180,7 @@ dateCreated: 2025-03-15T21:03:41.485Z
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
         <th><strong>Кинетические когти</strong></th>
-        <th>-</th>
+        <th>Позволяют копать породу руками.</th>
       </tr>
       <tr>
         <th>
