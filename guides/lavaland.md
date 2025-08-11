@@ -2,7 +2,7 @@
 title: Лаваленд
 description:  огромная, случайным образом генерируемая локация, служащая в качестве шахты. Содержит в себе огромное множество различных руд, враждебной фауны, редких предметов, сокровищ и возможные локации для лута.
 published: false
-date: 2025-08-08T09:23:25.629Z
+date: 2025-08-11T04:23:43.111Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2025-03-15T21:03:41.485Z
@@ -210,7 +210,7 @@ dateCreated: 2025-03-15T21:03:41.485Z
 </div>
 
 ## Руда
-блаблабла виды руд
+Лаваленд богат разными видами руд: от угля до блюспейс кристаллов, которые могут быть полезны станции.
 
 
 <h2><img style="vertical-align:middle" src="/guides/supply/lavaland/ore_processor.png"> Система очков <img style="vertical-align:middle" src="/guides/supply/lavaland/ore_processor.png"></h2>
