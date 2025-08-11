@@ -2,7 +2,7 @@
 title: Бинглы
 description: Bingle?
 published: true
-date: 2025-08-11T17:26:52.889Z
+date: 2025-08-11T17:55:37.046Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2025-07-18T18:01:15.837Z
@@ -12,7 +12,7 @@ dateCreated: 2025-07-18T18:01:15.837Z
 <div class="roles-passport antag">
   <div class="title antag"><a href="/roles/antagonists">Антагонист</a></div>
   <div>
-    <div><div><img src="/roles/antagonists/bingles/bingle.png"></div></div>
+    <div><div><img src="/roles/antagonists/bingles/bingle.png" clas="zoomable"></div></div>
   <div><div>
     <h1>Бинглы</h1>
     <p><strong>Сложность:</strong> Средняя</p>
