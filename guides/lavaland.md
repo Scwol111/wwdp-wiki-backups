@@ -2,7 +2,7 @@
 title: Лаваленд
 description:  огромная, случайным образом генерируемая локация, служащая в качестве шахты. Содержит в себе огромное множество различных руд, враждебной фауны, редких предметов, сокровищ и возможные локации для лута.
 published: false
-date: 2025-08-11T04:23:43.111Z
+date: 2025-08-11T13:12:11.298Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2025-03-15T21:03:41.485Z
@@ -146,63 +146,63 @@ dateCreated: 2025-03-15T21:03:41.485Z
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
         <th><strong>Крушитель</strong></th>
-        <th>Ранняя вариация протокинетического ускорителя. Его болты не наносят урона, но накладывают марку, усиливающую атаку с крушителя.</th>
+        <th>Ранняя вариация протокинетического ускорителя. Его болты не наносят урона, но накладывают на цель метку, усиливающую атаку. Атака становится смертоноснее, если наносить удар со спины.</th>
       </tr>
       <tr>
         <th>
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
         <th><strong>Глефа-крушитель</strong></th>
-        <th>Более тонкая версия крушителя.</th>
+        <th>Крушитель, но тоньше и лучше.</th>
       </tr>
       <tr>
         <th>
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
         <th><strong>Кинетический молот</strong></th>
-        <th>-</th>
+        <th>Габаритный молот, который эффективно ломает породу и кости врагов. Имеет возможность накладывать метку, но отсутсвует усиление для атак со спины.</th>
       </tr>
       <tr>
         <th>
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
         <th><strong>Кинетический мачете</strong></th>
-        <th>-</th>
+        <th>Уменьшенный, одноручный вариант крушителя, позволяющий блокировать атаки. Его болты не наносят урона, но накладывают на цель метку, усиливающую атаку. Атака становится смертоноснее, если наносить удар со спины.</th>
       </tr>
       <tr>
         <th>
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
         <th><strong>Кинетическое копьё</strong></th>
-        <th>-</th>
+        <th>Слабее обыкновенного крушителя, но бьёт куда дальше. Его болты не наносят урона, но накладывают на цель метку, усиливающую атаку. Атака становится смертоноснее, если наносить удар со спины.</th>
       </tr>
       <tr>
         <th>
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
         <th><strong>Кинетические когти</strong></th>
-        <th>Позволяют копать породу руками.</th>
+        <th>Позволяют копать породу руками. Их болты не наносят урона, но накладывают на цель метку, усиливающую атаку. Атака становится смертоноснее, если наносить удар со спины. ОЧЕНЬ смертоносны в умелых руках.</th>
       </tr>
       <tr>
         <th>
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
         <th><strong>Протокинетический пистолет</strong></th>
-        <th>-</th>
+        <th>Уменьшенная версия ПКУ, стреляющая ослабленными болтами, но имеющая вместимость аж в 200 единиц.</th>
       </tr>
       <tr>
         <th>
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
         <th><strong>Протокинетическая винтовка</strong></th>
-        <th>-</th>
+        <th>ПКУ, но стреляет чередой болтов на короткой дистанции. Имеет вместимость в 60 единиц.</th>
       </tr>
       <tr>
         <th>
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
         <th><strong>Протокинетический дробовик</strong></th>
-        <th>-</th>
+        <th>ПКУ, но стреляет несколькими болтами за раз. Имеет вместимость в 60 единиц.</th>
       </tr>
     </tbody>
   </table>
