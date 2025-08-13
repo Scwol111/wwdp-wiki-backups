@@ -2,7 +2,7 @@
 title: Бинглы
 description: Bingle?
 published: false
-date: 2025-08-13T09:50:31.800Z
+date: 2025-08-13T10:05:47.564Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2025-07-18T18:01:15.837Z
@@ -55,19 +55,19 @@ dateCreated: 2025-07-18T18:01:15.837Z
 </div>
 
 ## Bingle... Bingle?
+
+<div class="bingle-move">
+ <img src="/roles/antagonists/bingles/pitgifz.gif"> 
+ <img id="bingle-front" style="display: block" src="/roles/antagonists/bingles/bingle.png">
+ <img id="bingle-right" style="display: none" src="/roles/antagonists/bingles/binglealiveright.png">
+</div>
+
 Бинглов также существует три типа, начнём по порядку их появления.
 
-<img src="/roles/antagonists/bingles/bingle.png" width="64" height="64"> Binglest - Ничем не отличается внешне от обычного бингла. Появляется вместе с дырой в единичном экземпляре.
+<img src="/roles/antagonists/bingles/bingle.png" class="bingle64"> Binglest - Ничем не отличается внешне от обычного бингла. Появляется вместе с дырой в единичном экземпляре.
 
+<img src="/roles/antagonists/bingles/bingle.png" class="bingle64"> Bingle - Обычный рядовой Бингл, ничем не примечателен.
 
-<img src="/roles/antagonists/bingles/bingle.png" width="64" height="64"> Bingle - Обычный рядовой Бингл, ничем не примечателен.
-
-<img src="/roles/antagonists/bingles/upgraded.png" width="64" height="64"> Bingler - Улучшенный Бингл, внешне отличается белым мхом. В два раза сильнее и немного живучее обычного бингла. 
-
-<div class="binglepitanim">
- <img src="/roles/antagonists/bingles/pitgifz.gif"> 
- <img id="bingle-front" src="/roles/antagonists/bingles/bingle.png">
- <img id="bingle-right" src="/roles/antagonists/bingles/binglealiveright.png">
-</div>
+<img src="/roles/antagonists/bingles/upgraded.png" class="bingle64"> Bingler - Улучшенный Бингл, внешне отличается белым мхом. В два раза сильнее и немного живучее обычного бингла. 
 
 <div class="table"></div>
