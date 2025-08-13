@@ -2,7 +2,7 @@
 title: Бинглы
 description: Bingle?
 published: false
-date: 2025-08-13T10:05:47.564Z
+date: 2025-08-13T10:17:42.380Z
 tags: антагонистам, роли
 editor: markdown
 dateCreated: 2025-07-18T18:01:15.837Z
@@ -59,7 +59,7 @@ dateCreated: 2025-07-18T18:01:15.837Z
 <div class="bingle-move">
  <img src="/roles/antagonists/bingles/pitgifz.gif"> 
  <img id="bingle-front" style="display: block" src="/roles/antagonists/bingles/bingle.png">
- <img id="bingle-right" style="display: none" src="/roles/antagonists/bingles/binglealiveright.png">
+ <img id="bingle-right" style="display: block" src="/roles/antagonists/bingles/binglealiveright.png">
 </div>
 
 Бинглов также существует три типа, начнём по порядку их появления.
