@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-08-18T09:34:44.178Z
+date: 2025-08-18T09:35:22.800Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -60,7 +60,7 @@ dateCreated: 2024-12-30T16:10:41.153Z
 <p>
 
 
-<div> 
+<div style="display: grid;"> 
 <div id="who-is-who">
   <div id="first-crab">
     <div id="top-part">
