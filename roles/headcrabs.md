@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-08-18T10:03:45.183Z
+date: 2025-08-18T10:05:53.482Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -18,7 +18,7 @@ dateCreated: 2024-12-30T16:10:41.153Z
     <p><strong>Сложность:</strong> Легкая</p>
     <strong>Цели:</strong> Выжить<br>
     <b>Руководители</b>:  Инстинкты<br>
-    <b>Руководства</b>: Вы его читаете
+    <b>Руководства</b>: Вы его читаете.
   </div></div>
   </div>
 </div>
