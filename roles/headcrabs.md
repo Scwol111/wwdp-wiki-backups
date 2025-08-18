@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-08-18T09:35:22.800Z
+date: 2025-08-18T09:35:48.991Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
@@ -60,7 +60,7 @@ dateCreated: 2024-12-30T16:10:41.153Z
 <p>
 
 
-<div style="display: grid;"> 
+
 <div id="who-is-who">
   <div id="first-crab">
     <div id="top-part">
@@ -84,7 +84,7 @@ dateCreated: 2024-12-30T16:10:41.153Z
   </div>
 </div>
 <div class="bottom-part">Небольшой факт: если хедкраб надет поверх любого шлема, то это значит, что телом овладел хедкраб. Отсюда делаем логичный вывод: Никакой	шлем не спасает от захвата хедкраба.</div>
-</div>
+
 
 
 ## <img src="/roles/headcrabs/equipped-helmet.png" width="32" height="32"> <i>АААААА! СНИМИТЕ С МЕНЯ ЭТУ ДРЯНЬ!</i>
