@@ -2,7 +2,7 @@
 title: Лаваленд
 description:  огромная, случайным образом генерируемая локация, служащая в качестве шахты. Содержит в себе огромное множество различных руд, враждебной фауны, редких предметов, сокровищ и возможные локации для лута.
 published: false
-date: 2025-08-19T10:09:48.842Z
+date: 2025-08-19T10:25:49.460Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2025-03-15T21:03:41.485Z
@@ -136,6 +136,13 @@ dateCreated: 2025-03-15T21:03:41.485Z
       </tr>
       <tr>
         <th>
+          <figure class="image"><img src="/roles/cargo/utildrill.png" width="60%"></figure>
+        </th>
+        <th><strong>Шахтёрский бур</strong></th>
+        <th>Копает в разы быстрее кирки.</th>
+      </tr>
+      <tr>
+        <th>
           <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
         </th>
         <th><strong>Протокинетический ускоритель</strong></th>
@@ -185,14 +192,14 @@ dateCreated: 2025-03-15T21:03:41.485Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/kinetic_pistol.png" width="60%"></figure>
         </th>
         <th><strong>Протокинетический пистолет</strong></th>
         <th>Уменьшенная версия ПКУ, стреляющая ослабленными болтами, но имеющая вместимость аж в 200 единиц.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/kinetic_rifle.png" width="60%"></figure>
         </th>
         <th><strong>Протокинетическая винтовка</strong></th>
         <th>ПКУ, но стреляет чередой болтов на короткой дистанции. Имеет вместимость в 60 единиц.</th>
