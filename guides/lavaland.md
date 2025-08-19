@@ -2,7 +2,7 @@
 title: Лаваленд
 description:  огромная, случайным образом генерируемая локация, служащая в качестве шахты. Содержит в себе огромное множество различных руд, враждебной фауны, редких предметов, сокровищ и возможные локации для лута.
 published: false
-date: 2025-08-19T10:25:49.460Z
+date: 2025-08-19T10:27:42.398Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2025-03-15T21:03:41.485Z
@@ -136,10 +136,10 @@ dateCreated: 2025-03-15T21:03:41.485Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/roles/cargo/utildrill.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/utildrilldiamond.png" width="60%"></figure>
         </th>
-        <th><strong>Шахтёрский бур</strong></th>
-        <th>Копает в разы быстрее кирки.</th>
+        <th><strong>Алмазный шахтёрский бур</strong></th>
+        <th>Копает в разы быстрее простого бура.</th>
       </tr>
       <tr>
         <th>
@@ -199,7 +199,7 @@ dateCreated: 2025-03-15T21:03:41.485Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/roles/cargo/kinetic_rifle.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/kinetic_repeater.png" width="60%"></figure>
         </th>
         <th><strong>Протокинетическая винтовка</strong></th>
         <th>ПКУ, но стреляет чередой болтов на короткой дистанции. Имеет вместимость в 60 единиц.</th>
