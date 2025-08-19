@@ -2,7 +2,7 @@
 title: Лаваленд
 description:  огромная, случайным образом генерируемая локация, служащая в качестве шахты. Содержит в себе огромное множество различных руд, враждебной фауны, редких предметов, сокровищ и возможные локации для лута.
 published: false
-date: 2025-08-15T12:25:28.411Z
+date: 2025-08-19T10:02:25.395Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2025-03-15T21:03:41.485Z
@@ -143,14 +143,14 @@ dateCreated: 2025-03-15T21:03:41.485Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/crusher.png" width="60%"></figure>
         </th>
         <th><strong>Крушитель</strong></th>
         <th>Ранняя вариация протокинетического ускорителя. Его болты не наносят урона, но накладывают на цель метку, усиливающую атаку. Атака становится смертоноснее, если наносить удар со спины.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/crusher_glave.png" width="60%"></figure>
         </th>
         <th><strong>Глефа-крушитель</strong></th>
         <th>Крушитель, но тоньше и лучше.</th>
@@ -171,14 +171,14 @@ dateCreated: 2025-03-15T21:03:41.485Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/crusher_spear.png" width="60%"></figure>
         </th>
         <th><strong>Кинетическое копьё</strong></th>
         <th>Слабее обыкновенного крушителя, но бьёт куда дальше. Его болты не наносят урона, но накладывают на цель метку, усиливающую атаку. Атака становится смертоноснее, если наносить удар со спины.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/crusher_claws.png" width="60%"></figure>
         </th>
         <th><strong>Кинетические когти</strong></th>
         <th>Позволяют копать породу руками. Их болты не наносят урона, но накладывают на цель метку, усиливающую атаку. Атака становится смертоноснее, если наносить удар со спины. ОЧЕНЬ смертоносны в умелых руках.</th>
