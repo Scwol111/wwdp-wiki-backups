@@ -2,7 +2,7 @@
 title: Лаваленд
 description:  огромная, случайным образом генерируемая локация, служащая в качестве шахты. Содержит в себе огромное множество различных руд, враждебной фауны, редких предметов, сокровищ и возможные локации для лута.
 published: false
-date: 2025-08-19T10:06:34.188Z
+date: 2025-08-19T10:09:48.842Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2025-03-15T21:03:41.485Z
@@ -157,14 +157,14 @@ dateCreated: 2025-03-15T21:03:41.485Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/crusher_hammer.png" width="60%"></figure>
         </th>
         <th><strong>Кинетический молот</strong></th>
         <th>Габаритный молот, который эффективно ломает породу и кости врагов. Имеет возможность накладывать метку, но отсутсвует усиление для атак со спины.</th>
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/crusher_machete.png" width="60%"></figure>
         </th>
         <th><strong>Кинетический мачете</strong></th>
         <th>Уменьшенный, одноручный вариант крушителя, позволяющий блокировать атаки. Его болты не наносят урона, но накладывают на цель метку, усиливающую атаку. Атака становится смертоноснее, если наносить удар со спины.</th>
