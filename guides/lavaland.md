@@ -2,7 +2,7 @@
 title: Лаваленд
 description:  огромная, случайным образом генерируемая локация, служащая в качестве шахты. Содержит в себе огромное множество различных руд, враждебной фауны, редких предметов, сокровищ и возможные локации для лута.
 published: false
-date: 2025-08-19T10:27:42.398Z
+date: 2025-08-19T10:32:13.546Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2025-03-15T21:03:41.485Z
@@ -206,7 +206,7 @@ dateCreated: 2025-03-15T21:03:41.485Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/roles/cargo/kinetic-accelerator.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/kinetic_shotgun.png" width="60%"></figure>
         </th>
         <th><strong>Протокинетический дробовик</strong></th>
         <th>ПКУ, но стреляет несколькими болтами за раз. Имеет вместимость в 60 единиц.</th>
