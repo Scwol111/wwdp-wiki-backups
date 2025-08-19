@@ -2,7 +2,7 @@
 title: Лаваленд
 description:  огромная, случайным образом генерируемая локация, служащая в качестве шахты. Содержит в себе огромное множество различных руд, враждебной фауны, редких предметов, сокровищ и возможные локации для лута.
 published: false
-date: 2025-08-19T10:02:25.395Z
+date: 2025-08-19T10:06:34.188Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2025-03-15T21:03:41.485Z
@@ -150,7 +150,7 @@ dateCreated: 2025-03-15T21:03:41.485Z
       </tr>
       <tr>
         <th>
-          <figure class="image"><img src="/roles/cargo/crusher_glave.png" width="60%"></figure>
+          <figure class="image"><img src="/roles/cargo/crusher_glaive.png" width="60%"></figure>
         </th>
         <th><strong>Глефа-крушитель</strong></th>
         <th>Крушитель, но тоньше и лучше.</th>
