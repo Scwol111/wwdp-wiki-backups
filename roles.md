@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-06-08T10:02:00.094Z
+date: 2025-08-24T14:59:11.059Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -58,10 +58,10 @@ dateCreated: 2024-09-10T19:07:41.779Z
 <!--  <div><a href="/roles/inspector">Инспектор</a><a href="/roles/inspector"><img src="/roles/inspector.png" /></a></div>
   <div><div>Руководитель <a href="/roles#отдел-юстиции">отдела юстиции</a>. Контролирует выполнение целей стации. В любой момент он может нагрянуть в ваш отдел с проверкой. Будьте готовы подписывать отчёты и объясняться, почему же вы сидите в баре за офицера, пока в соседнем коридоре убивают капитана.</div></div>
 	<div>Сложно</div> -->
-  <div><a href="/roles/maid">Служанка</a><a href="/roles/maid"><img src="/roles/maid.png" /></a></div>
+ <!-- <div><a href="/roles/maid">Служанка</a><a href="/roles/maid"><img src="/roles/maid.png" /></a></div>
   <div><div>Боевая горничная, чьей задачей является защита капитана, поддержание чистоты на мостике и выполнение приказов командования.
 </div></div>
-	<div>Средне</div>
+	<div>Средне</div>-->
 </div>
  
 <div class="roles-table sb">
