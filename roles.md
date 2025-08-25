@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-08-25T02:45:02.436Z
+date: 2025-08-25T02:48:55.621Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -344,7 +344,7 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/devil" class="is-internal-link is-valid-page">Дьявол</a><a href="/roles/devil"><img src="/roles/antagonists/devil.png" /></a></div>
   <div><div>Загадочный незнакомец неожиданно возникает перед вами, предлагая заманчивые способности, прося взамен всего лишь какую-то там душу.</div></div>
   <div>Cложно</div>
-  <div><a href="/roles/shadowling" class="is-internal-link is-valid-page">Тенелинг</a><a href="/roles/shadowling"><img src="/roles/antagonists/shadowling.png" /></a></div>
+  <div><a href="/roles/shadowling" class="is-internal-link is-valid-page">Тенелинг</a><a href="/roles/shadowling"><img src="/roles/shadowling.png" /></a></div>
   <div><div>Космический гот с личным фан-клубом рабов.</div></div>
   <div>Очень сложно</div>
 </div>
