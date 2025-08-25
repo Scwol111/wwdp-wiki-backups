@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-08-24T14:59:11.059Z
+date: 2025-08-25T02:45:02.436Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -341,6 +341,12 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/bingles" class="is-internal-link is-valid-page">Бинглы</a><a href="/roles/bingles"><img src="/roles/bingle.gif" /></a></div>
   <div><div>Эти загадочные существа тащат в свою бингл-яму всё, что не прикручено.</div></div>
   <div>Bingle!</div>
+  <div><a href="/roles/devil" class="is-internal-link is-valid-page">Дьявол</a><a href="/roles/devil"><img src="/roles/antagonists/devil.png" /></a></div>
+  <div><div>Загадочный незнакомец неожиданно возникает перед вами, предлагая заманчивые способности, прося взамен всего лишь какую-то там душу.</div></div>
+  <div>Cложно</div>
+  <div><a href="/roles/shadowling" class="is-internal-link is-valid-page">Тенелинг</a><a href="/roles/shadowling"><img src="/roles/antagonists/shadowling.png" /></a></div>
+  <div><div>Космический гот с личным фан-клубом рабов.</div></div>
+  <div>Очень сложно</div>
 </div>
  
 <div class="roles-table ceco">
