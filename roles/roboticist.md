@@ -2,8 +2,8 @@
 title: Роботехник
 description: 
 published: true
-date: 2025-08-25T03:06:19.546Z
-tags: 
+date: 2025-08-25T03:06:49.082Z
+tags: архив
 editor: markdown
 dateCreated: 2025-02-24T07:35:01.174Z
 ---
