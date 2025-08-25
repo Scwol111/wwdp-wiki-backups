@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-08-25T02:54:32.245Z
+date: 2025-08-25T02:56:26.529Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -323,9 +323,9 @@ dateCreated: 2024-09-10T19:07:41.779Z
  <div><a href="/roles/changeling" class="goida"></a><a href="/roles/changeling"><img src="/roles/changeling.gif" /></a></div>
 <div><div>Высокоинтеллектуальный инопланетный хищник, обладающий способностью менять свой облик, чтобы выглядеть в точности как человек.. Способен создавать из своих конечностей оружие и жала с ядом."</div></div>
   <div>Сложно</div>
-  <div><a href="/roles/terminator">Терминатор</a><a href="/roles/terminator"><img src="/roles/terminator.png" /></a></div>
+ <!--  <div><a href="/roles/terminator">Терминатор</a><a href="/roles/terminator"><img src="/roles/terminator.png" /></a></div>
   <div><div>Высокотехнологичный антагонист, который представляет собой серьезную угрозу для отдельного члена экипажа.</div></div>
-  <div>Легко</div>
+  <div>Легко</div>-->
  <!-- <div><a href="/roles/wizard">Маг</a><a href="/roles/wizard"><img src="/roles/wizard_real.png" /></a></div>
   <div><div>FORTI GY AMA!! Заставьте всех ненавидеть вас за убийство всей станции. HONK FOR ME!!! Превратите весь экипаж в клоунов. ONI SOMA!!! Умрите от клоуна с жезлом нулификации.</div></div>
   <div>Очень сложно</div>-->
