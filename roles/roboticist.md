@@ -2,11 +2,18 @@
 title: Роботехник
 description: 
 published: true
-date: 2025-02-24T08:10:36.190Z
+date: 2025-08-25T03:06:19.546Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-24T07:35:01.174Z
 ---
+
+<center>
+<div class="warning-banner">
+  <h2> Статья перемещена в архив  </h2>
+  <p>Тсс... Не шумите здесь...</p><p>
+</div>
+</center>
 
 <div style="display: flex; justify-content: center;">
 <div class="roles-passport rnd">
