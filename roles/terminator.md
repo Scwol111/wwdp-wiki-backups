@@ -2,11 +2,18 @@
 title: Терминатор
 description: 
 published: true
-date: 2024-10-20T13:01:41.996Z
-tags: 
+date: 2025-08-25T02:57:37.061Z
+tags: архив
 editor: markdown
 dateCreated: 2024-09-25T18:37:34.296Z
 ---
+
+<center>
+<div class="warning-banner">
+  <h2> Статья перемещена в архив  </h2>
+  <p>Тсс... Не шумите здесь...</p><p>
+</div>
+</center>
 
 > Терминатор может убивать только для выполнения цели, но если вам кто-то мешает - вы в праве убить его.
 {.is-warning}
