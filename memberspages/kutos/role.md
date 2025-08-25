@@ -2,13 +2,11 @@
 title: role
 description: 
 published: true
-date: 2025-08-25T01:41:23.685Z
+date: 2025-08-25T01:44:00.502Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-25T01:24:10.229Z
 ---
-
-
 
 **Приветствуем в Справочнике Ролей**, которые вы можете встретить на Космической Станции 14 корпорации [NanoTrasen](/backstory#nanotrasen)!   
 Вы не понимаете, почему один человек в красном Вас арестовал за попытку взлома, а другой просто застрелил на месте? Или же в чём разница между людьми в белых халатах? **Вам сюда!**
@@ -26,9 +24,6 @@ dateCreated: 2025-08-25T01:24:10.229Z
 
 ---
  
-<div class="role-effect-container">
-<canvas id="particle-aura"></canvas>
-
 <div class="roles-table comm">
   <div class="title comm-title">
     <div class="link"><h2><a href="/roles/command" class="comm-color">Командование</a></h2></div>
@@ -208,6 +203,8 @@ dateCreated: 2025-08-25T01:24:10.229Z
   <!--<div><a href="/roles/clerk">Клерк</a><a href="/roles/clerk"><img src="/roles/clerk.png" /></a></div>
   <div><div>Этого человека вы найдете за стопкой бумаг выше, чем он сам. Законы, правила, постановления - он знает их все наизусть, и горе тому, кто попытается найти в них лазейку.</div></div>
   <div>Легко</div>-->
+</div>
+
 </div>
 
 <div class="roles-table serv">
@@ -422,5 +419,4 @@ dateCreated: 2025-08-25T01:24:10.229Z
   <div><a href="/roles/gondola">Гондола</a><a href="/roles/gondola"><img src="/roles/gondola.png" /></a></div>
   <div><div>Существо, которое можно купить в <a href="/ru/guides/uplink">аплинке</a> </div></div>
   <div>Легко</div> -->
-</div>
 </div>
