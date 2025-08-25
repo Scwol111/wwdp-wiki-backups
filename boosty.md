@@ -2,7 +2,7 @@
 title: Бусти команды
 description: Здесь вы можете поддержать людей из стаффа, которые завели свой бусти.
 published: true
-date: 2025-08-25T01:56:03.339Z
+date: 2025-08-25T01:57:13.564Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -63,11 +63,6 @@ dateCreated: 2024-10-31T07:49:55.557Z
       <td>Второй глава викиводов, самый старый из сохранившихся викиводов.</td>
     </tr>
     <tr>
-      <td>Gavrik</td>
-      <td><a href="https://boosty.to/ddecard">boosty.to/ddecard</a></td>
-      <td>Один из старейших викиводов. Начинал во времена, когда движком вики был mediawiki.</td>
-    </tr>
-    <tr>
       <td>Toki</td>
       <td><a href="https://boosty.to/tokijumper">https://boosty.to/tokijumper</a></td>
       <td>Лучший из лучших по мнению его самого.</td>
@@ -87,6 +82,11 @@ dateCreated: 2024-10-31T07:49:55.557Z
     <tr>
       <td>Unkima</td>
       <td><a href="https://boosty.to/unkima">boosty.to/unkima</a></td>
+    </tr>
+    <tr>
+      <td>Gavrik</td>
+      <td><a href="https://boosty.to/ddecard">boosty.to/ddecard</a></td>
+      <td>Бывший викивод, внесший большой вклад в развитие вики. Перешел в состав викиводов.</td>
     </tr>
   </table>
 </div>
