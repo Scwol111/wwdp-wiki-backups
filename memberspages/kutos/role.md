@@ -2,7 +2,7 @@
 title: role
 description: 
 published: true
-date: 2025-08-25T01:39:50.271Z
+date: 2025-08-25T01:41:23.685Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-25T01:24:10.229Z
@@ -208,8 +208,6 @@ dateCreated: 2025-08-25T01:24:10.229Z
   <!--<div><a href="/roles/clerk">Клерк</a><a href="/roles/clerk"><img src="/roles/clerk.png" /></a></div>
   <div><div>Этого человека вы найдете за стопкой бумаг выше, чем он сам. Законы, правила, постановления - он знает их все наизусть, и горе тому, кто попытается найти в них лазейку.</div></div>
   <div>Легко</div>-->
-</div>
-
 </div>
 
 <div class="roles-table serv">
