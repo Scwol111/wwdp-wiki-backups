@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-08-25T02:48:55.621Z
+date: 2025-08-25T02:54:32.245Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -347,6 +347,10 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <div><a href="/roles/shadowling" class="is-internal-link is-valid-page">Тенелинг</a><a href="/roles/shadowling"><img src="/roles/shadowling.png" /></a></div>
   <div><div>Космический гот с личным фан-клубом рабов.</div></div>
   <div>Очень сложно</div>
+  <div><a href="/roles/blob" class="is-internal-link is-valid-page">Блоб</a><a href="/roles/blob"><img src="/roles/blob.png" /></a></div>
+  <div><div>Опасный организм, паразитирующий на живых существах для распространения спор. Он выглядит как цветная липкая масса, тянущаяся от пола до потолка 
+</div></div>
+  <div>Средне</div>
 </div>
  
 <div class="roles-table ceco">
