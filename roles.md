@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-08-25T03:05:30.049Z
+date: 2025-08-25T12:14:00.487Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -203,8 +203,6 @@ dateCreated: 2024-09-10T19:07:41.779Z
   <!--<div><a href="/roles/clerk">Клерк</a><a href="/roles/clerk"><img src="/roles/clerk.png" /></a></div>
   <div><div>Этого человека вы найдете за стопкой бумаг выше, чем он сам. Законы, правила, постановления - он знает их все наизусть, и горе тому, кто попытается найти в них лазейку.</div></div>
   <div>Легко</div>-->
-</div>
-
 </div>
 
 <div class="roles-table serv">
