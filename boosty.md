@@ -2,7 +2,7 @@
 title: Бусти команды
 description: Здесь вы можете поддержать людей из стаффа, которые завели свой бусти.
 published: true
-date: 2025-06-16T18:18:51.921Z
+date: 2025-08-25T01:56:03.339Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-31T07:49:55.557Z
@@ -71,11 +71,6 @@ dateCreated: 2024-10-31T07:49:55.557Z
       <td>Toki</td>
       <td><a href="https://boosty.to/tokijumper">https://boosty.to/tokijumper</a></td>
       <td>Лучший из лучших по мнению его самого.</td>
-    </tr>
-    <tr>
-      <td>Kutos</td>
-      <td><a href="https://boosty.to/ponystation">boosty.to/ponystation</a></td>
-      <td>Один из активнейших викиводов.</td>
     </tr>
   </table>
 </div>
