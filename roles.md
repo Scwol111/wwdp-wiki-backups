@@ -2,7 +2,7 @@
 title: Роли
 description: Роли, экипаж, команда
 published: true
-date: 2025-08-25T12:14:00.487Z
+date: 2025-08-31T20:22:55.596Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:41.779Z
@@ -26,30 +26,30 @@ dateCreated: 2024-09-10T19:07:41.779Z
  
 <div class="roles-table comm">
   <div class="title comm-title">
-    <div class="link"><h2><a href="/roles/command" class="comm-color">Командование</a></h2></div>
+    <div class="link"><h2><a href="/roles/command" class="comm-color">Школьники</a></h2></div>
   	<div>Роль</div>
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/captain">Капитан</a><a href="/roles/captain"><img src="/roles/captain.png" /></a></div>
+  <div><a href="/roles/captain">Капитан</a><a href="/roles/captain"><img src="/schoolboy.png" /></a></div>
   <div><div>Голова всей станции. Отдаёт какие-то там приказы, иногда они бывают дельными. Часто осознаёт, что у него украли ID. Нередко параноик и вооружён при любом коде.</div></div>
   <div>Сложно - Боль</div>
-  <div><a href="/roles/headofpersonnel">Глава Персонала</a><a href="/roles/headofpersonnel"><img src="/roles/headofpersonnel.png" /></a></div>
+  <div><a href="/roles/headofpersonnel">Глава Персонала</a><a href="/roles/headofpersonnel"><img src="/schoolboy.png" /></a></div>
   <div><div>Правая рука и заместитель капитана. Главная роль - управление <a href="/roles#сервисный-отдел">отделом сервиса</a>, а также изменением доступа ID члена экипажа, при необходимости. Дополнительно следит за работой станции и отделов. Часто забивает на свою работу, и идёт ловить преступников, а иногда вообще... не выдерживает.</div></div>
   <div>Достаточно сложно</div>
-  <div><a href="/roles/headofsecurity">Глава Службы Безопасности</a><a href="/roles/headofsecurity"><img src="/roles/headofsecurity.png" /></a></div>
+  <div><a href="/roles/headofsecurity">Глава Службы Безопасности</a><a href="/roles/headofsecurity"><img src="/schoolboy.png" /></a></div>
   <div><div><a href="/roles#служба-безопасности">Глава порядка</a> на этой станции. Либо хороший, либо мёртвый. Другого не дано. Вы будите молиться, чтобы в случае чего пытал и допрашивал Вас не он. Уходит спать и никогда не просыпается. Плохо подавляет отдел снабжения от заполучения независимости.</div></div>
   <div>Достаточно сложно</div>
-  <div><a href="/roles/chiefengineer">Старший Инженер</a><a href="/roles/chiefengineer"><img src="/roles/chiefengineer.png" /></a></div>
+  <div><a href="/roles/chiefengineer">Старший Инженер</a><a href="/roles/chiefengineer"><img src="/schoolboy.png" /></a></div>
   <div><div>Заведует <a href="/roles#инженерный-отдел">отделом инженерии</a>. Строит шаттл, чтобы в случае чего свалить либо помешать получение независимости отделом снабжения, либо объявляет независимости инженерии. Имеет крутые инструменты, которыми не против завладеть почти любой. Кричит "ДА БУДЕТ СВЕТ!" и взрывает <a href="/guides/antimatterengine">ДАМ</a>. Умирает из-за <a href="/roles/atmospherictechnician">атмосферного инженера</a>, который открутил трубу с высоким давлением.</div></div>
 	<div>Сложно</div>
-  <div><a href="/roles/researchdirector">Мистагог</a><a href="/roles/researchdirector"><img src="/roles/researchdirector.png" /></a></div>
+  <div><a href="/roles/researchdirector">Мистагог</a><a href="/roles/researchdirector"><img src="/schoolboy.png" /></a></div>
 	<div><div>Руководит одним из самых важных, а также опасных отделов, а именно <a href="/roles#научный-отдел">отделом науки</a>! Обеспечивает контроль того, чтобы у всех было всё новенькое и продвинутое. Вооружает отдел оружием, гранатами, минами, защищает гермозатворами и всем остальным, что под руку попадётся, а затем варит наркотики и умирает из-за того, что научный ассистент ради шутки заварил его в ящике холодильника.</div></div>
 	<div>Средне, но со сложностями</div>
-  <div><a href="/roles/chiefmedicalofficer">Главный Врач</a><a href="/roles/chiefmedicalofficer"><img src="/roles/chiefmedicalofficer.png" /></a></div>
+  <div><a href="/roles/chiefmedicalofficer">Главный Врач</a><a href="/roles/chiefmedicalofficer"><img src="/schoolboy.png" /></a></div>
   <div><div>Руководит <a href="/roles#медицинский-отдел">медицинским отделом</a>. Обеспечивает и контролирует обеспечение станции лекарствами и спасением вашей пятой точки. По итогу варит наркотики вместе с химиками и сам ложится на больничную койку ввиду передозировки.</div></div>
 	<div>Сложно</div>
-  <div><a href="/roles/quartermaster">Квартирмейстер</a><a href="/roles/quartermaster"><img src="/roles/quartermaster.png" /></a></div>
+  <div><a href="/roles/quartermaster">Квартирмейстер</a><a href="/roles/quartermaster"><img src="/schoolboy.png" /></a></div>
   <div><div>Руководитель <a href="/roles#отдел-снабжения">отдела снабжения</a>. Контролирует обеспечение станции всем необходимым. По итогу снабжает свой отдел чем вздумается ему и угоняет шаттл отдела снабжения, объявляя независимость "Каргонии".</div></div>
 	<div>Средне, но со сложностями</div>
  <!--<div><a href="/roles/chief_justice">Главный судья</a><a href="/roles/chief_justice"><img src="/roles/chief_justice.png" /></a></div>
