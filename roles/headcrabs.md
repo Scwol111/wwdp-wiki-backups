@@ -2,7 +2,7 @@
 title: Хедкрабы
 description: 
 published: true
-date: 2025-10-01T17:33:47.725Z
+date: 2025-10-01T17:34:27.949Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-30T16:10:41.153Z
