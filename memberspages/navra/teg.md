@@ -2,13 +2,13 @@
 title: ТЭГ
 description: Трубоёб Виталя
 published: false
-date: 2025-07-17T14:38:49.463Z
+date: 2025-10-04T12:15:51.579Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-26T18:32:42.626Z
 ---
 
-<div class="teg-guide-container">
+
   <h1 class="main-title">Что такое ТЭГ</h1>
   <div class="teg-description-box">
     <div class="teg-border-top-line"></div>
