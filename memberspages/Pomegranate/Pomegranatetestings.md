@@ -2,7 +2,7 @@
 title: Test
 description: Test
 published: false
-date: 2025-10-08T18:18:02.967Z
+date: 2025-10-08T18:21:24.294Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T13:23:49.332Z
@@ -17,6 +17,6 @@ Your content here
 {.is-warning}
 ### f
 #### Советы
-![ксеновчулках(сжатый).png](/roles/antagonists/xenomorph/ксеновчулках(сжатый).png)
+![ксеновчулках(сжатый).png](/roles/antagonists/xenomorph/ксеновчулках(сжатый).png) я передумал, Завтра уберу это
 ##### F
 <div class="table"></div>
