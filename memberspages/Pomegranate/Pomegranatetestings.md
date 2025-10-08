@@ -2,7 +2,7 @@
 title: Test
 description: Test
 published: false
-date: 2025-10-08T18:12:32.135Z
+date: 2025-10-08T18:18:02.967Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T13:23:49.332Z
@@ -16,7 +16,7 @@ Your content here
 > сдесь был срочник
 {.is-warning}
 ### f
-#### Советы!
-[ксено_в_чулках.png](/roles/antagonists/xenomorph/ксено_в_чулках.png)
+#### Советы
+![ксеновчулках(сжатый).png](/roles/antagonists/xenomorph/ксеновчулках(сжатый).png)
 ##### F
 <div class="table"></div>
