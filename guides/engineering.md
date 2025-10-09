@@ -2,8 +2,8 @@
 title: Инженерия
 description: 
 published: true
-date: 2025-03-16T15:29:04.732Z
-tags: руководство, инженерный
+date: 2025-10-09T16:46:43.970Z
+tags: инженерный, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:19:26.495Z
 ---
@@ -28,6 +28,14 @@ dateCreated: 2024-09-29T18:19:26.495Z
   <!-- Радиация -->
   <div class="table-item">
     <img src="/guides/engineering/radiationcollector.gif" alt="radiationcollector.gif" />
+    Радиация
+  </div>
+  <div class="table-item">
+    <span>Общее название для альтернативных способов получения энергии от радиации. С помощью коллекторов радиации можно выработать электроэнергию из бананиума или артефакта, имеющего радиоационный фон.</span>
+  </div>
+  <!-- ТЭГ -->
+  <div class="table-item">
+    <img class="teg" src="/guides/engineering/teg/teg.gif" alt="radiationcollector.gif" />
     Радиация
   </div>
   <div class="table-item">
