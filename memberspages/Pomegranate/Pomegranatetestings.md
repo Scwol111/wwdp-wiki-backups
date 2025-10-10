@@ -2,7 +2,7 @@
 title: Test
 description: Test
 published: false
-date: 2025-10-08T18:21:24.294Z
+date: 2025-10-10T10:19:45.644Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T13:23:49.332Z
@@ -12,11 +12,11 @@ dateCreated: 2025-10-05T13:23:49.332Z
 {.is-danger}
 
 Your content here
-## f
+## <h*>F</h*>
 > сдесь был срочник
 {.is-warning}
 ### f
 #### Советы
-![ксеновчулках(сжатый).png](/roles/antagonists/xenomorph/ксеновчулках(сжатый).png) я передумал, Завтра уберу это
+<img src="/roles/antagonists/xenomorph/ксеновчулках(сжатый).png" id="img">
 ##### F
 <div class="table"></div>
