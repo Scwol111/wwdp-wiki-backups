@@ -2,12 +2,13 @@
 title: Сингулярность
 description: 
 published: true
-date: 2024-10-20T12:14:08.066Z
+date: 2025-10-12T10:28:26.365Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:14:55.594Z
 ---
 
+<h1 align="center">Сингулярность</h1>
 <div class="box" id="singlist">
   <div>
     <div class="imageHolder"><img src="/guides/engineering/singularity/singularity_1.gif" id="singularity_img">
