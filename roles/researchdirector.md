@@ -2,7 +2,7 @@
 title: Научный Руководитель
 description: 
 published: true
-date: 2025-10-15T14:05:13.210Z
+date: 2025-10-15T18:27:51.834Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -69,6 +69,38 @@ dateCreated: 2024-09-25T18:07:39.208Z
 Их можно достать и перерабатывая мусор, помните об этом!
 
 
+## Ваше снаряжение
+<center>
+<table class="com">
+<thead>
+<tr>
+<th>Предмет</th>
+<th>Описание</th>
+</tr></thead>
+<tr>
+<td><img src="/idcard.png" alt="IDcard" width="64" height="64"><br>ID карта мистагога</td>
+<td>Запасная ID карта с доступами мистагога.</td>
+</tr>
+<tr>
+<td><img src="/armor/rdspacesuit.png" alt="Скафандр мистигога" width="64" height="64"><br>NT-45e - "София" </td>
+<td>Особый скафандр мистагога, имеет отличную защиту от кислотного, взрывного, радиационного, и теплового урона, и чуть защищает от физического ущерба.</td>
+</tr>
+<tr>
+<td><img src="/doorremoteresearch.png" alt="ПультУправленияШлюзами" width="64" height="64"><br>Пульт управления</td>
+<td>Открывает, закрывает, болтирует и ставит на аварийку двери научного отдела.</td>
+</tr>
+<tr>
+<td><img src="/rubberstamprd.png" alt="штампрд.png" width="64" height="64"><br>Уникальный штамп</td>
+<td>Ваш уникальный штамп научного руководителя. Чертов Бюрократ!</td>
+</tr>
+<tr>
+<td><img src="/guides/especiallyvaluableitems/machine_board.png" alt="machine_board.png" width="64" height="64"><br>Особо ценные платы</td>
+<td>В эти платы входят: плата консоли исследований и плата загрузки законов ИИ, и сами законы.</td>
+</tr>
+<tr>
+<td><img src="/guides/especiallyvaluableitems/hand_teleporter.gif" alt="hand_teleporter.gif" width="64" height="64"><br>Ручной телепортер</td>
+<td>Ручной телепортер, позволяет создавать порталы.</td>
+</tr></table></center>
 
 ---
 
@@ -99,7 +131,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
 
 [Подробнее о псионических способностях](/guides/psionics)
 
-![rdspacesuit.png](/armor/rdspacesuit.png)
+
 
 
 
