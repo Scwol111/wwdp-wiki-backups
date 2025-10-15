@@ -2,7 +2,7 @@
 title: Научный Руководитель
 description: 
 published: true
-date: 2025-10-15T23:31:07.391Z
+date: 2025-10-15T23:37:54.875Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -102,7 +102,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
 <td>В эти платы входят: плата консоли исследований и плата загрузки законов ИИ, и сами законы.</td>
 </tr>
 <tr>
-<td><img src="/guides/especiallyvaluableitems/hand_teleporter.gif" alt="hand_teleporter.gif" width="64" height="64"><br>Ручной телепортер</td>
+<td><img src="/handteleporter.png" alt="hand_teleporter.gif" width="64" height="64"><br>Ручной телепортер</td>
 <td>Ручной телепортер, позволяет создавать порталы.</td>
 </tr>
 <tr>
