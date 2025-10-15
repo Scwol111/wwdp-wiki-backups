@@ -2,7 +2,7 @@
 title: Научный Руководитель
 description: 
 published: true
-date: 2025-10-15T23:09:38.839Z
+date: 2025-10-15T23:10:19.165Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
