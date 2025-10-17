@@ -1,9 +1,9 @@
 ---
-title: Научный Руководитель
+title: Мистагог
 description: 
 published: true
-date: 2025-10-17T23:36:32.672Z
-tags: 
+date: 2025-10-17T23:58:06.378Z
+tags: рнд, научный руководитель, нр, мистагог, синагог, еврей
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
 ---
