@@ -2,7 +2,7 @@
 title: Научный Руководитель
 description: 
 published: true
-date: 2025-10-17T02:21:27.816Z
+date: 2025-10-17T23:36:32.672Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -23,7 +23,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
         <div id="tb1" style="display:non">
           <h1>Мистагог</h1>
         <p><strong>Сложность:</strong> Средняя</p>
-        <strong>Обязанности:</strong> Глава исследований и разработки. Следить за работой отдела, а также за выполнением их задач.<br>
+        <strong>Обязанности:</strong> Следить за работой отдела, а также за выполнением их задач.<br>
         <b>Руководители</b>: <a href="/roles/captain" title="Капитан">Капитан</a><br>
         <b>Руководства</b>: <a href="/guides/hierarchyofcommand">Иерархия Командования</a> • <a href="/guides/xenoarcheology">Ксеноархеология</a> • <a href="/guides/anomalies">Аномалии</a> • <a href="/guides/robotics">Робототехника</a> • <a href="/guides/psionics">Псионика</a>
         </div>
@@ -57,6 +57,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
 Вы отвечаете за него, и несёте за него ответственность. Он может запросить смену законов. Платы законов обычно находятся в ядре/хранилище у ИИ, там же где и консоль загрузки законов.
 
 ![ы12ыыы.png](/ы12ыыы.png){.align-center}
+
 
 <center>Снабжайте отдел!</center>
 ---
