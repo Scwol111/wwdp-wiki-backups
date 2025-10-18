@@ -2,7 +2,7 @@
 title: Автодок
 description: 
 published: true
-date: 2025-10-18T22:03:01.548Z
+date: 2025-10-18T22:04:07.450Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T10:48:37.042Z
@@ -20,7 +20,7 @@ dateCreated: 2025-05-22T10:48:37.042Z
 <p>Для начала работы используйте мультитул, чтобы подключить его к ближайшему операционному столу. Как только устройство обнаружит спящего на столе, вы готовы к операции!</p>
 <br>
 <center>
-<img src="/guides/medicine/autodoc/doc+mul.png" style="width: 75%;">
+<img src="/guides/medicine/autodoc/doc+mul.png" style="width: 50%;">
 </center>
 
 <h2>Как заставить эту штуку работать, помогите</h2>
