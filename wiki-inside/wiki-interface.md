@@ -2,7 +2,7 @@
 title: Интерфейс
 description: 
 published: false
-date: 2025-10-05T12:06:53.314Z
+date: 2025-10-20T18:54:12.916Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-26T21:28:49.931Z
@@ -88,7 +88,22 @@ JavaScript (JS) — язык программирования, который и
   
 Это нужно для того, чтобы ваш js код пахал. Всё будещее вводите внутри этой функции.
 
-<img src="/guides/wiki/js.png" alt="securityarmor.png" style="vertical-align: middle; ">
+<img src="/guides/wiki/js.png" style="vertical-align: middle; ">
+  
+### <center> Картинки
+  
+  Сюда жмать, чтобы загружать картинки и в принципе искать их.
+<img src="/guides/wiki/activ.png" style="vertical-align: middle; ">
+
+  1) путь
+2) папки
+3) спрайты
+4) сюда загружаете картинки (КАРТИНКИ ВЫ ЗАГРУЖАЕТЕ НЕ В ОСНОВНУЮ ПАПКУ БЛЯТЬ, А В ОПРЕДЕЛЁННЫЕ ПО НАЗВАНИЯМ. <b>И НЕ НА РУССКОМ, А НА АНГЛИЙСКОМ ЯЗЫКЕ НАЗВАНИЯ ПИШИТЕ НОРМАЛЬНЫЕ.</b> ЕСЛИ НАЗВАНИЕ С ПРОБЕЛАМИ, ТО ЛИБО _ СТАВИТЕ, ЛИБО СЛИТНО ПИШИТЕ, НУ МОЖНО ЕЩЁ -, НАДЕЮСЬ ВЫ НЕ ТУПЫЕ И ПОНЯЛИ.)
+5) пример пути - "/guides/wiki/....png"
+  
+  <img src="/guides/wiki/activatet.png" style="vertical-align: middle; ">
+
+
 
 ## <center> Интерфейс в Markdown
  
