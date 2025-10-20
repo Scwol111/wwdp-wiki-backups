@@ -2,7 +2,7 @@
 title: test1
 description: 
 published: true
-date: 2025-10-20T18:22:59.528Z
+date: 2025-10-20T18:50:26.508Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-11T13:55:20.371Z
@@ -24,6 +24,8 @@ dateCreated: 2025-10-11T13:55:20.371Z
 </div>
 </div>
 
-<h2> че то там </h2>
+<h2>  </h2>
 
 <div class="table"></div>
+
+<div><img src="/abductorship01.png"></div>
