@@ -2,7 +2,7 @@
 title: test1
 description: 
 published: true
-date: 2025-10-20T09:45:38.122Z
+date: 2025-10-20T18:22:59.528Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-11T13:55:20.371Z
@@ -24,3 +24,6 @@ dateCreated: 2025-10-11T13:55:20.371Z
 </div>
 </div>
 
+<h2> че то там </h2>
+
+<div class="table"></div>
