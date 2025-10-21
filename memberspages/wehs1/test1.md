@@ -2,7 +2,7 @@
 title: test1
 description: 
 published: true
-date: 2025-10-20T19:05:10.026Z
+date: 2025-10-21T19:16:08.647Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-11T13:55:20.371Z
@@ -12,7 +12,7 @@ dateCreated: 2025-10-11T13:55:20.371Z
 <div class="roles-passport antag">
   <div class="title antag"><a href="/roles/antagonists">Антагонист</a></div>
   <div>
-    <div><div><img src="/roles/abductor/абдуктор_ученый.png"></div></div>
+    <div><div><img src="/roles/abductor/abductor_science.png"></div></div>
   <div><div>
     <h1>Абдуктор</h1>
     <p><strong>Сложность:</strong> Сложная</p>
@@ -26,7 +26,9 @@ dateCreated: 2025-10-11T13:55:20.371Z
 <p>
 Абдукторы - событие появляющееся в течении раунда. С помощью инопланетных технологий они похищают экипаж к себе на корабль и проводят эксперементы.
 
+## Рубрика эксперементы!
+#### Вы прибываете в сектор станции на инопланетной тарелке - один или вдвоем.
+![abductorship01.png](/abductorship01.png)
 ## 
-
 <div class="table"></div>
 
