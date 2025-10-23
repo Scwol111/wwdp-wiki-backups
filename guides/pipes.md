@@ -2,7 +2,7 @@
 title: Газы
 description: 
 published: true
-date: 2025-10-23T15:50:20.029Z
+date: 2025-10-23T17:06:24.008Z
 tags: атмос, инженерный, руководство
 editor: markdown
 dateCreated: 2024-09-28T09:40:05.422Z
