@@ -2,38 +2,34 @@
 title: Test
 description: Test
 published: false
-date: 2025-10-13T20:20:00.651Z
+date: 2025-10-26T08:19:02.528Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T13:23:49.332Z
 ---
 
-> # Header
-{.is-danger}
-
-Your content here
-## <h*>F</h*>
-> сдесь был срочник
+> В настоящее время "Вторжение ксеноморфов" крайне редко себя проявляет из-за малого онлайна на серверах, возможно вы никогда его не увидите.
 {.is-warning}
+
+<img src="" id="img">
+
+## 
+
 ### f
+
 #### Советы
-<img src="/roles/antagonists/xenomorph/ксеновчулках(сжатый).png" id="img">
+
+<img src="" id="img">
+
 ##### F
+
+
+
+
+
+
+
 <div class="table"></div>
 
-
-
-
-
-
-
-<img src="" id="img">
-<img src="" id="img">
-<img src="" id="img">
-<img src="" id="img">
-<img src="" id="img">
-<img src="" id="img">
-<img src="" id="img">
-<img src="" id="img">
-<img src="" id="img">
-<img src="" id="img">
+> Сдесь был срочник
+{.is-danger}
