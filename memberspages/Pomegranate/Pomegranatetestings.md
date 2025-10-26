@@ -2,7 +2,7 @@
 title: Test
 description: Test
 published: false
-date: 2025-10-26T09:00:12.935Z
+date: 2025-10-26T09:26:56.907Z
 tags: 
 editor: markdown
 dateCreated: 2025-10-05T13:23:49.332Z
@@ -40,11 +40,13 @@ dateCreated: 2025-10-05T13:23:49.332Z
  </tr>
     </thead>
   <tbody>
-    <tr>
-      <th><img src="plant_seed.png" id="img"></th>
+      <tr>
+      <th><img src="/roles/antagonists/xenomorph/plant_seed.png" id="img"></th>
             <td>Текст 1</td>
-        </tr>
+      <td>ахуевание от работы и этой таблицы<td>
+        </tr> 
     </tbody>
+  <tfoot>
 </table>
 
 
