@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: true
-date: 2025-10-06T16:38:37.988Z
+date: 2025-12-03T09:20:36.269Z
 tags: сб
 editor: markdown
 dateCreated: 2025-03-18T21:05:17.423Z
@@ -38,8 +38,8 @@ dateCreated: 2025-03-18T21:05:17.423Z
             <tr>
                 <th class="code">01</th>
                 <th class="minor" style="height: 75px; color:#aad6f0;"><a href="#s101" style="color:#c5e7fa;">Побои</a></th>
-                <th class="mild"><a href="#s201" style="color:#c5e7fa;">Легкие телесные<br> повреждения</a></th>
-                <th class="grave"><a href="#s301" style="color:#c5e7fa;">Средние телесные<br> повреждения</a></th>
+                <th class="mild"><a href="#s201" style="color:#c5e7fa;">Средние телесные<br> повреждения</a></th>
+                <th class="grave"><a href="#s301" style="color:#c5e7fa;">Тяжкие телесные<br> повреждения</a></th>
                 <th class="critical"><a href="#s401" style="color:#c5e7fa;">Покушение на убийство/<br>убийство сотрудника</a></th>
             </tr>
             <tr>
