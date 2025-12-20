@@ -2,7 +2,7 @@
 title: Сингулярность
 description: 
 published: true
-date: 2025-12-14T19:26:32.506Z
+date: 2025-12-20T20:36:21.079Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:14:55.594Z
@@ -312,6 +312,22 @@ dateCreated: 2024-09-26T19:14:55.594Z
   </map>
 </div>
 </div>
+
+<div>
+  <div>
+    <b>txt1</b>
+  </div>
+  <div>
+    <img src="/guides/engineering/singularity/particle-accelerator.png" usemap="#map-particle-accelerator">
+    <map name="map-particle-accelerator">
+      
+    </map>
+  </div>
+  <div>
+    <b>txt2</b>
+  </div>
+</div>
+
 
 <h2>Поле сингулярности</h2>
 
