@@ -2,7 +2,7 @@
 title: Сингулярность
 description: 
 published: true
-date: 2025-12-21T05:20:40.867Z
+date: 2025-12-21T05:40:05.120Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:14:55.594Z
@@ -119,9 +119,16 @@ dateCreated: 2024-09-26T19:14:55.594Z
 <b>Ускоритель частиц</b> - устройство, которое, как не странно, разгоняет частицы и выпускает их. Они врезаются в генератор сингулярности, который в свою очередь поглощает кинетическую энергию и наращивает свою массу по формуле e=mc^2^. Из-за огромной массы в одном месте, в генераторе сингулярности создаются условия для её существования..
 <br><CENTER>Далее поподробнее об устройстве ускорителя частиц.</CENTER>
 <p>
-<div style="display: block; width=100%">
-  <div style="width=30%">
-    <b>txt1</b>
+<div style="display: block; width=100%;">
+  <div style="width=30%;">
+    <div>Торцевая крышка УЧ</div>
+    <div>Топливная камера УЧ</div>
+    <div>Силовая установка УЧ</div>
+    <div>Левый Эммитер УЧ</div>
+    <div>Центральный эммитер УЧ</div>
+    <div>Правый Эммитер УЧ</div>
+    <div>Консоль управления УЧ</div>
+    <div>Общая информация</div>
   </div>
   <div style="width=40%">
     <img src="/guides/engineering/singularity/particle-accelerator.png" usemap="#map-particle-accelerator">
@@ -133,7 +140,7 @@ dateCreated: 2024-09-26T19:14:55.594Z
       <area title="Центральный эммитер УЧ" id="center" href="" coords="" shape="rect">
       <area title="Правый Эммитер УЧ" id="right" href="" coords="" shape="rect">
       <area title="Консоль управления УЧ" id="comp" href="" coords="" shape="rect">
-      <area title="Общая информация" id="info"href="" coords="" shape="rect">
+      <area title="Общая информация" id="info" href="" coords="" shape="rect">
     </map>
   </div>
   <div style="width=30%">
