@@ -2,7 +2,7 @@
 title: Главная страница
 description: 
 published: true
-date: 2025-12-21T21:44:17.606Z
+date: 2025-12-21T21:44:39.494Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T21:32:27.781Z
@@ -118,18 +118,10 @@ dateCreated: 2025-12-21T21:32:27.781Z
                 <p>Впервые на нашем сервере? Для того, чтобы начать своё погружение в удивительный мир космической станции, прочитайте как начать играть с нами на <a href="" class="is-external-link" style="text-decoration: none!important;">сайте, которого пока нет.</a></p>
               </div>-->
               <p>
-<center><b><font size="5">Сервера White Dream</font></b></center>
+<center><b><font size="5">Айпи сервера</font></b></center>
               <div></div>
               <p>
 <div class="containerextra">
-  <!-- Medusa -->
-  <div class="servermenu server-btn is-external-link-r">
-    <div>🌠Europa</div>
-    <div class="server-ip-wrapper">
-      <span class="ip-text">ss-14.ru/europa</span>
-      <span class="opov-copy">Скопировано</span>
-    </div>
-  </div>
   <!-- Reserve -->
   <div class="servermenu server-btn is-external-link-r">
     <div>🍀Reserve</div>
@@ -138,12 +130,3 @@ dateCreated: 2025-12-21T21:32:27.781Z
       <span class="opov-copy">Скопировано</span>
     </div>
   </div>
-  <!-- Wyrm
-  <div class="servermenu server-btn is-external-link-r">
-    <div>🏳️Wyrm EN</div>
-    <div class="server-ip-wrapper">
-      <span class="ip-text">Отключен</span>
-      <span class="opov-copy">Скопировано</span>
-    </div>
-  </div>
-</div> -->
