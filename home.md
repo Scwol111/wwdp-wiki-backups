@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница. Вики SS14, СС14, Космическая станция 14, космическая ебанина 14, ВД, Вайт Дрим, WD, White Dream, WWDP, ВВДП.
 published: true
-date: 2025-12-21T19:59:50.660Z
+date: 2025-12-21T20:05:50.187Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -126,7 +126,7 @@ dateCreated: 2024-09-10T19:12:06.984Z
   <div class="servermenu server-btn is-external-link-r">
     <div>🌠Europa</div>
     <div class="server-ip-wrapper">
-      <span class="ip-text">medusa.wwdp.ee</span>
+      <span class="ip-text">ss-14.ru/europa</span>
       <span class="opov-copy">Скопировано</span>
     </div>
   </div>
