@@ -2,7 +2,7 @@
 title: Правила
 description: 
 published: true
-date: 2025-12-21T21:48:04.263Z
+date: 2025-12-21T21:48:36.797Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:43.345Z
@@ -32,7 +32,7 @@ dateCreated: 2024-09-10T19:07:43.345Z
   <p id="warn" class="t-red infobox danger-custom"><b>ДЛЯ ИГРЫ НА СЕРВЕРАХ WWDP ВАМ ДОЛЖНО <b>БЫТЬ НЕ МЕНЕЕ 16 ЛЕТ</b>. ПОЛЬЗОВАТЕЛИ, ПОДОЗРЕВАЕМЫЕ В ТОМ, ЧТО ИМ МЕНЬШЕ 16 ЛЕТ, БУДУТ ЗАБЛОКИРОВАНЫ ДО ДОСТИЖЕНИЯ ИМИ УСТАНОВЛЕННОГО ПРАВИЛАМИ СЕРВЕРА ВОЗРАСТА.</b></p>
 <br>
 	<div id="servers">
-    <button id="medusa">Reserve station</button>
+    <button id="medusa">Europa</button>
 	</div>
   <div id="rule">
 
