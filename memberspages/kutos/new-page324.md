@@ -2,7 +2,7 @@
 title: Главное меню 2
 description: 
 published: true
-date: 2025-12-21T19:35:57.658Z
+date: 2025-12-21T19:57:11.442Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T19:35:57.658Z
