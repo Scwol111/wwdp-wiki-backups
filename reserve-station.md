@@ -2,7 +2,7 @@
 title: Reserve station
 description: 
 published: true
-date: 2025-12-21T22:07:30.555Z
+date: 2025-12-21T22:38:57.229Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T21:55:19.391Z
@@ -24,7 +24,7 @@ dateCreated: 2025-12-21T21:55:19.391Z
                     </a>
                   </div>
                   <div>
-                    <a href="/rules" class="icon-link is-internal-link is-valid-page">
+                    <a href="/reserve-station/rules" class="icon-link is-internal-link is-valid-page">
                       <img src="https://wiki.ss14.su/main_page_icons/rule_icon.png">
                       <b>Правила</b>
                     </a>
