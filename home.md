@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница. Вики SS14, СС14, Космическая станция 14, космическая ебанина 14, ВД, Вайт Дрим, WD, White Dream, WWDP, ВВДП.
 published: true
-date: 2025-12-21T18:47:04.763Z
+date: 2025-12-21T18:52:03.785Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -121,30 +121,33 @@ dateCreated: 2024-09-10T19:12:06.984Z
               <div></div>
               <hr>
 <div class="containerextra">
+  <!-- Medusa -->
   <div class="servermenu">
     <div>🏳️Medusa</div>
     <div>
-      <a class="is-external-link-r" onclick="copyIp(this)" style="cursor: pointer;">
+      <a class="is-external-link-r server-btn" style="cursor: pointer;">
         <span>medusa.wwdp.ee</span>
         <span class="opov-copy">Скопировано</span>
       </a>
     </div>
   </div>
   
+  <!-- Reserve -->
   <div class="servermenu">
     <div>🍀Reserve</div>
     <div>
-      <a class="is-external-link-r" onclick="copyIp(this)" style="cursor: pointer;">
+      <a class="is-external-link-r server-btn" style="cursor: pointer;">
         <span>reserve-station.space</span>
         <span class="opov-copy">Скопировано</span>
       </a>
     </div>
   </div>
 
+  <!-- Wyrm -->
   <div class="servermenu">
     <div>🏳️Wyrm EN</div>
     <div>
-      <a class="is-external-link-r" onclick="copyIp(this)" style="cursor: pointer;">
+      <a class="is-external-link-r server-btn" style="cursor: pointer;">
         <span>Отключен</span>
         <span class="opov-copy">Скопировано</span>
       </a>
