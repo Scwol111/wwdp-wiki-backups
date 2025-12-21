@@ -2,7 +2,7 @@
 title: Игровые режимы
 description: 
 published: true
-date: 2025-03-01T18:57:56.093Z
+date: 2025-12-21T18:54:15.563Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:34.643Z
@@ -191,7 +191,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
 <p><strong>Песочница</strong> - это режим, который дает игрокам возможность использовать некоторые инструменты отладки игры, а именно панели <i>spawn entities</i> и <i>spawn tiles</i>, позволяющие создавать все, что вы хотите, используя большое количество объектов, содержащихся в игре. <strong>Не может быть выбрана при обычной игре.</strong></p>
 </div>
 
-</div><button type="button" class="collapsible">
+<!-- </div><button type="button" class="collapsible">
 <h2 class="toc-header"><a class="toc-anchor"></a> 
     <div class="titleBox" style="margin: 0">
     <img class="huy" style="margin-left:30px;  width: 128px;  image-rendering: auto;" src="/tbp.png">
@@ -200,7 +200,7 @@ dateCreated: 2024-09-10T19:07:34.643Z
 </button>
 <div class="content">
 <p><strong>Тюрьма Веселого Режима</strong> - это режим, в котором взаимодействуют две команды. Одна играет роль тюремных надзирателей, а другая - отпетых преступников. Игроки соревнуются на различных локациях и участвуют в играх на выживание.</p>
-</div><div>
+</div><div> -->
 <p></p><div>
   
 
