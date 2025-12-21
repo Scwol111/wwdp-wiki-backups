@@ -2,7 +2,7 @@
 title: Главная страница
 description: 
 published: true
-date: 2025-12-21T21:47:20.658Z
+date: 2025-12-21T21:49:49.111Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T21:32:27.781Z
@@ -24,45 +24,33 @@ dateCreated: 2025-12-21T21:32:27.781Z
                     </a>
                   </div>
                   <div>
-                    <a href="/rules" class="icon-link is-internal-link is-valid-page">
+                    <a href="/reserve-station/rules" class="icon-link is-internal-link is-valid-page">
                       <img src="https://wiki.ss14.su/main_page_icons/rule_icon.png">
                       <b>Правила</b>
                     </a>
                   </div>
                   <div>
-                    <a href="/roles" class="icon-link is-internal-link is-valid-page">
+                    <a href="/reserve-station/roles" class="icon-link is-internal-link is-valid-page">
                       <img src="https://wiki.ss14.su/main_page_icons/roles_icon.png">
                       <b>Роли</b>
                     </a>
                   </div>
                   <div>
-                    <a href="/guides" class="icon-link is-internal-link is-valid-page">
+                    <a href="/reserve-station/guides" class="icon-link is-internal-link is-valid-page">
                       <img src="https://wiki.ss14.su/main_page_icons/guides_icon.png">
                       <b>Руководства</b>
                     </a>
                   </div>
                   <div>
-                    <a href="/spacelaw" class="icon-link is-internal-link is-valid-page">
+                    <a href="/reserve-station/spacelaw" class="icon-link is-internal-link is-valid-page">
                       <img src="https://wiki.ss14.su/main_page_icons/space_law_icon.png">
                       <b>Космический Закон</b>
                     </a>
                   </div>
                   <div>
-                    <a href="/gamemodes" class="icon-link is-internal-link is-valid-page">
+                    <a href="/reserve-station/gamemodes" class="icon-link is-internal-link is-valid-page">
                       <img src="https://wiki.ss14.su/main_page_icons/gamemodes_icon.png">
                       <b>Игровые режимы</b>
-                    </a>
-                  </div>
-                  <div>
-                    <a href="/backstory" class="icon-link is-internal-link is-valid-page">
-                      <img src="https://wiki.ss14.su/main_page_icons/nt_icon.png">
-                      <b>Лор</b>
-                    </a>
-                  </div>
-                  <div>
-                    <a href="/maps" class="icon-link is-external-link">
-                      <img src="https://wiki.ss14.su/main_page_icons/maps_icon.png">
-                      <b>Карты</b>
                     </a>
                   </div>
                 </div>
