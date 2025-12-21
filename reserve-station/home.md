@@ -2,7 +2,7 @@
 title: Главная страница
 description: 
 published: true
-date: 2025-12-21T21:32:27.781Z
+date: 2025-12-21T21:34:38.683Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T21:32:27.781Z
@@ -13,7 +13,7 @@ dateCreated: 2025-12-21T21:32:27.781Z
           <div class="contents">
             <div>
               <center>
-                <img src="/main_page_icons/wwdpwikilogo228.png" class="try-cock">
+                <img src="/main_page_icons/reserve/reservewikilogo228.png" class="try-cock">
               </center>
               <div class="maincontainer">
                 <div class="buttoncontainer">
