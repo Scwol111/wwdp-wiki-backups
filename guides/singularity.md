@@ -2,7 +2,7 @@
 title: Сингулярность
 description: 
 published: true
-date: 2025-12-21T05:41:35.300Z
+date: 2025-12-21T05:56:46.062Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:14:55.594Z
@@ -119,8 +119,8 @@ dateCreated: 2024-09-26T19:14:55.594Z
 <b>Ускоритель частиц</b> - устройство, которое, как не странно, разгоняет частицы и выпускает их. Они врезаются в генератор сингулярности, который в свою очередь поглощает кинетическую энергию и наращивает свою массу по формуле e=mc^2^. Из-за огромной массы в одном месте, в генераторе сингулярности создаются условия для её существования..
 <br><CENTER>Далее поподробнее об устройстве ускорителя частиц.</CENTER>
 <p>
-<div style="display: flex; width=100%;">
-  <div style="width=30%;">
+<div class="pa-block">
+  <div class="pa-txt">
     <div>Торцевая крышка УЧ</div>
     <div>Топливная камера УЧ</div>
     <div>Силовая установка УЧ</div>
@@ -130,7 +130,7 @@ dateCreated: 2024-09-26T19:14:55.594Z
     <div>Консоль управления УЧ</div>
     <div>Общая информация</div>
   </div>
-  <div style="width=40%">
+  <div style="width=60%">
     <img src="/guides/engineering/singularity/particle-accelerator.png" usemap="#map-particle-accelerator">
     <map name="map-particle-accelerator">
       <area title="Торцевая крышка УЧ" id="back" href="" coords="" shape="rect">
@@ -143,7 +143,7 @@ dateCreated: 2024-09-26T19:14:55.594Z
       <area title="Общая информация" id="info" href="" coords="" shape="rect">
     </map>
   </div>
-  <div style="width=30%">
+  <div class="pa-txt">
     <b>txt2</b>
   </div>
 </div>
