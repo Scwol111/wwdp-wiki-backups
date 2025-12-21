@@ -2,7 +2,7 @@
 title: Главная страница
 description: 
 published: true
-date: 2025-12-21T21:45:23.443Z
+date: 2025-12-21T21:47:20.658Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T21:32:27.781Z
@@ -85,12 +85,12 @@ dateCreated: 2025-12-21T21:32:27.781Z
                     </p>
                     <center>
                       <div class="community-div-flex">
-                        <a class="fredoka-font" href="https://discord.gg/Yscgvg48zb" class="community-link is-external-link">
+                        <a class="fredoka-font" href="https://discord.gg/PuquQyNfNj" class="community-link is-external-link">
                       <div class="community-element">
                         Discord
                       </div>
                         </a>
-                        <a class="fredoka-font" href="https://github.com/WWhiteDreamProject/wwdpublic" class="community-link is-external-link">
+                        <a class="fredoka-font" href="https://github.com/Reserve-Station/Reserve-Station" class="community-link is-external-link">
  											<div class="community-element">
 												GitHub
                       </div>
@@ -101,7 +101,7 @@ dateCreated: 2025-12-21T21:32:27.781Z
                         Forum
                       </div>
                         </a>
-                      <a class="fredoka-font" href="/boosty" class="community-link is-external-link"><div class="community-element">
+                      <a class="fredoka-font" href="https://boosty.to/reserve-station" class="community-link is-external-link"><div class="community-element">
                         Boosty
                       </div>
                         </a>
