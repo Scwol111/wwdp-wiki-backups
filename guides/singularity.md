@@ -2,7 +2,7 @@
 title: Сингулярность
 description: 
 published: true
-date: 2025-12-21T05:58:52.445Z
+date: 2025-12-21T06:44:35.224Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:14:55.594Z
@@ -136,15 +136,22 @@ dateCreated: 2024-09-26T19:14:55.594Z
       <area title="Торцевая крышка УЧ" id="back" href="" coords="" shape="rect">
       <area title="Топливная камера УЧ" id="mid" href="" coords="" shape="rect">
       <area title="Силовая установка УЧ" id="top" href="" coords="" shape="rect">
-      <area title="Левый Эммитер УЧ" id="left" href="" coords="" shape="rect">
+      <area title="Левый эммитер УЧ" id="left" href="" coords="" shape="rect">
       <area title="Центральный эммитер УЧ" id="center" href="" coords="" shape="rect">
-      <area title="Правый Эммитер УЧ" id="right" href="" coords="" shape="rect">
+      <area title="Правый эммитер УЧ" id="right" href="" coords="" shape="rect">
       <area title="Консоль управления УЧ" id="comp" href="" coords="" shape="rect">
       <area title="Общая информация" id="info" href="" coords="" shape="rect">
     </map>
   </div>
   <div class="pa-txt">
-    <b>txt2</b>
+    <div>Торцевая крышка УЧ является защитным элементом для гермитизации внутренней оболочки конструкции, предотвращающей загрязнение. Она обеспечивает безопасность конструкции и сохраняет её целостность.</div>
+    <div>Топливная камера УЧ. Названием элемента всё сказано.</div>
+    <div>Силовая установка УЧ - это энергетический комплекс, предназначенный для получения механической энергии и состоящий из двигательной установки и вспомогательного оснащения к ней.</div>
+    <div>Левый эммитер УЧ - </div>
+    <div>Центральный эммитер УЧ</div>
+    <div>Правый эммитер УЧ</div>
+    <div>Консоль управления УЧ</div>
+    <div>Общая информация</div>
   </div>
 </div>
 
