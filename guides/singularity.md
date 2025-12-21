@@ -2,7 +2,7 @@
 title: Сингулярность
 description: 
 published: true
-date: 2025-12-21T05:04:02.769Z
+date: 2025-12-21T05:16:32.249Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:14:55.594Z
@@ -313,11 +313,11 @@ dateCreated: 2024-09-26T19:14:55.594Z
 </div>
 </div>
 
-<div>
-  <div>
+<div style="display: flex; width=100%">
+  <div style="width=30%">
     <b>txt1</b>
   </div>
-  <div>
+  <div style="width=40%">
     <img src="/guides/engineering/singularity/particle-accelerator.png" usemap="#map-particle-accelerator">
     <map name="map-particle-accelerator">
       <area title="Торцевая крышка УЧ" id="back" href="" coords="" shape="rect">
@@ -330,7 +330,7 @@ dateCreated: 2024-09-26T19:14:55.594Z
       <area title="Общая информация" id="info"href="" coords="" shape="rect">
     </map>
   </div>
-  <div>
+  <div style="width=30%">
     <b>txt2</b>
   </div>
 </div>
