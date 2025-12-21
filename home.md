@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница. Вики SS14, СС14, Космическая станция 14, космическая ебанина 14, ВД, Вайт Дрим, WD, White Dream, WWDP, ВВДП.
 published: true
-date: 2025-12-21T18:40:47.756Z
+date: 2025-12-21T18:47:04.763Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -120,23 +120,34 @@ dateCreated: 2024-09-10T19:12:06.984Z
 <center><b><font size="5">Сервера White Dream</font></b></center>
               <div></div>
               <hr>
-              <div class="containerextra">
-                <div class="servermenu">
-                  <div>🏳️Medusa</div>
-                  <div>
-                    <a class="is-external-link-r"><span id="copy">medusa.wwdp.ee</span><span id="opov-copy">Скопировано</span></a>
-                  </div>
-                </div>
-              <div class="containerextra">
-                <div class="servermenu">
-                  <div>🍀Reserve</div>
-                  <div>
-                    <a class="is-external-link-r"><span id="copy">reserve-station.space</span><span id="opov-copy">Скопировано</span></a>
-                  </div>
-                </div>
- <div class="servermenu">
-                  <div>🏳️Wyrm EN</div>
-                  <div>
-                    <a class="is-external-link-r"><span id="copy">Отключен</span><span id="opov-copy">Скопировано</span></a>
-                  </div>
-                </div>
+<div class="containerextra">
+  <div class="servermenu">
+    <div>🏳️Medusa</div>
+    <div>
+      <a class="is-external-link-r" onclick="copyIp(this)" style="cursor: pointer;">
+        <span>medusa.wwdp.ee</span>
+        <span class="opov-copy">Скопировано</span>
+      </a>
+    </div>
+  </div>
+  
+  <div class="servermenu">
+    <div>🍀Reserve</div>
+    <div>
+      <a class="is-external-link-r" onclick="copyIp(this)" style="cursor: pointer;">
+        <span>reserve-station.space</span>
+        <span class="opov-copy">Скопировано</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="servermenu">
+    <div>🏳️Wyrm EN</div>
+    <div>
+      <a class="is-external-link-r" onclick="copyIp(this)" style="cursor: pointer;">
+        <span>Отключен</span>
+        <span class="opov-copy">Скопировано</span>
+      </a>
+    </div>
+  </div>
+</div>
