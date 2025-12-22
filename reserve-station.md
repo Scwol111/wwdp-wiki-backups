@@ -2,7 +2,7 @@
 title: Reserve station
 description: 
 published: true
-date: 2025-12-21T22:41:50.919Z
+date: 2025-12-22T11:35:14.758Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T21:55:19.391Z
@@ -73,7 +73,7 @@ dateCreated: 2025-12-21T21:55:19.391Z
                     </p>
                     <center>
                       <div class="community-div-flex">
-                        <a class="fredoka-font" href="https://discord.gg/PuquQyNfNj" class="community-link is-external-link">
+                        <a class="fredoka-font" href="https://discord.com/channels/1291325264227471410/1409966559115350066" class="community-link is-external-link">
                       <div class="community-element">
                         Discord
                       </div>
