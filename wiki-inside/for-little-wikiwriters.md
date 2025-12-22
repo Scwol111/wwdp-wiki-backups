@@ -1,8 +1,8 @@
 ---
 title: Руководства для маленьких викиводов
 description: 
-published: false
-date: 2025-05-23T10:42:31.067Z
+published: true
+date: 2025-12-22T10:31:38.328Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-12T09:02:33.879Z
