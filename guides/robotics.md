@@ -2,7 +2,7 @@
 title: Робототехника
 description: 
 published: true
-date: 2025-12-22T17:57:46.726Z
+date: 2025-12-22T17:59:13.046Z
 tags: научный отдел, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:19:45.176Z
@@ -34,7 +34,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
 <center>
   <div class="roboticcard">
     <div class="cardheading">МедБот</div>
-    <div class="cardimage"><img src="/guides/science/robotics/medibot.png" alt="medibot.png" /></div>
+    <div class="cardimage"><img src="/guides/science/robotech/medibot.png" alt="medibot.png" /></div>
     <div class="carddescription">МедБот — маленький доктор, который готов помочь вам с любым ранением!</div>
     <div class="featuresheading">Технические характеристики:</div>
     <div class="features">
