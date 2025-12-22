@@ -2,7 +2,7 @@
 title: Робототехника
 description: 
 published: true
-date: 2025-12-22T17:59:13.046Z
+date: 2025-12-22T18:11:23.780Z
 tags: научный отдел, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:19:45.176Z
@@ -14,7 +14,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
 <h3>Фабрикатор экзокостюмов</h3>
 <center>
   <div class="iteminfo">
-    <img src="/guides/science/robotics/fab-idle.png" alt="fab-idle.png" />
+    <img src="/guides/science/robotech/fab-idle.png" alt="fab-idle.png" />
     <p>Основная машина, необходимая робототехнику для работы - фабрикатор экзокостюмов. С помощью фабрикатора можно создавать части роботов, экзокостюмов и различных клешней. Некоторые рецепты доступны уже в начале смены. Данную машину всегда можно найти в отделе робототехники. Если её нет - можно создать плату на принтере схем после изучения базовой робототехники.</p>
   </div>
 </center>
@@ -22,7 +22,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
 <h3>Починка роботов</h3>
 <center>
   <div class="iteminfo">
-    <img src="/guides/science/robotics/clothingeyeshuddiagnostic.png" alt="clothingeyeshuddiagnostic.png" />
+    <img src="/guides/science/robotech/clothingeyeshuddiagnostic.png" alt="clothingeyeshuddiagnostic.png" />
     <p>Диагностический визор - специальные очки с помощью которых можно видеть состояние роботов и экзокостюмов. Незаменимый аксессуар робототехника. Найти его можно в автомате с формой робототехника. Любого робота с низкими показателями прочности можно починить сваркой. Если вы видите, что борг в состоянии смерти, то для его починки используйте дефибриллятор.</p>
   </div>
 </center>
@@ -64,7 +64,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
 <center>
   <div class="roboticcard">
     <div class="cardheading">КлинБот</div>
-    <div class="cardimage"><img src="/guides/science/robotics/cleanbot.png" alt="cleanbot.png" /></div>
+    <div class="cardimage"><img src="/guides/science/robotech/cleanbot.png" alt="cleanbot.png" /></div>
     <div class="carddescription">КлинБот — продвинутый уборщик, которому можно не платить зарплату.</div>
     <div class="featuresheading">Технические характеристики:</div>
     <div class="features">
@@ -91,7 +91,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
 <center>
   <div class="roboticcard">
     <div class="cardheading">ХонкБот</div>
-    <div class="cardimage"><img src="/guides/science/robotics/honkbot.png" alt="honkbot.png" /></div>
+    <div class="cardimage"><img src="/guides/science/robotech/honkbot.png" alt="honkbot.png" /></div>
     <div class="carddescription">Хонкбот — маленький бот, способный поскальзывать на себе людей.</div>
     <div class="featuresheading">Технические характеристики:</div>
     <div class="features">
@@ -120,7 +120,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
 <center>
   <div class="roboticcard">
     <div class="cardheading">Проклятый ХонкБот</div>
-    <div class="cardimage"><img src="/guides/science/robotics/jonkbot.png" alt="jonkbot.png" /></div>
+    <div class="cardimage"><img src="/guides/science/robotech/jonkbot.png" alt="jonkbot.png" /></div>
     <div class="carddescription">Проклятый Хонкбот — проклятая версия ХонкБота.</div>
     <div class="featuresheading">Технические характеристики:</div>
     <div class="features">
@@ -151,7 +151,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
 <center>
   <div class="roboticcard">
     <div class="cardheading">МимБот</div>
-    <div class="cardimage"><img src="/guides/science/robotics/mimebot.png" alt="mimebot.png" /></div>
+    <div class="cardimage"><img src="/guides/science/robotech/mimebot.png" alt="mimebot.png" /></div>
     <div class="carddescription">МимБот — самый тихий бот, который точно не может доставить проблем!</div>
     <div class="featuresheading">Технические характеристики:</div>
     <div class="features">
@@ -185,7 +185,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
 
 <center>
   <div class="iteminfo">
-    <img src="/guides/science/robotics/ripley_idle_gif.gif" alt="ripley_idle_gif.gif" />
+    <img src="/guides/science/robotech/ripley_idle_gif.gif" alt="ripley_idle_gif.gif" />
     <p>Экзокостюмы – специальная разработка робототехников NanoTrasen, представляющая собой роботизированный костюм. Для работы костюмам необходим заряд. Для большинства мехов можно сделать оборудование. Все экзокостюмы созданы для выполнения разных задач.</p>
   </div>
 </center>
@@ -207,7 +207,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
 <center>
   <div class="roboticcard">
     <div class="cardheading">РИПЛИ</div>
-    <div class="cardimage"><img src="/guides/science/robotics/ripley_idle_gif.gif" alt="ripley_idle_gif.gif" /></div>
+    <div class="cardimage"><img src="/guides/science/robotech/ripley_idle_gif.gif" alt="ripley_idle_gif.gif" /></div>
     <div class="carddescription">РИПЛИ – специальный экзокостюм для отдела карго. Данный мех необходим для эффективного переноса больших грузов.</div>
     <div class="featuresheading">Технические характеристики:</div>
     <div class="features">
@@ -255,7 +255,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
 <center>
   <div class="roboticcard">
     <div class="cardheading">ХОНК</div>
-    <div class="cardimage"><img src="/guides/science/robotics/honker_idle_gif.gif" alt="honker_idle_gif.gif" /></div>
+    <div class="cardimage"><img src="/guides/science/robotech/honker_idle_gif.gif" alt="honker_idle_gif.gif" /></div>
     <div class="carddescription">ХОНК – специальная игрушка, создаваемая только для взрослых клоунов!</div>
     <div class="featuresheading">Технические характеристики:</div>
     <div class="features">
@@ -300,7 +300,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
 <center>
   <div class="roboticcard">
     <div class="cardheading">ХОМЯК</div>
-    <div class="cardimage"><img src="/guides/science/robotics/hamtr_idle_gif.gif" alt="hamtr_idle_gif.gif" /></div>
+    <div class="cardimage"><img src="/guides/science/robotech/hamtr_idle_gif.gif" alt="hamtr_idle_gif.gif" /></div>
     <div class="carddescription">ХОМЯК – экзокостюм для хомяков. Позволяет стать полноценным членом экипажа!</div>
     <div class="featuresheading">Технические характеристики:</div>
     <div class="features">
@@ -347,7 +347,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
 <center>
   <div class="roboticcard">
     <div class="cardheading">ВИМ</div>
-    <div class="cardimage"><img src="/guides/science/robotics/vim_idle_gif.gif" alt="vim_idle_gif.gif" /></div>
+    <div class="cardimage"><img src="/guides/science/robotech/vim_idle_gif.gif" alt="vim_idle_gif.gif" /></div>
     <div class="carddescription">ВИМ – экзокостюм для питомцев. Позволяет выжить при разгерметизации на борту.</div>
     <div class="featuresheading">Технические характеристики:</div>
     <div class="features">
@@ -389,7 +389,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
       <p>Характеристика</p>
     </div>
     <div class="equipment-name">
-      <p><img src="/guides/science/robotics/equipment/mecha_clamp.png" alt="mecha_clamp.png" />Гидравлическая клешня</p>
+      <p><img src="/guides/science/robotech/mecha_clamp.png" alt="mecha_clamp.png" />Гидравлическая клешня</p>
     </div>
     <div class="equipment-content">
       <p>Гидравлическая клешня, используемая экзокостюмами</p>
@@ -402,7 +402,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
       </ol>
     </div>
     <div class="equipment-name">
-      <p><img src="/guides/science/robotics/equipment/mecha_clamp_small.png" alt="mecha_clamp_small.png" />Малая гидравлическая клешня</p>
+      <p><img src="/guides/science/robotech/mecha_clamp_small.png" alt="mecha_clamp_small.png" />Малая гидравлическая клешня</p>
     </div>
     <div class="equipment-content">
       <p>Малая гидравлическая клешня, используемая экзокостюмами</p>
@@ -415,7 +415,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
       </ol>
     </div>
     <div class="equipment-name">
-      <p><img src="/guides/science/robotics/equipment/mecha_honker.png" alt="mecha_honker.png" />Хонк пушка</p>
+      <p><img src="/guides/science/robotech/mecha_honker.png" alt="mecha_honker.png" />Хонк пушка</p>
     </div>
     <div class="equipment-content">
       <p>Хонк пушка используемая Х.О.Н.К, издаёт разные раздражающие звуки (На деле вовсе не пушка, а простая колонка)</p>
@@ -433,7 +433,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
 
 <center>
   <div class="iteminfo">
-    <img src="/guides/science/robotics/borgs/standart-borg-gif.gif" alt="standart-borg-gif.gif" />
+    <img src="/guides/science/robotech/standart-borg-gif.gif" alt="standart-borg-gif.gif" />
     <p>Борги – разумные синтетики, созданные компанией NanoTrasen для облегчения работы своих сотрудников. Борги не имеют эмоций, а также подчиняются законам, которые можно назначить в консоли контроля киборгами. Обслуживанием, починкой и модернизацией боргов занимается отдел рнд. В случае неповиновения боргов можно взорвать.</p>
   </div>
 </center>
@@ -442,7 +442,7 @@ dateCreated: 2024-09-29T18:19:45.176Z
 
 <center>
   <div class="iteminfo">
-    <img src="/guides/science/robotics/borgs/cyborgs-all-gif.gif" alt="cyborgs-all-gif.gif" />
+    <img src="/guides/science/robotech/cyborgs-all-gif.gif" alt="cyborgs-all-gif.gif" />
     <p>Для создания боргов не надо предварительно изучать какие-либо технологии. В начале смены все необходимые детали будут доступны в фабрикаторе экзокостюмов. При создании необходимо заранее выбрать специализацию борга, чтобы создать нужный корпус. Всего для создания доступны 6 видов боргов: Стандартный, Инженерный, Медицинский, Утилизаторский, Сервисный, Борг-Уборщик. Также существуют борги синдиката, которых возможно только <strong>купить</strong> в <a href="/guides/uplink">аплинке</a> за ТК.</p>
   </div>
 </center>
