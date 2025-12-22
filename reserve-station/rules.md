@@ -2,7 +2,7 @@
 title: Правила Reserve 
 description: 
 published: false
-date: 2025-12-22T18:30:48.135Z
+date: 2025-12-22T18:57:58.910Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-22T17:29:49.615Z
@@ -13,9 +13,7 @@ dateCreated: 2025-12-22T17:29:49.615Z
 
  <span style="color: red;">***ДЛЯ ИГРЫ НА СЕРВЕРАХ WWDP ВАМ ДОЛЖНО БЫТЬ НЕ МЕНЕЕ 16 ЛЕТ. ПОЛЬЗОВАТЕЛИ, ПОДОЗРЕВАЕМЫЕ В ТОМ, ЧТО ИМ МЕНЬШЕ 16 ЛЕТ, БУДУТ ЗАБЛОКИРОВАНЫ ДО ДОСТИЖЕНИЯ ИМИ УСТАНОВЛЕННОГО ПРАВИЛАМИ СЕРВЕРА ВОЗРАСТА.***</span> 
 {.infobox .danger-custom}
-<center>
-<div id="servers">
-<button id="Reserve">Reserve</button>
-</div><center>
+  
+<div id="servers"><button id="Reserve">Reserve</button> </div>
 
 
