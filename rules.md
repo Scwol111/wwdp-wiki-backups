@@ -2,7 +2,7 @@
 title: Правила
 description: 
 published: true
-date: 2025-12-22T12:17:26.721Z
+date: 2025-12-22T12:23:50.597Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:43.345Z
@@ -26,17 +26,17 @@ dateCreated: 2024-09-10T19:07:43.345Z
     <td>Отличие от OOC и LOOC в том, что здесь можно обсуждать текущие события раунда, так как канал доступен только призракам.</td>
   </tr>
 </table>
-
 <div id="rule-table">
   <p id="warn" class="t-red infobox danger-custom"><b>ДЛЯ ИГРЫ НА СЕРВЕРАХ WWDP ВАМ ДОЛЖНО <b>БЫТЬ НЕ МЕНЕЕ 16 ЛЕТ</b>. ПОЛЬЗОВАТЕЛИ, ПОДОЗРЕВАЕМЫЕ В ТОМ, ЧТО ИМ МЕНЬШЕ 16 ЛЕТ, БУДУТ ЗАБЛОКИРОВАНЫ ДО ДОСТИЖЕНИЯ ИМИ УСТАНОВЛЕННОГО ПРАВИЛАМИ СЕРВЕРА ВОЗРАСТА.</b></p>
   <br>
-  <div id="servers">
-    <button class="server-btn active" onclick="openServer(event, 'europa')">Europa</button>
-    <button class="server-btn" onclick="openServer(event, 'reserve')">Reserve</button>
+  <input type="radio" name="server-tabs" id="tab-europa" checked>
+  <input type="radio" name="server-tabs" id="tab-reserve">
+  <div id="servers-nav">
+    <label for="tab-europa" class="server-label">Europa</label>
+    <label for="tab-reserve" class="server-label">Reserve</label>
   </div>
-
   <div id="rule-container">
-    <div id="europa" class="tab-content" style="display: block;">
+    <div id="content-europa" class="tab-content">
       <p class="desc-med"><span class="server-name-highlight">SS14</span> - это ролевая игра про хаос на космической станции, где вы отыгрываете персонажа, который в любой момент может стать жертвой событий или наоборот - героем. Используйте механики игры и работайте сообща с другими игроками чтобы создавать увлекательные и неповторимые истории в сеттинге мрачного корпоративного будущего.
       </p>
       Если в ходе игры у вас возникли вопросы по правилам, воспользуйтесь админ-помощью, нажав F1 в игре или кнопку «AHelp» в лобби.
@@ -120,7 +120,7 @@ dateCreated: 2024-09-10T19:07:43.345Z
           </ul>
       </ol>
     </div>
-    <div id="reserve" class="tab-content" style="display: none;">
+    <div id="content-reserve" class="tab-content">
       <p class="desc-med"><span class="server-name-highlight">SS14</span> - это ролевая игра про хаос на космической станции, где вы отыгрываете персонажа, который в любой момент может стать жертвой событий или наоборот - героем. Используйте механики игры и работайте сообща с другими игроками чтобы создавать увлекательные и неповторимые истории в сеттинге мрачного корпоративного будущего.
       </p>
       Если в ходе игры у вас возникли вопросы по правилам, воспользуйтесь админ-помощью, нажав F1 в игре или кнопку «AHelp» в лобби.
