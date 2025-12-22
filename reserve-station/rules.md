@@ -2,7 +2,7 @@
 title: Правила Reserve 
 description: 
 published: false
-date: 2025-12-22T17:53:28.919Z
+date: 2025-12-22T17:54:29.680Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-22T17:29:49.615Z
