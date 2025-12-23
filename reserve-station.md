@@ -2,7 +2,7 @@
 title: Reserve station
 description: 
 published: true
-date: 2025-12-23T18:23:49.733Z
+date: 2025-12-23T18:24:07.649Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T21:55:19.391Z
@@ -112,9 +112,9 @@ dateCreated: 2025-12-21T21:55:19.391Z
 <div class="containerextra">
   <!-- Reserve -->
   <div class="servermenu server-btn is-external-link-r">
-    <div>🌠Reserve</div>
-    <div class="server-ip-wrapper">
-      <span class="ip-text">reserve-station.space</span>
-      <span class="opov-copy">Скопировано</span>
+    <div class="server-content">
+      <div class="server-name">🌠Reserve</div>
+      <div class="server-ip">reserve-station.space</div>
     </div>
+    <span class="opov-copy">Скопировано</span>
   </div>
