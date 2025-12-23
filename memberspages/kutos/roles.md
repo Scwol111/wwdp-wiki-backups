@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2025-12-23T18:28:58.962Z
+date: 2025-12-23T18:42:02.258Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-13T13:46:14.888Z
@@ -107,6 +107,7 @@ dateCreated: 2024-11-13T13:46:14.888Z
               </div>-->
               <p>
 <center><b><font size="5">Айпи сервера</font></b></center>
+<center><b><font size="1">Чтобы скопировать кликните по названию</font></b></center>
               <div></div>
               <p>
 <div class="containerextra">
