@@ -2,7 +2,7 @@
 title: Игровые события и режимы
 description: 
 published: true
-date: 2025-12-23T17:39:09.209Z
+date: 2025-12-23T18:13:14.097Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T17:35:00.478Z
@@ -169,6 +169,25 @@ dateCreated: 2025-12-23T17:35:00.478Z
 <div class="content">
 <p><strong>Песочница</strong> - это режим, который дает игрокам возможность использовать некоторые инструменты отладки игры, а именно панели <i>spawn entities</i> и <i>spawn tiles</i>, позволяющие создавать все, что вы хотите, используя большое количество объектов, содержащихся в игре. <strong>Не может быть выбрана при обычной игре.</strong></p>
 </div>
+  
+  </div><button type="button" class="collapsible">
+<h2 class="toc-header"><a class="toc-anchor"></a> 
+    <div class="titleBox" style="margin: 0">
+    <img src="/spade.png">
+    <span style="margin-left:10px;">Гриншифт</span>
+    </div>
+</h2>
+</button>
+<div class="content">
+<p><strong>Гриншифт</strong> - это режим,который буквально олицетворяет спокойствие, где не может быть рандомизированных событий, антагонистов. Но помните, на ней есть люди.Может быть выбран при обычной игре.
+---
+
+---
+
+</div>
+
+  
+  
 
 <!-- </div><button type="button" class="collapsible">
 <h2 class="toc-header"><a class="toc-anchor"></a> 
