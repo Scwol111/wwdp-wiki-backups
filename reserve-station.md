@@ -2,7 +2,7 @@
 title: Reserve station
 description: 
 published: true
-date: 2025-12-23T18:32:47.688Z
+date: 2025-12-23T18:33:51.247Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T21:55:19.391Z
@@ -107,6 +107,7 @@ dateCreated: 2025-12-21T21:55:19.391Z
               </div>-->
               <p>
 <center><b><font size="5">Айпи сервера</font></b></center>
+<center><b><font size="1">Чтобы скопировать кликните по названию</font></b></center>
               <div></div>
               <p>
 <div class="containerextra">
