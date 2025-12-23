@@ -2,7 +2,7 @@
 title: Игровые события и режимы
 description: 
 published: true
-date: 2025-12-23T18:39:45.956Z
+date: 2025-12-23T18:45:31.876Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T17:35:00.478Z
@@ -173,7 +173,7 @@ dateCreated: 2025-12-23T17:35:00.478Z
   </div><button type="button" class="collapsible">
 <h2 class="toc-header"><a class="toc-anchor"></a> 
     <div class="titleBox" style="margin: 0">
-    <img src="/spade.png">
+    <img src="/peace.png">
     <span style="margin-left:10px;">Гриншифт</span>
     </div>
 </h2>
