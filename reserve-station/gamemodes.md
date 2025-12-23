@@ -2,7 +2,7 @@
 title: Игровые события и режимы
 description: 
 published: true
-date: 2025-12-23T17:37:16.016Z
+date: 2025-12-23T17:39:09.209Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T17:35:00.478Z
