@@ -2,7 +2,7 @@
 title: Командование - роли
 description: 
 published: true
-date: 2025-12-23T17:46:43.292Z
+date: 2025-12-23T17:50:09.815Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T17:46:43.292Z
@@ -12,7 +12,7 @@ dateCreated: 2025-12-23T17:46:43.292Z
  
 <div class="roles-table comm">
   <div class="title comm-title">
-    <div class="link"><h2><a href="/roles/command" class="comm-color">Командование</a></h2></div>
+    <div class="link"><h2><a class="comm-color">Командование</a></h2></div>
   	<div>Роль</div>
   	<div>Описание</div>
   	<div>Сложность</div>
