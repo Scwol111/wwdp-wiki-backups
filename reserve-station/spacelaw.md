@@ -1,8 +1,8 @@
 ---
-title: Корпоративный закон
+title: Космический закон
 description: 
 published: true
-date: 2025-12-23T17:29:25.878Z
+date: 2025-12-23T17:30:02.572Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T17:29:25.878Z
