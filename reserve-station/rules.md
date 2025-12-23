@@ -2,7 +2,7 @@
 title: Правила Reserve 
 description: 
 published: false
-date: 2025-12-23T17:23:55.832Z
+date: 2025-12-23T17:25:30.382Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-22T17:29:49.615Z
@@ -15,7 +15,7 @@ dateCreated: 2025-12-22T17:29:49.615Z
   </tr>
   <tr>
     <td><span>OOC</span><br><span>("Out of character") - общение вне роли.</span></td>
-    <td>За общение OOC отвечает канал OOC (например: <span style="color:#7db8be">OOC "Я новичок в этой игре. Что мне нужно знать из того, что не написано в вики?"</span>). Здесь можно задать вопросы по механике игры или обсудить что-то, к ней не относящееся (всё же, для этого предпочтительнее зайти в <b>AHelp</b> или <b><a href="https://discord.gg/zcBMKYsUJX">Discord-канал</a></b>). В OOC абсолютно <span class="t-red">запрещено</span> обсуждать события текущего раунда.</td>
+    <td>За общение OOC отвечает канал OOC (например: <span style="color:#7db8be">OOC "Я новичок в этой игре. Что мне нужно знать из того, что не написано в вики?"</span>). Здесь можно задать вопросы по механике игры или обсудить что-то, к ней не относящееся (всё же, для этого предпочтительнее зайти в <b>AHelp</b> или <b><a href="https://discord.gg/uS5ZAPcqEk">Discord-канал</a></b>). В OOC абсолютно <span class="t-red">запрещено</span> обсуждать события текущего раунда.</td>
   </tr>
   <tr>
     <td><span>LOOC</span><br><span>("Local out of character") - локальное общение вне роли.</span></td>
