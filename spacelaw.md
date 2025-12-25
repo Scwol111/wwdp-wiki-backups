@@ -2,7 +2,7 @@
 title: Космический Закон
 description: 
 published: true
-date: 2025-12-03T09:20:36.269Z
+date: 2025-12-25T12:28:07.038Z
 tags: сб
 editor: markdown
 dateCreated: 2025-03-18T21:05:17.423Z
@@ -144,7 +144,7 @@ dateCreated: 2025-03-18T21:05:17.423Z
     <tr>
       <th style="background-color:#698f43; color:white; border-top-left-radius: 0px;">1XX - Незначительные
 преступления</th>
-      <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Понижение по усмотрению. Предупреждение или заключение на 5 минуты.</th>
+      <th style="background-color:#698f43; color:white; border-top-right-radius: 0px;">Понижение по усмотрению. Предупреждение или заключение на 5 минут.</th>
     </tr>
     <tr>
       <th style="background-color:#a69b38; color:white; border-top-left-radius: 0px;">2XX - Преступления
