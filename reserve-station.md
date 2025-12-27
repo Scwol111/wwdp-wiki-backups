@@ -2,11 +2,16 @@
 title: Reserve station
 description: 
 published: true
-date: 2025-12-24T20:10:33.614Z
+date: 2025-12-27T17:11:38.382Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-21T21:55:19.391Z
 ---
+
+> ВИКИ В ПРОЦЕССЕ, ПОКА НЕ ИСПОЛЬЗУЙТЕ ИНФОРМАЦИЮ ОТСЮДА. 
+{.is-warning}
+
+
 
 <div class="">
         <div class="flex page-col-content xs12 lg9 xl10 order-xs1">
