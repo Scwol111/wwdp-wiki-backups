@@ -2,7 +2,7 @@
 title: Правила
 description: 
 published: true
-date: 2025-12-28T09:31:40.489Z
+date: 2025-12-28T09:34:09.699Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:43.345Z
@@ -38,7 +38,7 @@ dateCreated: 2024-09-10T19:07:43.345Z
     <button id="reserve">Reserve</button>
   </div>
   
-  <div id="rule_selena" style="display: block">
+  <div id="rule-selena" style="display: block">
     <p id="desc-med"><span id="medusa-in-text">SS14</span> - это ролевая игра про хаос на космической станции, где вы отыгрываете персонажа, который в любой момент может стать жертвой событий или наоборот - героем. Используйте механики игры и работайте сообща с другими игроками чтобы создавать увлекательные и неповторимые истории в сеттинге мрачного корпоративного будущего.
     </p>
 
@@ -146,7 +146,7 @@ dateCreated: 2024-09-10T19:07:43.345Z
 </ol>
   </div>
   
-  <div id="rule_reserve" style="display: none">
+  <div id="rule-reserve" style="display: none">
     zzzzzzzz
   </div>
 </div>
