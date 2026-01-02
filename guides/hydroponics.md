@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2026-01-02T19:25:34.124Z
+date: 2026-01-02T19:27:28.461Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -687,15 +687,15 @@ dateCreated: 2024-09-10T19:07:56.088Z
 <p><table class="ser" style="text-shadow: 1px 1px 1px black, -1px 1px 1px black, 1px -1px 1px black, -1px -1px 1px black;">
   <thead>
     <tr>
-      <th style="text-shadow: none"><big>Название
-     	<th style="text-shadow: none"><big>Свойства
-      <th style="text-shadow: none"><big>Изображение растения
-      <th style="text-shadow: none"><big>Изображение плода
+      <th style="text-shadow: none"><b>Название</b>
+     	<th style="text-shadow: none"><b>Свойства</b>
+      <th style="text-shadow: none"><b>Изображение растения</b>
+      <th style="text-shadow: none"><b>Изображение плода</b>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Амброзия Деус (Амброзия Вульгарис)</td>
+      <td><img src="/guides/hydroshit/ambrosia-deus-seed.png"><br><b>Амброзия Деус (Амброзия Вульгарис)</b></td>
       <td style="text-shadow: none">Содержит в себе омнизин и космические наркотики.</td>
       <td>
         <img src="/guides/hydroshit/harvest-ambrosia-deus.png">
@@ -705,7 +705,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Кровавый томат (Томат)</td>
+      <td><img src="/guides/hydroshit/blood-tomato-seed.png"><br><b>Кровавый томат (Томат)</b></td>
       <td style="text-shadow: none">Содержит кровь.</td>
       <td>
         <img src="/guides/hydroshit/harvest-blood-tomato.png">
@@ -715,7 +715,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Смертокрапива (Крапива)</td>
+      <td><img src="/guides/hydroshit/death-nettle-seed.png"><br><b>Смертокрапива (Крапива)</b></td>
       <td style="text-shadow: none">Содержит серную и фторную кислоту. Наносит 17 урона (без учёта ядов).</td>
 			<td>
         <img src="/guides/hydroshit/harvest-death-nettle.png">
@@ -725,7 +725,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Лилун (Лимон)</td>
+      <td><img src="/guides/hydroshit/lemoon-seed.png"><br><b>Лилун (Лимон)</b></td>
       <td style="text-shadow: none">При измельчении даёт молоко, а при выжимне - сакэ.</td>
       <td>
         <img src="/guides/hydroshit/harvest-lemoon.png">
@@ -735,7 +735,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Миман (Банан)</td>
+      <td><img src="/guides/hydroshit/mimana-seed.png"><br><b>Миман (Банан)</b></td>
       <td style="text-shadow: none">Содержит токсин немоты.</td>
       <td>
         <img src="/guides/hydroshit/harvest-mimana.png">
@@ -745,7 +745,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><img src="/guides/hydroshit/steelcup-seed.png"><br><b>Сталешляпник (Грибошляпник)</td>
+      <td><img src="/guides/hydroshit/steelcup-seed.png"><br><b>Сталешляпник (Грибошляпник)</b></td>
       <td style="text-shadow: none">При переработке даёт сталь.</td>
       			<td>
         <img src="/guides/hydroshit/steelcup-wood.png">
@@ -755,7 +755,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Чи<b>лл</b>и (Чи<b>л</b>и)</td>
+      <td><img src="/guides/hydroshit/chilly-seed.png"><br><b>Чи<b>лл</b>и (Чи<b>л</b>и)</b></td>
       <td style="text-shadow: none">Содержит фризиум.</td>
       <td>
         <img src="/guides/hydroshit/harvest-chilly.png">
@@ -765,7 +765,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Коибобы (Соевые бобы)</td>
+      <td><img src="/guides/hydroshit/koibean-seed.png"><br><b>Коибобы (Соевые бобы)</b></td>
       <td style="text-shadow: none">Содержит карпотоксин.</td>
       <td>
         <img src="/guides/hydroshit/harvest-koibean.png">
@@ -775,7 +775,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
      <tr>
-      <td><b>Капфрут (Гатфрут)</td>
+      <td><img src="/guides/hydroshit/capfruit-seed.png"><br><b>Капфрут (Гатфрут)</b></td>
       <td style="text-shadow: none">При поедании плода даёт игрушечный револьвер.</td>
       <td>
         <img src="/guides/hydroshit/harvest-capfruit.png">
@@ -785,7 +785,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
      <tr>
-      <td><b>Смешной горошек (Горох)</td>
+      <td><img src="/guides/hydroshit/laughin-pea-seed.png"><br><b>Смешной горошек (Горох)</b></td>
        <td style="text-shadow: none">Содержит в себе <i>смех</i> и сахар.</td>
        <td>
         <img src="/guides/hydroshit/harvest-laugchin-pea.png">
@@ -795,7 +795,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
      <tr>
-      <td><b>Мировой горох (Смешной горошек)</td>
+      <td><img src="/guides/hydroshit/world-pea-seed.png"><br><b>Мировой горох (Смешной горошек)</b></td>
       <td style="text-shadow: none">Содержит в себе токсин немоты, пакс и <i>счастье</i>.</td>
       <td>
         <img src="/guides/hydroshit/harvest-world-pea.png">
@@ -805,7 +805,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Радужная конопля (Конопля)</td>
+      <td><img src="/guides/hydroshit/rainbow-cannabis-seed.png"><br><b>Радужная конопля (Конопля)</b></td>
       <td style="text-shadow: none">Содержит в себе космический мираж, токсин майндюрекер, лилоципид, псикодин и <i>счастье.</i></td>
       <td>
         <img src="/guides/hydroshit/harvest-rainbow-cannabis.png">
@@ -815,7 +815,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Пирохлопок (Хлопок)</td>
+      <td><img src="/guides/hydroshit/pyrotton-seed.png"><br><b>Пирохлопок (Хлопок)</b></td>
       <td style="text-shadow: none">Содержит волокно и флогистон.</td>
       <td>
         <img src="/guides/hydroshit/harvest-pyrotton.png">
@@ -825,7 +825,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Лилия (Мак)</td>
+      <td><img src="/guides/hydroshit/lily-seed.png"><br><b>Лилия (Мак)</b></td>
       <td style="text-shadow: none">Содержит бикаридин.</td>
       <td>
         <img src="/guides/hydroshit/harvest-lily.png">
@@ -835,7 +835,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Космонавтская трубка (Она же фиалка) (Лилия)</td>
+      <td><img src="/guides/hydroshit/spacemans-trumpet-seed.png"><br><b>Космонавтская трубка (Она же фиалка) (Лилия)</b></td>
       <td style="text-shadow: none">Содержит олигомеры полипирилия, за счет чего является мощным лекарством против любого механического урона.</td>
       <td>
         <img src="/guides/hydroshit/harvest-spacemans-trumpet.png">
@@ -845,7 +845,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Бумажный тростник (Сахарный тростник)</td>
+      <td><img src="/guides/hydroshit/papercane-seed.png"><br><b>Бумажный тростник (Сахарный тростник)</b></td>
       <td style="text-shadow: none">Его можно разрубить на бумагу.</td>
       <td>
         <img src="/guides/hydroshit/harvest-papercane.png">
@@ -855,7 +855,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Стеклополох (Галакточертополох)</td>
+      <td><img src="/guides/hydroshit/glasstle-seed.png"><br><b>Стеклополох (Галакточертополох)</b></td>
       <td style="text-shadow: none">Содержит бритвиум. Является хрупким, при разбивании оставляет после себя осколок стекла.</td>
       <td>
         <img src="/guides/hydroshit/harvest-glasstle.png">
@@ -865,7 +865,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Синий томат (Томат)</td>
+      <td><img src="/guides/hydroshit/blue-tomato-seed.png"><br><b>Синий томат (Томат)</b></td>
       <td style="text-shadow: none">Содержит космическую смазку.</td>
       <td>
         <img src="/guides/hydroshit/harvest-blue-tomato.png">
@@ -875,7 +875,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Золотое яблоко (Яблоко)</td>
+      <td><img src="/guides/hydroshit/golden-apple-seed.png"><br><b>Золотое яблоко (Яблоко)</b></td>
       <td style="text-shadow: none">Содержит <del>косметику</del> трикордразин и витамины. </td>
       <td>
         <img src="/guides/hydroshit/harvest-golden-apple.png">
@@ -885,7 +885,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Мясопшеница (Пшеница)</td>
+      <td><img src="/guides/hydroshit/meatwheat-seed.png"><br><b>Мясопшеница (Пшеница)</b></td>
       <td style="text-shadow: none">Содержит непрожаренные животные протеины.</td>
       <td>
         <img src="/guides/hydroshit/harvest-meatwheat.png">
@@ -895,7 +895,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Святой арбуз (Арбуз)</td>
+      <td><img src="/guides/hydroshit/holymelon-seed.png"><br><b>Святой арбуз (Арбуз)</b></td>
       <td style="text-shadow: none">Содержит в себе святую воду и витамины. При выжимании даёт вино. При разделке даёт ломтики святого арбуза и арбузный ореол (нимб) в виде аксесуара.</td>
       <td>
         <img src="/guides/hydroshit/harvest-holymelon.png">
@@ -905,7 +905,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><b>Внермерный апельсин (Апельсин)</td>
+      <td><img src="/guides/hydroshit/extradimensional-orange-seed.png"><br><b>Внермерный апельсин (Апельсин)</b></td>
       <td style="text-shadow: none">Содержит галоперидол и витамины. <i>По сути, апельсин, но с иным составом и побольше.</i></td>
       <td>
         <img src="/guides/hydroshit/harvest-extradimensional-orange.png">
@@ -920,140 +920,140 @@ dateCreated: 2024-09-10T19:07:56.088Z
 
 <p><table class="ser" style="text-shadow: 1px 1px 1px black, -1px 1px 1px black, 1px -1px 1px black, -1px -1px 1px black;">
   <thead>
-    <th style="text-shadow: none"><big>Название
-    <th style="text-shadow: none"><big>Шанс возникновения
-    <th style="text-shadow: none"><big>Описание
+    <th style="text-shadow: none"><b>Название</b>
+    <th style="text-shadow: none"><b>Шанс возникновения</b>
+    <th style="text-shadow: none"><b>Описание</b>
   </thead>
   <tbody>
     <tr>
-      <td><b>Нежизнеспособность
-      <td style="text-shadow: none">10,9%
-      <td style="text-shadow: none">Растение постепенно умирает. Всё равно, что старение, но ускоренное. 
+      <td><b>Нежизнеспособность</b>
+      <td style="text-shadow: none">10,9%</td>
+      <td style="text-shadow: none">Растение постепенно умирает. Всё равно, что старение, но ускоренное.</td>
     </tr>
     <tr>
-      <td><b>Изменение химикатов
-      <td style="text-shadow: none">7,2%
-      <td style="text-shadow: none">Изменение химического состава плода вплоть до добавления сложнодобываемых химикатов в состав.
+      <td><b>Изменение химикатов</b>
+      <td style="text-shadow: none">7,2%</td>
+      <td style="text-shadow: none">Изменение химического состава плода вплоть до добавления сложнодобываемых химикатов в состав.</td>
     </tr>
     <tr>
-      <td><b>Древянистость
-      <td style="text-shadow: none">3,6%
-      <td style="text-shadow: none">Требует для добычи плода острые инструменты, например топорик или косу.
+      <td><b>Древянистость</b>
+      <td style="text-shadow: none">3,6%</td>
+      <td style="text-shadow: none">Требует для добычи плода острые инструменты, например топорик или косу.</td>
     </tr>
     <tr>
-      <td><b>Изменение вида
-      <td style="text-shadow: none">3,6%
-      <td style="text-shadow: none">Даёт растениям уникальную мутацию (расписано выше).
+      <td><b>Изменение вида</b>
+      <td style="text-shadow: none">3,6%</td>
+      <td style="text-shadow: none">Даёт растениям уникальную мутацию (расписано выше).</td>
     </tr>
     <tr>
-      <td><b>Крик
-      <td style="text-shadow: none">3,6%
-      <td style="text-shadow: none">При сборе плода растение кричит... И всё. Это не влияет на что-либо, оно просто орёт... <del>не возникало-ли у вас мысли, что ему больно?</del>
+      <td><b>Крик</b>
+      <td style="text-shadow: none">3,6%</td>
+      <td style="text-shadow: none">При сборе плода растение кричит... И всё. Это не влияет на что-либо, оно просто орёт... <del>не возникало-ли у вас мысли, что ему больно?</del></td>
     </tr>
     <tr>
-      <td><b>Кудзу
-      <td style="text-shadow: none">3,6%
-      <td style="text-shadow: none">Растение заражается кудзу - сорняком, который будет постоянно регенерироваться, и если за ним не уследить, то оно выйдет наружу из лотка и начнёт плести лианы. Так как он является геном, лучше всего избавиться от него методом селекции.
+      <td><b>Кудзу</b>
+      <td style="text-shadow: none">3,6%</td>
+      <td style="text-shadow: none">Растение заражается кудзу - сорняком, который будет постоянно регенерироваться, и если за ним не уследить, то оно выйдет наружу из лотка и начнёт плести лианы. Так как он является геном, лучше всего избавиться от него методом селекции.</td>
     </tr>
     <tr>
-      <td><b>Отсутствие семян
-      <td style="text-shadow: none">3,6%
-      <td style="text-shadow: none">Плоды не дают семян в экстракторе семян. <del>у моего отца та же фигня</del>
+      <td><b>Отсутствие семян</b>
+      <td style="text-shadow: none">3,6%</td>
+      <td style="text-shadow: none">Плоды не дают семян в экстракторе семян. <del>у моего отца та же фигня</del></td>
     </tr>
     <tr>
-      <td><b>Потенция
-      <td style="text-shadow: none">3,6%
-      <td style="text-shadow: none">Изменение размеров плода, соответственно, и объёма веществ в нём. (Мин. значение - 30, Макс. - 100)
+      <td><b>Потенция</b>
+      <td style="text-shadow: none">3,6%</td>
+      <td style="text-shadow: none">Изменение размеров плода, соответственно, и объёма веществ в нём. (Мин. значение - 30, Макс. - 100)</td>
     </tr>
     <tr>
-      <td><b>Продолжительность жизни
-      <td style="text-shadow: none">3,6%
-      <td style="text-shadow: none">Изменение длительности жизни. (Мин значение - 10 мин. , Макс - 80 мин.)
+      <td><b>Продолжительность жизни</b>
+      <td style="text-shadow: none">3,6%</td>
+      <td style="text-shadow: none">Изменение длительности жизни. (Мин значение - 10 мин. , Макс - 80 мин.)</td>
     </tr>
     <tr>
-      <td><b>Серийность
-      <td style="text-shadow: none">3,6%
-      <td style="text-shadow: none">Изменение количества циклов сбора урожая. Позволяет собирать плоды несколько раз. (Мин. значение - 1, макс. - 10)
+      <td><b>Серийность</b>
+      <td style="text-shadow: none">3,6%</td>
+      <td style="text-shadow: none">Изменение количества циклов сбора урожая. Позволяет собирать плоды несколько раз. (Мин. значение - 1, макс. - 10)</td>
     </tr>
     <tr>
-      <td><b>Скользкость
-      <td style="text-shadow: none">3,6%
-      <td style="text-shadow: none">Растение становится скользким, как банановая кожура.
+      <td><b>Скользкость</b>
+      <td style="text-shadow: none">3,6%</td>
+      <td style="text-shadow: none">Растение становится скользким, как банановая кожура.</td>
     </tr>
     <tr>
-      <td><b>Созревание
-      <td style="text-shadow: none">3,6%
-      <td style="text-shadow: none">Изменение времени на созревание. (Мин. значение - 3 мин., макс. - 10 мин.)
+      <td><b>Созревание</b>
+      <td style="text-shadow: none">3,6%</td>
+      <td style="text-shadow: none">Изменение времени на созревание. (Мин. значение - 3 мин., макс. - 10 мин.)</td>
     </tr>
     <tr>
-      <td><b>Урожайность
-      <td style="text-shadow: none">3,6%
-      <td style="text-shadow: none">Изменение количества плодов, получаемых при сборе урожая. (Мин. значение - 3, макс. - 10)
+      <td><b>Урожайность</b>
+      <td style="text-shadow: none">3,6%</td>
+      <td style="text-shadow: none">Изменение количества плодов, получаемых при сборе урожая. (Мин. значение - 3, макс. - 10)</td>
     </tr>
     <tr>
-      <td><b>Выносливость
-      <td style="text-shadow: none">1,8%
-      <td style="text-shadow: none">Измненеие уровня выносливости растения. (Мин. значение - 50, макс. - 150)
+      <td><b>Выносливость</b>
+      <td style="text-shadow: none">1,8%</td>
+      <td style="text-shadow: none">Измненеие уровня выносливости растения. (Мин. значение - 50, макс. - 150)</td>
     </tr>
     <tr>
-      <td><b>Идеальная температура
-      <td style="text-shadow: none">1,8%
-      <td style="text-shadow: none">Изменение уровня идеальной температуры для растения. (Мин. значение - 263 К, макс. - 323 К)
+      <td><b>Идеальная температура</b>
+      <td style="text-shadow: none">1,8%</td>
+      <td style="text-shadow: none">Изменение уровня идеальной температуры для растения. (Мин. значение - 263 К, макс. - 323 К)</td>
     </tr>
     <tr>
-      <td><b>Потребление воды
-      <td style="text-shadow: none">1,8%
-      <td style="text-shadow: none">Изменение уровня потребления воды. (Мин. значение - 0.3, макс. - 0.9)
+      <td><b>Потребление воды</b>
+      <td style="text-shadow: none">1,8%</td>
+      <td style="text-shadow: none">Изменение уровня потребления воды. (Мин. значение - 0.3, макс. - 0.9)</td>
     </tr>
     <tr>
-      <td><b>Потребление питательных веществ
-      <td style="text-shadow: none">1,8%
-      <td style="text-shadow: none">Изменение уровня потребления питательных веществ. (Мин. значение - 0.05, макс. - 1.2)
+      <td><b>Потребление питательных веществ</b>
+      <td style="text-shadow: none">1,8%</td>
+      <td style="text-shadow: none">Изменение уровня потребления питательных веществ. (Мин. значение - 0.05, макс. - 1.2)</td>
     </tr>
     <tr>
-      <td><b>Стойкость к высокому давлению
-      <td style="text-shadow: none">1,8%
-      <td style="text-shadow: none">Изменение устойчивости к высокому давлению. (Мин. значение - 100 кПа, макс. - 140 кПа)
+      <td><b>Стойкость к высокому давлению</b>
+      <td style="text-shadow: none">1,8%</td>
+      <td style="text-shadow: none">Изменение устойчивости к высокому давлению. (Мин. значение - 100 кПа, макс. - 140 кПа)</td>
     </tr>
     <tr>
-      <td><b>Стойкость к низкому давлению
-      <td style="text-shadow: none">1,8%
-      <td style="text-shadow: none">Изменение устойчивости к низкому давлению. (Мин. значение - 60 кПа, макс. - 100 кПа)
+      <td><b>Стойкость к низкому давлению</b>
+      <td style="text-shadow: none">1,8%</td>
+      <td style="text-shadow: none">Изменение устойчивости к низкому давлению. (Мин. значение - 60 кПа, макс. - 100 кПа)</td>
     </tr>
     <tr>
-      <td><b>Стойкость к пестицидам
-      <td style="text-shadow: none">1,8%
-      <td style="text-shadow: none">Изменение к стойкости к пестицидам. (Мин. значение - 0, макс. - 15)
+      <td><b>Стойкость к пестицидам</b>
+      <td style="text-shadow: none">1,8%</td>
+      <td style="text-shadow: none">Изменение к стойкости к пестицидам. (Мин. значение - 0, макс. - 15)</td>
     </tr>
     <tr>
-      <td><b>Стойкость к сорнякам
-      <td style="text-shadow: none">1,8%
-      <td style="text-shadow: none">Изменение устойчивости к сорнякам. (Мин. значение - 0, макс. - 15)
+      <td><b>Стойкость к сорнякам</b>
+      <td style="text-shadow: none">1,8%</td>
+      <td style="text-shadow: none">Изменение устойчивости к сорнякам. (Мин. значение - 0, макс. - 15)</td>
     </tr>
     <tr>
-      <td><b>Теплостойкость
-      <td style="text-shadow: none">1,8%
-      <td style="text-shadow: none">Изменение устойчивости к сорнякам. (Мин. значение - 2, макс. - 25)
+      <td><b>Теплостойкость</b>
+      <td style="text-shadow: none">1,8%</td>
+      <td style="text-shadow: none">Изменение устойчивости к сорнякам. (Мин. значение - 2, макс. - 25)</td>
     </tr>
     <tr>
-      <td><b>Ядостойкость
-      <td style="text-shadow: none">1,8%
-      <td style="text-shadow: none">Изменение устойчивости к сорнякам. (Мин. значение - 1, макс. - 10)
+      <td><b>Ядостойкость</b>
+      <td style="text-shadow: none">1,8%</td>
+      <td style="text-shadow: none">Изменение устойчивости к сорнякам. (Мин. значение - 1, макс. - 10)</td>
     </tr>
     <tr>
-      <td><b>Выпуск газов
-      <td style="text-shadow: none">1,45%
-      <td style="text-shadow: none">Растение начинает выпускать случайный газ.
+      <td><b>Выпуск газов</b>
+      <td style="text-shadow: none">1,45%</td>
+      <td style="text-shadow: none">Растение начинает выпускать случайный газ.</td>
     </tr>
     <tr>
-      <td><b>Разумность
-      <td style="text-shadow: none">0,72%
-      <td style="text-shadow: none">Лоток, получившее растение с этой мутацией становится разумным. Лоток становится гост-ролью, за которую может зайти любой игрок.
+      <td><b>Разумность</b>
+      <td style="text-shadow: none">0,72%</td>
+      <td style="text-shadow: none">Лоток, получившее растение с этой мутацией становится разумным. Лоток становится гост-ролью, за которую может зайти любой игрок.</td>
     </tr>
     <tr>
-      <td><b>Потребление газов
-      <td style="text-shadow: none">0,36%
-      <td style="text-shadow: none">Растение требует случайный газ для комфортного роста.
+      <td><b>Потребление газов</b>
+      <td style="text-shadow: none">0,36%</td>
+      <td style="text-shadow: none">Растение требует случайный газ для комфортного роста.</td>
     </tr>
   </tbody>
 </table>
