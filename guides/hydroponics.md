@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2026-01-02T17:53:15.985Z
+date: 2026-01-02T17:58:28.668Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -755,7 +755,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
       </td>
     </tr>
     <tr>
-      <td><img src="/guides/hydroshit/steelcup-seed.png"><b>Сталешляпник (Грибошляпник)</td>
+      <td><img src="/guides/hydroshit/steelcup-seed.png"><br><b>Сталешляпник (Грибошляпник)</td>
       <td style="text-shadow: none">При переработке даёт сталь.</td>
       			<td>
         <img src="/guides/hydroshit/steelcup-wood.png">
