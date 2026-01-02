@@ -2,7 +2,7 @@
 title: Гидропоника
 description: 
 published: true
-date: 2026-01-02T17:58:28.668Z
+date: 2026-01-02T19:25:34.124Z
 tags: руководство, сервисный отдел
 editor: markdown
 dateCreated: 2024-09-10T19:07:56.088Z
@@ -200,7 +200,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
     </thead>
     <tbody>
       <tr>
-        <td><b>Алоэ</td>
+        <td><b><img src="/guides/hydroshit/aloe-seed.png"><br><b>Алоэ</td>
         <td style="text-shadow: none">Производит алоэ, которое можно использовать для приготовления крема из алоэ. Он полезен при лечении ожогов.</td>
         <td>
           <figure class="image"><img src="/guides/hydroshit/aloe-harvest.png"></figure>
@@ -210,7 +210,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td><b>Амброзия вульгарис</td>
+        <td><b><img src="/guides/hydroshit/ambrosia-vulgaris.png"><br><b>Амброзия вульгарис</td>
         <td style="text-shadow: none">Производит амброзию вульгарис. Из неё можно получить метамфетамин и некоторые лекарства.</td>
         <td>
           <figure class="image"><img src="/guides/hydroshit/ambrosia-harvest.png"></figure>
@@ -220,7 +220,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td><b>Яблоко</td>
+        <td><b><img src="/guides/hydroshit/apple-seed.png"><br><b>Яблоко</td>
         <td style="text-shadow: none">Производит яблоки, которые можно есть для утоления голода. Они также используются в различных кулинарных рецептах.</td>
         <td>
           <figure class="image"><img src="/guides/hydroshit/apple-harvest.png"></figure>
@@ -230,7 +230,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td><b>Виноград</td>
+        <td><b><img src="/guides/hydroshit/grape-seed.png"><br><b>Виноград</td>
         <td style="text-shadow: none">Производит виноград. Большая гроздь с кучей стручков. Используется для приготовления вина.</td>
         <td>
           <figure class="image"><img src="/guides/hydroshit/grape-tree.png"></figure>
@@ -240,7 +240,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td><b>Банан</td>
+        <td><b><img src="/guides/hydroshit/banana-seed.png"><br><b>Банан</td>
         <td style="text-shadow: none">Производит бананы, которые можно есть для утоления голода. Они также используются для приготовления бананового хлеба. Их кожура заставляет людей поскользнуться. Измельчённая банановая кожура помогает от кровотечения.</td>
         <td>
           <figure class="image"><img src="/guides/hydroshit/banana-harvest.png"></figure>
@@ -250,103 +250,103 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td><b>Конопля</td>
+        <td><b><img src="/guides/hydroshit/canabis-seed.png"><br><b>Конопля</td>
         <td style="text-shadow: none">Производит листья конопли, из которых можно делать самокрутки.</td>
         <td><img src="/guides/hydroshit/cannabis-harvest.png"></td>
         <td><img src="/guides/hydroshit/canabis.png"></td>
       </tr>
       <tr>
-        <td><b>Морковка</td>
+        <td><b><img src="/guides/hydroshit/carrot-seed.png"><br><b>Морковка</td>
         <td style="text-shadow: none">Производит морковку, из которой можно сделать разные блюда.</td>
         <td><img src="/guides/hydroshit/carrots-harvest.png"></td>
         <td><img src="/guides/hydroshit/carrot.png"></td>
       </tr>
       <tr>
-        <td><b>Лисичка</td>
+        <td><b><img src="/guides/hydroshit/chanterelle-seed.png"><br><b>Лисичка</td>
         <td style="text-shadow: none">Производит грибы лисички, которые можно есть для утоления голода. Они также используются для приготовления грибной пиццы.</td>
         <td><img src="/guides/hydroshit/chanterelle-harvest.png"></td>
         <td><img src="/guides/hydroshit/chanterelle.png"></td>
       </tr>
       <tr>
-        <td><b>Перец чили</td>
+        <td><b><img src="/guides/hydroshit/chilli-seed.png"><br><b>Перец чили</td>
         <td style="text-shadow: none">Производит перец чили, который можно есть для утоления голода и повышения температуры тела. Они также используются для приготовления миски с чили, энчиладас и кесо.</td>
         <td><img src="/guides/hydroshit/chilis-harvest.png"></td>
         <td><img src="/guides/hydroshit/chili.png"></td>
       </tr>
       <tr>
-        <td><b>Кукуруза</td>
+        <td><b><img src="/guides/hydroshit/corn-seed.png"><br><b>Кукуруза</td>
         <td style="text-shadow: none">Производит кукурузу, которую можно есть. Используется для создания попкорна и энчиладас.</td>
         <td><img src="/guides/hydroshit/corn-harvest.png"></td>
         <td><img src="/guides/hydroshit/corn.png"></td>
       </tr>
       <tr>
-        <td><b>Кабачок</td>
+        <td><b><img src="/guides/hydroshit/eggplant-seed.png"><br><b>Кабачок</td>
         <td style="text-shadow: none">Производит кабачки, которые можно есть. Используются для создания овощной пиццы.</td>
         <td><img src="/guides/hydroshit/backlaganeplant-harvest.png"></td>
         <td><img src="/guides/hydroshit/backlagane.png"></td>
       </tr>
       <tr>
-        <td><b>Яйцефрут</td>
+        <td><b><img src="/guides/hydroshit/eggy-seed.png"><br><b>Яйцефрукт</td>
         <td style="text-shadow: none">Производит яйца, которые используются при приготовлении многих видов блюд, например тортов или блинов.</td>
         <td><img src="/guides/hydroshit/eggyplant-harvest.png"></td>
         <td><img src="/guides/hydroshit/eggyplant-produce.png"></td>
       </tr>
       <tr>
-        <td><b>Галакточертополох</td>
+        <td><b><img src="/guides/hydroshit/galaxythistle-seed.png"><br><b>Галакточертополох</td>
         <td style="text-shadow: none">Производит галакточертополох, из которого можно получить стеллибинин, сильнодействующий антитоксин.</td>
         <td><img src="/guides/hydroshit/galaxy-thistle-harvest.png"></td>
         <td><img src="/guides/hydroshit/galaxy_thistle.png"></td>
       </tr>
       <tr>
-        <td><b>Гатфрукт</td>
+        <td><b><img src="/guides/hydroshit/gayfruit-seed.png"><br><b>Гатфрукт</td>
         <td style="text-shadow: none">Производит гатфрукт. При поедании плода даёт револьвер Питон с боевыми патронами (спавнится на обломках, в ящике припасов синдиката и аплинке ботаника).</td>
         <td><img src="/guides/hydroshit/gatfruit-harvest.png"></td>
         <td><img src="/guides/hydroshit/gatfruit.png"></td>
       </tr>
       <tr>
-        <td><b>Лимон</td>
+        <td><b><img src="/guides/hydroshit/lemon-seed.png"><br><b>Лимон</td>
         <td style="text-shadow: none">Производит лимоны. Лимоны используются в различных кулинарных рецептах. Они также помогают предотвратить цингу.</td>
         <td><img src="/guides/hydroshit/lemon_tree.png"></td>
         <td><img src="/guides/hydroshit/lemon.png"></td>
       </tr>
       <tr>
-        <td><b>Лайм</td>
+        <td><b><img src="/guides/hydroshit/lime-seed.png"><br><b>Лайм</td>
         <td style="text-shadow: none">Производит лайм. Это цитрусовое растение, которое используют в приготовлении разных напитков.</td>
         <td><img src="/guides/hydroshit/lime-tree.png"></td>
         <td><img src="/guides/hydroshit/lime.png"></td>
       </tr>
       <tr>
-        <td><b>Апельсин</td>
+        <td><b><img src="/guides/hydroshit/orange-seed.png"><br><b>Апельсин</td>
         <td style="text-shadow: none">Производит апельсины, которые вкусны в обычном и выжатом в стакан виде.</td>
         <td><img src="/guides/hydroshit/orange-tree.png"></td>
         <td><img src="/guides/hydroshit/orange.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Линчжи</td>
+        <td><b><img src="/guides/hydroshit/lingzhi-seed.png"><br><b>Линчжи</td>
         <td style="text-shadow: none">Производит гриб линчжи, из которого получают эпинефрин и ультраваскулин.</td>
         <td><img src="/guides/hydroshit/lingzhi-harvest.png"></td>
         <td><img src="/guides/hydroshit/lingzhi.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Крапива</td>
-        <td style="text-shadow: none">Производит крапиву, из которой можно приготовить суп с крапивой. Можно использовать в качестве оружия.</td>
+        <td><b><img src="/guides/hydroshit/nettle-seed.png"><br><b>Крапива
+       </td> <td style="text-shadow: none">Производит крапиву, из которой можно приготовить суп с крапивой. Можно использовать в качестве оружия.</td>
         <td><img src="/guides/hydroshit/nettle-bush.png"></td>
         <td><img src="/guides/hydroshit/nettle.png"></td>
-      </tr>
+      </td>
       <tr>
-        <td style="background-color:#42662E;"><b>Овёс</td>
+        <td><b><img src="/guides/hydroshit/oat-seed.png"><br><b>Овёс</td>
         <td style="text-shadow: none">Производит бушель овса, из которых можно приготовить разные блюда.</td>
         <td><img src="/guides/hydroshit/oats.png"></td>
         <td><img src="/guides/hydroshit/oats_produce.png"></td>
-      </tr>
+     <t/r> 
       <tr>
-        <td style="background-color:#42662E;"><b>Лук</td>
+        <td><b><img src="/guides/hydroshit/onion-seed.png"><br><b>Лук</td>
         <td style="text-shadow: none">Производит лук, который можно есть. Их можно использовать с ножом, чтобы сделать луковые ломтики, которые используются для приготовления миски с чили.</td>
         <td><img src="/guides/hydroshit/onion-plant.png"></td>
         <td><img src="/guides/hydroshit/onion.png"></td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Чеснок</td>
+        <td><b><img src="/guides/hydroshit/garlic-seed.png"><br><b>Чеснок</td>
         <td style="text-shadow: none">Производит чеснок, после которого сильно воняет из рта.</td>
         <td>
           <img src="/guides/hydroshit/garlic-tree.png">
@@ -356,7 +356,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Красный лук</td>
+        <td><b><img src="/guides/hydroshit/redo-seed.png"><br><b>Красный лук</td>
         <td style="text-shadow: none">Производит красный лук.</td>
         <td>
           <img src="/guides/hydroshit/redonion-plant.png">
@@ -365,8 +365,8 @@ dateCreated: 2024-09-10T19:07:56.088Z
           <img src="/guides/hydroshit/redonion.png">
         </td>
       </tr>
-      <tr>
-        <td style="background-color:#42662E;"><b>Ананас</td>
+  </tr>
+        <td><b><img src="/guides/hydroshit/pines-seed.png"><br><b>Ананас</td>
         <td style="background-color:#42662E;">Производит ананасы, которые можно нарезать на кольца и подавать на прилавок. Используются в некоторых рецептах.</td>
         <td>
           <img src="/guides/hydroshit/pineapple-bush.png">
@@ -376,7 +376,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Арбуз</td>
+        <td><b><img src="/guides/hydroshit/melom-seed.png"><br><b>Арбуз</td>
         <td style="text-shadow: none">Производит арбуз. Это большая ягода, которую можно нарезать на дольки или измельчить в миксере для сока.</td>
         <td>
           <img src="/guides/hydroshit/melonbush.png">
@@ -386,7 +386,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Мак</td>
+        <td><b><img src="/guides/hydroshit/poppy-seed.png"><br><b>Мак</td>
         <td style="text-shadow: none">Производит мак, из которого можно сделать бикаридин.</td>
         <td>
           <img src="/guides/hydroshit/poppy-flower.png">
@@ -396,7 +396,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Картофель</td>
+        <td><b><img src="/guides/hydroshit/potato-seed.png"><br><b>Картофель</td>
         <td style="text-shadow: none">Производит картофель, который можно нафаршировать. Используется в некоторых рецептах.</td>
         <td>
           <img src="/guides/hydroshit/potato_plant.png">
@@ -406,7 +406,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Космический табак</td>
+        <td><b><img src="/guides/hydroshit/stobacco-seed.png"><br><b>Космический табак</td>
         <td style="text-shadow: none">Производит космический табак.</td>
         <td>
           <img src="/guides/hydroshit/spacetobacco_plant.png">
@@ -416,7 +416,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Сахарный тростник</td>
+        <td><b><img src="/guides/hydroshit/sugarcane-seed.png"><br><b>Сахарный тросник</td>
         <td style="text-shadow: none">Производит тростник, из которого можно сделать сахар, использующийся в рецептах.</td>
         <td>
           <img src="/guides/hydroshit/sugarcane_plant.png">
@@ -426,7 +426,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Табак</td>
+        <td><b><img src="/guides/hydroshit/tobacco-seed.png"><br><b>Табак</td>
         <td style="text-shadow: none">Производит листья табака, из которых можно делать самокрутки.</td>
         <td>
           <img src="/guides/hydroshit/tobacco_plant.png">
@@ -436,7 +436,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Капуста</td>
+        <td><b><img src="/guides/hydroshit/cabbage-seed.png"><br><b>Капуста</td>
         <td style="text-shadow: none">Производит капусту. Лепестковый овощ, который используется в рецептах салатов.</td>
         <td>
           <img src="/guides/hydroshit/cabbage-bush.png">
@@ -446,7 +446,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Помидор</td>
+        <td><b><img src="/guides/hydroshit/tomato-seed.png"><br><b>Помидор</td>
         <td style="text-shadow: none">Производит помидоры, из которых можно сделать пиццу, спагетти и другие блюда. Можно кидать в неугодных вам людей.</td>
         <td>
           <img src="/guides/hydroshit/tomato_plant.png">
@@ -456,7 +456,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Грибошляпник</td>
+        <td><b><img src="/guides/hydroshit/towercape-seed.png"><br><b>Грибошляпник</td>
         <td style="text-shadow: none">Производит брёвна, которые можно нарубить для получения древесины.</td>
         <td>
           <img src="/guides/hydroshit/towercap_plant.png">
@@ -466,7 +466,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Пшеница</td>
+        <td><b><img src="/guides/hydroshit/wheat-seed.png"><br><b>Пшеница</td>
         <td style="text-shadow: none">Производит бушели пшеницы, из которых можно сделать муку, которая нужна для создания хлеба и других продуктов питания.</td>
         <td>
           <img src="/guides/hydroshit/wheat_plant.png">
@@ -476,7 +476,7 @@ dateCreated: 2024-09-10T19:07:56.088Z
         </td>
       </tr>
       <tr>
-        <td style="background-color:#42662E;"><b>Мухомор</td>
+        <td><b><img src="/guides/hydroshit/amanita-seed.png"><br><b>Мухомор</td>
         <td style="text-shadow: none">Токсичный гриб, в котором содержится опасный яд <a href="/guides/chemistry#chem_amatoxin">аматоксин</a>.</td>
         <td>
           <img src="/guides/hydroshit/fly-amanita-harvest.png">
@@ -484,18 +484,8 @@ dateCreated: 2024-09-10T19:07:56.088Z
         <td>
           <img src="/guides/hydroshit/fly_amanita.png">
         </td>
-      </tr>
-      <tr>
-        <td style="background-color:#42662E;"><b>Гном</td>
-        <td style="text-shadow: none">После созревания, растение превращается в живого садового <a href="../roles/gnome">гнома</a>.</td>
-        <td>
-          <img src="/guides/hydroshit/gnome-stage-2.png"/>
-        </td>
-        <td>
-          <img src="/guides/hydroshit/gnome.png">
-        </td>
-      </tr>
-    </tbody>
+
+
   </table><p>
 
   <h3>Гидропонный лоток</h3>
