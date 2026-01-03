@@ -2,7 +2,7 @@
 title: Администрация
 description: Стафф, педали, команда проекта.
 published: true
-date: 2026-01-02T15:46:52.737Z
+date: 2026-01-03T10:46:32.983Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:30.491Z
@@ -27,6 +27,5 @@ dateCreated: 2024-09-10T19:07:30.491Z
 <li><strong>Selena</strong> - SSвяти (OkTiFe)<font color="#4E59E0"></font><font color="5662F6"> Discord</font>: <font color="818AF9">pvrg</font></li>
 <li><strong>Reserve</strong>: Kutos (PZAKusik) <font color="#4E59E0"></font><font color="5662F6">Discord</font>: <font color="818AF9">kutos0</font>;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;echotry <font color="#4E59E0"></font><font color="5662F6">Discord</font>: <font
-color="818AF9">echotry</font>; <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;дксп (cyou) <font color="#4E59E0"></font><font color="5662F6">Discord</font>: <font color="818AF9">ainodehn.a</font>; 
+color="818AF9">echotry</font>;
 </ul>
