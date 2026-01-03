@@ -2,7 +2,7 @@
 title: Медицинский Отдел
 description: 
 published: true
-date: 2026-01-03T14:39:34.467Z
+date: 2026-01-03T14:41:36.271Z
 tags: 
 editor: code
 dateCreated: 2026-01-03T14:39:34.467Z
@@ -12,223 +12,158 @@ dateCreated: 2026-01-03T14:39:34.467Z
 <html lang="ru">
 <head>
 <meta charset="UTF-8">
-<title>Medical Department — SS13</title>
+<title>MEDICAL DEPARTMENT — NT DOCS</title>
 
 <style>
-/* === BASE === */
 body {
     margin: 0;
-    font-family: "Courier New", monospace;
+    padding: 20px;
     background-color: #0b1113;
     color: #cfe6ea;
+    font-family: "Courier New", monospace;
+    font-size: 14px;
 }
 
-a {
-    color: #7fd6e8;
-    text-decoration: none;
+h1, h2, h3 {
+    font-weight: normal;
+    margin: 20px 0 10px;
 }
 
-a:hover {
-    text-decoration: underline;
-}
-
-/* === HEADER === */
-header {
-    background: repeating-linear-gradient(
-        45deg,
-        #0f2a30,
-        #0f2a30 10px,
-        #12363d 10px,
-        #12363d 20px
-    );
-    border-bottom: 3px solid #1d474f;
-    padding: 20px;
-}
-
-header h1 {
-    margin: 0;
-    font-size: 28px;
+h1 {
+    font-size: 22px;
     letter-spacing: 2px;
 }
 
-header p {
-    margin: 5px 0 0;
-    font-size: 14px;
-    opacity: 0.8;
-}
-
-/* === LAYOUT === */
-.container {
-    max-width: 1200px;
-    margin: auto;
-    padding: 20px;
-}
-
-/* === SECTION TITLES === */
 h2 {
-    margin-top: 40px;
-    padding: 10px;
-    background: #10292f;
-    border: 1px solid #1d474f;
-    font-size: 18px;
+    font-size: 16px;
     letter-spacing: 1px;
 }
 
-/* === JOB CARDS === */
-.jobs {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-    gap: 15px;
-    margin-top: 15px;
+hr {
+    border: none;
+    border-top: 1px solid #1d474f;
+    margin: 20px 0;
 }
 
-.job {
-    background: #0f2024;
-    border: 1px solid #1d474f;
-    padding: 12px;
+p {
+    margin: 5px 0;
 }
 
-.job h3 {
-    margin: 0 0 5px 0;
-    color: #9de7f3;
-    font-size: 16px;
-}
-
-.job .head {
-    font-size: 12px;
-    opacity: 0.7;
-}
-
-.job p {
-    font-size: 13px;
-    margin-top: 8px;
-}
-
-/* === INFO BLOCK === */
-.block {
-    background: #0f2024;
-    border: 1px solid #1d474f;
-    padding: 15px;
-    margin-top: 15px;
-    font-size: 14px;
-}
-
-/* === LISTS === */
 ul {
-    margin: 10px 0 0 20px;
+    margin: 5px 0 5px 20px;
+    padding: 0;
 }
 
 li {
-    margin-bottom: 4px;
-}
-
-/* === FOOTER === */
-footer {
-    margin-top: 40px;
-    padding: 15px;
-    background: #080d0f;
-    border-top: 2px solid #1d474f;
-    font-size: 12px;
-    opacity: 0.6;
-    text-align: center;
+    margin-bottom: 3px;
 }
 </style>
 </head>
 
 <body>
 
-<header>
-    <h1>MEDICAL DEPARTMENT</h1>
-    <p>Nanotrasen Space Station — Internal Documentation</p>
-</header>
+<h1>MEDICAL DEPARTMENT</h1>
+<p>Nanotrasen Space Station — Internal Documentation</p>
 
-<div class="container">
+<hr>
+
+<h2>OVERVIEW</h2>
+<p>
+Medical Department is responsible for treatment of injuries and diseases,
+production of medication, cloning of deceased crew members,
+storage and disposal of bodies, and determination of causes of death.
+</p>
+
+<hr>
+
+<h2>CHAIN OF COMMAND</h2>
+<p>Head of Department: Chief Medical Officer (CMO)</p>
+<p>Superior Authority: Station Captain</p>
+
+<hr>
 
 <h2>PERSONNEL ROLES</h2>
-<div class="jobs">
 
-    <div class="job">
-        <h3>Chief Medical Officer</h3>
-        <div class="head">Head: Captain</div>
-        <p>Координирует медицинский отдел. Следит за эффективностью, персоналом и общей выживаемостью экипажа.</p>
-    </div>
+<p><b>Chief Medical Officer (CMO)</b></p>
+<p>
+Coordinates the Medical Department. Responsible for personnel management,
+workflow optimization, and overall medical efficiency.
+</p>
 
-    <div class="job">
-        <h3>Senior Physician</h3>
-        <div class="head">Head: CMO</div>
-        <p>Обучает интернов и неопытных врачей. Формально — наставник, фактически — самый загруженный сотрудник.</p>
-    </div>
+<p><b>Senior Physician</b></p>
+<p>
+Trains interns and inexperienced doctors. Oversees medical procedures
+and ensures protocol compliance.
+</p>
 
-    <div class="job">
-        <h3>Medical Doctor</h3>
-        <div class="head">Head: CMO</div>
-        <p>Лечит пациентов, проводит операции, диагностирует повреждения и иногда спасает жизни.</p>
-    </div>
+<p><b>Medical Doctor</b></p>
+<p>
+Provides medical treatment, performs surgeries,
+and diagnoses crew members.
+</p>
 
-    <div class="job">
-        <h3>Chemist</h3>
-        <div class="head">Head: CMO</div>
-        <p>Производит медикаменты, реагенты и вещества сомнительной законности.</p>
-    </div>
+<p><b>Chemist</b></p>
+<p>
+Produces medical chemicals, medication, and various reagents
+required by the station.
+</p>
 
-    <div class="job">
-        <h3>Paramedic</h3>
-        <div class="head">Head: CMO</div>
-        <p>Оказывает экстренную помощь за пределами медбея и доставляет пострадавших.</p>
-    </div>
+<p><b>Paramedic</b></p>
+<p>
+Provides emergency medical assistance outside the Medbay
+and retrieves injured crew members.
+</p>
 
-    <div class="job">
-        <h3>Psychologist</h3>
-        <div class="head">Head: CMO</div>
-        <p>Оказывает психологическую помощь экипажу станции, набитой маньяками и социопатами.</p>
-    </div>
+<p><b>Psychologist</b></p>
+<p>
+Provides psychological assistance to station crew.
+Effectiveness is not guaranteed.
+</p>
 
-    <div class="job">
-        <h3>Intern</h3>
-        <div class="head">Head: CMO</div>
-        <p>Младший медицинский персонал. Делает всё, что ему скажут.</p>
-    </div>
+<p><b>Intern</b></p>
+<p>
+Junior medical staff. Performs minor tasks
+and receives practical training.
+</p>
 
-</div>
-
-<h2>DEPARTMENT PURPOSE</h2>
-<div class="block">
-    Медицинский отдел отвечает за лечение травм и заболеваний, производство лекарств,
-    клонирование погибших членов экипажа, хранение тел и установление причин смерти.
-</div>
+<hr>
 
 <h2>FACILITIES</h2>
-<div class="block">
-    <ul>
-        <li>Reception</li>
-        <li>Chemistry Lab</li>
-        <li>Treatment Room</li>
-        <li>Operating Room</li>
-        <li>Virology</li>
-        <li>CMO Office</li>
-        <li>Medical Storage</li>
-        <li>Psychologist Office</li>
-        <li>Intern Room</li>
-        <li>Cloning Room</li>
-        <li>Morgue</li>
-    </ul>
-</div>
+<ul>
+    <li>Medical Reception</li>
+    <li>Chemistry Laboratory</li>
+    <li>Treatment Room</li>
+    <li>Operating Room</li>
+    <li>Virology Laboratory</li>
+    <li>Chief Medical Officer Office</li>
+    <li>Medical Storage</li>
+    <li>Psychologist Office</li>
+    <li>Intern Room</li>
+    <li>Cloning Room</li>
+    <li>Morgue</li>
+</ul>
+
+<hr>
 
 <h2>MORGUE STATUS INDICATORS</h2>
-<div class="block">
-    <ul>
-        <li>BLUE — Empty</li>
-        <li>GREEN — Body with soul</li>
-        <li>RED — Body without soul</li>
-        <li>YELLOW — Non-corpse object</li>
-    </ul>
-</div>
+<ul>
+    <li>BLUE — Empty</li>
+    <li>GREEN — Body with active soul</li>
+    <li>RED — Body without soul or catatonic</li>
+    <li>YELLOW — Non-corpse object</li>
+</ul>
 
-</div>
+<hr>
 
-<footer>
-    Nanotrasen Medical Division • Classified Station Manual
-</footer>
+<h2>NOTICE</h2>
+<p>
+Failure to comply with medical procedures may result in
+crew fatalities, station instability, or administrative action.
+</p>
+
+<p>
+End of document.
+</p>
 
 </body>
 </html>
