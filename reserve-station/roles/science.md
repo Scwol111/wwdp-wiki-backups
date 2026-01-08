@@ -2,7 +2,7 @@
 title: Научный отдел
 description: Что делает кнопка "открыть все клетки"?
 published: true
-date: 2026-01-08T12:23:38.123Z
+date: 2026-01-08T12:30:02.617Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-08T12:23:38.123Z
@@ -15,9 +15,6 @@ dateCreated: 2026-01-08T12:23:38.123Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-<div><a href="/roles/leadresearcher">Ведущий Исследователь</a><a href="/roles/leadresearcher"><img src="/roles/leadresearcher.png" /></a></div>
-  <div><div>Знает лучше, какие технологии нужно исследовать, чем научный руководитель. Забудет про то, что очки еще нужно получать и будет строить БОЛЬШИХ И СИЛЬНЫХ МЕХОВ. Иногда будет обучать новичков, но чаще говорить, что он занят боргизированием квартирмейстера.</div></div>
-  <div>Сложно</div>
 
 <div><a href="/roles/roboticist">Робототехник</a><a href="/roles/roboticist"><img src="/roles/roboticist.png" /></a></div>
   <div><div>Захватывает власть своей армией киборгов, <a href="https://www.youtube.com/watch?v=C4cfo0f88Ug"> не забывая показывать им, кто в доме хозяин. </a></div></div>
