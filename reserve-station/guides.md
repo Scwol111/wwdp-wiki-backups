@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: true
-date: 2026-01-08T13:15:52.296Z
+date: 2026-01-08T13:17:21.964Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-08T12:45:02.177Z
@@ -142,8 +142,6 @@ dateCreated: 2026-01-08T12:45:02.177Z
       <p>Список ценных предметов, которые часто становятся целью агентов синдиката.</p>
 			<a href="/guides/handmadeweapons"><img src="/guides/arbalet111.png" alt="arbalet111.png" class="zoom"/>Самодельное оружие</a>
       <p>Научитесь создавать и использовать самодельное оружие.</p>
-			<a href="/guides/implants/mindslaves"><img src="/master.png" class="zoom"/>Майндслейв</a>
-      <p>Руководство о том, как правильно быть рабом.</p>
 			<a href="/guides/implants/martial_arts"><img src="/kravgloves.png" class="zoom"/>Боевые искусства</a>
       <p>Изучите различные стили и техники боевых искусств, доступные на станции.</p>
     </div>
