@@ -2,7 +2,7 @@
 title: Правила
 description: 
 published: true
-date: 2026-01-04T16:16:20.162Z
+date: 2026-01-08T21:06:34.726Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:07:43.345Z
@@ -35,7 +35,6 @@ dateCreated: 2024-09-10T19:07:43.345Z
   
   <div id="servers">
     <button id="medusa">Selena</button>
-    <button id="reserve">Reserve</button>
   </div>
   
   <div id="rule-selena" style="display: block">
