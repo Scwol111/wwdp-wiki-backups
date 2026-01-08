@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: true
-date: 2026-01-08T13:12:49.304Z
+date: 2026-01-08T13:15:52.296Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-08T12:45:02.177Z
@@ -102,12 +102,6 @@ dateCreated: 2026-01-08T12:45:02.177Z
       <p>Всё о научных исследованиях и разработках.</p>
       <a href="/guides/rndinventory"><img src="/guides/science/science_duffel.png" class="zoom"/>Инвентарь</a>
       <p>Ознакомьтесь с предметами, доступными отделу исследований.</p>
-      <a href="/guides/psionics"><img src="/guides/insulativeskullcap.png" alt="insulativeskullcap.png" class="zoom"/>Псионика</a>
-      <p>Разблокируйте потенциал псионических способностей.</p>
-      <a href="/guides/oracle" class="is-internal-link is-valid-page"><img src="/guides/the_oracle.png" alt="insulativeskullcap.png" class="min-zoom"/>Оракул</a>
-      <p>Узнайте больше о загадочном Оракуле.</p>
-      <a href="/guides/glimmer" class="is-internal-link is-valid-page"><img src="/guides/sophicgrammateus.png" alt="insulativeskullcap.png" class="min-zoom"/>Мерцание</a>
-      <p>Руководство по отслеживанию и сдерживанию Мерцания.</p>
     </div>
     <div class="content-table" id="car">
       <a href="/guides/cargoinventory"><img src="/guides/cargo-inventory.png" alt="cargo-inventory.png" class="zoom"/>Инвентарь</a>
