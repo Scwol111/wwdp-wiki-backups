@@ -2,7 +2,7 @@
 title: Антагонисты - роли
 description: мне кажется, генокрад это не изобретение ботаников и ксенобиологов..
 published: true
-date: 2026-01-08T12:38:15.201Z
+date: 2026-01-08T12:38:44.890Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-08T12:38:15.201Z
@@ -15,7 +15,7 @@ dateCreated: 2026-01-08T12:38:15.201Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/roles/traitor">Предатель</a><a href="/roles/traitor"><img src="/roles/traitor.png" /></a></div>
+  <div>Предатель<a href="/roles/traitor"><img src="/roles/traitor.png" /></a></div>
   <div><div>Наёмник синдиката под прикрытием. Выпустит сингулярность, пустит плазму по коридорам, перебьёт половину экипажа, просто ходя и пиная всех, и улетит на шаттле, не выполнив ни одну задачу.</div></div>
   <div>Сложно</div>
   <div><a href="/roles/nuclearoperative">Ядерный Оперативник</a><a href="/roles/nuclearoperative"><img src="/roles/nuclearoperative.gif" /></a></div>
