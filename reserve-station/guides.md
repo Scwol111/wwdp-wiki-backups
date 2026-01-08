@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: true
-date: 2026-01-08T12:45:02.177Z
+date: 2026-01-08T13:12:49.304Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-08T12:45:02.177Z
@@ -28,8 +28,6 @@ dateCreated: 2026-01-08T12:45:02.177Z
       <p>Это руководство научит вас основам взаимодействия с игровым миром.</p>
       <a href="/guides/communication"><img src="/guides/communication.png" alt="communication.png" class="zoom"/>Коммуникация</a>
       <p>Узнайте, как эффективно общаться с другими игроками на станции.</p>
-      <a href="/guides/mood"><img src="/guides/mood.gif" alt="mood.gif" class="zoom"/>Настроение</a>
-      <p>Это руководство поможет вашему персонажу не сойти с ума.</p>
       <!--<a href="/guides/economy"><img src="/guides/economy.png" alt="economy.png" class="zoom"/>Экономика</a>
       <p>Ваше руководство по финансовой стороне космической жизни.</p>-->
       <a href="/guides/terminology"><img src="/guides/terminology.png" alt="terminology.png" class="zoom"/>Терминология</a>
