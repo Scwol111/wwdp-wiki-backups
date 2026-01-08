@@ -2,7 +2,7 @@
 title: Руководства
 description: 
 published: true
-date: 2026-01-08T13:17:21.964Z
+date: 2026-01-08T21:28:12.844Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-08T12:45:02.177Z
@@ -78,8 +78,6 @@ dateCreated: 2026-01-08T12:45:02.177Z
     <div class="content-table" id="med">
       <a href="/guides/chemistry"><img src="/guides/chemistry.png" alt="chemistry.png" class="zoom"/>Химия</a>
       <p>Узнайте рецепты различных химических веществ.</p>
-      <a href="/guides/psychologicaldiseases"><img src="/guides/psychology.png" alt="psychological-illnesses.png" class="zoom"/>Психологические заболевания</a>
-      <p>Разберитесь в симптомах психологических заболеваний, встречающихся на станции.</p>
       <a href="/guides/medicine"><img src="/guides/medicine.png" alt="medicine.png" class="zoom"/>Медицина</a>
       <p>Станьте мастером спасения жизней на космической станции.</p>
       <a href="/guides/medicalequipment"><img src="/guides/nanomed1.gif" alt="nanomed.gif" class="zoom"/>Медицинский инвентарь</a>
