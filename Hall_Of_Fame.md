@@ -2,7 +2,7 @@
 title: Зал славы
 description: 
 published: true
-date: 2025-10-27T21:40:16.339Z
+date: 2026-01-10T19:19:50.800Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-30T20:46:09.837Z
@@ -44,6 +44,11 @@ dateCreated: 2024-10-30T20:46:09.837Z
       <td>RedFoxIV</td>
       <td>Редфокс / CEO Of Leaks</td>
       <td>Человек, что слил несколько гигабайт негров. Активный и талантливый кодер, душа компании и активист ненависти к всему пушистому и не-человеческому. Вайт без него не был бы тем, чем он является сейчас.</td>
+    </tr>
+    <tr>
+      <td>SpaceAndrey</td>
+      <td>andreykarp / андрей</td>
+      <td>Человек, наебавший всю SS14 скриншотом из пеинта. <img src="/image-1266.png" style="vertical-align: middle;"/><img src="/23541.png" style="vertical-align: middle;"/></td>
     </tr>
   </tbody>
 </table>
