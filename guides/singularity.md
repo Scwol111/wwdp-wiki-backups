@@ -2,7 +2,7 @@
 title: Сингулярность
 description: 
 published: true
-date: 2026-01-14T19:04:46.686Z
+date: 2026-01-14T19:26:50.912Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-26T19:14:55.594Z
@@ -130,7 +130,6 @@ dateCreated: 2024-09-26T19:14:55.594Z
     <div>Консоль управления УЧ</div>
     <div>Общая информация</div>
   </div>
-  <div>
     <img src="/guides/engineering/singularity/particle-accelerator.png" usemap="#map-particle-accelerator">
     <map name="map-particle-accelerator">
       <area title="Торцевая крышка УЧ" id="back" href="" coords="" shape="rect">
@@ -142,7 +141,6 @@ dateCreated: 2024-09-26T19:14:55.594Z
       <area title="Консоль управления УЧ" id="comp" href="" coords="" shape="rect">
       <area title="Общая информация" id="info" href="" coords="" shape="rect">
     </map>
-  </div>
   <div class="pa-txt">
     <div>Торцевая крышка УЧ является защитным элементом для гермитизации внутренней оболочки конструкции, предотвращающей загрязнение. Она обеспечивает безопасность конструкции и сохраняет её целостность.</div>
     <div>Топливная камера УЧ. Названием элемента всё сказано.</div>
