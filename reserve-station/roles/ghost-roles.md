@@ -2,7 +2,7 @@
 title: Гост-роли
 description: Кто-кто там убил кадета?
 published: true
-date: 2026-01-29T14:52:17.522Z
+date: 2026-01-29T14:53:38.298Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-29T14:52:17.522Z
@@ -31,12 +31,10 @@ dateCreated: 2026-01-29T14:52:17.522Z
   <div><a href="/roles/remilia">Ремилия</a><a href="/roles/remilia"><img src="/roles/remilia.gif" /></a></div>
   <div><div>Маленький, милый фамильяр <a href="/roles/priest">священника</a>, который похож на летучую мышь. Кушает все фрукты станции и уничтожает в щепки всех <a href="/roles/nuclearoperative">ядерных оперативников</a>, если того пожелает священник.</div></div>
   <div>Средне</div>
-  <div><a href="/roles/baby-slime">Улыбкин</a><a href="/roles/baby-slime"><img src="/roles/baby-slime.gif" /></a></div>
+  <div><a href="/roles/baby-slime">Cмайл!</a><a href="/roles/baby-slime"><img src="/roles/baby-slime.gif" /></a></div>
   <div><div>Не перепутайте с обычным слаймом. Это питомец научного отдела, он не кусается.</div></div>
   <div>Легко</div>
   <div><a href="/roles/gondola">Гондола</a><a href="/roles/gondola"><img src="/roles/gondola.png" /></a></div>
   <div><div>Забавное создание, способное только наблюдать и иногда издавать забавные звуки.</div></div>
   <div>...</div>
-  <div><a href="/roles/laika">Лайка</a><a href="/roles/laika"><img src="/roles/secdog.gif" /></a></div>
-  <div><div>Собака, принадлежащая Главе Службы Безопасности. Это уличная порода, всегда готовая к драке. Она чувствует нарушение закона.</div></div>
-  <div>Легко</div>
+ 
