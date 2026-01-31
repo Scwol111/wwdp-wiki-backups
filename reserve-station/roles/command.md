@@ -2,7 +2,7 @@
 title: Командование - роли
 description: 
 published: true
-date: 2026-01-31T12:30:10.688Z
+date: 2026-01-31T12:30:37.170Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T17:46:43.292Z
@@ -17,7 +17,7 @@ dateCreated: 2025-12-23T17:46:43.292Z
   	<div>Описание</div>
   	<div>Сложность</div>
   </div>
-  <div><a href="/reserve-station/roles/captain">Капитан</a><a href="/roles/captain"><img src="/roles/captain.png" /></a></div>
+  <div><a href="/reserve-station/roles/captain">Капитан</a><a href="/reserve-station/roles/captain"><img src="/roles/captain.png" /></a></div>
   <div><div>Голова всей станции. Отдаёт какие-то там приказы, иногда они бывают дельными. Часто осознаёт, что у него украли ID. Нередко параноик и вооружён при любом коде.</div></div>
   <div>Сложно - Боль</div>
   <div><a href="/roles/headofpersonnel">Глава Персонала</a><a href="/roles/headofpersonnel"><img src="/roles/headofpersonnel.png" /></a></div>
