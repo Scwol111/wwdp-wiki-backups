@@ -2,7 +2,7 @@
 title: Научный отдел
 description: Что делает кнопка "открыть все клетки"?
 published: true
-date: 2026-01-31T13:15:16.740Z
+date: 2026-01-31T13:15:45.702Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-08T12:23:38.123Z
@@ -10,7 +10,7 @@ dateCreated: 2026-01-08T12:23:38.123Z
 
 <div class="roles-table rnd">
   <div class="title rnd-title">
-    <div class="link"><h2><a href="/roles/scientificdepartment" class="rnd-color">Научный отдел</a></h2></div>
+    <div class="link"><h2><a>Научный отдел</a></h2></div>
   	<div>Роль</div>
   	<div>Описание</div>
   	<div>Сложность</div>
