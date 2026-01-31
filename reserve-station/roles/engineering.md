@@ -2,7 +2,7 @@
 title: Инженерный Отдел
 description: 12 ЯДЕР, 12 ЯЯЯДЕР У ДАМа!
 published: true
-date: 2026-01-03T18:00:51.645Z
+date: 2026-01-31T13:21:37.284Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-03T17:59:49.131Z
@@ -10,7 +10,7 @@ dateCreated: 2026-01-03T17:59:49.131Z
 
 <div class="roles-table eng">
   <div class="title eng-title">
-    <div class="link"><h2><a href="/roles/engineeringdepartment" class="eng-color">Инженерный отдел</a></h2></div>
+    <div class="link"><h2><a class="eng-color">Инженерный отдел</a></h2></div>
   	<div>Роль</div>
   	<div>Описание</div>
   	<div>Сложность</div>
