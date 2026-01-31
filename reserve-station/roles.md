@@ -2,7 +2,7 @@
 title: Роли
 description: 
 published: true
-date: 2025-12-23T15:38:53.425Z
+date: 2026-01-31T12:20:52.196Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:35:46.903Z
@@ -42,7 +42,7 @@ dateCreated: 2025-12-23T15:35:46.903Z
 
   <a href="/reserve-station/roles/service" class="btn-card serv">
     <div class="btn-img-wrapper"><img src="" alt=""></div>
-    <div class="btn-title-box serv-title">Гражданские</div>
+    <div class="btn-title-box serv-title">Сервисный отдел</div>
   </a>
 
   <a href="/reserve-station/roles/central-command" class="btn-card ceco">
