@@ -2,7 +2,7 @@
 title: Научный отдел
 description: Что делает кнопка "открыть все клетки"?
 published: true
-date: 2026-01-31T13:15:45.702Z
+date: 2026-01-31T13:17:49.064Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-08T12:23:38.123Z
@@ -16,7 +16,9 @@ dateCreated: 2026-01-08T12:23:38.123Z
   	<div>Сложность</div>
   </div>
 
-
+ <div><a href="/reserve-station/roles/researchdirector">Научный руководитель</a><a href="/reserve-station/roles/researchdirector"><img src="/roles/researchdirector.png" /></a></div>
+	<div><div>Управляет, и работает в одном из самых важных, а также опасных отделов, а именно <a href="/reserve/station/roles/science">отделом исследований</a>! Обеспечивает контроль того, чтобы у всех было всё новенькое и продвинутое. Вооружает отдел оружием, инструментами, и всем остальным, а затем умирает из-за того, что научный ассистент ради шутки заварил его в ящике холодильника.</div></div>
+	<div>Средне, но со сложностями</div>
   <div><a href="/reserve-station/roles/scientist">Ученый</a><a href="/reserve-station/roles/scientist"><img src="/roles/scientist.png" /></a></div>
   <div><div>Исследует для станции новые технологии, строит теории и создает новые игрушки. По итогу собирает целый арсенал гранат с разной химией, а затем ещё в добавок стреляет всех из водомёта кислотой.</div></div> 
   <div>Средне</div>
