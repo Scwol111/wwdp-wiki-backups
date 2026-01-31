@@ -2,7 +2,7 @@
 title: Научный отдел
 description: Что делает кнопка "открыть все клетки"?
 published: true
-date: 2026-01-31T13:18:15.590Z
+date: 2026-01-31T13:23:17.931Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-08T12:23:38.123Z
@@ -29,3 +29,6 @@ dateCreated: 2026-01-08T12:23:38.123Z
 <!--<div><a href="/roles/roboticist">Робототехник</a><a href="/roles/roboticist"><img src="/roles/roboticist.png" /></a></div>
   <div><div>Захватывает власть своей армией киборгов, <a href="https://www.youtube.com/watch?v=C4cfo0f88Ug"> не забывая показывать им, кто в доме хозяин. </a></div></div>
   <div>Средне</div> -->
+
+
+<!-- edited by perlovka -->
