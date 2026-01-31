@@ -2,7 +2,7 @@
 title: Роли
 description: 
 published: true
-date: 2026-01-31T12:20:52.196Z
+date: 2026-01-31T12:21:12.143Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T15:35:46.903Z
@@ -17,7 +17,7 @@ dateCreated: 2025-12-23T15:35:46.903Z
 
   <a href="/reserve-station/roles/security" class="btn-card sb">
     <div class="btn-img-wrapper"><img src="" alt=""></div>
-    <div class="btn-title-box sb-title">Охрана</div>
+    <div class="btn-title-box sb-title">Отдел службы безопасности</div>
   </a>
 
   <a href="/reserve-station/roles/medical" class="btn-card med">
