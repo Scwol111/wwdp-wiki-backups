@@ -2,7 +2,7 @@
 title: Командование - роли
 description: 
 published: true
-date: 2026-01-31T12:50:13.289Z
+date: 2026-01-31T12:50:22.600Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T17:46:43.292Z
@@ -37,4 +37,4 @@ dateCreated: 2025-12-23T17:46:43.292Z
 	<div>Сложно</div>
   <div><a href="/reserve-station/roles/quartermaster">Квартирмейстер</a><a href="/reserve-station/roles/quartermaster"><img src="/roles/quartermaster.png" /></a></div>
   <div><div>Главный <a href="/reserve-station/roles/quartermaster">отдела снабжения</a>. Контролирует обеспечение станции всем необходимым. По итогу снабжает свой отдел чем вздумается(обычно огнестрельным оружием), и угоняет шаттл отдела снабжения, объявляя независимость "Каргонии".</div></div>
-	<div>Средне, но со сложностями</div>
+	<div>Средне</div>
