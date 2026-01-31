@@ -2,7 +2,7 @@
 title: Командование - роли
 description: 
 published: true
-date: 2026-01-31T12:34:18.184Z
+date: 2026-01-31T12:35:22.965Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T17:46:43.292Z
@@ -27,9 +27,9 @@ dateCreated: 2025-12-23T17:46:43.292Z
   <div><div><a href="/reserve-station/roles/security">Глава службы безопасности</a> на этой станции. Либо хороший, либо мёртвый. Другого не дано. Вы будите молиться, чтобы в случае чего пытал и допрашивал Вас не он. Уходит спать и никогда не просыпается. Плохо подавляет отдел снабжения от заполучения независимости.</div></div>
   <div>Достаточно сложно</div>
   <div><a href="/reserve-station/roles/chiefengineer">Старший Инженер</a><a href="/reserve-station/roles/chiefengineer"><img src="/roles/chiefengineer.png" /></a></div>
-  <div><div>Заведует <a href="/reserve-station/roles/engineering">отделом инженерии</a>. Строит шаттл, чтобы в случае чего свалить либо помешать получение независимости отделом снабжения, либо объявляет независимости инженерии. Имеет крутые инструменты, которыми не против завладеть почти любой. Кричит "ДА БУДЕТ СВЕТ!" и взрывает <a href="/guides/antimatterengine">ДАМ</a>. Умирает из-за <a href="/roles/atmospherictechnician">атмосферного инженера</a>, который открутил трубу с высоким давлением.</div></div>
+  <div><div>Заведует <a href="/reserve-station/roles/engineering">отделом инженерии</a>. Строит шаттл, чтобы в случае чего свалить либо помешать получение независимости отделом снабжения, либо объявляет независимости инженерии. Имеет крутые инструменты, которыми не против завладеть почти любой. Кричит "ДА БУДЕТ СВЕТ!" и взрывает <a href="/guides/antimatterengine">ДАМ</a>. Умирает из-за <a href="/reserve-station/roles/atmospherictechnician">атмосферного инженера</a>, который открутил трубу с высоким давлением.</div></div>
 	<div>Сложно</div>
-  <div><a href="/roles/researchdirector">Мистагог</a><a href="/roles/researchdirector"><img src="/roles/researchdirector.png" /></a></div>
+  <div><a href="/reserve-station/roles/researchdirector">Научный руководитель</a><a href="/reserve-station/roles/researchdirector"><img src="/roles/researchdirector.png" /></a></div>
 	<div><div>Руководит одним из самых важных, а также опасных отделов, а именно <a href="/roles#научный-отдел">отделом науки</a>! Обеспечивает контроль того, чтобы у всех было всё новенькое и продвинутое. Вооружает отдел оружием, гранатами, минами, защищает гермозатворами и всем остальным, что под руку попадётся, а затем варит наркотики и умирает из-за того, что научный ассистент ради шутки заварил его в ящике холодильника.</div></div>
 	<div>Средне, но со сложностями</div>
   <div><a href="/roles/chiefmedicalofficer">Главный Врач</a><a href="/roles/chiefmedicalofficer"><img src="/roles/chiefmedicalofficer.png" /></a></div>
