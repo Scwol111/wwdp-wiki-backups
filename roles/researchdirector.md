@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-04T23:25:22.774Z
+date: 2026-02-04T23:26:05.201Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -117,7 +117,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
 </tr>
 <tr>
 <td><img src="/guides/especiallyvaluableitems/machine_board.png" alt="machine_board.png" width="64" height="64"><br>Уникальные платы</td>
-<td>В эти платы входят: плата консоли исследований и плата загрузки законов ИИ, и сами законы.</td>
+<td>В их число входят: плата консоли исследований и плата загрузки законов ИИ, и сами законы.</td>
 </tr>
 <tr>
 <td><img src="/handteleporter.png" alt="hand_teleporter.gif" width="64" height="64"><br>Ручной телепортер</td>
