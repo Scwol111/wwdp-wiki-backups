@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-04T23:26:05.201Z
+date: 2026-02-04T23:27:21.059Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -117,11 +117,11 @@ dateCreated: 2024-09-25T18:07:39.208Z
 </tr>
 <tr>
 <td><img src="/guides/especiallyvaluableitems/machine_board.png" alt="machine_board.png" width="64" height="64"><br>Уникальные платы</td>
-<td>В их число входят: плата консоли исследований и плата загрузки законов ИИ, и сами законы.</td>
+<td>В их число входят: плата консоли исследований и плата загрузки законов ИИ. </td>
 </tr>
 <tr>
 <td><img src="/handteleporter.png" alt="hand_teleporter.gif" width="64" height="64"><br>Ручной телепортер</td>
-<td>Ручной телепортер, позволяет создавать порталы.</td>
+<td>Ручной телепортер НРа, позволяющий создавать порталы в пределах станции.</td>
 </tr>
 <tr>
 <td></td>
