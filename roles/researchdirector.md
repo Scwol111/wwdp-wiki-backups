@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-03T11:53:36.150Z
+date: 2026-02-04T11:51:44.241Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -21,7 +21,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
       <div><div><img src="/roles/researchdirector.png" id="img"></div></div>
       <div>
         <div id="tb1" style="display:non">
-          <h1>Мистагог</h1>
+          <h1>Научный руководитель/Мистагог</h1>
         <p><strong>Сложность:</strong> Средняя</p>
         <strong>Обязанности:</strong> Следить за работой отдела, а также за выполнением их задач.<br>
         <b>Руководители</b>: <a href="/roles/captain" title="Капитан">Капитан</a><br>
@@ -96,10 +96,10 @@ dateCreated: 2024-09-25T18:07:39.208Z
 </tr>
 <tr>
 <td><img src="/doorremoteresearch.png" alt="ПультУправленияШлюзами" width="64" height="64"><br>Пульт управления</td>
-<td>Открывает, закрывает, болтирует и ставит на аварийку двери научного отдела.</td>
+<td>Открывает, закрывает, болтирует и ставит на аварийный доступ двери научного отдела.</td>
 </tr>
 <tr>
-<td><img src="/rubberstamprd.png" alt="штампрд.png" width="64" height="64"><br>Уникальный штамп</td>
+<td><img src="/rubberstamprd.png" alt="штампрд.png" width="64" height="64"><br>Печать НР'а</td>
 <td>Ваш уникальный штамп научного руководителя. Чертов Бюрократ!</td>
 </tr>
 <tr>
