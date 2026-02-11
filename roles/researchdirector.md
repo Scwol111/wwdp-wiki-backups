@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-06T20:27:30.078Z
+date: 2026-02-11T15:01:29.890Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -67,15 +67,14 @@ dateCreated: 2024-09-25T18:07:39.208Z
   <thead>
     <tr>
       <th><center>Часто используемые ресурсы:</center></th>
-      <th></th>
+      <th></th><th></th><th></th><th></th><th></th><th></th><th></th>
         </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Сталь, стекло, пластик, плазма, серебро, золото, уран, дерево.</td>
+       <td>сталь</td><td>стекло</td><td>пластик</td><td>плазма</td><td>серебро</td><td>золото</td><td>уран</td><td>дерево</td>
         </tr>
     </tbody>
-  <tfoot>
 </table></center>
 
 Их можно достать и перерабатывая отходы в мусоропроводе, не забывайте об этом!
