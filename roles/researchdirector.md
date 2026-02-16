@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-16T07:08:12.014Z
+date: 2026-02-16T07:14:44.822Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -71,7 +71,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
   </thead>
   <tbody>
     <tr>
-       <td><img src="/guides/rd_and_something/steel.png" width="64" height="64"> <center>сталь<center></td> <td>стекло</td><td>пластик</td><td>плазма</td><td>серебро</td><td>золото</td><td>уран</td><td>дерево</td>
+       <td><img src="/guides/rd_and_something/steel.png" width="64" height="64"> <center>сталь<center></td> <td><img src="/guides/rd_and_something/glass.png" width="64" height="64"> <center>стекло<center></td><td>пластик</td><td>плазма</td><td>серебро</td><td>золото</td><td>уран</td><td>дерево</td>
         </tr>
     </tbody>
 </table></center>
