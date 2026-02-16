@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-11T15:01:29.890Z
+date: 2026-02-16T07:08:12.014Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -66,17 +66,18 @@ dateCreated: 2024-09-25T18:07:39.208Z
 <center><table>
   <thead>
     <tr>
-      <th><center>Часто используемые ресурсы:</center></th>
-      <th></th><th></th><th></th><th></th><th></th><th></th><th></th>
+      <th colspan=8 >Часто используемые ресурсы:</th>
         </tr>
   </thead>
   <tbody>
     <tr>
-       <td>сталь</td><td>стекло</td><td>пластик</td><td>плазма</td><td>серебро</td><td>золото</td><td>уран</td><td>дерево</td>
+       <td><img src="/guides/rd_and_something/steel.png" width="64" height="64"> <center>сталь<center></td> <td>стекло</td><td>пластик</td><td>плазма</td><td>серебро</td><td>золото</td><td>уран</td><td>дерево</td>
         </tr>
     </tbody>
 </table></center>
 
+
+<!-- <td> -->
 Их можно достать и перерабатывая отходы в мусоропроводе, не забывайте об этом!
 
 *Будет неплохо, если вы, или назначенный вами учёный или инженер заменит ваши автолаты, протолаты и прочее на их улучшенную версию. Вы будете тратить в два раза меньше ресурсов!*
