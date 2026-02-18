@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-18T20:41:53.173Z
+date: 2026-02-18T20:42:19.844Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -112,7 +112,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
 </tr>
 <tr>
 <td><img src="/armor/rdspacesuit.png" href=/guides/rndinventory alt="Скафандр мистигога" width="64" height="64"><a href=/guides/rndinventory><br>NT-45e - "София" </a></td>
-<td>Особый скафандр мистагога, имеет отличную защиту от кислотного, взрывного, радиационного, и теплового урона, и малость защищает от физического ущерба.</td>
+<td>Особый скафандр мистагога, имеет отличную защиту от кислотного, взрывного, радиационного, и теплового урона, и небольшую от физического ущерба.</td>
 </tr>
 <tr>
 <td><img src="/doorremoteresearch.png" alt="ПультУправленияШлюзами" width="64" height="64"><br>Пульт управления</td>
