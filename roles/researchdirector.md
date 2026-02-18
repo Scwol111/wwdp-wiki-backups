@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-18T20:58:33.517Z
+date: 2026-02-18T20:59:02.026Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -132,10 +132,10 @@ dateCreated: 2024-09-25T18:07:39.208Z
 </tr>
 <tr>
   <td><img src="/guides/rd_and_something/radiationbag.png" width="64" height="64" img><center>Радиационные мешки для трупов</center></td>
-<td>123</td>
+<td>В разработке.</td>
 </tr>
-<td>123</td>
-<td>123</td>
+<td>Очки псионика</td>
+<td>В разработке</td>
 </table></center>
 
 <!-- Помимо этого, у вас есть радиационные мешки для трупов, очки псионика, картридж пси-отслеживания. -->
