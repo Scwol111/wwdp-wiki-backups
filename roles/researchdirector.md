@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-18T20:30:10.236Z
+date: 2026-02-18T20:36:59.167Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -71,7 +71,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
   </thead>
   <tbody>
     <tr>
-       <td><img src="/guides/rd_and_something/steel.png" width="64" height="64"> <center>сталь<center></td> <td><img src="/guides/rd_and_something/glass.png" width="64" height="64"> <center>стекло</center></td><td><img src="/guides/rd_and_something/plastic.png" width="64" height="64"> <center>пластик</center></td><td><img src="/guides/rd_and_something/plasma_3.png" width="64" height="64"> <center>плазма</center></td><td><img src="/guides/rd_and_something/silver_3.png" width="64" height="64"> <center>cеребро</center></td><td><img src="/guides/rd_and_something/gold_3.png" width="64" height="64"> <center>золото</center></td><td><img src="/guides/rd_and_something/uranium_3.png" width="64" height="64"> <center>уран</center></td><td><img src="/guides/rd_and_something/wood_3.png" width="64" height="64"> <center>дерево</center></td>
+       <td><img src="/guides/rd_and_something/steel_3.png" width="64" height="64"> <center>сталь<center></td> <td><img src="/guides/rd_and_something/glass_3.png" width="64" height="64"> <center>стекло</center></td><td><img src="/guides/rd_and_something/plastic_3.png" width="64" height="64"> <center>пластик</center></td><td><img src="/guides/rd_and_something/plasma_3.png" width="64" height="64"> <center>плазма</center></td><td><img src="/guides/rd_and_something/silver_3.png" width="64" height="64"> <center>cеребро</center></td><td><img src="/guides/rd_and_something/gold_3.png" width="64" height="64"> <center>золото</center></td><td><img src="/guides/rd_and_something/uranium_3.png" width="64" height="64"> <center>уран</center></td><td><img src="/guides/rd_and_something/wood_3.png" width="64" height="64"> <center>дерево</center></td>
         </tr>
     </tbody>
 </table></center>
