@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-18T20:45:55.391Z
+date: 2026-02-18T20:47:38.133Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -131,7 +131,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
 <td>Ручной телепортер НРа, позволяющий создавать порталы в пределах станции.</td>
 </tr>
 <tr>
-<td>123</td>
+  <td><img src="/guides/rd_and_something/.png" width="64" height="64" img><center>Радиационные мешки для трупов</center></td>
 <td>123</td>
 </tr>
 <td>123</td>
