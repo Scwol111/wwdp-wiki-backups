@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-18T20:36:59.167Z
+date: 2026-02-18T20:37:17.879Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
