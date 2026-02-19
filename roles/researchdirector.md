@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-19T13:58:20.073Z
+date: 2026-02-19T14:09:38.070Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -131,7 +131,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
 <td>Ручной телепортер НРа, позволяющий создавать порталы в пределах станции.</td>
 </tr>
 <tr>
-<td><img src="/guides/rd_and_something/radiationbag.png" width="64" height="64" img><center>Радиационные мешки для трупов</center></td>
+<td><img src="/guides/rd_and_something/bodybag320.gif" width="64" height="64" img><center>Радиационные мешки для трупов</center></td>
 <td>В разработке.</td>
 </tr>
 <td><img src="/guides/rd_and_something/psionic_goggles.png" width="64" height="64" img><center>Очки псионика</center></td>
