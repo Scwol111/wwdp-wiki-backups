@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-19T15:16:31.410Z
+date: 2026-02-19T15:18:23.249Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -134,8 +134,12 @@ dateCreated: 2024-09-25T18:07:39.208Z
 <td><img src="/guides/rd_and_something/bodybag32.gif" width="64" height="64" img><center>Радиационные мешки для трупов</center></td>
 <td>Мешки, позволяющие транспортировать облученные трупы без вреда для окружающих. Замедляет гниение</td>
 </tr>
+<tr>
 <td><img src="/guides/rd_and_something/psionic_goggles.png" width="64" height="64" img><center>Очки псионика</center></td>
 <td>Отображают уровень псионического отслеживания, установленного в реестре псиоников</td>
+</tr>
+<tr>
+<td>
 </table></center>
 
 <!-- Помимо этого, у вас есть радиационные мешки для трупов, очки псионика, картридж пси-отслеживания. -->
