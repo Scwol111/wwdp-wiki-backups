@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-22T13:05:48.348Z
+date: 2026-02-22T13:06:58.402Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -139,8 +139,8 @@ dateCreated: 2024-09-25T18:07:39.208Z
 <td>Отображают уровень псионического отслеживания, установленного в реестре псиоников</td>
 </tr>
 <tr>
-<td><img src="/guides/rd_and_something/psionic_goggles.png" width="64" height="64" img>
-Картридж пси-отслеживания
+<td><img src="/guides/rd_and_something/cart-psi.png" width="64" height="64" img><center>
+  Картридж пси-отслеживания</center>
   </td>
 <td>
 123
