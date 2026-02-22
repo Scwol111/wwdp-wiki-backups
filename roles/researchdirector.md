@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-22T13:06:58.402Z
+date: 2026-02-22T13:07:28.243Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -143,7 +143,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
   Картридж пси-отслеживания</center>
   </td>
 <td>
-123
+Позволяет просматривать реестр псиоников в ПДА
   </td>
   </tr>
 </table></center>
