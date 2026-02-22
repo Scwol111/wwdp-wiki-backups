@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-19T17:05:33.429Z
+date: 2026-02-22T13:05:48.348Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -21,7 +21,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
       <div><div><img src="/roles/researchdirector.png" id="img"></div></div>
       <div>
         <div id="tb1" style="display:non">
-          <h1>Научный руководитель/Мистагог</h1>
+          <h1>Мистагог</h1>
         <p><strong>Сложность:</strong> Средняя</p>
         <strong>Обязанности:</strong> Следить за работой отдела исследований, а также за выполнением их задач.<br>
         <b>Руководители</b>: <a href="/roles/captain" title="Капитан">Капитан</a><br>
@@ -139,11 +139,11 @@ dateCreated: 2024-09-25T18:07:39.208Z
 <td>Отображают уровень псионического отслеживания, установленного в реестре псиоников</td>
 </tr>
 <tr>
-<td><img src="/guides/rd_and_something/cart-psi.png" width="64" height="64" img><center>
-  Картридж пси-отслеживания</center>
+<td><img src="/guides/rd_and_something/psionic_goggles.png" width="64" height="64" img>
+Картридж пси-отслеживания
   </td>
 <td>
-Позволяет открыть реестр псиоников с состояниями, без возможности редактирования списка.
+123
   </td>
   </tr>
 </table></center>
