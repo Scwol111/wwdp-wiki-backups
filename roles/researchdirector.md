@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-26T14:53:27.177Z
+date: 2026-02-26T14:54:12.477Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -98,7 +98,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
 
 
 
-## <center> Ваше снаряжение </center>
+## <center> Снаряжение мистагога </center>
 <center>
 <table class="rnd1">
 <thead>
