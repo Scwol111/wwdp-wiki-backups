@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-22T13:09:22.625Z
+date: 2026-02-26T14:53:27.177Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -59,7 +59,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
 
 
 
-<center>Снабжайте отдел!</center>
+<center>Снабжение</center>
 ---
 Запрашивайте ресурсы на нужды отдела изучения в карго:
 
