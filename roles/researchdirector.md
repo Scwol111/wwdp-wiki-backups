@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-03-01T15:06:32.578Z
+date: 2026-03-01T15:06:50.448Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -61,7 +61,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
 
 <center>Снабжение отдела</center>
 ---
-Запрашивайте ресурсы на нужды отдела изучения в карго:
+Запрашивайте ресурсы на нужды отдела изучения в [карго](/ru/reserve-station/roles/cargo):
 
 <center><table>
   <thead>
