@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-03-01T15:07:18.237Z
+date: 2026-03-01T15:08:08.566Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -61,7 +61,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
 
 <center>Снабжение отдела</center>
 ---
-Запрашивайте ресурсы на нужды отдела изучения в [карго](/guides/cargo):
+Запрашивайте ресурсы на нужды отдела изучения в [карго](/guides/listofproducts#ao1):
 
 <center><table>
   <thead>
