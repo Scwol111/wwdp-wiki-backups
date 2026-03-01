@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-02-26T14:56:00.128Z
+date: 2026-03-01T14:34:46.511Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -177,7 +177,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
 </center>
 Это лишь малая часть доступных вам сначала навыков.
 
-Подробнее о Псионике можно узнать [тут](/guides/psionics)
+Подробнее о Псионике на [этой странице](/guides/psionics)
 
 
 
