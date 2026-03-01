@@ -2,7 +2,7 @@
 title: Мистагог
 description: 
 published: true
-date: 2026-03-01T15:16:17.067Z
+date: 2026-03-01T15:19:37.844Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-25T18:07:39.208Z
@@ -112,7 +112,7 @@ dateCreated: 2024-09-25T18:07:39.208Z
 <td>Запасная ID карта с доступами мистагога.</td>
 </tr>
 <tr>
-<td><a href=/guides/rndinventory><img src="/armor/rdspacesuit.png" href=/guides/rndinventory alt="Скафандр мистигога" width="64" height="64"><a href=/guides/rndinventory><br>NT-45e - "София" </a></td>
+<td><a href=/guides/rndinventory#a11><img src="/armor/rdspacesuit.png" href=/guides/rndinventory alt="Скафандр мистигога" width="64" height="64"><a href=/guides/rndinventory><br>NT-45e - "София" </a></td>
 <td>Особый скафандр мистагога, имеет отличную защиту от кислотного, взрывного, радиационного, и теплового урона, и небольшую от физического ущерба.</td>
 </tr>
 <tr>
