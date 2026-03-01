@@ -2,7 +2,7 @@
 title: Научный инвентарь 
 description: Научный инвентарь РНД, содержит самые разные вещи со всего отдела.
 published: true
-date: 2025-04-11T10:49:12.386Z
+date: 2026-03-01T15:18:44.115Z
 tags: инвентарь, научный отдел, рнд, руководство, снаряжение
 editor: markdown
 dateCreated: 2025-01-22T16:20:03.975Z
@@ -399,7 +399,7 @@ rdhead.png"></td>
       <td>- Часть скафандра научного руководителя</td>
     </tr>
     <tr>
-      <td><strong>Скафандр научного руководителя</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/rdsuit.png"></td>
+      <div id="a11"><td><strong>Скафандр научного руководителя</strong><p><img height="100px" class="big" width="100px" src="/guides/science/equipment/rdsuit.png"></td></div>
       <td>40%</td>
       <td>20%</td>
       <td>10%</td>
