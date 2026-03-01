@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2026-03-01T15:09:31.938Z
+date: 2026-03-01T15:12:04.072Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -1542,7 +1542,7 @@ weapon.png" alt="secure_weapon_case.png" />
     </div>
     <div>
       <img src="/guides/supply/listofproduct_2/other/material/crate.png" alt="crate.png" />
-      <div id="ao1"><p>Ящик листов стали</p></div>
+      <p>Ящик листов стали</p>
     </div>
     <div>
       <p>1000$</p>
