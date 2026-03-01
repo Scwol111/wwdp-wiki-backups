@@ -2,7 +2,7 @@
 title: Список товаров
 description: 
 published: true
-date: 2026-03-01T15:12:04.072Z
+date: 2026-03-01T15:12:28.072Z
 tags: карго, руководство
 editor: markdown
 dateCreated: 2024-09-29T18:20:06.170Z
@@ -22,7 +22,7 @@ dateCreated: 2024-09-29T18:20:06.170Z
   <button id="buttonfun">Веселье</button>
   <button id="buttonhydro">Гидропоника</button>
   <button id="buttonanimals">Животные</button>
-  <button id="buttonmaterials">Материалы</button>
+  <button id="buttonmaterials"><div id="a01">Материалы</div></button>
   <button id="buttonsecurity">Охрана</button>
   <button id="buttonshuttle">Шаттл</button>
   <button id="buttonmed">Медицина</button>
