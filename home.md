@@ -2,7 +2,7 @@
 title: Главная
 description: Главная страница. Вики SS14, СС14, Космическая станция 14, космическая ебанина 14, ВД, Вайт Дрим, WD, White Dream, WWDP, ВВДП.
 published: true
-date: 2025-12-30T12:02:02.017Z
+date: 2026-04-11T17:12:53.883Z
 tags: 
 editor: markdown
 dateCreated: 2024-09-10T19:12:06.984Z
@@ -127,14 +127,6 @@ dateCreated: 2024-09-10T19:12:06.984Z
     <div>🌠Selena</div>
     <div class="server-ip-wrapper">
       <span class="ip-text">ss14s://ss14.wwdp.ee/selena</span>
-      <span class="opov-copy">Скопировано</span>
-    </div>
-  </div>
-  <!-- Reserve -->
-  <div class="servermenu server-btn is-external-link-r">
-    <div>🍀Reserve</div>
-    <div class="server-ip-wrapper">
-      <span class="ip-text">reserve-station.space</span>
       <span class="opov-copy">Скопировано</span>
     </div>
   </div>
