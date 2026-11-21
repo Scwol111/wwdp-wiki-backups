@@ -1,8 +1,8 @@
 ---
 title: Космический закон
 description: 
-published: true
-date: 2025-12-23T17:30:02.572Z
+published: false
+date: 2026-11-21T14:29:08.356Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-23T17:29:25.878Z
