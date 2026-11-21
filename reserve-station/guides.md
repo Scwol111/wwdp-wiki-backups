@@ -1,8 +1,8 @@
 ---
 title: Руководство
 description: 
-published: true
-date: 2026-01-08T22:12:58.501Z
+published: false
+date: 2026-11-21T14:29:52.787Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-08T22:12:08.921Z
